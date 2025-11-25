@@ -1,12 +1,11 @@
+import os
 import requests
 from bs4 import BeautifulSoup
 from datetime import datetime
 from dateutil import parser as dateparser
 import pandas as pd
-import os
 
 PREVIEW_URL = "http://preview.hoopshype.com/rumors/tag/trade"
-AUTH = ("preview", "hhpreview")
 
 
 def slugify(name: str) -> str:
@@ -15,8 +14,7 @@ def slugify(name: str) -> str:
 
 def load_player_whitelist(path="nba_players.txt"):
     """
-    Load a list of valid NBA players from a text file.
-    One name per line. Comparison is case-insensitive.
+    Load NBA players (one name per line, case-insensitive).
     """
     if not os.path.exists(path):
         print(f"WARNING: {path} not found. All tags will be included.")
@@ -35,10 +33,19 @@ def load_player_whitelist(path="nba_players.txt"):
 
 
 def scrape():
+    # Read preview credentials from environment (GitHub secrets will provide these)
+    user = os.getenv("HH_PREVIEW_USER")
+    pw = os.getenv("HH_PREVIEW_PASS")
+    if not user or not pw:
+        raise RuntimeError("HH_PREVIEW_USER or HH_PREVIEW_PASS not set")
+
+    auth = (user, pw)
+
     # Load whitelist of players
     player_whitelist = load_player_whitelist("nba_players.txt")
 
-    resp = requests.get(PREVIEW_URL, auth=AUTH, timeout=15)
+    # Fetch preview page with authentication
+    resp = requests.get(PREVIEW_URL, auth=auth, timeout=15)
     print("Status code:", resp.status_code)
     resp.raise_for_status()
 
