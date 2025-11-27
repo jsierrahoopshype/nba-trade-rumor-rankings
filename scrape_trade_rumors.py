@@ -2,7 +2,7 @@ import csv
 import os
 import re
 from datetime import datetime, timedelta, date
-from typing import List, Dict
+from typing import List, Dict, Tuple
 
 import requests
 from bs4 import BeautifulSoup
@@ -33,7 +33,7 @@ def parse_date_from_holder(text: str) -> date:
     """
     Example holder text:
       'November 19, 2025 Updates'
-    We strip ' Updates' and parse.
+    We strip 'Updates' and parse.
     """
     text = text.strip()
     text = text.replace("Updates", "").strip()
@@ -86,11 +86,11 @@ def extract_article_url(rumor_div) -> str:
     return first_link["href"] if first_link else ""
 
 
-def scrape_page(page: int, auth, cutoff_date: date) -> (List[Dict], bool):
+def scrape_page(page: int, auth, cutoff_date: date) -> Tuple[List[Dict], bool]:
     """
     Scrape a single page.
     Returns (rows, should_stop) where should_stop == True
-    means 'we hit dates older than cutoff, stop pagination'.
+    means 'this page was entirely older than cutoff_date, so stop pagination'.
     """
     if page == 1:
         url = BASE_URL
@@ -103,64 +103,75 @@ def scrape_page(page: int, auth, cutoff_date: date) -> (List[Dict], bool):
 
     soup = BeautifulSoup(resp.text, "html.parser")
 
-    # Each date section is wrapped in something like:
-    #   <div class="date-holder" id="g-b1">November 19, 2025 Updates</div>
+    # All date-holders on the page
     date_holders = soup.select("div.date-holder")
     if not date_holders:
         print("No date-holders found on this page.")
-        return [], True
+        return [], True  # likely no more content
 
-    all_rows: List[Dict] = []
-    should_stop = False
+    # All rumor blocks
+    rumor_divs = soup.select("div.rumor")
+    if not rumor_divs:
+        print("No div.rumor blocks found on this page.")
+        return [], False  # maybe structure changed, but don't stop pagination yet
 
-    for holder in date_holders:
-        date_text = holder.get_text(strip=True)
-        rumor_date = parse_date_from_holder(date_text)
+    rows: List[Dict] = []
+    saw_recent = False  # track if we saw anything >= cutoff_date
 
-        # If this date is older than our window, stop everything.
-        if rumor_date < cutoff_date:
-            print(f"Hit older date {rumor_date}, stopping pagination.")
-            should_stop = True
-            break
-
-        # The rumors for this date are in a sibling div with class="rumors"
-        rumors_container = holder.find_next_sibling("div", class_="rumors")
-        if not rumors_container:
+    for r in rumor_divs:
+        # Find the closest previous date-holder in the DOM
+        dh = r.find_previous("div", class_="date-holder")
+        if dh is None:
             continue
 
-        rumor_divs = rumors_container.select("div.rumor")
-        for r in rumor_divs:
-            p = r.find("p", class_="rumortext")
-            if not p:
-                continue
+        date_text = dh.get_text(strip=True)
+        try:
+            rumor_date = parse_date_from_holder(date_text)
+        except Exception as e:  # noqa: BLE001
+            print(f"Could not parse date from '{date_text}': {e}")
+            continue
 
-            snippet_html = clean_snippet_html(p)
-            article_url = extract_article_url(r)
+        if rumor_date < cutoff_date:
+            # Older than our window. Skip this rumor, but we don't
+            # immediately stop the page; we check all rumors first.
+            continue
+        else:
+            saw_recent = True
 
-            # Tags container
-            tag_div = r.find("div", class_="tag")
-            if not tag_div:
-                continue
+        # Rumor snippet
+        p = r.find("p", class_="rumortext")
+        if not p:
+            continue
 
-            player_links = [
-                a for a in tag_div.find_all("a", href=True) if is_player_tag_link(a)
-            ]
-            if not player_links:
-                continue
+        snippet_html = clean_snippet_html(p)
+        article_url = extract_article_url(r)
 
-            for a in player_links:
-                pl = extract_player_from_tag_link(a)
-                all_rows.append(
-                    {
-                        "player": pl["player"],
-                        "slug": pl["slug"],
-                        "date": rumor_date.isoformat(),
-                        "title": snippet_html,
-                        "url": article_url,
-                    }
-                )
+        # Tags container
+        tag_div = r.find("div", class_="tag")
+        if not tag_div:
+            continue
 
-    return all_rows, should_stop
+        player_links = [
+            a for a in tag_div.find_all("a", href=True) if is_player_tag_link(a)
+        ]
+        if not player_links:
+            continue
+
+        for a in player_links:
+            pl = extract_player_from_tag_link(a)
+            rows.append(
+                {
+                    "player": pl["player"],
+                    "slug": pl["slug"],
+                    "date": rumor_date.isoformat(),
+                    "title": snippet_html,
+                    "url": article_url,
+                }
+            )
+
+    # If the whole page had only old rumors (< cutoff_date), we can stop.
+    should_stop = not saw_recent
+    return rows, should_stop
 
 
 def scrape():
@@ -176,6 +187,7 @@ def scrape():
         all_rows.extend(rows)
         print(f"Page {page}: collected {len(rows)} rows.")
         if stop:
+            print("This page had no recent rumors; stopping pagination.")
             break
         page += 1
         if page > 40:
