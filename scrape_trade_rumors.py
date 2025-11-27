@@ -1,201 +1,178 @@
 import csv
 import os
-import re
 from datetime import datetime, timedelta
-from pathlib import Path
-from typing import List, Dict, Tuple
+from urllib.parse import urljoin
 
 import requests
 from bs4 import BeautifulSoup
-from requests.auth import HTTPBasicAuth
-from urllib.parse import urljoin
 
 BASE_URL = "http://preview.hoopshype.com/rumors/tag/trade"
-DAYS_BACK = 28
-MAX_PAGES = 10  # safety limit so we don't crawl forever
+AUTH_USER = os.environ.get("HH_PREVIEW_USER")
+AUTH_PASS = os.environ.get("HH_PREVIEW_PASS")
+
+WINDOW_DAYS = 28
+MAX_PAGES = 200  # just a safety cap
 
 
-def slugify(name: str) -> str:
-    """Convert 'LaMelo Ball' -> 'lamelo-ball'."""
-    name = name.strip().lower()
-    name = re.sub(r"[^a-z0-9]+", "-", name)
-    return name.strip("-")
+def load_players(path="nba_players.txt"):
+    players = set()
+    if not os.path.exists(path):
+        print(f"Warning: {path} not found, player filtering will be very loose.")
+        return players
 
-
-def load_players(path: str = "nba_players.txt") -> List[str]:
-    """Load the list of NBA player names from the text file."""
-    p = Path(path)
-    if not p.exists():
-        raise FileNotFoundError(f"{path} not found")
-
-    players: List[str] = []
-    with p.open("r", encoding="utf-8") as f:
+    with open(path, encoding="utf-8") as f:
         for line in f:
-            line = line.strip()
-            if line:
-                players.append(line)
+            name = line.strip()
+            if name:
+                players.add(name.lower())
+    print(f"Loaded {len(players)} players from {path}")
     return players
 
 
-def fetch_page(session: requests.Session, auth: HTTPBasicAuth, page: int) -> str:
-    """Download a rumors page, returning its HTML."""
-    if page == 1:
-        url = BASE_URL
-    else:
-        url = f"{BASE_URL}?page={page}"
-
-    resp = session.get(url, auth=auth, timeout=30)
-    resp.raise_for_status()
-    return resp.text
+def is_player_name(text: str, player_set) -> bool:
+    if not player_set:
+        # If we don't have a list, allow everything
+        return True
+    return text.lower() in player_set
 
 
-def parse_page(
-    html: str,
-    player_set_norm: set,
-    cutoff_date: datetime,
-) -> Tuple[List[Dict], bool]:
+def parse_date_text(date_text: str) -> datetime:
     """
-    Parse one page of HTML.
-
-    Returns:
-      rows: list of dicts {player, slug, date, title, url}
-      reached_cutoff: True if we saw dates older than cutoff_date
+    Examples of date headers:
+    - "November 19, 2025 Updates"
+    We'll parse the "Month DD, YYYY" part.
     """
-    soup = BeautifulSoup(html, "html.parser")
-    rows: List[Dict] = []
-    reached_cutoff = False
-
-    # Each date section is wrapped in div.date-holder, followed by div.rumors
-    for date_holder in soup.select("div.date-holder"):
-        date_text = date_holder.get_text(" ", strip=True)
-        # Example: "November 19, 2025 Updates"
-        date_text = date_text.replace("Updates", "").strip()
-        try:
-            dt = datetime.strptime(date_text, "%B %d, %Y")
-        except ValueError:
-            # If we can't parse, skip this date section
-            continue
-
-        if dt < cutoff_date:
-            # This date (and anything after it on later pages) is too old
-            reached_cutoff = True
-            continue
-
-        rumors_block = date_holder.find_next_sibling("div", class_="rumors")
-        if not rumors_block:
-            continue
-
-        for rumor_div in rumors_block.select("div.rumor"):
-            # Rumor text (full paragraph)
-            p = rumor_div.find("p", class_="rumortext")
-            if not p:
-                continue
-            title = p.get_text(" ", strip=True)
-
-            # Link to original article / tweet (quote or rumormedia)
-            link_tag = rumor_div.find("a", class_="quote") or rumor_div.find(
-                "a", class_="rumormedia"
-            )
-            if link_tag and link_tag.get("href"):
-                url = urljoin(BASE_URL, link_tag["href"])
-            else:
-                url = BASE_URL
-
-            # Tags: players, teams, etc.
-            tag_block = rumor_div.find("div", class_="tag")
-            if not tag_block:
-                continue
-
-            for a in tag_block.find_all("a"):
-                tag_name = a.get_text(strip=True)
-                if not tag_name:
-                    continue
-
-                # Normalize tag text for comparison with players
-                norm = tag_name.strip().lower()
-                if norm not in player_set_norm:
-                    continue  # skip non-player tags
-
-                player_name = tag_name
-                slug = slugify(player_name)
-
-                rows.append(
-                    {
-                        "player": player_name,
-                        "slug": slug,
-                        "date": dt.isoformat(),
-                        "title": title,
-                        "url": url,
-                    }
-                )
-
-    return rows, reached_cutoff
+    # Take the first 3 tokens, e.g. "November 19, 2025"
+    parts = date_text.strip().split()
+    date_str = " ".join(parts[:3])
+    return datetime.strptime(date_str, "%B %d, %Y")
 
 
-def scrape() -> List[Dict]:
-    """Scrape up to DAYS_BACK of trade rumors across multiple pages."""
-    preview_user = os.getenv("HH_PREVIEW_USER")
-    preview_pass = os.getenv("HH_PREVIEW_PASS")
-
-    if not preview_user or not preview_pass:
-        raise RuntimeError(
-            "HH_PREVIEW_USER / HH_PREVIEW_PASS environment variables are required."
-        )
+def scrape():
+    session = requests.Session()
+    session.auth = (AUTH_USER, AUTH_PASS)
 
     players = load_players()
-    # Use a normalized set for comparison (lowercase)
-    player_set_norm = {p.strip().lower() for p in players}
+    today = datetime.utcnow()
 
-    cutoff_date = datetime.utcnow() - timedelta(days=DAYS_BACK)
+    rows = []
+    total_rumors = 0
 
-    session = requests.Session()
-    auth = HTTPBasicAuth(preview_user, preview_pass)
+    url = BASE_URL
+    pages = 0
 
-    all_rows: List[Dict] = []
-    reached_cutoff_any = False
-
-    for page in range(1, MAX_PAGES + 1):
-        print(f"Fetching page {page}...")
-        html = fetch_page(session, auth, page)
-        page_rows, reached_cutoff = parse_page(html, player_set_norm, cutoff_date)
-        print(f"  Found {len(page_rows)} player-tagged rumors on this page.")
-        all_rows.extend(page_rows)
-
-        if reached_cutoff:
-            reached_cutoff_any = True
-            print("  Reached cutoff date; stopping pagination.")
+    while url and pages < MAX_PAGES:
+        pages += 1
+        print(f"Fetching page: {url}")
+        resp = session.get(url)
+        print("Status code:", resp.status_code)
+        if resp.status_code != 200:
             break
 
-    if not reached_cutoff_any:
-        print(
-            f"Warning: did not reach cutoff date after {MAX_PAGES} pages; "
-            f"you may want to increase MAX_PAGES."
-        )
+        soup = BeautifulSoup(resp.text, "html.parser")
 
-    # Deduplicate by (player, slug, date, title, url)
-    seen = set()
-    deduped: List[Dict] = []
-    for row in all_rows:
-        key = (row["player"], row["slug"], row["date"], row["title"], row["url"])
-        if key in seen:
-            continue
-        seen.add(key)
-        deduped.append(row)
+        content_div = soup.find("div", id="content")
+        if not content_div:
+            break
 
-    print(f"Total rows after deduplication: {len(deduped)}")
-    return deduped
+        date_holders = content_div.select("div.date-holder")
+        print(f"Found {len(date_holders)} date-holder blocks")
 
+        stop_due_to_age = False
 
-def write_csv(rows: List[Dict], path: str = "trade_rumors.csv") -> None:
-    fieldnames = ["player", "slug", "date", "title", "url"]
-    with open(path, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=fieldnames)
-        writer.writeheader()
-        for row in rows:
-            writer.writerow(row)
-    print(f"Wrote {len(rows)} rows to {path}")
+        for holder in date_holders:
+            date_text = holder.get_text(strip=True)
+            try:
+                rumor_date = parse_date_text(date_text)
+            except Exception as e:
+                print("Could not parse date:", date_text, "error:", e)
+                continue
+
+            days_ago = (today - rumor_date).days
+            if days_ago > WINDOW_DAYS:
+                stop_due_to_age = True
+                continue
+
+            rumors_container = holder.find_next_sibling("div", class_="rumors")
+            if not rumors_container:
+                continue
+
+            rumor_divs = rumors_container.select("div.rumor")
+            print(f"Date {date_text}: {len(rumor_divs)} rumor blocks")
+
+            for rumor_div in rumor_divs:
+                total_rumors += 1
+
+                # Main text block
+                p = rumor_div.find("p", class_="rumortext")
+                if not p:
+                    continue
+
+                # IMPORTANT: keep HTML, including <strong> for highlighted part
+                title_html = p.decode_contents().replace("\n", " ").strip()
+
+                # Link to external article (quote or media)
+                link = rumor_div.find("a", class_="rumormedia")
+                if not link:
+                    link = rumor_div.find("a", class_="quote")
+
+                if link and link.has_attr("href"):
+                    href = link["href"]
+                    url_full = href if href.startswith("http") else urljoin(BASE_URL, href)
+                else:
+                    url_full = BASE_URL
+
+                # Tag links (teams, players, etc.)
+                tag_div = rumor_div.find("div", class_="tag")
+                if not tag_div:
+                    continue
+
+                tag_links = tag_div.find_all("a")
+                for tag in tag_links:
+                    tag_text = tag.get_text(strip=True)
+                    href = tag.get("href", "")
+
+                    # We only want *players* in our rankings
+                    if not is_player_name(tag_text, players):
+                        continue
+
+                    slug = href.rstrip("/").split("/")[-1] if href else tag_text.lower().replace(" ", "-")
+
+                    rows.append(
+                        [
+                            tag_text,                        # player
+                            slug,                            # slug
+                            rumor_date.strftime("%Y-%m-%d"), # date
+                            title_html,                      # title (HTML with <strong>)
+                            url_full,                        # article URL
+                        ]
+                    )
+
+        if stop_due_to_age:
+            print("Reached rumors older than window; stopping pagination.")
+            break
+
+        # Next page link (if any)
+        next_div = content_div.find("div", class_="swipe_next")
+        next_link = next_div.find("a") if next_div else None
+        if next_link and next_link.has_attr("href"):
+            href = next_link["href"]
+            url = href if href.startswith("http") else urljoin(BASE_URL, href)
+        else:
+            url = None
+
+    print(f"Total div.rumor blocks processed: {total_rumors}")
+    print(f"Total player-tag rows collected: {len(rows)}")
+
+    # Write CSV
+    out_path = "trade_rumors.csv"
+    with open(out_path, "w", newline="", encoding="utf-8") as f:
+        writer = csv.writer(f)
+        writer.writerow(["player", "slug", "date", "title", "url"])
+        writer.writerows(rows)
+
+    print(f"Wrote {len(rows)} rows to {out_path}")
 
 
 if __name__ == "__main__":
-    data = scrape()
-    write_csv(data)
+    scrape()
