@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import altair as alt
 from datetime import datetime
+from urllib.parse import urlparse
 
 # ------------------------------------------------------------
 # Global "today" (naive, normalised to midnight)
@@ -59,20 +60,22 @@ def compute_player_scores(df: pd.DataFrame) -> pd.DataFrame:
     - 8–14 days ago  -> 0.5 points per mention
     - 15–28 days ago -> 0.25 points per mention
     """
+    # Work on a copy and normalise dates again to be extra safe
+    df2 = df.copy()
+    df2["date"] = pd.to_datetime(df2["date"], errors="coerce")
+    df2 = df2.dropna(subset=["date"])
 
-    recent_cutoff = TODAY - pd.Timedelta(days=28)
+    if df2["date"].dt.tz is not None:
+        df2["date"] = df2["date"].dt.tz_convert(None)
 
-    # Compare on normalised, naive dates
-    df_norm = df.copy()
-    df_norm["date_norm"] = df_norm["date"].dt.normalize()
+    df2["date_norm"] = df2["date"].dt.normalize()
 
-    df_recent = df_norm[df_norm["date_norm"] >= recent_cutoff].copy()
+    # How many days ago each rumor was (0 = today)
+    today = TODAY  # naive Timestamp
+    df2["days_ago"] = (today - df2["date_norm"]).dt.days
 
-    # How many days ago each rumor was
-    df_recent["days_ago"] = (TODAY - df_recent["date_norm"]).dt.days
-
-    # Keep only 0–27 days (i.e. last 28 days)
-    df_recent = df_recent[(df_recent["days_ago"] >= 0) & (df_recent["days_ago"] < 28)]
+    # Keep only last 28 days
+    df_recent = df2[(df2["days_ago"] >= 0) & (df2["days_ago"] < 28)].copy()
 
     # Weight per mention
     df_recent["weight"] = 0.0
@@ -212,9 +215,6 @@ def show_rankings(df_scores: pd.DataFrame) -> None:
 # ------------------------------------------------------------
 # Helpers for player page formatting
 # ------------------------------------------------------------
-from urllib.parse import urlparse
-
-
 def nice_date(dt: pd.Timestamp) -> str:
     # e.g. "Nov 26"
     return dt.strftime("%b %d").lstrip("0")
@@ -284,7 +284,6 @@ def show_player_view(df: pd.DataFrame, player_slug: str) -> None:
         (df_player["date"] >= start_day) & (df_player["date"] <= end_day)
     ].copy()
 
-    # Normalise dates so they are proper datetimes
     df_player_period["day"] = df_player_period["date"].dt.normalize()
 
     daily = (
@@ -294,7 +293,11 @@ def show_player_view(df: pd.DataFrame, player_slug: str) -> None:
     )
 
     all_days = pd.DataFrame(
-        {"day": pd.date_range(start=start_day.normalize(), end=end_day.normalize(), freq="D")}
+        {
+            "day": pd.date_range(
+                start=start_day.normalize(), end=end_day.normalize(), freq="D"
+            )
+        }
     )
 
     daily_full = (
