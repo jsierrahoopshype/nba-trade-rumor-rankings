@@ -2,10 +2,13 @@ name: scrape-and-commit
 
 on:
   workflow_dispatch:
-  # You can adjust this schedule if you want
   schedule:
-    # Every hour at minute 5 (change as you like)
+    # Every hour at minute 5 – adjust if you want
     - cron: "5 * * * *"
+
+# 👈 THIS IS THE IMPORTANT BIT: allow this workflow to push commits
+permissions:
+  contents: write
 
 jobs:
   scrape-and-commit:
@@ -32,7 +35,6 @@ jobs:
           HH_PREVIEW_PASS: ${{ secrets.HH_PREVIEW_PASS }}
         run: python scrape_trade_rumors.py
 
-      # 🔧 NEW STEP: fix player names after scraping
       - name: Fix player names in CSV
         run: python fix_trade_rumors_players.py
 
@@ -42,8 +44,6 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
       - name: Commit and push changes (if any)
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git status
           if git diff --quiet; then
