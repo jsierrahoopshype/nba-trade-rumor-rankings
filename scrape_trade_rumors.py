@@ -2,22 +2,22 @@ import csv
 import os
 import re
 from datetime import datetime, date
-from typing import List, Dict
+from typing import List, Dict, Optional
 
 import requests
 from bs4 import BeautifulSoup
 from requests.auth import HTTPBasicAuth
 
+# HoopsHype preview trade-rumor tag URL
 BASE_URL = "http://preview.hoopshype.com/rumors/tag/trade"
 OUTPUT_CSV = "trade_rumors.csv"
-MAX_PAGES = 10  # safety limit; we can adjust later if needed
+MAX_PAGES = 10  # safety cap on pagination
 
 
 def get_auth() -> HTTPBasicAuth:
     """
-    Get preview credentials from environment variables.
-    These are set as secrets in the GitHub Action:
-    HH_PREVIEW_USER / HH_PREVIEW_PASS
+    Read preview credentials from environment variables
+    (set in GitHub Secrets as HH_PREVIEW_USER / HH_PREVIEW_PASS).
     """
     user = os.getenv("HH_PREVIEW_USER")
     pwd = os.getenv("HH_PREVIEW_PASS")
@@ -28,10 +28,10 @@ def get_auth() -> HTTPBasicAuth:
 
 def parse_date_from_holder(text: str) -> date:
     """
-    Date-holder text can look like:
-        'Wednesday, November 19, 2025 Updates'
-        'November 19, 2025 Rumors'
-    We extract 'Month DD, YYYY' and parse it.
+    Date-holder text looks like, for example:
+      'Wednesday, November 27, 2025 Updates'
+      'November 27, 2025 Rumors'
+    We extract the 'Month DD, YYYY' part and parse it.
     """
     text = text.strip()
     m = re.search(r"([A-Za-z]+ \d{1,2}, \d{4})", text)
@@ -42,9 +42,23 @@ def parse_date_from_holder(text: str) -> date:
     return dt.date()
 
 
+def clean_snippet_html(p_tag) -> str:
+    """
+    Keep HoopsHype's inline formatting (quotes, bold, etc.) but
+    strip onclick/target attributes to be safe for rendering.
+    """
+    if p_tag is None:
+        return ""
+    html = str(p_tag)
+    html = re.sub(r'onclick="[^"]*"', "", html)
+    html = re.sub(r'target="[^"]*"', "", html)
+    return html
+
+
 def is_player_tag_link(a) -> bool:
     """
-    Player tags on HoopsHype use URLs that contain '/player/'.
+    Decide whether a link is a player tag.
+    On HoopsHype, player profile URLs contain '/player/'.
     """
     href = a.get("href") or ""
     return "/player/" in href
@@ -52,7 +66,7 @@ def is_player_tag_link(a) -> bool:
 
 def extract_player_from_tag_link(a) -> Dict[str, str]:
     """
-    Given a player tag link, return player name and slug.
+    Given a player tag link, return player name + slug.
     Example:
       <a href="/player/anthony-davis/">Anthony Davis</a>
     -> {'player': 'Anthony Davis', 'slug': 'anthony-davis'}
@@ -63,34 +77,52 @@ def extract_player_from_tag_link(a) -> Dict[str, str]:
     return {"player": name, "slug": slug}
 
 
-def clean_snippet_html(p_tag) -> str:
-    """
-    Keep HoopsHype snippet HTML (bold/quotes) but remove onclick/target.
-    This is what we’ll render in the Streamlit app.
-    """
-    html = str(p_tag)
-    html = re.sub(r'onclick="[^"]*"', "", html)
-    html = re.sub(r'target="[^"]*"', "", html)
-    return html
-
-
 def extract_article_url(rumor_div) -> str:
     """
-    Rumor blocks usually have a 'media' link (x.com, YouTube, ESPN, etc.).
-    Grab that href, or first link inside the snippet as fallback.
+    Get the external/source link for the rumor.
+    Prefer the 'rumormedia' link if present, otherwise first non-player link.
     """
-    media_link = rumor_div.find("a", class_="rumormedia")
-    if media_link and media_link.get("href"):
+    media_link = rumor_div.find("a", class_="rumormedia", href=True)
+    if media_link:
         return media_link["href"]
+
+    # Fallback: first link that is NOT a player profile
+    for a in rumor_div.find_all("a", href=True):
+        if not is_player_tag_link(a):
+            return a["href"]
+
+    # If all else fails, just use first link
     first_link = rumor_div.find("a", href=True)
     return first_link["href"] if first_link else ""
 
 
+def find_date_for_rumor(rumor_div) -> Optional[date]:
+    """
+    Walk backwards from this rumor_div to find the nearest preceding
+    div.date-holder and read the date from it.
+    """
+    sibling = rumor_div
+    while True:
+        sibling = sibling.find_previous_sibling()
+        if sibling is None:
+            return None
+        classes = sibling.get("class", [])
+        if "date-holder" in classes:
+            date_text = sibling.get_text(" ", strip=True)
+            try:
+                return parse_date_from_holder(date_text)
+            except Exception as e:  # noqa: BLE001
+                print(f"Failed to parse date-holder '{date_text}': {e}")
+                return None
+
+
 def scrape_single_page(url: str, auth: HTTPBasicAuth) -> List[Dict]:
     """
-    Scrape a single page of trade rumors.
-    We do NOT filter by date here; we just extract all player-tagged rumors.
-    The app will handle 28-day windows.
+    Scrape one page of trade rumors:
+      - Find all div.rumor blocks.
+      - For each, find nearest previous date-holder.
+      - Within each rumor, find ALL player tag links (/player/...).
+      - Emit one row per player-rumor.
     """
     print(f"Fetching {url}")
     resp = requests.get(url, auth=auth, timeout=20)
@@ -98,58 +130,40 @@ def scrape_single_page(url: str, auth: HTTPBasicAuth) -> List[Dict]:
 
     soup = BeautifulSoup(resp.text, "html.parser")
 
-    # Combined sequence of date headers + rumor blocks, in order
-    blocks = soup.select("div.date-holder, div.rumor")
-    print(f"Found {len(blocks)} date-holder/rumor blocks on this page.")
+    all_rumors = soup.select("div.rumor")
+    print("Total div.rumor found:", len(all_rumors))
 
     rows: List[Dict] = []
-    current_date: date | None = None
 
-    for block in blocks:
-        classes = block.get("class", [])
-        if "date-holder" in classes:
-            # New date section
-            date_text = block.get_text(" ", strip=True)
-            try:
-                current_date = parse_date_from_holder(date_text)
-                print(f"Current date section set to: {current_date}")
-            except Exception as e:  # noqa: BLE001
-                print(f"Could not parse date from '{date_text}': {e}")
-                current_date = None
-        elif "rumor" in classes:
-            # Rumor item; needs a current_date from the last date-holder
-            if current_date is None:
-                continue
+    for rumor in all_rumors:
+        rumor_date = find_date_for_rumor(rumor)
+        if rumor_date is None:
+            continue
 
-            # Text snippet
-            p = block.find("p", class_="rumortext")
-            if not p:
-                continue
-            snippet_html = clean_snippet_html(p)
-            article_url = extract_article_url(block)
+        # snippet
+        # HoopsHype typically uses a <p> with some class; we fall back to "first <p>"
+        p = rumor.find("p")
+        snippet_html = clean_snippet_html(p)
+        article_url = extract_article_url(rumor)
 
-            # Tags container
-            tag_div = block.find("div", class_="tag")
-            if not tag_div:
-                continue
+        # player tags: any <a> with /player/ in href anywhere in the rumor block
+        player_links = [
+            a for a in rumor.find_all("a", href=True) if is_player_tag_link(a)
+        ]
+        if not player_links:
+            continue
 
-            player_links = [
-                a for a in tag_div.find_all("a", href=True) if is_player_tag_link(a)
-            ]
-            if not player_links:
-                continue
-
-            for a in player_links:
-                pl = extract_player_from_tag_link(a)
-                rows.append(
-                    {
-                        "player": pl["player"],
-                        "slug": pl["slug"],
-                        "date": current_date.isoformat(),
-                        "title": snippet_html,
-                        "url": article_url,
-                    }
-                )
+        for a in player_links:
+            pl = extract_player_from_tag_link(a)
+            rows.append(
+                {
+                    "player": pl["player"],
+                    "slug": pl["slug"],
+                    "date": rumor_date.isoformat(),
+                    "title": snippet_html,
+                    "url": article_url,
+                }
+            )
 
     print(f"Collected {len(rows)} rows from this page.")
     return rows
@@ -172,13 +186,12 @@ def scrape():
             break
 
         if not page_rows:
-            # If a whole page yields nothing, we assume pagination ended
             print(f"No rows on page {page}, stopping pagination.")
             break
 
         all_rows.extend(page_rows)
 
-    # Deduplicate
+    # Deduplicate rows
     unique: Dict[tuple, Dict] = {}
     for row in all_rows:
         key = (row["player"], row["slug"], row["date"], row["url"], row["title"])
