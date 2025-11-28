@@ -1,127 +1,133 @@
 import pandas as pd
+import re
+from pathlib import Path
+
+CSV_PATH = Path("trade_rumors.csv")
+PLAYERS_TXT = Path("nba_players.txt")
+PLACEHOLDER = "PLAYER"
 
 
-def parse_players_from_snippet(snippet: str) -> list[str]:
+def load_players(path: Path):
     """
-    Try to infer player names from the snippet text.
-
-    The pattern we're exploiting is typically something like:
-
-        "... HoopsHype Boston Celtics , Trade , Anfernee Simons , Sam Hauser"
-
-    So we:
-      1. Split on " , "
-      2. Find the last "Trade" token
-      3. Treat the tokens after "Trade" as candidate player names
-      4. Filter out obvious non-names and dedupe
+    Load player names from nba_players.txt (one full name per line).
     """
-    if not isinstance(snippet, str):
-        return []
+    if not path.exists():
+        raise FileNotFoundError(
+            f"Could not find {path}. Make sure nba_players.txt is in the repo root."
+        )
 
-    # Split on the pattern used in the scraped snippets
-    parts = [p.strip() for p in snippet.split(" , ")]
+    names = []
+    with path.open("r", encoding="utf-8") as f:
+        for line in f:
+            name = line.strip()
+            if not name:
+                continue
+            # Skip any accidental header line
+            if name.lower().startswith("player"):
+                continue
+            names.append(name)
+    return names
 
-    # Find the *last* "Trade" token
-    trade_idx = None
-    for i in range(len(parts) - 1, -1, -1):
-        if parts[i].strip().upper() == "TRADE":
-            trade_idx = i
-            break
 
-    if trade_idx is None:
-        return []
-
-    # Everything after "Trade" is potentially a player name
-    meta_after = [p for p in parts[trade_idx + 1:] if p]
-
-    players: list[str] = []
-    for token in meta_after:
-        # Require at least two words (first + last name)
-        if len(token.split()) < 2:
+def build_last_name_index(names):
+    """
+    Map last name -> set of full names, so we can fall back on last-name matches.
+    """
+    last_map = {}
+    for full in names:
+        parts = full.split()
+        if len(parts) < 2:
             continue
-
-        # Filter out obvious site names or junk
-        upper = token.upper()
-        if any(
-            bad in upper
-            for bad in [
-                "HOOPSHYPE",
-                "ESPN",
-                "THE ATHLETIC",
-                "YAHOO",
-                "CBS",
-                "SPORTS ILLUSTRATED",
-                "FANSIDED",
-                "BLEACHER REPORT",
-            ]
-        ):
-            continue
-
-        players.append(token)
-
-    # De-duplicate while preserving order
-    seen = set()
-    unique_players: list[str] = []
-    for p in players:
-        if p not in seen:
-            seen.add(p)
-            unique_players.append(p)
-
-    return unique_players
+        last = parts[-1].lower()
+        last_map.setdefault(last, set()).add(full)
+    return last_map
 
 
-def fix_player_names(df: pd.DataFrame) -> pd.DataFrame:
+def infer_player_for_row(row, full_names, last_to_names):
     """
-    For rows where the 'player' column is empty or just 'Player',
-    infer the player from the snippet and fill it in.
-
-    We **do not** touch rows that already have a non-empty, non-'Player' value.
+    For a single CSV row, infer the player name from title + snippet
+    if the current value is 'PLAYER' or blank.
     """
-    df = df.copy()
+    current = str(row.get("player", "")).strip()
 
-    for idx, row in df.iterrows():
-        current = row.get("player", None)
+    # If it's already a real name (not the placeholder), keep it.
+    if current and current.upper() != PLACEHOLDER:
+        return current
 
-        # Skip rows that already look good
-        if isinstance(current, str) and current not in ("", "Player"):
+    title = str(row.get("title", "") or "")
+    snippet = str(row.get("snippet", "") or "")
+    text = f"{title} {snippet}".lower()
+
+    # --- 1) Full-name matches ------------------------------------
+    full_matches = []
+    for name in full_names:
+        n = name.lower()
+        # Require word boundaries so we don't match partial words
+        if re.search(r"\b" + re.escape(n) + r"\b", text):
+            full_matches.append(name)
+
+    if len(full_matches) == 1:
+        return full_matches[0]
+    elif len(full_matches) > 1:
+        # If multiple, pick the longest name as a rough heuristic
+        return max(full_matches, key=len)
+
+    # --- 2) Last-name fallback -----------------------------------
+    last_matches = set()
+    for last, names in last_to_names.items():
+        # Avoid super-short last names (Lee, May, etc.) to reduce false positives
+        if len(last) < 4:
             continue
+        if re.search(r"\b" + re.escape(last) + r"\b", text):
+            last_matches.update(names)
 
-        snippet = row.get("snippet", "")
-        candidates = parse_players_from_snippet(snippet)
+    if len(last_matches) == 1:
+        return next(iter(last_matches))
+    elif len(last_matches) > 1:
+        # Again, pick longest if more than one
+        return max(last_matches, key=len)
 
-        # If we found at least one candidate, use the first one
-        if candidates:
-            df.at[idx, "player"] = candidates[0]
-
-    return df
+    # If we still can't infer, keep the placeholder
+    return PLACEHOLDER
 
 
 def main():
-    csv_path = "trade_rumors.csv"
+    if not CSV_PATH.exists():
+        raise FileNotFoundError(
+            f"Could not find {CSV_PATH}. Make sure you're running this from the repo root."
+        )
 
-    print(f"Loading {csv_path}...")
-    df = pd.read_csv(csv_path)
+    df = pd.read_csv(CSV_PATH)
 
-    before_missing = (
-        df["player"].isna()
-        | (df["player"] == "")
-        | (df["player"] == "Player")
-    ).sum()
+    if "player" not in df.columns:
+        raise ValueError("CSV does not have a 'player' column; cannot fix players.")
 
-    print(f"Rows with empty/'Player' before fix: {before_missing}")
+    before_placeholder = (df["player"].astype(str).str.upper() == PLACEHOLDER).sum()
+    empty_before = (df["player"].astype(str).str.strip() == "").sum()
+    print(f"Rows with placeholder '{PLACEHOLDER}' before fix: {before_placeholder}")
+    print(f"Rows with empty player before fix: {empty_before}")
 
-    df_fixed = fix_player_names(df)
+    full_names = load_players(PLAYERS_TXT)
+    last_to_names = build_last_name_index(full_names)
 
-    after_missing = (
-        df_fixed["player"].isna()
-        | (df_fixed["player"] == "")
-        | (df_fixed["player"] == "Player")
-    ).sum()
+    df["player"] = df.apply(
+        lambda row: infer_player_for_row(row, full_names, last_to_names),
+        axis=1,
+    )
 
-    df_fixed.to_csv(csv_path, index=False)
+    # Ensure we never leave empty strings — if something ends up empty, put PLACEHOLDER
+    df["player"] = df["player"].fillna("").astype(str)
+    df.loc[df["player"].str.strip() == "", "player"] = PLACEHOLDER
 
-    print(f"Rows with empty/'Player' after fix:  {after_missing}")
-    print("Saved cleaned data back to trade_rumors.csv")
+    after_placeholder = (df["player"].astype(str).str.upper() == PLACEHOLDER).sum()
+    empty_after = (df["player"].astype(str).str.strip() == "").sum()
+
+    print(f"Rows with placeholder '{PLACEHOLDER}' after fix: {after_placeholder}")
+    print(f"Rows with empty player after fix: {empty_after}")
+    print(f"Resolved {before_placeholder - after_placeholder} placeholder rows.")
+
+    df.to_csv(CSV_PATH, index=False)
+    print(f"Saved updated CSV back to {CSV_PATH}")
 
 
 if __name__ == "__main__":
