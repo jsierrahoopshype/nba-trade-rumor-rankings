@@ -1,188 +1,148 @@
 import os
 import sys
 import time
-from datetime import datetime, timedelta
-from typing import List, Dict, Tuple
+import csv
+from datetime import datetime, date, timedelta
+from typing import List, Dict, Optional
+from urllib.parse import urlparse
 
 import requests
+from requests.auth import HTTPBasicAuth
 from bs4 import BeautifulSoup
-
+from dateutil import parser as dateparser
 import pandas as pd
 
-# -------------------------------------------------------------------
-# Configuration
-# -------------------------------------------------------------------
+# ----------------------------------------------------------------------
+# CONFIG
+# ----------------------------------------------------------------------
 
+# ⚠️ If your current file has a different base URL (e.g. preview.hoopshype.com),
+# change this to match what you already had.
 BASE_URL = "http://preview.hoopshype.com/rumors/tag/trade"
+
 OUTPUT_CSV = "trade_rumors.csv"
 
 # How many days back we care about
 WINDOW_DAYS = 28
 
-# Safety: how many pages of /tag/trade to scan at most
-MAX_PAGES = 15
+# Max number of pages to scan as a hard safety cap
+MAX_PAGES = 30
 
-# Simple headers so preview doesn’t get suspicious
-HEADERS = {
-    "User-Agent": (
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-        "AppleWebKit/537.36 (KHTML, like Gecko) "
-        "Chrome/120.0 Safari/537.36"
-    )
-}
+USERNAME = os.getenv("HH_PREVIEW_USER")
+PASSWORD = os.getenv("HH_PREVIEW_PASS")
 
 
-# -------------------------------------------------------------------
-# Helpers
-# -------------------------------------------------------------------
+# ----------------------------------------------------------------------
+# UTILITIES
+# ----------------------------------------------------------------------
 
 def get_session() -> requests.Session:
     """
-    Create an authenticated requests session using HH_PREVIEW_USER/PASS.
+    Create an HTTP session with basic auth using HH_PREVIEW_USER / HH_PREVIEW_PASS.
     """
-    user = os.getenv("HH_PREVIEW_USER")
-    pwd = os.getenv("HH_PREVIEW_PASS")
-
-    if not user or not pwd:
-        print("ERROR: HH_PREVIEW_USER / HH_PREVIEW_PASS not set in environment.", file=sys.stderr)
+    if not USERNAME or not PASSWORD:
+        print("ERROR: HH_PREVIEW_USER / HH_PREVIEW_PASS environment variables not set.", file=sys.stderr)
         sys.exit(1)
 
-    s = requests.Session()
-    s.auth = (user, pwd)
-    s.headers.update(HEADERS)
-    return s
+    session = requests.Session()
+    session.auth = HTTPBasicAuth(USERNAME, PASSWORD)
+    # Some basic headers just to be nice
+    session.headers.update(
+        {
+            "User-Agent": "HH Trade Rumor Scraper (NBA Trade Rumor Heat Index)",
+            "Accept-Language": "en-US,en;q=0.9",
+        }
+    )
+    return session
 
 
 def load_players(path: str = "nba_players.txt") -> List[str]:
     """
-    Load NBA player names from a text file, one per line.
-    We keep both the original and a lowercase version for matching.
+    Load NBA player names from a newline-separated file.
+    We store them in UPPERCASE to make matching easier.
     """
-    if not os.path.exists(path):
-        print(f"WARNING: {path} not found. No players will be matched.", file=sys.stderr)
-        return []
-
-    players = []
-    with open(path, "r", encoding="utf-8") as f:
-        for line in f:
-            name = line.strip()
-            if name:
-                players.append(name)
-
-    print(f"Loaded {len(players)} players from {path}")
+    players: List[str] = []
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            for line in f:
+                name = line.strip()
+                if name:
+                    players.append(name.upper())
+        print(f"Loaded {len(players)} players from {path}")
+    except FileNotFoundError:
+        print(f"WARNING: {path} not found. Player detection will be very limited.")
     return players
 
 
-def norm(text: str) -> str:
-    return text.lower().strip()
-
-
-def parse_date_from_rumor_div(div) -> datetime:
+def parse_date_from_text(text: str) -> Optional[date]:
     """
-    Try to extract a date associated with a rumor div.
-
-    We don't know the exact markup here, so we try a few reasonable
-    options and fall back to 'today' if none are found.
+    Parse a date from a string like "November 27, 2025".
+    Uses dateutil.parser with fuzzy matching.
     """
-    # Strategy 1: attribute on the div (very common)
-    possible_attrs = ["data-date", "data-date-iso", "data-published"]
-    date_str = None
-    for attr in possible_attrs:
-        val = div.get(attr)
-        if val:
-            date_str = val
-            break
-
-    # Strategy 2: look for an element inside with plausible date text
-    if not date_str:
-        for cls in ["date", "time", "posted", "rumor-date"]:
-            el = div.find(class_=cls)
-            if el and el.get_text(strip=True):
-                date_str = el.get_text(strip=True)
-                break
-
-    # Strategy 3: walk upwards to a parent with a date-like attribute
-    if not date_str:
-        parent = div.parent
-        while parent is not None and parent.name not in ("body", "html"):
-            for attr in possible_attrs:
-                val = parent.get(attr)
-                if val:
-                    date_str = val
-                    break
-            if date_str:
-                break
-            parent = parent.parent
-
-    if not date_str:
-        # Fallback: assume "today" if we truly cannot find anything.
-        return datetime.utcnow().replace(hour=0, minute=0, second=0, microsecond=0)
-
-    # Let pandas handle the various human formats
-    parsed = pd.to_datetime(date_str, errors="coerce", utc=True)
-    if pd.isna(parsed):
-        # Fallback again to today in UTC
-        return datetime.utcnow().replace(hour=0, minute=0, second=0, microsecond=0)
-
-    # Normalize to midnight (we only care about the date)
-    parsed = parsed.tz_convert("UTC") if parsed.tzinfo is not None else parsed
-    return parsed.replace(hour=0, minute=0, second=0, microsecond=0)
+    text = text.strip()
+    if not text:
+        return None
+    try:
+        dt = dateparser.parse(text, fuzzy=True)
+        if dt is None:
+            return None
+        return dt.date()
+    except Exception:
+        return None
 
 
-def extract_text_and_link(div) -> Tuple[str, str, str]:
+def guess_player(snippet: str, players_upper: List[str]) -> Optional[str]:
     """
-    Extract:
-      - main text snippet for the rumor
-      - media outlet (if we can spot it, otherwise '')
-      - canonical rumor URL
-
-    We'll be intentionally tolerant here.
+    Try to guess which player is mentioned in the snippet using nba_players.txt.
+    We do a simple substring match on an uppercase version of the snippet.
+    Returns the matched name in Title Case or None.
     """
-    # Try to find a main link for the rumor
-    link_el = div.find("a", href=True)
-    url = ""
-    if link_el:
-        url = link_el["href"]
-        # Some previews might use relative URLs
-        if url.startswith("/"):
-            url = "https://hoopshype.com" + url
+    if not snippet:
+        return None
 
-    # Full text of the rumor
-    text = div.get_text(" ", strip=True)
-
-    # Look for something that might be the outlet (e.g. italic or strong)
-    outlet = ""
-    outlet_el = div.find("i") or div.find("em") or div.find("strong")
-    if outlet_el and outlet_el.get_text(strip=True):
-        outlet = outlet_el.get_text(strip=True)
-
-    return text, outlet, url
+    text_upper = snippet.upper()
+    for name_upper in players_upper:
+        if name_upper in text_upper:
+            # convert "LEBRON JAMES" back to "LeBron James" reasonably
+            return " ".join(part.capitalize() for part in name_upper.split())
+    return None
 
 
-def find_players_in_text(text: str, players: List[str]) -> List[str]:
+def extract_source_from_url(url: Optional[str]) -> Optional[str]:
     """
-    Return all player names that appear in the given text.
-    We do a simple case-insensitive substring match.
+    Derive a 'media outlet' style source from the URL's domain.
+    E.g. https://www.espn.com/... -> "espn.com"
     """
-    text_norm = norm(text)
-    found = []
-    for name in players:
-        if not name:
-            continue
-        if norm(name) in text_norm:
-            found.append(name)
-    return sorted(set(found))
+    if not url:
+        return None
+    try:
+        parsed = urlparse(url)
+        host = parsed.netloc or ""
+        if host.startswith("www."):
+            host = host[4:]
+        return host or None
+    except Exception:
+        return None
 
 
-def scrape_page(session: requests.Session, players: List[str], page: int,
-                cutoff_date: datetime) -> Tuple[List[Dict], bool]:
+# ----------------------------------------------------------------------
+# SCRAPING CORE
+# ----------------------------------------------------------------------
+
+def scrape_page(session: requests.Session,
+                page: int,
+                cutoff_date: date,
+                players_upper: List[str]) -> (List[Dict], bool):
     """
-    Scrape a single /tag/trade page.
+    Scrape a single page.
+    Returns (rows, reached_older_than_cutoff_flag).
 
-    Returns:
-      rows: list of dicts for each (player, rumor)
-      has_rumor_divs: True if the page contained any `div.rumor` at all
-                      (even if we didn't match any players).
+    Strategy:
+      * Select all div.rumor (20 per page).
+      * For each rumor, look backwards in the DOM for the nearest div.date-holder.
+      * That div.date-holder text is the date section for that rumor.
+      * If that date is older than cutoff_date, we mark reached_old = True
+        (so caller can stop pagination).
     """
     if page == 1:
         url = BASE_URL
@@ -190,127 +150,154 @@ def scrape_page(session: requests.Session, players: List[str], page: int,
         url = f"{BASE_URL}?page={page}"
 
     print(f"Fetching {url}")
-    try:
-        resp = session.get(url, timeout=30)
-    except Exception as e:
-        print(f"Request error on page {page}: {e}", file=sys.stderr)
-        return [], False
-
-    if resp.status_code != 200:
-        print(f"Non-200 status code on page {page}: {resp.status_code}", file=sys.stderr)
-        return [], False
+    resp = session.get(url, timeout=20)
+    resp.raise_for_status()
 
     soup = BeautifulSoup(resp.text, "html.parser")
 
-    # Core Hoopshype rumor cards
+    # All rumor cards
     all_rumors = soup.select("div.rumor")
-    print("Total div.rumor found:", len(all_rumors))
-
-    if not all_rumors:
-        # No rumor blocks → we can stop paginating after this
-        print(f"No div.rumor blocks on page {page}.")
-        return [], False
+    print(f"Total div.rumor found on page {page}: {len(all_rumors)}")
 
     rows: List[Dict] = []
-    cutoff_only_date = cutoff_date.date()
+    reached_old = False
 
-    for div in all_rumors:
-        rumor_date = parse_date_from_rumor_div(div)
-        if rumor_date.date() < cutoff_only_date:
-            # This rumor is older than our 28-day window, but we **do not**
-            # break pagination here; older rumors might still be on
-            # later pages and we filter globally afterwards anyway.
-            continue
+    if not all_rumors:
+        # If there are literally no rumor blocks, likely we hit the end.
+        return rows, True
 
-        text, outlet, url = extract_text_and_link(div)
-
-        matched_players = find_players_in_text(text, players)
-        if not matched_players:
-            # No player match → skip this rumor
-            continue
-
-        # TEAM: we don't have a robust way yet → leave blank.
-        # (Streamlit side can still aggregate by player and date.)
-        for player in matched_players:
-            rows.append(
-                {
-                    "date": rumor_date.date().isoformat(),
-                    "player": player,
-                    "team": "",
-                    "source": outlet,
-                    "snippet": text,
-                    "url": url,
-                    "title": text[:140],  # simple short title
-                }
+    for rumor_div in all_rumors:
+        # Find the nearest previous date-holder in the DOM
+        date_holder = rumor_div.find_previous("div", class_="date-holder")
+        if not date_holder:
+            # Try a more generic search if needed (fallback)
+            date_holder = rumor_div.find_previous(
+                lambda tag: tag.name == "div" and "date" in " ".join(tag.get("class", []))
             )
 
-    print(f"Collected {len(rows)} rows from this page.")
-    return rows, True
+        if not date_holder:
+            # If we truly can't find a date, skip this rumor instead of guessing "today"
+            continue
+
+        date_text = date_holder.get_text(" ", strip=True)
+        rumor_date = parse_date_from_text(date_text)
+        if rumor_date is None:
+            # Can't parse date; skip (better to have fewer rows than wrong dates)
+            continue
+
+        # Apply our 28-day window
+        if rumor_date < cutoff_date:
+            # We've gone past the window. Mark flag; keep going through rest of page
+            # (in case some weird ordering exists), but we won't include this rumor.
+            reached_old = True
+            continue
+
+        # Basic text for the snippet: whole block text
+        snippet = rumor_div.get_text(" ", strip=True)
+
+        # Find first hyperlink as the canonical URL and title
+        link = rumor_div.find("a", href=True)
+        url_val: Optional[str] = None
+        title_val: Optional[str] = None
+
+        if link:
+            url_val = link["href"]
+            title_val = link.get_text(" ", strip=True) or snippet[:140]
+        else:
+            # Fallbacks if somehow there is no link
+            url_val = None
+            title_val = snippet[:140]
+
+        player_name = guess_player(snippet, players_upper)
+        source_val = extract_source_from_url(url_val)
+
+        row = {
+            "date": rumor_date.isoformat(),
+            "player": player_name or "",
+            "team": "",   # reserved column; not parsed right now
+            "source": source_val or "",
+            "snippet": snippet,
+            "url": url_val or "",
+            "title": title_val or "",
+        }
+        rows.append(row)
+
+    print(f"Collected {len(rows)} rows from page {page}. Reached old date: {reached_old}")
+    return rows, reached_old
 
 
-# -------------------------------------------------------------------
-# Main scrape routine
-# -------------------------------------------------------------------
-
-def scrape():
+def scrape() -> None:
+    """
+    Scrape multiple pages until we either:
+      * Hit an older date than our WINDOW_DAYS cutoff, or
+      * Reach MAX_PAGES, or
+      * Encounter a page with no div.rumor blocks.
+    """
     session = get_session()
-    players = load_players()
-
-    # 28-day cutoff (UTC)
-    today_utc = datetime.utcnow().replace(hour=0, minute=0, second=0, microsecond=0)
-    cutoff_date = today_utc - timedelta(days=WINDOW_DAYS)
+    players_upper = load_players()
+    today = date.today()
+    cutoff_date = today - timedelta(days=WINDOW_DAYS)
+    print(f"Scraping rumors back to {cutoff_date.isoformat()} (WINDOW_DAYS = {WINDOW_DAYS})")
 
     all_rows: List[Dict] = []
+    reached_old_global = False
 
     for page in range(1, MAX_PAGES + 1):
-        page_rows, has_rumor_divs = scrape_page(session, players, page, cutoff_date)
+        rows, reached_old = scrape_page(session, page, cutoff_date, players_upper)
 
-        # ✅ KEY CHANGE: we **do not** stop just because page_rows == 0.
-        # We only stop if there are no rumor divs at all (meaning no more pages).
-        if not has_rumor_divs:
-            print(f"Page {page} has no rumor blocks; stopping pagination.")
+        if not rows and page > 1:
+            # No rows from this page – assume we've hit the end
+            print(f"No rows on page {page}, stopping pagination.")
             break
 
-        print(f"Page {page}: collected {len(page_rows)} rows.")
-        all_rows.extend(page_rows)
+        all_rows.extend(rows)
 
-        # Be polite to the preview site
-        time.sleep(1)
+        if reached_old:
+            print("Encountered rumor(s) older than cutoff date; stopping pagination after this page.")
+            reached_old_global = True
+            break
+
+        # Be nice to the server
+        time.sleep(1.0)
 
     print(f"Total rows before de-dup / filtering: {len(all_rows)}")
 
     if not all_rows:
-        print("No rows scraped at all; writing an empty CSV just in case.")
+        print("No rows collected; writing empty CSV.")
+        # Still write an empty CSV with the expected columns so the app doesn't crash.
         df_empty = pd.DataFrame(
             columns=["date", "player", "team", "source", "snippet", "url", "title"]
         )
         df_empty.to_csv(OUTPUT_CSV, index=False)
-        print(f"Wrote 0 rows to {OUTPUT_CSV}")
         return
 
     df = pd.DataFrame(all_rows)
 
-    # Ensure date column is proper datetime for filtering & sorting
-    df["date"] = pd.to_datetime(df["date"], errors="coerce")
-    df = df.dropna(subset=["date"])
+    # Remove rows without a date or URL (if any slipped through)
+    df = df[df["date"].notna()]
 
-    # Apply final 28-day window filter (double safety)
-    cutoff_only_date = cutoff_date.date()
-    df = df[df["date"].dt.date >= cutoff_only_date].copy()
+    # Ensure date column is true datetime for sorting and further processing
+    df["date"] = pd.to_datetime(df["date"], errors="coerce").dt.date
+    df = df[df["date"].notna()]
+
+    # Enforce cutoff again just in case
+    df = df[df["date"] >= cutoff_date]
+
+    # Drop duplicates based on date, player, url, and snippet to keep the CSV tidy
+    df = df.drop_duplicates(subset=["date", "player", "url", "snippet"])
 
     # Sort newest first
-    df = df.sort_values(["date", "player"], ascending=[False, True])
-
-    # Drop exact duplicates
-    df = df.drop_duplicates(
-        subset=["date", "player", "snippet", "url"], keep="first"
-    )
+    df = df.sort_values("date", ascending=False)
 
     print(f"Total unique rows to write: {len(df)}")
 
     df.to_csv(OUTPUT_CSV, index=False)
     print(f"Wrote {len(df)} rows to {OUTPUT_CSV}")
 
+
+# ----------------------------------------------------------------------
+# ENTRY POINT
+# ----------------------------------------------------------------------
 
 if __name__ == "__main__":
     scrape()
