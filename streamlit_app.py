@@ -76,6 +76,16 @@ def load_rumors() -> pd.DataFrame:
     df = df[df["player"] != ""]
     df = df[df["player"].str.upper() != "PLAYER"]
 
+    # Fix known name issues
+    NAME_FIXES = {
+        "Lebron James": "LeBron James",
+        "LEBRON JAMES": "LeBron James",
+        "Karl-anthony Towns": "Karl-Anthony Towns",
+        "Karl-Anthony towns": "Karl-Anthony Towns",
+        "Karl Anthony Towns": "Karl-Anthony Towns",
+    }
+    df["player"] = df["player"].replace(NAME_FIXES)
+
     # Ensure text columns exist and are strings
     for col in ["team", "source", "snippet", "title", "url"]:
         if col not in df.columns:
@@ -300,13 +310,14 @@ def show_player_view(
 
     # --- Mentions per day chart (28 days) ---
     days = pd.date_range(start=window_start, end=window_end, freq="D")
-    daily_counts = (
+
+    daily_series = (
         player_df.groupby("date")
         .size()
         .reindex(days, fill_value=0)
-        .rename("mentions")
-        .reset_index(names="day")
     )
+    daily_series.index.name = "day"
+    daily_counts = daily_series.reset_index(name="mentions")
 
     st.caption("Mentions per day (last 28 days)")
 
