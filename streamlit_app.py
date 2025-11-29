@@ -59,24 +59,23 @@ def load_rumors(csv_path: str = "trade_rumors.csv") -> pd.DataFrame:
     if "date" not in df.columns:
         raise RuntimeError("CSV is missing required 'date' column")
 
-    # Parse dates (they are already ISO yyyy-mm-dd, but be safe)
+    # Parse dates
     df["date"] = pd.to_datetime(df["date"], errors="coerce")
     df = df.dropna(subset=["date"])
 
-    # Normalize column names we expect; some may be missing in older CSVs
+    # Normalize expected columns
     expected_cols = ["player", "title", "snippet", "source", "url"]
     for col in expected_cols:
         if col not in df.columns:
             df[col] = ""
 
-    # Fix player display names and drop rows without a real player
+    # Fix player names and drop non-real players
     df["player"] = df["player"].fillna("")
     df["player"] = df["player"].replace(NAME_FIXES)
-
     df = df[df["player"].str.strip().ne("")]
     df = df[df["player"] != "Player"]
 
-    # Slug column (used for URLs); create if missing or empty
+    # Slug column
     if "slug" not in df.columns:
         df["slug"] = df["player"].map(slugify)
     else:
@@ -89,7 +88,7 @@ def load_rumors(csv_path: str = "trade_rumors.csv") -> pd.DataFrame:
         keep="first",
     )
 
-    # Sort by date descending for later display
+    # Sort by date descending
     df = df.sort_values("date", ascending=False).reset_index(drop=True)
     return df
 
@@ -138,18 +137,18 @@ def compute_player_scores(df: pd.DataFrame) -> Tuple[pd.DataFrame, Tuple[pd.Time
 
     scores = scores.fillna(0).reset_index()
 
-    # Bring slug along (one slug per player)
+    # Attach slug
     slug_map = df_window.groupby("player")["slug"].first()
     scores["slug"] = scores["player"].map(slug_map)
 
-    # Rank by score, then by recent mentions as tie-breaker
+    # Sort & rank
     scores = scores.sort_values(
         by=["Score", "Mentions (0–7d)", "Mentions (8–14d)", "Mentions (15–28d)", "player"],
         ascending=[False, False, False, False, True],
     ).reset_index(drop=True)
     scores["Rank"] = scores.index + 1
 
-    # Make integer counts
+    # Make counts ints
     for col in ["Mentions (0–7d)", "Mentions (8–14d)", "Mentions (15–28d)"]:
         scores[col] = scores[col].astype(int)
 
@@ -164,7 +163,6 @@ def render_html_table(df: pd.DataFrame) -> str:
         cells = []
         for col in headers:
             val = row[col]
-            # Player column already contains HTML
             if col == "Player":
                 cells.append(f"<td>{val}</td>")
             else:
@@ -185,10 +183,6 @@ def render_html_table(df: pd.DataFrame) -> str:
     )
 
     return table_html
-
-
-def format_date(d: pd.Timestamp) -> str:
-    return d.strftime("%b %-d") if hasattr(d, "strftime") else str(d)
 
 
 def build_snippet_html(row: pd.Series) -> str:
@@ -282,16 +276,23 @@ def show_rankings(df_scores: pd.DataFrame) -> None:
         if matches:
             chosen = matches[0]
             slug = df_scores.loc[df_scores["player"] == chosen, "slug"].iloc[0]
-            # Update query params to navigate within same page
             st.query_params["player"] = slug
             st.rerun()
 
-    # Build table with HTML links
+    # Build table with JS-based links so navigation stays in the same window
     display_df = df_scores.copy()
-    display_df["Player"] = display_df.apply(
-        lambda r: f'<a href="?player={html.escape(r["slug"])}">{html.escape(r["player"])}</a>',
-        axis=1,
-    )
+
+    def player_link(row: pd.Series) -> str:
+        slug = html.escape(row["slug"])
+        name = html.escape(row["player"])
+        # JS changes the query string without opening a new tab
+        return (
+            f'<a href="#" '
+            f'onclick="window.location.search=\'?player={slug}\';return false;">'
+            f"{name}</a>"
+        )
+
+    display_df["Player"] = display_df.apply(player_link, axis=1)
 
     display_df = display_df[
         ["Rank", "Player", "Score", "Mentions (0–7d)", "Mentions (8–14d)", "Mentions (15–28d)"]
@@ -322,7 +323,6 @@ def show_player_view(
 
     # Time series chart (last 28 days)
     if not df_player_window.empty:
-        # Build daily counts across the 28-day window including zeros
         days = pd.date_range(window_start, window_end, freq="D")
         daily = (
             df_player_window.groupby(df_player_window["date"].dt.normalize())
@@ -352,7 +352,7 @@ def show_player_view(
         st.subheader("Mentions per day")
         st.write("No mentions for this player in the last 28 days.")
 
-    # Most recent rumors (use window-limited data)
+    # Most recent rumors (window-limited)
     st.subheader("Most recent trade rumors")
 
     df_player_recent = df_player_window.sort_values("date", ascending=False)
@@ -366,7 +366,6 @@ def show_player_view(
         html_list = '<ul class="rumor-list">\n' + "\n".join(items) + "\n</ul>"
         st.markdown(html_list, unsafe_allow_html=True)
 
-    # Back link at bottom as well
     st.markdown(
         '<p style="margin-top:1.5rem;"><a href="." style="text-decoration:none;">← Back to rankings</a></p>',
         unsafe_allow_html=True,
@@ -386,8 +385,11 @@ def main() -> None:
     df_all = load_rumors()
     df_scores, (window_start, window_end) = compute_player_scores(df_all)
 
+    last_date = df_all["date"].max() if not df_all.empty else None
+    last_date_str = last_date.strftime("%b %-d, %Y") if last_date is not None else "N/A"
+
     st.caption(
-        f"Data last updated: {df_all['date'].max().strftime('%b %-d, %Y') if not df_all.empty else 'N/A'}"
+        f"Data last updated: {last_date_str}"
         f"  •  Window: {window_start.strftime('%b %-d')} – {window_end.strftime('%b %-d')}"
     )
 
@@ -399,18 +401,15 @@ def main() -> None:
     player_slug = player_param
 
     if player_slug:
-        # Find matching player
         row = df_scores[df_scores["slug"] == player_slug]
         if not row.empty:
             player_name = row["player"].iloc[0]
-            # Filter full DF for current 28-day window once
             df_window = df_all[
                 (df_all["date"] >= window_start) & (df_all["date"] <= window_end)
             ].copy()
             show_player_view(df_window, df_all, player_name, window_start, window_end)
             return
 
-    # Otherwise show rankings
     show_rankings(df_scores)
 
 
