@@ -156,7 +156,7 @@ def compute_player_scores(df: pd.DataFrame) -> Tuple[pd.DataFrame, Tuple[pd.Time
 
 
 def render_html_table(df: pd.DataFrame) -> str:
-    """Render a simple HTML table from DataFrame, with Player column already containing HTML."""
+    """Render a styled HTML table from DataFrame, with Player column already containing HTML."""
     headers = df.columns.tolist()
     rows_html = []
     for _, row in df.iterrows():
@@ -170,6 +170,7 @@ def render_html_table(df: pd.DataFrame) -> str:
         rows_html.append("<tr>" + "".join(cells) + "</tr>")
 
     table_html = """
+<div class="heat-table-wrapper">
 <table class="heat-table">
   <thead>
     <tr>{header_cells}</tr>
@@ -178,6 +179,7 @@ def render_html_table(df: pd.DataFrame) -> str:
     {rows}
   </tbody>
 </table>
+</div>
 """.replace("{header_cells}", "".join(f"<th>{html.escape(h)}</th>" for h in headers)).replace(
         "{rows}", "\n".join(rows_html)
     )
@@ -223,37 +225,86 @@ def build_snippet_html(row: pd.Series) -> str:
 
 TABLE_CSS = """
 <style>
+.heat-table-wrapper {
+  margin-top: 0.75rem;
+  border-radius: 10px;
+  overflow: hidden;
+  border: 1px solid #e2e8f0;
+  box-shadow: 0 1px 3px rgba(15,23,42,0.08);
+}
+
 .heat-table {
   width: 100%;
   border-collapse: collapse;
+  font-family: system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
+  background-color: #ffffff;
 }
-.heat-table th, .heat-table td {
-  padding: 0.4rem 0.6rem;
-  border-bottom: 1px solid #e0e0e0;
-  text-align: left;
+
+.heat-table th,
+.heat-table td {
+  padding: 0.55rem 0.9rem;
   font-size: 0.9rem;
 }
+
 .heat-table th {
-  background-color: #f5f5f5;
+  background: #f8fafc;
+  color: #475569;
   font-weight: 600;
+  border-bottom: 1px solid #e2e8f0;
+  text-align: left;
 }
+
+.heat-table td {
+  color: #0f172a;
+  border-bottom: 1px solid #e2e8f0;
+}
+
+.heat-table tr:last-child td {
+  border-bottom: none;
+}
+
 .heat-table tr:nth-child(even) {
-  background-color: #fafafa;
+  background-color: #fdfdfd;
 }
+
+.heat-table tr:hover {
+  background-color: #f1f5f9;
+}
+
+.heat-table td:first-child {
+  width: 32px;
+  color: #64748b;
+  font-weight: 500;
+}
+
 .heat-table a {
+  color: #0369a1;
+  font-weight: 500;
   text-decoration: none;
 }
+
 .heat-table a:hover {
   text-decoration: underline;
 }
+
+/* Rumor list styling */
+.rumor-list {
+  list-style-type: disc;
+  padding-left: 1.2rem;
+}
+
 .rumor-list li {
   margin-bottom: 0.6rem;
+  line-height: 1.35;
 }
+
 .rumor-list .quote {
   font-weight: 600;
 }
+
 .rumor-list .outlet {
   font-weight: 600;
+  margin-left: 0.15rem;
 }
 </style>
 """
@@ -276,11 +327,10 @@ def show_rankings(df_scores: pd.DataFrame) -> None:
         if matches:
             chosen = matches[0]
             slug = df_scores.loc[df_scores["player"] == chosen, "slug"].iloc[0]
-            # Update query params and rerun to go to player view
             st.query_params.update(player=slug)
             st.rerun()
 
-    # Build table with standard links (force same tab via target="_self")
+    # Build table with standard links (same tab via target="_self")
     display_df = df_scores.copy()
 
     def player_link(row: pd.Series) -> str:
@@ -308,16 +358,20 @@ def show_player_view(
     st.markdown(TABLE_CSS, unsafe_allow_html=True)
 
     player_clean = NAME_FIXES.get(player_name, player_name)
-    st.markdown(
-        f'<a href="." style="text-decoration:none;">← Back to rankings</a>',
-        unsafe_allow_html=True,
-    )
+
+    # Back button at top – uses Streamlit, so it won't open a new tab
+    if st.button("← Back to rankings", key="back_top"):
+        st.query_params.clear()
+        st.rerun()
+
     st.title(f"{player_clean} – Trade Rumor Activity")
 
     # Filter rumors for this player within window
     df_player_window = df_window[df_window["player"] == player_name].copy()
 
     # Time series chart (last 28 days)
+    st.subheader("Mentions per day")
+
     if not df_player_window.empty:
         days = pd.date_range(window_start, window_end, freq="D")
         daily = (
@@ -328,24 +382,45 @@ def show_player_view(
         )
         daily.columns = ["day", "mentions"]
 
-        st.subheader("Mentions per day")
-
-        chart = (
+        base = (
             alt.Chart(daily)
-            .mark_line(point=True)
             .encode(
-                x=alt.X("day:T", axis=alt.Axis(format="%b %-d")),
-                y=alt.Y("mentions:Q", title="Mentions per day"),
+                x=alt.X(
+                    "day:T",
+                    axis=alt.Axis(format="%b %-d", labelAngle=-45, title=None),
+                ),
+                y=alt.Y(
+                    "mentions:Q",
+                    title="Mentions per day",
+                    axis=alt.Axis(grid=True),
+                ),
                 tooltip=[
                     alt.Tooltip("day:T", title="Date", format="%Y-%m-%d"),
                     alt.Tooltip("mentions:Q", title="Mentions"),
                 ],
             )
-            .properties(height=260)
         )
+
+        area = base.mark_area(
+            line={"color": "#0f766e", "strokeWidth": 2},
+            color=alt.Gradient(
+                gradient="linear",
+                stops=[
+                    alt.GradientStop(color="#0f766e", offset=0),
+                    alt.GradientStop(color="#ecfdf3", offset=1),
+                ],
+                x1=0,
+                x2=0,
+                y1=0,
+                y2=1,
+            ),
+        )
+
+        points = base.mark_circle(size=55, color="#0f766e")
+
+        chart = (area + points).properties(height=260)
         st.altair_chart(chart, use_container_width=True)
     else:
-        st.subheader("Mentions per day")
         st.write("No mentions for this player in the last 28 days.")
 
     # Most recent rumors (window-limited)
@@ -362,10 +437,10 @@ def show_player_view(
         html_list = '<ul class="rumor-list">\n' + "\n".join(items) + "\n</ul>"
         st.markdown(html_list, unsafe_allow_html=True)
 
-    st.markdown(
-        '<p style="margin-top:1.5rem;"><a href="." style="text-decoration:none;">← Back to rankings</a></p>',
-        unsafe_allow_html=True,
-    )
+    # Back button at bottom
+    if st.button("← Back to rankings", key="back_bottom"):
+        st.query_params.clear()
+        st.rerun()
 
 
 # -----------------------
