@@ -1,6 +1,6 @@
 import math
 from datetime import datetime, timedelta
-from typing import Tuple
+from typing import Tuple, Optional
 
 import pandas as pd
 import streamlit as st
@@ -30,6 +30,81 @@ NAME_FIXES = {
     "Demar Derozan": "DeMar DeRozan",
 }
 
+# Map fragments of team names to 3-letter ESPN codes
+TEAM_KEYWORDS = {
+    # East
+    "hawks": "atl",
+    "celtics": "bos",
+    "nets": "bkn",
+    "hornets": "cha",
+    "bulls": "chi",
+    "cavaliers": "cle",
+    "cavs": "cle",
+    "pistons": "det",
+    "pacers": "ind",
+    "heat": "mia",
+    "bucks": "mil",
+    "knicks": "nyk",
+    "magic": "orl",
+    "76ers": "phi",
+    "sixers": "phi",
+    "raptors": "tor",
+    "wizards": "was",
+    # West
+    "mavericks": "dal",
+    "mavs": "dal",
+    "nuggets": "den",
+    "warriors": "gsw",
+    "rockets": "hou",
+    "clippers": "lac",
+    "lakers": "lal",
+    "grizzlies": "mem",
+    "timberwolves": "min",
+    "wolves": "min",
+    "pelicans": "nop",
+    "thunder": "okc",
+    "suns": "phx",
+    "trail blazers": "por",
+    "blazers": "por",
+    "kings": "sac",
+    "spurs": "sas",
+    "jazz": "uta",
+}
+
+# Direct mapping if CSV already has abbreviations like "LAL"
+TEAM_ABBREV_DIRECT = {
+    "atl": "atl",
+    "bos": "bos",
+    "bkn": "bkn",
+    "cha": "cha",
+    "chi": "chi",
+    "cle": "cle",
+    "dal": "dal",
+    "den": "den",
+    "det": "det",
+    "gsw": "gsw",
+    "hou": "hou",
+    "ind": "ind",
+    "lac": "lac",
+    "lal": "lal",
+    "mem": "mem",
+    "mia": "mia",
+    "mil": "mil",
+    "min": "min",
+    "nop": "nop",
+    "nyk": "nyk",
+    "okc": "okc",
+    "orl": "orl",
+    "phi": "phi",
+    "phx": "phx",
+    "por": "por",
+    "sac": "sac",
+    "sas": "sas",
+    "tor": "tor",
+    "uta": "uta",
+    "was": "was",
+}
+
 
 # -----------------------
 # Utility functions
@@ -52,10 +127,38 @@ def slugify(name: str) -> str:
     return slug.strip("-")
 
 
+def get_team_code(team_name: str) -> Optional[str]:
+    """Best-effort mapping from free-form team string to 3-letter ESPN code."""
+    if not isinstance(team_name, str):
+        return None
+    s = team_name.strip().lower()
+    if not s:
+        return None
+
+    # Already an abbreviation?
+    if s in TEAM_ABBREV_DIRECT:
+        return TEAM_ABBREV_DIRECT[s]
+
+    # Match on keywords
+    for key, code in TEAM_KEYWORDS.items():
+        if key in s:
+            return code
+
+    return None
+
+
+def get_team_logo_url(team_name: str) -> str:
+    """Return a logo URL for the given team, or empty string if unknown."""
+    code = get_team_code(team_name)
+    if not code:
+        return ""
+    # ESPN scoreboard-style logo (500px; will be displayed small via CSS)
+    return f"https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/{code}.png"
+
+
 def load_rumors(csv_path: str = "trade_rumors.csv") -> pd.DataFrame:
     df = pd.read_csv(csv_path)
 
-    # Basic cleaning
     if "date" not in df.columns:
         raise RuntimeError("CSV is missing required 'date' column")
 
@@ -63,11 +166,17 @@ def load_rumors(csv_path: str = "trade_rumors.csv") -> pd.DataFrame:
     df["date"] = pd.to_datetime(df["date"], errors="coerce")
     df = df.dropna(subset=["date"])
 
-    # Normalize expected columns
+    # Ensure expected columns exist
     expected_cols = ["player", "title", "snippet", "source", "url"]
     for col in expected_cols:
         if col not in df.columns:
             df[col] = ""
+
+    # Team column is optional but helpful for logos
+    if "team" not in df.columns:
+        df["team"] = ""
+    else:
+        df["team"] = df["team"].fillna("")
 
     # Fix player names and drop non-real players
     df["player"] = df["player"].fillna("")
@@ -106,7 +215,6 @@ def compute_player_scores(df: pd.DataFrame) -> Tuple[pd.DataFrame, Tuple[pd.Time
     if df_window.empty:
         return pd.DataFrame(), (window_start, window_end)
 
-    # Bucket the dates
     df_window["days_ago"] = (window_end - df_window["date"]).dt.days
 
     def bucket_score(days_ago: int) -> float:
@@ -141,6 +249,14 @@ def compute_player_scores(df: pd.DataFrame) -> Tuple[pd.DataFrame, Tuple[pd.Time
     slug_map = df_window.groupby("player")["slug"].first()
     scores["slug"] = scores["player"].map(slug_map)
 
+    # Attach team (most frequent non-empty team for that player in window)
+    team_series = (
+        df_window[df_window["team"].str.strip().ne("")]
+        .groupby("player")["team"]
+        .agg(lambda s: s.value_counts().index[0])
+    )
+    scores["team"] = scores["player"].map(team_series).fillna("")
+
     # Sort & rank
     scores = scores.sort_values(
         by=["Score", "Mentions (0–7d)", "Mentions (8–14d)", "Mentions (15–28d)", "player"],
@@ -148,7 +264,6 @@ def compute_player_scores(df: pd.DataFrame) -> Tuple[pd.DataFrame, Tuple[pd.Time
     ).reset_index(drop=True)
     scores["Rank"] = scores.index + 1
 
-    # Make counts ints
     for col in ["Mentions (0–7d)", "Mentions (8–14d)", "Mentions (15–28d)"]:
         scores[col] = scores[col].astype(int)
 
@@ -156,18 +271,31 @@ def compute_player_scores(df: pd.DataFrame) -> Tuple[pd.DataFrame, Tuple[pd.Time
 
 
 def render_html_table(df: pd.DataFrame) -> str:
-    """Render a styled HTML table from DataFrame, with Player column already containing HTML."""
+    """
+    Render a styled HTML table from DataFrame.
+
+    Assumes the "Player" column already contains HTML, and gives that column
+    a special class so we can align logo + name.
+    """
     headers = df.columns.tolist()
     rows_html = []
+
     for _, row in df.iterrows():
         cells = []
         for col in headers:
             val = row[col]
             if col == "Player":
-                cells.append(f"<td>{val}</td>")
+                cells.append(f'<td class="player-col">{val}</td>')
             else:
                 cells.append(f"<td>{html.escape(str(val))}</td>")
         rows_html.append("<tr>" + "".join(cells) + "</tr>")
+
+    header_cells = []
+    for h in headers:
+        if h == "Player":
+            header_cells.append('<th class="player-col">Player</th>')
+        else:
+            header_cells.append(f"<th>{html.escape(h)}</th>")
 
     table_html = """
 <div class="heat-table-wrapper">
@@ -180,7 +308,7 @@ def render_html_table(df: pd.DataFrame) -> str:
   </tbody>
 </table>
 </div>
-""".replace("{header_cells}", "".join(f"<th>{html.escape(h)}</th>" for h in headers)).replace(
+""".replace("{header_cells}", "".join(header_cells)).replace(
         "{rows}", "\n".join(rows_html)
     )
 
@@ -277,6 +405,29 @@ TABLE_CSS = """
   font-weight: 500;
 }
 
+/* Player cell: logo + name inline */
+.heat-table .player-col {
+  min-width: 200px;
+}
+
+.player-cell {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.player-cell .team-logo {
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  object-fit: contain;
+  background: #f8fafc;
+}
+
+.player-cell .player-name {
+  white-space: nowrap;
+}
+
 .heat-table a {
   color: #0369a1;
   font-weight: 500;
@@ -330,159 +481,22 @@ def show_rankings(df_scores: pd.DataFrame) -> None:
             st.query_params.update(player=slug)
             st.rerun()
 
-    # Build table with standard links (same tab via target="_self")
+    # Build table values
     display_df = df_scores.copy()
 
-    def player_link(row: pd.Series) -> str:
-        slug = html.escape(row["slug"])
+    def player_cell(row: pd.Series) -> str:
         name = html.escape(row["player"])
-        return f'<a href="?player={slug}" target="_self">{name}</a>'
-
-    display_df["Player"] = display_df.apply(player_link, axis=1)
-
-    display_df = display_df[
-        ["Rank", "Player", "Score", "Mentions (0–7d)", "Mentions (8–14d)", "Mentions (15–28d)"]
-    ]
-
-    html_table = render_html_table(display_df)
-    st.markdown(html_table, unsafe_allow_html=True)
-
-
-def show_player_view(
-    df_window: pd.DataFrame,
-    df_all: pd.DataFrame,
-    player_name: str,
-    window_start: pd.Timestamp,
-    window_end: pd.Timestamp,
-) -> None:
-    st.markdown(TABLE_CSS, unsafe_allow_html=True)
-
-    player_clean = NAME_FIXES.get(player_name, player_name)
-
-    # Back button at top – uses Streamlit, so it won't open a new tab
-    if st.button("← Back to rankings", key="back_top"):
-        st.query_params.clear()
-        st.rerun()
-
-    st.title(f"{player_clean} – Trade Rumor Activity")
-
-    # Filter rumors for this player within window
-    df_player_window = df_window[df_window["player"] == player_name].copy()
-
-    # Time series chart (last 28 days)
-    st.subheader("Mentions per day")
-
-    if not df_player_window.empty:
-        days = pd.date_range(window_start, window_end, freq="D")
-        daily = (
-            df_player_window.groupby(df_player_window["date"].dt.normalize())
-            .size()
-            .reindex(days, fill_value=0)
-            .reset_index()
-        )
-        daily.columns = ["day", "mentions"]
-
-        base = (
-            alt.Chart(daily)
-            .encode(
-                x=alt.X(
-                    "day:T",
-                    axis=alt.Axis(format="%b %-d", labelAngle=-45, title=None),
-                ),
-                y=alt.Y(
-                    "mentions:Q",
-                    title="Mentions per day",
-                    axis=alt.Axis(grid=True),
-                ),
-                tooltip=[
-                    alt.Tooltip("day:T", title="Date", format="%Y-%m-%d"),
-                    alt.Tooltip("mentions:Q", title="Mentions"),
-                ],
-            )
-        )
-
-        area = base.mark_area(
-            line={"color": "#0f766e", "strokeWidth": 2},
-            color=alt.Gradient(
-                gradient="linear",
-                stops=[
-                    alt.GradientStop(color="#0f766e", offset=0),
-                    alt.GradientStop(color="#ecfdf3", offset=1),
-                ],
-                x1=0,
-                x2=0,
-                y1=0,
-                y2=1,
-            ),
-        )
-
-        points = base.mark_circle(size=55, color="#0f766e")
-
-        chart = (area + points).properties(height=260)
-        st.altair_chart(chart, use_container_width=True)
-    else:
-        st.write("No mentions for this player in the last 28 days.")
-
-    # Most recent rumors (window-limited)
-    st.subheader("Most recent trade rumors")
-
-    df_player_recent = df_player_window.sort_values("date", ascending=False)
-    if df_player_recent.empty:
-        st.write("No trade rumors found for this player in the last 28 days.")
-    else:
-        items = []
-        for _, row in df_player_recent.iterrows():
-            items.append(f"<li>{build_snippet_html(row)}</li>")
-
-        html_list = '<ul class="rumor-list">\n' + "\n".join(items) + "\n</ul>"
-        st.markdown(html_list, unsafe_allow_html=True)
-
-    # Back button at bottom
-    if st.button("← Back to rankings", key="back_bottom"):
-        st.query_params.clear()
-        st.rerun()
-
-
-# -----------------------
-# Main app
-# -----------------------
-
-def main() -> None:
-    st.title("NBA Trade Rumor Rankings")
-    st.write(
-        f"Based on **trade rumors** from the last {WINDOW_DAYS} days, with more recent mentions weighted more heavily."
-    )
-
-    df_all = load_rumors()
-    df_scores, (window_start, window_end) = compute_player_scores(df_all)
-
-    last_date = df_all["date"].max() if not df_all.empty else None
-    last_date_str = last_date.strftime("%b %-d, %Y") if last_date is not None else "N/A"
-
-    st.caption(
-        f"Data last updated: {last_date_str}"
-        f"  •  Window: {window_start.strftime('%b %-d')} – {window_end.strftime('%b %-d')}"
-    )
-
-    # Determine if we're on a player page
-    params = st.query_params
-    player_param = params.get("player")
-    if isinstance(player_param, list):
-        player_param = player_param[0]
-    player_slug = player_param
-
-    if player_slug:
-        row = df_scores[df_scores["slug"] == player_slug]
-        if not row.empty:
-            player_name = row["player"].iloc[0]
-            df_window = df_all[
-                (df_all["date"] >= window_start) & (df_all["date"] <= window_end)
-            ].copy()
-            show_player_view(df_window, df_all, player_name, window_start, window_end)
-            return
-
-    show_rankings(df_scores)
-
-
-if __name__ == "__main__":
-    main()
+        slug = html.escape(row["slug"])
+        team = row.get("team", "")
+        logo_html = ""
+        if isinstance(team, str) and team.strip():
+            logo_url = get_team_logo_url(team)
+            if logo_url:
+                logo_html = (
+                    f'<img src="{html.escape(logo_url)}" '
+                    f'class="team-logo" alt="{html.escape(team)}" />'
+                )
+        return (
+            f'<div class="player-cell">'
+            f'{logo_html}'
+            f'<a href="?player={slug}"
