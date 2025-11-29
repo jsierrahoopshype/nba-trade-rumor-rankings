@@ -1,111 +1,364 @@
-import datetime as dt
-
-import altair as alt
-import pandas as pd
 import streamlit as st
+import pandas as pd
+import altair as alt
+from datetime import timedelta
+from urllib.parse import quote
+
+# ---------- Page config ----------
+st.set_page_config(
+    page_title="NBA Trade Rumor Rankings",
+    layout="wide",
+)
+
+WINDOW_DAYS = 28
+
+# Optional: mapping hooks for logos (safe no-op by default)
+# Fill these if/when you have team + logo information.
+PLAYER_TO_TEAM = {
+    # "LeBron James": "LAL",
+    # "Nikola Jokic": "DEN",
+}
+
+TEAM_TO_LOGO_URL = {
+    # "LAL": "https://your-cdn.com/logos/lal.png",
+    # "DEN": "https://your-cdn.com/logos/den.png",
+}
 
 
-# -----------------------------
-# Basic config & styling
-# -----------------------------
+# ---------- Helpers ----------
 
-WINDOW_DAYS = 28  # rolling window for rankings
+def _normalize_player_name(name: str) -> str:
+    """Fix known capitalization issues etc."""
+    if not isinstance(name, str):
+        return ""
+    name = name.strip()
+    fixups = {
+        "Lebron James": "LeBron James",
+        "Karl-anthony Towns": "Karl-Anthony Towns",
+    }
+    return fixups.get(name, name)
 
 
-def style_app() -> None:
-    """Inject CSS to style the app + rankings table."""
+@st.cache_data(show_spinner=False)
+def load_rumors() -> pd.DataFrame:
+    df = pd.read_csv("trade_rumors.csv")
+
+    # Standardize column names
+    df.columns = [c.strip() for c in df.columns]
+
+    # --- Date column ---
+    date_col = "date"
+    if date_col not in df.columns:
+        # fall back to first column if somehow named differently
+        date_col = df.columns[0]
+
+    df[date_col] = pd.to_datetime(df[date_col], errors="coerce").dt.normalize()
+    df = df[df[date_col].notna()].copy()
+    df.rename(columns={date_col: "date"}, inplace=True)
+
+    # --- Player column ---
+    if "player" not in df.columns:
+        for cand in ["player_name", "name"]:
+            if cand in df.columns:
+                df.rename(columns={cand: "player"}, inplace=True)
+                break
+
+    if "player" not in df.columns:
+        df["player"] = ""
+
+    df["player"] = df["player"].fillna("").map(_normalize_player_name)
+
+    # Make sure we have some basic text fields
+    # (we'll be defensive when rendering)
+    return df.sort_values("date").reset_index(drop=True)
+
+
+def compute_player_scores(df: pd.DataFrame, window_end: pd.Timestamp) -> pd.DataFrame:
+    """Compute weighted scores for players over the last WINDOW_DAYS."""
+    df = df.copy()
+    df["date"] = pd.to_datetime(df["date"]).dt.normalize()
+
+    window_start = window_end - timedelta(days=WINDOW_DAYS - 1)
+
+    recent_cutoff = window_end - timedelta(days=7)
+    mid_cutoff = window_end - timedelta(days=14)
+    old_cutoff = window_end - timedelta(days=28)
+
+    # Only keep window + a tiny buffer (just in case)
+    df = df[df["date"] >= old_cutoff].copy()
+
+    def weight_for_day(d: pd.Timestamp) -> float:
+        if d > recent_cutoff:
+            return 1.0
+        elif d > mid_cutoff:
+            return 0.5
+        elif d >= old_cutoff:
+            return 0.25
+        return 0.0
+
+    df["weight"] = df["date"].map(weight_for_day)
+
+    grouped = (
+        df.groupby("player", dropna=True)
+        .agg(
+            score=("weight", "sum"),
+            mentions_0_7=("date", lambda s: ((s > recent_cutoff) & (s <= window_end)).sum()),
+            mentions_8_14=("date", lambda s: ((s > mid_cutoff) & (s <= recent_cutoff)).sum()),
+            mentions_15_28=("date", lambda s: ((s >= old_cutoff) & (s <= mid_cutoff)).sum()),
+        )
+        .reset_index()
+    )
+
+    grouped = grouped[grouped["score"] > 0].copy()
+    grouped.sort_values("score", ascending=False, inplace=True)
+    grouped.insert(0, "Rank", range(1, len(grouped) + 1))
+
+    # Nice column labels for display
+    grouped.rename(
+        columns={
+            "player": "Player",
+            "score": "Score",
+            "mentions_0_7": "Mentions (0–7d)",
+            "mentions_8_14": "Mentions (8–14d)",
+            "mentions_15_28": "Mentions (15–28d)",
+        },
+        inplace=True,
+    )
+    return grouped.reset_index(drop=True)
+
+
+def get_logo_html(player_name: str) -> str:
+    """Return an <img> tag for the player's team logo, or empty string."""
+    team = PLAYER_TO_TEAM.get(player_name)
+    if not team:
+        return ""
+    logo_url = TEAM_TO_LOGO_URL.get(team)
+    if not logo_url:
+        return ""
+    return f'<img src="{logo_url}" alt="{team}" class="team-logo" />'
+
+
+def format_date_range(start: pd.Timestamp, end: pd.Timestamp) -> str:
+    return f"{start.strftime('%b %d')} – {end.strftime('%b %d')}"
+
+
+def get_text_column(df: pd.DataFrame) -> str:
+    """Pick the best available column to display rumor text."""
+    for cand in ["headline", "title", "snippet", "text", "body"]:
+        if cand in df.columns:
+            return cand
+    return None
+
+
+def get_highlight_column(df: pd.DataFrame) -> str:
+    for cand in ["highlight", "highlight_text"]:
+        if cand in df.columns:
+            return cand
+    return None
+
+
+def get_media_column(df: pd.DataFrame) -> str:
+    for cand in ["media", "source"]:
+        if cand in df.columns:
+            return cand
+    return None
+
+
+# ---------- Views ----------
+
+def show_rankings(df_scores: pd.DataFrame, window_start, window_end):
     st.markdown(
         """
         <style>
-        /* Overall layout */
-        .main > div {
-            padding-top: 1.5rem;
+        .headline {
+            font-size: 2.4rem;
+            font-weight: 800;
+            margin-bottom: 0.25rem;
         }
-
-        /* Rankings table wrapper */
-        .table-wrapper {
-            margin-top: 1rem;
-            border-radius: 8px;
-            overflow: hidden;
-            border: 1px solid #e5e7eb;
-            box-shadow: 0 4px 10px rgba(15, 23, 42, 0.04);
+        .subheadline {
+            color: #475569;
+            margin-bottom: 0.25rem;
         }
-
-        table.ranking-table {
-            width: 100%;
-            border-collapse: collapse;
-            font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
-                         sans-serif;
+        .meta-text {
+            color: #6b7280;
             font-size: 0.9rem;
-            background: #ffffff;
+            margin-bottom: 1.5rem;
         }
-
-        table.ranking-table thead tr {
-            background: #f9fafb;
+        .search-row {
+            margin: 0.5rem 0 1.5rem 0;
         }
-
-        table.ranking-table th {
+        .rank-table {
+            width: 100%;
+            border-collapse: separate;
+            border-spacing: 0;
+            font-size: 0.95rem;
+        }
+        .rank-table thead tr {
+            background: #f3f4f6;
+        }
+        .rank-table th {
             text-align: left;
+            padding: 0.65rem 0.9rem;
             font-weight: 600;
-            padding: 0.75rem 0.9rem;
             border-bottom: 1px solid #e5e7eb;
             color: #4b5563;
             font-size: 0.8rem;
             text-transform: uppercase;
-            letter-spacing: 0.03em;
         }
-
-        table.ranking-table td {
+        .rank-table tbody tr:nth-child(even) {
+            background: #f9fafb;
+        }
+        .rank-table tbody tr:nth-child(odd) {
+            background: #ffffff;
+        }
+        .rank-table td {
             padding: 0.65rem 0.9rem;
-            border-bottom: 1px solid #f1f5f9;
-            color: #111827;
+            border-bottom: 1px solid #e5e7eb;
             vertical-align: middle;
         }
-
-        table.ranking-table tr:nth-child(even) {
-            background: #fafafa;
-        }
-
-        table.ranking-table tr:hover {
-            background: #f3f4ff;
-        }
-
-        td.rank-cell {
-            width: 44px;
-            text-align: right;
-            font-weight: 600;
+        .rank-table td.rank-cell {
+            width: 40px;
             color: #6b7280;
         }
-
-        td.logo-cell {
-            width: 42px;
-        }
-
-        .logo-img {
-            height: 26px;
-            width: 26px;
-            object-fit: contain;
-            border-radius: 50%;
-            display: block;
-        }
-
-        td.player-cell {
+        .rank-table a.player-link {
+            text-decoration: none;
+            color: #1d4ed8;
             font-weight: 500;
-            color: #1f2933;
-            white-space: nowrap;
         }
+        .rank-table a.player-link:hover {
+            text-decoration: underline;
+        }
+        .team-logo {
+            width: 22px;
+            height: 22px;
+            border-radius: 999px;
+            margin-right: 0.45rem;
+            vertical-align: middle;
+            object-fit: contain;
+        }
+        .player-cell {
+            display: flex;
+            align-items: center;
+            gap: 0.35rem;
+        }
+        </style>
+        """,
+        unsafe_allow_html=True,
+    )
 
-        td.score-cell {
+    st.markdown('<div class="headline">NBA <span style="background: #fef08a;">Trade</span> <span style="background: #fef08a;">Rumor</span> Rankings</div>', unsafe_allow_html=True)
+
+    st.markdown(
+        f'<div class="subheadline">Based on <span style="background:#fef3c7;">trade rumors</span> from the last {WINDOW_DAYS} days.</div>',
+        unsafe_allow_html=True,
+    )
+
+    st.markdown(
+        f'<div class="meta-text">Data last updated: {df_scores.index.max() if len(df_scores)==0 else df_scores.index.min():}</div>',
+        unsafe_allow_html=True,
+    )
+
+    # Use the max date from the underlying data as "last updated"
+    # (this is more accurate than "today" if there are no rumors today)
+    last_date = window_end.strftime("%b %d, %Y")
+    window_label = format_date_range(window_start, window_end)
+    st.markdown(
+        f'<div class="meta-text">Data last updated: {last_date} • Window: {window_label}</div>',
+        unsafe_allow_html=True,
+    )
+
+    # --- Player jump box ---
+    st.markdown("**Jump to a player page (type a name):**")
+    options = [""] + df_scores["Player"].tolist()
+    selected = st.selectbox(
+        "Jump to player page",
+        options=options,
+        index=0,
+        label_visibility="collapsed",
+    )
+    if selected:
+        # Same-window navigation: update query params only
+        st.query_params["player"] = selected
+        st.rerun()
+
+    # --- Rankings table ---
+    headers = ["Rank", "Player", "Score", "Mentions (0–7d)", "Mentions (8–14d)", "Mentions (15–28d)"]
+
+    rows_html = []
+    for _, row in df_scores.iterrows():
+        player = row["Player"]
+        href = f"?player={quote(player)}"
+        logo_html = get_logo_html(player)
+
+        player_cell = (
+            f'<div class="player-cell">'
+            f'{logo_html}'
+            f'<a class="player-link" href="{href}">{player}</a>'
+            f'</div>'
+        )
+
+        rows_html.append(
+            "<tr>"
+            f'<td class="rank-cell">{int(row["Rank"])}</td>'
+            f"<td>{player_cell}</td>"
+            f"<td>{row['Score']:.2f}</td>"
+            f"<td>{int(row['Mentions (0–7d)'])}</td>"
+            f"<td>{int(row['Mentions (8–14d)'])}</td>"
+            f"<td>{int(row['Mentions (15–28d)'])}</td>"
+            "</tr>"
+        )
+
+    table_html = (
+        "<table class='rank-table'>"
+        "<thead><tr>"
+        + "".join(f"<th>{h}</th>" for h in headers)
+        + "</tr></thead><tbody>"
+        + "".join(rows_html)
+        + "</tbody></table>"
+    )
+
+    st.markdown("### Top trade-rumor targets (last 28 days)")
+    st.markdown(table_html, unsafe_allow_html=True)
+
+
+def show_player_view(df_all: pd.DataFrame, player: str, window_start, window_end):
+    text_col = get_text_column(df_all)
+    highlight_col = get_highlight_column(df_all)
+    media_col = get_media_column(df_all)
+
+    st.markdown(
+        """
+        <style>
+        .back-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.25rem;
+            padding: 0.35rem 0.7rem;
+            border-radius: 999px;
+            border: 1px solid #e5e7eb;
+            background: #f9fafb;
+            font-size: 0.9rem;
+            color: #374151 !important;
+            text-decoration: none;
+            margin-bottom: 1rem;
+        }
+        .back-link:hover {
+            background: #e5e7eb;
+        }
+        .chart-wrapper {
+            background: #f9fafb;
+            border-radius: 0.75rem;
+            padding: 1.25rem 1.5rem 0.75rem 1.5rem;
+            border: 1px solid #e5e7eb;
+            margin-bottom: 1.5rem;
+        }
+        .chart-title {
             font-weight: 600;
+            margin-bottom: 0.25rem;
         }
-
-        .metric-sub {
-            font-size: 0.8rem;
+        .chart-subtitle {
+            font-size: 0.85rem;
             color: #6b7280;
-        }
-
-        /* "Back to rankings" button */
-        .back-btn {
             margin-bottom: 0.75rem;
         }
         </style>
@@ -113,374 +366,140 @@ def style_app() -> None:
         unsafe_allow_html=True,
     )
 
-
-# -----------------------------
-# Team logo mapping
-# -----------------------------
-# NOTE:
-# - You can extend or change this dict at any time.
-# - Keys are *player names exactly as they appear in the CSV*.
-# - Values are logo URLs (these use ESPN's generic scoreboard logos).
-# - If a player is missing here, the app will simply show an empty logo cell.
-
-TEAM_LOGOS = {
-    "Nikola Jokic": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/den.png",
-    "LeBron James": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png",
-    "Anthony Davis": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png",
-    "Shai Gilgeous-Alexander": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png",
-    "Luka Doncic": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/dal.png",
-    "Tyrese Maxey": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phi.png",
-    "Austin Reaves": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png",
-    "Donovan Mitchell": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cle.png",
-    "Cade Cunningham": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/det.png",
-    "Giannis Antetokounmpo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png",
-    "Jaylen Brown": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bos.png",
-    "Julius Randle": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png",
-    "Karl-Anthony Towns": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/min.png",
-    "Jalen Brunson": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png",
-    "James Harden": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lac.png",
-    "Jamal Murray": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/den.png",
-    "Scottie Barnes": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/tor.png",
-    "Franz Wagner": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/orl.png",
-    "Devin Booker": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phx.png",
-    # Add more players here as needed...
-}
-
-
-# -----------------------------
-# Data loading & scoring
-# -----------------------------
-
-
-def load_rumors() -> pd.DataFrame:
-    df = pd.read_csv("trade_rumors.csv")
-
-    # Normalise column names if needed
-    df.columns = [c.strip().lower() for c in df.columns]
-
-    # Basic required columns
-    required_cols = {"date", "player"}
-    missing = required_cols - set(df.columns)
-    if missing:
-        raise ValueError(f"CSV is missing required columns: {', '.join(sorted(missing))}")
-
-    df["date"] = pd.to_datetime(df["date"]).dt.normalize()
-    df["player"] = df["player"].astype(str).str.strip()
-
-    # Optional columns (fall back safely if missing)
-    for col in ["media", "highlight_html", "quote_html"]:
-        if col not in df.columns:
-            df[col] = ""
-
-    # Normalise a couple of well-known player-name edge cases
-    df["player"] = (
-        df["player"]
-        .replace(
-            {
-                "Lebron James": "LeBron James",
-                "Karl-anthony Towns": "Karl-Anthony Towns",
-            }
-        )
-        .str.strip()
-    )
-
-    return df
-
-
-def compute_player_scores(df: pd.DataFrame, window_days: int = WINDOW_DAYS):
-    """Return (scores_df, df_window, window_start, window_end)."""
-
-    if df.empty:
-        return (
-            pd.DataFrame(
-                columns=[
-                    "Rank",
-                    "Player",
-                    "Score",
-                    "Mentions (0–7d)",
-                    "Mentions (8–14d)",
-                    "Mentions (15–28d)",
-                ]
-            ),
-            df.copy(),
-            None,
-            None,
-        )
-
-    # Use most recent rumor date as window end
-    window_end = df["date"].max().normalize()
-    window_start = window_end - dt.timedelta(days=window_days - 1)
-
-    df_window = df[(df["date"] >= window_start) & (df["date"] <= window_end)].copy()
-
-    # Age in days relative to window_end
-    df_window["age_days"] = (window_end - df_window["date"]).dt.days
-
-    recent_mask = df_window["age_days"] <= 6          # last 7 days
-    mid_mask = (df_window["age_days"] >= 7) & (df_window["age_days"] <= 13)
-    old_mask = (df_window["age_days"] >= 14) & (df_window["age_days"] <= 27)
-
-    recent_counts = (
-        df_window[recent_mask].groupby("player").size().rename("Mentions (0–7d)")
-    )
-    mid_counts = (
-        df_window[mid_mask].groupby("player").size().rename("Mentions (8–14d)")
-    )
-    old_counts = (
-        df_window[old_mask].groupby("player").size().rename("Mentions (15–28d)")
-    )
-
-    scores = (
-        pd.concat([recent_counts, mid_counts, old_counts], axis=1)
-        .fillna(0)
-        .reset_index()
-    )
-
-    scores["Score"] = (
-        scores["Mentions (0–7d)"]
-        + 0.5 * scores["Mentions (8–14d)"]
-        + 0.25 * scores["Mentions (15–28d)"]
-    )
-
-    # Sort and add rank
-    scores = scores.sort_values(
-        ["Score", "Mentions (0–7d)", "player"], ascending=[False, False, True]
-    )
-    scores["Rank"] = range(1, len(scores) + 1)
-
-    # Reorder columns for display
-    scores = scores[
-        [
-            "Rank",
-            "player",
-            "Score",
-            "Mentions (0–7d)",
-            "Mentions (8–14d)",
-            "Mentions (15–28d)",
-        ]
-    ].rename(columns={"player": "Player"})
-
-    return scores, df_window, window_start, window_end
-
-
-# -----------------------------
-# UI pieces
-# -----------------------------
-
-
-def show_rankings(df_scores: pd.DataFrame) -> None:
-    st.subheader("Top trade-rumor targets (last 28 days)")
-
-    if df_scores.empty:
-        st.info("No trade-rumor data available for the current window.")
-        return
-
-    # Search + jump
-    col_search, col_jump = st.columns([2, 2])
-
-    with col_search:
-        search = st.text_input("Search for a player", "")
-
-    if search:
-        filtered = df_scores[
-            df_scores["Player"].str.contains(search, case=False, na=False)
-        ]
-    else:
-        filtered = df_scores
-
-    with col_jump:
-        player_list = ["(select a player)"] + filtered["Player"].tolist()
-        choice = st.selectbox("Jump to a player page", player_list, index=0)
-        if choice != "(select a player)":
-            st.session_state["mode"] = "player"
-            st.session_state["player"] = choice
-            st.experimental_rerun()
-
-    # Build HTML table with logo column
-    headers = [
-        "Rank",
-        "",  # logo
-        "Player",
-        "Score",
-        "Mentions (0–7d)",
-        "Mentions (8–14d)",
-        "Mentions (15–28d)",
-    ]
-
-    rows_html = []
-    for _, r in filtered.iterrows():
-        rank = int(r["Rank"])
-        player = str(r["Player"])
-        score = float(r["Score"])
-        m0 = int(r["Mentions (0–7d)"])
-        m1 = int(r["Mentions (8–14d)"])
-        m2 = int(r["Mentions (15–28d)"])
-
-        logo_url = TEAM_LOGOS.get(player, "")
-        if logo_url:
-            logo_html = f'<img src="{logo_url}" class="logo-img" alt="">'
-        else:
-            logo_html = ""
-
-        rows_html.append(
-            f"""
-            <tr>
-                <td class="rank-cell">{rank}</td>
-                <td class="logo-cell">{logo_html}</td>
-                <td class="player-cell">{player}</td>
-                <td class="score-cell">{score:.2f}</td>
-                <td>{m0}</td>
-                <td>{m1}</td>
-                <td>{m2}</td>
-            </tr>
-            """
-        )
-
-    table_html = f"""
-        <div class="table-wrapper">
-        <table class="ranking-table">
-            <thead>
-                <tr>
-                    <th>{headers[0]}</th>
-                    <th>{headers[1]}</th>
-                    <th>{headers[2]}</th>
-                    <th>{headers[3]}</th>
-                    <th>{headers[4]}</th>
-                    <th>{headers[5]}</th>
-                    <th>{headers[6]}</th>
-                </tr>
-            </thead>
-            <tbody>
-                {''.join(rows_html)}
-            </tbody>
-        </table>
-        </div>
-    """
-    st.markdown(table_html, unsafe_allow_html=True)
-
-
-def show_player_view(
-    df_window: pd.DataFrame,
-    player: str,
-    window_start: dt.date,
-    window_end: dt.date,
-) -> None:
-    """Per-player page: sparkline + list of recent rumors."""
-
-    # Back button – stays in same window
-    if st.button("← Back to rankings", key="back_btn"):
-        st.session_state["mode"] = "rankings"
-        st.session_state["player"] = None
-        st.experimental_rerun()
-
-    st.markdown(f"## {player} – Trade Rumor Activity")
-
-    if df_window.empty:
-        st.info("No trade-rumor data for this player in the current window.")
-        return
-
-    df_p = df_window[df_window["player"] == player].copy()
-    if df_p.empty:
-        st.info("No trade-rumor data for this player in the current window.")
-        return
-
-    # Daily mentions chart (only within 28-day window)
-    all_days = pd.date_range(window_start, window_end, freq="D")
-    daily = (
-        df_p.groupby("date")
-        .size()
-        .reindex(all_days, fill_value=0)
-        .reset_index()
-        .rename(columns={"index": "day", 0: "mentions"})
-    )
-    daily.columns = ["day", "mentions"]
-
-    chart = (
-        alt.Chart(daily)
-        .mark_line(point=True, interpolate="monotone")
-        .encode(
-            x=alt.X("day:T", title="Date"),
-            y=alt.Y("mentions:Q", title="Mentions per day", scale=alt.Scale(nice=True)),
-            tooltip=["day:T", "mentions:Q"],
-        )
-        .properties(height=260)
-    )
-
-    st.altair_chart(chart, use_container_width=True)
-
-    # Recent rumors list
-    st.markdown("### Most recent trade rumors")
-
-    df_p = df_p.sort_values("date", ascending=False)
-
-    for _, row in df_p.iterrows():
-        date_str = row["date"].strftime("%b %-d")
-        outlet = str(row.get("media") or "").strip()
-
-        # Prefer highlighted_html, then quote_html, then empty
-        body_html = str(row.get("highlight_html") or "").strip()
-        if not body_html:
-            body_html = str(row.get("quote_html") or "").strip()
-
-        if not body_html:
-            # Nothing meaningful to show; skip
-            continue
-
-        bullet = f"**{date_str} – {outlet}** – {body_html}"
-        st.markdown(f"- {bullet}", unsafe_allow_html=True)
-
-
-# -----------------------------
-# Main
-# -----------------------------
-
-
-def main():
-    st.set_page_config(
-        page_title="NBA Trade Rumor Rankings",
-        layout="wide",
-    )
-    style_app()
-
-    # Simple state machine for rankings vs player page
-    if "mode" not in st.session_state:
-        st.session_state["mode"] = "rankings"
-        st.session_state["player"] = None
-
-    df = load_rumors()
-    df_scores, df_window, window_start, window_end = compute_player_scores(df)
-
+    # Back link – plain href, no target="_blank" so it stays in the same window
     st.markdown(
-        "<span style='font-size:2.1rem; font-weight:700;'>NBA "
-        "<span style='background: #fef08a; padding:0 0.2rem;'>Trade</span> "
-        "<span style='background: #fef08a; padding:0 0.2rem;'>Rumor</span> "
-        "Rankings</span>",
+        '<a class="back-link" href="/">&#8592; Back to rankings</a>',
         unsafe_allow_html=True,
     )
 
-    if window_start is not None and window_end is not None:
-        last_date = df["date"].max()
-        st.caption(
-            f"Based on trade rumors from the last {WINDOW_DAYS} days "
-            f"({window_start:%b %-d} – {window_end:%b %-d}).  \n"
-            f"Data last updated: {last_date:%b %-d, %Y} • "
-            f"Window: {window_start:%b %-d} – {window_end:%b %-d}"
-        )
-    else:
-        st.caption("No trade-rumor data available yet.")
+    st.markdown(f"## {player} – Trade Rumor Activity")
 
-    mode = st.session_state.get("mode", "rankings")
+    df_player = df_all[df_all["player"] == player].copy()
+    if df_player.empty:
+        st.info("No trade rumors for this player in the current window.")
+        return
 
-    if mode == "player" and st.session_state.get("player"):
-        show_player_view(
-            df_window,
-            st.session_state["player"],
-            window_start,
-            window_end,
+    # Only last WINDOW_DAYS for the chart
+    df_player_window = df_player[(df_player["date"] >= window_start) & (df_player["date"] <= window_end)].copy()
+
+    days = pd.date_range(window_start, window_end, freq="D")
+    daily_counts = (
+        df_player_window
+        .groupby(df_player_window["date"].dt.normalize())
+        .size()
+        .reindex(days, fill_value=0)
+        .rename("mentions")
+        .reset_index()
+    )
+    daily_counts.rename(columns={"index": "day", "date": "day"}, inplace=True)
+    daily_counts["day"] = days
+
+    max_y = max(3, daily_counts["mentions"].max() + 1)
+
+    chart = (
+        alt.Chart(daily_counts)
+        .mark_area(line={"size": 2}, opacity=0.25)
+        .encode(
+            x=alt.X(
+                "day:T",
+                axis=alt.Axis(title=None, format="%b %d"),
+            ),
+            y=alt.Y(
+                "mentions:Q",
+                axis=alt.Axis(title="Mentions per day", tickMinStep=1),
+                scale=alt.Scale(domain=[0, max_y]),
+            ),
+            tooltip=["day:T", "mentions:Q"],
         )
+        .properties(height=260)
+        .interactive()
+    )
+
+    st.markdown(
+        f"""
+        <div class="chart-wrapper">
+          <div class="chart-title">Mentions per day</div>
+          <div class="chart-subtitle">Last {WINDOW_DAYS} days ({format_date_range(window_start, window_end)})</div>
+        """,
+        unsafe_allow_html=True,
+    )
+    st.altair_chart(chart, use_container_width=True)
+    st.markdown("</div>", unsafe_allow_html=True)
+
+    # --- Recent rumors list ---
+    st.markdown("### Most recent trade rumors")
+
+    if df_player_window.empty:
+        st.write("No trade rumors for this player in the last 28 days.")
+        return
+
+    df_player_window = df_player_window.sort_values("date", ascending=False).head(60)
+
+    bullet_items = []
+    for _, row in df_player_window.iterrows():
+        date_str = row["date"].strftime("%b %d")
+        media = row[media_col] if media_col and media_col in row.index and pd.notna(row[media_col]) else ""
+        media_html = f"<strong>{media}</strong>" if media else ""
+
+        url = row["url"] if "url" in row.index and pd.notna(row["url"]) else None
+
+        # Choose base text
+        text = ""
+        if text_col and text_col in row.index and pd.notna(row[text_col]):
+            text = str(row[text_col]).strip()
+
+        # Choose highlight text
+        highlight = ""
+        if highlight_col and highlight_col in row.index and pd.notna(row[highlight_col]):
+            highlight = str(row[highlight_col]).strip()
+
+        if url and highlight and highlight in text:
+            # Wrap ONLY the highlighted portion in a link
+            linked = text.replace(
+                highlight,
+                f'<a href="{url}" rel="nofollow" target="_blank">{highlight}</a>',
+                1,
+            )
+            text_html = linked
+        elif url and text:
+            # Fallback: link the media outlet only
+            text_html = f'{text} <a href="{url}" rel="nofollow" target="_blank">{media or "Link"}</a>'
+        else:
+            text_html = text
+
+        bullet_html = f"<li><span style='font-weight:600;'>{date_str}</span> – {media_html} {text_html}</li>"
+        bullet_items.append(bullet_html)
+
+    st.markdown("<ul>" + "".join(bullet_items) + "</ul>", unsafe_allow_html=True)
+
+    # Back link at bottom as well, same-window
+    st.markdown(
+        '<a class="back-link" href="/">&#8592; Back to rankings</a>',
+        unsafe_allow_html=True,
+    )
+
+
+# ---------- Main ----------
+
+def main():
+    df = load_rumors()
+    if df.empty:
+        st.error("No trade rumor data available yet.")
+        return
+
+    window_end = df["date"].max()
+    window_start = window_end - timedelta(days=WINDOW_DAYS - 1)
+    df_scores = compute_player_scores(df, window_end)
+
+    params = st.query_params
+    player_param = params.get("player", None)
+    if isinstance(player_param, list):
+        player_param = player_param[0]
+
+    if player_param:
+        show_player_view(df, player_param, window_start, window_end)
     else:
-        st.session_state["mode"] = "rankings"
-        show_rankings(df_scores)
+        show_rankings(df_scores, window_start, window_end)
 
 
 if __name__ == "__main__":
