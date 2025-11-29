@@ -9,7 +9,6 @@ import streamlit as st
 # Basic config & styling
 # -----------------------------
 
-
 WINDOW_DAYS = 28  # rolling window for rankings
 
 
@@ -244,7 +243,9 @@ def compute_player_scores(df: pd.DataFrame, window_days: int = WINDOW_DAYS):
     )
 
     # Sort and add rank
-    scores = scores.sort_values(["Score", "Mentions (0–7d)", "player"], ascending=[False, False, True])  # type: ignore[arg-type]
+    scores = scores.sort_values(
+        ["Score", "Mentions (0–7d)", "player"], ascending=[False, False, True]
+    )
     scores["Rank"] = range(1, len(scores) + 1)
 
     # Reorder columns for display
@@ -307,13 +308,13 @@ def show_rankings(df_scores: pd.DataFrame) -> None:
     ]
 
     rows_html = []
-    for row in filtered.itertuples(index=False):
-        rank = row.Rank
-        player = row.Player
-        score = row.Score
-        m0 = row._4  # Mentions (0–7d)
-        m1 = row._5  # Mentions (8–14d)
-        m2 = row._6  # Mentions (15–28d)
+    for _, r in filtered.iterrows():
+        rank = int(r["Rank"])
+        player = str(r["Player"])
+        score = float(r["Score"])
+        m0 = int(r["Mentions (0–7d)"])
+        m1 = int(r["Mentions (8–14d)"])
+        m2 = int(r["Mentions (15–28d)"])
 
         logo_url = TEAM_LOGOS.get(player, "")
         if logo_url:
@@ -328,9 +329,9 @@ def show_rankings(df_scores: pd.DataFrame) -> None:
                 <td class="logo-cell">{logo_html}</td>
                 <td class="player-cell">{player}</td>
                 <td class="score-cell">{score:.2f}</td>
-                <td>{int(m0)}</td>
-                <td>{int(m1)}</td>
-                <td>{int(m2)}</td>
+                <td>{m0}</td>
+                <td>{m1}</td>
+                <td>{m2}</td>
             </tr>
             """
         )
