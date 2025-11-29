@@ -1,6 +1,6 @@
 import math
 from datetime import datetime, timedelta
-from typing import Optional, Tuple, Dict
+from typing import Tuple
 
 import pandas as pd
 import streamlit as st
@@ -276,21 +276,17 @@ def show_rankings(df_scores: pd.DataFrame) -> None:
         if matches:
             chosen = matches[0]
             slug = df_scores.loc[df_scores["player"] == chosen, "slug"].iloc[0]
-            st.query_params["player"] = slug
+            # Update query params and rerun to go to player view
+            st.query_params.update(player=slug)
             st.rerun()
 
-    # Build table with JS-based links so navigation stays in the same window
+    # Build table with standard links (force same tab via target="_self")
     display_df = df_scores.copy()
 
     def player_link(row: pd.Series) -> str:
         slug = html.escape(row["slug"])
         name = html.escape(row["player"])
-        # JS changes the query string without opening a new tab
-        return (
-            f'<a href="#" '
-            f'onclick="window.location.search=\'?player={slug}\';return false;">'
-            f"{name}</a>"
-        )
+        return f'<a href="?player={slug}" target="_self">{name}</a>'
 
     display_df["Player"] = display_df.apply(player_link, axis=1)
 
