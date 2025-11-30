@@ -64,6 +64,7 @@ def load_rumors_csv(path: str = "trade_rumors.csv") -> pd.DataFrame:
     except FileNotFoundError:
         return pd.DataFrame()
 
+    # Parse dates
     if "date" in df.columns:
         df["date"] = pd.to_datetime(df["date"], errors="coerce", utc=True)
     else:
@@ -71,11 +72,16 @@ def load_rumors_csv(path: str = "trade_rumors.csv") -> pd.DataFrame:
 
     df = df.dropna(subset=["date"])
 
+    # Normalise / clean player column
     if "player" not in df.columns:
         df["player"] = ""
-
-    # Ensure string type
     df["player"] = df["player"].astype(str)
+
+    # Drop obviously bad / placeholder values so we never see "Player"
+    bad_mask = df["player"].str.strip().str.lower().isin(
+        ["", "nan", "player"]
+    )
+    df = df[~bad_mask].copy()
 
     return df
 
@@ -102,7 +108,7 @@ def compute_player_scores(df: pd.DataFrame) -> pd.DataFrame:
             ]
         )
 
-    today = datetime.utcnow().date()
+    today = df["date"].max().date()
     window_start, window_end = compute_window_bounds(today)
 
     mask = (df["date"].dt.date >= window_start) & (df["date"].dt.date <= window_end)
@@ -121,7 +127,9 @@ def compute_player_scores(df: pd.DataFrame) -> pd.DataFrame:
         )
 
     # How many days ago each rumor was
-    df_window["days_ago"] = (window_end - df_window["date"].dt.date).astype("int64")
+    # (window_end - date) returns timedeltas; take .days safely
+    deltas = window_end - df_window["date"].dt.date
+    df_window["days_ago"] = deltas.map(lambda x: x.days if hasattr(x, "days") else 0)
 
     # Bucket flags
     df_window["in_0_7"] = df_window["days_ago"] <= (RECENT_DAYS_1 - 1)
@@ -145,7 +153,7 @@ def compute_player_scores(df: pd.DataFrame) -> pd.DataFrame:
     df_window["weight"] = df_window.apply(weight_for_row, axis=1)
 
     grouped = (
-        df_window.groupby("player")
+        df_window.groupby("player", dropna=False)
         .agg(
             score=("weight", "sum"),
             mentions_0_7=("in_0_7", "sum"),
@@ -160,6 +168,9 @@ def compute_player_scores(df: pd.DataFrame) -> pd.DataFrame:
 
     # Slugs for every player – used in links & URLs
     grouped["slug"] = grouped["player"].apply(make_slug)
+
+    # Drop any rows that still somehow have an empty slug
+    grouped = grouped[grouped["slug"] != ""].copy()
 
     # Sort by score desc, then name asc
     grouped = grouped.sort_values(
