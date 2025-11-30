@@ -7,6 +7,7 @@ import streamlit as st
 import altair as alt
 import html
 import re
+import streamlit.components.v1 as components
 
 # -------------------------
 # Config & constants
@@ -106,7 +107,6 @@ def load_data() -> pd.DataFrame:
 
     # Player column
     if "player" not in df.columns:
-        # Try some fallbacks if present
         for cand in ["name", "player_name"]:
             if cand in df.columns:
                 df["player"] = df[cand]
@@ -189,14 +189,20 @@ def compute_player_scores(df: pd.DataFrame) -> pd.DataFrame:
     df_window["days_ago"] = (window_end - df_window["date"]).dt.days
 
     # Buckets
-    recent_mask = df_window["days_ago"] <= RECENT_DAYS_1 - 1          # 0–6
-    mid_mask = (df_window["days_ago"] >= RECENT_DAYS_1) & (df_window["days_ago"] <= RECENT_DAYS_2 - 1)  # 7–13
-    old_mask = (df_window["days_ago"] >= RECENT_DAYS_2) & (df_window["days_ago"] < WINDOW_DAYS)         # 14–27
+    recent_mask = df_window["days_ago"] <= RECENT_DAYS_1 - 1
+    mid_mask = (df_window["days_ago"] >= RECENT_DAYS_1) & (
+        df_window["days_ago"] <= RECENT_DAYS_2 - 1
+    )
+    old_mask = (df_window["days_ago"] >= RECENT_DAYS_2) & (
+        df_window["days_ago"] < WINDOW_DAYS
+    )
 
     # Count mentions per player per bucket
     grp = df_window.groupby(["player", "slug"], dropna=False)
 
-    recent_counts = grp.apply(lambda g: recent_mask[g.index].sum()).rename("mentions_recent")
+    recent_counts = grp.apply(lambda g: recent_mask[g.index].sum()).rename(
+        "mentions_recent"
+    )
     mid_counts = grp.apply(lambda g: mid_mask[g.index].sum()).rename("mentions_mid")
     old_counts = grp.apply(lambda g: old_mask[g.index].sum()).rename("mentions_old")
 
@@ -239,7 +245,8 @@ def compute_player_scores(df: pd.DataFrame) -> pd.DataFrame:
 
 def render_header(df: pd.DataFrame, window_start: datetime, window_end: datetime) -> None:
     st.markdown(
-        "<h1 style='margin-bottom:0.25rem'>NBA <span style='background:#fff3b0'>Trade Rumor</span> Rankings</h1>",
+        "<h1 style='margin-bottom:0.25rem'>NBA "
+        "<span style='background:#fff3b0'>Trade Rumor</span> Rankings</h1>",
         unsafe_allow_html=True,
     )
     window_label = format_window_label(window_start, window_end)
@@ -294,104 +301,114 @@ def show_rankings(df: pd.DataFrame, df_scores: pd.DataFrame) -> None:
         )
 
     table_html = f"""
-    <style>
-    .hh-table-wrapper {{
-      margin-top: 0.75rem;
-      border-radius: 10px;
-      overflow: hidden;
-      box-shadow: 0 0 0 1px #e3e6ea;
-      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-      font-size: 14px;
-    }}
-    table.hh-table {{
-      width: 100%;
-      border-collapse: collapse;
-    }}
-    .hh-table thead {{
-      background: #f8fafc;
-    }}
-    .hh-table th,
-    .hh-table td {{
-      padding: 9px 12px;
-      text-align: left;
-      border-bottom: 1px solid #e3e6ea;
-    }}
-    .hh-table tbody tr:nth-child(even) {{
-      background: #fbfdff;
-    }}
-    .hh-table tbody tr:hover {{
-      background: #eef5ff;
-    }}
-    .hh-table th.rank,
-    .hh-table td.rank {{
-      width: 32px;
-      text-align: right;
-      color: #6b7280;
-      font-weight: 500;
-    }}
-    .hh-table th.score,
-    .hh-table td.score,
-    .hh-table th.mentions,
-    .hh-table td.mentions {{
-      text-align: right;
-      white-space: nowrap;
-    }}
-    .hh-table td.player a {{
-      color: #0059c9;
-      text-decoration: none;
-      font-weight: 500;
-    }}
-    .hh-table td.player a:hover {{
-      text-decoration: underline;
-    }}
-    </style>
+    <html>
+    <head>
+      <style>
+      body {{
+        margin: 0;
+        padding: 0;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      }}
+      .hh-table-wrapper {{
+        margin-top: 8px;
+        border-radius: 10px;
+        overflow: hidden;
+        box-shadow: 0 0 0 1px #e3e6ea;
+        font-size: 14px;
+      }}
+      table.hh-table {{
+        width: 100%;
+        border-collapse: collapse;
+      }}
+      .hh-table thead {{
+        background: #f8fafc;
+      }}
+      .hh-table th,
+      .hh-table td {{
+        padding: 9px 12px;
+        text-align: left;
+        border-bottom: 1px solid #e3e6ea;
+      }}
+      .hh-table tbody tr:nth-child(even) {{
+        background: #fbfdff;
+      }}
+      .hh-table tbody tr:hover {{
+        background: #eef5ff;
+      }}
+      .hh-table th.rank,
+      .hh-table td.rank {{
+        width: 32px;
+        text-align: right;
+        color: #6b7280;
+        font-weight: 500;
+      }}
+      .hh-table th.score,
+      .hh-table td.score,
+      .hh-table th.mentions,
+      .hh-table td.mentions {{
+        text-align: right;
+        white-space: nowrap;
+      }}
+      .hh-table td.player a {{
+        color: #0059c9;
+        text-decoration: none;
+        font-weight: 500;
+      }}
+      .hh-table td.player a:hover {{
+        text-decoration: underline;
+      }}
+      </style>
+    </head>
+    <body>
+      <div class="hh-table-wrapper">
+        <table class="hh-table">
+          <thead>
+            <tr>
+              <th class="rank">#</th>
+              <th>Player</th>
+              <th class="score">RAT</th>
+              <th class="mentions">Mentions (28d)</th>
+            </tr>
+          </thead>
+          <tbody>
+            {''.join(rows_html)}
+          </tbody>
+        </table>
+      </div>
 
-    <div class="hh-table-wrapper">
-      <table class="hh-table">
-        <thead>
-          <tr>
-            <th class="rank">#</th>
-            <th>Player</th>
-            <th class="score">RAT</th>
-            <th class="mentions">Mentions (28d)</th>
-          </tr>
-        </thead>
-        <tbody>
-          {''.join(rows_html)}
-        </tbody>
-      </table>
-    </div>
+      <script>
+      (function() {{
+        const links = document.querySelectorAll('.hh-player-link');
+        links.forEach(function(link) {{
+          link.addEventListener('click', function(e) {{
+            e.preventDefault();
+            const slug = this.getAttribute('data-slug');
+            if (!slug) return;
 
-    <script>
-    (function() {{
-      const links = document.querySelectorAll('.hh-player-link');
-      links.forEach(function(link) {{
-        link.addEventListener('click', function(e) {{
-          e.preventDefault();
-          const slug = this.getAttribute('data-slug');
-          if (!slug) return;
+            // Update iframe URL (Streamlit query param)
+            const qp = new URLSearchParams(window.location.search);
+            qp.set('player', slug);
+            window.location.search = qp.toString();
 
-          // Update iframe URL (Streamlit query param)
-          const qp = new URLSearchParams(window.location.search);
-          qp.set('player', slug);
-          window.location.search = qp.toString();
-
-          // Inform parent page (Presto) for URL update / analytics
-          try {{
-            window.parent.postMessage({{
-              type: 'hh_trade_player',
-              playerSlug: slug
-            }}, '*');
-          }} catch (err) {{
-            console.error('postMessage failed', err);
-          }}
+            // Inform parent page (Presto) for URL update / analytics
+            try {{
+              window.parent.postMessage({{
+                type: 'hh_trade_player',
+                playerSlug: slug
+              }}, '*');
+            }} catch (err) {{
+              console.error('postMessage failed', err);
+            }}
+          }});
         }});
-      }});
-    }})();
-    </script>
+      }})();
+      </script>
+    </body>
+    </html>
     """
 
-    st.markdown(table_html, unsafe_allow_html=True)
+    # Render full HTML + JS as a component so it isn't sanitized
+    components.html(table_html, height=650, scrolling=True)
 
 
 def get_player_timeseries(
@@ -400,7 +417,11 @@ def get_player_timeseries(
     window_start: datetime,
     window_end: datetime,
 ) -> pd.DataFrame:
-    df_p = df[(df["slug"] == slug) & (df["date"] >= window_start) & (df["date"] <= window_end)].copy()
+    df_p = df[
+        (df["slug"] == slug)
+        & (df["date"] >= window_start)
+        & (df["date"] <= window_end)
+    ].copy()
     if df_p.empty:
         dates = pd.date_range(window_start, window_end, freq="D")
         return pd.DataFrame({"date": dates, "mentions": [0] * len(dates)})
@@ -412,14 +433,26 @@ def get_player_timeseries(
     return out
 
 
-def render_player_rumors(df: pd.DataFrame, slug: str, window_start: datetime, window_end: datetime) -> None:
-    df_p = df[(df["slug"] == slug) & (df["date"] >= window_start) & (df["date"] <= window_end)].copy()
+def render_player_rumors(
+    df: pd.DataFrame, slug: str, window_start: datetime, window_end: datetime
+) -> None:
+    df_p = df[
+        (df["slug"] == slug)
+        & (df["date"] >= window_start)
+        & (df["date"] <= window_end)
+    ].copy()
     if df_p.empty:
         st.info("No trade rumors for this player in the last 28 days.")
         return
 
     # Best-effort column choices
-    url_col = "link_url" if "link_url" in df_p.columns else "url" if "url" in df_p.columns else None
+    url_col = (
+        "link_url"
+        if "link_url" in df_p.columns
+        else "url"
+        if "url" in df_p.columns
+        else None
+    )
     link_text_col = "link_text" if "link_text" in df_p.columns else None
 
     # Prefer "headline", then "text", then "snippet"
@@ -439,9 +472,13 @@ def render_player_rumors(df: pd.DataFrame, slug: str, window_start: datetime, wi
         d: datetime = row["date"]
         date_str = d.strftime("%b %d")
         src = f"{row[source_col]} " if source_col and pd.notna(row[source_col]) else ""
-        body = str(row[text_col]) if text_col and pd.notna(row[text_col]) else ""
+        body = (
+            str(row[text_col]) if text_col and pd.notna(row[text_col]) else ""
+        )
         link_url = row[url_col] if url_col and pd.notna(row[url_col]) else None
-        link_text = row[link_text_col] if link_text_col and pd.notna(row[link_text_col]) else ""
+        link_text = (
+            row[link_text_col] if link_text_col and pd.notna(row[link_text_col]) else ""
+        )
 
         snippet_html = html.escape(body)
 
@@ -455,7 +492,10 @@ def render_player_rumors(df: pd.DataFrame, slug: str, window_start: datetime, wi
                     1,
                 )
             else:
-                snippet_html = f'<a href="{safe_url}" target="_blank" rel="noopener noreferrer">{snippet_html}</a>'
+                snippet_html = (
+                    f'<a href="{safe_url}" target="_blank" '
+                    f'rel="noopener noreferrer">{snippet_html}</a>'
+                )
 
         st.markdown(
             f"<p style='margin-bottom:0.4rem;'><span style='font-weight:600;'>{date_str}</span>"
@@ -510,7 +550,10 @@ def show_player_view(
         .encode(
             x=alt.X("date:T", axis=alt.Axis(title=None)),
             y=alt.Y("mentions:Q", axis=alt.Axis(title="Rumor mentions")),
-            tooltip=[alt.Tooltip("date:T", title="Date"), alt.Tooltip("mentions:Q", title="Mentions")],
+            tooltip=[
+                alt.Tooltip("date:T", title="Date"),
+                alt.Tooltip("mentions:Q", title="Mentions"),
+            ],
         )
         .properties(height=260)
     )
