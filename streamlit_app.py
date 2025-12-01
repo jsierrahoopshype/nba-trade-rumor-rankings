@@ -486,3 +486,60 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
+# Inject JavaScript for parent-iframe communication
+import streamlit.components.v1 as components
+
+components.html("""
+<script>
+(function() {
+  console.log('Trade rumor iframe communication initialized');
+  
+  window.addEventListener('message', function(event) {
+    console.log('Received message:', event.data);
+    
+    if (event.data.type === 'navigate-to-player') {
+      const playerSlug = event.data.playerSlug;
+      console.log('Navigating to player:', playerSlug);
+      
+      const links = document.querySelectorAll('a[href^="?player="]');
+      links.forEach(link => {
+        if (link.href.includes('player=' + playerSlug)) {
+          link.click();
+        }
+      });
+    }
+  });
+  
+  function notifyParent() {
+    document.addEventListener('click', function(e) {
+      const link = e.target.closest('a[href^="?player="]');
+      if (link) {
+        const url = new URL(link.href);
+        const playerSlug = url.searchParams.get('player');
+        
+        if (playerSlug) {
+          console.log('Player clicked:', playerSlug);
+          window.parent.postMessage({
+            type: 'player-selected',
+            playerSlug: playerSlug
+          }, '*');
+        }
+      }
+    }, true);
+  }
+  
+  setTimeout(notifyParent, 1000);
+  
+  const observer = new MutationObserver(function() {
+    notifyParent();
+  });
+  
+  observer.observe(document.body, {
+    childList: true,
+    subtree: true
+  });
+  
+})();
+</script>
+""", height=0)
