@@ -232,20 +232,17 @@ TABLE_CSS = """
   border: 1px solid #e2e8f0;
   box-shadow: 0 1px 3px rgba(15,23,42,0.08);
 }
-
 .heat-table {
   width: 100%;
   border-collapse: collapse;
   font-family: system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
   background-color: #ffffff;
 }
-
 .heat-table th,
 .heat-table td {
   padding: 0.55rem 0.9rem;
   font-size: 0.9rem;
 }
-
 .heat-table th {
   background: #f8fafc;
   color: #475569;
@@ -253,55 +250,44 @@ TABLE_CSS = """
   border-bottom: 1px solid #e2e8f0;
   text-align: left;
 }
-
 .heat-table td {
   color: #0f172a;
   border-bottom: 1px solid #e2e8f0;
 }
-
 .heat-table tr:last-child td {
   border-bottom: none;
 }
-
 .heat-table tr:nth-child(even) {
   background-color: #fdfdfd;
 }
-
 .heat-table tr:hover {
   background-color: #f1f5f9;
 }
-
 .heat-table td:first-child {
   width: 32px;
   color: #64748b;
   font-weight: 500;
 }
-
 .heat-table a {
   color: #0369a1;
   font-weight: 500;
   text-decoration: none;
 }
-
 .heat-table a:hover {
   text-decoration: underline;
 }
-
 /* Rumor list styling */
 .rumor-list {
   list-style-type: disc;
   padding-left: 1.2rem;
 }
-
 .rumor-list li {
   margin-bottom: 0.6rem;
   line-height: 1.35;
 }
-
 .rumor-list .quote {
   font-weight: 600;
 }
-
 .rumor-list .outlet {
   font-weight: 600;
   margin-left: 0.15rem;
@@ -487,7 +473,7 @@ def main() -> None:
 if __name__ == "__main__":
     main()
 
-# Inject JavaScript for parent-iframe communication
+# JavaScript for parent-iframe communication
 import streamlit.components.v1 as components
 
 components.html("""
@@ -495,31 +481,37 @@ components.html("""
 (function() {
   console.log('Trade rumor iframe communication initialized');
   
+  // Listen for navigation requests from parent
   window.addEventListener('message', function(event) {
-    console.log('Received message:', event.data);
+    console.log('Streamlit received message:', event.data);
     
     if (event.data.type === 'navigate-to-player') {
       const playerSlug = event.data.playerSlug;
-      console.log('Navigating to player:', playerSlug);
+      console.log('Navigating to player slug:', playerSlug);
       
-      const links = document.querySelectorAll('a[href^="?player="]');
-      links.forEach(link => {
-        if (link.href.includes('player=' + playerSlug)) {
-          link.click();
-        }
-      });
+      // Find and click the matching link
+      setTimeout(function() {
+        const links = document.querySelectorAll('a[href*="?player="]');
+        links.forEach(function(link) {
+          if (link.href.includes('player=' + playerSlug)) {
+            link.click();
+          }
+        });
+      }, 500);
     }
   });
   
-  function notifyParent() {
+  // Notify parent when a player link is clicked
+  function attachClickListeners() {
+    // Use event delegation on document
     document.addEventListener('click', function(e) {
-      const link = e.target.closest('a[href^="?player="]');
-      if (link) {
+      const link = e.target.closest('a[href*="?player="]');
+      if (link && link.href) {
         const url = new URL(link.href);
         const playerSlug = url.searchParams.get('player');
         
         if (playerSlug) {
-          console.log('Player clicked:', playerSlug);
+          console.log('Player link clicked, sending to parent:', playerSlug);
           window.parent.postMessage({
             type: 'player-selected',
             playerSlug: playerSlug
@@ -529,16 +521,16 @@ components.html("""
     }, true);
   }
   
-  setTimeout(notifyParent, 1000);
+  // Wait for Streamlit to load, then attach listeners
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', attachClickListeners);
+  } else {
+    attachClickListeners();
+  }
   
-  const observer = new MutationObserver(function() {
-    notifyParent();
-  });
-  
-  observer.observe(document.body, {
-    childList: true,
-    subtree: true
-  });
+  // Also try to attach after a delay for Streamlit's dynamic content
+  setTimeout(attachClickListeners, 1000);
+  setTimeout(attachClickListeners, 3000);
   
 })();
 </script>
