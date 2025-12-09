@@ -23,7 +23,7 @@ jobs:
       
       - name: Install dependencies
         run: |
-          pip install requests beautifulsoup4 python-dateutil pandas
+          pip install requests beautifulsoup4 python-dateutil pandas huggingface_hub
       
       - name: Run scraper
         env:
@@ -32,7 +32,7 @@ jobs:
         run: |
           python scrape_trade_rankings.py
       
-      - name: Commit and push if changed
+      - name: Commit and push to GitHub
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
@@ -43,3 +43,22 @@ jobs:
             git commit -m "Update trade rumor rankings $(date +'%Y-%m-%d %H:%M')"
             git push
           fi
+      
+      - name: Push to HuggingFace
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+        run: |
+          python -c "
+          from huggingface_hub import HfApi
+          api = HfApi()
+          
+          # Upload the JSON data file
+          api.upload_file(
+              path_or_fileobj='trade_rumor_data.json',
+              path_in_repo='trade_rumor_data.json',
+              repo_id='cdechoch/nba-trade-rumor-rankings',
+              repo_type='space',
+              token='${{ secrets.HF_TOKEN }}'
+          )
+          print('Uploaded to HuggingFace!')
+          "
