@@ -1,9 +1,9 @@
 import os
 import sys
 import time
-import csv
+import re
 from datetime import datetime, date, timedelta
-from typing import List, Dict, Optional
+from typing import List, Dict, Optional, Tuple
 from urllib.parse import urlparse
 
 import requests
@@ -16,20 +16,29 @@ import pandas as pd
 # CONFIG
 # ----------------------------------------------------------------------
 
-# ⚠️ If your current file has a different base URL (e.g. preview.hoopshype.com),
-# change this to match what you already had.
 BASE_URL = "http://preview.hoopshype.com/rumors/tag/trade"
-
 OUTPUT_CSV = "trade_rumors.csv"
-
-# How many days back we care about
 WINDOW_DAYS = 28
-
-# Max number of pages to scan as a hard safety cap
 MAX_PAGES = 30
 
 USERNAME = os.getenv("HH_PREVIEW_USER")
 PASSWORD = os.getenv("HH_PREVIEW_PASS")
+
+# NBA team names for team detection
+NBA_TEAMS = {
+    "HAWKS": "Atlanta Hawks", "CELTICS": "Boston Celtics", "NETS": "Brooklyn Nets",
+    "HORNETS": "Charlotte Hornets", "BULLS": "Chicago Bulls", "CAVALIERS": "Cleveland Cavaliers",
+    "CAVS": "Cleveland Cavaliers", "MAVERICKS": "Dallas Mavericks", "MAVS": "Dallas Mavericks",
+    "NUGGETS": "Denver Nuggets", "PISTONS": "Detroit Pistons", "WARRIORS": "Golden State Warriors",
+    "ROCKETS": "Houston Rockets", "PACERS": "Indiana Pacers", "CLIPPERS": "LA Clippers",
+    "LAKERS": "Los Angeles Lakers", "GRIZZLIES": "Memphis Grizzlies", "HEAT": "Miami Heat",
+    "BUCKS": "Milwaukee Bucks", "TIMBERWOLVES": "Minnesota Timberwolves", "WOLVES": "Minnesota Timberwolves",
+    "PELICANS": "New Orleans Pelicans", "KNICKS": "New York Knicks", "THUNDER": "Oklahoma City Thunder",
+    "MAGIC": "Orlando Magic", "76ERS": "Philadelphia 76ers", "SIXERS": "Philadelphia 76ers",
+    "SUNS": "Phoenix Suns", "TRAIL BLAZERS": "Portland Trail Blazers", "BLAZERS": "Portland Trail Blazers",
+    "KINGS": "Sacramento Kings", "SPURS": "San Antonio Spurs", "RAPTORS": "Toronto Raptors",
+    "JAZZ": "Utah Jazz", "WIZARDS": "Washington Wizards"
+}
 
 
 # ----------------------------------------------------------------------
@@ -37,30 +46,22 @@ PASSWORD = os.getenv("HH_PREVIEW_PASS")
 # ----------------------------------------------------------------------
 
 def get_session() -> requests.Session:
-    """
-    Create an HTTP session with basic auth using HH_PREVIEW_USER / HH_PREVIEW_PASS.
-    """
+    """Create an HTTP session with basic auth."""
     if not USERNAME or not PASSWORD:
         print("ERROR: HH_PREVIEW_USER / HH_PREVIEW_PASS environment variables not set.", file=sys.stderr)
         sys.exit(1)
 
     session = requests.Session()
     session.auth = HTTPBasicAuth(USERNAME, PASSWORD)
-    # Some basic headers just to be nice
-    session.headers.update(
-        {
-            "User-Agent": "HH Trade Rumor Scraper (NBA Trade Rumor Heat Index)",
-            "Accept-Language": "en-US,en;q=0.9",
-        }
-    )
+    session.headers.update({
+        "User-Agent": "HH Trade Rumor Scraper (NBA Trade Rumor Heat Index)",
+        "Accept-Language": "en-US,en;q=0.9",
+    })
     return session
 
 
 def load_players(path: str = "nba_players.txt") -> List[str]:
-    """
-    Load NBA player names from a newline-separated file.
-    We store them in UPPERCASE to make matching easier.
-    """
+    """Load NBA player names from file, stored uppercase for matching."""
     players: List[str] = []
     try:
         with open(path, "r", encoding="utf-8") as f:
@@ -70,49 +71,81 @@ def load_players(path: str = "nba_players.txt") -> List[str]:
                     players.append(name.upper())
         print(f"Loaded {len(players)} players from {path}")
     except FileNotFoundError:
-        print(f"WARNING: {path} not found. Player detection will be very limited.")
+        print(f"WARNING: {path} not found. Player detection will be limited.")
     return players
 
 
 def parse_date_from_text(text: str) -> Optional[date]:
-    """
-    Parse a date from a string like "November 27, 2025".
-    Uses dateutil.parser with fuzzy matching.
-    """
+    """Parse a date from text like 'November 27, 2025'."""
     text = text.strip()
     if not text:
         return None
     try:
         dt = dateparser.parse(text, fuzzy=True)
-        if dt is None:
-            return None
-        return dt.date()
+        return dt.date() if dt else None
     except Exception:
         return None
 
 
 def guess_player(snippet: str, players_upper: List[str]) -> Optional[str]:
     """
-    Try to guess which player is mentioned in the snippet using nba_players.txt.
-    We do a simple substring match on an uppercase version of the snippet.
-    Returns the matched name in Title Case or None.
+    Find player mentioned in snippet using player list.
+    Returns properly formatted name or None (never 'nan').
     """
     if not snippet:
         return None
 
     text_upper = snippet.upper()
+    
+    # Try to find the longest matching name first (handles "LeBron James" vs "James")
+    matches = []
     for name_upper in players_upper:
         if name_upper in text_upper:
-            # convert "LEBRON JAMES" back to "LeBron James" reasonably
-            return " ".join(part.capitalize() for part in name_upper.split())
-    return None
+            matches.append(name_upper)
+    
+    if not matches:
+        return None
+    
+    # Return the longest match (most specific)
+    best_match = max(matches, key=len)
+    
+    # Convert back to title case properly
+    # Handle special cases like "LeBron", "DeRozan", "McCollum"
+    parts = best_match.split()
+    formatted_parts = []
+    for part in parts:
+        # Check for common prefixes that need special handling
+        if part.startswith("MC"):
+            formatted_parts.append("Mc" + part[2:].capitalize())
+        elif part.startswith("DE") and len(part) > 2:
+            formatted_parts.append("De" + part[2:].capitalize())
+        elif part.startswith("LE") and len(part) > 2:
+            formatted_parts.append("Le" + part[2:].capitalize())
+        elif part.startswith("LA") and len(part) > 2:
+            formatted_parts.append("La" + part[2:].capitalize())
+        else:
+            formatted_parts.append(part.capitalize())
+    
+    return " ".join(formatted_parts)
+
+
+def guess_teams(snippet: str) -> List[str]:
+    """Find NBA teams mentioned in the snippet."""
+    if not snippet:
+        return []
+    
+    text_upper = snippet.upper()
+    found_teams = set()
+    
+    for team_key, team_name in NBA_TEAMS.items():
+        if team_key in text_upper:
+            found_teams.add(team_name)
+    
+    return sorted(found_teams)
 
 
 def extract_source_from_url(url: Optional[str]) -> Optional[str]:
-    """
-    Derive a 'media outlet' style source from the URL's domain.
-    E.g. https://www.espn.com/... -> "espn.com"
-    """
+    """Extract domain from URL as source."""
     if not url:
         return None
     try:
@@ -126,76 +159,56 @@ def extract_source_from_url(url: Optional[str]) -> Optional[str]:
 
 
 # ----------------------------------------------------------------------
-# SCRAPING CORE
+# SCRAPING
 # ----------------------------------------------------------------------
 
 def scrape_page(session: requests.Session,
                 page: int,
                 cutoff_date: date,
-                players_upper: List[str]) -> (List[Dict], bool):
+                players_upper: List[str]) -> Tuple[List[Dict], bool]:
     """
     Scrape a single page.
     Returns (rows, reached_older_than_cutoff_flag).
-
-    Strategy:
-      * Select all div.rumor (20 per page).
-      * For each rumor, look backwards in the DOM for the nearest div.date-holder.
-      * That div.date-holder text is the date section for that rumor.
-      * If that date is older than cutoff_date, we mark reached_old = True
-        (so caller can stop pagination).
     """
-    if page == 1:
-        url = BASE_URL
-    else:
-        url = f"{BASE_URL}?page={page}"
+    url = BASE_URL if page == 1 else f"{BASE_URL}?page={page}"
 
     print(f"Fetching {url}")
     resp = session.get(url, timeout=20)
     resp.raise_for_status()
 
     soup = BeautifulSoup(resp.text, "html.parser")
-
-    # All rumor cards
     all_rumors = soup.select("div.rumor")
-    print(f"Total div.rumor found on page {page}: {len(all_rumors)}")
+    print(f"Found {len(all_rumors)} rumors on page {page}")
 
     rows: List[Dict] = []
     reached_old = False
 
     if not all_rumors:
-        # If there are literally no rumor blocks, likely we hit the end.
         return rows, True
 
     for rumor_div in all_rumors:
-        # Find the nearest previous date-holder in the DOM
+        # Find date holder
         date_holder = rumor_div.find_previous("div", class_="date-holder")
         if not date_holder:
-            # Try a more generic search if needed (fallback)
             date_holder = rumor_div.find_previous(
                 lambda tag: tag.name == "div" and "date" in " ".join(tag.get("class", []))
             )
 
         if not date_holder:
-            # If we truly can't find a date, skip this rumor instead of guessing "today"
             continue
 
         date_text = date_holder.get_text(" ", strip=True)
         rumor_date = parse_date_from_text(date_text)
         if rumor_date is None:
-            # Can't parse date; skip (better to have fewer rows than wrong dates)
             continue
 
-        # Apply our 28-day window
         if rumor_date < cutoff_date:
-            # We've gone past the window. Mark flag; keep going through rest of page
-            # (in case some weird ordering exists), but we won't include this rumor.
             reached_old = True
             continue
 
-        # Basic text for the snippet: whole block text
+        # Extract content
         snippet = rumor_div.get_text(" ", strip=True)
-
-        # Find first hyperlink as the canonical URL and title
+        
         link = rumor_div.find("a", href=True)
         url_val: Optional[str] = None
         title_val: Optional[str] = None
@@ -204,17 +217,25 @@ def scrape_page(session: requests.Session,
             url_val = link["href"]
             title_val = link.get_text(" ", strip=True) or snippet[:140]
         else:
-            # Fallbacks if somehow there is no link
-            url_val = None
             title_val = snippet[:140]
 
+        # Get player - only include if we find a valid player
         player_name = guess_player(snippet, players_upper)
+        
+        # Skip rumors where we can't identify a player
+        if not player_name:
+            continue
+            
+        # Get teams mentioned
+        teams = guess_teams(snippet)
+        team_str = ", ".join(teams) if teams else ""
+        
         source_val = extract_source_from_url(url_val)
 
         row = {
             "date": rumor_date.isoformat(),
-            "player": player_name or "",
-            "team": "",   # reserved column; not parsed right now
+            "player": player_name,
+            "team": team_str,
             "source": source_val or "",
             "snippet": snippet,
             "url": url_val or "",
@@ -222,17 +243,12 @@ def scrape_page(session: requests.Session,
         }
         rows.append(row)
 
-    print(f"Collected {len(rows)} rows from page {page}. Reached old date: {reached_old}")
+    print(f"Collected {len(rows)} valid rows from page {page}. Reached old date: {reached_old}")
     return rows, reached_old
 
 
 def scrape() -> None:
-    """
-    Scrape multiple pages until we either:
-      * Hit an older date than our WINDOW_DAYS cutoff, or
-      * Reach MAX_PAGES, or
-      * Encounter a page with no div.rumor blocks.
-    """
+    """Main scraping function."""
     session = get_session()
     players_upper = load_players()
     today = date.today()
@@ -240,31 +256,26 @@ def scrape() -> None:
     print(f"Scraping rumors back to {cutoff_date.isoformat()} (WINDOW_DAYS = {WINDOW_DAYS})")
 
     all_rows: List[Dict] = []
-    reached_old_global = False
-
+    
     for page in range(1, MAX_PAGES + 1):
         rows, reached_old = scrape_page(session, page, cutoff_date, players_upper)
 
         if not rows and page > 1:
-            # No rows from this page – assume we've hit the end
             print(f"No rows on page {page}, stopping pagination.")
             break
 
         all_rows.extend(rows)
 
         if reached_old:
-            print("Encountered rumor(s) older than cutoff date; stopping pagination after this page.")
-            reached_old_global = True
+            print("Reached cutoff date; stopping pagination.")
             break
 
-        # Be nice to the server
         time.sleep(1.0)
 
-    print(f"Total rows before de-dup / filtering: {len(all_rows)}")
+    print(f"Total rows before dedup: {len(all_rows)}")
 
     if not all_rows:
         print("No rows collected; writing empty CSV.")
-        # Still write an empty CSV with the expected columns so the app doesn't crash.
         df_empty = pd.DataFrame(
             columns=["date", "player", "team", "source", "snippet", "url", "title"]
         )
@@ -272,32 +283,26 @@ def scrape() -> None:
         return
 
     df = pd.DataFrame(all_rows)
-
-    # Remove rows without a date or URL (if any slipped through)
+    
+    # Clean up
     df = df[df["date"].notna()]
-
-    # Ensure date column is true datetime for sorting and further processing
     df["date"] = pd.to_datetime(df["date"], errors="coerce").dt.date
     df = df[df["date"].notna()]
-
-    # Enforce cutoff again just in case
     df = df[df["date"] >= cutoff_date]
-
-    # Drop duplicates based on date, player, url, and snippet to keep the CSV tidy
+    
+    # Remove any remaining invalid player entries
+    df = df[df["player"].notna()]
+    df = df[df["player"].str.strip() != ""]
+    df = df[~df["player"].str.lower().isin(["nan", "none", ""])]
+    
+    # Dedup
     df = df.drop_duplicates(subset=["date", "player", "url", "snippet"])
-
-    # Sort newest first
     df = df.sort_values("date", ascending=False)
 
-    print(f"Total unique rows to write: {len(df)}")
-
+    print(f"Final row count: {len(df)}")
     df.to_csv(OUTPUT_CSV, index=False)
     print(f"Wrote {len(df)} rows to {OUTPUT_CSV}")
 
-
-# ----------------------------------------------------------------------
-# ENTRY POINT
-# ----------------------------------------------------------------------
 
 if __name__ == "__main__":
     scrape()
