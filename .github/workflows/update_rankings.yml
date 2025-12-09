@@ -1,0 +1,41 @@
+name: Update Trade Rumor Rankings
+
+on:
+  schedule:
+    # Run 3x daily: 8am, 2pm, 8pm EST (13:00, 19:00, 01:00 UTC)
+    - cron: '0 13 * * *'
+    - cron: '0 19 * * *'
+    - cron: '0 1 * * *'
+  workflow_dispatch:  # Allow manual trigger
+
+jobs:
+  update-rankings:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: |
+          pip install requests beautifulsoup4 python-dateutil pandas
+      
+      - name: Run scraper
+        env:
+          HH_PREVIEW_USER: ${{ secrets.HH_PREVIEW_USER }}
+          HH_PREVIEW_PASS: ${{ secrets.HH_PREVIEW_PASS }}
+        run: |
+          python scrape_trade_rankings.py
+      
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add trade_rumor_data.json trade_rumor_rankings.csv
+          git diff --staged --quiet || git commit -m "Update trade rumor rankings $(date +'%Y-%m-%d %H:%M')"
+          git push
