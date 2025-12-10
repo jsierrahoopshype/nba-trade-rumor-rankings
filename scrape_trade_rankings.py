@@ -1,492 +1,365 @@
+#!/usr/bin/env python3
 """
 NBA Trade Rumor Rankings Scraper
-Extracts player tags from HoopsHype trade rumors and calculates weighted scores.
-
-Scoring:
-- 1.0 points: Last 7 days
-- 0.5 points: Days 8-14
-- 0.25 points: Days 15-28
+Scrapes trade rumors from HoopsHype and ranks players by mention frequency.
 """
 
 import os
-import sys
-import time
 import json
-from datetime import datetime, date, timedelta
-from typing import List, Dict, Optional, Tuple
+import re
+from datetime import datetime, timedelta
 from collections import defaultdict
-
-import requests
 from requests.auth import HTTPBasicAuth
+import requests
 from bs4 import BeautifulSoup
-import pandas as pd
+from dateutil import parser as date_parser
 
-# ----------------------------------------------------------------------
-# CONFIG
-# ----------------------------------------------------------------------
-
+# Configuration
 BASE_URL = "http://preview.hoopshype.com/rumors/tag/trade"
+SCRAPE_WINDOW_DAYS = 28
+MAX_PAGES = 100
 
-OUTPUT_JSON = "trade_rumor_data.json"
-OUTPUT_CSV = "trade_rumor_rankings.csv"
+# Weights for scoring
+WEIGHT_WEEK1 = 1.0    # Last 7 days
+WEIGHT_WEEK2 = 0.5    # Days 8-14
+WEIGHT_WEEKS3_4 = 0.25  # Days 15-28
 
-SCRAPE_DAYS = 28
-MAX_PAGES = 50
-
-USERNAME = os.getenv("HH_PREVIEW_USER", "preview")
-PASSWORD = os.getenv("HH_PREVIEW_PASS", "hhpreview")
-
-NBA_PLAYERS_FILE = "nba_players.txt"
-
-
-# ----------------------------------------------------------------------
-# UTILITIES
-# ----------------------------------------------------------------------
-
-def get_session() -> requests.Session:
-    """Create authenticated session."""
-    session = requests.Session()
-    session.auth = HTTPBasicAuth(USERNAME, PASSWORD)
-    session.headers.update({
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-        "Accept-Language": "en-US,en;q=0.9",
-    })
-    return session
+# Known non-player tags to exclude
+NON_PLAYER_TAGS = {
+    # Teams
+    'atlanta hawks', 'boston celtics', 'brooklyn nets', 'charlotte hornets',
+    'chicago bulls', 'cleveland cavaliers', 'dallas mavericks', 'denver nuggets',
+    'detroit pistons', 'golden state warriors', 'houston rockets', 'indiana pacers',
+    'los angeles clippers', 'los angeles lakers', 'memphis grizzlies', 'miami heat',
+    'milwaukee bucks', 'minnesota timberwolves', 'new orleans pelicans', 'new york knicks',
+    'oklahoma city thunder', 'orlando magic', 'philadelphia 76ers', 'phoenix suns',
+    'portland trail blazers', 'sacramento kings', 'san antonio spurs', 'toronto raptors',
+    'utah jazz', 'washington wizards', 'golden state warrior',
+    # Topics
+    'trade', 'free agency', 'draft', 'injury', 'extension', 'contract', 'buyout',
+    'waiver', 'signing', 'rumors', 'news', 'update', 'report',
+    # Other
+    'team usa', 'nba', 'euroleague'
+}
 
 
-def load_nba_players() -> set:
-    """Load known NBA player names."""
+def load_known_players():
+    """Load known NBA players from file if it exists."""
     players = set()
-    try:
-        with open(NBA_PLAYERS_FILE, "r", encoding="utf-8") as f:
+    player_file = 'nba_players.txt'
+    if os.path.exists(player_file):
+        with open(player_file, 'r') as f:
             for line in f:
                 name = line.strip()
                 if name:
                     players.add(name.lower())
-        print(f"Loaded {len(players)} NBA players from {NBA_PLAYERS_FILE}")
-    except FileNotFoundError:
-        print(f"WARNING: {NBA_PLAYERS_FILE} not found.")
     return players
 
 
-def is_player_tag(tag_text: str, known_players: set) -> bool:
-    """Check if a tag is a player name."""
+def is_player_tag(tag_text, known_players):
+    """Determine if a tag represents a player name."""
     tag_lower = tag_text.lower().strip()
     
-    # Exclude non-player tags
-    non_player = {
-        'trade', 'trades', 'free agency', 'free-agency', 'draft', 'injury',
-        'contract', 'extension', 'buyout', 'waiver', 'signing', 'rumors',
-        'nba', 'breaking', 'news', 'report', 'update', 'deal', 'talks',
-        'hawks', 'celtics', 'nets', 'hornets', 'bulls', 'cavaliers', 'mavericks',
-        'nuggets', 'pistons', 'warriors', 'rockets', 'pacers', 'clippers',
-        'lakers', 'grizzlies', 'heat', 'bucks', 'timberwolves', 'pelicans',
-        'knicks', 'thunder', 'magic', '76ers', 'sixers', 'suns', 'blazers',
-        'trail blazers', 'kings', 'spurs', 'raptors', 'jazz', 'wizards',
-        'atlanta', 'boston', 'brooklyn', 'charlotte', 'chicago', 'cleveland',
-        'dallas', 'denver', 'detroit', 'golden state', 'houston', 'indiana',
-        'los angeles', 'la', 'memphis', 'miami', 'milwaukee', 'minnesota',
-        'new orleans', 'new york', 'oklahoma city', 'orlando', 'philadelphia',
-        'phoenix', 'portland', 'sacramento', 'san antonio', 'toronto', 'utah',
-        'washington', 'west', 'east', 'eastern', 'western', 'conference',
-        'all-star', 'all star', 'playoffs', 'finals', 'championship'
-    }
-    
-    if tag_lower in non_player:
+    # Exclude known non-player tags
+    if tag_lower in NON_PLAYER_TAGS:
         return False
     
-    # Check known players
-    if known_players and tag_lower in known_players:
+    # Check against known players list
+    if tag_lower in known_players:
         return True
     
-    # Heuristic: 2-3 capitalized words = likely a name
-    words = tag_text.split()
-    if 2 <= len(words) <= 4:
+    # Heuristic: Player names typically have 2-4 words, all capitalized
+    words = tag_text.strip().split()
+    if len(words) >= 2 and len(words) <= 4:
+        # Check if it looks like a name (capitalized words)
         if all(word[0].isupper() for word in words if word):
-            return True
+            # Additional check: not a team name pattern
+            if not any(team_word in tag_lower for team_word in ['ers', 'ics', 'ets', 'awks', 'ulls', 'avs', 'eat', 'ucks', 'azz', 'ings', 'urs', 'uns', 'ets']):
+                return True
     
     return False
 
 
-def parse_date(text: str) -> Optional[date]:
-    """Parse date from various formats."""
-    from dateutil import parser as dateparser
+def parse_date(date_str):
+    """Parse date string from HoopsHype format."""
+    # Format: "December 10, 2025 Updates"
+    date_str = date_str.replace(' Updates', '').strip()
     try:
-        dt = dateparser.parse(text, fuzzy=True)
-        return dt.date() if dt else None
+        return date_parser.parse(date_str).date()
     except:
         return None
 
 
-# ----------------------------------------------------------------------
-# SCRAPING
-# ----------------------------------------------------------------------
-
-def scrape_page(session: requests.Session, url: str, known_players: set) -> Tuple[List[Dict], bool, Optional[date]]:
-    """
-    Scrape a single page.
-    Returns (rumors, has_more, oldest_date_on_page).
-    """
-    print(f"  Fetching {url}")
+def scrape_page(session, url, known_players, auth):
+    """Scrape a single page of trade rumors."""
+    rumors = []
+    has_more = False
+    oldest_date = None
     
     try:
-        response = session.get(url, timeout=30)
-        print(f"  Status: {response.status_code}")
+        response = session.get(url, auth=auth, timeout=30)
+        print(f"  HTTP {response.status_code} - {len(response.text)} bytes")
         
-        if response.status_code == 401:
-            print("  ERROR: Authentication failed!")
-            return [], False, None
-            
-        response.raise_for_status()
-    except Exception as e:
-        print(f"  Error: {e}")
-        return [], False, None
-    
-    soup = BeautifulSoup(response.text, "html.parser")
-    
-    # Debug: print page info
-    print(f"  Page length: {len(response.text)} chars")
-    
-    # Try multiple selectors for rumors
-    rumors_divs = soup.select("div.rumor")
-    if not rumors_divs:
-        rumors_divs = soup.select(".rumor")
-    if not rumors_divs:
-        rumors_divs = soup.select("div[class*='rumor']")
-    
-    print(f"  Found {len(rumors_divs)} rumor divs")
-    
-    # Debug: if no rumors found, print page structure
-    if not rumors_divs:
-        if "login" in response.text.lower() or "password" in response.text.lower():
-            print("  WARNING: Looks like a login page - auth may have failed")
+        if response.status_code != 200:
+            print(f"  Error: HTTP {response.status_code}")
+            return rumors, False, None
         
-        print(f"  Page preview: {response.text[:1000]}...")
+        soup = BeautifulSoup(response.text, 'html.parser')
         
-        all_divs = soup.find_all("div", class_=True)
-        classes = set()
-        for div in all_divs[:100]:
-            classes.update(div.get("class", []))
-        print(f"  Found div classes: {sorted(classes)[:30]}")
+        # Track current date as we parse
+        current_date = None
         
-        return [], False, None
-    
-    rumors = []
-    oldest_date = None
-    current_date = None
-    
-    # Process all elements in document order
-    for element in soup.find_all(["div"], class_=True):
-        classes = element.get("class", [])
-        class_str = " ".join(classes)
+        # Find all date holders first and map their positions
+        date_holders = soup.find_all('div', class_='date-holder')
+        print(f"    Found {len(date_holders)} date holders")
         
-        # Date header - try multiple patterns
-        if "date-holder" in classes or "date" in class_str:
-            date_text = element.get_text(strip=True)
-            parsed = parse_date(date_text)
-            if parsed:
-                current_date = parsed
-                if oldest_date is None or parsed < oldest_date:
-                    oldest_date = parsed
+        # Find all rumor divs
+        rumor_divs = soup.find_all('div', class_='rumor')
+        print(f"    Found {len(rumor_divs)} rumor divs")
         
-        # Rumor div
-        if "rumor" in classes and "rumor-content" not in classes:
-            # Try to get date from within rumor if not set
-            if not current_date:
-                date_span = element.find(class_="rumorDate")
-                if not date_span:
-                    date_span = element.find(class_="date")
-                if date_span:
-                    parsed = parse_date(date_span.get_text(strip=True))
-                    if parsed:
-                        current_date = parsed
+        # Process date holders and rumors in document order
+        all_elements = soup.find_all('div', class_=['date-holder', 'rumor'])
+        
+        for element in all_elements:
+            classes = element.get('class', [])
             
-            # Also check for date-holder that's a sibling/cousin
-            if not current_date:
-                prev = element.find_previous(class_="date-holder")
-                if prev:
-                    parsed = parse_date(prev.get_text(strip=True))
-                    if parsed:
-                        current_date = parsed
+            # Check if this is a date holder
+            if 'date-holder' in classes:
+                date_div = element.find('div', class_='date')
+                if date_div:
+                    current_date = parse_date(date_div.get_text())
+                    if current_date:
+                        oldest_date = current_date
             
-            if not current_date:
-                # Skip if we really can't find a date
-                continue
-            
-            # Extract tags
-            tags_div = element.find(class_="tags")
-            
-            player_tags = []
-            all_tags = []
-            
-            if tags_div:
-                for tag_link in tags_div.find_all("a"):
-                    tag_text = tag_link.get_text(strip=True)
-                    if tag_text:
-                        all_tags.append(tag_text)
+            # Check if this is a rumor
+            elif 'rumor' in classes:
+                if current_date is None:
+                    continue
+                
+                # Find rumor text
+                rumor_text_elem = element.find('p', class_='rumortext')
+                rumor_text = rumor_text_elem.get_text(strip=True) if rumor_text_elem else ""
+                
+                # Find outlet
+                outlet_elem = element.find('a', class_='rumormedia')
+                outlet = outlet_elem.get_text(strip=True) if outlet_elem else "Unknown"
+                
+                # Find source URL
+                source_elem = element.find('a', class_='quote') or element.find('a', class_='rumormedia')
+                source_url = source_elem.get('href', '') if source_elem else ""
+                
+                # Find player tags
+                tag_div = element.find('div', class_='tag')
+                players_in_rumor = []
+                
+                if tag_div:
+                    for tag_link in tag_div.find_all('a', class_='tag'):
+                        tag_text = tag_link.get_text(strip=True)
                         if is_player_tag(tag_text, known_players):
-                            player_tags.append(tag_text)
-            
-            # Skip rumors with no player tags
-            if not player_tags:
-                continue
-            
-            # Get rumor text
-            text_elem = element.find(class_="rumor-content")
-            if not text_elem:
-                text_elem = element.find("p")
-            rumor_text = text_elem.get_text(strip=True) if text_elem else element.get_text(strip=True)
-            
-            # Get source info
-            outlet = ""
-            source_url = ""
-            if text_elem:
-                media_link = text_elem.find(class_="rumormedia")
-                if media_link:
-                    outlet = media_link.get_text(strip=True)
-                quote_link = text_elem.find(class_="quote")
-                if quote_link:
-                    source_url = quote_link.get("href", "")
-            
-            rumor = {
-                "date": current_date.isoformat(),
-                "players": player_tags,
-                "all_tags": all_tags,
-                "text": rumor_text[:500],
-                "outlet": outlet,
-                "source_url": source_url,
-            }
-            rumors.append(rumor)
-            
-            if oldest_date is None or current_date < oldest_date:
-                oldest_date = current_date
-    
-    # Check for pagination
-    has_more = False
-    if soup.select_one("a.next") or soup.select_one("a[rel='next']"):
-        has_more = True
-    else:
-        page_links = soup.select("a[href*='page=']")
-        if page_links:
+                            players_in_rumor.append(tag_text)
+                
+                # Create rumor entry for each player mentioned
+                for player in players_in_rumor:
+                    rumors.append({
+                        'date': current_date.isoformat(),
+                        'player': player,
+                        'text': rumor_text[:500],  # Truncate long text
+                        'outlet': outlet,
+                        'source_url': source_url
+                    })
+        
+        # Check for next page
+        pager = soup.find('div', class_='pagernext')
+        if pager and pager.find('a'):
             has_more = True
+        
+        print(f"    Found {len(rumors)} player mentions")
+        
+    except Exception as e:
+        print(f"  Error scraping page: {e}")
+        import traceback
+        traceback.print_exc()
     
-    print(f"  Extracted {len(rumors)} rumors with player tags, oldest: {oldest_date}")
     return rumors, has_more, oldest_date
 
 
-def scrape_all(days_back: int = SCRAPE_DAYS) -> List[Dict]:
-    """Scrape all trade rumors."""
-    session = get_session()
-    known_players = load_nba_players()
-    
-    today = date.today()
-    cutoff = today - timedelta(days=days_back)
-    
-    print(f"\nScraping trade rumors from {cutoff} to {today}")
-    print("=" * 60)
-    
+def scrape_all_rumors(username, password):
+    """Scrape all trade rumors within the time window."""
     all_rumors = []
-    seen = set()
+    known_players = load_known_players()
+    print(f"Loaded {len(known_players)} known players")
+    
+    session = requests.Session()
+    auth = HTTPBasicAuth(username, password)
+    
+    cutoff_date = (datetime.now() - timedelta(days=SCRAPE_WINDOW_DAYS)).date()
+    print(f"Scraping rumors from {cutoff_date} to today")
     
     page = 1
     while page <= MAX_PAGES:
-        if page == 1:
-            url = BASE_URL
-        else:
-            url = f"{BASE_URL}?page={page}"
+        url = BASE_URL if page == 1 else f"{BASE_URL}?page={page}"
+        print(f"Scraping page {page}: {url}")
         
-        rumors, has_more, oldest = scrape_page(session, url, known_players)
+        rumors, has_more, oldest_date = scrape_page(session, url, known_players, auth)
+        all_rumors.extend(rumors)
         
-        if not rumors:
-            print(f"  No rumors on page {page}, stopping.")
-            break
-        
-        for rumor in rumors:
-            rumor_date = date.fromisoformat(rumor["date"])
-            
-            if rumor_date < cutoff:
-                continue
-            
-            # Dedup
-            key = (rumor["date"], rumor["text"][:50])
-            if key in seen:
-                continue
-            seen.add(key)
-            
-            all_rumors.append(rumor)
-        
-        if oldest and oldest < cutoff:
-            print(f"  Reached cutoff date ({oldest} < {cutoff}), stopping.")
+        # Check if we've gone past our date window
+        if oldest_date and oldest_date < cutoff_date:
+            print(f"Reached cutoff date ({oldest_date} < {cutoff_date})")
             break
         
         if not has_more:
-            print(f"  No more pages.")
+            print("No more pages")
             break
         
         page += 1
-        time.sleep(1)
     
-    print(f"\n✅ Total rumors collected: {len(all_rumors)}")
+    # Filter to only include rumors within our window
+    all_rumors = [r for r in all_rumors if r['date'] >= cutoff_date.isoformat()]
+    
+    print(f"\nTotal rumors collected: {len(all_rumors)}")
     return all_rumors
 
 
-# ----------------------------------------------------------------------
-# SCORING
-# ----------------------------------------------------------------------
-
-def calculate_rankings(rumors: List[Dict]) -> pd.DataFrame:
-    """Calculate weighted rankings."""
-    today = date.today()
+def calculate_rankings(rumors):
+    """Calculate player rankings based on weighted mentions."""
+    today = datetime.now().date()
     
     player_data = defaultdict(lambda: {
-        "mentions_0_7": 0,
-        "mentions_8_14": 0,
-        "mentions_15_28": 0,
-        "total_mentions": 0,
-        "rumors": [],
-        "first_mention": None,
-        "last_mention": None,
+        'mentions_week1': 0,
+        'mentions_week2': 0,
+        'mentions_weeks3_4': 0,
+        'total_mentions': 0,
+        'first_mention': None,
+        'last_mention': None,
+        'rumors': [],
+        'daily_counts': defaultdict(int)
     })
     
     for rumor in rumors:
-        rumor_date = date.fromisoformat(rumor["date"])
+        player = rumor['player']
+        rumor_date = datetime.strptime(rumor['date'], '%Y-%m-%d').date()
         days_ago = (today - rumor_date).days
         
-        for player in rumor["players"]:
-            data = player_data[player]
-            data["total_mentions"] += 1
-            data["rumors"].append(rumor)
-            
-            if data["first_mention"] is None or rumor_date < date.fromisoformat(data["first_mention"]):
-                data["first_mention"] = rumor["date"]
-            if data["last_mention"] is None or rumor_date > date.fromisoformat(data["last_mention"]):
-                data["last_mention"] = rumor["date"]
-            
-            if days_ago <= 7:
-                data["mentions_0_7"] += 1
-            elif days_ago <= 14:
-                data["mentions_8_14"] += 1
-            else:
-                data["mentions_15_28"] += 1
+        # Update mention counts by time period
+        if days_ago <= 7:
+            player_data[player]['mentions_week1'] += 1
+        elif days_ago <= 14:
+            player_data[player]['mentions_week2'] += 1
+        else:
+            player_data[player]['mentions_weeks3_4'] += 1
+        
+        player_data[player]['total_mentions'] += 1
+        player_data[player]['daily_counts'][rumor['date']] += 1
+        
+        # Track first/last mention dates
+        if player_data[player]['first_mention'] is None or rumor['date'] < player_data[player]['first_mention']:
+            player_data[player]['first_mention'] = rumor['date']
+        if player_data[player]['last_mention'] is None or rumor['date'] > player_data[player]['last_mention']:
+            player_data[player]['last_mention'] = rumor['date']
+        
+        # Store rumor details
+        player_data[player]['rumors'].append({
+            'date': rumor['date'],
+            'text': rumor['text'],
+            'outlet': rumor['outlet'],
+            'source_url': rumor['source_url']
+        })
     
+    # Calculate weighted scores
     rankings = []
     for player, data in player_data.items():
         score = (
-            data["mentions_0_7"] * 1.0 +
-            data["mentions_8_14"] * 0.5 +
-            data["mentions_15_28"] * 0.25
+            data['mentions_week1'] * WEIGHT_WEEK1 +
+            data['mentions_week2'] * WEIGHT_WEEK2 +
+            data['mentions_weeks3_4'] * WEIGHT_WEEKS3_4
         )
-        
         rankings.append({
-            "player": player,
-            "score": round(score, 2),
-            "mentions_week1": data["mentions_0_7"],
-            "mentions_week2": data["mentions_8_14"],
-            "mentions_weeks3_4": data["mentions_15_28"],
-            "total_mentions": data["total_mentions"],
-            "first_mention": data["first_mention"],
-            "last_mention": data["last_mention"],
+            'player': player,
+            'score': round(score, 2),
+            'mentions_week1': data['mentions_week1'],
+            'mentions_week2': data['mentions_week2'],
+            'mentions_weeks3_4': data['mentions_weeks3_4'],
+            'total_mentions': data['total_mentions'],
+            'first_mention': data['first_mention'],
+            'last_mention': data['last_mention']
         })
     
-    rankings.sort(key=lambda x: (-x["score"], -x["total_mentions"], x["player"]))
+    # Sort by score descending
+    rankings.sort(key=lambda x: (-x['score'], -x['total_mentions'], x['player']))
     
-    for i, r in enumerate(rankings):
-        r["rank"] = i + 1
+    # Add ranks
+    for i, r in enumerate(rankings, 1):
+        r['rank'] = i
     
-    return pd.DataFrame(rankings)
+    return rankings, player_data
 
-
-def build_player_index(rumors: List[Dict]) -> Dict[str, List[Dict]]:
-    """Build rumor index by player."""
-    index = defaultdict(list)
-    
-    for rumor in rumors:
-        for player in rumor["players"]:
-            index[player].append({
-                "date": rumor["date"],
-                "text": rumor["text"],
-                "outlet": rumor["outlet"],
-                "source_url": rumor["source_url"],
-            })
-    
-    for player in index:
-        index[player].sort(key=lambda x: x["date"], reverse=True)
-    
-    return dict(index)
-
-
-def build_daily_counts(rumors: List[Dict]) -> Dict[str, Dict[str, int]]:
-    """Build daily counts per player."""
-    counts = defaultdict(lambda: defaultdict(int))
-    
-    for rumor in rumors:
-        for player in rumor["players"]:
-            counts[player][rumor["date"]] += 1
-    
-    return {p: dict(d) for p, d in counts.items()}
-
-
-# ----------------------------------------------------------------------
-# MAIN
-# ----------------------------------------------------------------------
 
 def main():
-    print("🏀 NBA Trade Rumor Rankings Scraper")
+    """Main function."""
+    # Get credentials from environment or use defaults
+    username = os.environ.get('HH_PREVIEW_USER', 'preview')
+    password = os.environ.get('HH_PREVIEW_PASS', 'hhpreview')
+    
+    print("=" * 60)
+    print("NBA Trade Rumor Rankings Scraper")
     print("=" * 60)
     
-    rumors = scrape_all(days_back=SCRAPE_DAYS)
+    # Scrape rumors
+    rumors = scrape_all_rumors(username, password)
     
     if not rumors:
-        print("No rumors found!")
-        # Create empty files so app doesn't crash
-        empty_data = {
-            "generated_at": datetime.now().isoformat(),
-            "scrape_window_days": SCRAPE_DAYS,
-            "total_rumors": 0,
-            "total_players": 0,
-            "rankings": [],
-            "player_rumors": {},
-            "daily_counts": {},
+        print("\nNo rumors found!")
+        # Create empty data file
+        data = {
+            'generated_at': datetime.now().isoformat(),
+            'scrape_window_days': SCRAPE_WINDOW_DAYS,
+            'total_rumors': 0,
+            'total_players': 0,
+            'rankings': [],
+            'player_rumors': {},
+            'daily_counts': {}
         }
-        with open(OUTPUT_JSON, "w") as f:
-            json.dump(empty_data, f, indent=2)
-        print(f"Wrote empty {OUTPUT_JSON}")
+        with open('trade_rumor_data.json', 'w') as f:
+            json.dump(data, f, indent=2)
         return
     
-    print("\n📊 Calculating rankings...")
-    rankings_df = calculate_rankings(rumors)
-    print(f"Ranked {len(rankings_df)} players")
+    # Calculate rankings
+    rankings, player_data = calculate_rankings(rumors)
     
-    player_rumors = build_player_index(rumors)
-    daily_counts = build_daily_counts(rumors)
+    print(f"\nTop 10 Players:")
+    for r in rankings[:10]:
+        print(f"  {r['rank']}. {r['player']}: {r['score']} pts ({r['total_mentions']} mentions)")
     
-    rankings_df.to_csv(OUTPUT_CSV, index=False)
-    print(f"✅ Saved {OUTPUT_CSV}")
+    # Prepare output data
+    today = datetime.now().date()
+    window_start = today - timedelta(days=SCRAPE_WINDOW_DAYS)
     
-    full_data = {
-        "generated_at": datetime.now().isoformat(),
-        "scrape_window_days": SCRAPE_DAYS,
-        "total_rumors": len(rumors),
-        "total_players": len(rankings_df),
-        "rankings": rankings_df.to_dict(orient="records"),
-        "player_rumors": player_rumors,
-        "daily_counts": daily_counts,
+    output_data = {
+        'generated_at': datetime.now().isoformat(),
+        'scrape_window_days': SCRAPE_WINDOW_DAYS,
+        'window_start': window_start.isoformat(),
+        'window_end': today.isoformat(),
+        'total_rumors': len(rumors),
+        'total_players': len(rankings),
+        'rankings': rankings,
+        'player_rumors': {
+            player: sorted(data['rumors'], key=lambda x: x['date'], reverse=True)
+            for player, data in player_data.items()
+        },
+        'daily_counts': {
+            player: dict(data['daily_counts'])
+            for player, data in player_data.items()
+        }
     }
     
-    with open(OUTPUT_JSON, "w") as f:
-        json.dump(full_data, f, indent=2)
-    print(f"✅ Saved {OUTPUT_JSON}")
+    # Save to JSON
+    with open('trade_rumor_data.json', 'w') as f:
+        json.dump(output_data, f, indent=2)
     
-    print("\n" + "=" * 60)
-    print("🔥 TOP 15 TRADE RUMOR RANKINGS")
-    print("=" * 60)
-    print(f"{'Rank':<5} {'Player':<25} {'Score':<8} {'7d':<5} {'14d':<5} {'28d':<5}")
-    print("-" * 60)
-    
-    for _, row in rankings_df.head(15).iterrows():
-        print(f"{row['rank']:<5} {row['player']:<25} {row['score']:<8} {row['mentions_week1']:<5} {row['mentions_week2']:<5} {row['mentions_weeks3_4']:<5}")
+    print(f"\nData saved to trade_rumor_data.json")
+    print(f"Total players ranked: {len(rankings)}")
 
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     main()
