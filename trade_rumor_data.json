@@ -1,9 +1,2625 @@
 {
-  "generated_at": "2025-12-10T02:51:09.185914",
+  "generated_at": "2025-12-10T10:50:09.756311",
   "scrape_window_days": 28,
-  "total_rumors": 0,
-  "total_players": 0,
-  "rankings": [],
-  "player_rumors": {},
-  "daily_counts": {}
+  "window_start": "2025-11-12",
+  "window_end": "2025-12-10",
+  "total_rumors": 215,
+  "total_players": 78,
+  "rankings": [
+    {
+      "player": "Giannis Antetokounmpo",
+      "score": 30.5,
+      "mentions_week1": 30,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 31,
+      "first_mention": "2025-11-26",
+      "last_mention": "2025-12-10",
+      "rank": 1
+    },
+    {
+      "player": "Anthony Davis",
+      "score": 11.0,
+      "mentions_week1": 3,
+      "mentions_week2": 6,
+      "mentions_weeks3_4": 20,
+      "total_mentions": 29,
+      "first_mention": "2025-11-12",
+      "last_mention": "2025-12-09",
+      "rank": 2
+    },
+    {
+      "player": "Ja Morant",
+      "score": 6.75,
+      "mentions_week1": 4,
+      "mentions_week2": 2,
+      "mentions_weeks3_4": 7,
+      "total_mentions": 13,
+      "first_mention": "2025-11-13",
+      "last_mention": "2025-12-10",
+      "rank": 3
+    },
+    {
+      "player": "Terry Rozier",
+      "score": 5.25,
+      "mentions_week1": 5,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 6,
+      "first_mention": "2025-11-21",
+      "last_mention": "2025-12-09",
+      "rank": 4
+    },
+    {
+      "player": "Jonathan Kuminga",
+      "score": 4.75,
+      "mentions_week1": 4,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 6,
+      "first_mention": "2025-11-20",
+      "last_mention": "2025-12-09",
+      "rank": 5
+    },
+    {
+      "player": "LaMelo Ball",
+      "score": 4.5,
+      "mentions_week1": 2,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 10,
+      "total_mentions": 12,
+      "first_mention": "2025-11-20",
+      "last_mention": "2025-12-03",
+      "rank": 6
+    },
+    {
+      "player": "Keon Ellis",
+      "score": 3.5,
+      "mentions_week1": 2,
+      "mentions_week2": 2,
+      "mentions_weeks3_4": 2,
+      "total_mentions": 6,
+      "first_mention": "2025-11-18",
+      "last_mention": "2025-12-09",
+      "rank": 7
+    },
+    {
+      "player": "Domantas Sabonis",
+      "score": 3.25,
+      "mentions_week1": 2,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 3,
+      "total_mentions": 6,
+      "first_mention": "2025-11-12",
+      "last_mention": "2025-12-09",
+      "rank": 8
+    },
+    {
+      "player": "Kyrie Irving",
+      "score": 2.5,
+      "mentions_week1": 1,
+      "mentions_week2": 2,
+      "mentions_weeks3_4": 2,
+      "total_mentions": 5,
+      "first_mention": "2025-11-14",
+      "last_mention": "2025-12-08",
+      "rank": 9
+    },
+    {
+      "player": "Rich Paul",
+      "score": 2.5,
+      "mentions_week1": 2,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 2,
+      "total_mentions": 4,
+      "first_mention": "2025-11-12",
+      "last_mention": "2025-12-10",
+      "rank": 10
+    },
+    {
+      "player": "D'Angelo Russell",
+      "score": 2.5,
+      "mentions_week1": 2,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 3,
+      "first_mention": "2025-11-27",
+      "last_mention": "2025-12-09",
+      "rank": 11
+    },
+    {
+      "player": "Daniel Gafford",
+      "score": 2.25,
+      "mentions_week1": 2,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 3,
+      "first_mention": "2025-11-16",
+      "last_mention": "2025-12-09",
+      "rank": 12
+    },
+    {
+      "player": "Trae Young",
+      "score": 2.25,
+      "mentions_week1": 2,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 3,
+      "first_mention": "2025-11-24",
+      "last_mention": "2025-12-03",
+      "rank": 13
+    },
+    {
+      "player": "Zach LaVine",
+      "score": 2.0,
+      "mentions_week1": 1,
+      "mentions_week2": 2,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 3,
+      "first_mention": "2025-11-26",
+      "last_mention": "2025-12-09",
+      "rank": 14
+    },
+    {
+      "player": "Alex Saratsis",
+      "score": 2.0,
+      "mentions_week1": 2,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 2,
+      "first_mention": "2025-12-03",
+      "last_mention": "2025-12-09",
+      "rank": 15
+    },
+    {
+      "player": "Herb Jones",
+      "score": 2.0,
+      "mentions_week1": 2,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 2,
+      "first_mention": "2025-12-06",
+      "last_mention": "2025-12-06",
+      "rank": 16
+    },
+    {
+      "player": "James Harden",
+      "score": 2.0,
+      "mentions_week1": 2,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 2,
+      "first_mention": "2025-12-05",
+      "last_mention": "2025-12-06",
+      "rank": 17
+    },
+    {
+      "player": "Kevin Porter",
+      "score": 2.0,
+      "mentions_week1": 2,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 2,
+      "first_mention": "2025-12-04",
+      "last_mention": "2025-12-04",
+      "rank": 18
+    },
+    {
+      "player": "Klay Thompson",
+      "score": 2.0,
+      "mentions_week1": 2,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 2,
+      "first_mention": "2025-12-09",
+      "last_mention": "2025-12-09",
+      "rank": 19
+    },
+    {
+      "player": "Trey Murphy",
+      "score": 2.0,
+      "mentions_week1": 2,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 2,
+      "first_mention": "2025-12-06",
+      "last_mention": "2025-12-06",
+      "rank": 20
+    },
+    {
+      "player": "Anfernee Simons",
+      "score": 1.5,
+      "mentions_week1": 0,
+      "mentions_week2": 3,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 3,
+      "first_mention": "2025-11-26",
+      "last_mention": "2025-11-30",
+      "rank": 21
+    },
+    {
+      "player": "Andrew Wiggins",
+      "score": 1.5,
+      "mentions_week1": 1,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 2,
+      "first_mention": "2025-11-26",
+      "last_mention": "2025-12-08",
+      "rank": 22
+    },
+    {
+      "player": "Tuomas Iisalo",
+      "score": 1.5,
+      "mentions_week1": 1,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 2,
+      "first_mention": "2025-11-26",
+      "last_mention": "2025-12-10",
+      "rank": 23
+    },
+    {
+      "player": "Zach Kleiman",
+      "score": 1.5,
+      "mentions_week1": 1,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 2,
+      "first_mention": "2025-11-26",
+      "last_mention": "2025-12-10",
+      "rank": 24
+    },
+    {
+      "player": "Patrick Dumont",
+      "score": 1.25,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 3,
+      "total_mentions": 4,
+      "first_mention": "2025-11-12",
+      "last_mention": "2025-11-26",
+      "rank": 25
+    },
+    {
+      "player": "DeMar DeRozan",
+      "score": 1.25,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 2,
+      "first_mention": "2025-11-24",
+      "last_mention": "2025-12-09",
+      "rank": 26
+    },
+    {
+      "player": "Nico Harrison",
+      "score": 1.0,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 2,
+      "total_mentions": 3,
+      "first_mention": "2025-11-12",
+      "last_mention": "2025-11-26",
+      "rank": 27
+    },
+    {
+      "player": "Sam Hauser",
+      "score": 1.0,
+      "mentions_week1": 0,
+      "mentions_week2": 2,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 2,
+      "first_mention": "2025-11-26",
+      "last_mention": "2025-11-30",
+      "rank": 28
+    },
+    {
+      "player": "AJ Dybantsa",
+      "score": 1.0,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2025-12-04",
+      "last_mention": "2025-12-04",
+      "rank": 29
+    },
+    {
+      "player": "Bobby Portis",
+      "score": 1.0,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2025-12-04",
+      "last_mention": "2025-12-04",
+      "rank": 30
+    },
+    {
+      "player": "Chauncey Billups",
+      "score": 1.0,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2025-12-09",
+      "last_mention": "2025-12-09",
+      "rank": 31
+    },
+    {
+      "player": "Chris Paul",
+      "score": 1.0,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2025-12-09",
+      "last_mention": "2025-12-09",
+      "rank": 32
+    },
+    {
+      "player": "Dylan Harper",
+      "score": 1.0,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2025-12-04",
+      "last_mention": "2025-12-04",
+      "rank": 33
+    },
+    {
+      "player": "Ivica Zubac",
+      "score": 1.0,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2025-12-04",
+      "last_mention": "2025-12-04",
+      "rank": 34
+    },
+    {
+      "player": "Jon Horst",
+      "score": 1.0,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2025-12-03",
+      "last_mention": "2025-12-03",
+      "rank": 35
+    },
+    {
+      "player": "Karl-Anthony Towns",
+      "score": 1.0,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2025-12-09",
+      "last_mention": "2025-12-09",
+      "rank": 36
+    },
+    {
+      "player": "Kawhi Leonard",
+      "score": 1.0,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2025-12-05",
+      "last_mention": "2025-12-05",
+      "rank": 37
+    },
+    {
+      "player": "Kel'el Ware",
+      "score": 1.0,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2025-12-08",
+      "last_mention": "2025-12-08",
+      "rank": 38
+    },
+    {
+      "player": "Lawrence Frank",
+      "score": 1.0,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2025-12-04",
+      "last_mention": "2025-12-04",
+      "rank": 39
+    },
+    {
+      "player": "LeBron James",
+      "score": 1.0,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2025-12-09",
+      "last_mention": "2025-12-09",
+      "rank": 40
+    },
+    {
+      "player": "Luka Doncic",
+      "score": 1.0,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2025-12-09",
+      "last_mention": "2025-12-09",
+      "rank": 41
+    },
+    {
+      "player": "Malik Monk",
+      "score": 1.0,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2025-12-08",
+      "last_mention": "2025-12-08",
+      "rank": 42
+    },
+    {
+      "player": "Myles Turner",
+      "score": 1.0,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2025-12-09",
+      "last_mention": "2025-12-09",
+      "rank": 43
+    },
+    {
+      "player": "NBA Cup",
+      "score": 1.0,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2025-12-08",
+      "last_mention": "2025-12-08",
+      "rank": 44
+    },
+    {
+      "player": "Pelle Larsson",
+      "score": 1.0,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2025-12-08",
+      "last_mention": "2025-12-08",
+      "rank": 45
+    },
+    {
+      "player": "Scott Perry",
+      "score": 1.0,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2025-12-09",
+      "last_mention": "2025-12-09",
+      "rank": 46
+    },
+    {
+      "player": "Stephon Castle",
+      "score": 1.0,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2025-12-04",
+      "last_mention": "2025-12-04",
+      "rank": 47
+    },
+    {
+      "player": "Walker Kessler",
+      "score": 1.0,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2025-12-09",
+      "last_mention": "2025-12-09",
+      "rank": 48
+    },
+    {
+      "player": "Zion Williamson",
+      "score": 1.0,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2025-12-06",
+      "last_mention": "2025-12-06",
+      "rank": 49
+    },
+    {
+      "player": "Lauri Markkanen",
+      "score": 0.75,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 2,
+      "first_mention": "2025-11-18",
+      "last_mention": "2025-12-01",
+      "rank": 50
+    },
+    {
+      "player": "John Wall",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 2,
+      "total_mentions": 2,
+      "first_mention": "2025-11-13",
+      "last_mention": "2025-11-14",
+      "rank": 51
+    },
+    {
+      "player": "Keegan Murray",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 2,
+      "total_mentions": 2,
+      "first_mention": "2025-11-18",
+      "last_mention": "2025-11-23",
+      "rank": 52
+    },
+    {
+      "player": "Andre Miller",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2025-11-27",
+      "last_mention": "2025-11-27",
+      "rank": 53
+    },
+    {
+      "player": "Anthony Edwards",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2025-11-26",
+      "last_mention": "2025-11-26",
+      "rank": 54
+    },
+    {
+      "player": "Brandon Ingram",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2025-11-27",
+      "last_mention": "2025-11-27",
+      "rank": 55
+    },
+    {
+      "player": "Buddy Hield",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2025-11-26",
+      "last_mention": "2025-11-26",
+      "rank": 56
+    },
+    {
+      "player": "Devin Booker",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2025-11-27",
+      "last_mention": "2025-11-27",
+      "rank": 57
+    },
+    {
+      "player": "Jaden McDaniels",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2025-11-26",
+      "last_mention": "2025-11-26",
+      "rank": 58
+    },
+    {
+      "player": "Jason Kidd",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2025-11-28",
+      "last_mention": "2025-11-28",
+      "rank": 59
+    },
+    {
+      "player": "Josh Hart",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2025-11-27",
+      "last_mention": "2025-11-27",
+      "rank": 60
+    },
+    {
+      "player": "Kyle Kuzma",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2025-11-26",
+      "last_mention": "2025-11-26",
+      "rank": 61
+    },
+    {
+      "player": "Lonzo Ball",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2025-11-26",
+      "last_mention": "2025-11-26",
+      "rank": 62
+    },
+    {
+      "player": "Max Christie",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2025-11-28",
+      "last_mention": "2025-11-28",
+      "rank": 63
+    },
+    {
+      "player": "Nick Richards",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2025-11-26",
+      "last_mention": "2025-11-26",
+      "rank": 64
+    },
+    {
+      "player": "Robert Williams",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2025-11-26",
+      "last_mention": "2025-11-26",
+      "rank": 65
+    },
+    {
+      "player": "Russell Westbrook",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2025-11-27",
+      "last_mention": "2025-11-27",
+      "rank": 66
+    },
+    {
+      "player": "Tyrese Haliburton",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2025-11-26",
+      "last_mention": "2025-11-26",
+      "rank": 67
+    },
+    {
+      "player": "Vivek Ranadive",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2025-11-26",
+      "last_mention": "2025-11-26",
+      "rank": 68
+    },
+    {
+      "player": "Carlos Delfino",
+      "score": 0.25,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 1,
+      "first_mention": "2025-11-17",
+      "last_mention": "2025-11-17",
+      "rank": 69
+    },
+    {
+      "player": "Charles Lee",
+      "score": 0.25,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 1,
+      "first_mention": "2025-11-21",
+      "last_mention": "2025-11-21",
+      "rank": 70
+    },
+    {
+      "player": "Dereck Lively",
+      "score": 0.25,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 1,
+      "first_mention": "2025-11-16",
+      "last_mention": "2025-11-16",
+      "rank": 71
+    },
+    {
+      "player": "Isaiah Thomas",
+      "score": 0.25,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 1,
+      "first_mention": "2025-11-18",
+      "last_mention": "2025-11-18",
+      "rank": 72
+    },
+    {
+      "player": "Jalen Brunson",
+      "score": 0.25,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 1,
+      "first_mention": "2025-11-12",
+      "last_mention": "2025-11-12",
+      "rank": 73
+    },
+    {
+      "player": "Josh Giddey",
+      "score": 0.25,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 1,
+      "first_mention": "2025-11-21",
+      "last_mention": "2025-11-21",
+      "rank": 74
+    },
+    {
+      "player": "Kevin Love",
+      "score": 0.25,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 1,
+      "first_mention": "2025-11-18",
+      "last_mention": "2025-11-18",
+      "rank": 75
+    },
+    {
+      "player": "Mark Cuban",
+      "score": 0.25,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 1,
+      "first_mention": "2025-11-19",
+      "last_mention": "2025-11-19",
+      "rank": 76
+    },
+    {
+      "player": "Nikola Vucevic",
+      "score": 0.25,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 1,
+      "first_mention": "2025-11-21",
+      "last_mention": "2025-11-21",
+      "rank": 77
+    },
+    {
+      "player": "Will Hardy",
+      "score": 0.25,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 1,
+      "first_mention": "2025-11-18",
+      "last_mention": "2025-11-18",
+      "rank": 78
+    }
+  ],
+  "player_rumors": {
+    "Ja Morant": [
+      {
+        "date": "2025-12-10",
+        "text": "Sam Amick: \u201cAnd man, Ja \u2014 like he was in a good place. Considering how much time we spent talking and writing about the stuff that happened early on in the season when it seemed like he was ready to get out of Memphis and he was frustrated with the coaching staff \u2014 you know, what I saw that night was a very different picture where he was obviously hurt, but he's on the bench coaching guys up. Um, literally even engaging with Tuomas Iisalo about stuff, you know, on\u2014on the playboard, um, things li",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=SePaYJ4cBxw"
+      },
+      {
+        "date": "2025-12-08",
+        "text": "Miami was already shaping into a surprising buyer on this trade market even before this week's Giannis headlines. League sources say thatthe Heat, for example, have had internal discussions about Memphis' Ja Morant and how Miami's infrastructure could benefit him.marcstein.substack.com",
+        "outlet": "marcstein.substack.com",
+        "source_url": "https://marcstein.substack.com/p/sunday-best-the-nba-trade-topic-that"
+      },
+      {
+        "date": "2025-12-03",
+        "text": "Charlotte's\u00a0LaMelo Ball,\u00a0Memphis'\u00a0Ja Morant\u00a0and\u00a0Atlanta's\u00a0Trae Young\u00a0all seem to be stuck in a sort of limbo with the franchises that they've been the faces of since entering the league as high lottery picks. There is rampant speculation among rival teams that Ball, Morant and Young could all be available leading up to the Feb. 5 trade deadline. For a variety of reasons, from their maximum contracts to their major flaws, it's not a discussion that generates much enthusiasm despite their status a",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/47179857/ja-morant-lamelo-ball-trae-young-three-all-star-guards-limbo"
+      },
+      {
+        "date": "2025-12-03",
+        "text": "Ja Morant emerged as one of the NBA's most electrifying stars primarily because he was so dynamic attacking off the dribble. But he's shown increasing hesitancy to drive into the paint.\u00a0According to\u00a0Basketball Reference, the percentage of Morant's field goal attempts within three feet of the basket has dipped each season and plummeted this season. Only 15.4% of his attempts have come from that close range this season, less than half of his career norm.\"Either you're declining at a rapidly fast r",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/47179857/ja-morant-lamelo-ball-trae-young-three-all-star-guards-limbo"
+      },
+      {
+        "date": "2025-12-02",
+        "text": "Teams such as Sacramento and the Minnesota Timberwolves (and likely many more) that were known to be\u00a0monitoring\u00a0the situation before will continue to do so, all while watching closely when Ja Morant returns (his initial timeline had him slated for a possible early December return).Still, the Grizzlies going from their loud and ugly 4-11 start to this quiet and impressive bounce-back (now 9-12) is enough to make these next few months all the more interesting in Memphis. The back end of the West i",
+        "outlet": "New York Times",
+        "source_url": "https://www.nytimes.com/athletic/6853501/2025/12/02/ja-morant-trade-rumors-grizzlies-wins/"
+      },
+      {
+        "date": "2025-11-26",
+        "text": "Following an argument with Grizzlies head coach\u00a0Tuomas Iisalo\u00a0and a one-game suspension for conduct detrimental to the team, rival NBA\u00a0executives\u00a0circled like vultures conducting due diligence to see if the\u00a0Ja Morant\u00a0era in Memphis was nearing an end.However, Grizzlies\u00a0executive\u00a0Zach Kleiman\u00a0declined trade inquiries on Morant then and has since, for the time being, league\u00a0sources\u00a0told\u00a0HoopsHype.HoopsHype",
+        "outlet": "HoopsHype",
+        "source_url": "https://www.hoopshype.com/story/sports/nba/2025/11/26/title-nba-intel-ja-morant-timberwolves-kings-celtics/87477567007/"
+      },
+      {
+        "date": "2025-11-24",
+        "text": "Marc Stein: \u201cWhat I think is really happening here, in the grand scheme \u2014 and I already mentioned Ja Morant in Memphis \u2014 is that Trae Young is now in a similar position. He\u2019s out in Atlanta, and the Hawks have been winning some games without him. Remember, this summer the two sides could have engaged in contract extension talks, but they didn\u2019t. The Hawks made it clear to Trae Young\u2019s camp that they weren\u2019t interested in an extension before the season. They wanted this season to play out.Around ",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/live/FLwniS558nA"
+      },
+      {
+        "date": "2025-11-21",
+        "text": "Given Morant hasn't improved as a shooter -- he was an abysmal 10-for-60 from 3 before his latest calf injury -- it's easy to see why he's not the same player who electrified the league and appeared to have Memphis on a championship-caliber trajectory a few short years ago.Sources expect Memphis to explore the trade market for Morant but, like Davis, believe it will be difficult to get value for him. \u2018I do think they'll move him,\u2019 a West scout said.ESPN",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/47039949/nba-first-month-lessons-intel-thunder-lakers-warriors-knicks-every-team"
+      },
+      {
+        "date": "2025-11-18",
+        "text": "Zach Lowe: \"I will say with Ja \u2014 teams that are watching him, and I talked to one of them over the weekend \u2014 they\u2019re throwing his current level of play into the trash.They\u2019re saying, 'This looks to us like a guy who wants out.' And they\u2019re going to judge him more by his long-term track record \u2014 whatever that even is at this point,given his games played issues over the last few years \u2014 than by what they\u2019re seeing right now.\" \"But, I mean\u2026 he\u2019s averaging 18 a game, shooting 36% from the field, 17%",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=dQJHT3yr5JM"
+      },
+      {
+        "date": "2025-11-18",
+        "text": "Memphis is not willing to consider Ja Morant trades unless it\u2019s a no-brainer(which no one is calling with), according to sources. They want to make this work. Morant may have to force the issue if there is to be a trade.FanSided",
+        "outlet": "FanSided",
+        "source_url": "https://fansided.com/nba/nba-insider-trade-rumors-anthony-davis-ja-morant"
+      },
+      {
+        "date": "2025-11-13",
+        "text": "Brian Windhorst:I have not heard that Ja Morant is available. I don\u2019t know everything\u2014I wouldn\u2019t say I know everything that\u2019s going on\u2014but I have not heard he\u2019s available. Have there been discussions that, I have all day, every day\u2014about transactions, about \u201cIs it something people are thinking about? Could it happen? What would the market look like?\u201d I have heard that. I will just tell you: Ja is having a terrible season. His shooting numbers and his production have fallen off a cliff. Now, that",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=oH6UB9gq46o"
+      },
+      {
+        "date": "2025-11-13",
+        "text": "Brian Windhorst: Let's say there's seven or eight. Let's say there's seven or eight teams. You could debate whether there's six, whether there's nine. Let's just say there's seven or eight teams that would, you know, consider upgrading their point guard position. How many of those teams want Ja Morant that like that in that like those indicators? It's not seven or eight, Rich. We could spend another couple hours debating it, but you know, let's say it's a few. Okay, let's let's say it's three or",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=oH6UB9gq46o"
+      },
+      {
+        "date": "2025-11-13",
+        "text": "Memphis Grizzlies star Ja Morant was seemingly unimpressed with a fan's attempt to recruit him to the New York Knicks.A video posted Tuesday night to TikTok showed a fan asking Morant to come to New York as he walked into the tunnel at Madison Square Garden. \"I'm cool,\" Morant responded.Bleacher Report",
+        "outlet": "Bleacher Report",
+        "source_url": "https://bleacherreport.com/articles/25291818-ja-morant-responds-knicks-fan-recruiting-him-video-amid-nba-trade-rumors"
+      }
+    ],
+    "Zach Kleiman": [
+      {
+        "date": "2025-12-10",
+        "text": "Sam Amick: \u201cAnd man, Ja \u2014 like he was in a good place. Considering how much time we spent talking and writing about the stuff that happened early on in the season when it seemed like he was ready to get out of Memphis and he was frustrated with the coaching staff \u2014 you know, what I saw that night was a very different picture where he was obviously hurt, but he's on the bench coaching guys up. Um, literally even engaging with Tuomas Iisalo about stuff, you know, on\u2014on the playboard, um, things li",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=SePaYJ4cBxw"
+      },
+      {
+        "date": "2025-11-26",
+        "text": "Following an argument with Grizzlies head coach\u00a0Tuomas Iisalo\u00a0and a one-game suspension for conduct detrimental to the team, rival NBA\u00a0executives\u00a0circled like vultures conducting due diligence to see if the\u00a0Ja Morant\u00a0era in Memphis was nearing an end.However, Grizzlies\u00a0executive\u00a0Zach Kleiman\u00a0declined trade inquiries on Morant then and has since, for the time being, league\u00a0sources\u00a0told\u00a0HoopsHype.HoopsHype",
+        "outlet": "HoopsHype",
+        "source_url": "https://www.hoopshype.com/story/sports/nba/2025/11/26/title-nba-intel-ja-morant-timberwolves-kings-celtics/87477567007/"
+      }
+    ],
+    "Tuomas Iisalo": [
+      {
+        "date": "2025-12-10",
+        "text": "Sam Amick: \u201cAnd man, Ja \u2014 like he was in a good place. Considering how much time we spent talking and writing about the stuff that happened early on in the season when it seemed like he was ready to get out of Memphis and he was frustrated with the coaching staff \u2014 you know, what I saw that night was a very different picture where he was obviously hurt, but he's on the bench coaching guys up. Um, literally even engaging with Tuomas Iisalo about stuff, you know, on\u2014on the playboard, um, things li",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=SePaYJ4cBxw"
+      },
+      {
+        "date": "2025-11-26",
+        "text": "Following an argument with Grizzlies head coach\u00a0Tuomas Iisalo\u00a0and a one-game suspension for conduct detrimental to the team, rival NBA\u00a0executives\u00a0circled like vultures conducting due diligence to see if the\u00a0Ja Morant\u00a0era in Memphis was nearing an end.However, Grizzlies\u00a0executive\u00a0Zach Kleiman\u00a0declined trade inquiries on Morant then and has since, for the time being, league\u00a0sources\u00a0told\u00a0HoopsHype.HoopsHype",
+        "outlet": "HoopsHype",
+        "source_url": "https://www.hoopshype.com/story/sports/nba/2025/11/26/title-nba-intel-ja-morant-timberwolves-kings-celtics/87477567007/"
+      }
+    ],
+    "Rich Paul": [
+      {
+        "date": "2025-12-10",
+        "text": "Rich Paul:\u201cI think the Milwaukee Bucks have done everything Giannis has asked them to do and deserve the right for Giannis to handle things in a way where they\u2019re not put in a situation where people know he wants out\u2014and so now we get 70 cents on the dollar. There\u2019s a way to be partnerial in exiting. There really is.\u201dMax Kellerman: \u201cAnd do you think they will form a partnership in order to exit?\u201d Rich Paul: \u201cWell, that takes a number of things. Listen\u2014most athletes have been getting what all the",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=sokxu0dYIEM&t=2920s"
+      },
+      {
+        "date": "2025-12-09",
+        "text": "Max Kellerman: Is LeBron\u00a0James realistically\u00a0a guy who could not be on the Lakers at\u00a0the end of this year?\u00a0Paul: No.Kellerman: He will be on the Lakers at the end\u00a0of this year.\u00a0Pau: Yeah. Where's he going to go?\u00a0Kellerman: I mean, New York comes to mind.\u00a0Paul: That's wishful thinking. You're from New\u00a0York.\u00a0Kellerman:The Knicks would\u00a0love Giannis, right? Or someone like\u00a0that. But the price tag for a a\u00a0hundred-year-old guy making $50 million\u00a0a year is a lot lower. And actually, I\u00a0think as a kid wh",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=sokxu0dYIEM&t=2918s"
+      },
+      {
+        "date": "2025-11-12",
+        "text": "It's believed the Mavericks will work with Davis' camp over the next two-plus months as they decide whether to pursue an in-season trade.Davis' agent Rich Paul and Mavericks owner Patrick Dumont have established a relationship that features regular contact since they were introduced at the Mavericks' Play-In Tournament victory in Sacramento in April. The parties are thus expected to work in concert to some degree on next steps.marcstein.substack.com",
+        "outlet": "marcstein.substack.com",
+        "source_url": "https://marcstein.substack.com/p/whats-next-after-the-firing-of-nico"
+      },
+      {
+        "date": "2025-11-12",
+        "text": "Marc Stein: As for what Nico Harrison's dismissal means for Anthony Davis' future in Dallas: Sources tell @TheSteinLine and @DLLS_Sports that Davis' agentRich Paul has established a strong relationship with Mavericks owner Patrick Dumont since February's trade. They are in regular contact.x.com",
+        "outlet": "x.com",
+        "source_url": "https://x.com/TheSteinLine/status/1988272100746969465?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1988272100746969465%7Ctwgr%5E1eb8631fb0d85bab7bf13948319316a104e513d5%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.sportingnews.com%2Fus%2Fnba%2Fdallas-mavericks%2Fnews%2Fanthony-davis-trade-rumors-get-important-update-amid-nico-harrison-firing%2F4b4c41583ed61f3ce9c96fa4"
+      }
+    ],
+    "Giannis Antetokounmpo": [
+      {
+        "date": "2025-12-10",
+        "text": "Rich Paul:\u201cI think the Milwaukee Bucks have done everything Giannis has asked them to do and deserve the right for Giannis to handle things in a way where they\u2019re not put in a situation where people know he wants out\u2014and so now we get 70 cents on the dollar. There\u2019s a way to be partnerial in exiting. There really is.\u201dMax Kellerman: \u201cAnd do you think they will form a partnership in order to exit?\u201d Rich Paul: \u201cWell, that takes a number of things. Listen\u2014most athletes have been getting what all the",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=sokxu0dYIEM&t=2920s"
+      },
+      {
+        "date": "2025-12-09",
+        "text": "Chris Haynes: Sources:Milwaukee Bucks star Giannis Antetokounmpo met with some teammates to address rumors of his future.Message was to focus on basketball and not allow outside noise to distract team. More on The Association on @NBATV .x.com",
+        "outlet": "x.com",
+        "source_url": "https://x.com/ChrisBHaynes/status/1998595338492588284"
+      },
+      {
+        "date": "2025-12-09",
+        "text": "\"The writing is on the wall,\" one\u00a0source\u00a0with direct\u00a0knowledge\u00a0of the Bucks' dynamics with Giannis Antetokounmpo\u00a0told\u00a0ESPN this month. If the Bucks are open to discussing Antetokounmpo with teams, the Knicks will no longer have the exclusive negotiating window as his preferred destination,\u00a0sources\u00a0told\u00a0ESPN.ESPN",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/47245704/shams-pass-nba-trade-deadline-notes-news-buzz-anthony-davis-giannis-antetokounmpo-teams"
+      },
+      {
+        "date": "2025-12-09",
+        "text": "As\u00a0reported last week, Antetokounmpo, who is out for several weeks because of a\u00a0right calf strain, and his agent Alex Saratsis have opened\u00a0discussions\u00a0with the Bucks about the future and whether the best path forward is to stay in Milwaukee or a\u00a0trade. The Bucks are 10-15, having lost 10 of their past 12 games, and have spent most of the past few weeks at No. 10 or No. 11 in the Eastern Conference\u00a0standings.Should the Bucks' slide continue,\u00a0sources\u00a0said\u00a0discussions\u00a0between Antetokounmpo's repres",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/47245704/shams-pass-nba-trade-deadline-notes-news-buzz-anthony-davis-giannis-antetokounmpo-teams"
+      },
+      {
+        "date": "2025-12-09",
+        "text": "Disgruntled Milwaukee Bucks star Giannis Antetokounmpo will likely be available this season, and bombshell trade news involving Antetokounmpo and Doncic should excite the Lakers as they survey all their options. \u201cI can tell you this for a fact,\u201d Fox32 Chicago\u2019s Lou Canellis said on 670 The Score last Thursday. \u201cA few months ago, Giannis wanted to be traded. His first choice, New York with the Knicks.\u201d \u201cKnicks wouldn\u2019t move off, would not offer more than just Karl-Anthony Towns, and it just wasn\u2019",
+        "outlet": "Sporting News",
+        "source_url": "https://www.sportingnews.com/us/nba/los-angeles-lakers/news/bombshell-trade-news-involving-luka-doncic-giannis-antetokounmpo-good-news-lakers/50a5c98d7bdb743df441544b"
+      },
+      {
+        "date": "2025-12-08",
+        "text": "I can share, from my own reporting, thatteam officials have tried as hard as they can to operate as normal in the wake of ESPN's report earlier this week that Antetokounmpo and his agent Alex Saratsis have re-opened discussions with the organization about the player's future.It's an approach Milwaukee has maintained since unveiling Myles Turner as its marquee free agent addition in July at a press conference set up adjacent to a concourse at the Thomas & Mack Center during Las Vegas Summer Leagu",
+        "outlet": "marcstein.substack.com",
+        "source_url": "https://marcstein.substack.com/p/sunday-best-the-nba-trade-topic-that"
+      },
+      {
+        "date": "2025-12-08",
+        "text": "Marc Stein: As trade season draws close, everyone is talking about Giannis.Even though \u2014 and I want to underline this \u2014 the Bucks continue to tell teams: 'He\u2019s not available. We don\u2019t want your trade pitches.'So, it\u2019s this weird deal where the Bucks keep shouting into the wind: 'Listen to us! We don\u2019t want to talk trades with you about Giannis Antetokounmpo!' And the rest of the league just ignores it and obsesses about him.\"YouTube",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=AJJBREPJa8o"
+      },
+      {
+        "date": "2025-12-08",
+        "text": "After some further calls, I can confirm thatthe Knicks \u2014 as well as playing in Madison Square Garden \u2014 were the specific \"temptation\" that Giannis himself publicly acknowledged on Bucks Media Day as an outcome he pondered during the summer.marcstein.substack.com",
+        "outlet": "marcstein.substack.com",
+        "source_url": "https://marcstein.substack.com/p/sunday-best-the-nba-trade-topic-that"
+      },
+      {
+        "date": "2025-12-08",
+        "text": "I've even heard that the rowdy fanbase gatherings outside the arena following playoff victories that the Knicks are known for have resonated given his natural fondness for the emotionally charged supportso prevalent for basketball and soccer clubs throughout Europe.marcstein.substack.com",
+        "outlet": "marcstein.substack.com",
+        "source_url": "https://marcstein.substack.com/p/sunday-best-the-nba-trade-topic-that"
+      },
+      {
+        "date": "2025-12-08",
+        "text": "My read is that the Heat can't ever be a real contender to land Antetokounmpo if they're not willing to part with Ware this go-around. Sources insist, however, that Miami is indeed willing to part with Andrew Wiggins(and his $28.2 million salary) in the proverbial right deal.marcstein.substack.com",
+        "outlet": "marcstein.substack.com",
+        "source_url": "https://marcstein.substack.com/p/sunday-best-the-nba-trade-topic-that"
+      },
+      {
+        "date": "2025-12-06",
+        "text": "Chris Haynes: I did reach out to Giannis, and he spoketo me about just being where his feet are planted. He said that's where his focus is. He reminded me of something he said five years ago: \u201cChris, remember what I told you five years ago?\u201d I said, \u201cNo, tell me.\u201d He said, \u201cThere are people who see a door andwant to hurry up and escape through it. But I see a wall and I want to run through the wall and make things work.\u201d He said that's his focus\u2014run through the wall, make things work, get health",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=yXoAuGrowiY"
+      },
+      {
+        "date": "2025-12-05",
+        "text": "The reluctance of teams to trade multiple first round picks into the future is expected to impact the trade packages for Davis and potentially even Giannis Antetokounmpo. \"What I'm telling you is that when I talk to executives and these executives are not in trade talks with the Bucks or another for a star player right now, the mood in the NBA right now is not give up four first round picks for anybody,\" said Brian Windhorst on The Hoop Collective podcast on Friday. \"Okay, maybe if Shai (Gilgeou",
+        "outlet": "RealGM",
+        "source_url": "https://basketball.realgm.com/wiretap/283014/NBA-GMs-Have-Become-More-Reluctant-To-Trade-Multiple-First-Rounders-For-Star-In-Apron-Era"
+      },
+      {
+        "date": "2025-12-04",
+        "text": "Multiple sources have insisted this week that Antetokoumpo, during the summer, told at least one Bucks teammate that he believed a trade to the Knicks was quite close to materializing.marcstein.substack.com",
+        "outlet": "marcstein.substack.com",
+        "source_url": "https://marcstein.substack.com/p/the-jake-fischer-latest-everything"
+      },
+      {
+        "date": "2025-12-04",
+        "text": "Just as the Bucks were unwilling to entertain Giannis trade inquiries before last June's draft, various sources with knowledge of San Antonio's thinking staunchly maintained that the Spurs were thoroughly unwilling to surrender the No. 2 overall pick that became Dylan Harper. They were also equally against the idea of parting with Stephon Castle, too. Even for Giannis.There has been little indication to date that the Spurs are any more willing now to consider parting with their prized young guar",
+        "outlet": "marcstein.substack.com",
+        "source_url": "https://marcstein.substack.com/p/the-jake-fischer-latest-everything"
+      },
+      {
+        "date": "2025-12-04",
+        "text": "Still, the rest of the league will be monitoring Milwaukee closely.Sources from several teams told ESPN they were meeting soon to discuss a potential trade package for Giannis Antetokounmpo, targeting Dec. 15, when players across the league who signed this past offseason can be moved.ESPN",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/47196967/giannis-trade-guide-five-bucks-deals-alter-nba-title-race"
+      },
+      {
+        "date": "2025-12-04",
+        "text": "With Antetokounmpo sidelined, the Bucks banded together and picked up a comeback win over the team leading the Eastern Conference. That togetherness could have been shook by another round of trade rumors, but players insisted that the locker room remains united in its belief in Antetokounmpo\u2019s desire to remain in Milwaukee and see this season through to the end. \u201cI\u2019ll just say this: There\u2019s a lot of outside noise, that\u2019s just what comes with it,\u201d Porter said. \u201cAndGiannis does a great job of assu",
+        "outlet": "New York Times",
+        "source_url": "https://www.nytimes.com/athletic/6860315/2025/12/03/giannis-antetokounmpo-exits-game-bucks/"
+      },
+      {
+        "date": "2025-12-04",
+        "text": "As for Antetokounmpo, Begley reported \"not much has changed on the Knicks-Giannis Antetokounmpo front. \u2026 No. 1, it would take a lot to get Giannis to New York. It would take Giannis really forcing the issue in Milwaukee by using leverage via his contract extension.Or it could take Milwaukee working with Giannis on the way out. That seems a little bit less likely.\"Bleacher Report",
+        "outlet": "Bleacher Report",
+        "source_url": "https://bleacherreport.com/articles/25315256-are-giannis-chris-paul-trade-targets-knicks-insider-provides-latest-nba-rumors"
+      },
+      {
+        "date": "2025-12-04",
+        "text": "\u201cWe know GA. We know he\u2019s here for us. He loves the city. He loves the team. We love him,\u201d Green said. \u201cWe\u2019re gonna play for him. He\u2019s gonna play for us. \u201cSo, people are going to say whatever, outside noise, but we know what it is inside this locker room and the relationship we got and the team we got, so we\u2019re just gonna continue to run with that and trust it.\u201dNew York Times",
+        "outlet": "New York Times",
+        "source_url": "https://www.nytimes.com/athletic/6860315/2025/12/03/giannis-antetokounmpo-exits-game-bucks/"
+      },
+      {
+        "date": "2025-12-04",
+        "text": "Eric Nehm:Bobby Portis told reporters that while he hasn't had a chance to talk personally to Giannis Antetokounmpo yet, the Bucks star was the first player in the group chat after the game congratulating the team on a win.x.com",
+        "outlet": "x.com",
+        "source_url": "https://x.com/eric_nehm/status/1996442327293026789"
+      },
+      {
+        "date": "2025-12-03",
+        "text": "Yet while the report indicated that Antetokounmpo and his representation are having conversations with the Bucks about the future of the organization\u2019s all-time leading scorer, team sources downplayed the severity of the situation in conversations with The Athletic and indicated that there has been no formal trade request.New York Times",
+        "outlet": "New York Times",
+        "source_url": "https://www.nytimes.com/athletic/6859373/2025/12/03/giannis-antetokounmpo-bucks-future/"
+      },
+      {
+        "date": "2025-12-03",
+        "text": "\u201cThe reason that this is out is because we\u2019re not playing well,\u201d Bucks coach Doc Rivers said.\u201cWhen we started out the season, I heard guys saying, \u2018Man, they\u2019re going to be really good.\u2019 So, let\u2019s just call a spade a spade. We\u2019re not playing well. We had a tough loss the other night, and so now this is the subject matter. It\u2019s no more true than it was this summer. Does it affect our team and our players? I hope not. I can tell you, after listening to our guys talk today, it doesn\u2019t. But that doe",
+        "outlet": "New York Times",
+        "source_url": "https://www.nytimes.com/athletic/6859373/2025/12/03/giannis-antetokounmpo-bucks-future/"
+      },
+      {
+        "date": "2025-12-03",
+        "text": "Lily Zhao: #Bucks Doc Rivers on Giannis Antetokounmpo trade reports:\"There have been no conversations... I want to make it clear... Giannis has never asked to be traded. Ever. I can't make that more clear.\"x.com",
+        "outlet": "x.com",
+        "source_url": "https://x.com/LilySZhao/status/1996363029450236075"
+      },
+      {
+        "date": "2025-12-03",
+        "text": "TheNew York Knicks and San Antonio Spurs will aggressively pursue a Giannis Antetokounmpo trade with the Milwaukee Bucks,NBA sources told DallasHoopsJournal. The Knicks and Bucks discussed an Antetokounmpo trade before the season started. Antetokounmpo is very interested in playing for the Knickerbockers, sources said.Dallas Hoops Journal",
+        "outlet": "Dallas Hoops Journal",
+        "source_url": "https://dallashoopsjournal.com/p/new-york-knicks-san-antonio-spurs-giannis-antetokounmpo-milwaukee-bucks-nba-trade-rumors-news/"
+      },
+      {
+        "date": "2025-12-03",
+        "text": "Eric Nehm: Doc Rivers:\"I want to make it clear for the - I want to say one more time - for the 50th time, and clearly it's not getting to one network, for sure, Giannis has never asked to be traded.Ever. I can't make that more clear.\"x.com",
+        "outlet": "x.com",
+        "source_url": "https://x.com/eric_nehm/status/1996360637107286430"
+      },
+      {
+        "date": "2025-12-03",
+        "text": "Ian Begley: Nothing has changed on NYK/Giannis Antetokounmpo front.NYK will be one of his desired landing spots if he & MIL part ways.Logic tells you he\u2019d need MIL to work with him on trade in order to end up in NY. Could also use contract leverage to land in NY. Big hurdles to clear, IMOx.com",
+        "outlet": "x.com",
+        "source_url": "https://x.com/IanBegley/status/1996326598929535487"
+      },
+      {
+        "date": "2025-12-03",
+        "text": "Giannis Antetokounmpo came into the season having bought into the championship roster vision of general manager Jon Horst and coach Doc Rivers.Before the season started, sources said Antetokounmpo would examine the Bucks' first 25 or so games this season and make decisions on his long-term future, depending on whether the team showed signs of competing in the Eastern Conference.ESPN",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/47191857/sources-giannis-antetokounmpo-bucks-discussing-future"
+      },
+      {
+        "date": "2025-12-03",
+        "text": "Several sources have characterized the losing as frustrating for Antetokounmpo and the team's front office, coaches and the rest of the players. Butone source with direct knowledge of the situation described it as \"the writing is on the wall\" on the inevitable outcome for Antetokounmpo unless there is a dramatic turn of events in the Bucks' season.ESPN",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/47191857/sources-giannis-antetokounmpo-bucks-discussing-future"
+      },
+      {
+        "date": "2025-12-03",
+        "text": "Over the offseason, Antetokounmpo explored external options and was open to playing for one team outside of Milwaukee -- the New York Knicks -- as a potential trade home.Sources described it as an exclusive negotiating window for the Knicks over a multiweek period in August, but that will not be the case moving forward. Multiple other teams would be expected to emerge as suitors for the nine-time All-Star if trades are explored.ESPN",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/47191857/sources-giannis-antetokounmpo-bucks-discussing-future"
+      },
+      {
+        "date": "2025-12-03",
+        "text": "Shams Charania: Just in:Giannis Antetokounmpo and his agent Alex Saratsis have started conversations with the Milwaukee Bucks about the two-time NBA MVP's future \u2013 and discussing whether his best fit is staying or elsewhere,sources tell ESPN. A resolution is expected in the coming weeks.Twitter @ShamsCharania",
+        "outlet": "Twitter @ShamsCharania",
+        "source_url": "https://hoopshype.com/social/"
+      },
+      {
+        "date": "2025-12-03",
+        "text": "ESPN Cleveland: Brian Windhorst:The Bucks called the Knicks and asked for an offer for Giannis Antetokounmpo, because Giannis said, 'I want to be a Knick.' .... Guys, Giannis has asked to be traded already. It appears Giannis committed to himself for the season to the Bucks. But the Bucks are not good. This year, when Giannis hasn't played, the Bucks are 1-5. When he has played, they're 9-8. Would his viewpoint change? I don't know.x.com",
+        "outlet": "x.com",
+        "source_url": "https://x.com/ESPNCleveland/status/1996258638327857617?s=20"
+      },
+      {
+        "date": "2025-11-26",
+        "text": "The Milwaukee Bucks have conducted background due diligence on Zach LaVine and others around the league, as usual,\u00a0sources\u00a0told\u00a0HoopsHype.However, nothing is imminent as Bucks superstar\u00a0Giannis Antetokounmpo\u00a0nears a return from a low-grade adductor strain.\u00a0Should Milwaukee\u2019s\u00a0interest\u00a0in LaVine become more serious, it\u2019s worth noting that Bucks forward\u00a0Kyle Kuzma\u00a0and Kings Governor\u00a0Vivek Ranadive\u00a0both invested\u00a0in a new women\u2019s professional sports venture called Major League Volleyball, and Kuzma h",
+        "outlet": "HoopsHype",
+        "source_url": "https://www.hoopshype.com/story/sports/nba/2025/11/26/title-nba-intel-ja-morant-timberwolves-kings-celtics/87477567007/"
+      }
+    ],
+    "Domantas Sabonis": [
+      {
+        "date": "2025-12-09",
+        "text": "Though Sabonis has missed a significant amount of time due to a partially torn meniscus in his knee, his name has been thrown in trade speculation. However, NBA insider Sam Amick would say on FanDuel's \u201cRun It Back\u201d show that he spoke to Sabonis' camp, and there was not an expectation that he would be dealt at the trade deadline.\u201cI\u2019ve talked to his camp recently. It does not sound like they anticipate being moved at the deadline,\u201d Amick said.\u201cIt\u2019s more a message of patience. And he really likes ",
+        "outlet": "Clutch Points",
+        "source_url": "https://clutchpoints.com/nba/sacramento-kings/kings-news-domantas-sabonis-camp-sends-clear-signal-trade-buzz"
+      },
+      {
+        "date": "2025-12-09",
+        "text": "The Kings and first-year general manager Scott Perry are using this season as a patient evaluation campaign, trying to build a gritty culture.They are open-minded about trade talks throughout the roster,\u00a0sources\u00a0said.Teams are\u00a0monitoring\u00a0veterans\u00a0Domantas Sabonis,\u00a0Zach LaVine\u00a0and\u00a0DeMar DeRozan, along with 25-year-old guard\u00a0Keon Ellis.ESPN",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/47245704/shams-pass-nba-trade-deadline-notes-news-buzz-anthony-davis-giannis-antetokounmpo-teams"
+      },
+      {
+        "date": "2025-11-26",
+        "text": "Sources sayGolden State did discuss the pursuit of Domantas Sabonis before the 2022 trade deadlinethat featured Indiana shipping the Lithuanian lefty to Sacramento for a package headlined by Tyrese Haliburton. The Pacers were known at the time to be big fans of Jonathan Kuminga, leading to various discussions between the two front offices that featured current Warriors swingman Buddy Hield, former Warriors swingman Andrew Wiggins and Sabonis in various frameworks.marcstein.substack.com",
+        "outlet": "marcstein.substack.com",
+        "source_url": "https://marcstein.substack.com/p/talking-zone-defense-nba-big-men"
+      },
+      {
+        "date": "2025-11-23",
+        "text": "Maybe this was inevitable after a 41-point loss to the Morant-less Grizzlies, butleague\u00a0sources\u00a0say that the Kings are willing to listen to offers for players up and down their roster \u2026 particularly for Sacramento's veterans.marcstein.substack.com",
+        "outlet": "marcstein.substack.com",
+        "source_url": "https://marcstein.substack.com/p/sunday-best-the-pieces-of-this-seasons"
+      },
+      {
+        "date": "2025-11-14",
+        "text": "Sam Amick: \u201cThe reason they were comfortable doing the Keegan Murray contract is because \u2014 partly at least \u2014 they not only valued him within their program, but they learned that he\u2019s got a lot of value around the league. So,as it relates to Sabonis, my understanding is there are at least a few teams that have raised their hand to say, \u2018Yeah, he\u2019s somebody we\u2019d want to talk about.\u2019I\u2019ve said it on your show before \u2014 I don\u2019t have that sort of information about Zach [LaVine].\u201dYouTube",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=aLfHxlLUKdA"
+      },
+      {
+        "date": "2025-11-12",
+        "text": "Sowhen you're trying to trade for Sabonis, there's a team out there \u2014 and I heard about a team not too far down the road that could be interested. And when I say 'down the road,' I mean down the freeway \u2014 that team could look at a Domantas Sabonis.But again, he's not going to live up to that $40-whatever-million AAV there. He\u2019s probably not going to do it anywhere. That team might be better with him, but he won\u2019t be producing at that contract level.YouTube",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=9kVvQwB5ReY"
+      }
+    ],
+    "Jonathan Kuminga": [
+      {
+        "date": "2025-12-09",
+        "text": "Dalton Johnson:Jonathan Kuminga\u2019s trade market will heat up in the coming weeks. The Kings and Suns, his two biggest suitors in the offseason, remain interested,sources say There are still five-plus weeks until Kuminga can be traded. The Warriors have 16 games until he becomes trade eligibleBluesky",
+        "outlet": "Bluesky",
+        "source_url": "https://bsky.app/profile/daltonjohnson.bsky.social/post/3m7lfvgrrgs24"
+      },
+      {
+        "date": "2025-12-09",
+        "text": "TheWarriors will discuss trades for forward\u00a0Jonathan Kuminga\u00a0when he is eligible to be moved Jan. 15,\u00a0sources\u00a0said,after\u00a0discussions\u00a0with the\u00a0Phoenix Suns\u00a0and\u00a0Sacramento Kings\u00a0in the summer\u00a0failed to progress. Golden State wants to find upgrades on its roster, and Kuminga's $22.5 million salary could be used in bigger trade scenarios.ESPN",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/47245704/shams-pass-nba-trade-deadline-notes-news-buzz-anthony-davis-giannis-antetokounmpo-teams"
+      },
+      {
+        "date": "2025-12-08",
+        "text": "APHoops: TheSacramento Kings continue to have interest in acquiring Jonathan Kuminga, but while Malik Monk might still be available in a package, the previously included first-round pick is no longer expected to be part of Sacramento\u2019s offer,per @MarcJSpears.x.com",
+        "outlet": "x.com",
+        "source_url": "https://x.com/APH00PS/status/1998133644993650906"
+      },
+      {
+        "date": "2025-12-08",
+        "text": "Kuminga becomes trade eligible Jan. 15.The Warriors are expected to explore the Kuminga trade market in the weeks ahead as the probability of a split before the February deadline remains strong,according to league sources.ESPN",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/47243592/jonathan-kuminga-gets-dnp-shorthanded-warriors-win-again"
+      },
+      {
+        "date": "2025-11-26",
+        "text": "Sources sayGolden State did discuss the pursuit of Domantas Sabonis before the 2022 trade deadlinethat featured Indiana shipping the Lithuanian lefty to Sacramento for a package headlined by Tyrese Haliburton. The Pacers were known at the time to be big fans of Jonathan Kuminga, leading to various discussions between the two front offices that featured current Warriors swingman Buddy Hield, former Warriors swingman Andrew Wiggins and Sabonis in various frameworks.marcstein.substack.com",
+        "outlet": "marcstein.substack.com",
+        "source_url": "https://marcstein.substack.com/p/talking-zone-defense-nba-big-men"
+      },
+      {
+        "date": "2025-11-20",
+        "text": "He's not even eligible to be moved until Jan. 15, but it's no secret that the Warriors' hardball stance all summer with Kuminga in the sides' restricted free agency saga was adopted with the intention to ensure that the 23-year-old was re-signed to a tradeable contract.\"It\u2019s one of the best trade chips in the league,\" one veteran executive told The Stein Line.marcstein.substack.com",
+        "outlet": "marcstein.substack.com",
+        "source_url": "https://marcstein.substack.com/p/is-the-nbas-trade-market-for-point"
+      }
+    ],
+    "Chris Paul": [
+      {
+        "date": "2025-12-09",
+        "text": "League sources sayChris Paul had interest from teams such as the Bucks, Knicks, Mavericks and Suns, but he was determined to stay as near to his family as possibleeven after playing (and starting) all 82 games in his lone season as a San Antonio Spur.marcstein.substack.com",
+        "outlet": "marcstein.substack.com",
+        "source_url": "https://marcstein.substack.com/p/dec-15-is-almost-here-and-that-means"
+      }
+    ],
+    "Chauncey Billups": [
+      {
+        "date": "2025-12-09",
+        "text": "Can the Heat trade Terry Rozier? Sources\u00a0told\u00a0ESPN that it remains unclear what would happen if the Heat were to try to trade Rozier before the Feb. 5 trade deadline. No team will be\u00a0interested\u00a0in acquiring Rozier to play for them, as he, like\u00a0Portland Trail Blazers\u00a0coach Chauncey Billups, has been\u00a0put on leave by the NBA. However, Rozier\u00a0does\u00a0have a $26.6 million expiring\u00a0contract\u00a0that could secure help for Miami's current roster and allow the receiving team to save some money on its future boo",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/47229222/terry-rozier-investigation-shines-spotlight-nba-trade-protocols-heat-hornets"
+      }
+    ],
+    "Terry Rozier": [
+      {
+        "date": "2025-12-09",
+        "text": "Can the Heat trade Terry Rozier? Sources\u00a0told\u00a0ESPN that it remains unclear what would happen if the Heat were to try to trade Rozier before the Feb. 5 trade deadline. No team will be\u00a0interested\u00a0in acquiring Rozier to play for them, as he, like\u00a0Portland Trail Blazers\u00a0coach Chauncey Billups, has been\u00a0put on leave by the NBA. However, Rozier\u00a0does\u00a0have a $26.6 million expiring\u00a0contract\u00a0that could secure help for Miami's current roster and allow the receiving team to save some money on its future boo",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/47229222/terry-rozier-investigation-shines-spotlight-nba-trade-protocols-heat-hornets"
+      },
+      {
+        "date": "2025-12-09",
+        "text": "Bontemps on the Rozier situation:\"I think if they believe that Terry Rozier were not able to be traded, they would just use the roster spot on somebody else. I think the fact he's on the roster leaves open a pretty decent possibility that now maybe they will find a trade they like [or] maybe they cut him the next day and then they go after the trade deadline to go do something else with the roster spot. But my hunch is that if they find a deal they like, it'll probably work out.\"ESPN.com",
+        "outlet": "ESPN.com",
+        "source_url": "https://africa.espn.com/nba/story/_/id/47168192/the-hoop-collective-latest-episodes-brian-windhorst-nba-podcast-archive-best-quotes"
+      },
+      {
+        "date": "2025-12-08",
+        "text": "In the void of clarity from the NBA, the Miami Heat are moving forward under the presumption that they can negotiate potential trades involving Terry Rozier\u2019s expiring contract. According to an NBA source familiar with the process, the Heat are working under the premise that Rozier\u2019s $26.6 million 2025-26 salary is available to be put into play on the trade market.South Florida Sun-Sentinel",
+        "outlet": "South Florida Sun-Sentinel",
+        "source_url": "https://www.sun-sentinel.com/2025/12/08/source-heat-to-consider-rozier-trade-option-even-with-lack-of-nba-clarity-as-guard-is-arraigned-in-gambling-probe/"
+      },
+      {
+        "date": "2025-12-08",
+        "text": "While Rozier is not expected to be back in NBA uniform before the expiration of his contract at season\u2019s end, and while he had his Monday arraignment in Brooklyn Federal Court as part of the FBI\u2019s ongoing gambling investigation, his salary potentially could bridge the gap under the NBA salary cap when it comes to a trade.The NBA\u2019s personnel market is expected to shift into a higher gear starting next Monday, with Dec. 15 the date when most players signed in the offseason become eligible to be de",
+        "outlet": "South Florida Sun-Sentinel",
+        "source_url": "https://www.sun-sentinel.com/2025/12/08/source-heat-to-consider-rozier-trade-option-even-with-lack-of-nba-clarity-as-guard-is-arraigned-in-gambling-probe/"
+      },
+      {
+        "date": "2025-12-08",
+        "text": "According to a source familiar with the process, the Heat have not received definitive clarity on whether Rozier can be traded, waived, or even whether the non-guaranteed portion of his contract can be reclaimed. Further clarity could come later this week, with the possibility of NBA Commissioner Adam Silver commenting at the NBA Cup semifinal and championship games in Las Vegas.South Florida Sun-Sentinel",
+        "outlet": "South Florida Sun-Sentinel",
+        "source_url": "https://www.sun-sentinel.com/2025/12/08/source-heat-to-consider-rozier-trade-option-even-with-lack-of-nba-clarity-as-guard-is-arraigned-in-gambling-probe/"
+      },
+      {
+        "date": "2025-11-21",
+        "text": "According to multiple NBA sources, the Heat have yet to receive clarity from the league about whether Rozier\u2019s salary can be utilized to balance a potential trade for salary-cap purposes. Contacted by the South Florida Sun Sentinel, the NBA declined to say whether the Heat are banned from including Rozier\u2019s salary in a trade, with the Heat yet to receive any clarity from the league, according to a source.South Florida Sun-Sentinel",
+        "outlet": "South Florida Sun-Sentinel",
+        "source_url": "https://www.sun-sentinel.com/2025/11/21/heat-still-without-nba-clarity-regarding-whether-they-can-include-roziers-salary-in-a-trade/"
+      }
+    ],
+    "LeBron James": [
+      {
+        "date": "2025-12-09",
+        "text": "Max Kellerman: Is LeBron\u00a0James realistically\u00a0a guy who could not be on the Lakers at\u00a0the end of this year?\u00a0Paul: No.Kellerman: He will be on the Lakers at the end\u00a0of this year.\u00a0Pau: Yeah. Where's he going to go?\u00a0Kellerman: I mean, New York comes to mind.\u00a0Paul: That's wishful thinking. You're from New\u00a0York.\u00a0Kellerman:The Knicks would\u00a0love Giannis, right? Or someone like\u00a0that. But the price tag for a a\u00a0hundred-year-old guy making $50 million\u00a0a year is a lot lower. And actually, I\u00a0think as a kid wh",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=sokxu0dYIEM&t=2918s"
+      }
+    ],
+    "Klay Thompson": [
+      {
+        "date": "2025-12-09",
+        "text": "Anthony Davis\u00a0of the\u00a0Dallas Mavericks, another former NBA champion, is expected to be a\u00a0critical trade target\u00a0of several teams, including many of the East's contenders.The\u00a0Detroit Pistons,\u00a0Atlanta Hawks\u00a0and\u00a0Toronto Raptors\u00a0are expected to be suitors for Davis,league\u00a0sources\u00a0told\u00a0ESPN.ESPN",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/47245704/shams-pass-nba-trade-deadline-notes-news-buzz-anthony-davis-giannis-antetokounmpo-teams"
+      },
+      {
+        "date": "2025-12-09",
+        "text": "TheMavericks are open to exploring the trade markets for Davis, center\u00a0Daniel Gafford\u00a0and guards\u00a0Klay Thompson\u00a0and\u00a0D'Angelo Russell,\u00a0sources\u00a0said.ESPN",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/47245704/shams-pass-nba-trade-deadline-notes-news-buzz-anthony-davis-giannis-antetokounmpo-teams"
+      }
+    ],
+    "Anthony Davis": [
+      {
+        "date": "2025-12-09",
+        "text": "Anthony Davis\u00a0of the\u00a0Dallas Mavericks, another former NBA champion, is expected to be a\u00a0critical trade target\u00a0of several teams, including many of the East's contenders.The\u00a0Detroit Pistons,\u00a0Atlanta Hawks\u00a0and\u00a0Toronto Raptors\u00a0are expected to be suitors for Davis,league\u00a0sources\u00a0told\u00a0ESPN.ESPN",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/47245704/shams-pass-nba-trade-deadline-notes-news-buzz-anthony-davis-giannis-antetokounmpo-teams"
+      },
+      {
+        "date": "2025-12-05",
+        "text": "The reluctance of teams to trade multiple first round picks into the future is expected to impact the trade packages for Davis and potentially even Giannis Antetokounmpo. \"What I'm telling you is that when I talk to executives and these executives are not in trade talks with the Bucks or another for a star player right now, the mood in the NBA right now is not give up four first round picks for anybody,\" said Brian Windhorst on The Hoop Collective podcast on Friday. \"Okay, maybe if Shai (Gilgeou",
+        "outlet": "RealGM",
+        "source_url": "https://basketball.realgm.com/wiretap/283014/NBA-GMs-Have-Become-More-Reluctant-To-Trade-Multiple-First-Rounders-For-Star-In-Apron-Era"
+      },
+      {
+        "date": "2025-12-05",
+        "text": "Brian Windhorst:\u00a0I don't know what the value\u00a0of Anthony Davis. Some of the stuff\u00a0that I have\u00a0heard\u00a0from\u00a0executives\u00a0talking to me about what they think\u00a0Anthony Davis' trade value is\u2026 I'm not\u00a0even going to say it because then I'd\u00a0get aggregated and people would be\u00a0jumping down my throat and I would just be repeating something somebody else\u00a0said. When I have\u00a0heard\u00a0what people are\u00a0saying Anthony Davis' trade value is\u00a0right now, not because of him as a\u00a0player, to be clear, not because he's\u00a0diminished",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=aqCUYmtwRCo&t=510s"
+      },
+      {
+        "date": "2025-12-01",
+        "text": "The Bulls have had internal discussions about how to proceed, including conversations about Dallas Mavericks star Anthony Davis,sources told ESPN, whom they believe could help the team's porous rim protection and defensive interior.ESPN",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/47154935/from-6-1-9-10-make-curious-chicago-bulls-start"
+      },
+      {
+        "date": "2025-11-28",
+        "text": "Mike Curtis: Jason Kidd on making sure Anthony Davis is in a good mental space considering he's drawn some ire from the fanbase:\"The biggest thing is the train keeps moving, no matter of a trade or a dismissal. You gotta keep moving.For AD, it was to focus on his body, come back healthy. He's ready to go...\"x.com",
+        "outlet": "x.com",
+        "source_url": "https://x.com/MikeACurtis2/status/1994601681007645106"
+      },
+      {
+        "date": "2025-11-27",
+        "text": "Tim MacMahon:Trading AD is a real possibility\u2014and I would even say likelihood\u2014this season. Trading Kyrie is not something that's on the Mavericks' priority list, or it's just straight up not something that they are interested in doing right now.\"YouTube",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=h7fcpo74I_I"
+      },
+      {
+        "date": "2025-11-26",
+        "text": "Mike Curtis: Anthony Davis was asked about his name being involved in trade rumors: \u201cMan, look. Y'all make it like we\u2019re going to war or something. This is basketball. It comes withit\u2026That doesn\u2019t affect me. I\u2019ve been in trade talks for a while. My job is to do what I do when I\u2019m on the floor, play basketball and try to lead this team.Whatever comes out of that, comes out of that.\u201dx.com",
+        "outlet": "x.com",
+        "source_url": "https://x.com/MikeACurtis2/status/1993773663066157216"
+      },
+      {
+        "date": "2025-11-26",
+        "text": "\u201cIt was surprising more than anything,\u201d Davis said. \u201cNico\u2019s my guy. Obviously, he played a huge part of getting me here and wanting me to fulfill his vision, in a sense, that he saw. It was definitely tough. ...It\u2019s the business of basketball. Once I had those conversations [with Harrison and Dumont], I was able to move forward and continue to rehab and get back on the floor and try to compete.\u201dDallas Morning News",
+        "outlet": "Dallas Morning News",
+        "source_url": "https://www.dallasnews.com/sports/mavericks/2025/11/26/anthony-davis-trade-mavericks-dallas-nba-injury-nico-harrison/"
+      },
+      {
+        "date": "2025-11-26",
+        "text": "There is an expectation in some corners, you see, that Anthony Davis and his representation at Klutch Sports will seek a contract extension from a new team if he indeed gets dealt.marcstein.substack.com",
+        "outlet": "marcstein.substack.com",
+        "source_url": "https://marcstein.substack.com/p/talking-zone-defense-nba-big-men"
+      },
+      {
+        "date": "2025-11-24",
+        "text": "The Dallas Mavericks are reportedly facing a conundrum when it comes to potentially trading star big man Anthony Davis. During Monday's episode of The Hoop Collective, ESPN's Tim Bontemps explained that Davis' trade value isn't as high as many would expect for a player of his caliber. \"The idea of trading Anthony Davis has everyone trained to think, well, they're gonna get three firsts, two swaps, they're gonna get two young players and they're gonna get all this stuff,\" Bontemps said around the",
+        "outlet": "Bleacher Report",
+        "source_url": "https://bleacherreport.com/articles/25304382-what-anthony-davis-trade-value-nba-insiders-shocking-revelation-amid-mavs-rumors"
+      },
+      {
+        "date": "2025-11-23",
+        "text": "Ian Begley: I\u2019d guess today that they prioritize point guard over front court in the trade market. This is stating the obvious, butI\u2019m sure the Knicks would at least check in with Dallas if/when\u00a0Anthony Davis\u00a0becomes available.You may scoff at the idea, but the Knicks want to win a title this season. If Dallas is offering Davis at a below-market cost, I\u2019m sure the Knicks will at least give the move some thought. But this, again, is stating the obvious. The Mavs will get calls from nearly all NBA",
+        "outlet": "SportsNet New York",
+        "source_url": "https://sny.tv/articles/knicks-mailbag-11-22-25"
+      },
+      {
+        "date": "2025-11-21",
+        "text": "The Bulls could go in a few directions over the next several months, including adding to the current roster.That has led some sources to speculate whether Chicago, with over $80 million in expiring money, could be a suitor for Dallas' Anthony Davis and bring the Windy City native home. \u2018I could see it,\u2019 a West executive, who recently saw Chicago play, said. \u2018[Josh] Giddey has worked well with Vucevic, but he could use a roll man to throw it up to.ESPN",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/47039949/nba-first-month-lessons-intel-thunder-lakers-warriors-knicks-every-team"
+      },
+      {
+        "date": "2025-11-20",
+        "text": "League sources say that the Mavericks still intend to field any trade interest in Davis that emerges over the next two-plus months ... with the prospect of an actual trade obviously dependent on offer quality.marcstein.substack.com",
+        "outlet": "marcstein.substack.com",
+        "source_url": "https://marcstein.substack.com/p/is-the-nbas-trade-market-for-point"
+      },
+      {
+        "date": "2025-11-19",
+        "text": "Shams Charania: This franchise is moving away from Nico Harrison's three to four year championship window, and toward trying to find sustained success and sustained growth around Cooper, Flagg and youth. And to that end, sources have told ESPN that the Mavericks will be listening to trade calls for Anthony Davis and seeing and exploring his value.And for that, health will be the biggest key because not only for the Mavericks to evaluate Anthony Davis over a lengthy period of time, an extended pe",
+        "outlet": "x.com",
+        "source_url": "https://x.com/ShamsCharania/status/1991301604952404406"
+      },
+      {
+        "date": "2025-11-19",
+        "text": "Dallas Mavericks minority owner Mark Cuban told The Athletic the franchise would not try to trade Anthony Davis this season.\u201cWe won\u2019t. We want to try to win,\u201d Cuban said Wednesday in an email when asked if he and Mavericks governor Patrick Dumont would seek a deal for Davis, the oft-injured, 10-time All-Star who was the centerpiece for Dallas in last season\u2019s Luka Don\u010di\u0107 trade.New York Times",
+        "outlet": "New York Times",
+        "source_url": "https://www.nytimes.com/athletic/6820984/2025/11/19/mavericks-anthony-davis-trade-mark-cuban/?source=emp_shared_article"
+      },
+      {
+        "date": "2025-11-19",
+        "text": "Multiple team sources said the Mavs, who are 4-11 and outside the playoff picture in the West, will also\u00a0explore the trade market for Anthony Davis,the 10-time All-Star big man who was the headliner in the return of the Doncic\u00a0deal, as part of that process before this season's deadline. For a fan base that still feels betrayed, so many questions linger in the wake of this self-inflicted saga, many of which center around the famous former majority owner.ESPN",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/47014061/inside-mavericks-power-struggle-nico-harrison-vs-mark-cuban"
+      },
+      {
+        "date": "2025-11-18",
+        "text": "ESPN talked to team executives from both conferences regarding Davis' future and what his market could look like if the Mavericks explore trading him.\"You have to look at what he did the prior two seasons with the Lakers, his short tenure in Dallas and then the future,\" an Eastern Conference executive said.ESPN",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/46993870/mavericks-options-trade-anthony-davis-wait-free-agency-tank-draft"
+      },
+      {
+        "date": "2025-11-18",
+        "text": "In Los Angeles, Davis played the most games in his career (76) during the 2023-24 season and was named to the All-NBA and All-Defensive teams. That was the first time Davis played at least 65 games since 2017-18. He was averaging 25.7 points and 11.9 rebounds in 41 games before he was traded to Dallas. Davis has played 15 games since, missing time because of a left abductor strain and currently a left calf strain.\"While you can point to Davis as a top-20 player in Los Angeles, it is a $175 milli",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/46993870/mavericks-options-trade-anthony-davis-wait-free-agency-tank-draft"
+      },
+      {
+        "date": "2025-11-17",
+        "text": "ESPN talked to team\u00a0executives\u00a0from both conferences regarding Davis' future and what his market could look like if the Mavericks explore trading him. \"You have to look at what he did the prior two seasons with the Lakers, his short tenure in Dallas and then the future,\" an Eastern Conference\u00a0executive\u00a0said. In Los Angeles, Davis played the most games in his career (76) during the 2023-24 season and was named to the All-NBA and All-Defensive teams. That was the first time Davis played at least 6",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/46993870/mavericks-options-trade-anthony-davis-wait-free-agency-tank-draft"
+      },
+      {
+        "date": "2025-11-17",
+        "text": "Davis has played 15 games since, missing time because of a left abductor strain and currently a left calf strain.\"While you can point to Davis as a top-20 player in Los Angeles, it is a $175 million gamble and perhaps more, if you trade for him,\" a West\u00a0executive\u00a0said.\"I would want to see a long stretch of games of Davis healthy before there could ever be a discussion.\"ESPN",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/46993870/mavericks-options-trade-anthony-davis-wait-free-agency-tank-draft"
+      },
+      {
+        "date": "2025-11-14",
+        "text": "With the Mavericks being the biggest topic around the league this week, the discussion quickly shifted to the question looming over whomever is tapped to replace Harrison as the lead executive: What does the future hold for Davis and Irving less than three months until the February trade deadline?The belief, from sources I spoke to, is that the Mavs moving on from at least Davis, if not both stars, was the optimal strategy. Those moves would help maximize the 2026 first-round pick in a loaded 20",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/46957985/nba-intel-execs-scouts-sinking-mavs-lebron-lakers-spurs"
+      },
+      {
+        "date": "2025-11-14",
+        "text": "But no, the discussions were whether the Mavs could get appropriate value when trading Davis.\"I just looked it up so I could say this to my owner if he asks me about it, AD is turning 33 in March and he's going to be in position next summer where he'll probably want a contract extension that would cost $70 million per year when he'd be 37,\" one general manager said. \"He's a great player, full stop. But when you consider a player at his age with his injury history, you'd also be trading for the s",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/46957985/nba-intel-execs-scouts-sinking-mavs-lebron-lakers-spurs"
+      },
+      {
+        "date": "2025-11-14",
+        "text": "Wall, who played alongside Davis during their college days at Kentucky, further fueled speculation by linking him to his hometown team.\u201cYou can\u2019t believe everything you hear on the news, but you be hearing that he wants to go back to Chicago and see what\u2019s going on,\u201d Wall continued.\u201cSo, I think they\u2019re trying to blow it up and build around Cooper Flagg and get rid of some of the other pieces, but they are one of those dark horse teams if they can stay healthy \u2014 keep AD there and let Kyrie come b",
+        "outlet": "Yahoo! Sports",
+        "source_url": "https://sports.yahoo.com/article/nba-rumors-john-wall-claims-174816057.html"
+      },
+      {
+        "date": "2025-11-14",
+        "text": "Tim MacMahon: AndI think they will have discussions, at least internally, about exploring the trade market for Anthony Davis. He\u2019s got to get back on the floor. They need to make sure he\u2019s not in a situation where he could aggravate the calf injury\u2014or worse. He will have some type of trade value, and they\u2019ve got to explore that. As for Kyrie Irving\u2014it might be mutually beneficial for him just to take the whole year, focus on getting 100% healthy, and not help them win a few more games down the s",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=bHfb54Q_jzI"
+      },
+      {
+        "date": "2025-11-13",
+        "text": "Run It Back:John Wall believes Anthony Davis is done with Dallas and wants to see AD traded ?\"You been hearing he wants to go back to Chicago and see what's going on.\"x.com",
+        "outlet": "x.com",
+        "source_url": "https://x.com/RunItBackFDTV/status/1988993042569675134?s=20"
+      },
+      {
+        "date": "2025-11-12",
+        "text": "It's believed the Mavericks will work with Davis' camp over the next two-plus months as they decide whether to pursue an in-season trade.Davis' agent Rich Paul and Mavericks owner Patrick Dumont have established a relationship that features regular contact since they were introduced at the Mavericks' Play-In Tournament victory in Sacramento in April. The parties are thus expected to work in concert to some degree on next steps.marcstein.substack.com",
+        "outlet": "marcstein.substack.com",
+        "source_url": "https://marcstein.substack.com/p/whats-next-after-the-firing-of-nico"
+      },
+      {
+        "date": "2025-11-12",
+        "text": "Marc Stein: As for what Nico Harrison's dismissal means for Anthony Davis' future in Dallas: Sources tell @TheSteinLine and @DLLS_Sports that Davis' agentRich Paul has established a strong relationship with Mavericks owner Patrick Dumont since February's trade. They are in regular contact.x.com",
+        "outlet": "x.com",
+        "source_url": "https://x.com/TheSteinLine/status/1988272100746969465?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1988272100746969465%7Ctwgr%5E1eb8631fb0d85bab7bf13948319316a104e513d5%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.sportingnews.com%2Fus%2Fnba%2Fdallas-mavericks%2Fnews%2Fanthony-davis-trade-rumors-get-important-update-amid-nico-harrison-firing%2F4b4c41583ed61f3ce9c96fa4"
+      },
+      {
+        "date": "2025-11-12",
+        "text": "Zach Lowe:Anthony Davis \u2014 I mean, I can tell you teams are already having internal conversations like: \u2018What would the price point be?\u2019 \u2018What do we think their price point is going to be?\u2019Obviously, this is a shell-shock time for the Mavericks\u2019 new front office. I don\u2019t think anything is really going on. It\u2019s before December 15th \u2014 when free agents signed over the summer become eligible to be traded. Really, it\u2019s almost impossible to make anything happen before then.YouTube",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=drA-fLU8HqA"
+      },
+      {
+        "date": "2025-11-12",
+        "text": "Zach Lowe: there's going to be Anthony Davis trade talks of some seriousness.Whether they result in a deal or not is impossible to say. I would bet on yes.\u201dYouTube",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=9JJ31AQ7i-U"
+      }
+    ],
+    "D'Angelo Russell": [
+      {
+        "date": "2025-12-09",
+        "text": "Anthony Davis\u00a0of the\u00a0Dallas Mavericks, another former NBA champion, is expected to be a\u00a0critical trade target\u00a0of several teams, including many of the East's contenders.The\u00a0Detroit Pistons,\u00a0Atlanta Hawks\u00a0and\u00a0Toronto Raptors\u00a0are expected to be suitors for Davis,league\u00a0sources\u00a0told\u00a0ESPN.ESPN",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/47245704/shams-pass-nba-trade-deadline-notes-news-buzz-anthony-davis-giannis-antetokounmpo-teams"
+      },
+      {
+        "date": "2025-12-09",
+        "text": "TheMavericks are open to exploring the trade markets for Davis, center\u00a0Daniel Gafford\u00a0and guards\u00a0Klay Thompson\u00a0and\u00a0D'Angelo Russell,\u00a0sources\u00a0said.ESPN",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/47245704/shams-pass-nba-trade-deadline-notes-news-buzz-anthony-davis-giannis-antetokounmpo-teams"
+      },
+      {
+        "date": "2025-11-27",
+        "text": "You had a footnote in the book where you wanted to speak with D\u2019Angelo Russell about his first stint with the Lakers, and he said he didn\u2019t have anything good to say about them and could talk with you then and there, and then funny enough, he gets traded to the Lakers six months later. Did you find a lot of other former players who had animosity towards the Lakers? Yaron Weitzman:I did not get much animosity. Russell Westbrook did not want to talk. I'm guessing there would be animosity there, bu",
+        "outlet": "HoopsHype",
+        "source_url": "https://www.hoopshype.com/story/sports/nba/2025/11/27/yaron-weitzman-qa-i-think-laker-fans-would-have-expected-more-than-one-title-with-lebron-james/87473819007/"
+      }
+    ],
+    "Daniel Gafford": [
+      {
+        "date": "2025-12-09",
+        "text": "Anthony Davis\u00a0of the\u00a0Dallas Mavericks, another former NBA champion, is expected to be a\u00a0critical trade target\u00a0of several teams, including many of the East's contenders.The\u00a0Detroit Pistons,\u00a0Atlanta Hawks\u00a0and\u00a0Toronto Raptors\u00a0are expected to be suitors for Davis,league\u00a0sources\u00a0told\u00a0ESPN.ESPN",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/47245704/shams-pass-nba-trade-deadline-notes-news-buzz-anthony-davis-giannis-antetokounmpo-teams"
+      },
+      {
+        "date": "2025-12-09",
+        "text": "TheMavericks are open to exploring the trade markets for Davis, center\u00a0Daniel Gafford\u00a0and guards\u00a0Klay Thompson\u00a0and\u00a0D'Angelo Russell,\u00a0sources\u00a0said.ESPN",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/47245704/shams-pass-nba-trade-deadline-notes-news-buzz-anthony-davis-giannis-antetokounmpo-teams"
+      },
+      {
+        "date": "2025-11-16",
+        "text": "Daniel Gafford is widely regarded as the most tradeable Maverick between now and the Feb. 5 trade deadline in Year 1 of a three-year deal worth $54.4 million, but the injuries that have frequently derailed Davis and Dereck Lively II add a layer of complication even to Gafford's status.marcstein.substack.com",
+        "outlet": "marcstein.substack.com",
+        "source_url": "https://marcstein.substack.com/p/sunday-best-the-pelicans-mavericks"
+      }
+    ],
+    "Alex Saratsis": [
+      {
+        "date": "2025-12-09",
+        "text": "As\u00a0reported last week, Antetokounmpo, who is out for several weeks because of a\u00a0right calf strain, and his agent Alex Saratsis have opened\u00a0discussions\u00a0with the Bucks about the future and whether the best path forward is to stay in Milwaukee or a\u00a0trade. The Bucks are 10-15, having lost 10 of their past 12 games, and have spent most of the past few weeks at No. 10 or No. 11 in the Eastern Conference\u00a0standings.Should the Bucks' slide continue,\u00a0sources\u00a0said\u00a0discussions\u00a0between Antetokounmpo's repres",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/47245704/shams-pass-nba-trade-deadline-notes-news-buzz-anthony-davis-giannis-antetokounmpo-teams"
+      },
+      {
+        "date": "2025-12-03",
+        "text": "Shams Charania: Just in:Giannis Antetokounmpo and his agent Alex Saratsis have started conversations with the Milwaukee Bucks about the two-time NBA MVP's future \u2013 and discussing whether his best fit is staying or elsewhere,sources tell ESPN. A resolution is expected in the coming weeks.Twitter @ShamsCharania",
+        "outlet": "Twitter @ShamsCharania",
+        "source_url": "https://hoopshype.com/social/"
+      }
+    ],
+    "DeMar DeRozan": [
+      {
+        "date": "2025-12-09",
+        "text": "The Kings and first-year general manager Scott Perry are using this season as a patient evaluation campaign, trying to build a gritty culture.They are open-minded about trade talks throughout the roster,\u00a0sources\u00a0said.Teams are\u00a0monitoring\u00a0veterans\u00a0Domantas Sabonis,\u00a0Zach LaVine\u00a0and\u00a0DeMar DeRozan, along with 25-year-old guard\u00a0Keon Ellis.ESPN",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/47245704/shams-pass-nba-trade-deadline-notes-news-buzz-anthony-davis-giannis-antetokounmpo-teams"
+      },
+      {
+        "date": "2025-11-24",
+        "text": "DeMar DeRozan, the 36-year-old who league sources say has some interest from the LA Clippers,has a partial guarantee on his deal for next season (approximately $10 million of his $25.7 million). Malik Monk, who was part of the Jonathan Kuminga trade talks with Golden State in the summer that are likely to be revisited, has a combined $41.7 million on his deal in the next two seasons (including a 2027-28 player option). The list goes on from there, with fourth-year guard Keon Ellis ($2.3 million ",
+        "outlet": "New York Times",
+        "source_url": "https://www.nytimes.com/athletic/6832410/2025/11/24/scott-perry-sacramento-kings-building-future/"
+      }
+    ],
+    "Scott Perry": [
+      {
+        "date": "2025-12-09",
+        "text": "The Kings and first-year general manager Scott Perry are using this season as a patient evaluation campaign, trying to build a gritty culture.They are open-minded about trade talks throughout the roster,\u00a0sources\u00a0said.Teams are\u00a0monitoring\u00a0veterans\u00a0Domantas Sabonis,\u00a0Zach LaVine\u00a0and\u00a0DeMar DeRozan, along with 25-year-old guard\u00a0Keon Ellis.ESPN",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/47245704/shams-pass-nba-trade-deadline-notes-news-buzz-anthony-davis-giannis-antetokounmpo-teams"
+      }
+    ],
+    "Zach LaVine": [
+      {
+        "date": "2025-12-09",
+        "text": "The Kings and first-year general manager Scott Perry are using this season as a patient evaluation campaign, trying to build a gritty culture.They are open-minded about trade talks throughout the roster,\u00a0sources\u00a0said.Teams are\u00a0monitoring\u00a0veterans\u00a0Domantas Sabonis,\u00a0Zach LaVine\u00a0and\u00a0DeMar DeRozan, along with 25-year-old guard\u00a0Keon Ellis.ESPN",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/47245704/shams-pass-nba-trade-deadline-notes-news-buzz-anthony-davis-giannis-antetokounmpo-teams"
+      },
+      {
+        "date": "2025-12-01",
+        "text": "Marc Stein: Zach LaVine has a player option in 2026\u201327 that\u2019s worth almost $50 million. And kind of the rumble \u2014 the rumble there \u2014 isif he were willing to decline the option and take a longer-term extension at a lesser number, I think there would be some trade interest in Zach LaVine. Then DeMar DeRozan \u2014 because his contract next season, I think, is only guaranteed for about $10 million \u2014 you know, perhaps a trade market will emerge there.YouTube",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=1LCOowNMP8c"
+      },
+      {
+        "date": "2025-11-26",
+        "text": "The Milwaukee Bucks have conducted background due diligence on Zach LaVine and others around the league, as usual,\u00a0sources\u00a0told\u00a0HoopsHype.However, nothing is imminent as Bucks superstar\u00a0Giannis Antetokounmpo\u00a0nears a return from a low-grade adductor strain.\u00a0Should Milwaukee\u2019s\u00a0interest\u00a0in LaVine become more serious, it\u2019s worth noting that Bucks forward\u00a0Kyle Kuzma\u00a0and Kings Governor\u00a0Vivek Ranadive\u00a0both invested\u00a0in a new women\u2019s professional sports venture called Major League Volleyball, and Kuzma h",
+        "outlet": "HoopsHype",
+        "source_url": "https://www.hoopshype.com/story/sports/nba/2025/11/26/title-nba-intel-ja-morant-timberwolves-kings-celtics/87477567007/"
+      }
+    ],
+    "Keon Ellis": [
+      {
+        "date": "2025-12-09",
+        "text": "The Kings and first-year general manager Scott Perry are using this season as a patient evaluation campaign, trying to build a gritty culture.They are open-minded about trade talks throughout the roster,\u00a0sources\u00a0said.Teams are\u00a0monitoring\u00a0veterans\u00a0Domantas Sabonis,\u00a0Zach LaVine\u00a0and\u00a0DeMar DeRozan, along with 25-year-old guard\u00a0Keon Ellis.ESPN",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/47245704/shams-pass-nba-trade-deadline-notes-news-buzz-anthony-davis-giannis-antetokounmpo-teams"
+      },
+      {
+        "date": "2025-12-07",
+        "text": "Keon Ellis on Kings players named in trade rumors: I mean it's part of the job. It's kind of what you signed up\u00a0for.It's a business at the end\u00a0of the day. Everyone knows that. So it is what it is. You can't really do\u00a0anything about it. So just don't let it\u00a0affect you.Q. But is it possible to be named in all these rumors, and keep\u00a0practicing and have the mindset?\u00a0Ellis: Yeah. I mean you definitely see it. I\u00a0mean you hear about it but there's nothing you can do. So it is\u00a0just talk at the end of th",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=A-eGnsGOF98&t=103s"
+      },
+      {
+        "date": "2025-12-01",
+        "text": "Marc Stein: Well,look \u2014 their phones are already ringing for Keon Ellis, whose minutes \u2014 he's playing about six minutes,what, a heck of a game fewer than he did last season. And the Kings are going to have to decide: do we want to part with him \u2014 someone who you can probably construct a net-positive trade for between now and the deadline in February \u2014 or is that a player they want to keep for the future? I mean, the early messaging out of the 916 has been that Keegan Murray and Nique Clifford ar",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=1LCOowNMP8c"
+      },
+      {
+        "date": "2025-11-26",
+        "text": "The Indiana Pacers have been among many teams to express\u00a0interest\u00a0in Keon Ellis this seasonand have previously targeted him, league\u00a0sources\u00a0told\u00a0HoopsHype.HoopsHype",
+        "outlet": "HoopsHype",
+        "source_url": "https://www.hoopshype.com/story/sports/nba/2025/11/26/title-nba-intel-ja-morant-timberwolves-kings-celtics/87477567007/"
+      },
+      {
+        "date": "2025-11-23",
+        "text": "The King who appears to hold the most immediate trade value:\u00a0Keon Ellis.\"More than half the league has called on him,\" one\u00a0source\u00a0with\u00a0knowledge\u00a0of the situation\u00a0told\u00a0The Stein Line.marcstein.substack.com",
+        "outlet": "marcstein.substack.com",
+        "source_url": "https://marcstein.substack.com/p/sunday-best-the-pieces-of-this-seasons"
+      },
+      {
+        "date": "2025-11-18",
+        "text": "The one player every executive is keeping an eye on is Keon Ellis.That\u2019s a value contract for a great perimeter defender with some shooting chops.FanSided",
+        "outlet": "FanSided",
+        "source_url": "https://fansided.com/nba/nba-insider-trade-rumors-anthony-davis-ja-morant"
+      }
+    ],
+    "Karl-Anthony Towns": [
+      {
+        "date": "2025-12-09",
+        "text": "Disgruntled Milwaukee Bucks star Giannis Antetokounmpo will likely be available this season, and bombshell trade news involving Antetokounmpo and Doncic should excite the Lakers as they survey all their options. \u201cI can tell you this for a fact,\u201d Fox32 Chicago\u2019s Lou Canellis said on 670 The Score last Thursday. \u201cA few months ago, Giannis wanted to be traded. His first choice, New York with the Knicks.\u201d \u201cKnicks wouldn\u2019t move off, would not offer more than just Karl-Anthony Towns, and it just wasn\u2019",
+        "outlet": "Sporting News",
+        "source_url": "https://www.sportingnews.com/us/nba/los-angeles-lakers/news/bombshell-trade-news-involving-luka-doncic-giannis-antetokounmpo-good-news-lakers/50a5c98d7bdb743df441544b"
+      }
+    ],
+    "Luka Doncic": [
+      {
+        "date": "2025-12-09",
+        "text": "Disgruntled Milwaukee Bucks star Giannis Antetokounmpo will likely be available this season, and bombshell trade news involving Antetokounmpo and Doncic should excite the Lakers as they survey all their options. \u201cI can tell you this for a fact,\u201d Fox32 Chicago\u2019s Lou Canellis said on 670 The Score last Thursday. \u201cA few months ago, Giannis wanted to be traded. His first choice, New York with the Knicks.\u201d \u201cKnicks wouldn\u2019t move off, would not offer more than just Karl-Anthony Towns, and it just wasn\u2019",
+        "outlet": "Sporting News",
+        "source_url": "https://www.sportingnews.com/us/nba/los-angeles-lakers/news/bombshell-trade-news-involving-luka-doncic-giannis-antetokounmpo-good-news-lakers/50a5c98d7bdb743df441544b"
+      }
+    ],
+    "Myles Turner": [
+      {
+        "date": "2025-12-09",
+        "text": "According to Ben Anderson of KSL, the Indiana Pacers have interest in Walker Kessler. On the most recent episode of the Jazz Notes podcast, he talked about what he\u2019s heard about the Utah Jazz center. From Anderson\u201cI\u2019ve heard the Indiana Pacers have inquired about Walker Kessler for a long time \u2026. a lot. That\u2019s going back to the summer, they\u2019ve lost Myles Turner\u2026 before the injury and even after the injury\u2026This is no one with the Jazz but other people who have similar jobs to me have heard simila",
+        "outlet": "SLC Dunk",
+        "source_url": "https://www.slcdunk.com/jazz-rumors/65716/nba-trade-rumors-indiana-pacers-have-interest-in-this-utah-jazz-player"
+      }
+    ],
+    "Walker Kessler": [
+      {
+        "date": "2025-12-09",
+        "text": "According to Ben Anderson of KSL, the Indiana Pacers have interest in Walker Kessler. On the most recent episode of the Jazz Notes podcast, he talked about what he\u2019s heard about the Utah Jazz center. From Anderson\u201cI\u2019ve heard the Indiana Pacers have inquired about Walker Kessler for a long time \u2026. a lot. That\u2019s going back to the summer, they\u2019ve lost Myles Turner\u2026 before the injury and even after the injury\u2026This is no one with the Jazz but other people who have similar jobs to me have heard simila",
+        "outlet": "SLC Dunk",
+        "source_url": "https://www.slcdunk.com/jazz-rumors/65716/nba-trade-rumors-indiana-pacers-have-interest-in-this-utah-jazz-player"
+      }
+    ],
+    "Malik Monk": [
+      {
+        "date": "2025-12-08",
+        "text": "APHoops: TheSacramento Kings continue to have interest in acquiring Jonathan Kuminga, but while Malik Monk might still be available in a package, the previously included first-round pick is no longer expected to be part of Sacramento\u2019s offer,per @MarcJSpears.x.com",
+        "outlet": "x.com",
+        "source_url": "https://x.com/APH00PS/status/1998133644993650906"
+      }
+    ],
+    "NBA Cup": [
+      {
+        "date": "2025-12-08",
+        "text": "This time, no pretense: The NBA Cup is about the money. Yes, Tuesday night\u2019s game against the Orlando Magic at Kia Center also counts in the regular-season standings. But for the Miami Heat, the coming week-plus could borrow a trademark from the WWE, because this also will be a Money in the Bank main event.\u201cI think $500,000 is $500,000 for anyone,\u201d guard Pelle Larsson said. For the rare time in team sports, cold, hard cash will be at center stage, no posturing necessary. In advancing to the knoc",
+        "outlet": "South Florida Sun-Sentinel",
+        "source_url": "https://www.sun-sentinel.com/2025/12/08/heat-also-in-it-for-the-money-500k-in-nba-cup-as-orlando-showdown-looms/"
+      }
+    ],
+    "Pelle Larsson": [
+      {
+        "date": "2025-12-08",
+        "text": "This time, no pretense: The NBA Cup is about the money. Yes, Tuesday night\u2019s game against the Orlando Magic at Kia Center also counts in the regular-season standings. But for the Miami Heat, the coming week-plus could borrow a trademark from the WWE, because this also will be a Money in the Bank main event.\u201cI think $500,000 is $500,000 for anyone,\u201d guard Pelle Larsson said. For the rare time in team sports, cold, hard cash will be at center stage, no posturing necessary. In advancing to the knoc",
+        "outlet": "South Florida Sun-Sentinel",
+        "source_url": "https://www.sun-sentinel.com/2025/12/08/heat-also-in-it-for-the-money-500k-in-nba-cup-as-orlando-showdown-looms/"
+      }
+    ],
+    "Andrew Wiggins": [
+      {
+        "date": "2025-12-08",
+        "text": "My read is that the Heat can't ever be a real contender to land Antetokounmpo if they're not willing to part with Ware this go-around. Sources insist, however, that Miami is indeed willing to part with Andrew Wiggins(and his $28.2 million salary) in the proverbial right deal.marcstein.substack.com",
+        "outlet": "marcstein.substack.com",
+        "source_url": "https://marcstein.substack.com/p/sunday-best-the-nba-trade-topic-that"
+      },
+      {
+        "date": "2025-11-26",
+        "text": "Sources sayGolden State did discuss the pursuit of Domantas Sabonis before the 2022 trade deadlinethat featured Indiana shipping the Lithuanian lefty to Sacramento for a package headlined by Tyrese Haliburton. The Pacers were known at the time to be big fans of Jonathan Kuminga, leading to various discussions between the two front offices that featured current Warriors swingman Buddy Hield, former Warriors swingman Andrew Wiggins and Sabonis in various frameworks.marcstein.substack.com",
+        "outlet": "marcstein.substack.com",
+        "source_url": "https://marcstein.substack.com/p/talking-zone-defense-nba-big-men"
+      }
+    ],
+    "Kel'el Ware": [
+      {
+        "date": "2025-12-08",
+        "text": "My read is that the Heat can't ever be a real contender to land Antetokounmpo if they're not willing to part with Ware this go-around. Sources insist, however, that Miami is indeed willing to part with Andrew Wiggins(and his $28.2 million salary) in the proverbial right deal.marcstein.substack.com",
+        "outlet": "marcstein.substack.com",
+        "source_url": "https://marcstein.substack.com/p/sunday-best-the-nba-trade-topic-that"
+      }
+    ],
+    "Kyrie Irving": [
+      {
+        "date": "2025-12-08",
+        "text": "\"The other part of it \u2014 and I keep getting told this \u2014 is that they say, look, they don\u2019t want to deal Kyrie Irving.They think Cooper Flagg needs to play next to an elite point guard to develop the right way. That\u2019s not D\u2019Angelo Russell. It\u2019s not D\u2019Angelo Russell. It\u2019s just not that guy.\" \"They\u2019ve also looked at an AD trade. Wherever you send Anthony Davis \u2014 let\u2019s say you find a deal with Chicago, maybe Atlanta, which I think could be an interesting spot for him \u2014 what you\u2019re going to get back, ",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=OTIRADQTvzg"
+      },
+      {
+        "date": "2025-11-27",
+        "text": "Tim MacMahon: So Kyrie signed\u2014uh, it wasn't even an extension. He\u2014he opted out and signed a three-year deal this summer. So he's got this year and the next two.\"\"What I would tell you about Kyrie is the Mavericks do not want to trade him.\"YouTube",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=h7fcpo74I_I"
+      },
+      {
+        "date": "2025-11-27",
+        "text": "Tim MacMahon:Trading AD is a real possibility\u2014and I would even say likelihood\u2014this season. Trading Kyrie is not something that's on the Mavericks' priority list, or it's just straight up not something that they are interested in doing right now.\"YouTube",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=h7fcpo74I_I"
+      },
+      {
+        "date": "2025-11-14",
+        "text": "With the Mavericks being the biggest topic around the league this week, the discussion quickly shifted to the question looming over whomever is tapped to replace Harrison as the lead executive: What does the future hold for Davis and Irving less than three months until the February trade deadline?The belief, from sources I spoke to, is that the Mavs moving on from at least Davis, if not both stars, was the optimal strategy. Those moves would help maximize the 2026 first-round pick in a loaded 20",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/46957985/nba-intel-execs-scouts-sinking-mavs-lebron-lakers-spurs"
+      },
+      {
+        "date": "2025-11-14",
+        "text": "Tim MacMahon: AndI think they will have discussions, at least internally, about exploring the trade market for Anthony Davis. He\u2019s got to get back on the floor. They need to make sure he\u2019s not in a situation where he could aggravate the calf injury\u2014or worse. He will have some type of trade value, and they\u2019ve got to explore that. As for Kyrie Irving\u2014it might be mutually beneficial for him just to take the whole year, focus on getting 100% healthy, and not help them win a few more games down the s",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=bHfb54Q_jzI"
+      }
+    ],
+    "James Harden": [
+      {
+        "date": "2025-12-06",
+        "text": "\"Life-changing,\" Harden said of the trade to Houston.\"What would've happened or what could have happened [if that trade doesn't happen]. I probably wouldn't have been able to be who I am, as far as creating an entire James Harden movement.I'm on my 10th signature shoe. \"All these things probably wouldn't have happened if I was there. I possibly could have been a champion. Who knows? Possibly. But so I'm grateful.\"ESPN",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/47227706/clippers-harden-passes-carmelo-10th-scoring-list"
+      },
+      {
+        "date": "2025-12-05",
+        "text": "Tim Bontemps: Some\u00a0sources\u00a0have indicated that the Clippers could try to move up their free agency timeline from the 2027 offseason to next summer, which would require finding trade partners with cap room to take on James Harden ($42 million player option for 2026-27) and Leonard (owed $50 million in 2026-27). The feedback from league insiders has been that, while a team would take on Harden, it may be more difficult to find a landing spot for Leonard because of his injury and the Aspiration cas",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/47202440/nba-intel-next-clippers-league-insiders-examine-three-paths"
+      }
+    ],
+    "Zion Williamson": [
+      {
+        "date": "2025-12-06",
+        "text": "Sharmit Dua:The Pelicans have not had any conversations with teams regarding Trey Murphy, Herb Jones, or Zion Williamsonper source familiar with the matterBluesky",
+        "outlet": "Bluesky",
+        "source_url": "https://bsky.app/profile/fearthebrown.bsky.social/post/3m7dj3tlvds2h"
+      }
+    ],
+    "Herb Jones": [
+      {
+        "date": "2025-12-06",
+        "text": "Sharmit Dua:The Pelicans have not had any conversations with teams regarding Trey Murphy, Herb Jones, or Zion Williamsonper source familiar with the matterBluesky",
+        "outlet": "Bluesky",
+        "source_url": "https://bsky.app/profile/fearthebrown.bsky.social/post/3m7dj3tlvds2h"
+      },
+      {
+        "date": "2025-12-06",
+        "text": "Jake Fischer: Andthere are definitely teams that believe that have told me as recently as today that New Orleans is now starting to listen and at least show some type of willingness to listen on guys like Herb Jones and Trey Murphy as well.And those guys are going to have a lot of interest around the league.YouTube",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=FiTbq5xigD0"
+      }
+    ],
+    "Trey Murphy": [
+      {
+        "date": "2025-12-06",
+        "text": "Sharmit Dua:The Pelicans have not had any conversations with teams regarding Trey Murphy, Herb Jones, or Zion Williamsonper source familiar with the matterBluesky",
+        "outlet": "Bluesky",
+        "source_url": "https://bsky.app/profile/fearthebrown.bsky.social/post/3m7dj3tlvds2h"
+      },
+      {
+        "date": "2025-12-06",
+        "text": "Jake Fischer: Andthere are definitely teams that believe that have told me as recently as today that New Orleans is now starting to listen and at least show some type of willingness to listen on guys like Herb Jones and Trey Murphy as well.And those guys are going to have a lot of interest around the league.YouTube",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=FiTbq5xigD0"
+      }
+    ],
+    "Kawhi Leonard": [
+      {
+        "date": "2025-12-05",
+        "text": "Tim Bontemps: Some\u00a0sources\u00a0have indicated that the Clippers could try to move up their free agency timeline from the 2027 offseason to next summer, which would require finding trade partners with cap room to take on James Harden ($42 million player option for 2026-27) and Leonard (owed $50 million in 2026-27). The feedback from league insiders has been that, while a team would take on Harden, it may be more difficult to find a landing spot for Leonard because of his injury and the Aspiration cas",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/47202440/nba-intel-next-clippers-league-insiders-examine-three-paths"
+      }
+    ],
+    "Stephon Castle": [
+      {
+        "date": "2025-12-04",
+        "text": "Just as the Bucks were unwilling to entertain Giannis trade inquiries before last June's draft, various sources with knowledge of San Antonio's thinking staunchly maintained that the Spurs were thoroughly unwilling to surrender the No. 2 overall pick that became Dylan Harper. They were also equally against the idea of parting with Stephon Castle, too. Even for Giannis.There has been little indication to date that the Spurs are any more willing now to consider parting with their prized young guar",
+        "outlet": "marcstein.substack.com",
+        "source_url": "https://marcstein.substack.com/p/the-jake-fischer-latest-everything"
+      }
+    ],
+    "Dylan Harper": [
+      {
+        "date": "2025-12-04",
+        "text": "Just as the Bucks were unwilling to entertain Giannis trade inquiries before last June's draft, various sources with knowledge of San Antonio's thinking staunchly maintained that the Spurs were thoroughly unwilling to surrender the No. 2 overall pick that became Dylan Harper. They were also equally against the idea of parting with Stephon Castle, too. Even for Giannis.There has been little indication to date that the Spurs are any more willing now to consider parting with their prized young guar",
+        "outlet": "marcstein.substack.com",
+        "source_url": "https://marcstein.substack.com/p/the-jake-fischer-latest-everything"
+      }
+    ],
+    "AJ Dybantsa": [
+      {
+        "date": "2025-12-04",
+        "text": "The Pelicans, as you've surely heard, began Thursday's play with the league's worst record at 3-19. Would such an asset, combined with Young, pique Milwaukee's interest? It would certainly hand the Bucks an uber-talented and widely popular All-Star on top of a pretty good shot at drafting a generational rookie at the top of the 2026 draft board.I have been told on more than one occasion since the season began \u2014 quite strongly \u2014 that the Hawks won't consider trading that draft pick, knowing full ",
+        "outlet": "marcstein.substack.com",
+        "source_url": "https://marcstein.substack.com/p/the-jake-fischer-latest-everything"
+      }
+    ],
+    "Lawrence Frank": [
+      {
+        "date": "2025-12-04",
+        "text": "But Frank said the Clippers still should be better, much better, than this, especially on defense. Ivica Zubac was a contender for defensive player of the year last season and still anchors LA\u2019s defense, yet a very good defensive team from last season has become one of the league\u2019s worst so far this year.\u201cObviously, we\u2019re in the results business \u2014 we can\u2019t just keep losing games, but it\u2019s how we look,\u201d Frank said. \u201cYou watch us play, we went from an elite defensive team to one of the worst defen",
+        "outlet": "New York Times",
+        "source_url": "https://www.nytimes.com/athletic/6860939/2025/12/04/la-clippers-losing-season-injuries-scandal/"
+      }
+    ],
+    "Ivica Zubac": [
+      {
+        "date": "2025-12-04",
+        "text": "But Frank said the Clippers still should be better, much better, than this, especially on defense. Ivica Zubac was a contender for defensive player of the year last season and still anchors LA\u2019s defense, yet a very good defensive team from last season has become one of the league\u2019s worst so far this year.\u201cObviously, we\u2019re in the results business \u2014 we can\u2019t just keep losing games, but it\u2019s how we look,\u201d Frank said. \u201cYou watch us play, we went from an elite defensive team to one of the worst defen",
+        "outlet": "New York Times",
+        "source_url": "https://www.nytimes.com/athletic/6860939/2025/12/04/la-clippers-losing-season-injuries-scandal/"
+      }
+    ],
+    "Kevin Porter": [
+      {
+        "date": "2025-12-04",
+        "text": "With Antetokounmpo sidelined, the Bucks banded together and picked up a comeback win over the team leading the Eastern Conference. That togetherness could have been shook by another round of trade rumors, but players insisted that the locker room remains united in its belief in Antetokounmpo\u2019s desire to remain in Milwaukee and see this season through to the end. \u201cI\u2019ll just say this: There\u2019s a lot of outside noise, that\u2019s just what comes with it,\u201d Porter said. \u201cAndGiannis does a great job of assu",
+        "outlet": "New York Times",
+        "source_url": "https://www.nytimes.com/athletic/6860315/2025/12/03/giannis-antetokounmpo-exits-game-bucks/"
+      },
+      {
+        "date": "2025-12-04",
+        "text": "\u201cWe know GA. We know he\u2019s here for us. He loves the city. He loves the team. We love him,\u201d Green said. \u201cWe\u2019re gonna play for him. He\u2019s gonna play for us. \u201cSo, people are going to say whatever, outside noise, but we know what it is inside this locker room and the relationship we got and the team we got, so we\u2019re just gonna continue to run with that and trust it.\u201dNew York Times",
+        "outlet": "New York Times",
+        "source_url": "https://www.nytimes.com/athletic/6860315/2025/12/03/giannis-antetokounmpo-exits-game-bucks/"
+      }
+    ],
+    "Bobby Portis": [
+      {
+        "date": "2025-12-04",
+        "text": "Eric Nehm:Bobby Portis told reporters that while he hasn't had a chance to talk personally to Giannis Antetokounmpo yet, the Bucks star was the first player in the group chat after the game congratulating the team on a win.x.com",
+        "outlet": "x.com",
+        "source_url": "https://x.com/eric_nehm/status/1996442327293026789"
+      }
+    ],
+    "Jon Horst": [
+      {
+        "date": "2025-12-03",
+        "text": "Giannis Antetokounmpo came into the season having bought into the championship roster vision of general manager Jon Horst and coach Doc Rivers.Before the season started, sources said Antetokounmpo would examine the Bucks' first 25 or so games this season and make decisions on his long-term future, depending on whether the team showed signs of competing in the Eastern Conference.ESPN",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/47191857/sources-giannis-antetokounmpo-bucks-discussing-future"
+      }
+    ],
+    "LaMelo Ball": [
+      {
+        "date": "2025-12-03",
+        "text": "Charlotte's\u00a0LaMelo Ball,\u00a0Memphis'\u00a0Ja Morant\u00a0and\u00a0Atlanta's\u00a0Trae Young\u00a0all seem to be stuck in a sort of limbo with the franchises that they've been the faces of since entering the league as high lottery picks. There is rampant speculation among rival teams that Ball, Morant and Young could all be available leading up to the Feb. 5 trade deadline. For a variety of reasons, from their maximum contracts to their major flaws, it's not a discussion that generates much enthusiasm despite their status a",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/47179857/ja-morant-lamelo-ball-trae-young-three-all-star-guards-limbo"
+      },
+      {
+        "date": "2025-12-03",
+        "text": "Coaches, scouts and\u00a0executives\u00a0often roll their eyes when discussing Ball's tendency to launch long 3-pointers off one foot early in the shot clock. Ball's bad shot selection is a significant factor in his career-worst percentages (37.9% from the floor, 28.1% on 3s) this season.\"He's definitely one of the top three most talented guards in the league,\" a West\u00a0executive\u00a0said. \"But every [scouting] report I write on him has the word 'Globetrotter' in it.\"Added a West scout: \"They all have their war",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/47179857/ja-morant-lamelo-ball-trae-young-three-all-star-guards-limbo"
+      },
+      {
+        "date": "2025-11-24",
+        "text": "Marc Stein: \u201cWhat I think is really happening here, in the grand scheme \u2014 and I already mentioned Ja Morant in Memphis \u2014 is that Trae Young is now in a similar position. He\u2019s out in Atlanta, and the Hawks have been winning some games without him. Remember, this summer the two sides could have engaged in contract extension talks, but they didn\u2019t. The Hawks made it clear to Trae Young\u2019s camp that they weren\u2019t interested in an extension before the season. They wanted this season to play out.Around ",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/live/FLwniS558nA"
+      },
+      {
+        "date": "2025-11-24",
+        "text": "Marc Stein: The reality is, there\u2019s chatter out there \u2014 a lot of curiosity, most of it coming from rival front offices. Are the Hornets going to be open to fielding trade pitches for LaMelo Ball?To this point \u2014 and this will sound a lot like the Ja Morant situation in Memphis \u2014 the messaging is that the Hornets don\u2019t want to field those pitches. They don\u2019t want to trade him. There was a report this week from my pal in Houston, Kelly Iko, writing for Yahoo Sports. Kelly wrote that Ball is open to",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/live/FLwniS558nA"
+      },
+      {
+        "date": "2025-11-23",
+        "text": "LaMelo Ball is not a character concern off the floor by any means, to my\u00a0understanding, even if\u00a0sources\u00a0say it's indeed true that he's been frustrated by the team's lack of forward progress.Ball has played in 47 or fewer games in each of the past three seasons due to injury. His shot selection also turns some teams off, but the durability questions resonate the loudest\u00a0leaguewide. It's somewhat reminiscent of the situation\u00a0Anthony Davis\u00a0faces in Dallas. The Hornets are unlikely to get the sort o",
+        "outlet": "marcstein.substack.com",
+        "source_url": "https://marcstein.substack.com/p/sunday-best-the-pieces-of-this-seasons"
+      },
+      {
+        "date": "2025-11-22",
+        "text": "Jake Fischer: Another one we\u2019ll touch on more tomorrow. LaMelo Ball does not want out of Charlotte, to my understanding. I believe that to be true.The Hornets have definitely given other teams the impression they will listen to offers for him, though.marcstein.substack.com",
+        "outlet": "marcstein.substack.com",
+        "source_url": "https://marcstein.substack.com/"
+      },
+      {
+        "date": "2025-11-21",
+        "text": "LaMelo Ball dismissed a Yahoo! report that emerged Thursday indicating Ball is unhappy with the Hornets and open to being traded elsewhere. \u201cIt didn\u2019t come from me,\u201d Ball said. \u201cThe source wasn\u2019t me, so it\u2019s false info.Got to let them know. I really don\u2019t like commenting on stuff, but it got too big.\u201d He added: \u201cI love being here.\u201dCharlotte Observer",
+        "outlet": "Charlotte Observer",
+        "source_url": "https://www.charlotteobserver.com/sports/charlotte-hornets/article312743904.html"
+      },
+      {
+        "date": "2025-11-21",
+        "text": "Ball, as he mentioned, typically doesn\u2019t give those kinds of stories a second thought. But this time, he decided to go a different route. Why? \u201cIt was (spreading) so much, they were making headlines,\u201d Ball said.\u201cBleacher Report and this and that. So I didn\u2019t want it to keep going on.\u201dCharlotte Observer",
+        "outlet": "Charlotte Observer",
+        "source_url": "https://www.charlotteobserver.com/sports/charlotte-hornets/article312743904.html"
+      },
+      {
+        "date": "2025-11-21",
+        "text": "Those words were music to the ears of the Hornets\u2019 second-year coach.\u201cI\u2019m glad to hear what he had to say because I would echo a lot of same things,\u201d Charles Lee said. \u201cOur relationship, our ability to have communication between myself, Melo and Jeff (Peterson, the team\u2019s president of basketball operations), it\u2019s really hot.And I think that he\u2019s always communicated to us. \u201cHe wants to build this thing with us. He understands what it\u2019s going to take to try to win and who we need in the building a",
+        "outlet": "Charlotte Observer",
+        "source_url": "https://www.charlotteobserver.com/sports/charlotte-hornets/article312743904.html"
+      },
+      {
+        "date": "2025-11-20",
+        "text": "LaMeloBall: ?x.com",
+        "outlet": "x.com",
+        "source_url": "https://x.com/MELOD1P/status/1991644767235764597"
+      },
+      {
+        "date": "2025-11-20",
+        "text": "Following the Hornets\u2019 disappointing road loss to the 2-13 Indiana Pacers \u2014 their fourth straight, dropping Charlotte to 12th in the Eastern Conference with a 4-11 record \u2014star guard LaMelo Ball has grown increasingly frustrated with the organization and is open to a trade away from the franchise, multiple league sources told Yahoo Sports.Yahoo! Sports",
+        "outlet": "Yahoo! Sports",
+        "source_url": "https://sports.yahoo.com/nba/article/sources-lamelo-ball-open-to-trade-away-from-hornets-215320940.html"
+      },
+      {
+        "date": "2025-11-20",
+        "text": "League sources say the front office is increasingly hesitant about cementing Ball as a long-term foundational piece, has become disillusioned with the 24-year-old and is open to moving him.Yahoo! Sports",
+        "outlet": "Yahoo! Sports",
+        "source_url": "https://sports.yahoo.com/nba/article/sources-lamelo-ball-open-to-trade-away-from-hornets-215320940.html"
+      }
+    ],
+    "Trae Young": [
+      {
+        "date": "2025-12-03",
+        "text": "Charlotte's\u00a0LaMelo Ball,\u00a0Memphis'\u00a0Ja Morant\u00a0and\u00a0Atlanta's\u00a0Trae Young\u00a0all seem to be stuck in a sort of limbo with the franchises that they've been the faces of since entering the league as high lottery picks. There is rampant speculation among rival teams that Ball, Morant and Young could all be available leading up to the Feb. 5 trade deadline. For a variety of reasons, from their maximum contracts to their major flaws, it's not a discussion that generates much enthusiasm despite their status a",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/47179857/ja-morant-lamelo-ball-trae-young-three-all-star-guards-limbo"
+      },
+      {
+        "date": "2025-12-03",
+        "text": "In other words, the Hawks with Young in the lineup would rank dead last in the league in defensive efficiency.Without him, the Hawks have defended at a top-five level. \"He's just small and doesn't play any defense,\" an East scout said. That scout valued Young more than Morant and Ball, primarily because of his offensive prowess and lack of off-court concerns. Several people mentioned the long-running perception that he's unpopular with teammates as worrisome, especially considering that Young cr",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/47179857/ja-morant-lamelo-ball-trae-young-three-all-star-guards-limbo"
+      },
+      {
+        "date": "2025-11-24",
+        "text": "Marc Stein: \u201cWhat I think is really happening here, in the grand scheme \u2014 and I already mentioned Ja Morant in Memphis \u2014 is that Trae Young is now in a similar position. He\u2019s out in Atlanta, and the Hawks have been winning some games without him. Remember, this summer the two sides could have engaged in contract extension talks, but they didn\u2019t. The Hawks made it clear to Trae Young\u2019s camp that they weren\u2019t interested in an extension before the season. They wanted this season to play out.Around ",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/live/FLwniS558nA"
+      }
+    ],
+    "Lauri Markkanen": [
+      {
+        "date": "2025-12-01",
+        "text": "Difficult as it can be for rival teams to read the intentions of a front office that now houses Austin Ainge as well as Danny Ainge,more teams than not that we speak to are increasingly convinced that the Jazz are more likely to try to add to their Markkanen-led core this Trade Season rather than trade Markkanen away.marcstein.substack.com",
+        "outlet": "marcstein.substack.com",
+        "source_url": "https://marcstein.substack.com/p/sunday-best-the-latest-nba-trade"
+      },
+      {
+        "date": "2025-11-18",
+        "text": "Utah continues to stonewall all talks for Lauri Markkanen.If they move him, it will be sudden .FanSided",
+        "outlet": "FanSided",
+        "source_url": "https://fansided.com/nba/nba-insider-trade-rumors-anthony-davis-ja-morant"
+      }
+    ],
+    "Anfernee Simons": [
+      {
+        "date": "2025-11-30",
+        "text": "Brian Robb:The contracts of Anfernee Simons and Sam Hauser will be pivotal for the Celtics to be able to acquire another center via trade due to salary matching.Simons is an expiring deal, so the Celtics may elect to trade for someone with long-term money attached to keep that as a tradable asset heading into the offseason. However, achieving that and getting under the luxury tax this season make that a fine needle to thread for the brass.Booth Newspapers",
+        "outlet": "Booth Newspapers",
+        "source_url": "https://www.masslive.com/celtics/2025/11/celtics-mailbag-how-will-celtics-acquire-center-for-the-future.html"
+      },
+      {
+        "date": "2025-11-26",
+        "text": "Getting below the luxury tax entirely could conceivably be achieved by trading guard\u00a0Anfernee Simons\u00a0or shedding the salaries of\u00a0Sam Hauser\u00a0and another minimum-salary player.\u00a0\u00a0 Simons is in the final year of his\u00a0contract\u00a0worth $27.68 million, while Hauser is beginning a four-year, $45 million\u00a0contract\u00a0extension this season.\u00a0 With that in mind,Boston hasn\u2019t shown a willingness to attach a first-round pick to trade Simons\u2019 expiring\u00a0contract, league\u00a0sources\u00a0told\u00a0HoopsHype.HoopsHype",
+        "outlet": "HoopsHype",
+        "source_url": "https://www.hoopshype.com/story/sports/nba/2025/11/26/title-nba-intel-ja-morant-timberwolves-kings-celtics/87477567007/"
+      },
+      {
+        "date": "2025-11-26",
+        "text": "Over the summer, the\u00a0Brooklyn Nets\u00a0and Celtics\u00a0discussed\u00a0several trade scenarios involving Simons that ultimately fell through, league\u00a0sources\u00a0told\u00a0HoopsHype.The Milwaukee Bucks also kept tabs on Simons, HoopsHype has learned.HoopsHype",
+        "outlet": "HoopsHype",
+        "source_url": "https://www.hoopshype.com/story/sports/nba/2025/11/26/title-nba-intel-ja-morant-timberwolves-kings-celtics/87477567007/"
+      }
+    ],
+    "Sam Hauser": [
+      {
+        "date": "2025-11-30",
+        "text": "Brian Robb:The contracts of Anfernee Simons and Sam Hauser will be pivotal for the Celtics to be able to acquire another center via trade due to salary matching.Simons is an expiring deal, so the Celtics may elect to trade for someone with long-term money attached to keep that as a tradable asset heading into the offseason. However, achieving that and getting under the luxury tax this season make that a fine needle to thread for the brass.Booth Newspapers",
+        "outlet": "Booth Newspapers",
+        "source_url": "https://www.masslive.com/celtics/2025/11/celtics-mailbag-how-will-celtics-acquire-center-for-the-future.html"
+      },
+      {
+        "date": "2025-11-26",
+        "text": "Getting below the luxury tax entirely could conceivably be achieved by trading guard\u00a0Anfernee Simons\u00a0or shedding the salaries of\u00a0Sam Hauser\u00a0and another minimum-salary player.\u00a0\u00a0 Simons is in the final year of his\u00a0contract\u00a0worth $27.68 million, while Hauser is beginning a four-year, $45 million\u00a0contract\u00a0extension this season.\u00a0 With that in mind,Boston hasn\u2019t shown a willingness to attach a first-round pick to trade Simons\u2019 expiring\u00a0contract, league\u00a0sources\u00a0told\u00a0HoopsHype.HoopsHype",
+        "outlet": "HoopsHype",
+        "source_url": "https://www.hoopshype.com/story/sports/nba/2025/11/26/title-nba-intel-ja-morant-timberwolves-kings-celtics/87477567007/"
+      }
+    ],
+    "Jason Kidd": [
+      {
+        "date": "2025-11-28",
+        "text": "Mike Curtis: Jason Kidd on making sure Anthony Davis is in a good mental space considering he's drawn some ire from the fanbase:\"The biggest thing is the train keeps moving, no matter of a trade or a dismissal. You gotta keep moving.For AD, it was to focus on his body, come back healthy. He's ready to go...\"x.com",
+        "outlet": "x.com",
+        "source_url": "https://x.com/MikeACurtis2/status/1994601681007645106"
+      }
+    ],
+    "Max Christie": [
+      {
+        "date": "2025-11-28",
+        "text": "Mike Curtis: Max Christie on being back in LA for the second time since he was traded in February: \"It's the same. I mean I was here last year, too. I'm a Maverick so I'm not really thinking about it like that. It's just another game.It feels good. It's cool to be back. Just another game.\"x.com",
+        "outlet": "x.com",
+        "source_url": "https://x.com/MikeACurtis2/status/1994513129993384269"
+      }
+    ],
+    "Russell Westbrook": [
+      {
+        "date": "2025-11-27",
+        "text": "You had a footnote in the book where you wanted to speak with D\u2019Angelo Russell about his first stint with the Lakers, and he said he didn\u2019t have anything good to say about them and could talk with you then and there, and then funny enough, he gets traded to the Lakers six months later. Did you find a lot of other former players who had animosity towards the Lakers? Yaron Weitzman:I did not get much animosity. Russell Westbrook did not want to talk. I'm guessing there would be animosity there, bu",
+        "outlet": "HoopsHype",
+        "source_url": "https://www.hoopshype.com/story/sports/nba/2025/11/27/yaron-weitzman-qa-i-think-laker-fans-would-have-expected-more-than-one-title-with-lebron-james/87473819007/"
+      }
+    ],
+    "Brandon Ingram": [
+      {
+        "date": "2025-11-27",
+        "text": "You had a footnote in the book where you wanted to speak with D\u2019Angelo Russell about his first stint with the Lakers, and he said he didn\u2019t have anything good to say about them and could talk with you then and there, and then funny enough, he gets traded to the Lakers six months later. Did you find a lot of other former players who had animosity towards the Lakers? Yaron Weitzman:I did not get much animosity. Russell Westbrook did not want to talk. I'm guessing there would be animosity there, bu",
+        "outlet": "HoopsHype",
+        "source_url": "https://www.hoopshype.com/story/sports/nba/2025/11/27/yaron-weitzman-qa-i-think-laker-fans-would-have-expected-more-than-one-title-with-lebron-james/87473819007/"
+      }
+    ],
+    "Josh Hart": [
+      {
+        "date": "2025-11-27",
+        "text": "You had a footnote in the book where you wanted to speak with D\u2019Angelo Russell about his first stint with the Lakers, and he said he didn\u2019t have anything good to say about them and could talk with you then and there, and then funny enough, he gets traded to the Lakers six months later. Did you find a lot of other former players who had animosity towards the Lakers? Yaron Weitzman:I did not get much animosity. Russell Westbrook did not want to talk. I'm guessing there would be animosity there, bu",
+        "outlet": "HoopsHype",
+        "source_url": "https://www.hoopshype.com/story/sports/nba/2025/11/27/yaron-weitzman-qa-i-think-laker-fans-would-have-expected-more-than-one-title-with-lebron-james/87473819007/"
+      }
+    ],
+    "Andre Miller": [
+      {
+        "date": "2025-11-27",
+        "text": "Andre Miller:I\u2019d like to see Devin Booker get to another team.He\u2019s almost getting lost in the sauce a little bit because the team isn\u2019t winning over there. But I want to see Devin Booker on the big stage because I\u2019m a huge fan of his. And then LaMelo Ball \u2014 I\u2019d like to see him on another team, too. Just to see him deal with some pressure and see how he can actually lead a team in the playoffs.YouTube",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=UnXjE_50RHc"
+      }
+    ],
+    "Devin Booker": [
+      {
+        "date": "2025-11-27",
+        "text": "Andre Miller:I\u2019d like to see Devin Booker get to another team.He\u2019s almost getting lost in the sauce a little bit because the team isn\u2019t winning over there. But I want to see Devin Booker on the big stage because I\u2019m a huge fan of his. And then LaMelo Ball \u2014 I\u2019d like to see him on another team, too. Just to see him deal with some pressure and see how he can actually lead a team in the playoffs.YouTube",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=UnXjE_50RHc"
+      }
+    ],
+    "Nico Harrison": [
+      {
+        "date": "2025-11-26",
+        "text": "\u201cIt was surprising more than anything,\u201d Davis said. \u201cNico\u2019s my guy. Obviously, he played a huge part of getting me here and wanting me to fulfill his vision, in a sense, that he saw. It was definitely tough. ...It\u2019s the business of basketball. Once I had those conversations [with Harrison and Dumont], I was able to move forward and continue to rehab and get back on the floor and try to compete.\u201dDallas Morning News",
+        "outlet": "Dallas Morning News",
+        "source_url": "https://www.dallasnews.com/sports/mavericks/2025/11/26/anthony-davis-trade-mavericks-dallas-nba-injury-nico-harrison/"
+      },
+      {
+        "date": "2025-11-19",
+        "text": "Shams Charania: This franchise is moving away from Nico Harrison's three to four year championship window, and toward trying to find sustained success and sustained growth around Cooper, Flagg and youth. And to that end, sources have told ESPN that the Mavericks will be listening to trade calls for Anthony Davis and seeing and exploring his value.And for that, health will be the biggest key because not only for the Mavericks to evaluate Anthony Davis over a lengthy period of time, an extended pe",
+        "outlet": "x.com",
+        "source_url": "https://x.com/ShamsCharania/status/1991301604952404406"
+      },
+      {
+        "date": "2025-11-12",
+        "text": "Marc Stein: As for what Nico Harrison's dismissal means for Anthony Davis' future in Dallas: Sources tell @TheSteinLine and @DLLS_Sports that Davis' agentRich Paul has established a strong relationship with Mavericks owner Patrick Dumont since February's trade. They are in regular contact.x.com",
+        "outlet": "x.com",
+        "source_url": "https://x.com/TheSteinLine/status/1988272100746969465?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1988272100746969465%7Ctwgr%5E1eb8631fb0d85bab7bf13948319316a104e513d5%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.sportingnews.com%2Fus%2Fnba%2Fdallas-mavericks%2Fnews%2Fanthony-davis-trade-rumors-get-important-update-amid-nico-harrison-firing%2F4b4c41583ed61f3ce9c96fa4"
+      }
+    ],
+    "Patrick Dumont": [
+      {
+        "date": "2025-11-26",
+        "text": "\u201cIt was surprising more than anything,\u201d Davis said. \u201cNico\u2019s my guy. Obviously, he played a huge part of getting me here and wanting me to fulfill his vision, in a sense, that he saw. It was definitely tough. ...It\u2019s the business of basketball. Once I had those conversations [with Harrison and Dumont], I was able to move forward and continue to rehab and get back on the floor and try to compete.\u201dDallas Morning News",
+        "outlet": "Dallas Morning News",
+        "source_url": "https://www.dallasnews.com/sports/mavericks/2025/11/26/anthony-davis-trade-mavericks-dallas-nba-injury-nico-harrison/"
+      },
+      {
+        "date": "2025-11-19",
+        "text": "Dallas Mavericks minority owner Mark Cuban told The Athletic the franchise would not try to trade Anthony Davis this season.\u201cWe won\u2019t. We want to try to win,\u201d Cuban said Wednesday in an email when asked if he and Mavericks governor Patrick Dumont would seek a deal for Davis, the oft-injured, 10-time All-Star who was the centerpiece for Dallas in last season\u2019s Luka Don\u010di\u0107 trade.New York Times",
+        "outlet": "New York Times",
+        "source_url": "https://www.nytimes.com/athletic/6820984/2025/11/19/mavericks-anthony-davis-trade-mark-cuban/?source=emp_shared_article"
+      },
+      {
+        "date": "2025-11-12",
+        "text": "It's believed the Mavericks will work with Davis' camp over the next two-plus months as they decide whether to pursue an in-season trade.Davis' agent Rich Paul and Mavericks owner Patrick Dumont have established a relationship that features regular contact since they were introduced at the Mavericks' Play-In Tournament victory in Sacramento in April. The parties are thus expected to work in concert to some degree on next steps.marcstein.substack.com",
+        "outlet": "marcstein.substack.com",
+        "source_url": "https://marcstein.substack.com/p/whats-next-after-the-firing-of-nico"
+      },
+      {
+        "date": "2025-11-12",
+        "text": "Marc Stein: As for what Nico Harrison's dismissal means for Anthony Davis' future in Dallas: Sources tell @TheSteinLine and @DLLS_Sports that Davis' agentRich Paul has established a strong relationship with Mavericks owner Patrick Dumont since February's trade. They are in regular contact.x.com",
+        "outlet": "x.com",
+        "source_url": "https://x.com/TheSteinLine/status/1988272100746969465?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1988272100746969465%7Ctwgr%5E1eb8631fb0d85bab7bf13948319316a104e513d5%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.sportingnews.com%2Fus%2Fnba%2Fdallas-mavericks%2Fnews%2Fanthony-davis-trade-rumors-get-important-update-amid-nico-harrison-firing%2F4b4c41583ed61f3ce9c96fa4"
+      }
+    ],
+    "Buddy Hield": [
+      {
+        "date": "2025-11-26",
+        "text": "Sources sayGolden State did discuss the pursuit of Domantas Sabonis before the 2022 trade deadlinethat featured Indiana shipping the Lithuanian lefty to Sacramento for a package headlined by Tyrese Haliburton. The Pacers were known at the time to be big fans of Jonathan Kuminga, leading to various discussions between the two front offices that featured current Warriors swingman Buddy Hield, former Warriors swingman Andrew Wiggins and Sabonis in various frameworks.marcstein.substack.com",
+        "outlet": "marcstein.substack.com",
+        "source_url": "https://marcstein.substack.com/p/talking-zone-defense-nba-big-men"
+      }
+    ],
+    "Tyrese Haliburton": [
+      {
+        "date": "2025-11-26",
+        "text": "Sources sayGolden State did discuss the pursuit of Domantas Sabonis before the 2022 trade deadlinethat featured Indiana shipping the Lithuanian lefty to Sacramento for a package headlined by Tyrese Haliburton. The Pacers were known at the time to be big fans of Jonathan Kuminga, leading to various discussions between the two front offices that featured current Warriors swingman Buddy Hield, former Warriors swingman Andrew Wiggins and Sabonis in various frameworks.marcstein.substack.com",
+        "outlet": "marcstein.substack.com",
+        "source_url": "https://marcstein.substack.com/p/talking-zone-defense-nba-big-men"
+      }
+    ],
+    "Robert Williams": [
+      {
+        "date": "2025-11-26",
+        "text": "Phoenix has made Nick Richards available for trade since this past summer,league sources say. I've also been told that Portland is forecasted to be more willing to move Robert Williams III this season compared to last season, when the Trail Blazers maintained a high asking price for the oft-injured big man.marcstein.substack.com",
+        "outlet": "marcstein.substack.com",
+        "source_url": "https://marcstein.substack.com/p/talking-zone-defense-nba-big-men"
+      }
+    ],
+    "Nick Richards": [
+      {
+        "date": "2025-11-26",
+        "text": "Phoenix has made Nick Richards available for trade since this past summer,league sources say. I've also been told that Portland is forecasted to be more willing to move Robert Williams III this season compared to last season, when the Trail Blazers maintained a high asking price for the oft-injured big man.marcstein.substack.com",
+        "outlet": "marcstein.substack.com",
+        "source_url": "https://marcstein.substack.com/p/talking-zone-defense-nba-big-men"
+      }
+    ],
+    "Lonzo Ball": [
+      {
+        "date": "2025-11-26",
+        "text": "Lonzo Ball: Unpopular opinion probably though I feel\u00a0like I could have played with D\u2019Angelo Russellhonestly.\u00a0I think they should have just\u00a0maybe just kept all these picks and just\u00a0see how it would have went but I mean\u00a0they still got the ring so,\u00a0you know, worked out for them.YouTube",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=S68ZtX2sRXU&t=2360s"
+      }
+    ],
+    "Anthony Edwards": [
+      {
+        "date": "2025-11-26",
+        "text": "Timberwolvessuperstar\u00a0Anthony Edwards\u00a0is considered untouchable by the franchise, while forward\u00a0Jaden McDaniels\u00a0is viewed as close to untouchable as well,league\u00a0sources\u00a0told\u00a0HoopsHype.HoopsHype",
+        "outlet": "HoopsHype",
+        "source_url": "https://www.hoopshype.com/story/sports/nba/2025/11/26/title-nba-intel-ja-morant-timberwolves-kings-celtics/87477567007/"
+      }
+    ],
+    "Jaden McDaniels": [
+      {
+        "date": "2025-11-26",
+        "text": "Timberwolvessuperstar\u00a0Anthony Edwards\u00a0is considered untouchable by the franchise, while forward\u00a0Jaden McDaniels\u00a0is viewed as close to untouchable as well,league\u00a0sources\u00a0told\u00a0HoopsHype.HoopsHype",
+        "outlet": "HoopsHype",
+        "source_url": "https://www.hoopshype.com/story/sports/nba/2025/11/26/title-nba-intel-ja-morant-timberwolves-kings-celtics/87477567007/"
+      }
+    ],
+    "Vivek Ranadive": [
+      {
+        "date": "2025-11-26",
+        "text": "The Milwaukee Bucks have conducted background due diligence on Zach LaVine and others around the league, as usual,\u00a0sources\u00a0told\u00a0HoopsHype.However, nothing is imminent as Bucks superstar\u00a0Giannis Antetokounmpo\u00a0nears a return from a low-grade adductor strain.\u00a0Should Milwaukee\u2019s\u00a0interest\u00a0in LaVine become more serious, it\u2019s worth noting that Bucks forward\u00a0Kyle Kuzma\u00a0and Kings Governor\u00a0Vivek Ranadive\u00a0both invested\u00a0in a new women\u2019s professional sports venture called Major League Volleyball, and Kuzma h",
+        "outlet": "HoopsHype",
+        "source_url": "https://www.hoopshype.com/story/sports/nba/2025/11/26/title-nba-intel-ja-morant-timberwolves-kings-celtics/87477567007/"
+      }
+    ],
+    "Kyle Kuzma": [
+      {
+        "date": "2025-11-26",
+        "text": "The Milwaukee Bucks have conducted background due diligence on Zach LaVine and others around the league, as usual,\u00a0sources\u00a0told\u00a0HoopsHype.However, nothing is imminent as Bucks superstar\u00a0Giannis Antetokounmpo\u00a0nears a return from a low-grade adductor strain.\u00a0Should Milwaukee\u2019s\u00a0interest\u00a0in LaVine become more serious, it\u2019s worth noting that Bucks forward\u00a0Kyle Kuzma\u00a0and Kings Governor\u00a0Vivek Ranadive\u00a0both invested\u00a0in a new women\u2019s professional sports venture called Major League Volleyball, and Kuzma h",
+        "outlet": "HoopsHype",
+        "source_url": "https://www.hoopshype.com/story/sports/nba/2025/11/26/title-nba-intel-ja-morant-timberwolves-kings-celtics/87477567007/"
+      }
+    ],
+    "Keegan Murray": [
+      {
+        "date": "2025-11-23",
+        "text": "Just don't get your hopes up about your favorite team acquiring the recently re-signed\u00a0Keegan Murray. \u2026 or last June's prized first-round pick\u00a0NiqueClifford.\u00a0Sources\u00a0say both will be off the table in upcoming trade talks.marcstein.substack.com",
+        "outlet": "marcstein.substack.com",
+        "source_url": "https://marcstein.substack.com/p/sunday-best-the-pieces-of-this-seasons"
+      },
+      {
+        "date": "2025-11-18",
+        "text": "Keegan Murray is not eligible to be traded after his extension this fall, but even if he were, league sources have adamantly said he\u2019s off limits.FanSided",
+        "outlet": "FanSided",
+        "source_url": "https://fansided.com/nba/nba-insider-trade-rumors-anthony-davis-ja-morant"
+      }
+    ],
+    "Charles Lee": [
+      {
+        "date": "2025-11-21",
+        "text": "Those words were music to the ears of the Hornets\u2019 second-year coach.\u201cI\u2019m glad to hear what he had to say because I would echo a lot of same things,\u201d Charles Lee said. \u201cOur relationship, our ability to have communication between myself, Melo and Jeff (Peterson, the team\u2019s president of basketball operations), it\u2019s really hot.And I think that he\u2019s always communicated to us. \u201cHe wants to build this thing with us. He understands what it\u2019s going to take to try to win and who we need in the building a",
+        "outlet": "Charlotte Observer",
+        "source_url": "https://www.charlotteobserver.com/sports/charlotte-hornets/article312743904.html"
+      }
+    ],
+    "Nikola Vucevic": [
+      {
+        "date": "2025-11-21",
+        "text": "The Bulls could go in a few directions over the next several months, including adding to the current roster.That has led some sources to speculate whether Chicago, with over $80 million in expiring money, could be a suitor for Dallas' Anthony Davis and bring the Windy City native home. \u2018I could see it,\u2019 a West executive, who recently saw Chicago play, said. \u2018[Josh] Giddey has worked well with Vucevic, but he could use a roll man to throw it up to.ESPN",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/47039949/nba-first-month-lessons-intel-thunder-lakers-warriors-knicks-every-team"
+      }
+    ],
+    "Josh Giddey": [
+      {
+        "date": "2025-11-21",
+        "text": "The Bulls could go in a few directions over the next several months, including adding to the current roster.That has led some sources to speculate whether Chicago, with over $80 million in expiring money, could be a suitor for Dallas' Anthony Davis and bring the Windy City native home. \u2018I could see it,\u2019 a West executive, who recently saw Chicago play, said. \u2018[Josh] Giddey has worked well with Vucevic, but he could use a roll man to throw it up to.ESPN",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/47039949/nba-first-month-lessons-intel-thunder-lakers-warriors-knicks-every-team"
+      }
+    ],
+    "Mark Cuban": [
+      {
+        "date": "2025-11-19",
+        "text": "Dallas Mavericks minority owner Mark Cuban told The Athletic the franchise would not try to trade Anthony Davis this season.\u201cWe won\u2019t. We want to try to win,\u201d Cuban said Wednesday in an email when asked if he and Mavericks governor Patrick Dumont would seek a deal for Davis, the oft-injured, 10-time All-Star who was the centerpiece for Dallas in last season\u2019s Luka Don\u010di\u0107 trade.New York Times",
+        "outlet": "New York Times",
+        "source_url": "https://www.nytimes.com/athletic/6820984/2025/11/19/mavericks-anthony-davis-trade-mark-cuban/?source=emp_shared_article"
+      }
+    ],
+    "Kevin Love": [
+      {
+        "date": "2025-11-18",
+        "text": "Dave McMenamin:\u201cWe need him.\u201dUtah Jazz coach Will Hardy gives an impassioned 2 1/2 minute answer about the importance of Kevin Love with his team after the 18-year veteran landed in Utah after an unexpected trade from Miami in the offseason.x.com",
+        "outlet": "x.com",
+        "source_url": "https://x.com/mcten/status/1990966027216433244"
+      }
+    ],
+    "Will Hardy": [
+      {
+        "date": "2025-11-18",
+        "text": "Dave McMenamin:\u201cWe need him.\u201dUtah Jazz coach Will Hardy gives an impassioned 2 1/2 minute answer about the importance of Kevin Love with his team after the 18-year veteran landed in Utah after an unexpected trade from Miami in the offseason.x.com",
+        "outlet": "x.com",
+        "source_url": "https://x.com/mcten/status/1990966027216433244"
+      }
+    ],
+    "Isaiah Thomas": [
+      {
+        "date": "2025-11-18",
+        "text": "Isaiah Thomas: It was obviously a tough situation. I felt like I gave my heart to this city, to this organization. To be a franchise player and then get traded out of nowhere \u2014 especially while I was hurt \u2014 that hit hard. But out of all people, I understood the business. People would always say, \u2018Ah, you keep bringing it up,\u2019 but it was the media bringing it up. I wasn\u2019t talking about it \u2014 I just had to answer the questions.At the end of the day, I\u2019m human. I had real feelings. I had real love f",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=3Ij9Kx7E4Rs"
+      }
+    ],
+    "Carlos Delfino": [
+      {
+        "date": "2025-11-17",
+        "text": "Carlos Delfino: \"When I got injured, I was still on Milwaukee\u2019s roster of 15, but then they cut me and traded me to the Clippers. That contract became the first one in league history to be handled using the Stretch Provision.After that, bye. Yes, the Clippers contract was respected. First of the month and day 15 I earned a check, but never again. Those things happened a long time agoYouTube",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=waSdfTnodvA&t=3298s"
+      }
+    ],
+    "Dereck Lively": [
+      {
+        "date": "2025-11-16",
+        "text": "Daniel Gafford is widely regarded as the most tradeable Maverick between now and the Feb. 5 trade deadline in Year 1 of a three-year deal worth $54.4 million, but the injuries that have frequently derailed Davis and Dereck Lively II add a layer of complication even to Gafford's status.marcstein.substack.com",
+        "outlet": "marcstein.substack.com",
+        "source_url": "https://marcstein.substack.com/p/sunday-best-the-pelicans-mavericks"
+      }
+    ],
+    "John Wall": [
+      {
+        "date": "2025-11-14",
+        "text": "Wall, who played alongside Davis during their college days at Kentucky, further fueled speculation by linking him to his hometown team.\u201cYou can\u2019t believe everything you hear on the news, but you be hearing that he wants to go back to Chicago and see what\u2019s going on,\u201d Wall continued.\u201cSo, I think they\u2019re trying to blow it up and build around Cooper Flagg and get rid of some of the other pieces, but they are one of those dark horse teams if they can stay healthy \u2014 keep AD there and let Kyrie come b",
+        "outlet": "Yahoo! Sports",
+        "source_url": "https://sports.yahoo.com/article/nba-rumors-john-wall-claims-174816057.html"
+      },
+      {
+        "date": "2025-11-13",
+        "text": "Run It Back:John Wall believes Anthony Davis is done with Dallas and wants to see AD traded ?\"You been hearing he wants to go back to Chicago and see what's going on.\"x.com",
+        "outlet": "x.com",
+        "source_url": "https://x.com/RunItBackFDTV/status/1988993042569675134?s=20"
+      }
+    ],
+    "Jalen Brunson": [
+      {
+        "date": "2025-11-12",
+        "text": "But there have been some basketball rumors floating around\u2014specifically, about Giannis potentially coming to the Knicks.What are your thoughts about playing in Milwaukee? Jalen Brunson: I plead the fifth.YouTube",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=drA-fLU8HqA"
+      }
+    ]
+  },
+  "daily_counts": {
+    "Ja Morant": {
+      "2025-12-10": 1,
+      "2025-12-08": 1,
+      "2025-12-03": 2,
+      "2025-12-02": 1,
+      "2025-11-26": 1,
+      "2025-11-24": 1,
+      "2025-11-21": 1,
+      "2025-11-18": 2,
+      "2025-11-13": 3
+    },
+    "Zach Kleiman": {
+      "2025-12-10": 1,
+      "2025-11-26": 1
+    },
+    "Tuomas Iisalo": {
+      "2025-12-10": 1,
+      "2025-11-26": 1
+    },
+    "Rich Paul": {
+      "2025-12-10": 1,
+      "2025-12-09": 1,
+      "2025-11-12": 2
+    },
+    "Giannis Antetokounmpo": {
+      "2025-12-10": 1,
+      "2025-12-09": 4,
+      "2025-12-08": 5,
+      "2025-12-06": 1,
+      "2025-12-05": 1,
+      "2025-12-04": 7,
+      "2025-12-03": 11,
+      "2025-11-26": 1
+    },
+    "Domantas Sabonis": {
+      "2025-12-09": 2,
+      "2025-11-26": 1,
+      "2025-11-23": 1,
+      "2025-11-14": 1,
+      "2025-11-12": 1
+    },
+    "Jonathan Kuminga": {
+      "2025-12-09": 2,
+      "2025-12-08": 2,
+      "2025-11-26": 1,
+      "2025-11-20": 1
+    },
+    "Chris Paul": {
+      "2025-12-09": 1
+    },
+    "Chauncey Billups": {
+      "2025-12-09": 1
+    },
+    "Terry Rozier": {
+      "2025-12-09": 2,
+      "2025-12-08": 3,
+      "2025-11-21": 1
+    },
+    "LeBron James": {
+      "2025-12-09": 1
+    },
+    "Klay Thompson": {
+      "2025-12-09": 2
+    },
+    "Anthony Davis": {
+      "2025-12-09": 1,
+      "2025-12-05": 2,
+      "2025-12-01": 1,
+      "2025-11-28": 1,
+      "2025-11-27": 1,
+      "2025-11-26": 3,
+      "2025-11-24": 1,
+      "2025-11-23": 1,
+      "2025-11-21": 1,
+      "2025-11-20": 1,
+      "2025-11-19": 3,
+      "2025-11-18": 2,
+      "2025-11-17": 2,
+      "2025-11-14": 4,
+      "2025-11-13": 1,
+      "2025-11-12": 4
+    },
+    "D'Angelo Russell": {
+      "2025-12-09": 2,
+      "2025-11-27": 1
+    },
+    "Daniel Gafford": {
+      "2025-12-09": 2,
+      "2025-11-16": 1
+    },
+    "Alex Saratsis": {
+      "2025-12-09": 1,
+      "2025-12-03": 1
+    },
+    "DeMar DeRozan": {
+      "2025-12-09": 1,
+      "2025-11-24": 1
+    },
+    "Scott Perry": {
+      "2025-12-09": 1
+    },
+    "Zach LaVine": {
+      "2025-12-09": 1,
+      "2025-12-01": 1,
+      "2025-11-26": 1
+    },
+    "Keon Ellis": {
+      "2025-12-09": 1,
+      "2025-12-07": 1,
+      "2025-12-01": 1,
+      "2025-11-26": 1,
+      "2025-11-23": 1,
+      "2025-11-18": 1
+    },
+    "Karl-Anthony Towns": {
+      "2025-12-09": 1
+    },
+    "Luka Doncic": {
+      "2025-12-09": 1
+    },
+    "Myles Turner": {
+      "2025-12-09": 1
+    },
+    "Walker Kessler": {
+      "2025-12-09": 1
+    },
+    "Malik Monk": {
+      "2025-12-08": 1
+    },
+    "NBA Cup": {
+      "2025-12-08": 1
+    },
+    "Pelle Larsson": {
+      "2025-12-08": 1
+    },
+    "Andrew Wiggins": {
+      "2025-12-08": 1,
+      "2025-11-26": 1
+    },
+    "Kel'el Ware": {
+      "2025-12-08": 1
+    },
+    "Kyrie Irving": {
+      "2025-12-08": 1,
+      "2025-11-27": 2,
+      "2025-11-14": 2
+    },
+    "James Harden": {
+      "2025-12-06": 1,
+      "2025-12-05": 1
+    },
+    "Zion Williamson": {
+      "2025-12-06": 1
+    },
+    "Herb Jones": {
+      "2025-12-06": 2
+    },
+    "Trey Murphy": {
+      "2025-12-06": 2
+    },
+    "Kawhi Leonard": {
+      "2025-12-05": 1
+    },
+    "Stephon Castle": {
+      "2025-12-04": 1
+    },
+    "Dylan Harper": {
+      "2025-12-04": 1
+    },
+    "AJ Dybantsa": {
+      "2025-12-04": 1
+    },
+    "Lawrence Frank": {
+      "2025-12-04": 1
+    },
+    "Ivica Zubac": {
+      "2025-12-04": 1
+    },
+    "Kevin Porter": {
+      "2025-12-04": 2
+    },
+    "Bobby Portis": {
+      "2025-12-04": 1
+    },
+    "Jon Horst": {
+      "2025-12-03": 1
+    },
+    "LaMelo Ball": {
+      "2025-12-03": 2,
+      "2025-11-24": 2,
+      "2025-11-23": 1,
+      "2025-11-22": 1,
+      "2025-11-21": 3,
+      "2025-11-20": 3
+    },
+    "Trae Young": {
+      "2025-12-03": 2,
+      "2025-11-24": 1
+    },
+    "Lauri Markkanen": {
+      "2025-12-01": 1,
+      "2025-11-18": 1
+    },
+    "Anfernee Simons": {
+      "2025-11-30": 1,
+      "2025-11-26": 2
+    },
+    "Sam Hauser": {
+      "2025-11-30": 1,
+      "2025-11-26": 1
+    },
+    "Jason Kidd": {
+      "2025-11-28": 1
+    },
+    "Max Christie": {
+      "2025-11-28": 1
+    },
+    "Russell Westbrook": {
+      "2025-11-27": 1
+    },
+    "Brandon Ingram": {
+      "2025-11-27": 1
+    },
+    "Josh Hart": {
+      "2025-11-27": 1
+    },
+    "Andre Miller": {
+      "2025-11-27": 1
+    },
+    "Devin Booker": {
+      "2025-11-27": 1
+    },
+    "Nico Harrison": {
+      "2025-11-26": 1,
+      "2025-11-19": 1,
+      "2025-11-12": 1
+    },
+    "Patrick Dumont": {
+      "2025-11-26": 1,
+      "2025-11-19": 1,
+      "2025-11-12": 2
+    },
+    "Buddy Hield": {
+      "2025-11-26": 1
+    },
+    "Tyrese Haliburton": {
+      "2025-11-26": 1
+    },
+    "Robert Williams": {
+      "2025-11-26": 1
+    },
+    "Nick Richards": {
+      "2025-11-26": 1
+    },
+    "Lonzo Ball": {
+      "2025-11-26": 1
+    },
+    "Anthony Edwards": {
+      "2025-11-26": 1
+    },
+    "Jaden McDaniels": {
+      "2025-11-26": 1
+    },
+    "Vivek Ranadive": {
+      "2025-11-26": 1
+    },
+    "Kyle Kuzma": {
+      "2025-11-26": 1
+    },
+    "Keegan Murray": {
+      "2025-11-23": 1,
+      "2025-11-18": 1
+    },
+    "Charles Lee": {
+      "2025-11-21": 1
+    },
+    "Nikola Vucevic": {
+      "2025-11-21": 1
+    },
+    "Josh Giddey": {
+      "2025-11-21": 1
+    },
+    "Mark Cuban": {
+      "2025-11-19": 1
+    },
+    "Kevin Love": {
+      "2025-11-18": 1
+    },
+    "Will Hardy": {
+      "2025-11-18": 1
+    },
+    "Isaiah Thomas": {
+      "2025-11-18": 1
+    },
+    "Carlos Delfino": {
+      "2025-11-17": 1
+    },
+    "Dereck Lively": {
+      "2025-11-16": 1
+    },
+    "John Wall": {
+      "2025-11-14": 1,
+      "2025-11-13": 1
+    },
+    "Jalen Brunson": {
+      "2025-11-12": 1
+    }
+  }
 }
