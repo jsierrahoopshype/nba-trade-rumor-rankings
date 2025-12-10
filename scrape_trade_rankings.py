@@ -2,6 +2,7 @@
 """
 NBA Trade Rumor Rankings Scraper
 Scrapes trade rumors from HoopsHype and ranks players by mention frequency.
+Only includes players from nba_players.txt - no guessing.
 """
 
 import os
@@ -24,60 +25,26 @@ WEIGHT_WEEK1 = 1.0    # Last 7 days
 WEIGHT_WEEK2 = 0.5    # Days 8-14
 WEIGHT_WEEKS3_4 = 0.25  # Days 15-28
 
-# Known non-player tags to exclude
-NON_PLAYER_TAGS = {
-    # Teams
-    'atlanta hawks', 'boston celtics', 'brooklyn nets', 'charlotte hornets',
-    'chicago bulls', 'cleveland cavaliers', 'dallas mavericks', 'denver nuggets',
-    'detroit pistons', 'golden state warriors', 'houston rockets', 'indiana pacers',
-    'los angeles clippers', 'los angeles lakers', 'memphis grizzlies', 'miami heat',
-    'milwaukee bucks', 'minnesota timberwolves', 'new orleans pelicans', 'new york knicks',
-    'oklahoma city thunder', 'orlando magic', 'philadelphia 76ers', 'phoenix suns',
-    'portland trail blazers', 'sacramento kings', 'san antonio spurs', 'toronto raptors',
-    'utah jazz', 'washington wizards', 'golden state warrior',
-    # Topics
-    'trade', 'free agency', 'draft', 'injury', 'extension', 'contract', 'buyout',
-    'waiver', 'signing', 'rumors', 'news', 'update', 'report',
-    # Other
-    'team usa', 'nba', 'euroleague'
-}
-
 
 def load_known_players():
-    """Load known NBA players from file if it exists."""
+    """Load known NBA players from file. Returns set of lowercase names."""
     players = set()
     player_file = 'nba_players.txt'
     if os.path.exists(player_file):
         with open(player_file, 'r') as f:
             for line in f:
                 name = line.strip()
-                if name:
+                # Skip header or empty lines
+                if name and name.upper() != 'PLAYER':
                     players.add(name.lower())
+    print(f"Loaded {len(players)} known players from {player_file}")
     return players
 
 
 def is_player_tag(tag_text, known_players):
-    """Determine if a tag represents a player name."""
+    """Check if tag is a known player. Strict matching only."""
     tag_lower = tag_text.lower().strip()
-    
-    # Exclude known non-player tags
-    if tag_lower in NON_PLAYER_TAGS:
-        return False
-    
-    # Check against known players list
-    if tag_lower in known_players:
-        return True
-    
-    # Heuristic: Player names typically have 2-4 words, all capitalized
-    words = tag_text.strip().split()
-    if len(words) >= 2 and len(words) <= 4:
-        # Check if it looks like a name (capitalized words)
-        if all(word[0].isupper() for word in words if word):
-            # Additional check: not a team name pattern
-            if not any(team_word in tag_lower for team_word in ['ers', 'ics', 'ets', 'awks', 'ulls', 'avs', 'eat', 'ucks', 'azz', 'ings', 'urs', 'uns', 'ets']):
-                return True
-    
-    return False
+    return tag_lower in known_players
 
 
 def parse_date(date_str):
@@ -109,13 +76,10 @@ def scrape_page(session, url, known_players, auth):
         # Track current date as we parse
         current_date = None
         
-        # Find all date holders first and map their positions
+        # Find all date holders and rumor divs
         date_holders = soup.find_all('div', class_='date-holder')
-        print(f"    Found {len(date_holders)} date holders")
-        
-        # Find all rumor divs
         rumor_divs = soup.find_all('div', class_='rumor')
-        print(f"    Found {len(rumor_divs)} rumor divs")
+        print(f"    Found {len(date_holders)} date holders, {len(rumor_divs)} rumors")
         
         # Process date holders and rumors in document order
         all_elements = soup.find_all('div', class_=['date-holder', 'rumor'])
@@ -148,7 +112,7 @@ def scrape_page(session, url, known_players, auth):
                 source_elem = element.find('a', class_='quote') or element.find('a', class_='rumormedia')
                 source_url = source_elem.get('href', '') if source_elem else ""
                 
-                # Find player tags
+                # Find player tags - STRICT matching only
                 tag_div = element.find('div', class_='tag')
                 players_in_rumor = []
                 
@@ -163,7 +127,7 @@ def scrape_page(session, url, known_players, auth):
                     rumors.append({
                         'date': current_date.isoformat(),
                         'player': player,
-                        'text': rumor_text[:500],  # Truncate long text
+                        'text': rumor_text,  # Full text, no truncation
                         'outlet': outlet,
                         'source_url': source_url
                     })
@@ -173,7 +137,9 @@ def scrape_page(session, url, known_players, auth):
         if pager and pager.find('a'):
             has_more = True
         
-        print(f"    Found {len(rumors)} player mentions")
+        # Count unique players found
+        unique_players = set(r['player'] for r in rumors)
+        print(f"    Found {len(rumors)} player mentions ({len(unique_players)} unique players)")
         
     except Exception as e:
         print(f"  Error scraping page: {e}")
@@ -187,7 +153,9 @@ def scrape_all_rumors(username, password):
     """Scrape all trade rumors within the time window."""
     all_rumors = []
     known_players = load_known_players()
-    print(f"Loaded {len(known_players)} known players")
+    
+    if not known_players:
+        print("WARNING: No known players loaded! Check nba_players.txt")
     
     session = requests.Session()
     auth = HTTPBasicAuth(username, password)
@@ -258,13 +226,16 @@ def calculate_rankings(rumors):
         if player_data[player]['last_mention'] is None or rumor['date'] > player_data[player]['last_mention']:
             player_data[player]['last_mention'] = rumor['date']
         
-        # Store rumor details
-        player_data[player]['rumors'].append({
-            'date': rumor['date'],
-            'text': rumor['text'],
-            'outlet': rumor['outlet'],
-            'source_url': rumor['source_url']
-        })
+        # Store rumor details (avoid duplicates for same rumor)
+        rumor_key = (rumor['date'], rumor['text'][:100])
+        existing_keys = [(r['date'], r['text'][:100]) for r in player_data[player]['rumors']]
+        if rumor_key not in existing_keys:
+            player_data[player]['rumors'].append({
+                'date': rumor['date'],
+                'text': rumor['text'],
+                'outlet': rumor['outlet'],
+                'source_url': rumor['source_url']
+            })
     
     # Calculate weighted scores
     rankings = []
