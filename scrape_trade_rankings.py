@@ -25,13 +25,10 @@ WEIGHT_WEEK1 = 1.0    # Last 7 days
 WEIGHT_WEEK2 = 0.5    # Days 8-14
 WEIGHT_WEEKS3_4 = 0.25  # Days 15-28
 
-# Player to team mapping (will be populated from tags, with fallbacks)
-PLAYER_TEAMS = {}
-
-# Fallback player-team mapping for common trade targets
-PLAYER_TEAM_FALLBACK = {
+# Accurate 2025-26 player-team mapping
+PLAYER_TEAMS_2025 = {
     'Giannis Antetokounmpo': 'Milwaukee Bucks',
-    'Anthony Davis': 'Los Angeles Lakers',
+    'Anthony Davis': 'Dallas Mavericks',
     'Ja Morant': 'Memphis Grizzlies',
     'LaMelo Ball': 'Charlotte Hornets',
     'Terry Rozier': 'Miami Heat',
@@ -39,48 +36,170 @@ PLAYER_TEAM_FALLBACK = {
     'Keon Ellis': 'Sacramento Kings',
     'Domantas Sabonis': 'Sacramento Kings',
     'Kyrie Irving': 'Dallas Mavericks',
-    "D'Angelo Russell": 'Los Angeles Lakers',
+    "D'Angelo Russell": 'Dallas Mavericks',
     'Daniel Gafford': 'Dallas Mavericks',
     'Trae Young': 'Atlanta Hawks',
-    'Zach LaVine': 'Chicago Bulls',
+    'Zach LaVine': 'Sacramento Kings',
     'Herb Jones': 'New Orleans Pelicans',
+    'Herbert Jones': 'New Orleans Pelicans',
     'James Harden': 'Los Angeles Clippers',
     'Klay Thompson': 'Dallas Mavericks',
     'Trey Murphy': 'New Orleans Pelicans',
-    'Anfernee Simons': 'Portland Trail Blazers',
-    'Andrew Wiggins': 'Golden State Warriors',
+    'Trey Murphy III': 'New Orleans Pelicans',
+    'Anfernee Simons': 'Boston Celtics',
+    'Andrew Wiggins': 'Miami Heat',
     'DeMar DeRozan': 'Sacramento Kings',
     'Sam Hauser': 'Boston Celtics',
     'Bobby Portis': 'Milwaukee Bucks',
-    'Chris Paul': 'San Antonio Spurs',
+    'Chris Paul': 'Los Angeles Clippers',
     'Ivica Zubac': 'Los Angeles Clippers',
     'Karl-Anthony Towns': 'New York Knicks',
     'Kawhi Leonard': 'Los Angeles Clippers',
     "Kel'el Ware": 'Miami Heat',
     'LeBron James': 'Los Angeles Lakers',
-    'Luka Doncic': 'Dallas Mavericks',
+    'Luka Doncic': 'Los Angeles Lakers',
+    'Luka Dončić': 'Los Angeles Lakers',
     'Malik Monk': 'Sacramento Kings',
-    'Myles Turner': 'Indiana Pacers',
-    'Pelle Larsson': 'Sacramento Kings',
+    'Myles Turner': 'Milwaukee Bucks',
+    'Pelle Larsson': 'Miami Heat',
     'Stephon Castle': 'San Antonio Spurs',
     'Walker Kessler': 'Utah Jazz',
     'Zion Williamson': 'New Orleans Pelicans',
     'Lauri Markkanen': 'Utah Jazz',
     'Keegan Murray': 'Sacramento Kings',
     'Anthony Edwards': 'Minnesota Timberwolves',
-    'Brandon Ingram': 'New Orleans Pelicans',
+    'Brandon Ingram': 'Toronto Raptors',
     'Buddy Hield': 'Golden State Warriors',
     'Devin Booker': 'Phoenix Suns',
     'Jaden McDaniels': 'Minnesota Timberwolves',
     'Josh Hart': 'New York Knicks',
-    'Kyle Kuzma': 'Washington Wizards',
-    'Lonzo Ball': 'Chicago Bulls',
-    'Max Christie': 'Los Angeles Lakers',
-    'Nick Richards': 'Charlotte Hornets',
+    'Kyle Kuzma': 'Milwaukee Bucks',
+    'Lonzo Ball': 'Cleveland Cavaliers',
+    'Max Christie': 'Dallas Mavericks',
+    'Nick Richards': 'Phoenix Suns',
     'Robert Williams': 'Portland Trail Blazers',
-    'Kevin Porter': 'Cleveland Cavaliers',
-    'Dylan Harper': 'Rutgers',  # College prospect
+    'Robert Williams III': 'Portland Trail Blazers',
+    'Kevin Porter': 'Milwaukee Bucks',
+    'Kevin Porter Jr.': 'Milwaukee Bucks',
+    'Dylan Harper': 'San Antonio Spurs',
+    'Julius Randle': 'Minnesota Timberwolves',
+    'Pascal Siakam': 'Indiana Pacers',
+    'Jimmy Butler': 'Golden State Warriors',
+    'Jimmy Butler III': 'Golden State Warriors',
+    'Bradley Beal': 'Los Angeles Clippers',
+    'Dejounte Murray': 'New Orleans Pelicans',
+    'Nikola Vucevic': 'Chicago Bulls',
+    'Nikola Vučević': 'Chicago Bulls',
+    'Marcus Smart': 'Los Angeles Lakers',
+    'Jarrett Allen': 'Cleveland Cavaliers',
+    'Collin Sexton': 'Charlotte Hornets',
+    'Jordan Clarkson': 'New York Knicks',
+    'John Collins': 'Los Angeles Clippers',
+    'Cameron Johnson': 'Denver Nuggets',
+    'Dorian Finney-Smith': 'Los Angeles Lakers',
+    'Bruce Brown': 'Denver Nuggets',
+    'Jakob Poeltl': 'Toronto Raptors',
+    'OG Anunoby': 'New York Knicks',
+    'Mikal Bridges': 'New York Knicks',
+    'Jalen Brunson': 'New York Knicks',
+    'Tyrese Haliburton': 'Indiana Pacers',
+    'Cade Cunningham': 'Detroit Pistons',
+    'Scottie Barnes': 'Toronto Raptors',
+    'Evan Mobley': 'Cleveland Cavaliers',
+    'Franz Wagner': 'Orlando Magic',
+    'Paolo Banchero': 'Orlando Magic',
+    'Victor Wembanyama': 'San Antonio Spurs',
+    'Chet Holmgren': 'Oklahoma City Thunder',
+    'Shai Gilgeous-Alexander': 'Oklahoma City Thunder',
+    'Jayson Tatum': 'Boston Celtics',
+    'Jaylen Brown': 'Boston Celtics',
+    'Donovan Mitchell': 'Cleveland Cavaliers',
+    'Bam Adebayo': 'Miami Heat',
+    'Tyler Herro': 'Miami Heat',
+    "De'Aaron Fox": 'San Antonio Spurs',
+    'Alperen Sengun': 'Houston Rockets',
+    'Jalen Green': 'Phoenix Suns',
+    'Amen Thompson': 'Houston Rockets',
+    'Jabari Smith Jr.': 'Houston Rockets',
+    'Desmond Bane': 'Orlando Magic',
+    'Jaren Jackson Jr.': 'Memphis Grizzlies',
+    'Jalen Williams': 'Oklahoma City Thunder',
+    'Darius Garland': 'Cleveland Cavaliers',
+    'Coby White': 'Chicago Bulls',
+    'Ayo Dosunmu': 'Chicago Bulls',
+    'Patrick Williams': 'Chicago Bulls',
+    'Kevin Durant': 'Houston Rockets',
+    'Austin Reaves': 'Los Angeles Lakers',
+    'Jamal Murray': 'Denver Nuggets',
+    'Stephen Curry': 'Golden State Warriors',
+    'Norman Powell': 'Miami Heat',
+    'Michael Porter Jr.': 'Brooklyn Nets',
+    'Jalen Johnson': 'Atlanta Hawks',
+    'Miles Bridges': 'Charlotte Hornets',
+    'Tyrese Maxey': 'Philadelphia 76ers',
+    'Nikola Jokic': 'Denver Nuggets',
+    'Nikola Jokić': 'Denver Nuggets',
+    'Deni Avdija': 'Portland Trail Blazers',
+    'Immanuel Quickley': 'Toronto Raptors',
+    'Payton Pritchard': 'Boston Celtics',
+    'CJ McCollum': 'Washington Wizards',
+    'Derrick White': 'Boston Celtics',
+    'Dillon Brooks': 'Phoenix Suns',
+    'Jalen Duren': 'Detroit Pistons',
+    'Onyeka Okongwu': 'Atlanta Hawks',
+    'Jaime Jaquez Jr.': 'Miami Heat',
+    'Deandre Ayton': 'Los Angeles Lakers',
+    'Naz Reid': 'Minnesota Timberwolves',
+    'P.J. Washington': 'Dallas Mavericks',
+    'Donte DiVincenzo': 'Minnesota Timberwolves',
+    'Santi Aldama': 'Memphis Grizzlies',
+    'Naji Marshall': 'Dallas Mavericks',
+    'Brandin Podziemski': 'Golden State Warriors',
+    'Nic Claxton': 'Brooklyn Nets',
+    'Harrison Barnes': 'San Antonio Spurs',
+    'Rui Hachimura': 'Los Angeles Lakers',
+    'Alex Sarr': 'Washington Wizards',
+    'Jalen Suggs': 'Orlando Magic',
+    'Keldon Johnson': 'San Antonio Spurs',
+    'Andrew Nembhard': 'Indiana Pacers',
+    'Wendell Carter Jr.': 'Orlando Magic',
+    'Bennedict Mathurin': 'Indiana Pacers',
+    'Reed Sheppard': 'Houston Rockets',
+    'Grayson Allen': 'Phoenix Suns',
+    'Dyson Daniels': 'Atlanta Hawks',
+    'Moses Moody': 'Golden State Warriors',
+    'Rudy Gobert': 'Minnesota Timberwolves',
+    'Mark Williams': 'Phoenix Suns',
+    'Aaron Gordon': 'Denver Nuggets',
+    'Zaccharie Risacher': 'Atlanta Hawks',
+    'Gary Trent Jr.': 'Milwaukee Bucks',
+    'Isaiah Hartenstein': 'Oklahoma City Thunder',
+    'Miles McBride': 'New York Knicks',
+    'Dennis Schröder': 'Sacramento Kings',
+    'Zach Edey': 'Memphis Grizzlies',
+    'Vince Williams Jr.': 'Memphis Grizzlies',
+    'Cam Thomas': 'Brooklyn Nets',
+    'Gradey Dick': 'Toronto Raptors',
+    'Draymond Green': 'Golden State Warriors',
+    'Joel Embiid': 'Philadelphia 76ers',
+    'Paul George': 'Philadelphia 76ers',
+    'Jared McCain': 'Philadelphia 76ers',
+    'Kelly Oubre Jr.': 'Philadelphia 76ers',
+    'Brook Lopez': 'Los Angeles Clippers',
+    'Jrue Holiday': 'Portland Trail Blazers',
+    'Tobias Harris': 'Detroit Pistons',
+    'Jonas Valančiūnas': 'Denver Nuggets',
+    'Kentavious Caldwell-Pope': 'Memphis Grizzlies',
+    'Christian Braun': 'Denver Nuggets',
+    'Dalton Knecht': 'Los Angeles Lakers',
+    'Cooper Flagg': 'Dallas Mavericks',
+    'Ace Bailey': 'Utah Jazz',
+    'Tre Johnson': 'Washington Wizards',
+    'Caleb Martin': 'Dallas Mavericks',
 }
+
+# Runtime team mapping (populated during scrape)
+PLAYER_TEAMS = {}
 
 
 def load_known_players():
@@ -122,6 +241,18 @@ def get_team_from_tags(tag_div):
             if tag_text in team_names:
                 return tag_text
     return None
+
+
+def get_player_team(player_name, tag_team=None):
+    """Get team for a player, prioritizing our accurate 2024-25 mapping."""
+    # First check our accurate mapping
+    if player_name in PLAYER_TEAMS_2025:
+        return PLAYER_TEAMS_2025[player_name]
+    # Then check runtime mapping from tags
+    if player_name in PLAYER_TEAMS:
+        return PLAYER_TEAMS[player_name]
+    # Finally use the tag team if available
+    return tag_team
 
 
 def parse_date(date_str):
@@ -224,7 +355,7 @@ def scrape_page(session, url, known_players, auth):
                 
                 # Find tags and team
                 tag_div = element.find('div', class_='tag')
-                team = get_team_from_tags(tag_div)
+                tag_team = get_team_from_tags(tag_div)
                 
                 # Find player tags
                 players_in_rumor = []
@@ -233,14 +364,14 @@ def scrape_page(session, url, known_players, auth):
                         tag_text = tag_link.get_text(strip=True)
                         if is_player_tag(tag_text, known_players):
                             players_in_rumor.append(tag_text)
-                            # Store player-team mapping
-                            if team and tag_text not in PLAYER_TEAMS:
-                                PLAYER_TEAMS[tag_text] = team
+                            # Store player-team mapping from tags (as backup)
+                            if tag_team and tag_text not in PLAYER_TEAMS:
+                                PLAYER_TEAMS[tag_text] = tag_team
                 
                 # Create rumor entry for each player
                 for player in players_in_rumor:
-                    # Get team from tags, or use fallback mapping
-                    player_team = PLAYER_TEAMS.get(player) or team or PLAYER_TEAM_FALLBACK.get(player)
+                    # Get team using our priority system
+                    player_team = get_player_team(player, tag_team)
                     rumors.append({
                         'date': current_date.isoformat(),
                         'player': player,
@@ -336,9 +467,9 @@ def calculate_rankings(rumors):
         player_data[player]['total_mentions'] += 1
         player_data[player]['daily_counts'][rumor['date']] += 1
         
-        # Store team
-        if rumor.get('team') and not player_data[player]['team']:
-            player_data[player]['team'] = rumor['team']
+        # Store team (use our mapping)
+        if not player_data[player]['team']:
+            player_data[player]['team'] = get_player_team(player, rumor.get('team'))
         
         if player_data[player]['first_mention'] is None or rumor['date'] < player_data[player]['first_mention']:
             player_data[player]['first_mention'] = rumor['date']
@@ -414,7 +545,7 @@ def main():
     
     print(f"\nTop 10 Players:")
     for r in rankings[:10]:
-        print(f"  {r['rank']}. {r['player']}: {r['score']} pts ({r['total_mentions']} mentions)")
+        print(f"  {r['rank']}. {r['player']} ({r['team']}): {r['score']} pts ({r['total_mentions']} mentions)")
     
     today = datetime.now().date()
     window_start = today - timedelta(days=SCRAPE_WINDOW_DAYS)
