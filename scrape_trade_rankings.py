@@ -25,8 +25,62 @@ WEIGHT_WEEK1 = 1.0    # Last 7 days
 WEIGHT_WEEK2 = 0.5    # Days 8-14
 WEIGHT_WEEKS3_4 = 0.25  # Days 15-28
 
-# Player to team mapping (will be populated from tags)
+# Player to team mapping (will be populated from tags, with fallbacks)
 PLAYER_TEAMS = {}
+
+# Fallback player-team mapping for common trade targets
+PLAYER_TEAM_FALLBACK = {
+    'Giannis Antetokounmpo': 'Milwaukee Bucks',
+    'Anthony Davis': 'Los Angeles Lakers',
+    'Ja Morant': 'Memphis Grizzlies',
+    'LaMelo Ball': 'Charlotte Hornets',
+    'Terry Rozier': 'Miami Heat',
+    'Jonathan Kuminga': 'Golden State Warriors',
+    'Keon Ellis': 'Sacramento Kings',
+    'Domantas Sabonis': 'Sacramento Kings',
+    'Kyrie Irving': 'Dallas Mavericks',
+    "D'Angelo Russell": 'Los Angeles Lakers',
+    'Daniel Gafford': 'Dallas Mavericks',
+    'Trae Young': 'Atlanta Hawks',
+    'Zach LaVine': 'Chicago Bulls',
+    'Herb Jones': 'New Orleans Pelicans',
+    'James Harden': 'Los Angeles Clippers',
+    'Klay Thompson': 'Dallas Mavericks',
+    'Trey Murphy': 'New Orleans Pelicans',
+    'Anfernee Simons': 'Portland Trail Blazers',
+    'Andrew Wiggins': 'Golden State Warriors',
+    'DeMar DeRozan': 'Sacramento Kings',
+    'Sam Hauser': 'Boston Celtics',
+    'Bobby Portis': 'Milwaukee Bucks',
+    'Chris Paul': 'San Antonio Spurs',
+    'Ivica Zubac': 'Los Angeles Clippers',
+    'Karl-Anthony Towns': 'New York Knicks',
+    'Kawhi Leonard': 'Los Angeles Clippers',
+    "Kel'el Ware": 'Miami Heat',
+    'LeBron James': 'Los Angeles Lakers',
+    'Luka Doncic': 'Dallas Mavericks',
+    'Malik Monk': 'Sacramento Kings',
+    'Myles Turner': 'Indiana Pacers',
+    'Pelle Larsson': 'Sacramento Kings',
+    'Stephon Castle': 'San Antonio Spurs',
+    'Walker Kessler': 'Utah Jazz',
+    'Zion Williamson': 'New Orleans Pelicans',
+    'Lauri Markkanen': 'Utah Jazz',
+    'Keegan Murray': 'Sacramento Kings',
+    'Anthony Edwards': 'Minnesota Timberwolves',
+    'Brandon Ingram': 'New Orleans Pelicans',
+    'Buddy Hield': 'Golden State Warriors',
+    'Devin Booker': 'Phoenix Suns',
+    'Jaden McDaniels': 'Minnesota Timberwolves',
+    'Josh Hart': 'New York Knicks',
+    'Kyle Kuzma': 'Washington Wizards',
+    'Lonzo Ball': 'Chicago Bulls',
+    'Max Christie': 'Los Angeles Lakers',
+    'Nick Richards': 'Charlotte Hornets',
+    'Robert Williams': 'Portland Trail Blazers',
+    'Kevin Porter': 'Cleveland Cavaliers',
+    'Dylan Harper': 'Rutgers',  # College prospect
+}
 
 
 def load_known_players():
@@ -185,6 +239,8 @@ def scrape_page(session, url, known_players, auth):
                 
                 # Create rumor entry for each player
                 for player in players_in_rumor:
+                    # Get team from tags, or use fallback mapping
+                    player_team = PLAYER_TEAMS.get(player) or team or PLAYER_TEAM_FALLBACK.get(player)
                     rumors.append({
                         'date': current_date.isoformat(),
                         'player': player,
@@ -192,7 +248,7 @@ def scrape_page(session, url, known_players, auth):
                         'text_html': rumor_html,
                         'outlet': outlet,
                         'source_url': source_url,
-                        'team': PLAYER_TEAMS.get(player, team)
+                        'team': player_team
                     })
         
         # Check for next page
