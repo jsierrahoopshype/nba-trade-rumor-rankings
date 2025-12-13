@@ -1,16 +1,16 @@
 {
-  "generated_at": "2025-12-12T19:17:30.056993",
+  "generated_at": "2025-12-13T02:43:39.574397",
   "scrape_window_days": 28,
-  "window_start": "2025-11-14",
-  "window_end": "2025-12-12",
-  "total_rumors": 216,
-  "total_players": 67,
+  "window_start": "2025-11-15",
+  "window_end": "2025-12-13",
+  "total_rumors": 218,
+  "total_players": 69,
   "rankings": [
     {
       "player": "Giannis Antetokounmpo",
-      "score": 27.25,
-      "mentions_week1": 18,
-      "mentions_week2": 18,
+      "score": 26.75,
+      "mentions_week1": 17,
+      "mentions_week2": 19,
       "mentions_weeks3_4": 1,
       "total_mentions": 37,
       "first_mention": "2025-11-26",
@@ -20,12 +20,12 @@
     },
     {
       "player": "Anthony Davis",
-      "score": 12.75,
-      "mentions_week1": 7,
-      "mentions_week2": 2,
-      "mentions_weeks3_4": 19,
-      "total_mentions": 28,
-      "first_mention": "2025-11-14",
+      "score": 13.5,
+      "mentions_week1": 8,
+      "mentions_week2": 3,
+      "mentions_weeks3_4": 16,
+      "total_mentions": 27,
+      "first_mention": "2025-11-17",
       "last_mention": "2025-12-12",
       "team": "Dallas Mavericks",
       "rank": 2
@@ -79,6 +79,18 @@
       "rank": 6
     },
     {
+      "player": "Daniel Gafford",
+      "score": 4.25,
+      "mentions_week1": 4,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 5,
+      "first_mention": "2025-11-16",
+      "last_mention": "2025-12-12",
+      "team": "Dallas Mavericks",
+      "rank": 7
+    },
+    {
       "player": "Herb Jones",
       "score": 4.0,
       "mentions_week1": 4,
@@ -88,7 +100,7 @@
       "first_mention": "2025-12-06",
       "last_mention": "2025-12-11",
       "team": "New Orleans Pelicans",
-      "rank": 7
+      "rank": 8
     },
     {
       "player": "Trey Murphy",
@@ -100,19 +112,19 @@
       "first_mention": "2025-12-06",
       "last_mention": "2025-12-12",
       "team": "New Orleans Pelicans",
-      "rank": 8
+      "rank": 9
     },
     {
       "player": "Domantas Sabonis",
-      "score": 3.75,
+      "score": 3.5,
       "mentions_week1": 3,
       "mentions_week2": 0,
-      "mentions_weeks3_4": 3,
-      "total_mentions": 6,
-      "first_mention": "2025-11-14",
+      "mentions_weeks3_4": 2,
+      "total_mentions": 5,
+      "first_mention": "2025-11-23",
       "last_mention": "2025-12-12",
       "team": "Sacramento Kings",
-      "rank": 9
+      "rank": 10
     },
     {
       "player": "Keon Ellis",
@@ -124,18 +136,6 @@
       "first_mention": "2025-11-18",
       "last_mention": "2025-12-09",
       "team": "Sacramento Kings",
-      "rank": 10
-    },
-    {
-      "player": "Daniel Gafford",
-      "score": 3.25,
-      "mentions_week1": 3,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 4,
-      "first_mention": "2025-11-16",
-      "last_mention": "2025-12-12",
-      "team": "Dallas Mavericks",
       "rank": 11
     },
     {
@@ -151,6 +151,18 @@
       "rank": 12
     },
     {
+      "player": "Klay Thompson",
+      "score": 3.0,
+      "mentions_week1": 3,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 3,
+      "first_mention": "2025-12-09",
+      "last_mention": "2025-12-12",
+      "team": "Dallas Mavericks",
+      "rank": 13
+    },
+    {
       "player": "Zach LaVine",
       "score": 2.75,
       "mentions_week1": 2,
@@ -160,7 +172,31 @@
       "first_mention": "2025-11-26",
       "last_mention": "2025-12-12",
       "team": "Sacramento Kings",
-      "rank": 13
+      "rank": 14
+    },
+    {
+      "player": "Kyrie Irving",
+      "score": 2.5,
+      "mentions_week1": 2,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 2,
+      "total_mentions": 4,
+      "first_mention": "2025-11-27",
+      "last_mention": "2025-12-12",
+      "team": "Dallas Mavericks",
+      "rank": 15
+    },
+    {
+      "player": "Trae Young",
+      "score": 2.25,
+      "mentions_week1": 1,
+      "mentions_week2": 2,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 4,
+      "first_mention": "2025-11-24",
+      "last_mention": "2025-12-12",
+      "team": "Atlanta Hawks",
+      "rank": 16
     },
     {
       "player": "D'Angelo Russell",
@@ -172,19 +208,7 @@
       "first_mention": "2025-11-27",
       "last_mention": "2025-12-09",
       "team": "Dallas Mavericks",
-      "rank": 14
-    },
-    {
-      "player": "Kyrie Irving",
-      "score": 2.0,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 4,
-      "total_mentions": 5,
-      "first_mention": "2025-11-14",
-      "last_mention": "2025-12-08",
-      "team": "Dallas Mavericks",
-      "rank": 15
+      "rank": 17
     },
     {
       "player": "Kevin Porter",
@@ -196,7 +220,7 @@
       "first_mention": "2025-12-04",
       "last_mention": "2025-12-10",
       "team": "Milwaukee Bucks",
-      "rank": 16
+      "rank": 18
     },
     {
       "player": "Chris Paul",
@@ -208,30 +232,6 @@
       "first_mention": "2025-12-09",
       "last_mention": "2025-12-12",
       "team": "Los Angeles Clippers",
-      "rank": 17
-    },
-    {
-      "player": "James Harden",
-      "score": 2.0,
-      "mentions_week1": 2,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 2,
-      "first_mention": "2025-12-05",
-      "last_mention": "2025-12-06",
-      "team": "Los Angeles Clippers",
-      "rank": 18
-    },
-    {
-      "player": "Klay Thompson",
-      "score": 2.0,
-      "mentions_week1": 2,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 2,
-      "first_mention": "2025-12-09",
-      "last_mention": "2025-12-09",
-      "team": "Dallas Mavericks",
       "rank": 19
     },
     {
@@ -247,6 +247,18 @@
       "rank": 20
     },
     {
+      "player": "James Harden",
+      "score": 1.5,
+      "mentions_week1": 1,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 2,
+      "first_mention": "2025-12-05",
+      "last_mention": "2025-12-06",
+      "team": "Los Angeles Clippers",
+      "rank": 21
+    },
+    {
       "player": "Stephon Castle",
       "score": 1.5,
       "mentions_week1": 1,
@@ -256,18 +268,6 @@
       "first_mention": "2025-12-04",
       "last_mention": "2025-12-10",
       "team": "San Antonio Spurs",
-      "rank": 21
-    },
-    {
-      "player": "Trae Young",
-      "score": 1.25,
-      "mentions_week1": 0,
-      "mentions_week2": 2,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 3,
-      "first_mention": "2025-11-24",
-      "last_mention": "2025-12-03",
-      "team": "Atlanta Hawks",
       "rank": 22
     },
     {
@@ -343,6 +343,18 @@
       "rank": 28
     },
     {
+      "player": "Cooper Flagg",
+      "score": 1.0,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2025-12-12",
+      "last_mention": "2025-12-12",
+      "team": "Dallas Mavericks",
+      "rank": 29
+    },
+    {
       "player": "Draymond Green",
       "score": 1.0,
       "mentions_week1": 1,
@@ -352,7 +364,7 @@
       "first_mention": "2025-12-11",
       "last_mention": "2025-12-11",
       "team": "Golden State Warriors",
-      "rank": 29
+      "rank": 30
     },
     {
       "player": "Fred VanVleet",
@@ -364,7 +376,7 @@
       "first_mention": "2025-12-11",
       "last_mention": "2025-12-11",
       "team": "Houston Rockets",
-      "rank": 30
+      "rank": 31
     },
     {
       "player": "Jaime Jaquez",
@@ -376,7 +388,7 @@
       "first_mention": "2025-12-12",
       "last_mention": "2025-12-12",
       "team": "Miami Heat",
-      "rank": 31
+      "rank": 32
     },
     {
       "player": "Jalen Duren",
@@ -388,7 +400,19 @@
       "first_mention": "2025-12-10",
       "last_mention": "2025-12-10",
       "team": "Detroit Pistons",
-      "rank": 32
+      "rank": 33
+    },
+    {
+      "player": "Jalen Johnson",
+      "score": 1.0,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2025-12-12",
+      "last_mention": "2025-12-12",
+      "team": "Atlanta Hawks",
+      "rank": 34
     },
     {
       "player": "Jose Alvarado",
@@ -400,7 +424,7 @@
       "first_mention": "2025-12-12",
       "last_mention": "2025-12-12",
       "team": "New Orleans Pelicans",
-      "rank": 33
+      "rank": 35
     },
     {
       "player": "Karl-Anthony Towns",
@@ -412,19 +436,7 @@
       "first_mention": "2025-12-09",
       "last_mention": "2025-12-09",
       "team": "New York Knicks",
-      "rank": 34
-    },
-    {
-      "player": "Kawhi Leonard",
-      "score": 1.0,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2025-12-05",
-      "last_mention": "2025-12-05",
-      "team": "Los Angeles Clippers",
-      "rank": 35
+      "rank": 36
     },
     {
       "player": "Kel'el Ware",
@@ -436,7 +448,7 @@
       "first_mention": "2025-12-08",
       "last_mention": "2025-12-08",
       "team": "Miami Heat",
-      "rank": 36
+      "rank": 37
     },
     {
       "player": "LeBron James",
@@ -448,7 +460,7 @@
       "first_mention": "2025-12-09",
       "last_mention": "2025-12-09",
       "team": "Los Angeles Lakers",
-      "rank": 37
+      "rank": 38
     },
     {
       "player": "Luka Doncic",
@@ -460,7 +472,7 @@
       "first_mention": "2025-12-09",
       "last_mention": "2025-12-09",
       "team": "Los Angeles Lakers",
-      "rank": 38
+      "rank": 39
     },
     {
       "player": "Malik Monk",
@@ -472,7 +484,7 @@
       "first_mention": "2025-12-08",
       "last_mention": "2025-12-08",
       "team": "Sacramento Kings",
-      "rank": 39
+      "rank": 40
     },
     {
       "player": "Michael Porter",
@@ -484,7 +496,7 @@
       "first_mention": "2025-12-12",
       "last_mention": "2025-12-12",
       "team": "Brooklyn Nets",
-      "rank": 40
+      "rank": 41
     },
     {
       "player": "Myles Turner",
@@ -496,7 +508,7 @@
       "first_mention": "2025-12-09",
       "last_mention": "2025-12-09",
       "team": "Milwaukee Bucks",
-      "rank": 41
+      "rank": 42
     },
     {
       "player": "Nicolas Claxton",
@@ -508,7 +520,7 @@
       "first_mention": "2025-12-12",
       "last_mention": "2025-12-12",
       "team": "Golden State Warriors",
-      "rank": 42
+      "rank": 43
     },
     {
       "player": "Pelle Larsson",
@@ -520,7 +532,7 @@
       "first_mention": "2025-12-08",
       "last_mention": "2025-12-08",
       "team": "Miami Heat",
-      "rank": 43
+      "rank": 44
     },
     {
       "player": "Tyler Herro",
@@ -532,7 +544,7 @@
       "first_mention": "2025-12-12",
       "last_mention": "2025-12-12",
       "team": "Miami Heat",
-      "rank": 44
+      "rank": 45
     },
     {
       "player": "Walker Kessler",
@@ -544,7 +556,7 @@
       "first_mention": "2025-12-09",
       "last_mention": "2025-12-09",
       "team": "Utah Jazz",
-      "rank": 45
+      "rank": 46
     },
     {
       "player": "Zion Williamson",
@@ -556,7 +568,7 @@
       "first_mention": "2025-12-06",
       "last_mention": "2025-12-06",
       "team": "New Orleans Pelicans",
-      "rank": 46
+      "rank": 47
     },
     {
       "player": "Lauri Markkanen",
@@ -568,7 +580,7 @@
       "first_mention": "2025-11-18",
       "last_mention": "2025-12-01",
       "team": "Utah Jazz",
-      "rank": 47
+      "rank": 48
     },
     {
       "player": "Sam Hauser",
@@ -580,7 +592,7 @@
       "first_mention": "2025-11-26",
       "last_mention": "2025-11-30",
       "team": "Boston Celtics",
-      "rank": 48
+      "rank": 49
     },
     {
       "player": "Keegan Murray",
@@ -592,7 +604,7 @@
       "first_mention": "2025-11-18",
       "last_mention": "2025-11-23",
       "team": "Sacramento Kings",
-      "rank": 49
+      "rank": 50
     },
     {
       "player": "Bobby Portis",
@@ -604,7 +616,7 @@
       "first_mention": "2025-12-04",
       "last_mention": "2025-12-04",
       "team": "Milwaukee Bucks",
-      "rank": 50
+      "rank": 51
     },
     {
       "player": "Ivica Zubac",
@@ -616,19 +628,19 @@
       "first_mention": "2025-12-04",
       "last_mention": "2025-12-04",
       "team": "Los Angeles Clippers",
-      "rank": 51
+      "rank": 52
     },
     {
-      "player": "Max Christie",
+      "player": "Kawhi Leonard",
       "score": 0.5,
       "mentions_week1": 0,
       "mentions_week2": 1,
       "mentions_weeks3_4": 0,
       "total_mentions": 1,
-      "first_mention": "2025-11-28",
-      "last_mention": "2025-11-28",
-      "team": "Dallas Mavericks",
-      "rank": 52
+      "first_mention": "2025-12-05",
+      "last_mention": "2025-12-05",
+      "team": "Los Angeles Clippers",
+      "rank": 53
     },
     {
       "player": "Anthony Edwards",
@@ -640,7 +652,7 @@
       "first_mention": "2025-11-26",
       "last_mention": "2025-11-26",
       "team": "Minnesota Timberwolves",
-      "rank": 53
+      "rank": 54
     },
     {
       "player": "Brandon Ingram",
@@ -652,7 +664,7 @@
       "first_mention": "2025-11-27",
       "last_mention": "2025-11-27",
       "team": "Toronto Raptors",
-      "rank": 54
+      "rank": 55
     },
     {
       "player": "Buddy Hield",
@@ -664,7 +676,7 @@
       "first_mention": "2025-11-26",
       "last_mention": "2025-11-26",
       "team": "Golden State Warriors",
-      "rank": 55
+      "rank": 56
     },
     {
       "player": "Devin Booker",
@@ -676,7 +688,7 @@
       "first_mention": "2025-11-27",
       "last_mention": "2025-11-27",
       "team": "Phoenix Suns",
-      "rank": 56
+      "rank": 57
     },
     {
       "player": "Jaden McDaniels",
@@ -688,7 +700,7 @@
       "first_mention": "2025-11-26",
       "last_mention": "2025-11-26",
       "team": "Minnesota Timberwolves",
-      "rank": 57
+      "rank": 58
     },
     {
       "player": "Josh Giddey",
@@ -700,7 +712,7 @@
       "first_mention": "2025-11-21",
       "last_mention": "2025-11-21",
       "team": "Chicago Bulls",
-      "rank": 58
+      "rank": 59
     },
     {
       "player": "Josh Hart",
@@ -712,7 +724,7 @@
       "first_mention": "2025-11-27",
       "last_mention": "2025-11-27",
       "team": "New York Knicks",
-      "rank": 59
+      "rank": 60
     },
     {
       "player": "Kevin Love",
@@ -724,7 +736,7 @@
       "first_mention": "2025-11-18",
       "last_mention": "2025-11-18",
       "team": "Miami Heat",
-      "rank": 60
+      "rank": 61
     },
     {
       "player": "Kyle Kuzma",
@@ -736,7 +748,7 @@
       "first_mention": "2025-11-26",
       "last_mention": "2025-11-26",
       "team": "Milwaukee Bucks",
-      "rank": 61
+      "rank": 62
     },
     {
       "player": "Lonzo Ball",
@@ -748,7 +760,19 @@
       "first_mention": "2025-11-26",
       "last_mention": "2025-11-26",
       "team": "Cleveland Cavaliers",
-      "rank": 62
+      "rank": 63
+    },
+    {
+      "player": "Max Christie",
+      "score": 0.25,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 1,
+      "first_mention": "2025-11-28",
+      "last_mention": "2025-11-28",
+      "team": "Dallas Mavericks",
+      "rank": 64
     },
     {
       "player": "Nick Richards",
@@ -760,7 +784,7 @@
       "first_mention": "2025-11-26",
       "last_mention": "2025-11-26",
       "team": "Phoenix Suns",
-      "rank": 63
+      "rank": 65
     },
     {
       "player": "Nikola Vucevic",
@@ -772,7 +796,7 @@
       "first_mention": "2025-11-21",
       "last_mention": "2025-11-21",
       "team": "Chicago Bulls",
-      "rank": 64
+      "rank": 66
     },
     {
       "player": "Robert Williams",
@@ -784,7 +808,7 @@
       "first_mention": "2025-11-26",
       "last_mention": "2025-11-26",
       "team": "Portland Trail Blazers",
-      "rank": 65
+      "rank": 67
     },
     {
       "player": "Russell Westbrook",
@@ -796,7 +820,7 @@
       "first_mention": "2025-11-27",
       "last_mention": "2025-11-27",
       "team": "Los Angeles Lakers",
-      "rank": 66
+      "rank": 68
     },
     {
       "player": "Tyrese Haliburton",
@@ -808,10 +832,339 @@
       "first_mention": "2025-11-26",
       "last_mention": "2025-11-26",
       "team": "Indiana Pacers",
-      "rank": 67
+      "rank": 69
     }
   ],
   "player_rumors": {
+    "Klay Thompson": [
+      {
+        "date": "2025-12-12",
+        "text": "The Mavericks\u2019 potential trade candidates have remained consistent \u2014 including a willingness to entertain offers for Anthony Davis, Klay Thompson, Daniel Gafford, and D\u2019Angelo Russell \u2014 but the team is not aggressively shopping those players, sources told DallasHoopsJournal.com.The internal view is that any deal must clearly improve Dallas\u2019 long-term outlook, whether through added flexibility, future assets, or a cleaner roster fit.Dallas Hoops Journal",
+        "text_html": "The Mavericks\u2019 potential trade candidates have remained consistent \u2014 including a willingness to entertain offers for Anthony Davis, Klay Thompson, Daniel Gafford, and D\u2019Angelo Russell \u2014 but the team is not aggressively shopping those players, sources told DallasHoopsJournal.com. <a href=\"https://dallashoopsjournal.com/p/nba-rumors-notebook-early-developments-to-monitor-about-the-dallas-mavericks-and-across-the-league/\" target=\"_blank\" style=\"color: #1a73e8;\">The internal view is that any deal must clearly improve Dallas\u2019 long-term outlook, whether through added flexibility, future assets, or a cleaner roster fit</a>.",
+        "outlet": "Dallas Hoops Journal",
+        "source_url": "https://dallashoopsjournal.com/p/nba-rumors-notebook-early-developments-to-monitor-about-the-dallas-mavericks-and-across-the-league/"
+      },
+      {
+        "date": "2025-12-09",
+        "text": "Anthony Davis\u00a0of the\u00a0Dallas Mavericks, another former NBA champion, is expected to be a\u00a0critical trade target\u00a0of several teams, including many of the East's contenders.The\u00a0Detroit Pistons,\u00a0Atlanta Hawks\u00a0and\u00a0Toronto Raptors\u00a0are expected to be suitors for Davis,league\u00a0sources\u00a0told\u00a0ESPN.ESPN",
+        "text_html": "Anthony Davis of the Dallas Mavericks, another former NBA champion, is expected to be a critical trade target of several teams, including many of the East's contenders. <a href=\"https://www.espn.com/nba/story/_/id/47245704/shams-pass-nba-trade-deadline-notes-news-buzz-anthony-davis-giannis-antetokounmpo-teams\" target=\"_blank\" style=\"color: #1a73e8;\">The Detroit Pistons, Atlanta Hawks and Toronto Raptors are expected to be suitors for Davis,</a> league sources told ESPN.",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/47245704/shams-pass-nba-trade-deadline-notes-news-buzz-anthony-davis-giannis-antetokounmpo-teams"
+      },
+      {
+        "date": "2025-12-09",
+        "text": "TheMavericks are open to exploring the trade markets for Davis, center\u00a0Daniel Gafford\u00a0and guards\u00a0Klay Thompson\u00a0and\u00a0D'Angelo Russell,\u00a0sources\u00a0said.ESPN",
+        "text_html": "The <a href=\"https://www.espn.com/nba/story/_/id/47245704/shams-pass-nba-trade-deadline-notes-news-buzz-anthony-davis-giannis-antetokounmpo-teams\" target=\"_blank\" style=\"color: #1a73e8;\">Mavericks are open to exploring the trade markets for Davis, center Daniel Gafford and guards Klay Thompson and D'Angelo Russell, sources said.</a>",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/47245704/shams-pass-nba-trade-deadline-notes-news-buzz-anthony-davis-giannis-antetokounmpo-teams"
+      }
+    ],
+    "Anthony Davis": [
+      {
+        "date": "2025-12-12",
+        "text": "The Mavericks\u2019 potential trade candidates have remained consistent \u2014 including a willingness to entertain offers for Anthony Davis, Klay Thompson, Daniel Gafford, and D\u2019Angelo Russell \u2014 but the team is not aggressively shopping those players, sources told DallasHoopsJournal.com.The internal view is that any deal must clearly improve Dallas\u2019 long-term outlook, whether through added flexibility, future assets, or a cleaner roster fit.Dallas Hoops Journal",
+        "text_html": "The Mavericks\u2019 potential trade candidates have remained consistent \u2014 including a willingness to entertain offers for Anthony Davis, Klay Thompson, Daniel Gafford, and D\u2019Angelo Russell \u2014 but the team is not aggressively shopping those players, sources told DallasHoopsJournal.com. <a href=\"https://dallashoopsjournal.com/p/nba-rumors-notebook-early-developments-to-monitor-about-the-dallas-mavericks-and-across-the-league/\" target=\"_blank\" style=\"color: #1a73e8;\">The internal view is that any deal must clearly improve Dallas\u2019 long-term outlook, whether through added flexibility, future assets, or a cleaner roster fit</a>.",
+        "outlet": "Dallas Hoops Journal",
+        "source_url": "https://dallashoopsjournal.com/p/nba-rumors-notebook-early-developments-to-monitor-about-the-dallas-mavericks-and-across-the-league/"
+      },
+      {
+        "date": "2025-12-12",
+        "text": "But obviously with all the noise we know about A.D, do you think a divorce or you know, obviously a trade is inevitable or is that something that could be avoided? Grant Afseth: I think honestly it's fluid depending on what offers come in.My understanding of the sentiment right now, I don't think it's like a we absolutely have to get rid of Anthony Davis, by any means necessary before the deadline hits. I think it's definitely going to be a matter of. Is there a trade offer that comes through that we deem acceptable?And if that is a good trade for us to make to build around Cooper Flagg, then, you know, perhaps pull the trigger, but I think, that's going to be a matter of external factors.Youtube",
+        "text_html": "But obviously with all the noise we know about A.D, do you think a divorce or you know, obviously a trade is inevitable or is that something that could be avoided? Grant Afseth: I think honestly it's fluid depending on what offers come in. <a href=\"https://youtu.be/sEPja1PuIH4?si=G9cM2JWLbG1pVvS2\" target=\"_blank\" style=\"color: #1a73e8;\">My understanding of the sentiment right now, I don't think it's like a we absolutely have to get rid of Anthony Davis, by any means necessary before the deadline hits. I think it's definitely going to be a matter of. Is there a trade offer that comes through that we deem acceptable?</a> And if that is a good trade for us to make to build around Cooper Flagg, then, you know, perhaps pull the trigger, but I think, that's going to be a matter of external factors.",
+        "outlet": "Youtube",
+        "source_url": "https://youtu.be/sEPja1PuIH4?si=G9cM2JWLbG1pVvS2"
+      },
+      {
+        "date": "2025-12-12",
+        "text": "Grant Afseth: Shams Charania from ESPN reported a couple of potential Eastern Conference suitors like the Atlanta Hawks, Detroit Pistons, Toronto Raptors. But those teams so far, doesn't seem like there's meaningful traction by any means of a great offer that the Dallas Mavericks cannot refuse.I've been asking around, and there's more skepticism than optimism about Detroit and Atlanta as viable trade destinations. Because of various reasons, like Detroit has it rolling right now. Like, there's, probably a reluctance to break that team up and complicate things chemistry wise with how the season has gone for them. And then Atlanta, they also have to solve Trae Young's future, with their team long-term. So do you go into the offseason where you have to give contract clarity to Trae Young and Anthony Davis? That's where it gets complicated. And they could get a potential top three, even number one overall pick this year where you're adding that next to Jalen Johnson.Youtube",
+        "text_html": "Grant Afseth: Shams Charania from ESPN reported a couple of potential Eastern Conference suitors like the Atlanta Hawks, Detroit Pistons, Toronto Raptors. But those teams so far, doesn't seem like there's meaningful traction by any means of a great offer that the Dallas Mavericks cannot refuse. <a href=\"https://youtu.be/sEPja1PuIH4?si=G9cM2JWLbG1pVvS2\" target=\"_blank\" style=\"color: #1a73e8;\">I've been asking around, and there's more skepticism than optimism about Detroit and Atlanta as viable trade destinations. Because of various reasons, like Detroit has it rolling right now. Like, there's, probably a reluctance to break that team up and complicate things chemistry wise with how the season has gone for them</a>. And then Atlanta, they also have to solve Trae Young's future, with their team long-term. So do you go into the offseason where you have to give contract clarity to Trae Young and Anthony Davis? That's where it gets complicated. And they could get a potential top three, even number one overall pick this year where you're adding that next to Jalen Johnson.",
+        "outlet": "Youtube",
+        "source_url": "https://youtu.be/sEPja1PuIH4?si=G9cM2JWLbG1pVvS2"
+      },
+      {
+        "date": "2025-12-12",
+        "text": "Davis\u2019 contract status is certainly providing a pressure point. Davis \u2014 who is represented by Klutch Sports CEO Rich Paul \u2014 is eligible for an extension this summer (his current deal runs through next season, with a player option for $62.7 million in 2027-28). That\u2019s a major consideration for both the Mavs and the expected suitors, which \u2014 as ESPN first reported \u2014 are expected to include Detroit, Atlanta and Toronto.Yet as several league sources indicated, the actual level of interest from the aforementioned teams remains to be seen. Especially given Davis\u2019 sordid health history.New York Times",
+        "text_html": "Davis\u2019 contract status is certainly providing a pressure point. Davis \u2014 who is represented by Klutch Sports CEO Rich Paul \u2014 is eligible for an extension this summer (his current deal runs through next season, with a player option for $62.7 million in 2027-28). That\u2019s a major consideration for both the Mavs and the expected suitors, which \u2014 as ESPN first reported \u2014 are expected to include Detroit, Atlanta and Toronto. <a href=\"https://www.nytimes.com/athletic/6881845/2025/12/12/nba-trades-giannis-antetokounmpo-anthony-davis-warriors-mavericks/?source=user_shared_article\" target=\"_blank\" style=\"color: #1a73e8;\">Yet as several league sources indicated, the actual level of interest from the aforementioned teams remains to be seen. Especially given Davis\u2019 sordid health history</a>.",
+        "outlet": "New York Times",
+        "source_url": "https://www.nytimes.com/athletic/6881845/2025/12/12/nba-trades-giannis-antetokounmpo-anthony-davis-warriors-mavericks/?source=user_shared_article"
+      },
+      {
+        "date": "2025-12-12",
+        "text": "Tim Bontemps:\u201cFor a guy like Anthony Davis,\" a West\u00a0executive\u00a0said, \"it's hard to justify them getting a 35 percent max when they aren't playing a ton of minutes and games.\"That's why\u00a0sources\u00a0I've\u00a0spoken\u00a0to have expressed skepticism in a robust market for Davis this trade season, particularly as teams around the league are shifting to younger, faster and deeper rosters.ESPN",
+        "text_html": "Tim Bontemps: <a href=\"https://www.espn.com/nba/story/_/id/47281439/nba-trade-deadline-intel-new-era-superstar-value-means-giannis-anthony-davis\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cFor a guy like Anthony Davis,\" a West executive said, \"it's hard to justify them getting a 35 percent max when they aren't playing a ton of minutes and games.\"</a> That's why sources I've spoken to have expressed skepticism in a robust market for Davis this trade season, particularly as teams around the league are shifting to younger, faster and deeper rosters.",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/47281439/nba-trade-deadline-intel-new-era-superstar-value-means-giannis-anthony-davis"
+      },
+      {
+        "date": "2025-12-11",
+        "text": "A source with knowledge of the Pistons\u2019 thinking told the Free Press they haven't had discussions with the Mavericks regarding a trade for Davis.And based on private discussions and public comments from the front office and coaching staff, it seems unlikely the Pistons are or will be among the teams looking to acquire him.Detroit Free Press",
+        "text_html": "A source with knowledge of the Pistons\u2019 thinking told the Free Press they haven't had discussions with the Mavericks regarding a trade for Davis. <a href=\"https://www.freep.com/story/sports/nba/pistons/2025/12/11/anthony-davis-trade-rumors-pistons-mavericks/87707064007/\" target=\"_blank\" style=\"color: #1a73e8;\">And based on private discussions and public comments from the front office and coaching staff, it seems unlikely the Pistons are or will be among the teams looking to acquire him</a>.",
+        "outlet": "Detroit Free Press",
+        "source_url": "https://www.freep.com/story/sports/nba/pistons/2025/12/11/anthony-davis-trade-rumors-pistons-mavericks/87707064007/"
+      },
+      {
+        "date": "2025-12-11",
+        "text": "Jake Fischer: \u201cNow, on to Anthony Davis \u2014 this is our final segment. There was reporting from ESPN this morning that there are three teams to monitor as potential landing spots for AD: Detroit, Atlanta, and Toronto. And not to pour cold water on someone else\u2019s work, but I\u2019m going to say right now \u2014I find the Pistons to be an incredibly unlikely landing spot for Anthony Davis. We talked about this with Lauri Markkanen a couple weeks ago. The fact is: the Pistons are near the top of the Eastern Conference standings, and they have tradable salary pieces like Tobias Harris, Caris LeVert, and Duncan Robinson...\u201dYouTube",
+        "text_html": "Jake Fischer: \u201cNow, on to Anthony Davis \u2014 this is our final segment. There was reporting from ESPN this morning that there are three teams to monitor as potential landing spots for AD: Detroit, Atlanta, and Toronto. And not to pour cold water on someone else\u2019s work, but I\u2019m going to say right now \u2014 <a href=\"https://www.youtube.com/watch?v=xAMVMh9f7KA\" target=\"_blank\" style=\"color: #1a73e8;\">I find the Pistons to be an incredibly unlikely landing spot for Anthony Davis</a>. We talked about this with Lauri Markkanen a couple weeks ago. The fact is: the Pistons are near the top of the Eastern Conference standings, and they have tradable salary pieces like Tobias Harris, Caris LeVert, and Duncan Robinson...\u201d",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=xAMVMh9f7KA"
+      },
+      {
+        "date": "2025-12-09",
+        "text": "Anthony Davis\u00a0of the\u00a0Dallas Mavericks, another former NBA champion, is expected to be a\u00a0critical trade target\u00a0of several teams, including many of the East's contenders.The\u00a0Detroit Pistons,\u00a0Atlanta Hawks\u00a0and\u00a0Toronto Raptors\u00a0are expected to be suitors for Davis,league\u00a0sources\u00a0told\u00a0ESPN.ESPN",
+        "text_html": "Anthony Davis of the Dallas Mavericks, another former NBA champion, is expected to be a critical trade target of several teams, including many of the East's contenders. <a href=\"https://www.espn.com/nba/story/_/id/47245704/shams-pass-nba-trade-deadline-notes-news-buzz-anthony-davis-giannis-antetokounmpo-teams\" target=\"_blank\" style=\"color: #1a73e8;\">The Detroit Pistons, Atlanta Hawks and Toronto Raptors are expected to be suitors for Davis,</a> league sources told ESPN.",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/47245704/shams-pass-nba-trade-deadline-notes-news-buzz-anthony-davis-giannis-antetokounmpo-teams"
+      },
+      {
+        "date": "2025-12-05",
+        "text": "The reluctance of teams to trade multiple first round picks into the future is expected to impact the trade packages for Davis and potentially even Giannis Antetokounmpo. \"What I'm telling you is that when I talk to executives and these executives are not in trade talks with the Bucks or another for a star player right now, the mood in the NBA right now is not give up four first round picks for anybody,\" said Brian Windhorst on The Hoop Collective podcast on Friday. \"Okay, maybe if Shai (Gilgeous-Alexander) came on, or Victor (Wembanyama)... Like people don't want to do that because the aprons have spooked so many teams.All these teams are worried about getting into apron trouble where they can't reset their rosters. And you get into a situation like the Celtics were in where you got to rip your team down.\"RealGM",
+        "text_html": "The reluctance of teams to trade multiple first round picks into the future is expected to impact the trade packages for Davis and potentially even Giannis Antetokounmpo. \"What I'm telling you is that when I talk to executives and these executives are not in trade talks with the Bucks or another for a star player right now, the mood in the NBA right now is not give up four first round picks for anybody,\" said Brian Windhorst on The Hoop Collective podcast on Friday. \"Okay, maybe if Shai (Gilgeous-Alexander) came on, or Victor (Wembanyama)... Like people don't want to do that because the aprons have spooked so many teams. <a href=\"https://basketball.realgm.com/wiretap/283014/NBA-GMs-Have-Become-More-Reluctant-To-Trade-Multiple-First-Rounders-For-Star-In-Apron-Era\" target=\"_blank\" style=\"color: #1a73e8;\">All these teams are worried about getting into apron trouble where they can't reset their rosters. And you get into a situation like the Celtics were in where you got to rip your team down.\"</a>",
+        "outlet": "RealGM",
+        "source_url": "https://basketball.realgm.com/wiretap/283014/NBA-GMs-Have-Become-More-Reluctant-To-Trade-Multiple-First-Rounders-For-Star-In-Apron-Era"
+      },
+      {
+        "date": "2025-12-05",
+        "text": "Brian Windhorst:\u00a0I don't know what the value\u00a0of Anthony Davis. Some of the stuff\u00a0that I have\u00a0heard\u00a0from\u00a0executives\u00a0talking to me about what they think\u00a0Anthony Davis' trade value is\u2026 I'm not\u00a0even going to say it because then I'd\u00a0get aggregated and people would be\u00a0jumping down my throat and I would just be repeating something somebody else\u00a0said. When I have\u00a0heard\u00a0what people are\u00a0saying Anthony Davis' trade value is\u00a0right now, not because of him as a\u00a0player, to be clear, not because he's\u00a0diminished as a player, butbecause of\u00a0the idea of paying an injury-prone mid-30s guy\u00a0$50, $60 million dollars in the apron era is\u00a0unpalatable.YouTube",
+        "text_html": "Brian Windhorst: I don't know what the value of Anthony Davis. Some of the stuff that I have heard from executives talking to me about what they think Anthony Davis' trade value is\u2026 I'm not even going to say it because then I'd get aggregated and people would be jumping down my throat and I would just be repeating something somebody else said. When I have heard what people are saying Anthony Davis' trade value is right now, not because of him as a player, to be clear, not because he's diminished as a player, but <a href=\"https://www.youtube.com/watch?v=aqCUYmtwRCo&t=510s\" target=\"_blank\" style=\"color: #1a73e8;\">because of the idea of paying an injury-prone mid-30s guy $50, $60 million dollars in the apron era is unpalatable</a>.",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=aqCUYmtwRCo&t=510s"
+      },
+      {
+        "date": "2025-12-01",
+        "text": "The Bulls have had internal discussions about how to proceed, including conversations about Dallas Mavericks star Anthony Davis,sources told ESPN, whom they believe could help the team's porous rim protection and defensive interior.ESPN",
+        "text_html": "<a href=\"https://www.espn.com/nba/story/_/id/47154935/from-6-1-9-10-make-curious-chicago-bulls-start\" target=\"_blank\" style=\"color: #1a73e8;\">The Bulls have had internal discussions about how to proceed, including conversations about Dallas Mavericks star Anthony Davis,</a> sources told ESPN, whom they believe could help the team's porous rim protection and defensive interior.",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/47154935/from-6-1-9-10-make-curious-chicago-bulls-start"
+      },
+      {
+        "date": "2025-11-28",
+        "text": "Mike Curtis: Jason Kidd on making sure Anthony Davis is in a good mental space considering he's drawn some ire from the fanbase:\"The biggest thing is the train keeps moving, no matter of a trade or a dismissal. You gotta keep moving.For AD, it was to focus on his body, come back healthy. He's ready to go...\"x.com",
+        "text_html": "Mike Curtis: Jason Kidd on making sure Anthony Davis is in a good mental space considering he's drawn some ire from the fanbase: <a href=\"https://x.com/MikeACurtis2/status/1994601681007645106\" target=\"_blank\" style=\"color: #1a73e8;\">\"The biggest thing is the train keeps moving, no matter of a trade or a dismissal. You gotta keep moving.</a> For AD, it was to focus on his body, come back healthy. He's ready to go...\"",
+        "outlet": "x.com",
+        "source_url": "https://x.com/MikeACurtis2/status/1994601681007645106"
+      },
+      {
+        "date": "2025-11-27",
+        "text": "Tim MacMahon:Trading AD is a real possibility\u2014and I would even say likelihood\u2014this season. Trading Kyrie is not something that's on the Mavericks' priority list, or it's just straight up not something that they are interested in doing right now.\"YouTube",
+        "text_html": "Tim MacMahon: <a href=\"https://www.youtube.com/watch?v=h7fcpo74I_I\" target=\"_blank\" style=\"color: #1a73e8;\">Trading AD is a real possibility\u2014and I would even say likelihood\u2014this season. Trading Kyrie is not something that's on the Mavericks' priority list, or it's just straight up not something that they are interested in doing right now.\"</a>",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=h7fcpo74I_I"
+      },
+      {
+        "date": "2025-11-26",
+        "text": "Mike Curtis: Anthony Davis was asked about his name being involved in trade rumors: \u201cMan, look. Y'all make it like we\u2019re going to war or something. This is basketball. It comes withit\u2026That doesn\u2019t affect me. I\u2019ve been in trade talks for a while. My job is to do what I do when I\u2019m on the floor, play basketball and try to lead this team.Whatever comes out of that, comes out of that.\u201dx.com",
+        "text_html": "Mike Curtis: Anthony Davis was asked about his name being involved in trade rumors: \u201cMan, look. Y'all make it like we\u2019re going to war or something. This is basketball. It comes with <a href=\"https://x.com/MikeACurtis2/status/1993773663066157216\" target=\"_blank\" style=\"color: #1a73e8;\">it\u2026That doesn\u2019t affect me. I\u2019ve been in trade talks for a while. My job is to do what I do when I\u2019m on the floor, play basketball and try to lead this team.</a> Whatever comes out of that, comes out of that.\u201d",
+        "outlet": "x.com",
+        "source_url": "https://x.com/MikeACurtis2/status/1993773663066157216"
+      },
+      {
+        "date": "2025-11-26",
+        "text": "\u201cIt was surprising more than anything,\u201d Davis said. \u201cNico\u2019s my guy. Obviously, he played a huge part of getting me here and wanting me to fulfill his vision, in a sense, that he saw. It was definitely tough. ...It\u2019s the business of basketball. Once I had those conversations [with Harrison and Dumont], I was able to move forward and continue to rehab and get back on the floor and try to compete.\u201dDallas Morning News",
+        "text_html": "\u201cIt was surprising more than anything,\u201d Davis said. \u201cNico\u2019s my guy. Obviously, he played a huge part of getting me here and wanting me to fulfill his vision, in a sense, that he saw. It was definitely tough. ... <a href=\"https://www.dallasnews.com/sports/mavericks/2025/11/26/anthony-davis-trade-mavericks-dallas-nba-injury-nico-harrison/\" target=\"_blank\" style=\"color: #1a73e8;\">It\u2019s the business of basketball. Once I had those conversations [with Harrison and Dumont], I was able to move forward and continue to rehab and get back on the floor and try to compete.\u201d</a>",
+        "outlet": "Dallas Morning News",
+        "source_url": "https://www.dallasnews.com/sports/mavericks/2025/11/26/anthony-davis-trade-mavericks-dallas-nba-injury-nico-harrison/"
+      },
+      {
+        "date": "2025-11-26",
+        "text": "There is an expectation in some corners, you see, that Anthony Davis and his representation at Klutch Sports will seek a contract extension from a new team if he indeed gets dealt.marcstein.substack.com",
+        "text_html": "<a href=\"https://marcstein.substack.com/p/talking-zone-defense-nba-big-men\" target=\"_blank\" style=\"color: #1a73e8;\">There is an expectation in some corners, you see, that Anthony Davis and his representation at Klutch Sports will seek a contract extension from a new team if he indeed gets dealt</a>.",
+        "outlet": "marcstein.substack.com",
+        "source_url": "https://marcstein.substack.com/p/talking-zone-defense-nba-big-men"
+      },
+      {
+        "date": "2025-11-24",
+        "text": "The Dallas Mavericks are reportedly facing a conundrum when it comes to potentially trading star big man Anthony Davis. During Monday's episode of The Hoop Collective, ESPN's Tim Bontemps explained that Davis' trade value isn't as high as many would expect for a player of his caliber. \"The idea of trading Anthony Davis has everyone trained to think, well, they're gonna get three firsts, two swaps, they're gonna get two young players and they're gonna get all this stuff,\" Bontemps said around the 33:00 mark.\"I shouldn't say it's not gonna happen... but, you talk to people in the league, there's not a lot of teams that are lining up to take on a 35-year-old Anthony Davis making $63 million, and you have to assume that he's gonna opt into that deal.\"Bleacher Report",
+        "text_html": "The Dallas Mavericks are reportedly facing a conundrum when it comes to potentially trading star big man Anthony Davis. During Monday's episode of The Hoop Collective, ESPN's Tim Bontemps explained that Davis' trade value isn't as high as many would expect for a player of his caliber. \"The idea of trading Anthony Davis has everyone trained to think, well, they're gonna get three firsts, two swaps, they're gonna get two young players and they're gonna get all this stuff,\" Bontemps said around the 33:00 mark. <a href=\"https://bleacherreport.com/articles/25304382-what-anthony-davis-trade-value-nba-insiders-shocking-revelation-amid-mavs-rumors\" target=\"_blank\" style=\"color: #1a73e8;\">\"I shouldn't say it's not gonna happen... but, you talk to people in the league, there's not a lot of teams that are lining up to take on a 35-year-old Anthony Davis making $63 million, and you have to assume that he's gonna opt into that deal.\"</a>",
+        "outlet": "Bleacher Report",
+        "source_url": "https://bleacherreport.com/articles/25304382-what-anthony-davis-trade-value-nba-insiders-shocking-revelation-amid-mavs-rumors"
+      },
+      {
+        "date": "2025-11-23",
+        "text": "Ian Begley: I\u2019d guess today that they prioritize point guard over front court in the trade market. This is stating the obvious, butI\u2019m sure the Knicks would at least check in with Dallas if/when\u00a0Anthony Davis\u00a0becomes available.You may scoff at the idea, but the Knicks want to win a title this season. If Dallas is offering Davis at a below-market cost, I\u2019m sure the Knicks will at least give the move some thought. But this, again, is stating the obvious. The Mavs will get calls from nearly all NBA teams if/when they make Davis available.SportsNet New York",
+        "text_html": "Ian Begley: I\u2019d guess today that they prioritize point guard over front court in the trade market. This is stating the obvious, but <a href=\"https://sny.tv/articles/knicks-mailbag-11-22-25\" target=\"_blank\" style=\"color: #1a73e8;\">I\u2019m sure the Knicks would at least check in with Dallas if/when Anthony Davis becomes available.</a> You may scoff at the idea, but the Knicks want to win a title this season. If Dallas is offering Davis at a below-market cost, I\u2019m sure the Knicks will at least give the move some thought. But this, again, is stating the obvious. The Mavs will get calls from nearly all NBA teams if/when they make Davis available.",
+        "outlet": "SportsNet New York",
+        "source_url": "https://sny.tv/articles/knicks-mailbag-11-22-25"
+      },
+      {
+        "date": "2025-11-21",
+        "text": "The Bulls could go in a few directions over the next several months, including adding to the current roster.That has led some sources to speculate whether Chicago, with over $80 million in expiring money, could be a suitor for Dallas' Anthony Davis and bring the Windy City native home. \u2018I could see it,\u2019 a West executive, who recently saw Chicago play, said. \u2018[Josh] Giddey has worked well with Vucevic, but he could use a roll man to throw it up to.ESPN",
+        "text_html": "The Bulls could go in a few directions over the next several months, including adding to the current roster. <a href=\"https://www.espn.com/nba/story/_/id/47039949/nba-first-month-lessons-intel-thunder-lakers-warriors-knicks-every-team\" target=\"_blank\" style=\"color: #1a73e8;\">That has led some sources to speculate whether Chicago, with over $80 million in expiring money, could be a suitor for Dallas' Anthony Davis and bring the Windy City native home. \u2018I could see it,\u2019 a West executive, who recently saw Chicago play, said. \u2018[Josh] Giddey has worked well with Vucevic, but he could use a roll man to throw it up to</a>.",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/47039949/nba-first-month-lessons-intel-thunder-lakers-warriors-knicks-every-team"
+      },
+      {
+        "date": "2025-11-20",
+        "text": "League sources say that the Mavericks still intend to field any trade interest in Davis that emerges over the next two-plus months ... with the prospect of an actual trade obviously dependent on offer quality.marcstein.substack.com",
+        "text_html": "<a href=\"https://marcstein.substack.com/p/is-the-nbas-trade-market-for-point\" target=\"_blank\" style=\"color: #1a73e8;\">League sources say that the Mavericks still intend to field any trade interest in Davis that emerges over the next two-plus months ... with the prospect of an actual trade obviously dependent on offer quality</a>.",
+        "outlet": "marcstein.substack.com",
+        "source_url": "https://marcstein.substack.com/p/is-the-nbas-trade-market-for-point"
+      },
+      {
+        "date": "2025-11-19",
+        "text": "Shams Charania: This franchise is moving away from Nico Harrison's three to four year championship window, and toward trying to find sustained success and sustained growth around Cooper, Flagg and youth. And to that end, sources have told ESPN that the Mavericks will be listening to trade calls for Anthony Davis and seeing and exploring his value.And for that, health will be the biggest key because not only for the Mavericks to evaluate Anthony Davis over a lengthy period of time, an extended period of time on the court, but for other teams that could have interest in him to see what he looks like when he's back with this team, looks like when he's back, a lot of evaluation to come around.x.com",
+        "text_html": "Shams Charania: This franchise is moving away from Nico Harrison's three to four year championship window, and toward trying to find sustained success and sustained growth around Cooper, Flagg and youth. And to that end, sources have told ESPN that the Mavericks will be listening to trade calls for Anthony Davis and seeing and exploring his value. <a href=\"https://x.com/ShamsCharania/status/1991301604952404406\" target=\"_blank\" style=\"color: #1a73e8;\">And for that, health will be the biggest key because not only for the Mavericks to evaluate Anthony Davis over a lengthy period of time, an extended period of time on the court, but for other teams that could have interest in him to see what he looks like when he's back with this team, looks like when he's back, a lot of evaluation to come around</a>.",
+        "outlet": "x.com",
+        "source_url": "https://x.com/ShamsCharania/status/1991301604952404406"
+      },
+      {
+        "date": "2025-11-19",
+        "text": "Dallas Mavericks minority owner Mark Cuban told The Athletic the franchise would not try to trade Anthony Davis this season.\u201cWe won\u2019t. We want to try to win,\u201d Cuban said Wednesday in an email when asked if he and Mavericks governor Patrick Dumont would seek a deal for Davis, the oft-injured, 10-time All-Star who was the centerpiece for Dallas in last season\u2019s Luka Don\u010di\u0107 trade.New York Times",
+        "text_html": "Dallas Mavericks minority owner Mark Cuban told The Athletic the franchise would not try to trade Anthony Davis this season. <a href=\"https://www.nytimes.com/athletic/6820984/2025/11/19/mavericks-anthony-davis-trade-mark-cuban/?source=emp_shared_article\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cWe won\u2019t. We want to try to win,\u201d Cuban said Wednesday in an email when asked if he and Mavericks governor Patrick Dumont would seek a deal for Davis, the oft-injured, 10-time All-Star who was the centerpiece for Dallas in last season\u2019s Luka Don\u010di\u0107 trade</a>.",
+        "outlet": "New York Times",
+        "source_url": "https://www.nytimes.com/athletic/6820984/2025/11/19/mavericks-anthony-davis-trade-mark-cuban/?source=emp_shared_article"
+      },
+      {
+        "date": "2025-11-19",
+        "text": "Multiple team sources said the Mavs, who are 4-11 and outside the playoff picture in the West, will also\u00a0explore the trade market for Anthony Davis,the 10-time All-Star big man who was the headliner in the return of the Doncic\u00a0deal, as part of that process before this season's deadline. For a fan base that still feels betrayed, so many questions linger in the wake of this self-inflicted saga, many of which center around the famous former majority owner.ESPN",
+        "text_html": "<a href=\"https://www.espn.com/nba/story/_/id/47014061/inside-mavericks-power-struggle-nico-harrison-vs-mark-cuban\" target=\"_blank\" style=\"color: #1a73e8;\">Multiple team sources said the Mavs, who are 4-11 and outside the playoff picture in the West, will also explore the trade market for Anthony Davis,</a> the 10-time All-Star big man who was the headliner in the return of the Doncic deal, as part of that process before this season's deadline. For a fan base that still feels betrayed, so many questions linger in the wake of this self-inflicted saga, many of which center around the famous former majority owner.",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/47014061/inside-mavericks-power-struggle-nico-harrison-vs-mark-cuban"
+      },
+      {
+        "date": "2025-11-18",
+        "text": "ESPN talked to team executives from both conferences regarding Davis' future and what his market could look like if the Mavericks explore trading him.\"You have to look at what he did the prior two seasons with the Lakers, his short tenure in Dallas and then the future,\" an Eastern Conference executive said.ESPN",
+        "text_html": "ESPN talked to team executives from both conferences regarding Davis' future and what his market could look like if the Mavericks explore trading him. <a href=\"https://www.espn.com/nba/story/_/id/46993870/mavericks-options-trade-anthony-davis-wait-free-agency-tank-draft\" target=\"_blank\" style=\"color: #1a73e8;\">\"You have to look at what he did the prior two seasons with the Lakers, his short tenure in Dallas and then the future,\" an Eastern Conference executive said</a>.",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/46993870/mavericks-options-trade-anthony-davis-wait-free-agency-tank-draft"
+      },
+      {
+        "date": "2025-11-18",
+        "text": "In Los Angeles, Davis played the most games in his career (76) during the 2023-24 season and was named to the All-NBA and All-Defensive teams. That was the first time Davis played at least 65 games since 2017-18. He was averaging 25.7 points and 11.9 rebounds in 41 games before he was traded to Dallas. Davis has played 15 games since, missing time because of a left abductor strain and currently a left calf strain.\"While you can point to Davis as a top-20 player in Los Angeles, it is a $175 million gamble and perhaps more, if you trade for him,\" a West executive said. \"I would want to see a long stretch of games of Davis healthy before there could ever be a discussion.\"ESPN",
+        "text_html": "In Los Angeles, Davis played the most games in his career (76) during the 2023-24 season and was named to the All-NBA and All-Defensive teams. That was the first time Davis played at least 65 games since 2017-18. He was averaging 25.7 points and 11.9 rebounds in 41 games before he was traded to Dallas. Davis has played 15 games since, missing time because of a left abductor strain and currently a left calf strain. <a href=\"https://www.espn.com/nba/story/_/id/46993870/mavericks-options-trade-anthony-davis-wait-free-agency-tank-draft\" target=\"_blank\" style=\"color: #1a73e8;\">\"While you can point to Davis as a top-20 player in Los Angeles, it is a $175 million gamble and perhaps more, if you trade for him,\" a West executive said. \"I would want to see a long stretch of games of Davis healthy before there could ever be a discussion.\"</a>",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/46993870/mavericks-options-trade-anthony-davis-wait-free-agency-tank-draft"
+      },
+      {
+        "date": "2025-11-17",
+        "text": "ESPN talked to team\u00a0executives\u00a0from both conferences regarding Davis' future and what his market could look like if the Mavericks explore trading him. \"You have to look at what he did the prior two seasons with the Lakers, his short tenure in Dallas and then the future,\" an Eastern Conference\u00a0executive\u00a0said. In Los Angeles, Davis played the most games in his career (76) during the 2023-24 season and was named to the All-NBA and All-Defensive teams. That was the first time Davis played at least 65 games since 2017-18. He was averaging 25.7 points and 11.9 rebounds in 41 games before he was traded to Dallas.ESPN",
+        "text_html": "<a href=\"https://www.espn.com/nba/story/_/id/46993870/mavericks-options-trade-anthony-davis-wait-free-agency-tank-draft\" target=\"_blank\" style=\"color: #1a73e8;\">ESPN talked to team executives from both conferences regarding Davis' future and what his market could look like if the Mavericks explore trading him. \"You have to look at what he did the prior two seasons with the Lakers, his short tenure in Dallas and then the future,\" an Eastern Conference executive said</a>. In Los Angeles, Davis played the most games in his career (76) during the 2023-24 season and was named to the All-NBA and All-Defensive teams. That was the first time Davis played at least 65 games since 2017-18. He was averaging 25.7 points and 11.9 rebounds in 41 games before he was traded to Dallas.",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/46993870/mavericks-options-trade-anthony-davis-wait-free-agency-tank-draft"
+      },
+      {
+        "date": "2025-11-17",
+        "text": "Davis has played 15 games since, missing time because of a left abductor strain and currently a left calf strain.\"While you can point to Davis as a top-20 player in Los Angeles, it is a $175 million gamble and perhaps more, if you trade for him,\" a West\u00a0executive\u00a0said.\"I would want to see a long stretch of games of Davis healthy before there could ever be a discussion.\"ESPN",
+        "text_html": "Davis has played 15 games since, missing time because of a left abductor strain and currently a left calf strain. <a href=\"https://www.espn.com/nba/story/_/id/46993870/mavericks-options-trade-anthony-davis-wait-free-agency-tank-draft\" target=\"_blank\" style=\"color: #1a73e8;\">\"While you can point to Davis as a top-20 player in Los Angeles, it is a $175 million gamble and perhaps more, if you trade for him,\" a West executive said.</a> \"I would want to see a long stretch of games of Davis healthy before there could ever be a discussion.\"",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/46993870/mavericks-options-trade-anthony-davis-wait-free-agency-tank-draft"
+      }
+    ],
+    "Daniel Gafford": [
+      {
+        "date": "2025-12-12",
+        "text": "The Mavericks\u2019 potential trade candidates have remained consistent \u2014 including a willingness to entertain offers for Anthony Davis, Klay Thompson, Daniel Gafford, and D\u2019Angelo Russell \u2014 but the team is not aggressively shopping those players, sources told DallasHoopsJournal.com.The internal view is that any deal must clearly improve Dallas\u2019 long-term outlook, whether through added flexibility, future assets, or a cleaner roster fit.Dallas Hoops Journal",
+        "text_html": "The Mavericks\u2019 potential trade candidates have remained consistent \u2014 including a willingness to entertain offers for Anthony Davis, Klay Thompson, Daniel Gafford, and D\u2019Angelo Russell \u2014 but the team is not aggressively shopping those players, sources told DallasHoopsJournal.com. <a href=\"https://dallashoopsjournal.com/p/nba-rumors-notebook-early-developments-to-monitor-about-the-dallas-mavericks-and-across-the-league/\" target=\"_blank\" style=\"color: #1a73e8;\">The internal view is that any deal must clearly improve Dallas\u2019 long-term outlook, whether through added flexibility, future assets, or a cleaner roster fit</a>.",
+        "outlet": "Dallas Hoops Journal",
+        "source_url": "https://dallashoopsjournal.com/p/nba-rumors-notebook-early-developments-to-monitor-about-the-dallas-mavericks-and-across-the-league/"
+      },
+      {
+        "date": "2025-12-12",
+        "text": "\"They have to be very careful with what they do with AD,\" an East\u00a0executive\u00a0said. \"They could set themselves back years with the wrong deal.\"Speaking of Daniel Gafford, he has been mentioned as a possible trade\u00a0candidate\u00a0this season and into the future, especially if the Mavericks have to cut payroll.He's a quality big man, and the three-year, $54 million\u00a0contract\u00a0he starts next season is viewed as reasonable. But with center\u00a0Dereck Lively II\u00a0playing just 43 games over the past two seasons -- he will miss the rest of 2025-26 with a foot injury -- it should no longer be assumed that Gafford is expendable in Dallas.ESPN",
+        "text_html": "\"They have to be very careful with what they do with AD,\" an East executive said. \"They could set themselves back years with the wrong deal.\" <a href=\"https://www.espn.com/nba/story/_/id/47281439/nba-trade-deadline-intel-new-era-superstar-value-means-giannis-anthony-davis\" target=\"_blank\" style=\"color: #1a73e8;\">Speaking of Daniel Gafford, he has been mentioned as a possible trade candidate this season and into the future, especially if the Mavericks have to cut payroll.</a> He's a quality big man, and the three-year, $54 million contract he starts next season is viewed as reasonable. But with center Dereck Lively II playing just 43 games over the past two seasons -- he will miss the rest of 2025-26 with a foot injury -- it should no longer be assumed that Gafford is expendable in Dallas.",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/47281439/nba-trade-deadline-intel-new-era-superstar-value-means-giannis-anthony-davis"
+      },
+      {
+        "date": "2025-12-09",
+        "text": "Anthony Davis\u00a0of the\u00a0Dallas Mavericks, another former NBA champion, is expected to be a\u00a0critical trade target\u00a0of several teams, including many of the East's contenders.The\u00a0Detroit Pistons,\u00a0Atlanta Hawks\u00a0and\u00a0Toronto Raptors\u00a0are expected to be suitors for Davis,league\u00a0sources\u00a0told\u00a0ESPN.ESPN",
+        "text_html": "Anthony Davis of the Dallas Mavericks, another former NBA champion, is expected to be a critical trade target of several teams, including many of the East's contenders. <a href=\"https://www.espn.com/nba/story/_/id/47245704/shams-pass-nba-trade-deadline-notes-news-buzz-anthony-davis-giannis-antetokounmpo-teams\" target=\"_blank\" style=\"color: #1a73e8;\">The Detroit Pistons, Atlanta Hawks and Toronto Raptors are expected to be suitors for Davis,</a> league sources told ESPN.",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/47245704/shams-pass-nba-trade-deadline-notes-news-buzz-anthony-davis-giannis-antetokounmpo-teams"
+      },
+      {
+        "date": "2025-12-09",
+        "text": "TheMavericks are open to exploring the trade markets for Davis, center\u00a0Daniel Gafford\u00a0and guards\u00a0Klay Thompson\u00a0and\u00a0D'Angelo Russell,\u00a0sources\u00a0said.ESPN",
+        "text_html": "The <a href=\"https://www.espn.com/nba/story/_/id/47245704/shams-pass-nba-trade-deadline-notes-news-buzz-anthony-davis-giannis-antetokounmpo-teams\" target=\"_blank\" style=\"color: #1a73e8;\">Mavericks are open to exploring the trade markets for Davis, center Daniel Gafford and guards Klay Thompson and D'Angelo Russell, sources said.</a>",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/47245704/shams-pass-nba-trade-deadline-notes-news-buzz-anthony-davis-giannis-antetokounmpo-teams"
+      },
+      {
+        "date": "2025-11-16",
+        "text": "Daniel Gafford is widely regarded as the most tradeable Maverick between now and the Feb. 5 trade deadline in Year 1 of a three-year deal worth $54.4 million, but the injuries that have frequently derailed Davis and Dereck Lively II add a layer of complication even to Gafford's status.marcstein.substack.com",
+        "text_html": "<a href=\"https://marcstein.substack.com/p/sunday-best-the-pelicans-mavericks\" target=\"_blank\" style=\"color: #1a73e8;\">Daniel Gafford is widely regarded as the most tradeable Maverick between now and the Feb. 5 trade deadline in Year 1 of a three-year deal worth $54.4 million, but the injuries that have frequently derailed Davis and Dereck Lively II add a layer of complication even to Gafford's status</a>.",
+        "outlet": "marcstein.substack.com",
+        "source_url": "https://marcstein.substack.com/p/sunday-best-the-pelicans-mavericks"
+      }
+    ],
+    "Kyrie Irving": [
+      {
+        "date": "2025-12-12",
+        "text": "Does Kyrie Irving have input on the moves they will make? Like did he know of the Luka trade? Grant Afseth: I'm not fully sure on. I don't think he's been included on every move they made by any means. I think when they're like going into offseasons, like some players like, hey, you know, what are some players that you think could help this team like that type of feedback? Not necessarily like a, Hey, we're about to make this move. Do you like it? Or should we call it like that type of thing or.I think it's more like just the general idea of who are some guys that you think could help us. Let's talk about it. And, we can see how that shakes out and help us mold our offseason plan, if you will.Youtube",
+        "text_html": "Does Kyrie Irving have input on the moves they will make? Like did he know of the Luka trade? Grant Afseth: I'm not fully sure on. I don't think he's been included on every move they made by any means. I think when they're like going into offseasons, like some players like, hey, you know, what are some players that you think could help this team like that type of feedback? Not necessarily like a, Hey, we're about to make this move. Do you like it? Or should we call it like that type of thing or. <a href=\"https://youtu.be/sEPja1PuIH4?si=G9cM2JWLbG1pVvS2\" target=\"_blank\" style=\"color: #1a73e8;\">I think it's more like just the general idea of who are some guys that you think could help us. Let's talk about it. And, we can see how that shakes out and help us mold our offseason plan, if you will</a>.",
+        "outlet": "Youtube",
+        "source_url": "https://youtu.be/sEPja1PuIH4?si=G9cM2JWLbG1pVvS2"
+      },
+      {
+        "date": "2025-12-08",
+        "text": "\"The other part of it \u2014 and I keep getting told this \u2014 is that they say, look, they don\u2019t want to deal Kyrie Irving.They think Cooper Flagg needs to play next to an elite point guard to develop the right way. That\u2019s not D\u2019Angelo Russell. It\u2019s not D\u2019Angelo Russell. It\u2019s just not that guy.\" \"They\u2019ve also looked at an AD trade. Wherever you send Anthony Davis \u2014 let\u2019s say you find a deal with Chicago, maybe Atlanta, which I think could be an interesting spot for him \u2014 what you\u2019re going to get back, and what you still have left, isn\u2019t enough to do this kind of Washington Wizards\u2013style free fall.\"YouTube",
+        "text_html": "<a href=\"https://www.youtube.com/watch?v=OTIRADQTvzg\" target=\"_blank\" style=\"color: #1a73e8;\">\"The other part of it \u2014 and I keep getting told this \u2014 is that they say, look, they don\u2019t want to deal Kyrie Irving.</a> They think Cooper Flagg needs to play next to an elite point guard to develop the right way. That\u2019s not D\u2019Angelo Russell. It\u2019s not D\u2019Angelo Russell. It\u2019s just not that guy.\" \"They\u2019ve also looked at an AD trade. Wherever you send Anthony Davis \u2014 let\u2019s say you find a deal with Chicago, maybe Atlanta, which I think could be an interesting spot for him \u2014 what you\u2019re going to get back, and what you still have left, isn\u2019t enough to do this kind of Washington Wizards\u2013style free fall.\"",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=OTIRADQTvzg"
+      },
+      {
+        "date": "2025-11-27",
+        "text": "Tim MacMahon: So Kyrie signed\u2014uh, it wasn't even an extension. He\u2014he opted out and signed a three-year deal this summer. So he's got this year and the next two.\"\"What I would tell you about Kyrie is the Mavericks do not want to trade him.\"YouTube",
+        "text_html": "Tim MacMahon: So Kyrie signed\u2014uh, it wasn't even an extension. He\u2014he opted out and signed a three-year deal this summer. So he's got this year and the next two.\" <a href=\"https://www.youtube.com/watch?v=h7fcpo74I_I\" target=\"_blank\" style=\"color: #1a73e8;\">\"What I would tell you about Kyrie is the Mavericks do not want to trade him.\"</a>",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=h7fcpo74I_I"
+      },
+      {
+        "date": "2025-11-27",
+        "text": "Tim MacMahon:Trading AD is a real possibility\u2014and I would even say likelihood\u2014this season. Trading Kyrie is not something that's on the Mavericks' priority list, or it's just straight up not something that they are interested in doing right now.\"YouTube",
+        "text_html": "Tim MacMahon: <a href=\"https://www.youtube.com/watch?v=h7fcpo74I_I\" target=\"_blank\" style=\"color: #1a73e8;\">Trading AD is a real possibility\u2014and I would even say likelihood\u2014this season. Trading Kyrie is not something that's on the Mavericks' priority list, or it's just straight up not something that they are interested in doing right now.\"</a>",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=h7fcpo74I_I"
+      }
+    ],
+    "Cooper Flagg": [
+      {
+        "date": "2025-12-12",
+        "text": "But obviously with all the noise we know about A.D, do you think a divorce or you know, obviously a trade is inevitable or is that something that could be avoided? Grant Afseth: I think honestly it's fluid depending on what offers come in.My understanding of the sentiment right now, I don't think it's like a we absolutely have to get rid of Anthony Davis, by any means necessary before the deadline hits. I think it's definitely going to be a matter of. Is there a trade offer that comes through that we deem acceptable?And if that is a good trade for us to make to build around Cooper Flagg, then, you know, perhaps pull the trigger, but I think, that's going to be a matter of external factors.Youtube",
+        "text_html": "But obviously with all the noise we know about A.D, do you think a divorce or you know, obviously a trade is inevitable or is that something that could be avoided? Grant Afseth: I think honestly it's fluid depending on what offers come in. <a href=\"https://youtu.be/sEPja1PuIH4?si=G9cM2JWLbG1pVvS2\" target=\"_blank\" style=\"color: #1a73e8;\">My understanding of the sentiment right now, I don't think it's like a we absolutely have to get rid of Anthony Davis, by any means necessary before the deadline hits. I think it's definitely going to be a matter of. Is there a trade offer that comes through that we deem acceptable?</a> And if that is a good trade for us to make to build around Cooper Flagg, then, you know, perhaps pull the trigger, but I think, that's going to be a matter of external factors.",
+        "outlet": "Youtube",
+        "source_url": "https://youtu.be/sEPja1PuIH4?si=G9cM2JWLbG1pVvS2"
+      }
+    ],
+    "Trae Young": [
+      {
+        "date": "2025-12-12",
+        "text": "Grant Afseth: Shams Charania from ESPN reported a couple of potential Eastern Conference suitors like the Atlanta Hawks, Detroit Pistons, Toronto Raptors. But those teams so far, doesn't seem like there's meaningful traction by any means of a great offer that the Dallas Mavericks cannot refuse.I've been asking around, and there's more skepticism than optimism about Detroit and Atlanta as viable trade destinations. Because of various reasons, like Detroit has it rolling right now. Like, there's, probably a reluctance to break that team up and complicate things chemistry wise with how the season has gone for them. And then Atlanta, they also have to solve Trae Young's future, with their team long-term. So do you go into the offseason where you have to give contract clarity to Trae Young and Anthony Davis? That's where it gets complicated. And they could get a potential top three, even number one overall pick this year where you're adding that next to Jalen Johnson.Youtube",
+        "text_html": "Grant Afseth: Shams Charania from ESPN reported a couple of potential Eastern Conference suitors like the Atlanta Hawks, Detroit Pistons, Toronto Raptors. But those teams so far, doesn't seem like there's meaningful traction by any means of a great offer that the Dallas Mavericks cannot refuse. <a href=\"https://youtu.be/sEPja1PuIH4?si=G9cM2JWLbG1pVvS2\" target=\"_blank\" style=\"color: #1a73e8;\">I've been asking around, and there's more skepticism than optimism about Detroit and Atlanta as viable trade destinations. Because of various reasons, like Detroit has it rolling right now. Like, there's, probably a reluctance to break that team up and complicate things chemistry wise with how the season has gone for them</a>. And then Atlanta, they also have to solve Trae Young's future, with their team long-term. So do you go into the offseason where you have to give contract clarity to Trae Young and Anthony Davis? That's where it gets complicated. And they could get a potential top three, even number one overall pick this year where you're adding that next to Jalen Johnson.",
+        "outlet": "Youtube",
+        "source_url": "https://youtu.be/sEPja1PuIH4?si=G9cM2JWLbG1pVvS2"
+      },
+      {
+        "date": "2025-12-03",
+        "text": "Charlotte's\u00a0LaMelo Ball,\u00a0Memphis'\u00a0Ja Morant\u00a0and\u00a0Atlanta's\u00a0Trae Young\u00a0all seem to be stuck in a sort of limbo with the franchises that they've been the faces of since entering the league as high lottery picks. There is rampant speculation among rival teams that Ball, Morant and Young could all be available leading up to the Feb. 5 trade deadline. For a variety of reasons, from their maximum contracts to their major flaws, it's not a discussion that generates much enthusiasm despite their status as big names who have put up big numbers.\"I wouldn't want any of them,\" a Western Conference general manager\u00a0told\u00a0ESPN. That was a popular opinion in an informal poll of\u00a0executives, scouts and coaches conducted by ESPN. There wasn't a consensus about which one of the three would command the biggest return if they ended up getting shopped in the trade market, as votes were split among Ball, Morant and Young. \"They all might have negative value,\" an Eastern Conference\u00a0executive\u00a0said.ESPN",
+        "text_html": "Charlotte's LaMelo Ball, Memphis' Ja Morant and Atlanta's Trae Young all seem to be stuck in a sort of limbo with the franchises that they've been the faces of since entering the league as high lottery picks. There is rampant speculation among rival teams that Ball, Morant and Young could all be available leading up to the Feb. 5 trade deadline. For a variety of reasons, from their maximum contracts to their major flaws, it's not a discussion that generates much enthusiasm despite their status as big names who have put up big numbers. <a href=\"https://www.espn.com/nba/story/_/id/47179857/ja-morant-lamelo-ball-trae-young-three-all-star-guards-limbo\" target=\"_blank\" style=\"color: #1a73e8;\">\"I wouldn't want any of them,\" a Western Conference general manager told ESPN</a>. That was a popular opinion in an informal poll of executives, scouts and coaches conducted by ESPN. There wasn't a consensus about which one of the three would command the biggest return if they ended up getting shopped in the trade market, as votes were split among Ball, Morant and Young. \"They all might have negative value,\" an Eastern Conference executive said.",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/47179857/ja-morant-lamelo-ball-trae-young-three-all-star-guards-limbo"
+      },
+      {
+        "date": "2025-12-03",
+        "text": "In other words, the Hawks with Young in the lineup would rank dead last in the league in defensive efficiency.Without him, the Hawks have defended at a top-five level. \"He's just small and doesn't play any defense,\" an East scout said. That scout valued Young more than Morant and Ball, primarily because of his offensive prowess and lack of off-court concerns. Several people mentioned the long-running perception that he's unpopular with teammates as worrisome, especially considering that Young creates so many dunks and open looks with his passing prowess.ESPN",
+        "text_html": "In other words, the Hawks with Young in the lineup would rank dead last in the league in defensive efficiency. <a href=\"https://www.espn.com/nba/story/_/id/47179857/ja-morant-lamelo-ball-trae-young-three-all-star-guards-limbo\" target=\"_blank\" style=\"color: #1a73e8;\">Without him, the Hawks have defended at a top-five level. \"He's just small and doesn't play any defense,\" an East scout said</a>. That scout valued Young more than Morant and Ball, primarily because of his offensive prowess and lack of off-court concerns. Several people mentioned the long-running perception that he's unpopular with teammates as worrisome, especially considering that Young creates so many dunks and open looks with his passing prowess.",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/47179857/ja-morant-lamelo-ball-trae-young-three-all-star-guards-limbo"
+      },
+      {
+        "date": "2025-11-24",
+        "text": "Marc Stein: \u201cWhat I think is really happening here, in the grand scheme \u2014 and I already mentioned Ja Morant in Memphis \u2014 is that Trae Young is now in a similar position. He\u2019s out in Atlanta, and the Hawks have been winning some games without him. Remember, this summer the two sides could have engaged in contract extension talks, but they didn\u2019t. The Hawks made it clear to Trae Young\u2019s camp that they weren\u2019t interested in an extension before the season. They wanted this season to play out.Around the league, these three guards \u2014 LaMelo Ball, Ja Morant, and Trae Young \u2014 are being grouped together in the eyes of a lot of executives. Maybe they aren\u2019t available right now, as we speak but these are players teams are anticipating could be available between now and the trade deadline on February 5th. And again, all three of these guys have been All-Stars.YouTube",
+        "text_html": "Marc Stein: \u201cWhat I think is really happening here, in the grand scheme \u2014 and I already mentioned Ja Morant in Memphis \u2014 is that Trae Young is now in a similar position. He\u2019s out in Atlanta, and the Hawks have been winning some games without him. Remember, this summer the two sides could have engaged in contract extension talks, but they didn\u2019t. The Hawks made it clear to Trae Young\u2019s camp that they weren\u2019t interested in an extension before the season. They wanted this season to play out. <a href=\"https://www.youtube.com/live/FLwniS558nA\" target=\"_blank\" style=\"color: #1a73e8;\">Around the league, these three guards \u2014 LaMelo Ball, Ja Morant, and Trae Young \u2014 are being grouped together in the eyes of a lot of executives. Maybe they aren\u2019t available right now, as we speak but these are players teams are anticipating could be available between now and the trade deadline on February 5th. And again, all three of these guys have been All-Stars</a>.",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/live/FLwniS558nA"
+      }
+    ],
+    "Jalen Johnson": [
+      {
+        "date": "2025-12-12",
+        "text": "Grant Afseth: Shams Charania from ESPN reported a couple of potential Eastern Conference suitors like the Atlanta Hawks, Detroit Pistons, Toronto Raptors. But those teams so far, doesn't seem like there's meaningful traction by any means of a great offer that the Dallas Mavericks cannot refuse.I've been asking around, and there's more skepticism than optimism about Detroit and Atlanta as viable trade destinations. Because of various reasons, like Detroit has it rolling right now. Like, there's, probably a reluctance to break that team up and complicate things chemistry wise with how the season has gone for them. And then Atlanta, they also have to solve Trae Young's future, with their team long-term. So do you go into the offseason where you have to give contract clarity to Trae Young and Anthony Davis? That's where it gets complicated. And they could get a potential top three, even number one overall pick this year where you're adding that next to Jalen Johnson.Youtube",
+        "text_html": "Grant Afseth: Shams Charania from ESPN reported a couple of potential Eastern Conference suitors like the Atlanta Hawks, Detroit Pistons, Toronto Raptors. But those teams so far, doesn't seem like there's meaningful traction by any means of a great offer that the Dallas Mavericks cannot refuse. <a href=\"https://youtu.be/sEPja1PuIH4?si=G9cM2JWLbG1pVvS2\" target=\"_blank\" style=\"color: #1a73e8;\">I've been asking around, and there's more skepticism than optimism about Detroit and Atlanta as viable trade destinations. Because of various reasons, like Detroit has it rolling right now. Like, there's, probably a reluctance to break that team up and complicate things chemistry wise with how the season has gone for them</a>. And then Atlanta, they also have to solve Trae Young's future, with their team long-term. So do you go into the offseason where you have to give contract clarity to Trae Young and Anthony Davis? That's where it gets complicated. And they could get a potential top three, even number one overall pick this year where you're adding that next to Jalen Johnson.",
+        "outlet": "Youtube",
+        "source_url": "https://youtu.be/sEPja1PuIH4?si=G9cM2JWLbG1pVvS2"
+      }
+    ],
     "Jonathan Kuminga": [
       {
         "date": "2025-12-12",
@@ -1281,204 +1634,6 @@
         "source_url": "https://chicago.suntimes.com/bulls/2025/12/11/trade-rumors-grow-around-bulls-coby-white"
       }
     ],
-    "Anthony Davis": [
-      {
-        "date": "2025-12-12",
-        "text": "Davis\u2019 contract status is certainly providing a pressure point. Davis \u2014 who is represented by Klutch Sports CEO Rich Paul \u2014 is eligible for an extension this summer (his current deal runs through next season, with a player option for $62.7 million in 2027-28). That\u2019s a major consideration for both the Mavs and the expected suitors, which \u2014 as ESPN first reported \u2014 are expected to include Detroit, Atlanta and Toronto.Yet as several league sources indicated, the actual level of interest from the aforementioned teams remains to be seen. Especially given Davis\u2019 sordid health history.New York Times",
-        "text_html": "Davis\u2019 contract status is certainly providing a pressure point. Davis \u2014 who is represented by Klutch Sports CEO Rich Paul \u2014 is eligible for an extension this summer (his current deal runs through next season, with a player option for $62.7 million in 2027-28). That\u2019s a major consideration for both the Mavs and the expected suitors, which \u2014 as ESPN first reported \u2014 are expected to include Detroit, Atlanta and Toronto. <a href=\"https://www.nytimes.com/athletic/6881845/2025/12/12/nba-trades-giannis-antetokounmpo-anthony-davis-warriors-mavericks/?source=user_shared_article\" target=\"_blank\" style=\"color: #1a73e8;\">Yet as several league sources indicated, the actual level of interest from the aforementioned teams remains to be seen. Especially given Davis\u2019 sordid health history</a>.",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/6881845/2025/12/12/nba-trades-giannis-antetokounmpo-anthony-davis-warriors-mavericks/?source=user_shared_article"
-      },
-      {
-        "date": "2025-12-12",
-        "text": "Tim Bontemps:\u201cFor a guy like Anthony Davis,\" a West\u00a0executive\u00a0said, \"it's hard to justify them getting a 35 percent max when they aren't playing a ton of minutes and games.\"That's why\u00a0sources\u00a0I've\u00a0spoken\u00a0to have expressed skepticism in a robust market for Davis this trade season, particularly as teams around the league are shifting to younger, faster and deeper rosters.ESPN",
-        "text_html": "Tim Bontemps: <a href=\"https://www.espn.com/nba/story/_/id/47281439/nba-trade-deadline-intel-new-era-superstar-value-means-giannis-anthony-davis\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cFor a guy like Anthony Davis,\" a West executive said, \"it's hard to justify them getting a 35 percent max when they aren't playing a ton of minutes and games.\"</a> That's why sources I've spoken to have expressed skepticism in a robust market for Davis this trade season, particularly as teams around the league are shifting to younger, faster and deeper rosters.",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/47281439/nba-trade-deadline-intel-new-era-superstar-value-means-giannis-anthony-davis"
-      },
-      {
-        "date": "2025-12-11",
-        "text": "A source with knowledge of the Pistons\u2019 thinking told the Free Press they haven't had discussions with the Mavericks regarding a trade for Davis.And based on private discussions and public comments from the front office and coaching staff, it seems unlikely the Pistons are or will be among the teams looking to acquire him.Detroit Free Press",
-        "text_html": "A source with knowledge of the Pistons\u2019 thinking told the Free Press they haven't had discussions with the Mavericks regarding a trade for Davis. <a href=\"https://www.freep.com/story/sports/nba/pistons/2025/12/11/anthony-davis-trade-rumors-pistons-mavericks/87707064007/\" target=\"_blank\" style=\"color: #1a73e8;\">And based on private discussions and public comments from the front office and coaching staff, it seems unlikely the Pistons are or will be among the teams looking to acquire him</a>.",
-        "outlet": "Detroit Free Press",
-        "source_url": "https://www.freep.com/story/sports/nba/pistons/2025/12/11/anthony-davis-trade-rumors-pistons-mavericks/87707064007/"
-      },
-      {
-        "date": "2025-12-11",
-        "text": "Jake Fischer: \u201cNow, on to Anthony Davis \u2014 this is our final segment. There was reporting from ESPN this morning that there are three teams to monitor as potential landing spots for AD: Detroit, Atlanta, and Toronto. And not to pour cold water on someone else\u2019s work, but I\u2019m going to say right now \u2014I find the Pistons to be an incredibly unlikely landing spot for Anthony Davis. We talked about this with Lauri Markkanen a couple weeks ago. The fact is: the Pistons are near the top of the Eastern Conference standings, and they have tradable salary pieces like Tobias Harris, Caris LeVert, and Duncan Robinson...\u201dYouTube",
-        "text_html": "Jake Fischer: \u201cNow, on to Anthony Davis \u2014 this is our final segment. There was reporting from ESPN this morning that there are three teams to monitor as potential landing spots for AD: Detroit, Atlanta, and Toronto. And not to pour cold water on someone else\u2019s work, but I\u2019m going to say right now \u2014 <a href=\"https://www.youtube.com/watch?v=xAMVMh9f7KA\" target=\"_blank\" style=\"color: #1a73e8;\">I find the Pistons to be an incredibly unlikely landing spot for Anthony Davis</a>. We talked about this with Lauri Markkanen a couple weeks ago. The fact is: the Pistons are near the top of the Eastern Conference standings, and they have tradable salary pieces like Tobias Harris, Caris LeVert, and Duncan Robinson...\u201d",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=xAMVMh9f7KA"
-      },
-      {
-        "date": "2025-12-09",
-        "text": "Anthony Davis\u00a0of the\u00a0Dallas Mavericks, another former NBA champion, is expected to be a\u00a0critical trade target\u00a0of several teams, including many of the East's contenders.The\u00a0Detroit Pistons,\u00a0Atlanta Hawks\u00a0and\u00a0Toronto Raptors\u00a0are expected to be suitors for Davis,league\u00a0sources\u00a0told\u00a0ESPN.ESPN",
-        "text_html": "Anthony Davis of the Dallas Mavericks, another former NBA champion, is expected to be a critical trade target of several teams, including many of the East's contenders. <a href=\"https://www.espn.com/nba/story/_/id/47245704/shams-pass-nba-trade-deadline-notes-news-buzz-anthony-davis-giannis-antetokounmpo-teams\" target=\"_blank\" style=\"color: #1a73e8;\">The Detroit Pistons, Atlanta Hawks and Toronto Raptors are expected to be suitors for Davis,</a> league sources told ESPN.",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/47245704/shams-pass-nba-trade-deadline-notes-news-buzz-anthony-davis-giannis-antetokounmpo-teams"
-      },
-      {
-        "date": "2025-12-05",
-        "text": "The reluctance of teams to trade multiple first round picks into the future is expected to impact the trade packages for Davis and potentially even Giannis Antetokounmpo. \"What I'm telling you is that when I talk to executives and these executives are not in trade talks with the Bucks or another for a star player right now, the mood in the NBA right now is not give up four first round picks for anybody,\" said Brian Windhorst on The Hoop Collective podcast on Friday. \"Okay, maybe if Shai (Gilgeous-Alexander) came on, or Victor (Wembanyama)... Like people don't want to do that because the aprons have spooked so many teams.All these teams are worried about getting into apron trouble where they can't reset their rosters. And you get into a situation like the Celtics were in where you got to rip your team down.\"RealGM",
-        "text_html": "The reluctance of teams to trade multiple first round picks into the future is expected to impact the trade packages for Davis and potentially even Giannis Antetokounmpo. \"What I'm telling you is that when I talk to executives and these executives are not in trade talks with the Bucks or another for a star player right now, the mood in the NBA right now is not give up four first round picks for anybody,\" said Brian Windhorst on The Hoop Collective podcast on Friday. \"Okay, maybe if Shai (Gilgeous-Alexander) came on, or Victor (Wembanyama)... Like people don't want to do that because the aprons have spooked so many teams. <a href=\"https://basketball.realgm.com/wiretap/283014/NBA-GMs-Have-Become-More-Reluctant-To-Trade-Multiple-First-Rounders-For-Star-In-Apron-Era\" target=\"_blank\" style=\"color: #1a73e8;\">All these teams are worried about getting into apron trouble where they can't reset their rosters. And you get into a situation like the Celtics were in where you got to rip your team down.\"</a>",
-        "outlet": "RealGM",
-        "source_url": "https://basketball.realgm.com/wiretap/283014/NBA-GMs-Have-Become-More-Reluctant-To-Trade-Multiple-First-Rounders-For-Star-In-Apron-Era"
-      },
-      {
-        "date": "2025-12-05",
-        "text": "Brian Windhorst:\u00a0I don't know what the value\u00a0of Anthony Davis. Some of the stuff\u00a0that I have\u00a0heard\u00a0from\u00a0executives\u00a0talking to me about what they think\u00a0Anthony Davis' trade value is\u2026 I'm not\u00a0even going to say it because then I'd\u00a0get aggregated and people would be\u00a0jumping down my throat and I would just be repeating something somebody else\u00a0said. When I have\u00a0heard\u00a0what people are\u00a0saying Anthony Davis' trade value is\u00a0right now, not because of him as a\u00a0player, to be clear, not because he's\u00a0diminished as a player, butbecause of\u00a0the idea of paying an injury-prone mid-30s guy\u00a0$50, $60 million dollars in the apron era is\u00a0unpalatable.YouTube",
-        "text_html": "Brian Windhorst: I don't know what the value of Anthony Davis. Some of the stuff that I have heard from executives talking to me about what they think Anthony Davis' trade value is\u2026 I'm not even going to say it because then I'd get aggregated and people would be jumping down my throat and I would just be repeating something somebody else said. When I have heard what people are saying Anthony Davis' trade value is right now, not because of him as a player, to be clear, not because he's diminished as a player, but <a href=\"https://www.youtube.com/watch?v=aqCUYmtwRCo&t=510s\" target=\"_blank\" style=\"color: #1a73e8;\">because of the idea of paying an injury-prone mid-30s guy $50, $60 million dollars in the apron era is unpalatable</a>.",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=aqCUYmtwRCo&t=510s"
-      },
-      {
-        "date": "2025-12-01",
-        "text": "The Bulls have had internal discussions about how to proceed, including conversations about Dallas Mavericks star Anthony Davis,sources told ESPN, whom they believe could help the team's porous rim protection and defensive interior.ESPN",
-        "text_html": "<a href=\"https://www.espn.com/nba/story/_/id/47154935/from-6-1-9-10-make-curious-chicago-bulls-start\" target=\"_blank\" style=\"color: #1a73e8;\">The Bulls have had internal discussions about how to proceed, including conversations about Dallas Mavericks star Anthony Davis,</a> sources told ESPN, whom they believe could help the team's porous rim protection and defensive interior.",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/47154935/from-6-1-9-10-make-curious-chicago-bulls-start"
-      },
-      {
-        "date": "2025-11-28",
-        "text": "Mike Curtis: Jason Kidd on making sure Anthony Davis is in a good mental space considering he's drawn some ire from the fanbase:\"The biggest thing is the train keeps moving, no matter of a trade or a dismissal. You gotta keep moving.For AD, it was to focus on his body, come back healthy. He's ready to go...\"x.com",
-        "text_html": "Mike Curtis: Jason Kidd on making sure Anthony Davis is in a good mental space considering he's drawn some ire from the fanbase: <a href=\"https://x.com/MikeACurtis2/status/1994601681007645106\" target=\"_blank\" style=\"color: #1a73e8;\">\"The biggest thing is the train keeps moving, no matter of a trade or a dismissal. You gotta keep moving.</a> For AD, it was to focus on his body, come back healthy. He's ready to go...\"",
-        "outlet": "x.com",
-        "source_url": "https://x.com/MikeACurtis2/status/1994601681007645106"
-      },
-      {
-        "date": "2025-11-27",
-        "text": "Tim MacMahon:Trading AD is a real possibility\u2014and I would even say likelihood\u2014this season. Trading Kyrie is not something that's on the Mavericks' priority list, or it's just straight up not something that they are interested in doing right now.\"YouTube",
-        "text_html": "Tim MacMahon: <a href=\"https://www.youtube.com/watch?v=h7fcpo74I_I\" target=\"_blank\" style=\"color: #1a73e8;\">Trading AD is a real possibility\u2014and I would even say likelihood\u2014this season. Trading Kyrie is not something that's on the Mavericks' priority list, or it's just straight up not something that they are interested in doing right now.\"</a>",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=h7fcpo74I_I"
-      },
-      {
-        "date": "2025-11-26",
-        "text": "Mike Curtis: Anthony Davis was asked about his name being involved in trade rumors: \u201cMan, look. Y'all make it like we\u2019re going to war or something. This is basketball. It comes withit\u2026That doesn\u2019t affect me. I\u2019ve been in trade talks for a while. My job is to do what I do when I\u2019m on the floor, play basketball and try to lead this team.Whatever comes out of that, comes out of that.\u201dx.com",
-        "text_html": "Mike Curtis: Anthony Davis was asked about his name being involved in trade rumors: \u201cMan, look. Y'all make it like we\u2019re going to war or something. This is basketball. It comes with <a href=\"https://x.com/MikeACurtis2/status/1993773663066157216\" target=\"_blank\" style=\"color: #1a73e8;\">it\u2026That doesn\u2019t affect me. I\u2019ve been in trade talks for a while. My job is to do what I do when I\u2019m on the floor, play basketball and try to lead this team.</a> Whatever comes out of that, comes out of that.\u201d",
-        "outlet": "x.com",
-        "source_url": "https://x.com/MikeACurtis2/status/1993773663066157216"
-      },
-      {
-        "date": "2025-11-26",
-        "text": "\u201cIt was surprising more than anything,\u201d Davis said. \u201cNico\u2019s my guy. Obviously, he played a huge part of getting me here and wanting me to fulfill his vision, in a sense, that he saw. It was definitely tough. ...It\u2019s the business of basketball. Once I had those conversations [with Harrison and Dumont], I was able to move forward and continue to rehab and get back on the floor and try to compete.\u201dDallas Morning News",
-        "text_html": "\u201cIt was surprising more than anything,\u201d Davis said. \u201cNico\u2019s my guy. Obviously, he played a huge part of getting me here and wanting me to fulfill his vision, in a sense, that he saw. It was definitely tough. ... <a href=\"https://www.dallasnews.com/sports/mavericks/2025/11/26/anthony-davis-trade-mavericks-dallas-nba-injury-nico-harrison/\" target=\"_blank\" style=\"color: #1a73e8;\">It\u2019s the business of basketball. Once I had those conversations [with Harrison and Dumont], I was able to move forward and continue to rehab and get back on the floor and try to compete.\u201d</a>",
-        "outlet": "Dallas Morning News",
-        "source_url": "https://www.dallasnews.com/sports/mavericks/2025/11/26/anthony-davis-trade-mavericks-dallas-nba-injury-nico-harrison/"
-      },
-      {
-        "date": "2025-11-26",
-        "text": "There is an expectation in some corners, you see, that Anthony Davis and his representation at Klutch Sports will seek a contract extension from a new team if he indeed gets dealt.marcstein.substack.com",
-        "text_html": "<a href=\"https://marcstein.substack.com/p/talking-zone-defense-nba-big-men\" target=\"_blank\" style=\"color: #1a73e8;\">There is an expectation in some corners, you see, that Anthony Davis and his representation at Klutch Sports will seek a contract extension from a new team if he indeed gets dealt</a>.",
-        "outlet": "marcstein.substack.com",
-        "source_url": "https://marcstein.substack.com/p/talking-zone-defense-nba-big-men"
-      },
-      {
-        "date": "2025-11-24",
-        "text": "The Dallas Mavericks are reportedly facing a conundrum when it comes to potentially trading star big man Anthony Davis. During Monday's episode of The Hoop Collective, ESPN's Tim Bontemps explained that Davis' trade value isn't as high as many would expect for a player of his caliber. \"The idea of trading Anthony Davis has everyone trained to think, well, they're gonna get three firsts, two swaps, they're gonna get two young players and they're gonna get all this stuff,\" Bontemps said around the 33:00 mark.\"I shouldn't say it's not gonna happen... but, you talk to people in the league, there's not a lot of teams that are lining up to take on a 35-year-old Anthony Davis making $63 million, and you have to assume that he's gonna opt into that deal.\"Bleacher Report",
-        "text_html": "The Dallas Mavericks are reportedly facing a conundrum when it comes to potentially trading star big man Anthony Davis. During Monday's episode of The Hoop Collective, ESPN's Tim Bontemps explained that Davis' trade value isn't as high as many would expect for a player of his caliber. \"The idea of trading Anthony Davis has everyone trained to think, well, they're gonna get three firsts, two swaps, they're gonna get two young players and they're gonna get all this stuff,\" Bontemps said around the 33:00 mark. <a href=\"https://bleacherreport.com/articles/25304382-what-anthony-davis-trade-value-nba-insiders-shocking-revelation-amid-mavs-rumors\" target=\"_blank\" style=\"color: #1a73e8;\">\"I shouldn't say it's not gonna happen... but, you talk to people in the league, there's not a lot of teams that are lining up to take on a 35-year-old Anthony Davis making $63 million, and you have to assume that he's gonna opt into that deal.\"</a>",
-        "outlet": "Bleacher Report",
-        "source_url": "https://bleacherreport.com/articles/25304382-what-anthony-davis-trade-value-nba-insiders-shocking-revelation-amid-mavs-rumors"
-      },
-      {
-        "date": "2025-11-23",
-        "text": "Ian Begley: I\u2019d guess today that they prioritize point guard over front court in the trade market. This is stating the obvious, butI\u2019m sure the Knicks would at least check in with Dallas if/when\u00a0Anthony Davis\u00a0becomes available.You may scoff at the idea, but the Knicks want to win a title this season. If Dallas is offering Davis at a below-market cost, I\u2019m sure the Knicks will at least give the move some thought. But this, again, is stating the obvious. The Mavs will get calls from nearly all NBA teams if/when they make Davis available.SportsNet New York",
-        "text_html": "Ian Begley: I\u2019d guess today that they prioritize point guard over front court in the trade market. This is stating the obvious, but <a href=\"https://sny.tv/articles/knicks-mailbag-11-22-25\" target=\"_blank\" style=\"color: #1a73e8;\">I\u2019m sure the Knicks would at least check in with Dallas if/when Anthony Davis becomes available.</a> You may scoff at the idea, but the Knicks want to win a title this season. If Dallas is offering Davis at a below-market cost, I\u2019m sure the Knicks will at least give the move some thought. But this, again, is stating the obvious. The Mavs will get calls from nearly all NBA teams if/when they make Davis available.",
-        "outlet": "SportsNet New York",
-        "source_url": "https://sny.tv/articles/knicks-mailbag-11-22-25"
-      },
-      {
-        "date": "2025-11-21",
-        "text": "The Bulls could go in a few directions over the next several months, including adding to the current roster.That has led some sources to speculate whether Chicago, with over $80 million in expiring money, could be a suitor for Dallas' Anthony Davis and bring the Windy City native home. \u2018I could see it,\u2019 a West executive, who recently saw Chicago play, said. \u2018[Josh] Giddey has worked well with Vucevic, but he could use a roll man to throw it up to.ESPN",
-        "text_html": "The Bulls could go in a few directions over the next several months, including adding to the current roster. <a href=\"https://www.espn.com/nba/story/_/id/47039949/nba-first-month-lessons-intel-thunder-lakers-warriors-knicks-every-team\" target=\"_blank\" style=\"color: #1a73e8;\">That has led some sources to speculate whether Chicago, with over $80 million in expiring money, could be a suitor for Dallas' Anthony Davis and bring the Windy City native home. \u2018I could see it,\u2019 a West executive, who recently saw Chicago play, said. \u2018[Josh] Giddey has worked well with Vucevic, but he could use a roll man to throw it up to</a>.",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/47039949/nba-first-month-lessons-intel-thunder-lakers-warriors-knicks-every-team"
-      },
-      {
-        "date": "2025-11-20",
-        "text": "League sources say that the Mavericks still intend to field any trade interest in Davis that emerges over the next two-plus months ... with the prospect of an actual trade obviously dependent on offer quality.marcstein.substack.com",
-        "text_html": "<a href=\"https://marcstein.substack.com/p/is-the-nbas-trade-market-for-point\" target=\"_blank\" style=\"color: #1a73e8;\">League sources say that the Mavericks still intend to field any trade interest in Davis that emerges over the next two-plus months ... with the prospect of an actual trade obviously dependent on offer quality</a>.",
-        "outlet": "marcstein.substack.com",
-        "source_url": "https://marcstein.substack.com/p/is-the-nbas-trade-market-for-point"
-      },
-      {
-        "date": "2025-11-19",
-        "text": "Shams Charania: This franchise is moving away from Nico Harrison's three to four year championship window, and toward trying to find sustained success and sustained growth around Cooper, Flagg and youth. And to that end, sources have told ESPN that the Mavericks will be listening to trade calls for Anthony Davis and seeing and exploring his value.And for that, health will be the biggest key because not only for the Mavericks to evaluate Anthony Davis over a lengthy period of time, an extended period of time on the court, but for other teams that could have interest in him to see what he looks like when he's back with this team, looks like when he's back, a lot of evaluation to come around.x.com",
-        "text_html": "Shams Charania: This franchise is moving away from Nico Harrison's three to four year championship window, and toward trying to find sustained success and sustained growth around Cooper, Flagg and youth. And to that end, sources have told ESPN that the Mavericks will be listening to trade calls for Anthony Davis and seeing and exploring his value. <a href=\"https://x.com/ShamsCharania/status/1991301604952404406\" target=\"_blank\" style=\"color: #1a73e8;\">And for that, health will be the biggest key because not only for the Mavericks to evaluate Anthony Davis over a lengthy period of time, an extended period of time on the court, but for other teams that could have interest in him to see what he looks like when he's back with this team, looks like when he's back, a lot of evaluation to come around</a>.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/ShamsCharania/status/1991301604952404406"
-      },
-      {
-        "date": "2025-11-19",
-        "text": "Dallas Mavericks minority owner Mark Cuban told The Athletic the franchise would not try to trade Anthony Davis this season.\u201cWe won\u2019t. We want to try to win,\u201d Cuban said Wednesday in an email when asked if he and Mavericks governor Patrick Dumont would seek a deal for Davis, the oft-injured, 10-time All-Star who was the centerpiece for Dallas in last season\u2019s Luka Don\u010di\u0107 trade.New York Times",
-        "text_html": "Dallas Mavericks minority owner Mark Cuban told The Athletic the franchise would not try to trade Anthony Davis this season. <a href=\"https://www.nytimes.com/athletic/6820984/2025/11/19/mavericks-anthony-davis-trade-mark-cuban/?source=emp_shared_article\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cWe won\u2019t. We want to try to win,\u201d Cuban said Wednesday in an email when asked if he and Mavericks governor Patrick Dumont would seek a deal for Davis, the oft-injured, 10-time All-Star who was the centerpiece for Dallas in last season\u2019s Luka Don\u010di\u0107 trade</a>.",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/6820984/2025/11/19/mavericks-anthony-davis-trade-mark-cuban/?source=emp_shared_article"
-      },
-      {
-        "date": "2025-11-19",
-        "text": "Multiple team sources said the Mavs, who are 4-11 and outside the playoff picture in the West, will also\u00a0explore the trade market for Anthony Davis,the 10-time All-Star big man who was the headliner in the return of the Doncic\u00a0deal, as part of that process before this season's deadline. For a fan base that still feels betrayed, so many questions linger in the wake of this self-inflicted saga, many of which center around the famous former majority owner.ESPN",
-        "text_html": "<a href=\"https://www.espn.com/nba/story/_/id/47014061/inside-mavericks-power-struggle-nico-harrison-vs-mark-cuban\" target=\"_blank\" style=\"color: #1a73e8;\">Multiple team sources said the Mavs, who are 4-11 and outside the playoff picture in the West, will also explore the trade market for Anthony Davis,</a> the 10-time All-Star big man who was the headliner in the return of the Doncic deal, as part of that process before this season's deadline. For a fan base that still feels betrayed, so many questions linger in the wake of this self-inflicted saga, many of which center around the famous former majority owner.",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/47014061/inside-mavericks-power-struggle-nico-harrison-vs-mark-cuban"
-      },
-      {
-        "date": "2025-11-18",
-        "text": "ESPN talked to team executives from both conferences regarding Davis' future and what his market could look like if the Mavericks explore trading him.\"You have to look at what he did the prior two seasons with the Lakers, his short tenure in Dallas and then the future,\" an Eastern Conference executive said.ESPN",
-        "text_html": "ESPN talked to team executives from both conferences regarding Davis' future and what his market could look like if the Mavericks explore trading him. <a href=\"https://www.espn.com/nba/story/_/id/46993870/mavericks-options-trade-anthony-davis-wait-free-agency-tank-draft\" target=\"_blank\" style=\"color: #1a73e8;\">\"You have to look at what he did the prior two seasons with the Lakers, his short tenure in Dallas and then the future,\" an Eastern Conference executive said</a>.",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/46993870/mavericks-options-trade-anthony-davis-wait-free-agency-tank-draft"
-      },
-      {
-        "date": "2025-11-18",
-        "text": "In Los Angeles, Davis played the most games in his career (76) during the 2023-24 season and was named to the All-NBA and All-Defensive teams. That was the first time Davis played at least 65 games since 2017-18. He was averaging 25.7 points and 11.9 rebounds in 41 games before he was traded to Dallas. Davis has played 15 games since, missing time because of a left abductor strain and currently a left calf strain.\"While you can point to Davis as a top-20 player in Los Angeles, it is a $175 million gamble and perhaps more, if you trade for him,\" a West executive said. \"I would want to see a long stretch of games of Davis healthy before there could ever be a discussion.\"ESPN",
-        "text_html": "In Los Angeles, Davis played the most games in his career (76) during the 2023-24 season and was named to the All-NBA and All-Defensive teams. That was the first time Davis played at least 65 games since 2017-18. He was averaging 25.7 points and 11.9 rebounds in 41 games before he was traded to Dallas. Davis has played 15 games since, missing time because of a left abductor strain and currently a left calf strain. <a href=\"https://www.espn.com/nba/story/_/id/46993870/mavericks-options-trade-anthony-davis-wait-free-agency-tank-draft\" target=\"_blank\" style=\"color: #1a73e8;\">\"While you can point to Davis as a top-20 player in Los Angeles, it is a $175 million gamble and perhaps more, if you trade for him,\" a West executive said. \"I would want to see a long stretch of games of Davis healthy before there could ever be a discussion.\"</a>",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/46993870/mavericks-options-trade-anthony-davis-wait-free-agency-tank-draft"
-      },
-      {
-        "date": "2025-11-17",
-        "text": "ESPN talked to team\u00a0executives\u00a0from both conferences regarding Davis' future and what his market could look like if the Mavericks explore trading him. \"You have to look at what he did the prior two seasons with the Lakers, his short tenure in Dallas and then the future,\" an Eastern Conference\u00a0executive\u00a0said. In Los Angeles, Davis played the most games in his career (76) during the 2023-24 season and was named to the All-NBA and All-Defensive teams. That was the first time Davis played at least 65 games since 2017-18. He was averaging 25.7 points and 11.9 rebounds in 41 games before he was traded to Dallas.ESPN",
-        "text_html": "<a href=\"https://www.espn.com/nba/story/_/id/46993870/mavericks-options-trade-anthony-davis-wait-free-agency-tank-draft\" target=\"_blank\" style=\"color: #1a73e8;\">ESPN talked to team executives from both conferences regarding Davis' future and what his market could look like if the Mavericks explore trading him. \"You have to look at what he did the prior two seasons with the Lakers, his short tenure in Dallas and then the future,\" an Eastern Conference executive said</a>. In Los Angeles, Davis played the most games in his career (76) during the 2023-24 season and was named to the All-NBA and All-Defensive teams. That was the first time Davis played at least 65 games since 2017-18. He was averaging 25.7 points and 11.9 rebounds in 41 games before he was traded to Dallas.",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/46993870/mavericks-options-trade-anthony-davis-wait-free-agency-tank-draft"
-      },
-      {
-        "date": "2025-11-17",
-        "text": "Davis has played 15 games since, missing time because of a left abductor strain and currently a left calf strain.\"While you can point to Davis as a top-20 player in Los Angeles, it is a $175 million gamble and perhaps more, if you trade for him,\" a West\u00a0executive\u00a0said.\"I would want to see a long stretch of games of Davis healthy before there could ever be a discussion.\"ESPN",
-        "text_html": "Davis has played 15 games since, missing time because of a left abductor strain and currently a left calf strain. <a href=\"https://www.espn.com/nba/story/_/id/46993870/mavericks-options-trade-anthony-davis-wait-free-agency-tank-draft\" target=\"_blank\" style=\"color: #1a73e8;\">\"While you can point to Davis as a top-20 player in Los Angeles, it is a $175 million gamble and perhaps more, if you trade for him,\" a West executive said.</a> \"I would want to see a long stretch of games of Davis healthy before there could ever be a discussion.\"",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/46993870/mavericks-options-trade-anthony-davis-wait-free-agency-tank-draft"
-      },
-      {
-        "date": "2025-11-14",
-        "text": "With the Mavericks being the biggest topic around the league this week, the discussion quickly shifted to the question looming over whomever is tapped to replace Harrison as the lead executive: What does the future hold for Davis and Irving less than three months until the February trade deadline?The belief, from sources I spoke to, is that the Mavs moving on from at least Davis, if not both stars, was the optimal strategy. Those moves would help maximize the 2026 first-round pick in a loaded 2026 draft class -- the only selection Dallas controls the rest of this decade -- to reposition the franchise around 2025 No. 1 pick Cooper Flagg. \"Absolutely,\" an Eastern Conference executive said when asked whether trading the two veteran stars was the right path for Dallas.ESPN",
-        "text_html": "With the Mavericks being the biggest topic around the league this week, the discussion quickly shifted to the question looming over whomever is tapped to replace Harrison as the lead executive: What does the future hold for Davis and Irving less than three months until the February trade deadline? <a href=\"https://www.espn.com/nba/story/_/id/46957985/nba-intel-execs-scouts-sinking-mavs-lebron-lakers-spurs\" target=\"_blank\" style=\"color: #1a73e8;\">The belief, from sources I spoke to, is that the Mavs moving on from at least Davis, if not both stars, was the optimal strategy. Those moves would help maximize the 2026 first-round pick in a loaded 2026 draft class -- the only selection Dallas controls the rest of this decade -- to reposition the franchise around 2025 No. 1 pick Cooper Flagg</a>. \"Absolutely,\" an Eastern Conference executive said when asked whether trading the two veteran stars was the right path for Dallas.",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/46957985/nba-intel-execs-scouts-sinking-mavs-lebron-lakers-spurs"
-      },
-      {
-        "date": "2025-11-14",
-        "text": "But no, the discussions were whether the Mavs could get appropriate value when trading Davis.\"I just looked it up so I could say this to my owner if he asks me about it, AD is turning 33 in March and he's going to be in position next summer where he'll probably want a contract extension that would cost $70 million per year when he'd be 37,\" one general manager said. \"He's a great player, full stop. But when you consider a player at his age with his injury history, you'd also be trading for the stress of that extension. That plays into it.\"ESPN",
-        "text_html": "But no, the discussions were whether the Mavs could get appropriate value when trading Davis. <a href=\"https://www.espn.com/nba/story/_/id/46957985/nba-intel-execs-scouts-sinking-mavs-lebron-lakers-spurs\" target=\"_blank\" style=\"color: #1a73e8;\">\"I just looked it up so I could say this to my owner if he asks me about it, AD is turning 33 in March and he's going to be in position next summer where he'll probably want a contract extension that would cost $70 million per year when he'd be 37,\" one general manager said</a>. \"He's a great player, full stop. But when you consider a player at his age with his injury history, you'd also be trading for the stress of that extension. That plays into it.\"",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/46957985/nba-intel-execs-scouts-sinking-mavs-lebron-lakers-spurs"
-      },
-      {
-        "date": "2025-11-14",
-        "text": "Wall, who played alongside Davis during their college days at Kentucky, further fueled speculation by linking him to his hometown team.\u201cYou can\u2019t believe everything you hear on the news, but you be hearing that he wants to go back to Chicago and see what\u2019s going on,\u201d Wall continued.\u201cSo, I think they\u2019re trying to blow it up and build around Cooper Flagg and get rid of some of the other pieces, but they are one of those dark horse teams if they can stay healthy \u2014 keep AD there and let Kyrie come back. I feel like they could\u2019ve been a team in the West, but I think with Nico Harrison\u2019s firing they might end up going in a different direction.\u201dYahoo! Sports",
-        "text_html": "Wall, who played alongside Davis during their college days at Kentucky, further fueled speculation by linking him to his hometown team. <a href=\"https://sports.yahoo.com/article/nba-rumors-john-wall-claims-174816057.html\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cYou can\u2019t believe everything you hear on the news, but you be hearing that he wants to go back to Chicago and see what\u2019s going on,\u201d Wall continued.</a> \u201cSo, I think they\u2019re trying to blow it up and build around Cooper Flagg and get rid of some of the other pieces, but they are one of those dark horse teams if they can stay healthy \u2014 keep AD there and let Kyrie come back. I feel like they could\u2019ve been a team in the West, but I think with Nico Harrison\u2019s firing they might end up going in a different direction.\u201d",
-        "outlet": "Yahoo! Sports",
-        "source_url": "https://sports.yahoo.com/article/nba-rumors-john-wall-claims-174816057.html"
-      },
-      {
-        "date": "2025-11-14",
-        "text": "Tim MacMahon: AndI think they will have discussions, at least internally, about exploring the trade market for Anthony Davis. He\u2019s got to get back on the floor. They need to make sure he\u2019s not in a situation where he could aggravate the calf injury\u2014or worse. He will have some type of trade value, and they\u2019ve got to explore that. As for Kyrie Irving\u2014it might be mutually beneficial for him just to take the whole year, focus on getting 100% healthy, and not help them win a few more games down the stretch.YouTube",
-        "text_html": "Tim MacMahon: And <a href=\"https://www.youtube.com/watch?v=bHfb54Q_jzI\" target=\"_blank\" style=\"color: #1a73e8;\">I think they will have discussions, at least internally, about exploring the trade market for Anthony Davis. He\u2019s got to get back on the floor. They need to make sure he\u2019s not in a situation where he could aggravate the calf injury\u2014or worse</a>. He will have some type of trade value, and they\u2019ve got to explore that. As for Kyrie Irving\u2014it might be mutually beneficial for him just to take the whole year, focus on getting 100% healthy, and not help them win a few more games down the stretch.",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=bHfb54Q_jzI"
-      }
-    ],
     "Zach LaVine": [
       {
         "date": "2025-12-12",
@@ -1544,13 +1699,6 @@
         "text_html": "Maybe this was inevitable after a 41-point loss to the Morant-less Grizzlies, but <a href=\"https://marcstein.substack.com/p/sunday-best-the-pieces-of-this-seasons\" target=\"_blank\" style=\"color: #1a73e8;\">league sources say that the Kings are willing to listen to offers for players up and down their roster \u2026 particularly for Sacramento's veterans</a>.",
         "outlet": "marcstein.substack.com",
         "source_url": "https://marcstein.substack.com/p/sunday-best-the-pieces-of-this-seasons"
-      },
-      {
-        "date": "2025-11-14",
-        "text": "Sam Amick: \u201cThe reason they were comfortable doing the Keegan Murray contract is because \u2014 partly at least \u2014 they not only valued him within their program, but they learned that he\u2019s got a lot of value around the league. So,as it relates to Sabonis, my understanding is there are at least a few teams that have raised their hand to say, \u2018Yeah, he\u2019s somebody we\u2019d want to talk about.\u2019I\u2019ve said it on your show before \u2014 I don\u2019t have that sort of information about Zach [LaVine].\u201dYouTube",
-        "text_html": "Sam Amick: \u201cThe reason they were comfortable doing the Keegan Murray contract is because \u2014 partly at least \u2014 they not only valued him within their program, but they learned that he\u2019s got a lot of value around the league. So, <a href=\"https://www.youtube.com/watch?v=aLfHxlLUKdA\" target=\"_blank\" style=\"color: #1a73e8;\">as it relates to Sabonis, my understanding is there are at least a few teams that have raised their hand to say, \u2018Yeah, he\u2019s somebody we\u2019d want to talk about.\u2019</a> I\u2019ve said it on your show before \u2014 I don\u2019t have that sort of information about Zach [LaVine].\u201d",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=aLfHxlLUKdA"
       }
     ],
     "Nicolas Claxton": [
@@ -1560,36 +1708,6 @@
         "text_html": "Evan Sidery: <a href=\"https://x.com/esidery/status/1998474849136836786\" target=\"_blank\" style=\"color: #1a73e8;\">The Warriors, who will be in the market for a center upgrade during trade season, are expected to show interest in Nic Claxton.</a> The Nets are once again open to moving Claxton, who is under contract through 2027-28. A swap of Jonathan Kuminga for Claxton would be on the table.",
         "outlet": "x.com",
         "source_url": "https://x.com/esidery/status/1998474849136836786"
-      }
-    ],
-    "Daniel Gafford": [
-      {
-        "date": "2025-12-12",
-        "text": "\"They have to be very careful with what they do with AD,\" an East\u00a0executive\u00a0said. \"They could set themselves back years with the wrong deal.\"Speaking of Daniel Gafford, he has been mentioned as a possible trade\u00a0candidate\u00a0this season and into the future, especially if the Mavericks have to cut payroll.He's a quality big man, and the three-year, $54 million\u00a0contract\u00a0he starts next season is viewed as reasonable. But with center\u00a0Dereck Lively II\u00a0playing just 43 games over the past two seasons -- he will miss the rest of 2025-26 with a foot injury -- it should no longer be assumed that Gafford is expendable in Dallas.ESPN",
-        "text_html": "\"They have to be very careful with what they do with AD,\" an East executive said. \"They could set themselves back years with the wrong deal.\" <a href=\"https://www.espn.com/nba/story/_/id/47281439/nba-trade-deadline-intel-new-era-superstar-value-means-giannis-anthony-davis\" target=\"_blank\" style=\"color: #1a73e8;\">Speaking of Daniel Gafford, he has been mentioned as a possible trade candidate this season and into the future, especially if the Mavericks have to cut payroll.</a> He's a quality big man, and the three-year, $54 million contract he starts next season is viewed as reasonable. But with center Dereck Lively II playing just 43 games over the past two seasons -- he will miss the rest of 2025-26 with a foot injury -- it should no longer be assumed that Gafford is expendable in Dallas.",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/47281439/nba-trade-deadline-intel-new-era-superstar-value-means-giannis-anthony-davis"
-      },
-      {
-        "date": "2025-12-09",
-        "text": "Anthony Davis\u00a0of the\u00a0Dallas Mavericks, another former NBA champion, is expected to be a\u00a0critical trade target\u00a0of several teams, including many of the East's contenders.The\u00a0Detroit Pistons,\u00a0Atlanta Hawks\u00a0and\u00a0Toronto Raptors\u00a0are expected to be suitors for Davis,league\u00a0sources\u00a0told\u00a0ESPN.ESPN",
-        "text_html": "Anthony Davis of the Dallas Mavericks, another former NBA champion, is expected to be a critical trade target of several teams, including many of the East's contenders. <a href=\"https://www.espn.com/nba/story/_/id/47245704/shams-pass-nba-trade-deadline-notes-news-buzz-anthony-davis-giannis-antetokounmpo-teams\" target=\"_blank\" style=\"color: #1a73e8;\">The Detroit Pistons, Atlanta Hawks and Toronto Raptors are expected to be suitors for Davis,</a> league sources told ESPN.",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/47245704/shams-pass-nba-trade-deadline-notes-news-buzz-anthony-davis-giannis-antetokounmpo-teams"
-      },
-      {
-        "date": "2025-12-09",
-        "text": "TheMavericks are open to exploring the trade markets for Davis, center\u00a0Daniel Gafford\u00a0and guards\u00a0Klay Thompson\u00a0and\u00a0D'Angelo Russell,\u00a0sources\u00a0said.ESPN",
-        "text_html": "The <a href=\"https://www.espn.com/nba/story/_/id/47245704/shams-pass-nba-trade-deadline-notes-news-buzz-anthony-davis-giannis-antetokounmpo-teams\" target=\"_blank\" style=\"color: #1a73e8;\">Mavericks are open to exploring the trade markets for Davis, center Daniel Gafford and guards Klay Thompson and D'Angelo Russell, sources said.</a>",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/47245704/shams-pass-nba-trade-deadline-notes-news-buzz-anthony-davis-giannis-antetokounmpo-teams"
-      },
-      {
-        "date": "2025-11-16",
-        "text": "Daniel Gafford is widely regarded as the most tradeable Maverick between now and the Feb. 5 trade deadline in Year 1 of a three-year deal worth $54.4 million, but the injuries that have frequently derailed Davis and Dereck Lively II add a layer of complication even to Gafford's status.marcstein.substack.com",
-        "text_html": "<a href=\"https://marcstein.substack.com/p/sunday-best-the-pelicans-mavericks\" target=\"_blank\" style=\"color: #1a73e8;\">Daniel Gafford is widely regarded as the most tradeable Maverick between now and the Feb. 5 trade deadline in Year 1 of a three-year deal worth $54.4 million, but the injuries that have frequently derailed Davis and Dereck Lively II add a layer of complication even to Gafford's status</a>.",
-        "outlet": "marcstein.substack.com",
-        "source_url": "https://marcstein.substack.com/p/sunday-best-the-pelicans-mavericks"
       }
     ],
     "Dereck Lively": [
@@ -1953,22 +2071,6 @@
         "source_url": "https://www.youtube.com/watch?v=sokxu0dYIEM&t=2918s"
       }
     ],
-    "Klay Thompson": [
-      {
-        "date": "2025-12-09",
-        "text": "Anthony Davis\u00a0of the\u00a0Dallas Mavericks, another former NBA champion, is expected to be a\u00a0critical trade target\u00a0of several teams, including many of the East's contenders.The\u00a0Detroit Pistons,\u00a0Atlanta Hawks\u00a0and\u00a0Toronto Raptors\u00a0are expected to be suitors for Davis,league\u00a0sources\u00a0told\u00a0ESPN.ESPN",
-        "text_html": "Anthony Davis of the Dallas Mavericks, another former NBA champion, is expected to be a critical trade target of several teams, including many of the East's contenders. <a href=\"https://www.espn.com/nba/story/_/id/47245704/shams-pass-nba-trade-deadline-notes-news-buzz-anthony-davis-giannis-antetokounmpo-teams\" target=\"_blank\" style=\"color: #1a73e8;\">The Detroit Pistons, Atlanta Hawks and Toronto Raptors are expected to be suitors for Davis,</a> league sources told ESPN.",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/47245704/shams-pass-nba-trade-deadline-notes-news-buzz-anthony-davis-giannis-antetokounmpo-teams"
-      },
-      {
-        "date": "2025-12-09",
-        "text": "TheMavericks are open to exploring the trade markets for Davis, center\u00a0Daniel Gafford\u00a0and guards\u00a0Klay Thompson\u00a0and\u00a0D'Angelo Russell,\u00a0sources\u00a0said.ESPN",
-        "text_html": "The <a href=\"https://www.espn.com/nba/story/_/id/47245704/shams-pass-nba-trade-deadline-notes-news-buzz-anthony-davis-giannis-antetokounmpo-teams\" target=\"_blank\" style=\"color: #1a73e8;\">Mavericks are open to exploring the trade markets for Davis, center Daniel Gafford and guards Klay Thompson and D'Angelo Russell, sources said.</a>",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/47245704/shams-pass-nba-trade-deadline-notes-news-buzz-anthony-davis-giannis-antetokounmpo-teams"
-      }
-    ],
     "D'Angelo Russell": [
       {
         "date": "2025-12-09",
@@ -2131,43 +2233,6 @@
         "source_url": "https://marcstein.substack.com/p/sunday-best-the-nba-trade-topic-that"
       }
     ],
-    "Kyrie Irving": [
-      {
-        "date": "2025-12-08",
-        "text": "\"The other part of it \u2014 and I keep getting told this \u2014 is that they say, look, they don\u2019t want to deal Kyrie Irving.They think Cooper Flagg needs to play next to an elite point guard to develop the right way. That\u2019s not D\u2019Angelo Russell. It\u2019s not D\u2019Angelo Russell. It\u2019s just not that guy.\" \"They\u2019ve also looked at an AD trade. Wherever you send Anthony Davis \u2014 let\u2019s say you find a deal with Chicago, maybe Atlanta, which I think could be an interesting spot for him \u2014 what you\u2019re going to get back, and what you still have left, isn\u2019t enough to do this kind of Washington Wizards\u2013style free fall.\"YouTube",
-        "text_html": "<a href=\"https://www.youtube.com/watch?v=OTIRADQTvzg\" target=\"_blank\" style=\"color: #1a73e8;\">\"The other part of it \u2014 and I keep getting told this \u2014 is that they say, look, they don\u2019t want to deal Kyrie Irving.</a> They think Cooper Flagg needs to play next to an elite point guard to develop the right way. That\u2019s not D\u2019Angelo Russell. It\u2019s not D\u2019Angelo Russell. It\u2019s just not that guy.\" \"They\u2019ve also looked at an AD trade. Wherever you send Anthony Davis \u2014 let\u2019s say you find a deal with Chicago, maybe Atlanta, which I think could be an interesting spot for him \u2014 what you\u2019re going to get back, and what you still have left, isn\u2019t enough to do this kind of Washington Wizards\u2013style free fall.\"",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=OTIRADQTvzg"
-      },
-      {
-        "date": "2025-11-27",
-        "text": "Tim MacMahon: So Kyrie signed\u2014uh, it wasn't even an extension. He\u2014he opted out and signed a three-year deal this summer. So he's got this year and the next two.\"\"What I would tell you about Kyrie is the Mavericks do not want to trade him.\"YouTube",
-        "text_html": "Tim MacMahon: So Kyrie signed\u2014uh, it wasn't even an extension. He\u2014he opted out and signed a three-year deal this summer. So he's got this year and the next two.\" <a href=\"https://www.youtube.com/watch?v=h7fcpo74I_I\" target=\"_blank\" style=\"color: #1a73e8;\">\"What I would tell you about Kyrie is the Mavericks do not want to trade him.\"</a>",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=h7fcpo74I_I"
-      },
-      {
-        "date": "2025-11-27",
-        "text": "Tim MacMahon:Trading AD is a real possibility\u2014and I would even say likelihood\u2014this season. Trading Kyrie is not something that's on the Mavericks' priority list, or it's just straight up not something that they are interested in doing right now.\"YouTube",
-        "text_html": "Tim MacMahon: <a href=\"https://www.youtube.com/watch?v=h7fcpo74I_I\" target=\"_blank\" style=\"color: #1a73e8;\">Trading AD is a real possibility\u2014and I would even say likelihood\u2014this season. Trading Kyrie is not something that's on the Mavericks' priority list, or it's just straight up not something that they are interested in doing right now.\"</a>",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=h7fcpo74I_I"
-      },
-      {
-        "date": "2025-11-14",
-        "text": "With the Mavericks being the biggest topic around the league this week, the discussion quickly shifted to the question looming over whomever is tapped to replace Harrison as the lead executive: What does the future hold for Davis and Irving less than three months until the February trade deadline?The belief, from sources I spoke to, is that the Mavs moving on from at least Davis, if not both stars, was the optimal strategy. Those moves would help maximize the 2026 first-round pick in a loaded 2026 draft class -- the only selection Dallas controls the rest of this decade -- to reposition the franchise around 2025 No. 1 pick Cooper Flagg. \"Absolutely,\" an Eastern Conference executive said when asked whether trading the two veteran stars was the right path for Dallas.ESPN",
-        "text_html": "With the Mavericks being the biggest topic around the league this week, the discussion quickly shifted to the question looming over whomever is tapped to replace Harrison as the lead executive: What does the future hold for Davis and Irving less than three months until the February trade deadline? <a href=\"https://www.espn.com/nba/story/_/id/46957985/nba-intel-execs-scouts-sinking-mavs-lebron-lakers-spurs\" target=\"_blank\" style=\"color: #1a73e8;\">The belief, from sources I spoke to, is that the Mavs moving on from at least Davis, if not both stars, was the optimal strategy. Those moves would help maximize the 2026 first-round pick in a loaded 2026 draft class -- the only selection Dallas controls the rest of this decade -- to reposition the franchise around 2025 No. 1 pick Cooper Flagg</a>. \"Absolutely,\" an Eastern Conference executive said when asked whether trading the two veteran stars was the right path for Dallas.",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/46957985/nba-intel-execs-scouts-sinking-mavs-lebron-lakers-spurs"
-      },
-      {
-        "date": "2025-11-14",
-        "text": "Tim MacMahon: AndI think they will have discussions, at least internally, about exploring the trade market for Anthony Davis. He\u2019s got to get back on the floor. They need to make sure he\u2019s not in a situation where he could aggravate the calf injury\u2014or worse. He will have some type of trade value, and they\u2019ve got to explore that. As for Kyrie Irving\u2014it might be mutually beneficial for him just to take the whole year, focus on getting 100% healthy, and not help them win a few more games down the stretch.YouTube",
-        "text_html": "Tim MacMahon: And <a href=\"https://www.youtube.com/watch?v=bHfb54Q_jzI\" target=\"_blank\" style=\"color: #1a73e8;\">I think they will have discussions, at least internally, about exploring the trade market for Anthony Davis. He\u2019s got to get back on the floor. They need to make sure he\u2019s not in a situation where he could aggravate the calf injury\u2014or worse</a>. He will have some type of trade value, and they\u2019ve got to explore that. As for Kyrie Irving\u2014it might be mutually beneficial for him just to take the whole year, focus on getting 100% healthy, and not help them win a few more games down the stretch.",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=bHfb54Q_jzI"
-      }
-    ],
     "James Harden": [
       {
         "date": "2025-12-06",
@@ -2218,29 +2283,6 @@
         "text_html": "Eric Nehm: <a href=\"https://x.com/eric_nehm/status/1996442327293026789\" target=\"_blank\" style=\"color: #1a73e8;\">Bobby Portis told reporters that while he hasn't had a chance to talk personally to Giannis Antetokounmpo yet, the Bucks star was the first player in the group chat after the game congratulating the team on a win</a>.",
         "outlet": "x.com",
         "source_url": "https://x.com/eric_nehm/status/1996442327293026789"
-      }
-    ],
-    "Trae Young": [
-      {
-        "date": "2025-12-03",
-        "text": "Charlotte's\u00a0LaMelo Ball,\u00a0Memphis'\u00a0Ja Morant\u00a0and\u00a0Atlanta's\u00a0Trae Young\u00a0all seem to be stuck in a sort of limbo with the franchises that they've been the faces of since entering the league as high lottery picks. There is rampant speculation among rival teams that Ball, Morant and Young could all be available leading up to the Feb. 5 trade deadline. For a variety of reasons, from their maximum contracts to their major flaws, it's not a discussion that generates much enthusiasm despite their status as big names who have put up big numbers.\"I wouldn't want any of them,\" a Western Conference general manager\u00a0told\u00a0ESPN. That was a popular opinion in an informal poll of\u00a0executives, scouts and coaches conducted by ESPN. There wasn't a consensus about which one of the three would command the biggest return if they ended up getting shopped in the trade market, as votes were split among Ball, Morant and Young. \"They all might have negative value,\" an Eastern Conference\u00a0executive\u00a0said.ESPN",
-        "text_html": "Charlotte's LaMelo Ball, Memphis' Ja Morant and Atlanta's Trae Young all seem to be stuck in a sort of limbo with the franchises that they've been the faces of since entering the league as high lottery picks. There is rampant speculation among rival teams that Ball, Morant and Young could all be available leading up to the Feb. 5 trade deadline. For a variety of reasons, from their maximum contracts to their major flaws, it's not a discussion that generates much enthusiasm despite their status as big names who have put up big numbers. <a href=\"https://www.espn.com/nba/story/_/id/47179857/ja-morant-lamelo-ball-trae-young-three-all-star-guards-limbo\" target=\"_blank\" style=\"color: #1a73e8;\">\"I wouldn't want any of them,\" a Western Conference general manager told ESPN</a>. That was a popular opinion in an informal poll of executives, scouts and coaches conducted by ESPN. There wasn't a consensus about which one of the three would command the biggest return if they ended up getting shopped in the trade market, as votes were split among Ball, Morant and Young. \"They all might have negative value,\" an Eastern Conference executive said.",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/47179857/ja-morant-lamelo-ball-trae-young-three-all-star-guards-limbo"
-      },
-      {
-        "date": "2025-12-03",
-        "text": "In other words, the Hawks with Young in the lineup would rank dead last in the league in defensive efficiency.Without him, the Hawks have defended at a top-five level. \"He's just small and doesn't play any defense,\" an East scout said. That scout valued Young more than Morant and Ball, primarily because of his offensive prowess and lack of off-court concerns. Several people mentioned the long-running perception that he's unpopular with teammates as worrisome, especially considering that Young creates so many dunks and open looks with his passing prowess.ESPN",
-        "text_html": "In other words, the Hawks with Young in the lineup would rank dead last in the league in defensive efficiency. <a href=\"https://www.espn.com/nba/story/_/id/47179857/ja-morant-lamelo-ball-trae-young-three-all-star-guards-limbo\" target=\"_blank\" style=\"color: #1a73e8;\">Without him, the Hawks have defended at a top-five level. \"He's just small and doesn't play any defense,\" an East scout said</a>. That scout valued Young more than Morant and Ball, primarily because of his offensive prowess and lack of off-court concerns. Several people mentioned the long-running perception that he's unpopular with teammates as worrisome, especially considering that Young creates so many dunks and open looks with his passing prowess.",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/47179857/ja-morant-lamelo-ball-trae-young-three-all-star-guards-limbo"
-      },
-      {
-        "date": "2025-11-24",
-        "text": "Marc Stein: \u201cWhat I think is really happening here, in the grand scheme \u2014 and I already mentioned Ja Morant in Memphis \u2014 is that Trae Young is now in a similar position. He\u2019s out in Atlanta, and the Hawks have been winning some games without him. Remember, this summer the two sides could have engaged in contract extension talks, but they didn\u2019t. The Hawks made it clear to Trae Young\u2019s camp that they weren\u2019t interested in an extension before the season. They wanted this season to play out.Around the league, these three guards \u2014 LaMelo Ball, Ja Morant, and Trae Young \u2014 are being grouped together in the eyes of a lot of executives. Maybe they aren\u2019t available right now, as we speak but these are players teams are anticipating could be available between now and the trade deadline on February 5th. And again, all three of these guys have been All-Stars.YouTube",
-        "text_html": "Marc Stein: \u201cWhat I think is really happening here, in the grand scheme \u2014 and I already mentioned Ja Morant in Memphis \u2014 is that Trae Young is now in a similar position. He\u2019s out in Atlanta, and the Hawks have been winning some games without him. Remember, this summer the two sides could have engaged in contract extension talks, but they didn\u2019t. The Hawks made it clear to Trae Young\u2019s camp that they weren\u2019t interested in an extension before the season. They wanted this season to play out. <a href=\"https://www.youtube.com/live/FLwniS558nA\" target=\"_blank\" style=\"color: #1a73e8;\">Around the league, these three guards \u2014 LaMelo Ball, Ja Morant, and Trae Young \u2014 are being grouped together in the eyes of a lot of executives. Maybe they aren\u2019t available right now, as we speak but these are players teams are anticipating could be available between now and the trade deadline on February 5th. And again, all three of these guys have been All-Stars</a>.",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/live/FLwniS558nA"
       }
     ],
     "Lauri Markkanen": [
@@ -2460,6 +2502,48 @@
     ]
   },
   "daily_counts": {
+    "Klay Thompson": {
+      "2025-12-12": 1,
+      "2025-12-09": 2
+    },
+    "Anthony Davis": {
+      "2025-12-12": 5,
+      "2025-12-11": 2,
+      "2025-12-09": 1,
+      "2025-12-05": 2,
+      "2025-12-01": 1,
+      "2025-11-28": 1,
+      "2025-11-27": 1,
+      "2025-11-26": 3,
+      "2025-11-24": 1,
+      "2025-11-23": 1,
+      "2025-11-21": 1,
+      "2025-11-20": 1,
+      "2025-11-19": 3,
+      "2025-11-18": 2,
+      "2025-11-17": 2
+    },
+    "Daniel Gafford": {
+      "2025-12-12": 2,
+      "2025-12-09": 2,
+      "2025-11-16": 1
+    },
+    "Kyrie Irving": {
+      "2025-12-12": 1,
+      "2025-12-08": 1,
+      "2025-11-27": 2
+    },
+    "Cooper Flagg": {
+      "2025-12-12": 1
+    },
+    "Trae Young": {
+      "2025-12-12": 1,
+      "2025-12-03": 2,
+      "2025-11-24": 1
+    },
+    "Jalen Johnson": {
+      "2025-12-12": 1
+    },
     "Jonathan Kuminga": {
       "2025-12-12": 3,
       "2025-12-11": 3,
@@ -2501,24 +2585,6 @@
       "2025-12-12": 1,
       "2025-12-11": 2
     },
-    "Anthony Davis": {
-      "2025-12-12": 2,
-      "2025-12-11": 2,
-      "2025-12-09": 1,
-      "2025-12-05": 2,
-      "2025-12-01": 1,
-      "2025-11-28": 1,
-      "2025-11-27": 1,
-      "2025-11-26": 3,
-      "2025-11-24": 1,
-      "2025-11-23": 1,
-      "2025-11-21": 1,
-      "2025-11-20": 1,
-      "2025-11-19": 3,
-      "2025-11-18": 2,
-      "2025-11-17": 2,
-      "2025-11-14": 4
-    },
     "Zach LaVine": {
       "2025-12-12": 1,
       "2025-12-09": 1,
@@ -2529,16 +2595,10 @@
       "2025-12-12": 1,
       "2025-12-09": 2,
       "2025-11-26": 1,
-      "2025-11-23": 1,
-      "2025-11-14": 1
+      "2025-11-23": 1
     },
     "Nicolas Claxton": {
       "2025-12-12": 1
-    },
-    "Daniel Gafford": {
-      "2025-12-12": 1,
-      "2025-12-09": 2,
-      "2025-11-16": 1
     },
     "Dereck Lively": {
       "2025-12-12": 1,
@@ -2608,9 +2668,6 @@
     "LeBron James": {
       "2025-12-09": 1
     },
-    "Klay Thompson": {
-      "2025-12-09": 2
-    },
     "D'Angelo Russell": {
       "2025-12-09": 2,
       "2025-11-27": 1
@@ -2652,11 +2709,6 @@
     "Kel'el Ware": {
       "2025-12-08": 1
     },
-    "Kyrie Irving": {
-      "2025-12-08": 1,
-      "2025-11-27": 2,
-      "2025-11-14": 2
-    },
     "James Harden": {
       "2025-12-06": 1,
       "2025-12-05": 1
@@ -2672,10 +2724,6 @@
     },
     "Bobby Portis": {
       "2025-12-04": 1
-    },
-    "Trae Young": {
-      "2025-12-03": 2,
-      "2025-11-24": 1
     },
     "Lauri Markkanen": {
       "2025-12-01": 1,
