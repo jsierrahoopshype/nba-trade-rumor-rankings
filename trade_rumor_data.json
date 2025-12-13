@@ -1,9 +1,9 @@
 {
-  "generated_at": "2025-12-13T13:19:38.084131",
+  "generated_at": "2025-12-13T19:15:38.741055",
   "scrape_window_days": 28,
   "window_start": "2025-11-15",
   "window_end": "2025-12-13",
-  "total_rumors": 221,
+  "total_rumors": 222,
   "total_players": 69,
   "rankings": [
     {
@@ -55,6 +55,18 @@
       "rank": 4
     },
     {
+      "player": "Coby White",
+      "score": 6.0,
+      "mentions_week1": 6,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 6,
+      "first_mention": "2025-12-11",
+      "last_mention": "2025-12-13",
+      "team": "Chicago Bulls",
+      "rank": 5
+    },
+    {
       "player": "Ja Morant",
       "score": 5.75,
       "mentions_week1": 3,
@@ -64,18 +76,6 @@
       "first_mention": "2025-11-18",
       "last_mention": "2025-12-11",
       "team": "Memphis Grizzlies",
-      "rank": 5
-    },
-    {
-      "player": "Coby White",
-      "score": 5.0,
-      "mentions_week1": 5,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 5,
-      "first_mention": "2025-12-11",
-      "last_mention": "2025-12-13",
-      "team": "Chicago Bulls",
       "rank": 6
     },
     {
@@ -837,6 +837,13 @@
   ],
   "player_rumors": {
     "Coby White": [
+      {
+        "date": "2025-12-13",
+        "text": "KC Johnson: FWIW,sounds like little to no engagement from other teams currently. White is definitely on some teams' radar and, as he noted with his pending UFA status, interest could intensify between now and Feb. trade deadlinex.com",
+        "text_html": "KC Johnson: FWIW, <a href=\"https://x.com/KCJHoop/status/1999628540841721948\" target=\"_blank\" style=\"color: #1a73e8;\">sounds like little to no engagement from other teams currently. White is definitely on some teams' radar and, as he noted with his pending UFA status, interest could intensify between now and Feb. trade deadline</a>",
+        "outlet": "x.com",
+        "source_url": "https://x.com/KCJHoop/status/1999628540841721948"
+      },
       {
         "date": "2025-12-13",
         "text": "KC Johnson: Shared what Coby White said about trade rumors on @CHSN__ pregame show:\"I love being here. I love being on this team. But I understand it\u2019s a business and it's different going into (UFA). They have to do what they think is best for the organization. It\u2019s out of my control.\"x.com",
@@ -2524,7 +2531,7 @@
   },
   "daily_counts": {
     "Coby White": {
-      "2025-12-13": 2,
+      "2025-12-13": 3,
       "2025-12-12": 1,
       "2025-12-11": 2
     },
