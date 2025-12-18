@@ -1,17 +1,17 @@
 {
-  "generated_at": "2025-12-17T19:19:56.305674",
+  "generated_at": "2025-12-18T02:49:12.269050",
   "scrape_window_days": 28,
-  "window_start": "2025-11-19",
-  "window_end": "2025-12-17",
-  "total_rumors": 252,
+  "window_start": "2025-11-20",
+  "window_end": "2025-12-18",
+  "total_rumors": 250,
   "total_players": 76,
   "rankings": [
     {
       "player": "Giannis Antetokounmpo",
-      "score": 30.75,
-      "mentions_week1": 16,
-      "mentions_week2": 29,
-      "mentions_weeks3_4": 1,
+      "score": 26.5,
+      "mentions_week1": 13,
+      "mentions_week2": 21,
+      "mentions_weeks3_4": 12,
       "total_mentions": 46,
       "first_mention": "2025-11-26",
       "last_mention": "2025-12-17",
@@ -20,12 +20,12 @@
     },
     {
       "player": "Anthony Davis",
-      "score": 16.75,
+      "score": 16.0,
       "mentions_week1": 12,
       "mentions_week2": 3,
-      "mentions_weeks3_4": 13,
-      "total_mentions": 28,
-      "first_mention": "2025-11-19",
+      "mentions_weeks3_4": 10,
+      "total_mentions": 25,
+      "first_mention": "2025-11-20",
       "last_mention": "2025-12-17",
       "team": "Dallas Mavericks",
       "rank": 2
@@ -55,18 +55,6 @@
       "rank": 4
     },
     {
-      "player": "Ja Morant",
-      "score": 5.5,
-      "mentions_week1": 3,
-      "mentions_week2": 3,
-      "mentions_weeks3_4": 4,
-      "total_mentions": 10,
-      "first_mention": "2025-11-21",
-      "last_mention": "2025-12-17",
-      "team": "Memphis Grizzlies",
-      "rank": 5
-    },
-    {
       "player": "Domantas Sabonis",
       "score": 5.5,
       "mentions_week1": 4,
@@ -76,7 +64,7 @@
       "first_mention": "2025-11-23",
       "last_mention": "2025-12-17",
       "team": "Sacramento Kings",
-      "rank": 6
+      "rank": 5
     },
     {
       "player": "Zach LaVine",
@@ -88,7 +76,7 @@
       "first_mention": "2025-11-26",
       "last_mention": "2025-12-17",
       "team": "Sacramento Kings",
-      "rank": 7
+      "rank": 6
     },
     {
       "player": "Herb Jones",
@@ -100,14 +88,26 @@
       "first_mention": "2025-12-06",
       "last_mention": "2025-12-16",
       "team": "New Orleans Pelicans",
+      "rank": 7
+    },
+    {
+      "player": "Ja Morant",
+      "score": 4.5,
+      "mentions_week1": 2,
+      "mentions_week2": 2,
+      "mentions_weeks3_4": 6,
+      "total_mentions": 10,
+      "first_mention": "2025-11-21",
+      "last_mention": "2025-12-17",
+      "team": "Memphis Grizzlies",
       "rank": 8
     },
     {
       "player": "LaMelo Ball",
-      "score": 4.5,
+      "score": 4.0,
       "mentions_week1": 1,
-      "mentions_week2": 2,
-      "mentions_weeks3_4": 10,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 12,
       "total_mentions": 13,
       "first_mention": "2025-11-20",
       "last_mention": "2025-12-11",
@@ -199,18 +199,6 @@
       "rank": 16
     },
     {
-      "player": "Trae Young",
-      "score": 2.25,
-      "mentions_week1": 1,
-      "mentions_week2": 2,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 4,
-      "first_mention": "2025-11-24",
-      "last_mention": "2025-12-12",
-      "team": "Atlanta Hawks",
-      "rank": 17
-    },
-    {
       "player": "Kyrie Irving",
       "score": 2.0,
       "mentions_week1": 1,
@@ -220,18 +208,30 @@
       "first_mention": "2025-11-27",
       "last_mention": "2025-12-12",
       "team": "Dallas Mavericks",
+      "rank": 17
+    },
+    {
+      "player": "Michael Porter",
+      "score": 2.0,
+      "mentions_week1": 2,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 2,
+      "first_mention": "2025-12-12",
+      "last_mention": "2025-12-17",
+      "team": "Brooklyn Nets",
       "rank": 18
     },
     {
-      "player": "Kevin Porter",
-      "score": 2.0,
+      "player": "Trae Young",
+      "score": 1.75,
       "mentions_week1": 1,
-      "mentions_week2": 2,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 3,
-      "first_mention": "2025-12-04",
-      "last_mention": "2025-12-10",
-      "team": "Milwaukee Bucks",
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 3,
+      "total_mentions": 4,
+      "first_mention": "2025-11-24",
+      "last_mention": "2025-12-12",
+      "team": "Atlanta Hawks",
       "rank": 19
     },
     {
@@ -247,6 +247,18 @@
       "rank": 20
     },
     {
+      "player": "Kevin Porter",
+      "score": 1.5,
+      "mentions_week1": 0,
+      "mentions_week2": 3,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 3,
+      "first_mention": "2025-12-04",
+      "last_mention": "2025-12-10",
+      "team": "Milwaukee Bucks",
+      "rank": 21
+    },
+    {
       "player": "Chris Paul",
       "score": 1.5,
       "mentions_week1": 1,
@@ -256,31 +268,7 @@
       "first_mention": "2025-12-09",
       "last_mention": "2025-12-12",
       "team": "Los Angeles Clippers",
-      "rank": 21
-    },
-    {
-      "player": "Dylan Harper",
-      "score": 1.5,
-      "mentions_week1": 1,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 2,
-      "first_mention": "2025-12-04",
-      "last_mention": "2025-12-10",
-      "team": "San Antonio Spurs",
       "rank": 22
-    },
-    {
-      "player": "Stephon Castle",
-      "score": 1.5,
-      "mentions_week1": 1,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 2,
-      "first_mention": "2025-12-04",
-      "last_mention": "2025-12-10",
-      "team": "San Antonio Spurs",
-      "rank": 23
     },
     {
       "player": "Walker Kessler",
@@ -292,7 +280,7 @@
       "first_mention": "2025-12-09",
       "last_mention": "2025-12-16",
       "team": "Utah Jazz",
-      "rank": 24
+      "rank": 23
     },
     {
       "player": "Devin Booker",
@@ -304,7 +292,7 @@
       "first_mention": "2025-11-27",
       "last_mention": "2025-12-17",
       "team": "Phoenix Suns",
-      "rank": 25
+      "rank": 24
     },
     {
       "player": "Lauri Markkanen",
@@ -316,7 +304,7 @@
       "first_mention": "2025-12-01",
       "last_mention": "2025-12-16",
       "team": "Utah Jazz",
-      "rank": 26
+      "rank": 25
     },
     {
       "player": "Russell Westbrook",
@@ -328,6 +316,18 @@
       "first_mention": "2025-11-27",
       "last_mention": "2025-12-15",
       "team": "Sacramento Kings",
+      "rank": 26
+    },
+    {
+      "player": "Dylan Harper",
+      "score": 1.0,
+      "mentions_week1": 0,
+      "mentions_week2": 2,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 2,
+      "first_mention": "2025-12-04",
+      "last_mention": "2025-12-10",
+      "team": "San Antonio Spurs",
       "rank": 27
     },
     {
@@ -343,6 +343,18 @@
       "rank": 28
     },
     {
+      "player": "Stephon Castle",
+      "score": 1.0,
+      "mentions_week1": 0,
+      "mentions_week2": 2,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 2,
+      "first_mention": "2025-12-04",
+      "last_mention": "2025-12-10",
+      "team": "San Antonio Spurs",
+      "rank": 29
+    },
+    {
       "player": "Austin Reaves",
       "score": 1.0,
       "mentions_week1": 1,
@@ -352,7 +364,7 @@
       "first_mention": "2025-12-17",
       "last_mention": "2025-12-17",
       "team": "Los Angeles Lakers",
-      "rank": 29
+      "rank": 30
     },
     {
       "player": "Brandin Podziemski",
@@ -364,18 +376,6 @@
       "first_mention": "2025-12-11",
       "last_mention": "2025-12-11",
       "team": "Golden State Warriors",
-      "rank": 30
-    },
-    {
-      "player": "Cade Cunningham",
-      "score": 1.0,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2025-12-10",
-      "last_mention": "2025-12-10",
-      "team": "Detroit Pistons",
       "rank": 31
     },
     {
@@ -499,18 +499,6 @@
       "rank": 41
     },
     {
-      "player": "Jalen Duren",
-      "score": 1.0,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2025-12-10",
-      "last_mention": "2025-12-10",
-      "team": "Detroit Pistons",
-      "rank": 42
-    },
-    {
       "player": "Jalen Johnson",
       "score": 1.0,
       "mentions_week1": 1,
@@ -520,7 +508,7 @@
       "first_mention": "2025-12-12",
       "last_mention": "2025-12-12",
       "team": "Atlanta Hawks",
-      "rank": 43
+      "rank": 42
     },
     {
       "player": "Jerami Grant",
@@ -532,7 +520,7 @@
       "first_mention": "2025-12-16",
       "last_mention": "2025-12-16",
       "team": "Milwaukee Bucks",
-      "rank": 44
+      "rank": 43
     },
     {
       "player": "Jimmy Butler",
@@ -544,7 +532,7 @@
       "first_mention": "2025-12-17",
       "last_mention": "2025-12-17",
       "team": "Golden State Warriors",
-      "rank": 45
+      "rank": 44
     },
     {
       "player": "Jose Alvarado",
@@ -556,19 +544,7 @@
       "first_mention": "2025-12-12",
       "last_mention": "2025-12-12",
       "team": "New Orleans Pelicans",
-      "rank": 46
-    },
-    {
-      "player": "Michael Porter",
-      "score": 1.0,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2025-12-12",
-      "last_mention": "2025-12-12",
-      "team": "Brooklyn Nets",
-      "rank": 47
+      "rank": 45
     },
     {
       "player": "Nicolas Claxton",
@@ -580,7 +556,7 @@
       "first_mention": "2025-12-12",
       "last_mention": "2025-12-12",
       "team": "Golden State Warriors",
-      "rank": 48
+      "rank": 46
     },
     {
       "player": "Tyler Herro",
@@ -592,7 +568,7 @@
       "first_mention": "2025-12-12",
       "last_mention": "2025-12-12",
       "team": "Miami Heat",
-      "rank": 49
+      "rank": 47
     },
     {
       "player": "Anfernee Simons",
@@ -604,7 +580,7 @@
       "first_mention": "2025-11-26",
       "last_mention": "2025-11-30",
       "team": "Boston Celtics",
-      "rank": 50
+      "rank": 48
     },
     {
       "player": "Sam Hauser",
@@ -616,7 +592,7 @@
       "first_mention": "2025-11-26",
       "last_mention": "2025-11-30",
       "team": "Boston Celtics",
-      "rank": 51
+      "rank": 49
     },
     {
       "player": "Bobby Portis",
@@ -628,7 +604,19 @@
       "first_mention": "2025-12-04",
       "last_mention": "2025-12-04",
       "team": "Milwaukee Bucks",
-      "rank": 52
+      "rank": 50
+    },
+    {
+      "player": "Cade Cunningham",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2025-12-10",
+      "last_mention": "2025-12-10",
+      "team": "Detroit Pistons",
+      "rank": 51
     },
     {
       "player": "Ivica Zubac",
@@ -640,6 +628,18 @@
       "first_mention": "2025-12-04",
       "last_mention": "2025-12-04",
       "team": "Los Angeles Clippers",
+      "rank": 52
+    },
+    {
+      "player": "Jalen Duren",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2025-12-10",
+      "last_mention": "2025-12-10",
+      "team": "Detroit Pistons",
       "rank": 53
     },
     {
@@ -920,6 +920,22 @@
     }
   ],
   "player_rumors": {
+    "Michael Porter": [
+      {
+        "date": "2025-12-17",
+        "text": "Michael Porter Jr. is expected to draw interest on the trade market amid his red-hot start. The Nets are likely to gauge offers for the veteran,whom they acquired alongside an unprotected Nuggets 2032 first-round pick for Cam Johnson.Clutch Points",
+        "text_html": "<a href=\"https://clutchpoints.com/nba/brooklyn-nets/nets-news-michael-porter-jr-receives-best-in-league-praise-trade-buzz-grows\" target=\"_blank\" style=\"color: #1a73e8;\">Michael Porter Jr. is expected to draw interest on the trade market amid his red-hot start. The Nets are likely to gauge offers for the veteran,</a> whom they acquired alongside an unprotected Nuggets 2032 first-round pick for Cam Johnson.",
+        "outlet": "Clutch Points",
+        "source_url": "https://clutchpoints.com/nba/brooklyn-nets/nets-news-michael-porter-jr-receives-best-in-league-praise-trade-buzz-grows"
+      },
+      {
+        "date": "2025-12-12",
+        "text": "\u201cYeah,\u00a0I love it here,\u201d\u00a0Michael Porter Jr said\u00a0when asked by The\u00a0Post\u00a0if he sees himself in Brooklyn long term.\u00a0\u201cI love the staff, I love the energy of practice.Everyone gets along and has great vibes and great energy around the facility. So whatever team wants and appreciates what I bring to the table, then that\u2019s where I want to be. And I feel like they do here.New York Post",
+        "text_html": "<a href=\"https://nypost.com/2025/12/11/sports/michael-porter-jr-hopes-to-convince-nets-hes-worth-keeping/\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cYeah, I love it here,\u201d Michael Porter Jr said when asked by The Post if he sees himself in Brooklyn long term. \u201cI love the staff, I love the energy of practice.</a> Everyone gets along and has great vibes and great energy around the facility. So whatever team wants and appreciates what I bring to the table, then that\u2019s where I want to be. And I feel like they do here.",
+        "outlet": "New York Post",
+        "source_url": "https://nypost.com/2025/12/11/sports/michael-porter-jr-hopes-to-convince-nets-hes-worth-keeping/"
+      }
+    ],
     "Jimmy Butler": [
       {
         "date": "2025-12-17",
@@ -1474,27 +1490,6 @@
         "text_html": "<a href=\"https://marcstein.substack.com/p/is-the-nbas-trade-market-for-point\" target=\"_blank\" style=\"color: #1a73e8;\">League sources say that the Mavericks still intend to field any trade interest in Davis that emerges over the next two-plus months ... with the prospect of an actual trade obviously dependent on offer quality</a>.",
         "outlet": "marcstein.substack.com",
         "source_url": "https://marcstein.substack.com/p/is-the-nbas-trade-market-for-point"
-      },
-      {
-        "date": "2025-11-19",
-        "text": "Shams Charania: This franchise is moving away from Nico Harrison's three to four year championship window, and toward trying to find sustained success and sustained growth around Cooper, Flagg and youth. And to that end, sources have told ESPN that the Mavericks will be listening to trade calls for Anthony Davis and seeing and exploring his value.And for that, health will be the biggest key because not only for the Mavericks to evaluate Anthony Davis over a lengthy period of time, an extended period of time on the court, but for other teams that could have interest in him to see what he looks like when he's back with this team, looks like when he's back, a lot of evaluation to come around.x.com",
-        "text_html": "Shams Charania: This franchise is moving away from Nico Harrison's three to four year championship window, and toward trying to find sustained success and sustained growth around Cooper, Flagg and youth. And to that end, sources have told ESPN that the Mavericks will be listening to trade calls for Anthony Davis and seeing and exploring his value. <a href=\"https://x.com/ShamsCharania/status/1991301604952404406\" target=\"_blank\" style=\"color: #1a73e8;\">And for that, health will be the biggest key because not only for the Mavericks to evaluate Anthony Davis over a lengthy period of time, an extended period of time on the court, but for other teams that could have interest in him to see what he looks like when he's back with this team, looks like when he's back, a lot of evaluation to come around</a>.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/ShamsCharania/status/1991301604952404406"
-      },
-      {
-        "date": "2025-11-19",
-        "text": "Dallas Mavericks minority owner Mark Cuban told The Athletic the franchise would not try to trade Anthony Davis this season.\u201cWe won\u2019t. We want to try to win,\u201d Cuban said Wednesday in an email when asked if he and Mavericks governor Patrick Dumont would seek a deal for Davis, the oft-injured, 10-time All-Star who was the centerpiece for Dallas in last season\u2019s Luka Don\u010di\u0107 trade.New York Times",
-        "text_html": "Dallas Mavericks minority owner Mark Cuban told The Athletic the franchise would not try to trade Anthony Davis this season. <a href=\"https://www.nytimes.com/athletic/6820984/2025/11/19/mavericks-anthony-davis-trade-mark-cuban/?source=emp_shared_article\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cWe won\u2019t. We want to try to win,\u201d Cuban said Wednesday in an email when asked if he and Mavericks governor Patrick Dumont would seek a deal for Davis, the oft-injured, 10-time All-Star who was the centerpiece for Dallas in last season\u2019s Luka Don\u010di\u0107 trade</a>.",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/6820984/2025/11/19/mavericks-anthony-davis-trade-mark-cuban/?source=emp_shared_article"
-      },
-      {
-        "date": "2025-11-19",
-        "text": "Multiple team sources said the Mavs, who are 4-11 and outside the playoff picture in the West, will also\u00a0explore the trade market for Anthony Davis,the 10-time All-Star big man who was the headliner in the return of the Doncic\u00a0deal, as part of that process before this season's deadline. For a fan base that still feels betrayed, so many questions linger in the wake of this self-inflicted saga, many of which center around the famous former majority owner.ESPN",
-        "text_html": "<a href=\"https://www.espn.com/nba/story/_/id/47014061/inside-mavericks-power-struggle-nico-harrison-vs-mark-cuban\" target=\"_blank\" style=\"color: #1a73e8;\">Multiple team sources said the Mavs, who are 4-11 and outside the playoff picture in the West, will also explore the trade market for Anthony Davis,</a> the 10-time All-Star big man who was the headliner in the return of the Doncic deal, as part of that process before this season's deadline. For a fan base that still feels betrayed, so many questions linger in the wake of this self-inflicted saga, many of which center around the famous former majority owner.",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/47014061/inside-mavericks-power-struggle-nico-harrison-vs-mark-cuban"
       }
     ],
     "D'Angelo Russell": [
@@ -2354,15 +2349,6 @@
         "source_url": "https://marcstein.substack.com/p/dec-15-is-almost-here-and-that-means"
       }
     ],
-    "Michael Porter": [
-      {
-        "date": "2025-12-12",
-        "text": "\u201cYeah,\u00a0I love it here,\u201d\u00a0Michael Porter Jr said\u00a0when asked by The\u00a0Post\u00a0if he sees himself in Brooklyn long term.\u00a0\u201cI love the staff, I love the energy of practice.Everyone gets along and has great vibes and great energy around the facility. So whatever team wants and appreciates what I bring to the table, then that\u2019s where I want to be. And I feel like they do here.New York Post",
-        "text_html": "<a href=\"https://nypost.com/2025/12/11/sports/michael-porter-jr-hopes-to-convince-nets-hes-worth-keeping/\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cYeah, I love it here,\u201d Michael Porter Jr said when asked by The Post if he sees himself in Brooklyn long term. \u201cI love the staff, I love the energy of practice.</a> Everyone gets along and has great vibes and great energy around the facility. So whatever team wants and appreciates what I bring to the table, then that\u2019s where I want to be. And I feel like they do here.",
-        "outlet": "New York Post",
-        "source_url": "https://nypost.com/2025/12/11/sports/michael-porter-jr-hopes-to-convince-nets-hes-worth-keeping/"
-      }
-    ],
     "Fred VanVleet": [
       {
         "date": "2025-12-11",
@@ -2838,6 +2824,10 @@
     ]
   },
   "daily_counts": {
+    "Michael Porter": {
+      "2025-12-17": 1,
+      "2025-12-12": 1
+    },
     "Jimmy Butler": {
       "2025-12-17": 1
     },
@@ -2882,8 +2872,7 @@
       "2025-11-24": 1,
       "2025-11-23": 1,
       "2025-11-21": 1,
-      "2025-11-20": 1,
-      "2025-11-19": 3
+      "2025-11-20": 1
     },
     "D'Angelo Russell": {
       "2025-12-17": 1,
@@ -3040,9 +3029,6 @@
     "Chris Paul": {
       "2025-12-12": 1,
       "2025-12-09": 1
-    },
-    "Michael Porter": {
-      "2025-12-12": 1
     },
     "Fred VanVleet": {
       "2025-12-11": 1
