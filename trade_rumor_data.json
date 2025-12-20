@@ -1,17 +1,17 @@
 {
-  "generated_at": "2025-12-19T19:17:16.782395",
+  "generated_at": "2025-12-20T02:43:38.940057",
   "scrape_window_days": 28,
-  "window_start": "2025-11-21",
-  "window_end": "2025-12-19",
-  "total_rumors": 294,
-  "total_players": 81,
+  "window_start": "2025-11-22",
+  "window_end": "2025-12-20",
+  "total_rumors": 288,
+  "total_players": 79,
   "rankings": [
     {
       "player": "Giannis Antetokounmpo",
-      "score": 31.75,
-      "mentions_week1": 19,
-      "mentions_week2": 16,
-      "mentions_weeks3_4": 19,
+      "score": 30.5,
+      "mentions_week1": 17,
+      "mentions_week2": 17,
+      "mentions_weeks3_4": 20,
       "total_mentions": 54,
       "first_mention": "2025-11-26",
       "last_mention": "2025-12-18",
@@ -20,21 +20,21 @@
     },
     {
       "player": "Anthony Davis",
-      "score": 19.75,
-      "mentions_week1": 15,
-      "mentions_week2": 5,
-      "mentions_weeks3_4": 9,
-      "total_mentions": 29,
-      "first_mention": "2025-11-21",
+      "score": 16.5,
+      "mentions_week1": 10,
+      "mentions_week2": 8,
+      "mentions_weeks3_4": 10,
+      "total_mentions": 28,
+      "first_mention": "2025-11-23",
       "last_mention": "2025-12-19",
       "team": "Dallas Mavericks",
       "rank": 2
     },
     {
       "player": "Jonathan Kuminga",
-      "score": 8.75,
-      "mentions_week1": 5,
-      "mentions_week2": 7,
+      "score": 7.25,
+      "mentions_week1": 2,
+      "mentions_week2": 10,
       "mentions_weeks3_4": 1,
       "total_mentions": 13,
       "first_mention": "2025-11-26",
@@ -44,9 +44,9 @@
     },
     {
       "player": "Domantas Sabonis",
-      "score": 6.5,
-      "mentions_week1": 5,
-      "mentions_week2": 2,
+      "score": 6.0,
+      "mentions_week1": 4,
+      "mentions_week2": 3,
       "mentions_weeks3_4": 2,
       "total_mentions": 9,
       "first_mention": "2025-11-23",
@@ -55,124 +55,100 @@
       "rank": 4
     },
     {
-      "player": "Zach LaVine",
+      "player": "Herb Jones",
       "score": 6.0,
-      "mentions_week1": 5,
-      "mentions_week2": 1,
+      "mentions_week1": 4,
+      "mentions_week2": 4,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 8,
+      "first_mention": "2025-12-06",
+      "last_mention": "2025-12-19",
+      "team": "New Orleans Pelicans",
+      "rank": 5
+    },
+    {
+      "player": "Keon Ellis",
+      "score": 5.75,
+      "mentions_week1": 4,
+      "mentions_week2": 2,
+      "mentions_weeks3_4": 3,
+      "total_mentions": 9,
+      "first_mention": "2025-11-23",
+      "last_mention": "2025-12-19",
+      "team": "Sacramento Kings",
+      "rank": 6
+    },
+    {
+      "player": "Zach LaVine",
+      "score": 5.5,
+      "mentions_week1": 4,
+      "mentions_week2": 2,
       "mentions_weeks3_4": 2,
       "total_mentions": 8,
       "first_mention": "2025-11-26",
       "last_mention": "2025-12-18",
       "team": "Sacramento Kings",
-      "rank": 5
-    },
-    {
-      "player": "Daniel Gafford",
-      "score": 6.0,
-      "mentions_week1": 5,
-      "mentions_week2": 2,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 7,
-      "first_mention": "2025-12-09",
-      "last_mention": "2025-12-18",
-      "team": "Dallas Mavericks",
-      "rank": 6
-    },
-    {
-      "player": "Terry Rozier",
-      "score": 5.75,
-      "mentions_week1": 3,
-      "mentions_week2": 5,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 9,
-      "first_mention": "2025-11-21",
-      "last_mention": "2025-12-18",
-      "team": "Miami Heat",
       "rank": 7
     },
     {
-      "player": "Herb Jones",
+      "player": "Terry Rozier",
+      "score": 5.0,
+      "mentions_week1": 2,
+      "mentions_week2": 6,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 8,
+      "first_mention": "2025-12-08",
+      "last_mention": "2025-12-18",
+      "team": "Miami Heat",
+      "rank": 8
+    },
+    {
+      "player": "Daniel Gafford",
       "score": 5.0,
       "mentions_week1": 3,
       "mentions_week2": 4,
       "mentions_weeks3_4": 0,
       "total_mentions": 7,
-      "first_mention": "2025-12-06",
+      "first_mention": "2025-12-09",
       "last_mention": "2025-12-18",
-      "team": "New Orleans Pelicans",
-      "rank": 8
+      "team": "Dallas Mavericks",
+      "rank": 9
     },
     {
       "player": "Coby White",
-      "score": 5.0,
-      "mentions_week1": 4,
-      "mentions_week2": 2,
+      "score": 4.5,
+      "mentions_week1": 3,
+      "mentions_week2": 3,
       "mentions_weeks3_4": 0,
       "total_mentions": 6,
       "first_mention": "2025-12-11",
       "last_mention": "2025-12-13",
       "team": "Chicago Bulls",
-      "rank": 9
+      "rank": 10
     },
     {
       "player": "Klay Thompson",
-      "score": 5.0,
-      "mentions_week1": 4,
-      "mentions_week2": 2,
+      "score": 4.5,
+      "mentions_week1": 3,
+      "mentions_week2": 3,
       "mentions_weeks3_4": 0,
       "total_mentions": 6,
       "first_mention": "2025-12-09",
       "last_mention": "2025-12-18",
       "team": "Dallas Mavericks",
-      "rank": 10
-    },
-    {
-      "player": "Keon Ellis",
-      "score": 4.75,
-      "mentions_week1": 3,
-      "mentions_week2": 2,
-      "mentions_weeks3_4": 3,
-      "total_mentions": 8,
-      "first_mention": "2025-11-23",
-      "last_mention": "2025-12-18",
-      "team": "Sacramento Kings",
       "rank": 11
     },
     {
       "player": "Ja Morant",
-      "score": 4.0,
+      "score": 3.75,
       "mentions_week1": 1,
       "mentions_week2": 3,
-      "mentions_weeks3_4": 6,
-      "total_mentions": 10,
-      "first_mention": "2025-11-21",
+      "mentions_weeks3_4": 5,
+      "total_mentions": 9,
+      "first_mention": "2025-11-24",
       "last_mention": "2025-12-17",
       "team": "Memphis Grizzlies",
       "rank": 12
-    },
-    {
-      "player": "LaMelo Ball",
-      "score": 3.75,
-      "mentions_week1": 1,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 9,
-      "total_mentions": 11,
-      "first_mention": "2025-11-21",
-      "last_mention": "2025-12-18",
-      "team": "Charlotte Hornets",
-      "rank": 13
-    },
-    {
-      "player": "Trae Young",
-      "score": 3.75,
-      "mentions_week1": 3,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 3,
-      "total_mentions": 6,
-      "first_mention": "2025-11-24",
-      "last_mention": "2025-12-19",
-      "team": "Atlanta Hawks",
-      "rank": 14
     },
     {
       "player": "DeMar DeRozan",
@@ -184,19 +160,19 @@
       "first_mention": "2025-11-24",
       "last_mention": "2025-12-18",
       "team": "Sacramento Kings",
-      "rank": 15
+      "rank": 13
     },
     {
-      "player": "Trey Murphy",
-      "score": 3.5,
+      "player": "Trae Young",
+      "score": 3.25,
       "mentions_week1": 2,
-      "mentions_week2": 3,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 5,
-      "first_mention": "2025-12-06",
-      "last_mention": "2025-12-18",
-      "team": "New Orleans Pelicans",
-      "rank": 16
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 3,
+      "total_mentions": 6,
+      "first_mention": "2025-11-24",
+      "last_mention": "2025-12-19",
+      "team": "Atlanta Hawks",
+      "rank": 14
     },
     {
       "player": "D'Angelo Russell",
@@ -208,7 +184,7 @@
       "first_mention": "2025-11-27",
       "last_mention": "2025-12-18",
       "team": "Dallas Mavericks",
-      "rank": 17
+      "rank": 15
     },
     {
       "player": "Nick Richards",
@@ -220,6 +196,30 @@
       "first_mention": "2025-11-26",
       "last_mention": "2025-12-18",
       "team": "Phoenix Suns",
+      "rank": 16
+    },
+    {
+      "player": "LaMelo Ball",
+      "score": 3.0,
+      "mentions_week1": 1,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 6,
+      "total_mentions": 8,
+      "first_mention": "2025-11-22",
+      "last_mention": "2025-12-18",
+      "team": "Charlotte Hornets",
+      "rank": 17
+    },
+    {
+      "player": "Trey Murphy",
+      "score": 3.0,
+      "mentions_week1": 1,
+      "mentions_week2": 4,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 5,
+      "first_mention": "2025-12-06",
+      "last_mention": "2025-12-18",
+      "team": "New Orleans Pelicans",
       "rank": 18
     },
     {
@@ -271,34 +271,34 @@
       "rank": 22
     },
     {
-      "player": "Kyrie Irving",
-      "score": 2.0,
+      "player": "James Harden",
+      "score": 1.75,
       "mentions_week1": 1,
       "mentions_week2": 1,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 3,
+      "first_mention": "2025-12-05",
+      "last_mention": "2025-12-18",
+      "team": "Los Angeles Clippers",
+      "rank": 23
+    },
+    {
+      "player": "Kyrie Irving",
+      "score": 1.5,
+      "mentions_week1": 0,
+      "mentions_week2": 2,
       "mentions_weeks3_4": 2,
       "total_mentions": 4,
       "first_mention": "2025-11-27",
       "last_mention": "2025-12-12",
       "team": "Dallas Mavericks",
-      "rank": 23
-    },
-    {
-      "player": "James Harden",
-      "score": 2.0,
-      "mentions_week1": 1,
-      "mentions_week2": 2,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 3,
-      "first_mention": "2025-12-05",
-      "last_mention": "2025-12-18",
-      "team": "Los Angeles Clippers",
       "rank": 24
     },
     {
       "player": "Michael Porter",
-      "score": 2.0,
-      "mentions_week1": 2,
-      "mentions_week2": 0,
+      "score": 1.5,
+      "mentions_week1": 1,
+      "mentions_week2": 1,
       "mentions_weeks3_4": 0,
       "total_mentions": 2,
       "first_mention": "2025-12-12",
@@ -308,27 +308,15 @@
     },
     {
       "player": "Tyler Herro",
-      "score": 2.0,
-      "mentions_week1": 2,
-      "mentions_week2": 0,
+      "score": 1.5,
+      "mentions_week1": 1,
+      "mentions_week2": 1,
       "mentions_weeks3_4": 0,
       "total_mentions": 2,
       "first_mention": "2025-12-12",
       "last_mention": "2025-12-18",
       "team": "Miami Heat",
       "rank": 26
-    },
-    {
-      "player": "Chris Paul",
-      "score": 1.5,
-      "mentions_week1": 1,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 2,
-      "first_mention": "2025-12-09",
-      "last_mention": "2025-12-12",
-      "team": "Los Angeles Clippers",
-      "rank": 27
     },
     {
       "player": "Brandon Ingram",
@@ -340,7 +328,7 @@
       "first_mention": "2025-11-27",
       "last_mention": "2025-12-18",
       "team": "Toronto Raptors",
-      "rank": 28
+      "rank": 27
     },
     {
       "player": "Devin Booker",
@@ -352,7 +340,7 @@
       "first_mention": "2025-11-27",
       "last_mention": "2025-12-17",
       "team": "Phoenix Suns",
-      "rank": 29
+      "rank": 28
     },
     {
       "player": "Keegan Murray",
@@ -364,7 +352,7 @@
       "first_mention": "2025-11-23",
       "last_mention": "2025-12-18",
       "team": "Sacramento Kings",
-      "rank": 30
+      "rank": 29
     },
     {
       "player": "Russell Westbrook",
@@ -376,7 +364,7 @@
       "first_mention": "2025-11-27",
       "last_mention": "2025-12-15",
       "team": "Sacramento Kings",
-      "rank": 31
+      "rank": 30
     },
     {
       "player": "Tyrese Haliburton",
@@ -388,7 +376,7 @@
       "first_mention": "2025-11-26",
       "last_mention": "2025-12-18",
       "team": "Indiana Pacers",
-      "rank": 32
+      "rank": 31
     },
     {
       "player": "Kevin Porter",
@@ -400,6 +388,18 @@
       "first_mention": "2025-12-04",
       "last_mention": "2025-12-10",
       "team": "Milwaukee Bucks",
+      "rank": 32
+    },
+    {
+      "player": "Chris Paul",
+      "score": 1.0,
+      "mentions_week1": 0,
+      "mentions_week2": 2,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 2,
+      "first_mention": "2025-12-09",
+      "last_mention": "2025-12-12",
+      "team": "Los Angeles Clippers",
       "rank": 33
     },
     {
@@ -427,18 +427,6 @@
       "rank": 35
     },
     {
-      "player": "Cooper Flagg",
-      "score": 1.0,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2025-12-12",
-      "last_mention": "2025-12-12",
-      "team": "Dallas Mavericks",
-      "rank": 36
-    },
-    {
       "player": "Darius Garland",
       "score": 1.0,
       "mentions_week1": 1,
@@ -448,7 +436,7 @@
       "first_mention": "2025-12-14",
       "last_mention": "2025-12-14",
       "team": "Cleveland Cavaliers",
-      "rank": 37
+      "rank": 36
     },
     {
       "player": "De'Aaron Fox",
@@ -460,7 +448,7 @@
       "first_mention": "2025-12-15",
       "last_mention": "2025-12-15",
       "team": "San Antonio Spurs",
-      "rank": 38
+      "rank": 37
     },
     {
       "player": "Dejounte Murray",
@@ -472,19 +460,7 @@
       "first_mention": "2025-12-16",
       "last_mention": "2025-12-16",
       "team": "New Orleans Pelicans",
-      "rank": 39
-    },
-    {
-      "player": "Dereck Lively",
-      "score": 1.0,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2025-12-12",
-      "last_mention": "2025-12-12",
-      "team": "Dallas Mavericks",
-      "rank": 40
+      "rank": 38
     },
     {
       "player": "Donovan Mitchell",
@@ -496,7 +472,7 @@
       "first_mention": "2025-12-18",
       "last_mention": "2025-12-18",
       "team": "Cleveland Cavaliers",
-      "rank": 41
+      "rank": 39
     },
     {
       "player": "Evan Mobley",
@@ -508,7 +484,7 @@
       "first_mention": "2025-12-18",
       "last_mention": "2025-12-18",
       "team": "Cleveland Cavaliers",
-      "rank": 42
+      "rank": 40
     },
     {
       "player": "Gary Trent Jr",
@@ -520,19 +496,7 @@
       "first_mention": "2025-12-17",
       "last_mention": "2025-12-17",
       "team": "Los Angeles Lakers",
-      "rank": 43
-    },
-    {
-      "player": "Jaime Jaquez",
-      "score": 1.0,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2025-12-12",
-      "last_mention": "2025-12-12",
-      "team": "Miami Heat",
-      "rank": 44
+      "rank": 41
     },
     {
       "player": "Jalen Green",
@@ -544,19 +508,7 @@
       "first_mention": "2025-12-18",
       "last_mention": "2025-12-18",
       "team": "Phoenix Suns",
-      "rank": 45
-    },
-    {
-      "player": "Jalen Johnson",
-      "score": 1.0,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2025-12-12",
-      "last_mention": "2025-12-12",
-      "team": "Atlanta Hawks",
-      "rank": 46
+      "rank": 42
     },
     {
       "player": "Jerami Grant",
@@ -568,7 +520,7 @@
       "first_mention": "2025-12-16",
       "last_mention": "2025-12-16",
       "team": "Milwaukee Bucks",
-      "rank": 47
+      "rank": 43
     },
     {
       "player": "Jimmy Butler",
@@ -580,19 +532,7 @@
       "first_mention": "2025-12-17",
       "last_mention": "2025-12-17",
       "team": "Golden State Warriors",
-      "rank": 48
-    },
-    {
-      "player": "Jose Alvarado",
-      "score": 1.0,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2025-12-12",
-      "last_mention": "2025-12-12",
-      "team": "New Orleans Pelicans",
-      "rank": 49
+      "rank": 44
     },
     {
       "player": "Kristaps Porzingis",
@@ -604,19 +544,7 @@
       "first_mention": "2025-12-18",
       "last_mention": "2025-12-18",
       "team": "Atlanta Hawks",
-      "rank": 50
-    },
-    {
-      "player": "Nicolas Claxton",
-      "score": 1.0,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2025-12-12",
-      "last_mention": "2025-12-12",
-      "team": "Golden State Warriors",
-      "rank": 51
+      "rank": 45
     },
     {
       "player": "Nique Clifford",
@@ -628,7 +556,7 @@
       "first_mention": "2025-12-18",
       "last_mention": "2025-12-18",
       "team": "Sacramento Kings",
-      "rank": 52
+      "rank": 46
     },
     {
       "player": "Anfernee Simons",
@@ -640,7 +568,7 @@
       "first_mention": "2025-11-26",
       "last_mention": "2025-11-30",
       "team": "Boston Celtics",
-      "rank": 53
+      "rank": 47
     },
     {
       "player": "Dylan Harper",
@@ -652,7 +580,7 @@
       "first_mention": "2025-12-04",
       "last_mention": "2025-12-10",
       "team": "San Antonio Spurs",
-      "rank": 54
+      "rank": 48
     },
     {
       "player": "Sam Hauser",
@@ -664,7 +592,7 @@
       "first_mention": "2025-11-26",
       "last_mention": "2025-11-30",
       "team": "Boston Celtics",
-      "rank": 55
+      "rank": 49
     },
     {
       "player": "Brandin Podziemski",
@@ -676,7 +604,7 @@
       "first_mention": "2025-12-11",
       "last_mention": "2025-12-11",
       "team": "Golden State Warriors",
-      "rank": 56
+      "rank": 50
     },
     {
       "player": "Cade Cunningham",
@@ -688,7 +616,31 @@
       "first_mention": "2025-12-10",
       "last_mention": "2025-12-10",
       "team": "Detroit Pistons",
-      "rank": 57
+      "rank": 51
+    },
+    {
+      "player": "Cooper Flagg",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2025-12-12",
+      "last_mention": "2025-12-12",
+      "team": "Dallas Mavericks",
+      "rank": 52
+    },
+    {
+      "player": "Dereck Lively",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2025-12-12",
+      "last_mention": "2025-12-12",
+      "team": "Dallas Mavericks",
+      "rank": 53
     },
     {
       "player": "Draymond Green",
@@ -700,7 +652,7 @@
       "first_mention": "2025-12-11",
       "last_mention": "2025-12-11",
       "team": "Golden State Warriors",
-      "rank": 58
+      "rank": 54
     },
     {
       "player": "Fred VanVleet",
@@ -712,7 +664,19 @@
       "first_mention": "2025-12-11",
       "last_mention": "2025-12-11",
       "team": "Houston Rockets",
-      "rank": 59
+      "rank": 55
+    },
+    {
+      "player": "Jaime Jaquez",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2025-12-12",
+      "last_mention": "2025-12-12",
+      "team": "Miami Heat",
+      "rank": 56
     },
     {
       "player": "Jalen Duren",
@@ -724,7 +688,31 @@
       "first_mention": "2025-12-10",
       "last_mention": "2025-12-10",
       "team": "Detroit Pistons",
-      "rank": 60
+      "rank": 57
+    },
+    {
+      "player": "Jalen Johnson",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2025-12-12",
+      "last_mention": "2025-12-12",
+      "team": "Atlanta Hawks",
+      "rank": 58
+    },
+    {
+      "player": "Jose Alvarado",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2025-12-12",
+      "last_mention": "2025-12-12",
+      "team": "New Orleans Pelicans",
+      "rank": 59
     },
     {
       "player": "Karl-Anthony Towns",
@@ -736,19 +724,7 @@
       "first_mention": "2025-12-09",
       "last_mention": "2025-12-09",
       "team": "New York Knicks",
-      "rank": 61
-    },
-    {
-      "player": "Kawhi Leonard",
-      "score": 0.5,
-      "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2025-12-05",
-      "last_mention": "2025-12-05",
-      "team": "Los Angeles Clippers",
-      "rank": 62
+      "rank": 60
     },
     {
       "player": "Kel'el Ware",
@@ -760,7 +736,7 @@
       "first_mention": "2025-12-08",
       "last_mention": "2025-12-08",
       "team": "Miami Heat",
-      "rank": 63
+      "rank": 61
     },
     {
       "player": "LeBron James",
@@ -772,7 +748,7 @@
       "first_mention": "2025-12-09",
       "last_mention": "2025-12-09",
       "team": "Los Angeles Lakers",
-      "rank": 64
+      "rank": 62
     },
     {
       "player": "Luka Doncic",
@@ -784,7 +760,7 @@
       "first_mention": "2025-12-09",
       "last_mention": "2025-12-09",
       "team": "Los Angeles Lakers",
-      "rank": 65
+      "rank": 63
     },
     {
       "player": "Malik Monk",
@@ -796,7 +772,7 @@
       "first_mention": "2025-12-08",
       "last_mention": "2025-12-08",
       "team": "Sacramento Kings",
-      "rank": 66
+      "rank": 64
     },
     {
       "player": "Myles Turner",
@@ -808,7 +784,19 @@
       "first_mention": "2025-12-09",
       "last_mention": "2025-12-09",
       "team": "Milwaukee Bucks",
-      "rank": 67
+      "rank": 65
+    },
+    {
+      "player": "Nicolas Claxton",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2025-12-12",
+      "last_mention": "2025-12-12",
+      "team": "Golden State Warriors",
+      "rank": 66
     },
     {
       "player": "Pelle Larsson",
@@ -820,7 +808,7 @@
       "first_mention": "2025-12-08",
       "last_mention": "2025-12-08",
       "team": "Miami Heat",
-      "rank": 68
+      "rank": 67
     },
     {
       "player": "Zion Williamson",
@@ -832,7 +820,7 @@
       "first_mention": "2025-12-06",
       "last_mention": "2025-12-06",
       "team": "New Orleans Pelicans",
-      "rank": 69
+      "rank": 68
     },
     {
       "player": "Anthony Edwards",
@@ -844,7 +832,7 @@
       "first_mention": "2025-11-26",
       "last_mention": "2025-11-26",
       "team": "Minnesota Timberwolves",
-      "rank": 70
+      "rank": 69
     },
     {
       "player": "Bobby Portis",
@@ -856,7 +844,7 @@
       "first_mention": "2025-12-04",
       "last_mention": "2025-12-04",
       "team": "Milwaukee Bucks",
-      "rank": 71
+      "rank": 70
     },
     {
       "player": "Buddy Hield",
@@ -868,7 +856,7 @@
       "first_mention": "2025-11-26",
       "last_mention": "2025-11-26",
       "team": "Golden State Warriors",
-      "rank": 72
+      "rank": 71
     },
     {
       "player": "Ivica Zubac",
@@ -880,7 +868,7 @@
       "first_mention": "2025-12-04",
       "last_mention": "2025-12-04",
       "team": "Los Angeles Clippers",
-      "rank": 73
+      "rank": 72
     },
     {
       "player": "Jaden McDaniels",
@@ -892,19 +880,7 @@
       "first_mention": "2025-11-26",
       "last_mention": "2025-11-26",
       "team": "Minnesota Timberwolves",
-      "rank": 74
-    },
-    {
-      "player": "Josh Giddey",
-      "score": 0.25,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 1,
-      "first_mention": "2025-11-21",
-      "last_mention": "2025-11-21",
-      "team": "Chicago Bulls",
-      "rank": 75
+      "rank": 73
     },
     {
       "player": "Josh Hart",
@@ -916,7 +892,19 @@
       "first_mention": "2025-11-27",
       "last_mention": "2025-11-27",
       "team": "New York Knicks",
-      "rank": 76
+      "rank": 74
+    },
+    {
+      "player": "Kawhi Leonard",
+      "score": 0.25,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 1,
+      "first_mention": "2025-12-05",
+      "last_mention": "2025-12-05",
+      "team": "Los Angeles Clippers",
+      "rank": 75
     },
     {
       "player": "Kyle Kuzma",
@@ -928,7 +916,7 @@
       "first_mention": "2025-11-26",
       "last_mention": "2025-11-26",
       "team": "Milwaukee Bucks",
-      "rank": 77
+      "rank": 76
     },
     {
       "player": "Lonzo Ball",
@@ -940,7 +928,7 @@
       "first_mention": "2025-11-26",
       "last_mention": "2025-11-26",
       "team": "Cleveland Cavaliers",
-      "rank": 78
+      "rank": 77
     },
     {
       "player": "Max Christie",
@@ -952,19 +940,7 @@
       "first_mention": "2025-11-28",
       "last_mention": "2025-11-28",
       "team": "Dallas Mavericks",
-      "rank": 79
-    },
-    {
-      "player": "Nikola Vucevic",
-      "score": 0.25,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 1,
-      "first_mention": "2025-11-21",
-      "last_mention": "2025-11-21",
-      "team": "Chicago Bulls",
-      "rank": 80
+      "rank": 78
     },
     {
       "player": "Robert Williams",
@@ -976,10 +952,133 @@
       "first_mention": "2025-11-26",
       "last_mention": "2025-11-26",
       "team": "Portland Trail Blazers",
-      "rank": 81
+      "rank": 79
     }
   ],
   "player_rumors": {
+    "Keon Ellis": [
+      {
+        "date": "2025-12-19",
+        "text": "Sacramento\u2019s Keon Ellis, another player coveted by teams looking for on-ball defensive help, could certainly be traded by the deadline as he enters free agency this summer. League sources believe the current price tag on Ellis is a protected first-round pick.\u201cHe\u2019s maybe the most divisive player in the league,\u201d one league source said, pointing to the near-universal approval Ellis has from rival scouts and the lack of on-court opportunities with the second-straight coaching staff.New York Times",
+        "text_html": "Sacramento\u2019s Keon Ellis, another player coveted by teams looking for on-ball defensive help, could certainly be traded by the deadline as he enters free agency this summer. League sources believe the current price tag on Ellis is a protected first-round pick. <a href=\"https://www.nytimes.com/athletic/6902319/2025/12/19/lakers-trade-rumors-deadline-needs/?source=user_shared_article\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cHe\u2019s maybe the most divisive player in the league,\u201d one league source said, pointing to the near-universal approval Ellis has from rival scouts and the lack of on-court opportunities with the second-straight coaching staff</a>.",
+        "outlet": "New York Times",
+        "source_url": "https://www.nytimes.com/athletic/6902319/2025/12/19/lakers-trade-rumors-deadline-needs/?source=user_shared_article"
+      },
+      {
+        "date": "2025-12-18",
+        "text": "The Kings have largely been open to fielding trade calls on pretty much anyone on the roster outside of Keegan Murray and rookie Nique Clifford but have also been telling potential trade partners that they do not intend to attach draft capital to veteran contracts to try to move them\u2026 or use Keon Ellis' contract to try to sweeten deals. Ellis has been attracting trade feelers for some time given the leaguewide dearth of 3-and-D players currently available.journal-topics.com",
+        "text_html": "<a href=\"https://marcstein.substack.com\" target=\"_blank\" style=\"color: #1a73e8;\">The Kings have largely been open to fielding trade calls on pretty much anyone on the roster outside of Keegan Murray and rookie Nique Clifford but have also been telling potential trade partners that they do not intend to attach draft capital to veteran contracts to try to move them</a> \u2026 or use Keon Ellis' contract to try to sweeten deals. Ellis has been attracting trade feelers for some time given the leaguewide dearth of 3-and-D players currently available.",
+        "outlet": "journal-topics.com",
+        "source_url": "https://marcstein.substack.com"
+      },
+      {
+        "date": "2025-12-17",
+        "text": "The Kings and first-year general manager Scott Perry are open to trade talks throughout the roster, sources told ESPN's Shams Charania.Teams around the league are keeping their eyes on veterans Domantas Sabonis, Zach LaVine and DeMar DeRozan, as well as 25-year-old guard Keon Ellis.ESPN",
+        "text_html": "The Kings and first-year general manager Scott Perry are open to trade talks throughout the roster, sources told ESPN's Shams Charania. <a href=\"https://www.espn.com/nba/story/_/id/47191162/nba-buzz-latest-live-updates-trades-intel-league\" target=\"_blank\" style=\"color: #1a73e8;\">Teams around the league are keeping their eyes on veterans Domantas Sabonis, Zach LaVine and DeMar DeRozan, as well as 25-year-old guard Keon Ellis</a>.",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/47191162/nba-buzz-latest-live-updates-trades-intel-league"
+      },
+      {
+        "date": "2025-12-14",
+        "text": "League sources say that the Lakers would naturally like to be in the 3-and-D market this Trade Season, but it's a very limited market at this juncture, essentially headlined by Sacramento's Keon Ellis despite the fact that Ellis is playing seven fewer minutes per game this season under Kings coach Doug Christie than he did last season. We mentioned the other day that the Pelicans would insist on a significant haul to part with Herb Jones It's a price point is presumed to be beyond the Lakers\u2019 current trade means.marcstein.substack.com",
+        "text_html": "<a href=\"https://marcstein.substack.com/\" target=\"_blank\" style=\"color: #1a73e8;\">League sources say that the Lakers would naturally like to be in the 3-and-D market this Trade Season, but it's a very limited market at this juncture, essentially headlined by Sacramento's Keon Ellis despite the fact that Ellis is playing seven fewer minutes per game this season under Kings coach Doug Christie than he did last season</a>. We mentioned the other day that the Pelicans would insist on a significant haul to part with Herb Jones It's a price point is presumed to be beyond the Lakers\u2019 current trade means.",
+        "outlet": "marcstein.substack.com",
+        "source_url": "https://marcstein.substack.com/"
+      },
+      {
+        "date": "2025-12-09",
+        "text": "The Kings and first-year general manager Scott Perry are using this season as a patient evaluation campaign, trying to build a gritty culture.They are open-minded about trade talks throughout the roster,\u00a0sources\u00a0said.Teams are\u00a0monitoring\u00a0veterans\u00a0Domantas Sabonis,\u00a0Zach LaVine\u00a0and\u00a0DeMar DeRozan, along with 25-year-old guard\u00a0Keon Ellis.ESPN",
+        "text_html": "The Kings and first-year general manager Scott Perry are using this season as a patient evaluation campaign, trying to build a gritty culture. <a href=\"https://www.espn.com/nba/story/_/id/47245704/shams-pass-nba-trade-deadline-notes-news-buzz-anthony-davis-giannis-antetokounmpo-teams\" target=\"_blank\" style=\"color: #1a73e8;\">They are open-minded about trade talks throughout the roster, sources said.</a> Teams are monitoring veterans Domantas Sabonis, Zach LaVine and DeMar DeRozan, along with 25-year-old guard Keon Ellis.",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/47245704/shams-pass-nba-trade-deadline-notes-news-buzz-anthony-davis-giannis-antetokounmpo-teams"
+      },
+      {
+        "date": "2025-12-07",
+        "text": "Keon Ellis on Kings players named in trade rumors: I mean it's part of the job. It's kind of what you signed up\u00a0for.It's a business at the end\u00a0of the day. Everyone knows that. So it is what it is. You can't really do\u00a0anything about it. So just don't let it\u00a0affect you.Q. But is it possible to be named in all these rumors, and keep\u00a0practicing and have the mindset?\u00a0Ellis: Yeah. I mean you definitely see it. I\u00a0mean you hear about it but there's nothing you can do. So it is\u00a0just talk at the end of the day until\u00a0something happens.YouTube",
+        "text_html": "Keon Ellis on Kings players named in trade rumors: I mean it's part of the job. It's kind of what you signed up for. <a href=\"https://www.youtube.com/watch?v=A-eGnsGOF98&t=103s\" target=\"_blank\" style=\"color: #1a73e8;\">It's a business at the end of the day. Everyone knows that. So it is what it is. You can't really do anything about it. So just don't let it affect you.</a> Q. But is it possible to be named in all these rumors, and keep practicing and have the mindset? Ellis: Yeah. I mean you definitely see it. I mean you hear about it but there's nothing you can do. So it is just talk at the end of the day until something happens.",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=A-eGnsGOF98&t=103s"
+      },
+      {
+        "date": "2025-12-01",
+        "text": "Marc Stein: Well,look \u2014 their phones are already ringing for Keon Ellis, whose minutes \u2014 he's playing about six minutes,what, a heck of a game fewer than he did last season. And the Kings are going to have to decide: do we want to part with him \u2014 someone who you can probably construct a net-positive trade for between now and the deadline in February \u2014 or is that a player they want to keep for the future? I mean, the early messaging out of the 916 has been that Keegan Murray and Nique Clifford are off-limits, and they\u2019re open to pretty much everything else.YouTube",
+        "text_html": "Marc Stein: Well, <a href=\"https://www.youtube.com/watch?v=1LCOowNMP8c\" target=\"_blank\" style=\"color: #1a73e8;\">look \u2014 their phones are already ringing for Keon Ellis, whose minutes \u2014 he's playing about six minutes,</a> what, a heck of a game fewer than he did last season. And the Kings are going to have to decide: do we want to part with him \u2014 someone who you can probably construct a net-positive trade for between now and the deadline in February \u2014 or is that a player they want to keep for the future? I mean, the early messaging out of the 916 has been that Keegan Murray and Nique Clifford are off-limits, and they\u2019re open to pretty much everything else.",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=1LCOowNMP8c"
+      },
+      {
+        "date": "2025-11-26",
+        "text": "The Indiana Pacers have been among many teams to express\u00a0interest\u00a0in Keon Ellis this seasonand have previously targeted him, league\u00a0sources\u00a0told\u00a0HoopsHype.HoopsHype",
+        "text_html": "<a href=\"https://www.hoopshype.com/story/sports/nba/2025/11/26/title-nba-intel-ja-morant-timberwolves-kings-celtics/87477567007/\" target=\"_blank\" style=\"color: #1a73e8;\">The Indiana Pacers have been among many teams to express interest in Keon Ellis this season</a> and have previously targeted him, league sources told HoopsHype.",
+        "outlet": "HoopsHype",
+        "source_url": "https://www.hoopshype.com/story/sports/nba/2025/11/26/title-nba-intel-ja-morant-timberwolves-kings-celtics/87477567007/"
+      },
+      {
+        "date": "2025-11-23",
+        "text": "The King who appears to hold the most immediate trade value:\u00a0Keon Ellis.\"More than half the league has called on him,\" one\u00a0source\u00a0with\u00a0knowledge\u00a0of the situation\u00a0told\u00a0The Stein Line.marcstein.substack.com",
+        "text_html": "The King who appears to hold the most immediate trade value: Keon Ellis. <a href=\"https://marcstein.substack.com/p/sunday-best-the-pieces-of-this-seasons\" target=\"_blank\" style=\"color: #1a73e8;\">\"More than half the league has called on him,\" one source with knowledge of the situation told The Stein Line</a>.",
+        "outlet": "marcstein.substack.com",
+        "source_url": "https://marcstein.substack.com/p/sunday-best-the-pieces-of-this-seasons"
+      }
+    ],
+    "Herb Jones": [
+      {
+        "date": "2025-12-19",
+        "text": "The New Orleans Pelicans, according to team and league sources, have signaled to interested teams that they\u2019re not entertaining Herbert Jones trades \u2014 at least not at any cost the Lakers can meet.L.A. could offer a single unprotected first-round pick and matching salary for Jones once he becomes trade-eligible in January. And for players like Jones, the asking price is usually a combination of good draft capital and young players.New York Times",
+        "text_html": "<a href=\"https://www.nytimes.com/athletic/6902319/2025/12/19/lakers-trade-rumors-deadline-needs/?source=user_shared_article\" target=\"_blank\" style=\"color: #1a73e8;\">The New Orleans Pelicans, according to team and league sources, have signaled to interested teams that they\u2019re not entertaining Herbert Jones trades \u2014 at least not at any cost the Lakers can meet.</a> L.A. could offer a single unprotected first-round pick and matching salary for Jones once he becomes trade-eligible in January. And for players like Jones, the asking price is usually a combination of good draft capital and young players.",
+        "outlet": "New York Times",
+        "source_url": "https://www.nytimes.com/athletic/6902319/2025/12/19/lakers-trade-rumors-deadline-needs/?source=user_shared_article"
+      },
+      {
+        "date": "2025-12-18",
+        "text": "The Los Angeles Lakers are\u00a0monitoring\u00a0the trade market for a defensive wing upgrade, league\u00a0sources\u00a0told\u00a0HoopsHype.Among the 3-and-D wing upgrades on their wish list is New Orleans Pelicans forward\u00a0Herb Jones, league\u00a0sources\u00a0say.HoopsHype",
+        "text_html": "The Los Angeles Lakers are monitoring the trade market for a defensive wing upgrade, league sources told HoopsHype. <a href=\"https://www.hoopshype.com/story/sports/nba/2025/12/18/michael-scottos-nba-intel-giannis-antetokounmpo-anthony-davis-trae-young-lauri-markkanen-lamelo-ball/87823173007/\" target=\"_blank\" style=\"color: #1a73e8;\">Among the 3-and-D wing upgrades on their wish list is New Orleans Pelicans forward Herb Jones, league sources say</a>.",
+        "outlet": "HoopsHype",
+        "source_url": "https://www.hoopshype.com/story/sports/nba/2025/12/18/michael-scottos-nba-intel-giannis-antetokounmpo-anthony-davis-trae-young-lauri-markkanen-lamelo-ball/87823173007/"
+      },
+      {
+        "date": "2025-12-16",
+        "text": "MrBuckBuck: New Orleans PelicansHerb Jones is in disbelief after a fan trolls him saying he was traded to the Lakersx.com",
+        "text_html": "MrBuckBuck: New Orleans Pelicans <a href=\"https://x.com/MrBuckBuckNBA/status/2000910301055885530\" target=\"_blank\" style=\"color: #1a73e8;\">Herb Jones is in disbelief after a fan trolls him saying he was traded to the Lakers</a>",
+        "outlet": "x.com",
+        "source_url": "https://x.com/MrBuckBuckNBA/status/2000910301055885530"
+      },
+      {
+        "date": "2025-12-14",
+        "text": "League sources say that the Lakers would naturally like to be in the 3-and-D market this Trade Season, but it's a very limited market at this juncture, essentially headlined by Sacramento's Keon Ellis despite the fact that Ellis is playing seven fewer minutes per game this season under Kings coach Doug Christie than he did last season. We mentioned the other day that the Pelicans would insist on a significant haul to part with Herb Jones It's a price point is presumed to be beyond the Lakers\u2019 current trade means.marcstein.substack.com",
+        "text_html": "<a href=\"https://marcstein.substack.com/\" target=\"_blank\" style=\"color: #1a73e8;\">League sources say that the Lakers would naturally like to be in the 3-and-D market this Trade Season, but it's a very limited market at this juncture, essentially headlined by Sacramento's Keon Ellis despite the fact that Ellis is playing seven fewer minutes per game this season under Kings coach Doug Christie than he did last season</a>. We mentioned the other day that the Pelicans would insist on a significant haul to part with Herb Jones It's a price point is presumed to be beyond the Lakers\u2019 current trade means.",
+        "outlet": "marcstein.substack.com",
+        "source_url": "https://marcstein.substack.com/"
+      },
+      {
+        "date": "2025-12-11",
+        "text": "Yet it's likewise believed that the price point to convince New Orleans to part with either Murphy or Jones \u2014 swingmen who both possess favorable contracts on top of their highly desired skill sets \u2014 is extremely high and intended to discourage inquiries.marcstein.substack.com",
+        "text_html": "<a href=\"https://marcstein.substack.com/p/lots-of-the-nbas-latest-trade-talk\" target=\"_blank\" style=\"color: #1a73e8;\">Yet it's likewise believed that the price point to convince New Orleans to part with either Murphy or Jones \u2014 swingmen who both possess favorable contracts on top of their highly desired skill sets \u2014 is extremely high and intended to discourage inquiries</a>.",
+        "outlet": "marcstein.substack.com",
+        "source_url": "https://marcstein.substack.com/p/lots-of-the-nbas-latest-trade-talk"
+      },
+      {
+        "date": "2025-12-11",
+        "text": "While Lakers fans can fantasize about some all-out liquidation of the three-win Pelicans\u2019 roster, team and league sources tell The Athletic that New Orleans is not interested in moving Herb Jones.And considering what LA would have to offer in a deal, expiring contracts and a single first-round pick, the Pelicans almost certainly wouldn\u2019t engage at that price point.New York Times",
+        "text_html": "<a href=\"https://www.nytimes.com/athletic/6881281/2025/12/11/lakers-defense-trades-nba-cup-loss/?source=emp_shared_article&redirected=1\" target=\"_blank\" style=\"color: #1a73e8;\">While Lakers fans can fantasize about some all-out liquidation of the three-win Pelicans\u2019 roster, team and league sources tell The Athletic that New Orleans is not interested in moving Herb Jones.</a> And considering what LA would have to offer in a deal, expiring contracts and a single first-round pick, the Pelicans almost certainly wouldn\u2019t engage at that price point.",
+        "outlet": "New York Times",
+        "source_url": "https://www.nytimes.com/athletic/6881281/2025/12/11/lakers-defense-trades-nba-cup-loss/?source=emp_shared_article&redirected=1"
+      },
+      {
+        "date": "2025-12-06",
+        "text": "Sharmit Dua:The Pelicans have not had any conversations with teams regarding Trey Murphy, Herb Jones, or Zion Williamsonper source familiar with the matterBluesky",
+        "text_html": "Sharmit Dua: <a href=\"https://bsky.app/profile/fearthebrown.bsky.social/post/3m7dj3tlvds2h\" target=\"_blank\" style=\"color: #1a73e8;\">The Pelicans have not had any conversations with teams regarding Trey Murphy, Herb Jones, or Zion Williamson</a> per source familiar with the matter",
+        "outlet": "Bluesky",
+        "source_url": "https://bsky.app/profile/fearthebrown.bsky.social/post/3m7dj3tlvds2h"
+      },
+      {
+        "date": "2025-12-06",
+        "text": "Jake Fischer: Andthere are definitely teams that believe that have told me as recently as today that New Orleans is now starting to listen and at least show some type of willingness to listen on guys like Herb Jones and Trey Murphy as well.And those guys are going to have a lot of interest around the league.YouTube",
+        "text_html": "Jake Fischer: And <a href=\"https://www.youtube.com/watch?v=FiTbq5xigD0\" target=\"_blank\" style=\"color: #1a73e8;\">there are definitely teams that believe that have told me as recently as today that New Orleans is now starting to listen and at least show some type of willingness to listen on guys like Herb Jones and Trey Murphy as well.</a> And those guys are going to have a lot of interest around the league.",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=FiTbq5xigD0"
+      }
+    ],
     "Anthony Davis": [
       {
         "date": "2025-12-19",
@@ -1176,13 +1275,6 @@
         "text_html": "Ian Begley: I\u2019d guess today that they prioritize point guard over front court in the trade market. This is stating the obvious, but <a href=\"https://sny.tv/articles/knicks-mailbag-11-22-25\" target=\"_blank\" style=\"color: #1a73e8;\">I\u2019m sure the Knicks would at least check in with Dallas if/when Anthony Davis becomes available.</a> You may scoff at the idea, but the Knicks want to win a title this season. If Dallas is offering Davis at a below-market cost, I\u2019m sure the Knicks will at least give the move some thought. But this, again, is stating the obvious. The Mavs will get calls from nearly all NBA teams if/when they make Davis available.",
         "outlet": "SportsNet New York",
         "source_url": "https://sny.tv/articles/knicks-mailbag-11-22-25"
-      },
-      {
-        "date": "2025-11-21",
-        "text": "The Bulls could go in a few directions over the next several months, including adding to the current roster.That has led some sources to speculate whether Chicago, with over $80 million in expiring money, could be a suitor for Dallas' Anthony Davis and bring the Windy City native home. \u2018I could see it,\u2019 a West executive, who recently saw Chicago play, said. \u2018[Josh] Giddey has worked well with Vucevic, but he could use a roll man to throw it up to.ESPN",
-        "text_html": "The Bulls could go in a few directions over the next several months, including adding to the current roster. <a href=\"https://www.espn.com/nba/story/_/id/47039949/nba-first-month-lessons-intel-thunder-lakers-warriors-knicks-every-team\" target=\"_blank\" style=\"color: #1a73e8;\">That has led some sources to speculate whether Chicago, with over $80 million in expiring money, could be a suitor for Dallas' Anthony Davis and bring the Windy City native home. \u2018I could see it,\u2019 a West executive, who recently saw Chicago play, said. \u2018[Josh] Giddey has worked well with Vucevic, but he could use a roll man to throw it up to</a>.",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/47039949/nba-first-month-lessons-intel-thunder-lakers-warriors-knicks-every-team"
       }
     ],
     "Trae Young": [
@@ -1935,64 +2027,6 @@
         "source_url": "https://marcstein.substack.com/p/sunday-best-the-pieces-of-this-seasons"
       }
     ],
-    "Keon Ellis": [
-      {
-        "date": "2025-12-18",
-        "text": "The Kings have largely been open to fielding trade calls on pretty much anyone on the roster outside of Keegan Murray and rookie Nique Clifford but have also been telling potential trade partners that they do not intend to attach draft capital to veteran contracts to try to move them\u2026 or use Keon Ellis' contract to try to sweeten deals. Ellis has been attracting trade feelers for some time given the leaguewide dearth of 3-and-D players currently available.journal-topics.com",
-        "text_html": "<a href=\"https://marcstein.substack.com\" target=\"_blank\" style=\"color: #1a73e8;\">The Kings have largely been open to fielding trade calls on pretty much anyone on the roster outside of Keegan Murray and rookie Nique Clifford but have also been telling potential trade partners that they do not intend to attach draft capital to veteran contracts to try to move them</a> \u2026 or use Keon Ellis' contract to try to sweeten deals. Ellis has been attracting trade feelers for some time given the leaguewide dearth of 3-and-D players currently available.",
-        "outlet": "journal-topics.com",
-        "source_url": "https://marcstein.substack.com"
-      },
-      {
-        "date": "2025-12-17",
-        "text": "The Kings and first-year general manager Scott Perry are open to trade talks throughout the roster, sources told ESPN's Shams Charania.Teams around the league are keeping their eyes on veterans Domantas Sabonis, Zach LaVine and DeMar DeRozan, as well as 25-year-old guard Keon Ellis.ESPN",
-        "text_html": "The Kings and first-year general manager Scott Perry are open to trade talks throughout the roster, sources told ESPN's Shams Charania. <a href=\"https://www.espn.com/nba/story/_/id/47191162/nba-buzz-latest-live-updates-trades-intel-league\" target=\"_blank\" style=\"color: #1a73e8;\">Teams around the league are keeping their eyes on veterans Domantas Sabonis, Zach LaVine and DeMar DeRozan, as well as 25-year-old guard Keon Ellis</a>.",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/47191162/nba-buzz-latest-live-updates-trades-intel-league"
-      },
-      {
-        "date": "2025-12-14",
-        "text": "League sources say that the Lakers would naturally like to be in the 3-and-D market this Trade Season, but it's a very limited market at this juncture, essentially headlined by Sacramento's Keon Ellis despite the fact that Ellis is playing seven fewer minutes per game this season under Kings coach Doug Christie than he did last season. We mentioned the other day that the Pelicans would insist on a significant haul to part with Herb Jones It's a price point is presumed to be beyond the Lakers\u2019 current trade means.marcstein.substack.com",
-        "text_html": "<a href=\"https://marcstein.substack.com/\" target=\"_blank\" style=\"color: #1a73e8;\">League sources say that the Lakers would naturally like to be in the 3-and-D market this Trade Season, but it's a very limited market at this juncture, essentially headlined by Sacramento's Keon Ellis despite the fact that Ellis is playing seven fewer minutes per game this season under Kings coach Doug Christie than he did last season</a>. We mentioned the other day that the Pelicans would insist on a significant haul to part with Herb Jones It's a price point is presumed to be beyond the Lakers\u2019 current trade means.",
-        "outlet": "marcstein.substack.com",
-        "source_url": "https://marcstein.substack.com/"
-      },
-      {
-        "date": "2025-12-09",
-        "text": "The Kings and first-year general manager Scott Perry are using this season as a patient evaluation campaign, trying to build a gritty culture.They are open-minded about trade talks throughout the roster,\u00a0sources\u00a0said.Teams are\u00a0monitoring\u00a0veterans\u00a0Domantas Sabonis,\u00a0Zach LaVine\u00a0and\u00a0DeMar DeRozan, along with 25-year-old guard\u00a0Keon Ellis.ESPN",
-        "text_html": "The Kings and first-year general manager Scott Perry are using this season as a patient evaluation campaign, trying to build a gritty culture. <a href=\"https://www.espn.com/nba/story/_/id/47245704/shams-pass-nba-trade-deadline-notes-news-buzz-anthony-davis-giannis-antetokounmpo-teams\" target=\"_blank\" style=\"color: #1a73e8;\">They are open-minded about trade talks throughout the roster, sources said.</a> Teams are monitoring veterans Domantas Sabonis, Zach LaVine and DeMar DeRozan, along with 25-year-old guard Keon Ellis.",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/47245704/shams-pass-nba-trade-deadline-notes-news-buzz-anthony-davis-giannis-antetokounmpo-teams"
-      },
-      {
-        "date": "2025-12-07",
-        "text": "Keon Ellis on Kings players named in trade rumors: I mean it's part of the job. It's kind of what you signed up\u00a0for.It's a business at the end\u00a0of the day. Everyone knows that. So it is what it is. You can't really do\u00a0anything about it. So just don't let it\u00a0affect you.Q. But is it possible to be named in all these rumors, and keep\u00a0practicing and have the mindset?\u00a0Ellis: Yeah. I mean you definitely see it. I\u00a0mean you hear about it but there's nothing you can do. So it is\u00a0just talk at the end of the day until\u00a0something happens.YouTube",
-        "text_html": "Keon Ellis on Kings players named in trade rumors: I mean it's part of the job. It's kind of what you signed up for. <a href=\"https://www.youtube.com/watch?v=A-eGnsGOF98&t=103s\" target=\"_blank\" style=\"color: #1a73e8;\">It's a business at the end of the day. Everyone knows that. So it is what it is. You can't really do anything about it. So just don't let it affect you.</a> Q. But is it possible to be named in all these rumors, and keep practicing and have the mindset? Ellis: Yeah. I mean you definitely see it. I mean you hear about it but there's nothing you can do. So it is just talk at the end of the day until something happens.",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=A-eGnsGOF98&t=103s"
-      },
-      {
-        "date": "2025-12-01",
-        "text": "Marc Stein: Well,look \u2014 their phones are already ringing for Keon Ellis, whose minutes \u2014 he's playing about six minutes,what, a heck of a game fewer than he did last season. And the Kings are going to have to decide: do we want to part with him \u2014 someone who you can probably construct a net-positive trade for between now and the deadline in February \u2014 or is that a player they want to keep for the future? I mean, the early messaging out of the 916 has been that Keegan Murray and Nique Clifford are off-limits, and they\u2019re open to pretty much everything else.YouTube",
-        "text_html": "Marc Stein: Well, <a href=\"https://www.youtube.com/watch?v=1LCOowNMP8c\" target=\"_blank\" style=\"color: #1a73e8;\">look \u2014 their phones are already ringing for Keon Ellis, whose minutes \u2014 he's playing about six minutes,</a> what, a heck of a game fewer than he did last season. And the Kings are going to have to decide: do we want to part with him \u2014 someone who you can probably construct a net-positive trade for between now and the deadline in February \u2014 or is that a player they want to keep for the future? I mean, the early messaging out of the 916 has been that Keegan Murray and Nique Clifford are off-limits, and they\u2019re open to pretty much everything else.",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=1LCOowNMP8c"
-      },
-      {
-        "date": "2025-11-26",
-        "text": "The Indiana Pacers have been among many teams to express\u00a0interest\u00a0in Keon Ellis this seasonand have previously targeted him, league\u00a0sources\u00a0told\u00a0HoopsHype.HoopsHype",
-        "text_html": "<a href=\"https://www.hoopshype.com/story/sports/nba/2025/11/26/title-nba-intel-ja-morant-timberwolves-kings-celtics/87477567007/\" target=\"_blank\" style=\"color: #1a73e8;\">The Indiana Pacers have been among many teams to express interest in Keon Ellis this season</a> and have previously targeted him, league sources told HoopsHype.",
-        "outlet": "HoopsHype",
-        "source_url": "https://www.hoopshype.com/story/sports/nba/2025/11/26/title-nba-intel-ja-morant-timberwolves-kings-celtics/87477567007/"
-      },
-      {
-        "date": "2025-11-23",
-        "text": "The King who appears to hold the most immediate trade value:\u00a0Keon Ellis.\"More than half the league has called on him,\" one\u00a0source\u00a0with\u00a0knowledge\u00a0of the situation\u00a0told\u00a0The Stein Line.marcstein.substack.com",
-        "text_html": "The King who appears to hold the most immediate trade value: Keon Ellis. <a href=\"https://marcstein.substack.com/p/sunday-best-the-pieces-of-this-seasons\" target=\"_blank\" style=\"color: #1a73e8;\">\"More than half the league has called on him,\" one source with knowledge of the situation told The Stein Line</a>.",
-        "outlet": "marcstein.substack.com",
-        "source_url": "https://marcstein.substack.com/p/sunday-best-the-pieces-of-this-seasons"
-      }
-    ],
     "Keegan Murray": [
       {
         "date": "2025-12-18",
@@ -2143,13 +2177,6 @@
         "text_html": "<a href=\"https://www.sun-sentinel.com/2025/12/08/source-heat-to-consider-rozier-trade-option-even-with-lack-of-nba-clarity-as-guard-is-arraigned-in-gambling-probe/\" target=\"_blank\" style=\"color: #1a73e8;\">According to a source familiar with the process, the Heat have not received definitive clarity on whether Rozier can be traded, waived, or even whether the non-guaranteed portion of his contract can be reclaimed</a>. Further clarity could come later this week, with the possibility of NBA Commissioner Adam Silver commenting at the NBA Cup semifinal and championship games in Las Vegas.",
         "outlet": "South Florida Sun-Sentinel",
         "source_url": "https://www.sun-sentinel.com/2025/12/08/source-heat-to-consider-rozier-trade-option-even-with-lack-of-nba-clarity-as-guard-is-arraigned-in-gambling-probe/"
-      },
-      {
-        "date": "2025-11-21",
-        "text": "According to multiple NBA sources, the Heat have yet to receive clarity from the league about whether Rozier\u2019s salary can be utilized to balance a potential trade for salary-cap purposes. Contacted by the South Florida Sun Sentinel, the NBA declined to say whether the Heat are banned from including Rozier\u2019s salary in a trade, with the Heat yet to receive any clarity from the league, according to a source.South Florida Sun-Sentinel",
-        "text_html": "<a href=\"https://www.sun-sentinel.com/2025/11/21/heat-still-without-nba-clarity-regarding-whether-they-can-include-roziers-salary-in-a-trade/\" target=\"_blank\" style=\"color: #1a73e8;\">According to multiple NBA sources, the Heat have yet to receive clarity from the league about whether Rozier\u2019s salary can be utilized to balance a potential trade for salary-cap purposes</a>. Contacted by the South Florida Sun Sentinel, the NBA declined to say whether the Heat are banned from including Rozier\u2019s salary in a trade, with the Heat yet to receive any clarity from the league, according to a source.",
-        "outlet": "South Florida Sun-Sentinel",
-        "source_url": "https://www.sun-sentinel.com/2025/11/21/heat-still-without-nba-clarity-regarding-whether-they-can-include-roziers-salary-in-a-trade/"
       }
     ],
     "Jalen Green": [
@@ -2256,27 +2283,6 @@
         "text_html": "Jake Fischer: Another one we\u2019ll touch on more tomorrow. LaMelo Ball does not want out of Charlotte, to my understanding. I believe that to be true. <a href=\"https://marcstein.substack.com/\" target=\"_blank\" style=\"color: #1a73e8;\">The Hornets have definitely given other teams the impression they will listen to offers for him, though</a>.",
         "outlet": "marcstein.substack.com",
         "source_url": "https://marcstein.substack.com/"
-      },
-      {
-        "date": "2025-11-21",
-        "text": "LaMelo Ball dismissed a Yahoo! report that emerged Thursday indicating Ball is unhappy with the Hornets and open to being traded elsewhere. \u201cIt didn\u2019t come from me,\u201d Ball said. \u201cThe source wasn\u2019t me, so it\u2019s false info.Got to let them know. I really don\u2019t like commenting on stuff, but it got too big.\u201d He added: \u201cI love being here.\u201dCharlotte Observer",
-        "text_html": "<a href=\"https://www.charlotteobserver.com/sports/charlotte-hornets/article312743904.html\" target=\"_blank\" style=\"color: #1a73e8;\">LaMelo Ball dismissed a Yahoo! report that emerged Thursday indicating Ball is unhappy with the Hornets and open to being traded elsewhere. \u201cIt didn\u2019t come from me,\u201d Ball said. \u201cThe source wasn\u2019t me, so it\u2019s false info.</a> Got to let them know. I really don\u2019t like commenting on stuff, but it got too big.\u201d He added: \u201cI love being here.\u201d",
-        "outlet": "Charlotte Observer",
-        "source_url": "https://www.charlotteobserver.com/sports/charlotte-hornets/article312743904.html"
-      },
-      {
-        "date": "2025-11-21",
-        "text": "Ball, as he mentioned, typically doesn\u2019t give those kinds of stories a second thought. But this time, he decided to go a different route. Why? \u201cIt was (spreading) so much, they were making headlines,\u201d Ball said.\u201cBleacher Report and this and that. So I didn\u2019t want it to keep going on.\u201dCharlotte Observer",
-        "text_html": "<a href=\"https://www.charlotteobserver.com/sports/charlotte-hornets/article312743904.html\" target=\"_blank\" style=\"color: #1a73e8;\">Ball, as he mentioned, typically doesn\u2019t give those kinds of stories a second thought. But this time, he decided to go a different route. Why? \u201cIt was (spreading) so much, they were making headlines,\u201d Ball said.</a> \u201cBleacher Report and this and that. So I didn\u2019t want it to keep going on.\u201d",
-        "outlet": "Charlotte Observer",
-        "source_url": "https://www.charlotteobserver.com/sports/charlotte-hornets/article312743904.html"
-      },
-      {
-        "date": "2025-11-21",
-        "text": "Those words were music to the ears of the Hornets\u2019 second-year coach.\u201cI\u2019m glad to hear what he had to say because I would echo a lot of same things,\u201d Charles Lee said. \u201cOur relationship, our ability to have communication between myself, Melo and Jeff (Peterson, the team\u2019s president of basketball operations), it\u2019s really hot.And I think that he\u2019s always communicated to us. \u201cHe wants to build this thing with us. He understands what it\u2019s going to take to try to win and who we need in the building and stuff. So I think that he is just committed to Charlotte. He\u2019s talked about how much he loves the city and the fans and that\u2019s all I ever hear and that\u2019s all.\u201dCharlotte Observer",
-        "text_html": "Those words were music to the ears of the Hornets\u2019 second-year coach. <a href=\"https://www.charlotteobserver.com/sports/charlotte-hornets/article312743904.html\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cI\u2019m glad to hear what he had to say because I would echo a lot of same things,\u201d Charles Lee said. \u201cOur relationship, our ability to have communication between myself, Melo and Jeff (Peterson, the team\u2019s president of basketball operations), it\u2019s really hot.</a> And I think that he\u2019s always communicated to us. \u201cHe wants to build this thing with us. He understands what it\u2019s going to take to try to win and who we need in the building and stuff. So I think that he is just committed to Charlotte. He\u2019s talked about how much he loves the city and the fans and that\u2019s all I ever hear and that\u2019s all.\u201d",
-        "outlet": "Charlotte Observer",
-        "source_url": "https://www.charlotteobserver.com/sports/charlotte-hornets/article312743904.html"
       }
     ],
     "Lauri Markkanen": [
@@ -2478,57 +2484,6 @@
         "source_url": "https://www.nytimes.com/athletic/6881845/2025/12/12/nba-trades-giannis-antetokounmpo-anthony-davis-warriors-mavericks/?source=user_shared_article"
       }
     ],
-    "Herb Jones": [
-      {
-        "date": "2025-12-18",
-        "text": "The Los Angeles Lakers are\u00a0monitoring\u00a0the trade market for a defensive wing upgrade, league\u00a0sources\u00a0told\u00a0HoopsHype.Among the 3-and-D wing upgrades on their wish list is New Orleans Pelicans forward\u00a0Herb Jones, league\u00a0sources\u00a0say.HoopsHype",
-        "text_html": "The Los Angeles Lakers are monitoring the trade market for a defensive wing upgrade, league sources told HoopsHype. <a href=\"https://www.hoopshype.com/story/sports/nba/2025/12/18/michael-scottos-nba-intel-giannis-antetokounmpo-anthony-davis-trae-young-lauri-markkanen-lamelo-ball/87823173007/\" target=\"_blank\" style=\"color: #1a73e8;\">Among the 3-and-D wing upgrades on their wish list is New Orleans Pelicans forward Herb Jones, league sources say</a>.",
-        "outlet": "HoopsHype",
-        "source_url": "https://www.hoopshype.com/story/sports/nba/2025/12/18/michael-scottos-nba-intel-giannis-antetokounmpo-anthony-davis-trae-young-lauri-markkanen-lamelo-ball/87823173007/"
-      },
-      {
-        "date": "2025-12-16",
-        "text": "MrBuckBuck: New Orleans PelicansHerb Jones is in disbelief after a fan trolls him saying he was traded to the Lakersx.com",
-        "text_html": "MrBuckBuck: New Orleans Pelicans <a href=\"https://x.com/MrBuckBuckNBA/status/2000910301055885530\" target=\"_blank\" style=\"color: #1a73e8;\">Herb Jones is in disbelief after a fan trolls him saying he was traded to the Lakers</a>",
-        "outlet": "x.com",
-        "source_url": "https://x.com/MrBuckBuckNBA/status/2000910301055885530"
-      },
-      {
-        "date": "2025-12-14",
-        "text": "League sources say that the Lakers would naturally like to be in the 3-and-D market this Trade Season, but it's a very limited market at this juncture, essentially headlined by Sacramento's Keon Ellis despite the fact that Ellis is playing seven fewer minutes per game this season under Kings coach Doug Christie than he did last season. We mentioned the other day that the Pelicans would insist on a significant haul to part with Herb Jones It's a price point is presumed to be beyond the Lakers\u2019 current trade means.marcstein.substack.com",
-        "text_html": "<a href=\"https://marcstein.substack.com/\" target=\"_blank\" style=\"color: #1a73e8;\">League sources say that the Lakers would naturally like to be in the 3-and-D market this Trade Season, but it's a very limited market at this juncture, essentially headlined by Sacramento's Keon Ellis despite the fact that Ellis is playing seven fewer minutes per game this season under Kings coach Doug Christie than he did last season</a>. We mentioned the other day that the Pelicans would insist on a significant haul to part with Herb Jones It's a price point is presumed to be beyond the Lakers\u2019 current trade means.",
-        "outlet": "marcstein.substack.com",
-        "source_url": "https://marcstein.substack.com/"
-      },
-      {
-        "date": "2025-12-11",
-        "text": "Yet it's likewise believed that the price point to convince New Orleans to part with either Murphy or Jones \u2014 swingmen who both possess favorable contracts on top of their highly desired skill sets \u2014 is extremely high and intended to discourage inquiries.marcstein.substack.com",
-        "text_html": "<a href=\"https://marcstein.substack.com/p/lots-of-the-nbas-latest-trade-talk\" target=\"_blank\" style=\"color: #1a73e8;\">Yet it's likewise believed that the price point to convince New Orleans to part with either Murphy or Jones \u2014 swingmen who both possess favorable contracts on top of their highly desired skill sets \u2014 is extremely high and intended to discourage inquiries</a>.",
-        "outlet": "marcstein.substack.com",
-        "source_url": "https://marcstein.substack.com/p/lots-of-the-nbas-latest-trade-talk"
-      },
-      {
-        "date": "2025-12-11",
-        "text": "While Lakers fans can fantasize about some all-out liquidation of the three-win Pelicans\u2019 roster, team and league sources tell The Athletic that New Orleans is not interested in moving Herb Jones.And considering what LA would have to offer in a deal, expiring contracts and a single first-round pick, the Pelicans almost certainly wouldn\u2019t engage at that price point.New York Times",
-        "text_html": "<a href=\"https://www.nytimes.com/athletic/6881281/2025/12/11/lakers-defense-trades-nba-cup-loss/?source=emp_shared_article&redirected=1\" target=\"_blank\" style=\"color: #1a73e8;\">While Lakers fans can fantasize about some all-out liquidation of the three-win Pelicans\u2019 roster, team and league sources tell The Athletic that New Orleans is not interested in moving Herb Jones.</a> And considering what LA would have to offer in a deal, expiring contracts and a single first-round pick, the Pelicans almost certainly wouldn\u2019t engage at that price point.",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/6881281/2025/12/11/lakers-defense-trades-nba-cup-loss/?source=emp_shared_article&redirected=1"
-      },
-      {
-        "date": "2025-12-06",
-        "text": "Sharmit Dua:The Pelicans have not had any conversations with teams regarding Trey Murphy, Herb Jones, or Zion Williamsonper source familiar with the matterBluesky",
-        "text_html": "Sharmit Dua: <a href=\"https://bsky.app/profile/fearthebrown.bsky.social/post/3m7dj3tlvds2h\" target=\"_blank\" style=\"color: #1a73e8;\">The Pelicans have not had any conversations with teams regarding Trey Murphy, Herb Jones, or Zion Williamson</a> per source familiar with the matter",
-        "outlet": "Bluesky",
-        "source_url": "https://bsky.app/profile/fearthebrown.bsky.social/post/3m7dj3tlvds2h"
-      },
-      {
-        "date": "2025-12-06",
-        "text": "Jake Fischer: Andthere are definitely teams that believe that have told me as recently as today that New Orleans is now starting to listen and at least show some type of willingness to listen on guys like Herb Jones and Trey Murphy as well.And those guys are going to have a lot of interest around the league.YouTube",
-        "text_html": "Jake Fischer: And <a href=\"https://www.youtube.com/watch?v=FiTbq5xigD0\" target=\"_blank\" style=\"color: #1a73e8;\">there are definitely teams that believe that have told me as recently as today that New Orleans is now starting to listen and at least show some type of willingness to listen on guys like Herb Jones and Trey Murphy as well.</a> And those guys are going to have a lot of interest around the league.",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=FiTbq5xigD0"
-      }
-    ],
     "Brandon Ingram": [
       {
         "date": "2025-12-18",
@@ -2667,13 +2622,6 @@
         "text_html": "Marc Stein: \u201cWhat I think is really happening here, in the grand scheme \u2014 and I already mentioned Ja Morant in Memphis \u2014 is that Trae Young is now in a similar position. He\u2019s out in Atlanta, and the Hawks have been winning some games without him. Remember, this summer the two sides could have engaged in contract extension talks, but they didn\u2019t. The Hawks made it clear to Trae Young\u2019s camp that they weren\u2019t interested in an extension before the season. They wanted this season to play out. <a href=\"https://www.youtube.com/live/FLwniS558nA\" target=\"_blank\" style=\"color: #1a73e8;\">Around the league, these three guards \u2014 LaMelo Ball, Ja Morant, and Trae Young \u2014 are being grouped together in the eyes of a lot of executives. Maybe they aren\u2019t available right now, as we speak but these are players teams are anticipating could be available between now and the trade deadline on February 5th. And again, all three of these guys have been All-Stars</a>.",
         "outlet": "YouTube",
         "source_url": "https://www.youtube.com/live/FLwniS558nA"
-      },
-      {
-        "date": "2025-11-21",
-        "text": "Given Morant hasn't improved as a shooter -- he was an abysmal 10-for-60 from 3 before his latest calf injury -- it's easy to see why he's not the same player who electrified the league and appeared to have Memphis on a championship-caliber trajectory a few short years ago.Sources expect Memphis to explore the trade market for Morant but, like Davis, believe it will be difficult to get value for him. \u2018I do think they'll move him,\u2019 a West scout said.ESPN",
-        "text_html": "Given Morant hasn't improved as a shooter -- he was an abysmal 10-for-60 from 3 before his latest calf injury -- it's easy to see why he's not the same player who electrified the league and appeared to have Memphis on a championship-caliber trajectory a few short years ago. <a href=\"https://www.espn.com/nba/story/_/id/47039949/nba-first-month-lessons-intel-thunder-lakers-warriors-knicks-every-team\" target=\"_blank\" style=\"color: #1a73e8;\">Sources expect Memphis to explore the trade market for Morant but, like Davis, believe it will be difficult to get value for him. \u2018I do think they'll move him,\u2019 a West scout said</a>.",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/47039949/nba-first-month-lessons-intel-thunder-lakers-warriors-knicks-every-team"
       }
     ],
     "Jerami Grant": [
@@ -3174,27 +3122,28 @@
         "outlet": "HoopsHype",
         "source_url": "https://www.hoopshype.com/story/sports/nba/2025/11/26/title-nba-intel-ja-morant-timberwolves-kings-celtics/87477567007/"
       }
-    ],
-    "Nikola Vucevic": [
-      {
-        "date": "2025-11-21",
-        "text": "The Bulls could go in a few directions over the next several months, including adding to the current roster.That has led some sources to speculate whether Chicago, with over $80 million in expiring money, could be a suitor for Dallas' Anthony Davis and bring the Windy City native home. \u2018I could see it,\u2019 a West executive, who recently saw Chicago play, said. \u2018[Josh] Giddey has worked well with Vucevic, but he could use a roll man to throw it up to.ESPN",
-        "text_html": "The Bulls could go in a few directions over the next several months, including adding to the current roster. <a href=\"https://www.espn.com/nba/story/_/id/47039949/nba-first-month-lessons-intel-thunder-lakers-warriors-knicks-every-team\" target=\"_blank\" style=\"color: #1a73e8;\">That has led some sources to speculate whether Chicago, with over $80 million in expiring money, could be a suitor for Dallas' Anthony Davis and bring the Windy City native home. \u2018I could see it,\u2019 a West executive, who recently saw Chicago play, said. \u2018[Josh] Giddey has worked well with Vucevic, but he could use a roll man to throw it up to</a>.",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/47039949/nba-first-month-lessons-intel-thunder-lakers-warriors-knicks-every-team"
-      }
-    ],
-    "Josh Giddey": [
-      {
-        "date": "2025-11-21",
-        "text": "The Bulls could go in a few directions over the next several months, including adding to the current roster.That has led some sources to speculate whether Chicago, with over $80 million in expiring money, could be a suitor for Dallas' Anthony Davis and bring the Windy City native home. \u2018I could see it,\u2019 a West executive, who recently saw Chicago play, said. \u2018[Josh] Giddey has worked well with Vucevic, but he could use a roll man to throw it up to.ESPN",
-        "text_html": "The Bulls could go in a few directions over the next several months, including adding to the current roster. <a href=\"https://www.espn.com/nba/story/_/id/47039949/nba-first-month-lessons-intel-thunder-lakers-warriors-knicks-every-team\" target=\"_blank\" style=\"color: #1a73e8;\">That has led some sources to speculate whether Chicago, with over $80 million in expiring money, could be a suitor for Dallas' Anthony Davis and bring the Windy City native home. \u2018I could see it,\u2019 a West executive, who recently saw Chicago play, said. \u2018[Josh] Giddey has worked well with Vucevic, but he could use a roll man to throw it up to</a>.",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/47039949/nba-first-month-lessons-intel-thunder-lakers-warriors-knicks-every-team"
-      }
     ]
   },
   "daily_counts": {
+    "Keon Ellis": {
+      "2025-12-19": 1,
+      "2025-12-18": 1,
+      "2025-12-17": 1,
+      "2025-12-14": 1,
+      "2025-12-09": 1,
+      "2025-12-07": 1,
+      "2025-12-01": 1,
+      "2025-11-26": 1,
+      "2025-11-23": 1
+    },
+    "Herb Jones": {
+      "2025-12-19": 1,
+      "2025-12-18": 1,
+      "2025-12-16": 1,
+      "2025-12-14": 1,
+      "2025-12-11": 2,
+      "2025-12-06": 2
+    },
     "Anthony Davis": {
       "2025-12-19": 1,
       "2025-12-18": 4,
@@ -3210,8 +3159,7 @@
       "2025-11-27": 1,
       "2025-11-26": 3,
       "2025-11-24": 1,
-      "2025-11-23": 1,
-      "2025-11-21": 1
+      "2025-11-23": 1
     },
     "Trae Young": {
       "2025-12-19": 1,
@@ -3292,16 +3240,6 @@
       "2025-11-26": 1,
       "2025-11-23": 1
     },
-    "Keon Ellis": {
-      "2025-12-18": 1,
-      "2025-12-17": 1,
-      "2025-12-14": 1,
-      "2025-12-09": 1,
-      "2025-12-07": 1,
-      "2025-12-01": 1,
-      "2025-11-26": 1,
-      "2025-11-23": 1
-    },
     "Keegan Murray": {
       "2025-12-18": 1,
       "2025-11-23": 1
@@ -3326,8 +3264,7 @@
       "2025-12-18": 2,
       "2025-12-12": 1,
       "2025-12-09": 2,
-      "2025-12-08": 3,
-      "2025-11-21": 1
+      "2025-12-08": 3
     },
     "Jalen Green": {
       "2025-12-18": 1
@@ -3346,8 +3283,7 @@
       "2025-12-03": 2,
       "2025-11-24": 2,
       "2025-11-23": 1,
-      "2025-11-22": 1,
-      "2025-11-21": 3
+      "2025-11-22": 1
     },
     "Lauri Markkanen": {
       "2025-12-18": 1,
@@ -3379,13 +3315,6 @@
       "2025-12-18": 1,
       "2025-12-12": 1
     },
-    "Herb Jones": {
-      "2025-12-18": 1,
-      "2025-12-16": 1,
-      "2025-12-14": 1,
-      "2025-12-11": 2,
-      "2025-12-06": 2
-    },
     "Brandon Ingram": {
       "2025-12-18": 1,
       "2025-11-27": 1
@@ -3415,8 +3344,7 @@
       "2025-12-03": 2,
       "2025-12-02": 1,
       "2025-11-26": 1,
-      "2025-11-24": 1,
-      "2025-11-21": 1
+      "2025-11-24": 1
     },
     "Jerami Grant": {
       "2025-12-16": 1
@@ -3556,12 +3484,6 @@
     },
     "Kyle Kuzma": {
       "2025-11-26": 1
-    },
-    "Nikola Vucevic": {
-      "2025-11-21": 1
-    },
-    "Josh Giddey": {
-      "2025-11-21": 1
     }
   }
 }
