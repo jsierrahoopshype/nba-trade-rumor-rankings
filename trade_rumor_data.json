@@ -1,31 +1,31 @@
 {
-  "generated_at": "2025-12-21T19:15:56.471044",
+  "generated_at": "2025-12-22T03:00:02.783797",
   "scrape_window_days": 28,
-  "window_start": "2025-11-23",
-  "window_end": "2025-12-21",
-  "total_rumors": 297,
+  "window_start": "2025-11-24",
+  "window_end": "2025-12-22",
+  "total_rumors": 295,
   "total_players": 79,
   "rankings": [
     {
       "player": "Giannis Antetokounmpo",
       "score": 30.25,
-      "mentions_week1": 16,
-      "mentions_week2": 18,
+      "mentions_week1": 15,
+      "mentions_week2": 20,
       "mentions_weeks3_4": 21,
-      "total_mentions": 55,
+      "total_mentions": 56,
       "first_mention": "2025-11-26",
-      "last_mention": "2025-12-20",
+      "last_mention": "2025-12-21",
       "team": "Milwaukee Bucks",
       "rank": 1
     },
     {
       "player": "Anthony Davis",
-      "score": 16.5,
+      "score": 16.25,
       "mentions_week1": 10,
       "mentions_week2": 8,
-      "mentions_weeks3_4": 10,
-      "total_mentions": 28,
-      "first_mention": "2025-11-23",
+      "mentions_weeks3_4": 9,
+      "total_mentions": 27,
+      "first_mention": "2025-11-24",
       "last_mention": "2025-12-19",
       "team": "Dallas Mavericks",
       "rank": 2
@@ -43,18 +43,6 @@
       "rank": 3
     },
     {
-      "player": "Keon Ellis",
-      "score": 6.75,
-      "mentions_week1": 5,
-      "mentions_week2": 2,
-      "mentions_weeks3_4": 3,
-      "total_mentions": 10,
-      "first_mention": "2025-11-23",
-      "last_mention": "2025-12-20",
-      "team": "Sacramento Kings",
-      "rank": 4
-    },
-    {
       "player": "Zach LaVine",
       "score": 6.5,
       "mentions_week1": 5,
@@ -64,19 +52,7 @@
       "first_mention": "2025-11-26",
       "last_mention": "2025-12-20",
       "team": "Sacramento Kings",
-      "rank": 5
-    },
-    {
-      "player": "Domantas Sabonis",
-      "score": 6.0,
-      "mentions_week1": 4,
-      "mentions_week2": 3,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 9,
-      "first_mention": "2025-11-23",
-      "last_mention": "2025-12-18",
-      "team": "Sacramento Kings",
-      "rank": 6
+      "rank": 4
     },
     {
       "player": "Daniel Gafford",
@@ -88,13 +64,37 @@
       "first_mention": "2025-12-09",
       "last_mention": "2025-12-20",
       "team": "Dallas Mavericks",
+      "rank": 5
+    },
+    {
+      "player": "Keon Ellis",
+      "score": 5.75,
+      "mentions_week1": 4,
+      "mentions_week2": 2,
+      "mentions_weeks3_4": 3,
+      "total_mentions": 9,
+      "first_mention": "2025-11-26",
+      "last_mention": "2025-12-20",
+      "team": "Sacramento Kings",
+      "rank": 6
+    },
+    {
+      "player": "Domantas Sabonis",
+      "score": 5.75,
+      "mentions_week1": 4,
+      "mentions_week2": 3,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 8,
+      "first_mention": "2025-11-26",
+      "last_mention": "2025-12-18",
+      "team": "Sacramento Kings",
       "rank": 7
     },
     {
       "player": "Herb Jones",
-      "score": 5.5,
-      "mentions_week1": 4,
-      "mentions_week2": 2,
+      "score": 5.0,
+      "mentions_week1": 3,
+      "mentions_week2": 3,
       "mentions_weeks3_4": 2,
       "total_mentions": 8,
       "first_mention": "2025-12-06",
@@ -151,6 +151,18 @@
       "rank": 12
     },
     {
+      "player": "Coby White",
+      "score": 4.0,
+      "mentions_week1": 1,
+      "mentions_week2": 6,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 7,
+      "first_mention": "2025-12-11",
+      "last_mention": "2025-12-21",
+      "team": "Chicago Bulls",
+      "rank": 13
+    },
+    {
       "player": "Ja Morant",
       "score": 3.75,
       "mentions_week1": 1,
@@ -160,7 +172,7 @@
       "first_mention": "2025-11-24",
       "last_mention": "2025-12-17",
       "team": "Memphis Grizzlies",
-      "rank": 13
+      "rank": 14
     },
     {
       "player": "DeMar DeRozan",
@@ -172,7 +184,7 @@
       "first_mention": "2025-11-24",
       "last_mention": "2025-12-18",
       "team": "Sacramento Kings",
-      "rank": 14
+      "rank": 15
     },
     {
       "player": "D'Angelo Russell",
@@ -184,7 +196,7 @@
       "first_mention": "2025-11-27",
       "last_mention": "2025-12-18",
       "team": "Dallas Mavericks",
-      "rank": 15
+      "rank": 16
     },
     {
       "player": "Nick Richards",
@@ -196,31 +208,7 @@
       "first_mention": "2025-11-26",
       "last_mention": "2025-12-18",
       "team": "Phoenix Suns",
-      "rank": 16
-    },
-    {
-      "player": "Coby White",
-      "score": 3.0,
-      "mentions_week1": 0,
-      "mentions_week2": 6,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 6,
-      "first_mention": "2025-12-11",
-      "last_mention": "2025-12-13",
-      "team": "Chicago Bulls",
       "rank": 17
-    },
-    {
-      "player": "LaMelo Ball",
-      "score": 2.75,
-      "mentions_week1": 1,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 5,
-      "total_mentions": 7,
-      "first_mention": "2025-11-23",
-      "last_mention": "2025-12-18",
-      "team": "Charlotte Hornets",
-      "rank": 18
     },
     {
       "player": "Stephon Castle",
@@ -232,6 +220,18 @@
       "first_mention": "2025-12-04",
       "last_mention": "2025-12-18",
       "team": "San Antonio Spurs",
+      "rank": 18
+    },
+    {
+      "player": "LaMelo Ball",
+      "score": 2.5,
+      "mentions_week1": 1,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 4,
+      "total_mentions": 6,
+      "first_mention": "2025-11-24",
+      "last_mention": "2025-12-18",
+      "team": "Charlotte Hornets",
       "rank": 19
     },
     {
@@ -247,6 +247,18 @@
       "rank": 20
     },
     {
+      "player": "James Harden",
+      "score": 2.5,
+      "mentions_week1": 2,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 2,
+      "total_mentions": 4,
+      "first_mention": "2025-12-05",
+      "last_mention": "2025-12-21",
+      "team": "Los Angeles Clippers",
+      "rank": 21
+    },
+    {
       "player": "Walker Kessler",
       "score": 2.5,
       "mentions_week1": 2,
@@ -256,7 +268,7 @@
       "first_mention": "2025-12-09",
       "last_mention": "2025-12-18",
       "team": "Utah Jazz",
-      "rank": 21
+      "rank": 22
     },
     {
       "player": "Lauri Markkanen",
@@ -268,7 +280,7 @@
       "first_mention": "2025-12-01",
       "last_mention": "2025-12-18",
       "team": "Utah Jazz",
-      "rank": 22
+      "rank": 23
     },
     {
       "player": "Kyrie Irving",
@@ -280,18 +292,6 @@
       "first_mention": "2025-11-27",
       "last_mention": "2025-12-12",
       "team": "Dallas Mavericks",
-      "rank": 23
-    },
-    {
-      "player": "James Harden",
-      "score": 1.5,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 3,
-      "first_mention": "2025-12-05",
-      "last_mention": "2025-12-18",
-      "team": "Los Angeles Clippers",
       "rank": 24
     },
     {
@@ -343,18 +343,6 @@
       "rank": 28
     },
     {
-      "player": "Keegan Murray",
-      "score": 1.25,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 2,
-      "first_mention": "2025-11-23",
-      "last_mention": "2025-12-18",
-      "team": "Sacramento Kings",
-      "rank": 29
-    },
-    {
       "player": "Robert Williams",
       "score": 1.25,
       "mentions_week1": 1,
@@ -364,7 +352,7 @@
       "first_mention": "2025-11-26",
       "last_mention": "2025-12-20",
       "team": "Portland Trail Blazers",
-      "rank": 30
+      "rank": 29
     },
     {
       "player": "Russell Westbrook",
@@ -376,7 +364,7 @@
       "first_mention": "2025-11-27",
       "last_mention": "2025-12-15",
       "team": "Sacramento Kings",
-      "rank": 31
+      "rank": 30
     },
     {
       "player": "Tyrese Haliburton",
@@ -388,7 +376,7 @@
       "first_mention": "2025-11-26",
       "last_mention": "2025-12-18",
       "team": "Indiana Pacers",
-      "rank": 32
+      "rank": 31
     },
     {
       "player": "Kevin Porter",
@@ -400,7 +388,7 @@
       "first_mention": "2025-12-04",
       "last_mention": "2025-12-10",
       "team": "Milwaukee Bucks",
-      "rank": 33
+      "rank": 32
     },
     {
       "player": "Chris Paul",
@@ -412,7 +400,7 @@
       "first_mention": "2025-12-09",
       "last_mention": "2025-12-12",
       "team": "Los Angeles Clippers",
-      "rank": 34
+      "rank": 33
     },
     {
       "player": "Austin Reaves",
@@ -424,7 +412,7 @@
       "first_mention": "2025-12-17",
       "last_mention": "2025-12-17",
       "team": "Los Angeles Lakers",
-      "rank": 35
+      "rank": 34
     },
     {
       "player": "Cam Thomas",
@@ -436,19 +424,7 @@
       "first_mention": "2025-12-16",
       "last_mention": "2025-12-16",
       "team": "Brooklyn Nets",
-      "rank": 36
-    },
-    {
-      "player": "Darius Garland",
-      "score": 1.0,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2025-12-14",
-      "last_mention": "2025-12-14",
-      "team": "Cleveland Cavaliers",
-      "rank": 37
+      "rank": 35
     },
     {
       "player": "De'Aaron Fox",
@@ -460,7 +436,7 @@
       "first_mention": "2025-12-15",
       "last_mention": "2025-12-15",
       "team": "San Antonio Spurs",
-      "rank": 38
+      "rank": 36
     },
     {
       "player": "Dejounte Murray",
@@ -472,7 +448,7 @@
       "first_mention": "2025-12-16",
       "last_mention": "2025-12-16",
       "team": "New Orleans Pelicans",
-      "rank": 39
+      "rank": 37
     },
     {
       "player": "Donovan Mitchell",
@@ -484,7 +460,7 @@
       "first_mention": "2025-12-18",
       "last_mention": "2025-12-18",
       "team": "Cleveland Cavaliers",
-      "rank": 40
+      "rank": 38
     },
     {
       "player": "Evan Mobley",
@@ -496,7 +472,7 @@
       "first_mention": "2025-12-18",
       "last_mention": "2025-12-18",
       "team": "Cleveland Cavaliers",
-      "rank": 41
+      "rank": 39
     },
     {
       "player": "Gary Trent Jr",
@@ -508,7 +484,7 @@
       "first_mention": "2025-12-17",
       "last_mention": "2025-12-17",
       "team": "Los Angeles Lakers",
-      "rank": 42
+      "rank": 40
     },
     {
       "player": "Jalen Green",
@@ -520,7 +496,7 @@
       "first_mention": "2025-12-18",
       "last_mention": "2025-12-18",
       "team": "Phoenix Suns",
-      "rank": 43
+      "rank": 41
     },
     {
       "player": "Jerami Grant",
@@ -532,7 +508,7 @@
       "first_mention": "2025-12-16",
       "last_mention": "2025-12-16",
       "team": "Milwaukee Bucks",
-      "rank": 44
+      "rank": 42
     },
     {
       "player": "Jimmy Butler",
@@ -544,7 +520,19 @@
       "first_mention": "2025-12-17",
       "last_mention": "2025-12-17",
       "team": "Golden State Warriors",
-      "rank": 45
+      "rank": 43
+    },
+    {
+      "player": "Keegan Murray",
+      "score": 1.0,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2025-12-18",
+      "last_mention": "2025-12-18",
+      "team": "Sacramento Kings",
+      "rank": 44
     },
     {
       "player": "Kristaps Porzingis",
@@ -556,7 +544,7 @@
       "first_mention": "2025-12-18",
       "last_mention": "2025-12-18",
       "team": "Atlanta Hawks",
-      "rank": 46
+      "rank": 45
     },
     {
       "player": "Nique Clifford",
@@ -568,7 +556,7 @@
       "first_mention": "2025-12-18",
       "last_mention": "2025-12-18",
       "team": "Sacramento Kings",
-      "rank": 47
+      "rank": 46
     },
     {
       "player": "Anfernee Simons",
@@ -580,7 +568,7 @@
       "first_mention": "2025-11-26",
       "last_mention": "2025-11-30",
       "team": "Boston Celtics",
-      "rank": 48
+      "rank": 47
     },
     {
       "player": "Dylan Harper",
@@ -592,7 +580,7 @@
       "first_mention": "2025-12-04",
       "last_mention": "2025-12-10",
       "team": "San Antonio Spurs",
-      "rank": 49
+      "rank": 48
     },
     {
       "player": "Sam Hauser",
@@ -604,7 +592,7 @@
       "first_mention": "2025-11-26",
       "last_mention": "2025-11-30",
       "team": "Boston Celtics",
-      "rank": 50
+      "rank": 49
     },
     {
       "player": "Brandin Podziemski",
@@ -616,7 +604,7 @@
       "first_mention": "2025-12-11",
       "last_mention": "2025-12-11",
       "team": "Golden State Warriors",
-      "rank": 51
+      "rank": 50
     },
     {
       "player": "Cade Cunningham",
@@ -628,7 +616,7 @@
       "first_mention": "2025-12-10",
       "last_mention": "2025-12-10",
       "team": "Detroit Pistons",
-      "rank": 52
+      "rank": 51
     },
     {
       "player": "Cooper Flagg",
@@ -640,6 +628,18 @@
       "first_mention": "2025-12-12",
       "last_mention": "2025-12-12",
       "team": "Dallas Mavericks",
+      "rank": 52
+    },
+    {
+      "player": "Darius Garland",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2025-12-14",
+      "last_mention": "2025-12-14",
+      "team": "Cleveland Cavaliers",
       "rank": 53
     },
     {
@@ -956,348 +956,14 @@
     }
   ],
   "player_rumors": {
-    "Jonathan Kuminga": [
-      {
-        "date": "2025-12-21",
-        "text": "Steve Kerr on Jonathan Kuminga:Everybody wants honesty. They don't want to be\u00a0pandered to. They want to know what's what but you have\u00a0to deliver those messages with some\u00a0empathy. It's a tough\u00a0spot to be in.He's got two\u00a0little girls at home and he's been here\u00a0five years. And Andrew Wiggins was in this\u00a0exact boat a year ago, and Wigs actually was about to\u00a0have his third child right at the trade\u00a0deadline and his name was\u00a0floating out there and we kind\u00a0of go through this every year, but\u00a0there's always\u00a0like a player or two who become the\u00a0focal point of the trade deadline.\u00a0I always just try to talk to the guys\u00a0about the business and this is how it\u00a0works and how few players\u00a0in NBA history played for one franchise\u00a0and it's all part of the\u00a0deal that you sign up for but it doesn't\u00a0make it any easier when you feel like you're being shipped off and you got to pack up your family\u00a0and go. It's hard and I just think\u00a0it's important to acknowledge that to\u00a0the players and try to\u00a0understand that part of the business.YouTube",
-        "text_html": "Steve Kerr on Jonathan Kuminga: <a href=\"https://www.youtube.com/watch?v=H_V3yuAU5Hc&t=765s\" target=\"_blank\" style=\"color: #1a73e8;\">Everybody wants honesty. They don't want to be pandered to. They want to know what's what but you have to deliver those messages with some empathy. It's a tough spot to be in.</a> He's got two little girls at home and he's been here five years. And Andrew Wiggins was in this exact boat a year ago, and Wigs actually was about to have his third child right at the trade deadline and his name was floating out there and we kind of go through this every year, but there's always like a player or two who become the focal point of the trade deadline. I always just try to talk to the guys about the business and this is how it works and how few players in NBA history played for one franchise and it's all part of the deal that you sign up for but it doesn't make it any easier when you feel like you're being shipped off and you got to pack up your family and go. It's hard and I just think it's important to acknowledge that to the players and try to understand that part of the business.",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=H_V3yuAU5Hc&t=765s"
-      },
-      {
-        "date": "2025-12-21",
-        "text": "Starting with Monday\u2019s game, the Warriors play 12 times before Jonathan Kuminga can be traded, on Jan. 15. There is little chance that Kuminga will do enough in that time to convince Kerr that he (Kuminga) can be a vital cog in a championship machine. Thursday against the Suns, Kuminga played 9:31 and scored two points on 1-for-5 shooting. Rusty coming off three DNP games, sure, but yikes. Kuminga\u2019s trade value won\u2019t go down in those 12 games. There are teams out there who believe that Kuminga has never gotten a real chance to thrive, or that he has been awkwardly shoehorned into the Warriors\u2019 quirky system.San Francisco Chronicle",
-        "text_html": "<a href=\"https://www.sfchronicle.com/sports/ostler/article/golden-state-warriors-lineup-21252562.php\" target=\"_blank\" style=\"color: #1a73e8;\">Starting with Monday\u2019s game, the Warriors play 12 times before Jonathan Kuminga can be traded, on Jan. 15. There is little chance that Kuminga will do enough in that time to convince Kerr that he (Kuminga) can be a vital cog in a championship machine</a>. Thursday against the Suns, Kuminga played 9:31 and scored two points on 1-for-5 shooting. Rusty coming off three DNP games, sure, but yikes. Kuminga\u2019s trade value won\u2019t go down in those 12 games. There are teams out there who believe that Kuminga has never gotten a real chance to thrive, or that he has been awkwardly shoehorned into the Warriors\u2019 quirky system.",
-        "outlet": "San Francisco Chronicle",
-        "source_url": "https://www.sfchronicle.com/sports/ostler/article/golden-state-warriors-lineup-21252562.php"
-      },
-      {
-        "date": "2025-12-18",
-        "text": "The New OrleansPelicans were also previously linked to Jonathan Kuminga, but it\u2019s unclear where they stand regarding current\u00a0interest.\u00a0Meanwhile,the Brooklyn Nets, who were speculated by some at times to have\u00a0interest\u00a0in Kuminga, never showed much\u00a0interest\u00a0in the 6-foot-7 forward.HoopsHype",
-        "text_html": "The New Orleans <a href=\"https://www.hoopshype.com/story/sports/nba/2025/12/18/michael-scottos-nba-intel-giannis-antetokounmpo-anthony-davis-trae-young-lauri-markkanen-lamelo-ball/87823173007/\" target=\"_blank\" style=\"color: #1a73e8;\">Pelicans were also previously linked to Jonathan Kuminga, but it\u2019s unclear where they stand regarding current interest. Meanwhile,</a> the Brooklyn Nets, who were speculated by some at times to have interest in Kuminga, never showed much interest in the 6-foot-7 forward.",
-        "outlet": "HoopsHype",
-        "source_url": "https://www.hoopshype.com/story/sports/nba/2025/12/18/michael-scottos-nba-intel-giannis-antetokounmpo-anthony-davis-trae-young-lauri-markkanen-lamelo-ball/87823173007/"
-      },
-      {
-        "date": "2025-12-17",
-        "text": "The Warriors will be open to discussing trades for Jonathan Kuminga when he is eligible to be moved on Jan. 15,sources told ESPN's Shams Charania. Golden State hopes to improve the roster and Kuminga's $22.5 million salary could lead to a larger trade haul.ESPN",
-        "text_html": "<a href=\"https://www.espn.com/nba/story/_/id/47191162/nba-buzz-latest-live-updates-trades-intel-league\" target=\"_blank\" style=\"color: #1a73e8;\">The Warriors will be open to discussing trades for Jonathan Kuminga when he is eligible to be moved on Jan. 15,</a> sources told ESPN's Shams Charania. Golden State hopes to improve the roster and Kuminga's $22.5 million salary could lead to a larger trade haul.",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/47191162/nba-buzz-latest-live-updates-trades-intel-league"
-      },
-      {
-        "date": "2025-12-12",
-        "text": "For quite some time now, the Warriors have been open about their desire to acquire the Pelicans\u2019 Trey Murphy III.But if they\u2019re going to use Kuminga to do that, then it would be helpful to know how, if at all, the Pelicans value the Warriors\u2019 23-year-old forward. For the time being, the feedback is mixed on that front. \u2019Tis the season for smokescreens, after all. Yet this part is indisputable when it comes to the Warriors\u2019 side of the equation: These past six weeks have not been kind when it comes to Kuminga\u2019s value. After the first six games of the season when Kuminga was receiving rave reviews, he has returned to the rollercoaster existence that embodied the vast majority of his first four seasons.New York Times",
-        "text_html": "<a href=\"https://www.nytimes.com/athletic/6881845/2025/12/12/nba-trades-giannis-antetokounmpo-anthony-davis-warriors-mavericks/?source=user_shared_article\" target=\"_blank\" style=\"color: #1a73e8;\">For quite some time now, the Warriors have been open about their desire to acquire the Pelicans\u2019 Trey Murphy III.</a> But if they\u2019re going to use Kuminga to do that, then it would be helpful to know how, if at all, the Pelicans value the Warriors\u2019 23-year-old forward. For the time being, the feedback is mixed on that front. \u2019Tis the season for smokescreens, after all. Yet this part is indisputable when it comes to the Warriors\u2019 side of the equation: These past six weeks have not been kind when it comes to Kuminga\u2019s value. After the first six games of the season when Kuminga was receiving rave reviews, he has returned to the rollercoaster existence that embodied the vast majority of his first four seasons.",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/6881845/2025/12/12/nba-trades-giannis-antetokounmpo-anthony-davis-warriors-mavericks/?source=user_shared_article"
-      },
-      {
-        "date": "2025-12-12",
-        "text": "No story about trade targets is complete without discussing Golden State\u2019s Jonathan Kuminga. Never mind that he\u2019s not eligible to be moved until Jan. 15. There are Kuminga-related dynamics worth analyzing in the here and now \u2014 some familiar, and some not so much.The Kings are widely expected to revisit their offseason interest in Kuminga, and it remains to be seen if that\u2019s the case for teams like Phoenix and Chicago that have been intrigued by him before. But the New Orleans Pelicans, in many ways, are front and center in this discussion.New York Times",
-        "text_html": "No story about trade targets is complete without discussing Golden State\u2019s Jonathan Kuminga. Never mind that he\u2019s not eligible to be moved until Jan. 15. There are Kuminga-related dynamics worth analyzing in the here and now \u2014 some familiar, and some not so much. <a href=\"https://www.nytimes.com/athletic/6881845/2025/12/12/nba-trades-giannis-antetokounmpo-anthony-davis-warriors-mavericks/?source=user_shared_article\" target=\"_blank\" style=\"color: #1a73e8;\">The Kings are widely expected to revisit their offseason interest in Kuminga, and it remains to be seen if that\u2019s the case for teams like Phoenix and Chicago that have been intrigued by him before. But the New Orleans Pelicans, in many ways, are front and center in this discussion</a>.",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/6881845/2025/12/12/nba-trades-giannis-antetokounmpo-anthony-davis-warriors-mavericks/?source=user_shared_article"
-      },
-      {
-        "date": "2025-12-12",
-        "text": "Evan Sidery:The Warriors, who will be in the market for a center upgrade during trade season, are expected to show interest in Nic Claxton.The Nets are once again open to moving Claxton, who is under contract through 2027-28. A swap of Jonathan Kuminga for Claxton would be on the table.x.com",
-        "text_html": "Evan Sidery: <a href=\"https://x.com/esidery/status/1998474849136836786\" target=\"_blank\" style=\"color: #1a73e8;\">The Warriors, who will be in the market for a center upgrade during trade season, are expected to show interest in Nic Claxton.</a> The Nets are once again open to moving Claxton, who is under contract through 2027-28. A swap of Jonathan Kuminga for Claxton would be on the table.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/esidery/status/1998474849136836786"
-      },
-      {
-        "date": "2025-12-11",
-        "text": "The Warriors are increasingly expected to trade Kuminga between Jan. 15 \u2014 who is not trade-eligible this season until that date \u2014 and the Feb. 5 trade deadline. AndChicago has certainly registered trade interest in Kuminga in the past, bringing up the 23-year-old in negotiations with Golden State on trades that never came to fruition in which the Warriors were engaged in talks of varying degrees of seriousness featuring Alex Caruso, Zach LaVine and Nikola Vu\u010devi\u0107.marcstein.substack.com",
-        "text_html": "The Warriors are increasingly expected to trade Kuminga between Jan. 15 \u2014 who is not trade-eligible this season until that date \u2014 and the Feb. 5 trade deadline. And <a href=\"https://marcstein.substack.com/p/lots-of-the-nbas-latest-trade-talk\" target=\"_blank\" style=\"color: #1a73e8;\">Chicago has certainly registered trade interest in Kuminga in the past, bringing up the 23-year-old in negotiations with Golden State on trades that never came to fruition in which the Warriors were engaged in talks of varying degrees of seriousness featuring Alex Caruso, Zach LaVine and Nikola Vu\u010devi\u0107</a>.",
-        "outlet": "marcstein.substack.com",
-        "source_url": "https://marcstein.substack.com/p/lots-of-the-nbas-latest-trade-talk"
-      },
-      {
-        "date": "2025-12-11",
-        "text": "Jake Fischer:\u201cThe only player I think in the league that Golden State would be willing to move Draymond Green for would be Giannis Antetokounmpo. That\u2019s the only player. Between him and Jonathan Kuminga and Brandin Podziemski, all of a sudden Golden State probably does have an intriguing package if you're Milwaukee. But I don't think that they are going to be pushing Draymond's salary onto the table \u2014 or Jimmy Butler\u2019s salary \u2014 for anyone short of him.\u201dYouTube",
-        "text_html": "Jake Fischer: <a href=\"https://www.youtube.com/watch?v=xAMVMh9f7KA\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cThe only player I think in the league that Golden State would be willing to move Draymond Green for would be Giannis Antetokounmpo. That\u2019s the only player</a>. Between him and Jonathan Kuminga and Brandin Podziemski, all of a sudden Golden State probably does have an intriguing package if you're Milwaukee. But I don't think that they are going to be pushing Draymond's salary onto the table \u2014 or Jimmy Butler\u2019s salary \u2014 for anyone short of him.\u201d",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=xAMVMh9f7KA"
-      },
-      {
-        "date": "2025-12-11",
-        "text": "Kuminga\u2019s removal from Golden State\u2019s rotation \u2013 however temporary or not \u2013 came five-plus weeks ahead of Jan. 15, when the bouncy fifth-year forward becomes eligible for trades. Kuminga signed a two-year contract worth $48.5 million in October with a team option for 2026-27 that grants inherent flexibility after a summer of tense negotiations during Kuminga\u2019s restricted free agency. Kerr said he\u2019s talked to Kuminga about the business of basketball and \u201cI can imagine it\u2019s not easy for him. And we\u2019ve talked about the situation.My desire for JK is to become the best player he can possibly be \u2013 regardless of where he ends up, whether it\u2019s here or elsewhere.\u201dSan Francisco Chronicle",
-        "text_html": "Kuminga\u2019s removal from Golden State\u2019s rotation \u2013 however temporary or not \u2013 came five-plus weeks ahead of Jan. 15, when the bouncy fifth-year forward becomes eligible for trades. Kuminga signed a two-year contract worth $48.5 million in October with a team option for 2026-27 that grants inherent flexibility after a summer of tense negotiations during Kuminga\u2019s restricted free agency. Kerr said he\u2019s talked to Kuminga about the business of basketball and \u201cI can imagine it\u2019s not easy for him. And we\u2019ve talked about the situation. <a href=\"https://www.sfchronicle.com/sports/warriors/article/warriors-kerr-wants-kuminga-succeed-or-21236006.php\" target=\"_blank\" style=\"color: #1a73e8;\">My desire for JK is to become the best player he can possibly be \u2013 regardless of where he ends up, whether it\u2019s here or elsewhere.\u201d</a>",
-        "outlet": "San Francisco Chronicle",
-        "source_url": "https://www.sfchronicle.com/sports/warriors/article/warriors-kerr-wants-kuminga-succeed-or-21236006.php"
-      },
-      {
-        "date": "2025-12-09",
-        "text": "Dalton Johnson:Jonathan Kuminga\u2019s trade market will heat up in the coming weeks. The Kings and Suns, his two biggest suitors in the offseason, remain interested,sources say There are still five-plus weeks until Kuminga can be traded. The Warriors have 16 games until he becomes trade eligibleBluesky",
-        "text_html": "Dalton Johnson: <a href=\"https://bsky.app/profile/daltonjohnson.bsky.social/post/3m7lfvgrrgs24\" target=\"_blank\" style=\"color: #1a73e8;\">Jonathan Kuminga\u2019s trade market will heat up in the coming weeks. The Kings and Suns, his two biggest suitors in the offseason, remain interested,</a> sources say There are still five-plus weeks until Kuminga can be traded. The Warriors have 16 games until he becomes trade eligible",
-        "outlet": "Bluesky",
-        "source_url": "https://bsky.app/profile/daltonjohnson.bsky.social/post/3m7lfvgrrgs24"
-      },
-      {
-        "date": "2025-12-09",
-        "text": "TheWarriors will discuss trades for forward\u00a0Jonathan Kuminga\u00a0when he is eligible to be moved Jan. 15,\u00a0sources\u00a0said,after\u00a0discussions\u00a0with the\u00a0Phoenix Suns\u00a0and\u00a0Sacramento Kings\u00a0in the summer\u00a0failed to progress. Golden State wants to find upgrades on its roster, and Kuminga's $22.5 million salary could be used in bigger trade scenarios.ESPN",
-        "text_html": "The <a href=\"https://www.espn.com/nba/story/_/id/47245704/shams-pass-nba-trade-deadline-notes-news-buzz-anthony-davis-giannis-antetokounmpo-teams\" target=\"_blank\" style=\"color: #1a73e8;\">Warriors will discuss trades for forward Jonathan Kuminga when he is eligible to be moved Jan. 15, sources said,</a> after discussions with the Phoenix Suns and Sacramento Kings in the summer failed to progress. Golden State wants to find upgrades on its roster, and Kuminga's $22.5 million salary could be used in bigger trade scenarios.",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/47245704/shams-pass-nba-trade-deadline-notes-news-buzz-anthony-davis-giannis-antetokounmpo-teams"
-      },
-      {
-        "date": "2025-12-08",
-        "text": "APHoops: TheSacramento Kings continue to have interest in acquiring Jonathan Kuminga, but while Malik Monk might still be available in a package, the previously included first-round pick is no longer expected to be part of Sacramento\u2019s offer,per @MarcJSpears.x.com",
-        "text_html": "APHoops: The <a href=\"https://x.com/APH00PS/status/1998133644993650906\" target=\"_blank\" style=\"color: #1a73e8;\">Sacramento Kings continue to have interest in acquiring Jonathan Kuminga, but while Malik Monk might still be available in a package, the previously included first-round pick is no longer expected to be part of Sacramento\u2019s offer,</a> per @MarcJSpears.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/APH00PS/status/1998133644993650906"
-      },
-      {
-        "date": "2025-12-08",
-        "text": "Kuminga becomes trade eligible Jan. 15.The Warriors are expected to explore the Kuminga trade market in the weeks ahead as the probability of a split before the February deadline remains strong,according to league sources.ESPN",
-        "text_html": "Kuminga becomes trade eligible Jan. 15. <a href=\"https://www.espn.com/nba/story/_/id/47243592/jonathan-kuminga-gets-dnp-shorthanded-warriors-win-again\" target=\"_blank\" style=\"color: #1a73e8;\">The Warriors are expected to explore the Kuminga trade market in the weeks ahead as the probability of a split before the February deadline remains strong,</a> according to league sources.",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/47243592/jonathan-kuminga-gets-dnp-shorthanded-warriors-win-again"
-      },
-      {
-        "date": "2025-11-26",
-        "text": "Sources sayGolden State did discuss the pursuit of Domantas Sabonis before the 2022 trade deadlinethat featured Indiana shipping the Lithuanian lefty to Sacramento for a package headlined by Tyrese Haliburton. The Pacers were known at the time to be big fans of Jonathan Kuminga, leading to various discussions between the two front offices that featured current Warriors swingman Buddy Hield, former Warriors swingman Andrew Wiggins and Sabonis in various frameworks.marcstein.substack.com",
-        "text_html": "Sources say <a href=\"https://marcstein.substack.com/p/talking-zone-defense-nba-big-men\" target=\"_blank\" style=\"color: #1a73e8;\">Golden State did discuss the pursuit of Domantas Sabonis before the 2022 trade deadline</a> that featured Indiana shipping the Lithuanian lefty to Sacramento for a package headlined by Tyrese Haliburton. The Pacers were known at the time to be big fans of Jonathan Kuminga, leading to various discussions between the two front offices that featured current Warriors swingman Buddy Hield, former Warriors swingman Andrew Wiggins and Sabonis in various frameworks.",
-        "outlet": "marcstein.substack.com",
-        "source_url": "https://marcstein.substack.com/p/talking-zone-defense-nba-big-men"
-      }
-    ],
-    "Robert Williams": [
-      {
-        "date": "2025-12-20",
-        "text": "Haynes then listed three targets for the Warriors, including the Mavs' Daniel Gafford, the Nets' Nic Claxton, and the Blazers' Robert Williams. \"Those are three names who are on the Golden State Warriors' list of targets, to try to bring in a rim-running, block-shot defender. I was told they are really serious and they are trying to do everything they can to try to get the team back to being of the caliber of a championship contending-type,\" added Haynes.RealGM",
-        "text_html": "<a href=\"https://basketball.realgm.com/wiretap/283192/Warriors-Looking-For-Size-Athleticism-In-Trades;-Interested-In-Daniel-Gafford-Nic-Claxton-Robert-Williams\" target=\"_blank\" style=\"color: #1a73e8;\">Haynes then listed three targets for the Warriors, including the Mavs' Daniel Gafford, the Nets' Nic Claxton, and the Blazers' Robert Williams</a>. \"Those are three names who are on the Golden State Warriors' list of targets, to try to bring in a rim-running, block-shot defender. I was told they are really serious and they are trying to do everything they can to try to get the team back to being of the caliber of a championship contending-type,\" added Haynes.",
-        "outlet": "RealGM",
-        "source_url": "https://basketball.realgm.com/wiretap/283192/Warriors-Looking-For-Size-Athleticism-In-Trades;-Interested-In-Daniel-Gafford-Nic-Claxton-Robert-Williams"
-      },
-      {
-        "date": "2025-11-26",
-        "text": "Phoenix has made Nick Richards available for trade since this past summer,league sources say. I've also been told that Portland is forecasted to be more willing to move Robert Williams III this season compared to last season, when the Trail Blazers maintained a high asking price for the oft-injured big man.marcstein.substack.com",
-        "text_html": "<a href=\"https://marcstein.substack.com/p/talking-zone-defense-nba-big-men\" target=\"_blank\" style=\"color: #1a73e8;\">Phoenix has made Nick Richards available for trade since this past summer,</a> league sources say. I've also been told that Portland is forecasted to be more willing to move Robert Williams III this season compared to last season, when the Trail Blazers maintained a high asking price for the oft-injured big man.",
-        "outlet": "marcstein.substack.com",
-        "source_url": "https://marcstein.substack.com/p/talking-zone-defense-nba-big-men"
-      }
-    ],
-    "Daniel Gafford": [
-      {
-        "date": "2025-12-20",
-        "text": "Haynes then listed three targets for the Warriors, including the Mavs' Daniel Gafford, the Nets' Nic Claxton, and the Blazers' Robert Williams. \"Those are three names who are on the Golden State Warriors' list of targets, to try to bring in a rim-running, block-shot defender. I was told they are really serious and they are trying to do everything they can to try to get the team back to being of the caliber of a championship contending-type,\" added Haynes.RealGM",
-        "text_html": "<a href=\"https://basketball.realgm.com/wiretap/283192/Warriors-Looking-For-Size-Athleticism-In-Trades;-Interested-In-Daniel-Gafford-Nic-Claxton-Robert-Williams\" target=\"_blank\" style=\"color: #1a73e8;\">Haynes then listed three targets for the Warriors, including the Mavs' Daniel Gafford, the Nets' Nic Claxton, and the Blazers' Robert Williams</a>. \"Those are three names who are on the Golden State Warriors' list of targets, to try to bring in a rim-running, block-shot defender. I was told they are really serious and they are trying to do everything they can to try to get the team back to being of the caliber of a championship contending-type,\" added Haynes.",
-        "outlet": "RealGM",
-        "source_url": "https://basketball.realgm.com/wiretap/283192/Warriors-Looking-For-Size-Athleticism-In-Trades;-Interested-In-Daniel-Gafford-Nic-Claxton-Robert-Williams"
-      },
-      {
-        "date": "2025-12-18",
-        "text": "Underdog NBA: Shams:Mavs are open to exploring trade markets for Anthony Davis, Klay Thompson, Daniel Gafford, and D\u2019Angelo Russell.x.com",
-        "text_html": "Underdog NBA: Shams: <a href=\"https://x.com/UnderdogNBA/status/2001755627115159592?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">Mavs are open to exploring trade markets for Anthony Davis, Klay Thompson, Daniel Gafford, and D\u2019Angelo Russell</a>.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/UnderdogNBA/status/2001755627115159592?s=20"
-      },
-      {
-        "date": "2025-12-18",
-        "text": "Yet the repeated signals emanating from Salt Lake City indicate that Utah wants to keep Kessler have not stopped Indiana from expressing trade interest in the promising big man.Kessler and Dallas' Daniel Gafford are two bigs that the Pacers have tried to engage on in recent weeks with an eye toward landing a quality center before Tyrese Haliburton's projected return from an Achilles tear when next season commences.journal-topics.com",
-        "text_html": "Yet the repeated signals emanating from Salt Lake City indicate that Utah wants to keep Kessler have not stopped Indiana from expressing trade interest in the promising big man. <a href=\"https://marcstein.substack.com\" target=\"_blank\" style=\"color: #1a73e8;\">Kessler and Dallas' Daniel Gafford are two bigs that the Pacers have tried to engage on in recent weeks with an eye toward landing a quality center before Tyrese Haliburton's projected return from an Achilles tear when next season commences</a>.",
-        "outlet": "journal-topics.com",
-        "source_url": "https://marcstein.substack.com"
-      },
-      {
-        "date": "2025-12-18",
-        "text": "The Raptors have also been mentioned as a potential Gafford suitor depending on the course Toronto ultimately chooses in its well-chronicled pursuit of frontcourt help: Chasing an All-Star-caliber big man like Dallas' Anthony Davis or Sacramento's Sabonis\u2026 or focusing on veteran targets on more trade-friendly contracts such as Gafford or Phoenix's Nick Richards.journal-topics.com",
-        "text_html": "<a href=\"https://marcstein.substack.com\" target=\"_blank\" style=\"color: #1a73e8;\">The Raptors have also been mentioned as a potential Gafford suitor depending on the course Toronto ultimately chooses in its well-chronicled pursuit of frontcourt help: Chasing an All-Star-caliber big man like Dallas' Anthony Davis or Sacramento's Sabonis</a> \u2026 or focusing on veteran targets on more trade-friendly contracts such as Gafford or Phoenix's Nick Richards.",
-        "outlet": "journal-topics.com",
-        "source_url": "https://marcstein.substack.com"
-      },
-      {
-        "date": "2025-12-12",
-        "text": "The Mavericks\u2019 potential trade candidates have remained consistent \u2014 including a willingness to entertain offers for Anthony Davis, Klay Thompson, Daniel Gafford, and D\u2019Angelo Russell \u2014 but the team is not aggressively shopping those players, sources told DallasHoopsJournal.com.The internal view is that any deal must clearly improve Dallas\u2019 long-term outlook, whether through added flexibility, future assets, or a cleaner roster fit.Dallas Hoops Journal",
-        "text_html": "The Mavericks\u2019 potential trade candidates have remained consistent \u2014 including a willingness to entertain offers for Anthony Davis, Klay Thompson, Daniel Gafford, and D\u2019Angelo Russell \u2014 but the team is not aggressively shopping those players, sources told DallasHoopsJournal.com. <a href=\"https://dallashoopsjournal.com/p/nba-rumors-notebook-early-developments-to-monitor-about-the-dallas-mavericks-and-across-the-league/\" target=\"_blank\" style=\"color: #1a73e8;\">The internal view is that any deal must clearly improve Dallas\u2019 long-term outlook, whether through added flexibility, future assets, or a cleaner roster fit</a>.",
-        "outlet": "Dallas Hoops Journal",
-        "source_url": "https://dallashoopsjournal.com/p/nba-rumors-notebook-early-developments-to-monitor-about-the-dallas-mavericks-and-across-the-league/"
-      },
-      {
-        "date": "2025-12-12",
-        "text": "\"They have to be very careful with what they do with AD,\" an East\u00a0executive\u00a0said. \"They could set themselves back years with the wrong deal.\"Speaking of Daniel Gafford, he has been mentioned as a possible trade\u00a0candidate\u00a0this season and into the future, especially if the Mavericks have to cut payroll.He's a quality big man, and the three-year, $54 million\u00a0contract\u00a0he starts next season is viewed as reasonable. But with center\u00a0Dereck Lively II\u00a0playing just 43 games over the past two seasons -- he will miss the rest of 2025-26 with a foot injury -- it should no longer be assumed that Gafford is expendable in Dallas.ESPN",
-        "text_html": "\"They have to be very careful with what they do with AD,\" an East executive said. \"They could set themselves back years with the wrong deal.\" <a href=\"https://www.espn.com/nba/story/_/id/47281439/nba-trade-deadline-intel-new-era-superstar-value-means-giannis-anthony-davis\" target=\"_blank\" style=\"color: #1a73e8;\">Speaking of Daniel Gafford, he has been mentioned as a possible trade candidate this season and into the future, especially if the Mavericks have to cut payroll.</a> He's a quality big man, and the three-year, $54 million contract he starts next season is viewed as reasonable. But with center Dereck Lively II playing just 43 games over the past two seasons -- he will miss the rest of 2025-26 with a foot injury -- it should no longer be assumed that Gafford is expendable in Dallas.",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/47281439/nba-trade-deadline-intel-new-era-superstar-value-means-giannis-anthony-davis"
-      },
-      {
-        "date": "2025-12-09",
-        "text": "Anthony Davis\u00a0of the\u00a0Dallas Mavericks, another former NBA champion, is expected to be a\u00a0critical trade target\u00a0of several teams, including many of the East's contenders.The\u00a0Detroit Pistons,\u00a0Atlanta Hawks\u00a0and\u00a0Toronto Raptors\u00a0are expected to be suitors for Davis,league\u00a0sources\u00a0told\u00a0ESPN.ESPN",
-        "text_html": "Anthony Davis of the Dallas Mavericks, another former NBA champion, is expected to be a critical trade target of several teams, including many of the East's contenders. <a href=\"https://www.espn.com/nba/story/_/id/47245704/shams-pass-nba-trade-deadline-notes-news-buzz-anthony-davis-giannis-antetokounmpo-teams\" target=\"_blank\" style=\"color: #1a73e8;\">The Detroit Pistons, Atlanta Hawks and Toronto Raptors are expected to be suitors for Davis,</a> league sources told ESPN.",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/47245704/shams-pass-nba-trade-deadline-notes-news-buzz-anthony-davis-giannis-antetokounmpo-teams"
-      },
-      {
-        "date": "2025-12-09",
-        "text": "TheMavericks are open to exploring the trade markets for Davis, center\u00a0Daniel Gafford\u00a0and guards\u00a0Klay Thompson\u00a0and\u00a0D'Angelo Russell,\u00a0sources\u00a0said.ESPN",
-        "text_html": "The <a href=\"https://www.espn.com/nba/story/_/id/47245704/shams-pass-nba-trade-deadline-notes-news-buzz-anthony-davis-giannis-antetokounmpo-teams\" target=\"_blank\" style=\"color: #1a73e8;\">Mavericks are open to exploring the trade markets for Davis, center Daniel Gafford and guards Klay Thompson and D'Angelo Russell, sources said.</a>",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/47245704/shams-pass-nba-trade-deadline-notes-news-buzz-anthony-davis-giannis-antetokounmpo-teams"
-      }
-    ],
-    "Trae Young": [
-      {
-        "date": "2025-12-20",
-        "text": "The Young situation is the one around the league \u2014 outside of Giannis' status \u2014 executives are most fascinated by.It's a referendum on team-building strategy in the modern era, when the league is devaluing small guards. It's a referendum on new Hawks' general manager Onsi Saleh, who has won high praise for his decisions in Atlanta and is well-respected in league circles for his strategic acumen. It's also a referendum on Hawks' ownership, which has long placed Young in high esteem. All the questions here, from Young's value league-wide to what the Hawks decide to do with him, are ones that even teams without interest in acquiring him are monitoring closely.New York Times",
-        "text_html": "<a href=\"https://www.nytimes.com/athletic/6877429/2025/12/19/nba-trade-rumors-anthony-davis-trae-young/\" target=\"_blank\" style=\"color: #1a73e8;\">The Young situation is the one around the league \u2014 outside of Giannis' status \u2014 executives are most fascinated by.</a> It's a referendum on team-building strategy in the modern era, when the league is devaluing small guards. It's a referendum on new Hawks' general manager Onsi Saleh, who has won high praise for his decisions in Atlanta and is well-respected in league circles for his strategic acumen. It's also a referendum on Hawks' ownership, which has long placed Young in high esteem. All the questions here, from Young's value league-wide to what the Hawks decide to do with him, are ones that even teams without interest in acquiring him are monitoring closely.",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/6877429/2025/12/19/nba-trade-rumors-anthony-davis-trae-young/"
-      },
-      {
-        "date": "2025-12-19",
-        "text": "The Trae Young situation is the one around the league \u2014 outside of Giannis' status \u2014\u00a0executives\u00a0are most fascinated by. It's a referendum on team-building strategy in the modern era, when the league is devaluing small guards.It's a referendum on new Hawks' general manager Onsi Saleh, who has won high praise for his decisions in Atlanta and is well-respected in league circles for his strategic acumen. It's also a referendum on Hawks' ownership, which has long placed Young in high esteem. All the questions here, from Young's value league-wide to what the Hawks decide to do with him, are ones that even teams without\u00a0interest\u00a0in acquiring him are\u00a0monitoring\u00a0closely.New York Times",
-        "text_html": "<a href=\"https://www.nytimes.com/athletic/6877429/2025/12/19/nba-trade-rumors-anthony-davis-trae-young/\" target=\"_blank\" style=\"color: #1a73e8;\">The Trae Young situation is the one around the league \u2014 outside of Giannis' status \u2014 executives are most fascinated by. It's a referendum on team-building strategy in the modern era, when the league is devaluing small guards.</a> It's a referendum on new Hawks' general manager Onsi Saleh, who has won high praise for his decisions in Atlanta and is well-respected in league circles for his strategic acumen. It's also a referendum on Hawks' ownership, which has long placed Young in high esteem. All the questions here, from Young's value league-wide to what the Hawks decide to do with him, are ones that even teams without interest in acquiring him are monitoring closely.",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/6877429/2025/12/19/nba-trade-rumors-anthony-davis-trae-young/"
-      },
-      {
-        "date": "2025-12-18",
-        "text": "Atlanta's\u00a0interest\u00a0in Anthony Davis could be described as exploratory.The big question is whether acquiring Davis would move the needle to make the Hawks a contender in the East. More reporting and a deeper dive on Atlanta to come in the next section below regarding\u00a0Trae Young\u00a0and\u00a0Kristaps Porzingis.HoopsHype",
-        "text_html": "<a href=\"https://www.hoopshype.com/story/sports/nba/2025/12/18/michael-scottos-nba-intel-giannis-antetokounmpo-anthony-davis-trae-young-lauri-markkanen-lamelo-ball/87823173007/\" target=\"_blank\" style=\"color: #1a73e8;\">Atlanta's interest in Anthony Davis could be described as exploratory.</a> The big question is whether acquiring Davis would move the needle to make the Hawks a contender in the East. More reporting and a deeper dive on Atlanta to come in the next section below regarding Trae Young and Kristaps Porzingis.",
-        "outlet": "HoopsHype",
-        "source_url": "https://www.hoopshype.com/story/sports/nba/2025/12/18/michael-scottos-nba-intel-giannis-antetokounmpo-anthony-davis-trae-young-lauri-markkanen-lamelo-ball/87823173007/"
-      },
-      {
-        "date": "2025-12-12",
-        "text": "Grant Afseth: Shams Charania from ESPN reported a couple of potential Eastern Conference suitors like the Atlanta Hawks, Detroit Pistons, Toronto Raptors. But those teams so far, doesn't seem like there's meaningful traction by any means of a great offer that the Dallas Mavericks cannot refuse.I've been asking around, and there's more skepticism than optimism about Detroit and Atlanta as viable trade destinations. Because of various reasons, like Detroit has it rolling right now. Like, there's, probably a reluctance to break that team up and complicate things chemistry wise with how the season has gone for them. And then Atlanta, they also have to solve Trae Young's future, with their team long-term. So do you go into the offseason where you have to give contract clarity to Trae Young and Anthony Davis? That's where it gets complicated. And they could get a potential top three, even number one overall pick this year where you're adding that next to Jalen Johnson.Youtube",
-        "text_html": "Grant Afseth: Shams Charania from ESPN reported a couple of potential Eastern Conference suitors like the Atlanta Hawks, Detroit Pistons, Toronto Raptors. But those teams so far, doesn't seem like there's meaningful traction by any means of a great offer that the Dallas Mavericks cannot refuse. <a href=\"https://youtu.be/sEPja1PuIH4?si=G9cM2JWLbG1pVvS2\" target=\"_blank\" style=\"color: #1a73e8;\">I've been asking around, and there's more skepticism than optimism about Detroit and Atlanta as viable trade destinations. Because of various reasons, like Detroit has it rolling right now. Like, there's, probably a reluctance to break that team up and complicate things chemistry wise with how the season has gone for them</a>. And then Atlanta, they also have to solve Trae Young's future, with their team long-term. So do you go into the offseason where you have to give contract clarity to Trae Young and Anthony Davis? That's where it gets complicated. And they could get a potential top three, even number one overall pick this year where you're adding that next to Jalen Johnson.",
-        "outlet": "Youtube",
-        "source_url": "https://youtu.be/sEPja1PuIH4?si=G9cM2JWLbG1pVvS2"
-      },
-      {
-        "date": "2025-12-03",
-        "text": "Charlotte's\u00a0LaMelo Ball,\u00a0Memphis'\u00a0Ja Morant\u00a0and\u00a0Atlanta's\u00a0Trae Young\u00a0all seem to be stuck in a sort of limbo with the franchises that they've been the faces of since entering the league as high lottery picks. There is rampant speculation among rival teams that Ball, Morant and Young could all be available leading up to the Feb. 5 trade deadline. For a variety of reasons, from their maximum contracts to their major flaws, it's not a discussion that generates much enthusiasm despite their status as big names who have put up big numbers.\"I wouldn't want any of them,\" a Western Conference general manager\u00a0told\u00a0ESPN. That was a popular opinion in an informal poll of\u00a0executives, scouts and coaches conducted by ESPN. There wasn't a consensus about which one of the three would command the biggest return if they ended up getting shopped in the trade market, as votes were split among Ball, Morant and Young. \"They all might have negative value,\" an Eastern Conference\u00a0executive\u00a0said.ESPN",
-        "text_html": "Charlotte's LaMelo Ball, Memphis' Ja Morant and Atlanta's Trae Young all seem to be stuck in a sort of limbo with the franchises that they've been the faces of since entering the league as high lottery picks. There is rampant speculation among rival teams that Ball, Morant and Young could all be available leading up to the Feb. 5 trade deadline. For a variety of reasons, from their maximum contracts to their major flaws, it's not a discussion that generates much enthusiasm despite their status as big names who have put up big numbers. <a href=\"https://www.espn.com/nba/story/_/id/47179857/ja-morant-lamelo-ball-trae-young-three-all-star-guards-limbo\" target=\"_blank\" style=\"color: #1a73e8;\">\"I wouldn't want any of them,\" a Western Conference general manager told ESPN</a>. That was a popular opinion in an informal poll of executives, scouts and coaches conducted by ESPN. There wasn't a consensus about which one of the three would command the biggest return if they ended up getting shopped in the trade market, as votes were split among Ball, Morant and Young. \"They all might have negative value,\" an Eastern Conference executive said.",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/47179857/ja-morant-lamelo-ball-trae-young-three-all-star-guards-limbo"
-      },
-      {
-        "date": "2025-12-03",
-        "text": "In other words, the Hawks with Young in the lineup would rank dead last in the league in defensive efficiency.Without him, the Hawks have defended at a top-five level. \"He's just small and doesn't play any defense,\" an East scout said. That scout valued Young more than Morant and Ball, primarily because of his offensive prowess and lack of off-court concerns. Several people mentioned the long-running perception that he's unpopular with teammates as worrisome, especially considering that Young creates so many dunks and open looks with his passing prowess.ESPN",
-        "text_html": "In other words, the Hawks with Young in the lineup would rank dead last in the league in defensive efficiency. <a href=\"https://www.espn.com/nba/story/_/id/47179857/ja-morant-lamelo-ball-trae-young-three-all-star-guards-limbo\" target=\"_blank\" style=\"color: #1a73e8;\">Without him, the Hawks have defended at a top-five level. \"He's just small and doesn't play any defense,\" an East scout said</a>. That scout valued Young more than Morant and Ball, primarily because of his offensive prowess and lack of off-court concerns. Several people mentioned the long-running perception that he's unpopular with teammates as worrisome, especially considering that Young creates so many dunks and open looks with his passing prowess.",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/47179857/ja-morant-lamelo-ball-trae-young-three-all-star-guards-limbo"
-      },
-      {
-        "date": "2025-11-24",
-        "text": "Marc Stein: \u201cWhat I think is really happening here, in the grand scheme \u2014 and I already mentioned Ja Morant in Memphis \u2014 is that Trae Young is now in a similar position. He\u2019s out in Atlanta, and the Hawks have been winning some games without him. Remember, this summer the two sides could have engaged in contract extension talks, but they didn\u2019t. The Hawks made it clear to Trae Young\u2019s camp that they weren\u2019t interested in an extension before the season. They wanted this season to play out.Around the league, these three guards \u2014 LaMelo Ball, Ja Morant, and Trae Young \u2014 are being grouped together in the eyes of a lot of executives. Maybe they aren\u2019t available right now, as we speak but these are players teams are anticipating could be available between now and the trade deadline on February 5th. And again, all three of these guys have been All-Stars.YouTube",
-        "text_html": "Marc Stein: \u201cWhat I think is really happening here, in the grand scheme \u2014 and I already mentioned Ja Morant in Memphis \u2014 is that Trae Young is now in a similar position. He\u2019s out in Atlanta, and the Hawks have been winning some games without him. Remember, this summer the two sides could have engaged in contract extension talks, but they didn\u2019t. The Hawks made it clear to Trae Young\u2019s camp that they weren\u2019t interested in an extension before the season. They wanted this season to play out. <a href=\"https://www.youtube.com/live/FLwniS558nA\" target=\"_blank\" style=\"color: #1a73e8;\">Around the league, these three guards \u2014 LaMelo Ball, Ja Morant, and Trae Young \u2014 are being grouped together in the eyes of a lot of executives. Maybe they aren\u2019t available right now, as we speak but these are players teams are anticipating could be available between now and the trade deadline on February 5th. And again, all three of these guys have been All-Stars</a>.",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/live/FLwniS558nA"
-      }
-    ],
-    "Zach LaVine": [
-      {
-        "date": "2025-12-20",
-        "text": "The Milwaukee Bucks are looking to add a \"difference maker\" to the roster and are keeping tabs on the Sacramento Kings' Zach LaVine,according to Chris Haynes. \"The Milwaukee Bucks are in desperate pursuit of trying to look out on the trade market to see if they can bring in a difference maker type of player ... one of the guys I've identified is Zach LaVine of the Sacramento Kings. He is one player they have done their homework on. \"There hasn't been any concrete, serious talks to this point but he is someone who is on their radar,\" said Haynes on NBA on Prime.RealGM",
-        "text_html": "<a href=\"https://basketball.realgm.com/wiretap/283191/Bucks-Looking-To-Add-Difference-Maker-In-Trade-Market-Have-Zach-LaVine-On-Radar\" target=\"_blank\" style=\"color: #1a73e8;\">The Milwaukee Bucks are looking to add a \"difference maker\" to the roster and are keeping tabs on the Sacramento Kings' Zach LaVine,</a> according to Chris Haynes. \"The Milwaukee Bucks are in desperate pursuit of trying to look out on the trade market to see if they can bring in a difference maker type of player ... one of the guys I've identified is Zach LaVine of the Sacramento Kings. He is one player they have done their homework on. \"There hasn't been any concrete, serious talks to this point but he is someone who is on their radar,\" said Haynes on NBA on Prime.",
-        "outlet": "RealGM",
-        "source_url": "https://basketball.realgm.com/wiretap/283191/Bucks-Looking-To-Add-Difference-Maker-In-Trade-Market-Have-Zach-LaVine-On-Radar"
-      },
-      {
-        "date": "2025-12-18",
-        "text": "The team most widely painted as Trade Deadline Sellers as the Showcase gets underway? Most rival teams would nominate Sacramento first.\"Active is the word I would use to describe them,\" one veteran executive said of the Kings. Zach LaVine is out for at least one week with an ankle sprain that was announced Wednesday, but LaVine and DeMar DeRozan have certainly been made available. Domantas Sabonis (although currently sidelined by a knee injury, has also been generating no shortage of trade chatter.journal-topics.com",
-        "text_html": "The team most widely painted as Trade Deadline Sellers as the Showcase gets underway? Most rival teams would nominate Sacramento first. <a href=\"https://marcstein.substack.com\" target=\"_blank\" style=\"color: #1a73e8;\">\"Active is the word I would use to describe them,\" one veteran executive said of the Kings</a>. Zach LaVine is out for at least one week with an ankle sprain that was announced Wednesday, but LaVine and DeMar DeRozan have certainly been made available. Domantas Sabonis (although currently sidelined by a knee injury, has also been generating no shortage of trade chatter.",
-        "outlet": "journal-topics.com",
-        "source_url": "https://marcstein.substack.com"
-      },
-      {
-        "date": "2025-12-17",
-        "text": "The Kings and first-year general manager Scott Perry are open to trade talks throughout the roster, sources told ESPN's Shams Charania.Teams around the league are keeping their eyes on veterans Domantas Sabonis, Zach LaVine and DeMar DeRozan, as well as 25-year-old guard Keon Ellis.ESPN",
-        "text_html": "The Kings and first-year general manager Scott Perry are open to trade talks throughout the roster, sources told ESPN's Shams Charania. <a href=\"https://www.espn.com/nba/story/_/id/47191162/nba-buzz-latest-live-updates-trades-intel-league\" target=\"_blank\" style=\"color: #1a73e8;\">Teams around the league are keeping their eyes on veterans Domantas Sabonis, Zach LaVine and DeMar DeRozan, as well as 25-year-old guard Keon Ellis</a>.",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/47191162/nba-buzz-latest-live-updates-trades-intel-league"
-      },
-      {
-        "date": "2025-12-15",
-        "text": "The Kings are struggling with the likes of Murray and veterans Domantas Sabonis, Zach LaVine, DeMar DeRozan and Russell Westbrook on their roster. Sources told Andscape that there is a disconnect between some veteran Kings players and Christie and his coaching staff.Sacramento is expected to explore making trades of its veteran players, a source told Andscape.Andscape",
-        "text_html": "The Kings are struggling with the likes of Murray and veterans Domantas Sabonis, Zach LaVine, DeMar DeRozan and Russell Westbrook on their roster. Sources told Andscape that there is a disconnect between some veteran Kings players and Christie and his coaching staff. <a href=\"https://andscape.com/features/for-deaaron-fox-the-grass-is-greener-with-the-san-antonio-spurs/\" target=\"_blank\" style=\"color: #1a73e8;\">Sacramento is expected to explore making trades of its veteran players, a source told Andscape</a>.",
-        "outlet": "Andscape",
-        "source_url": "https://andscape.com/features/for-deaaron-fox-the-grass-is-greener-with-the-san-antonio-spurs/"
-      },
-      {
-        "date": "2025-12-15",
-        "text": "It should come as no surprise that, as The Athletic confirmed this week, they\u2019ve done due diligence on the Sacramento Kings\u2019 Zach LaVine recently(and have shown interest in him in the past). At minimum, that revelation shows that with their backs against the wall, the Bucks might once again be willing to take a more sizable swing than just adding around the periphery as they search for solutions.New York Times",
-        "text_html": "<a href=\"https://www.nytimes.com/athletic/6890775/2025/12/15/bucks-giannis-antetokounmpo-nba-trade-season/\" target=\"_blank\" style=\"color: #1a73e8;\">It should come as no surprise that, as The Athletic confirmed this week, they\u2019ve done due diligence on the Sacramento Kings\u2019 Zach LaVine recently</a> (and have shown interest in him in the past). At minimum, that revelation shows that with their backs against the wall, the Bucks might once again be willing to take a more sizable swing than just adding around the periphery as they search for solutions.",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/6890775/2025/12/15/bucks-giannis-antetokounmpo-nba-trade-season/"
-      },
-      {
-        "date": "2025-12-12",
-        "text": "Yet as is the case with so many other teams, the realities of the market might provide a sobering dose of reality once we get closer to dealing time. The Kings\u2019 Zach LaVine, for starters, could certainly help several contending teams.To that point, league sources confirmed that Milwaukee has done recent due diligence on the 30-year-old guard (and has shown interest in the past). But his exorbitant salary \u2014 $47.4 million this season and a player option for $48.9 million next season \u2014 makes it nearly impossible to move him without attaching some sort of sweetener (draft assets) in return. And therein lies the challenge for first-year Kings general manager Scott Perry.New York Times",
-        "text_html": "Yet as is the case with so many other teams, the realities of the market might provide a sobering dose of reality once we get closer to dealing time. The Kings\u2019 Zach LaVine, for starters, could certainly help several contending teams. <a href=\"https://www.nytimes.com/athletic/6881845/2025/12/12/nba-trades-giannis-antetokounmpo-anthony-davis-warriors-mavericks/?source=user_shared_article\" target=\"_blank\" style=\"color: #1a73e8;\">To that point, league sources confirmed that Milwaukee has done recent due diligence on the 30-year-old guard (and has shown interest in the past)</a>. But his exorbitant salary \u2014 $47.4 million this season and a player option for $48.9 million next season \u2014 makes it nearly impossible to move him without attaching some sort of sweetener (draft assets) in return. And therein lies the challenge for first-year Kings general manager Scott Perry.",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/6881845/2025/12/12/nba-trades-giannis-antetokounmpo-anthony-davis-warriors-mavericks/?source=user_shared_article"
-      },
-      {
-        "date": "2025-12-09",
-        "text": "The Kings and first-year general manager Scott Perry are using this season as a patient evaluation campaign, trying to build a gritty culture.They are open-minded about trade talks throughout the roster,\u00a0sources\u00a0said.Teams are\u00a0monitoring\u00a0veterans\u00a0Domantas Sabonis,\u00a0Zach LaVine\u00a0and\u00a0DeMar DeRozan, along with 25-year-old guard\u00a0Keon Ellis.ESPN",
-        "text_html": "The Kings and first-year general manager Scott Perry are using this season as a patient evaluation campaign, trying to build a gritty culture. <a href=\"https://www.espn.com/nba/story/_/id/47245704/shams-pass-nba-trade-deadline-notes-news-buzz-anthony-davis-giannis-antetokounmpo-teams\" target=\"_blank\" style=\"color: #1a73e8;\">They are open-minded about trade talks throughout the roster, sources said.</a> Teams are monitoring veterans Domantas Sabonis, Zach LaVine and DeMar DeRozan, along with 25-year-old guard Keon Ellis.",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/47245704/shams-pass-nba-trade-deadline-notes-news-buzz-anthony-davis-giannis-antetokounmpo-teams"
-      },
-      {
-        "date": "2025-12-01",
-        "text": "Marc Stein: Zach LaVine has a player option in 2026\u201327 that\u2019s worth almost $50 million. And kind of the rumble \u2014 the rumble there \u2014 isif he were willing to decline the option and take a longer-term extension at a lesser number, I think there would be some trade interest in Zach LaVine. Then DeMar DeRozan \u2014 because his contract next season, I think, is only guaranteed for about $10 million \u2014 you know, perhaps a trade market will emerge there.YouTube",
-        "text_html": "Marc Stein: Zach LaVine has a player option in 2026\u201327 that\u2019s worth almost $50 million. And kind of the rumble \u2014 the rumble there \u2014 is <a href=\"https://www.youtube.com/watch?v=1LCOowNMP8c\" target=\"_blank\" style=\"color: #1a73e8;\">if he were willing to decline the option and take a longer-term extension at a lesser number, I think there would be some trade interest in Zach LaVine</a>. Then DeMar DeRozan \u2014 because his contract next season, I think, is only guaranteed for about $10 million \u2014 you know, perhaps a trade market will emerge there.",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=1LCOowNMP8c"
-      },
-      {
-        "date": "2025-11-26",
-        "text": "The Milwaukee Bucks have conducted background due diligence on Zach LaVine and others around the league, as usual,\u00a0sources\u00a0told\u00a0HoopsHype.However, nothing is imminent as Bucks superstar\u00a0Giannis Antetokounmpo\u00a0nears a return from a low-grade adductor strain.\u00a0Should Milwaukee\u2019s\u00a0interest\u00a0in LaVine become more serious, it\u2019s worth noting that Bucks forward\u00a0Kyle Kuzma\u00a0and Kings Governor\u00a0Vivek Ranadive\u00a0both invested\u00a0in a new women\u2019s professional sports venture called Major League Volleyball, and Kuzma has been linked to the Kings via trade\u00a0rumors\u00a0for several seasons.HoopsHype",
-        "text_html": "<a href=\"https://www.hoopshype.com/story/sports/nba/2025/11/26/title-nba-intel-ja-morant-timberwolves-kings-celtics/87477567007/\" target=\"_blank\" style=\"color: #1a73e8;\">The Milwaukee Bucks have conducted background due diligence on Zach LaVine and others around the league, as usual, sources told HoopsHype.</a> However, nothing is imminent as Bucks superstar Giannis Antetokounmpo nears a return from a low-grade adductor strain. Should Milwaukee\u2019s interest in LaVine become more serious, it\u2019s worth noting that Bucks forward Kyle Kuzma and Kings Governor Vivek Ranadive both invested in a new women\u2019s professional sports venture called Major League Volleyball, and Kuzma has been linked to the Kings via trade rumors for several seasons.",
-        "outlet": "HoopsHype",
-        "source_url": "https://www.hoopshype.com/story/sports/nba/2025/11/26/title-nba-intel-ja-morant-timberwolves-kings-celtics/87477567007/"
-      }
-    ],
-    "Andrew Wiggins": [
-      {
-        "date": "2025-12-20",
-        "text": "Now, amid speculation about what\u2019s next for the struggling Milwaukee Bucks and forward Giannis Antetokounmpo, Wiggins\u2019 name again has been making the rounds, as in a piece the Bucks might try to acquire to augment Antetokounmpo rather than trading their franchise mainstay.\u201cMan,\u201d Wiggins said, \u201cI try not to think about it. I don\u2019t really go on social media and search my name or anything that has to do with me,so I don\u2019t really hear too much of anything, unless someone comes up and tells me.\u201dSouth Florida Sun-Sentinel",
-        "text_html": "Now, amid speculation about what\u2019s next for the struggling Milwaukee Bucks and forward Giannis Antetokounmpo, Wiggins\u2019 name again has been making the rounds, as in a piece the Bucks might try to acquire to augment Antetokounmpo rather than trading their franchise mainstay. <a href=\"https://www.sun-sentinel.com/2025/12/19/heats-andrew-wiggins-dealing-with-another-round-of-rumor-swirl-as-giannis-talk-intensifies/\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cMan,\u201d Wiggins said, \u201cI try not to think about it. I don\u2019t really go on social media and search my name or anything that has to do with me,</a> so I don\u2019t really hear too much of anything, unless someone comes up and tells me.\u201d",
-        "outlet": "South Florida Sun-Sentinel",
-        "source_url": "https://www.sun-sentinel.com/2025/12/19/heats-andrew-wiggins-dealing-with-another-round-of-rumor-swirl-as-giannis-talk-intensifies/"
-      },
-      {
-        "date": "2025-12-20",
-        "text": "Now he\u2019s been told, just as he is acclimating after a difficult adjustment in the immediate wake of last February\u2019s trade. \u201cIt\u2019s part of the NBA,\u201d said Wiggins, with the Heat playing the Boston Celtics on Friday night at TD Garden, before closing out their three-game trip Sunday night against the New York Knicks at Madison Square Garden. \u201cThere\u2019s nothing you can do.I feel like I\u2019ve been in the league 12 years and nine of the 12 years, I\u2019ve been in trade rumors. So it is what it is, and all I can do is just play my game and whatever happens, happens.\u201dSouth Florida Sun-Sentinel",
-        "text_html": "Now he\u2019s been told, just as he is acclimating after a difficult adjustment in the immediate wake of last February\u2019s trade. \u201cIt\u2019s part of the NBA,\u201d said Wiggins, with the Heat playing the Boston Celtics on Friday night at TD Garden, before closing out their three-game trip Sunday night against the New York Knicks at Madison Square Garden. \u201cThere\u2019s nothing you can do. <a href=\"https://www.sun-sentinel.com/2025/12/19/heats-andrew-wiggins-dealing-with-another-round-of-rumor-swirl-as-giannis-talk-intensifies/\" target=\"_blank\" style=\"color: #1a73e8;\">I feel like I\u2019ve been in the league 12 years and nine of the 12 years, I\u2019ve been in trade rumors. So it is what it is, and all I can do is just play my game and whatever happens, happens.\u201d</a>",
-        "outlet": "South Florida Sun-Sentinel",
-        "source_url": "https://www.sun-sentinel.com/2025/12/19/heats-andrew-wiggins-dealing-with-another-round-of-rumor-swirl-as-giannis-talk-intensifies/"
-      },
-      {
-        "date": "2025-12-18",
-        "text": "Miami has gauged the trade market on small forward\u00a0Andrew Wiggins,who has a $30.17 million player option for the 2026-27 season.\u00a0Tyler Herro, a Milwaukee, Wisconsin native, has maintained his All-Star form from last season after missing the first 17 games of the season.\u00a0Terry Rozier\u2019s\u00a0expiring $26.64 million\u00a0contract\u00a0also looms.HoopsHype",
-        "text_html": "<a href=\"https://www.hoopshype.com/story/sports/nba/2025/12/18/michael-scottos-nba-intel-giannis-antetokounmpo-anthony-davis-trae-young-lauri-markkanen-lamelo-ball/87823173007/\" target=\"_blank\" style=\"color: #1a73e8;\">Miami has gauged the trade market on small forward Andrew Wiggins,</a> who has a $30.17 million player option for the 2026-27 season. Tyler Herro, a Milwaukee, Wisconsin native, has maintained his All-Star form from last season after missing the first 17 games of the season. Terry Rozier\u2019s expiring $26.64 million contract also looms.",
-        "outlet": "HoopsHype",
-        "source_url": "https://www.hoopshype.com/story/sports/nba/2025/12/18/michael-scottos-nba-intel-giannis-antetokounmpo-anthony-davis-trae-young-lauri-markkanen-lamelo-ball/87823173007/"
-      },
-      {
-        "date": "2025-12-16",
-        "text": "Milwaukee regularly called about Andrew Wiggins during his tenure in Golden State, league sources say. And the Bucks were also quite interested in Dejounte Murray,sources add, while Atlanta was holding the trade conversations that ultimately landed the former All-Star point guard on Bourbon Street.marcstein.substack.com",
-        "text_html": "<a href=\"https://open.substack.com/pub/marcstein/p/the-many-many-layers-to-the-nbas\" target=\"_blank\" style=\"color: #1a73e8;\">Milwaukee regularly called about Andrew Wiggins during his tenure in Golden State, league sources say. And the Bucks were also quite interested in Dejounte Murray,</a> sources add, while Atlanta was holding the trade conversations that ultimately landed the former All-Star point guard on Bourbon Street.",
-        "outlet": "marcstein.substack.com",
-        "source_url": "https://open.substack.com/pub/marcstein/p/the-many-many-layers-to-the-nbas"
-      },
-      {
-        "date": "2025-12-08",
-        "text": "My read is that the Heat can't ever be a real contender to land Antetokounmpo if they're not willing to part with Ware this go-around. Sources insist, however, that Miami is indeed willing to part with Andrew Wiggins(and his $28.2 million salary) in the proverbial right deal.marcstein.substack.com",
-        "text_html": "<a href=\"https://marcstein.substack.com/p/sunday-best-the-nba-trade-topic-that\" target=\"_blank\" style=\"color: #1a73e8;\">My read is that the Heat can't ever be a real contender to land Antetokounmpo if they're not willing to part with Ware this go-around. Sources insist, however, that Miami is indeed willing to part with Andrew Wiggins</a> (and his $28.2 million salary) in the proverbial right deal.",
-        "outlet": "marcstein.substack.com",
-        "source_url": "https://marcstein.substack.com/p/sunday-best-the-nba-trade-topic-that"
-      },
-      {
-        "date": "2025-11-26",
-        "text": "Sources sayGolden State did discuss the pursuit of Domantas Sabonis before the 2022 trade deadlinethat featured Indiana shipping the Lithuanian lefty to Sacramento for a package headlined by Tyrese Haliburton. The Pacers were known at the time to be big fans of Jonathan Kuminga, leading to various discussions between the two front offices that featured current Warriors swingman Buddy Hield, former Warriors swingman Andrew Wiggins and Sabonis in various frameworks.marcstein.substack.com",
-        "text_html": "Sources say <a href=\"https://marcstein.substack.com/p/talking-zone-defense-nba-big-men\" target=\"_blank\" style=\"color: #1a73e8;\">Golden State did discuss the pursuit of Domantas Sabonis before the 2022 trade deadline</a> that featured Indiana shipping the Lithuanian lefty to Sacramento for a package headlined by Tyrese Haliburton. The Pacers were known at the time to be big fans of Jonathan Kuminga, leading to various discussions between the two front offices that featured current Warriors swingman Buddy Hield, former Warriors swingman Andrew Wiggins and Sabonis in various frameworks.",
-        "outlet": "marcstein.substack.com",
-        "source_url": "https://marcstein.substack.com/p/talking-zone-defense-nba-big-men"
-      }
-    ],
     "Giannis Antetokounmpo": [
+      {
+        "date": "2025-12-21",
+        "text": "As I reported last Sunday, No matter how many times Giannis Antetokounmpo or Doc Rivers or anyone else associated with the Bucks attempts to convince the basketball public that there are no active trade discussions involving the two-time MVP, you still routinely hear a team or two (or three) out there express the belief that they expect that status to change in January. Will it actually change?The Bucks say no. And they are now countering that noise by telling teams that inquire about The Greek Freak that they want to add to the current roster despite their limited trade assets.It's Milwaukee's latest attempt to try to convince Antetokounmpo, who recently turned 31 in his 13th NBA season, that he can continue to compete for championships if he stays in Brewtown.marcstein.substack.com",
+        "text_html": "As I reported last Sunday, No matter how many times Giannis Antetokounmpo or Doc Rivers or anyone else associated with the Bucks attempts to convince the basketball public that there are no active trade discussions involving the two-time MVP, you still routinely hear a team or two (or three) out there express the belief that they expect that status to change in January. Will it actually change? <a href=\"https://marcstein.substack.com/\" target=\"_blank\" style=\"color: #1a73e8;\">The Bucks say no. And they are now countering that noise by telling teams that inquire about The Greek Freak that they want to add to the current roster despite their limited trade assets.</a> It's Milwaukee's latest attempt to try to convince Antetokounmpo, who recently turned 31 in his 13th NBA season, that he can continue to compete for championships if he stays in Brewtown.",
+        "outlet": "marcstein.substack.com",
+        "source_url": "https://marcstein.substack.com/"
+      },
       {
         "date": "2025-12-20",
         "text": "Now, amid speculation about what\u2019s next for the struggling Milwaukee Bucks and forward Giannis Antetokounmpo, Wiggins\u2019 name again has been making the rounds, as in a piece the Bucks might try to acquire to augment Antetokounmpo rather than trading their franchise mainstay.\u201cMan,\u201d Wiggins said, \u201cI try not to think about it. I don\u2019t really go on social media and search my name or anything that has to do with me,so I don\u2019t really hear too much of anything, unless someone comes up and tells me.\u201dSouth Florida Sun-Sentinel",
@@ -1677,6 +1343,428 @@
         "source_url": "https://www.hoopshype.com/story/sports/nba/2025/11/26/title-nba-intel-ja-morant-timberwolves-kings-celtics/87477567007/"
       }
     ],
+    "Coby White": [
+      {
+        "date": "2025-12-21",
+        "text": "Doesn't mean they'll actually move him before the Feb. 5 trade deadline,but the Bulls have left the impression with rival teams inquiring about Coby White that they are more open to trading White than they've ever been.marcstein.substack.com",
+        "text_html": "Doesn't mean they'll actually move him before the Feb. 5 trade deadline, <a href=\"https://marcstein.substack.com/\" target=\"_blank\" style=\"color: #1a73e8;\">but the Bulls have left the impression with rival teams inquiring about Coby White that they are more open to trading White than they've ever been</a>.",
+        "outlet": "marcstein.substack.com",
+        "source_url": "https://marcstein.substack.com/"
+      },
+      {
+        "date": "2025-12-13",
+        "text": "KC Johnson: FWIW,sounds like little to no engagement from other teams currently. White is definitely on some teams' radar and, as he noted with his pending UFA status, interest could intensify between now and Feb. trade deadlinex.com",
+        "text_html": "KC Johnson: FWIW, <a href=\"https://x.com/KCJHoop/status/1999628540841721948\" target=\"_blank\" style=\"color: #1a73e8;\">sounds like little to no engagement from other teams currently. White is definitely on some teams' radar and, as he noted with his pending UFA status, interest could intensify between now and Feb. trade deadline</a>",
+        "outlet": "x.com",
+        "source_url": "https://x.com/KCJHoop/status/1999628540841721948"
+      },
+      {
+        "date": "2025-12-13",
+        "text": "KC Johnson: Shared what Coby White said about trade rumors on @CHSN__ pregame show:\"I love being here. I love being on this team. But I understand it\u2019s a business and it's different going into (UFA). They have to do what they think is best for the organization. It\u2019s out of my control.\"x.com",
+        "text_html": "KC Johnson: Shared what Coby White said about trade rumors on @CHSN__ pregame show: <a href=\"https://x.com/KCJHoop/status/1999628540841721948?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1999628540841721948%7Ctwgr%5E4709d7be1d547de16339c7fc49ef928449372362%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fd-1426525028151746239.ampproject.net%2F2510081644000%2Fframe.html\" target=\"_blank\" style=\"color: #1a73e8;\">\"I love being here. I love being on this team. But I understand it\u2019s a business and it's different going into (UFA). They have to do what they think is best for the organization. It\u2019s out of my control.\"</a>",
+        "outlet": "x.com",
+        "source_url": "https://x.com/KCJHoop/status/1999628540841721948?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1999628540841721948%7Ctwgr%5E4709d7be1d547de16339c7fc49ef928449372362%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fd-1426525028151746239.ampproject.net%2F2510081644000%2Fframe.html"
+      },
+      {
+        "date": "2025-12-13",
+        "text": "Jon Krawczynski:I can tell you that there is absolutely nothing cooking there right now.Could that change down the road? Maybe. He's certainly a name to watch. But nothing percolating yet.x.com",
+        "text_html": "Jon Krawczynski: <a href=\"https://x.com/Timberwolves215/status/1999228607776817305\" target=\"_blank\" style=\"color: #1a73e8;\">I can tell you that there is absolutely nothing cooking there right now.</a> Could that change down the road? Maybe. He's certainly a name to watch. But nothing percolating yet.",
+        "outlet": "x.com",
+        "source_url": "https://x.com/Timberwolves215/status/1999228607776817305"
+      },
+      {
+        "date": "2025-12-12",
+        "text": "A Wolves source confirmed that there is legitimate interest in White, but the 25-year-old\u2019s looming free agency appears to be a significant hindrance to a possible trade.He\u2019s making $12.8 million in the final year of his deal and is widely expected to seek a major raise this summer. But the fear of that unknown, it seems, means this is the kind of \u201crental\u201d situation that drops the price point precipitously and creates a negotiating gap between the two sides.New York Times",
+        "text_html": "<a href=\"https://www.nytimes.com/athletic/6881845/2025/12/12/nba-trades-giannis-antetokounmpo-anthony-davis-warriors-mavericks/?source=user_shared_article\" target=\"_blank\" style=\"color: #1a73e8;\">A Wolves source confirmed that there is legitimate interest in White, but the 25-year-old\u2019s looming free agency appears to be a significant hindrance to a possible trade.</a> He\u2019s making $12.8 million in the final year of his deal and is widely expected to seek a major raise this summer. But the fear of that unknown, it seems, means this is the kind of \u201crental\u201d situation that drops the price point precipitously and creates a negotiating gap between the two sides.",
+        "outlet": "New York Times",
+        "source_url": "https://www.nytimes.com/athletic/6881845/2025/12/12/nba-trades-giannis-antetokounmpo-anthony-davis-warriors-mavericks/?source=user_shared_article"
+      },
+      {
+        "date": "2025-12-11",
+        "text": "The Bulls, meanwhile, continue to field trade interest in guard Coby White.marcstein.substack.com",
+        "text_html": "<a href=\"https://marcstein.substack.com/p/lots-of-the-nbas-latest-trade-talk\" target=\"_blank\" style=\"color: #1a73e8;\">The Bulls, meanwhile, continue to field trade interest in guard Coby White</a>.",
+        "outlet": "marcstein.substack.com",
+        "source_url": "https://marcstein.substack.com/p/lots-of-the-nbas-latest-trade-talk"
+      },
+      {
+        "date": "2025-12-11",
+        "text": "According to a source, Coby White has been inquired about, and time is of the essence in the Bulls making a decision.The source said that Minnesota is not looking to wait until February and the trade deadline to get a deal done, looking to fix the primary ball-handling situation that\u2019s been an issue all season long for them. White not only does that, but helps them continue to improve on their pace, which has been a priority since last year.Chicago Sun-Times",
+        "text_html": "<a href=\"https://chicago.suntimes.com/bulls/2025/12/11/trade-rumors-grow-around-bulls-coby-white\" target=\"_blank\" style=\"color: #1a73e8;\">According to a source, Coby White has been inquired about, and time is of the essence in the Bulls making a decision.</a> The source said that Minnesota is not looking to wait until February and the trade deadline to get a deal done, looking to fix the primary ball-handling situation that\u2019s been an issue all season long for them. White not only does that, but helps them continue to improve on their pace, which has been a priority since last year.",
+        "outlet": "Chicago Sun-Times",
+        "source_url": "https://chicago.suntimes.com/bulls/2025/12/11/trade-rumors-grow-around-bulls-coby-white"
+      }
+    ],
+    "James Harden": [
+      {
+        "date": "2025-12-21",
+        "text": "One veteran executive read my recent item about James Harden\u2019s potential availability between now and the Feb. 5 deadline and said his front office, to name at least one, indeed projects the NBA's last American-born MVP (from the 2017-18 season) to wind up in trade play at some point this winter. The Clippers continue to shoot down that notion (for now). Also: Don't forget Harden holds veto rights on any trade even though he does not have a full no-trade clause in his contract.marcstein.substack.com",
+        "text_html": "<a href=\"https://marcstein.substack.com/\" target=\"_blank\" style=\"color: #1a73e8;\">One veteran executive read my recent item about James Harden\u2019s potential availability between now and the Feb. 5 deadline and said his front office, to name at least one, indeed projects the NBA's last American-born MVP (from the 2017-18 season) to wind up in trade play at some point this winter</a>. The Clippers continue to shoot down that notion (for now). Also: Don't forget Harden holds veto rights on any trade even though he does not have a full no-trade clause in his contract.",
+        "outlet": "marcstein.substack.com",
+        "source_url": "https://marcstein.substack.com/"
+      },
+      {
+        "date": "2025-12-18",
+        "text": "One well-placed Western Conference observer shared this week thatJames Harden's status going forward is being monitored closely by various teams given his career goals at age 36 and the Clippers' dim prospects for digging out of their current hole.journal-topics.com",
+        "text_html": "One well-placed Western Conference observer shared this week that <a href=\"https://marcstein.substack.com\" target=\"_blank\" style=\"color: #1a73e8;\">James Harden's status going forward is being monitored closely by various teams given his career goals at age 36 and the Clippers' dim prospects for digging out of their current hole</a>.",
+        "outlet": "journal-topics.com",
+        "source_url": "https://marcstein.substack.com"
+      },
+      {
+        "date": "2025-12-06",
+        "text": "\"Life-changing,\" Harden said of the trade to Houston.\"What would've happened or what could have happened [if that trade doesn't happen]. I probably wouldn't have been able to be who I am, as far as creating an entire James Harden movement.I'm on my 10th signature shoe. \"All these things probably wouldn't have happened if I was there. I possibly could have been a champion. Who knows? Possibly. But so I'm grateful.\"ESPN",
+        "text_html": "\"Life-changing,\" Harden said of the trade to Houston. <a href=\"https://www.espn.com/nba/story/_/id/47227706/clippers-harden-passes-carmelo-10th-scoring-list\" target=\"_blank\" style=\"color: #1a73e8;\">\"What would've happened or what could have happened [if that trade doesn't happen]. I probably wouldn't have been able to be who I am, as far as creating an entire James Harden movement.</a> I'm on my 10th signature shoe. \"All these things probably wouldn't have happened if I was there. I possibly could have been a champion. Who knows? Possibly. But so I'm grateful.\"",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/47227706/clippers-harden-passes-carmelo-10th-scoring-list"
+      },
+      {
+        "date": "2025-12-05",
+        "text": "Tim Bontemps: Some\u00a0sources\u00a0have indicated that the Clippers could try to move up their free agency timeline from the 2027 offseason to next summer, which would require finding trade partners with cap room to take on James Harden ($42 million player option for 2026-27) and Leonard (owed $50 million in 2026-27). The feedback from league insiders has been that, while a team would take on Harden, it may be more difficult to find a landing spot for Leonard because of his injury and the Aspiration case still ongoing.\"James has maybe neutral value,\" an East scout said. \"Kawhi Leonard has negative value.\"ESPN",
+        "text_html": "Tim Bontemps: Some sources have indicated that the Clippers could try to move up their free agency timeline from the 2027 offseason to next summer, which would require finding trade partners with cap room to take on James Harden ($42 million player option for 2026-27) and Leonard (owed $50 million in 2026-27). The feedback from league insiders has been that, while a team would take on Harden, it may be more difficult to find a landing spot for Leonard because of his injury and the Aspiration case still ongoing. <a href=\"https://www.espn.com/nba/story/_/id/47202440/nba-intel-next-clippers-league-insiders-examine-three-paths\" target=\"_blank\" style=\"color: #1a73e8;\">\"James has maybe neutral value,\" an East scout said. \"Kawhi Leonard has negative value.\"</a>",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/47202440/nba-intel-next-clippers-league-insiders-examine-three-paths"
+      }
+    ],
+    "Jonathan Kuminga": [
+      {
+        "date": "2025-12-21",
+        "text": "Steve Kerr on Jonathan Kuminga:Everybody wants honesty. They don't want to be\u00a0pandered to. They want to know what's what but you have\u00a0to deliver those messages with some\u00a0empathy. It's a tough\u00a0spot to be in.He's got two\u00a0little girls at home and he's been here\u00a0five years. And Andrew Wiggins was in this\u00a0exact boat a year ago, and Wigs actually was about to\u00a0have his third child right at the trade\u00a0deadline and his name was\u00a0floating out there and we kind\u00a0of go through this every year, but\u00a0there's always\u00a0like a player or two who become the\u00a0focal point of the trade deadline.\u00a0I always just try to talk to the guys\u00a0about the business and this is how it\u00a0works and how few players\u00a0in NBA history played for one franchise\u00a0and it's all part of the\u00a0deal that you sign up for but it doesn't\u00a0make it any easier when you feel like you're being shipped off and you got to pack up your family\u00a0and go. It's hard and I just think\u00a0it's important to acknowledge that to\u00a0the players and try to\u00a0understand that part of the business.YouTube",
+        "text_html": "Steve Kerr on Jonathan Kuminga: <a href=\"https://www.youtube.com/watch?v=H_V3yuAU5Hc&t=765s\" target=\"_blank\" style=\"color: #1a73e8;\">Everybody wants honesty. They don't want to be pandered to. They want to know what's what but you have to deliver those messages with some empathy. It's a tough spot to be in.</a> He's got two little girls at home and he's been here five years. And Andrew Wiggins was in this exact boat a year ago, and Wigs actually was about to have his third child right at the trade deadline and his name was floating out there and we kind of go through this every year, but there's always like a player or two who become the focal point of the trade deadline. I always just try to talk to the guys about the business and this is how it works and how few players in NBA history played for one franchise and it's all part of the deal that you sign up for but it doesn't make it any easier when you feel like you're being shipped off and you got to pack up your family and go. It's hard and I just think it's important to acknowledge that to the players and try to understand that part of the business.",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=H_V3yuAU5Hc&t=765s"
+      },
+      {
+        "date": "2025-12-21",
+        "text": "Starting with Monday\u2019s game, the Warriors play 12 times before Jonathan Kuminga can be traded, on Jan. 15. There is little chance that Kuminga will do enough in that time to convince Kerr that he (Kuminga) can be a vital cog in a championship machine. Thursday against the Suns, Kuminga played 9:31 and scored two points on 1-for-5 shooting. Rusty coming off three DNP games, sure, but yikes. Kuminga\u2019s trade value won\u2019t go down in those 12 games. There are teams out there who believe that Kuminga has never gotten a real chance to thrive, or that he has been awkwardly shoehorned into the Warriors\u2019 quirky system.San Francisco Chronicle",
+        "text_html": "<a href=\"https://www.sfchronicle.com/sports/ostler/article/golden-state-warriors-lineup-21252562.php\" target=\"_blank\" style=\"color: #1a73e8;\">Starting with Monday\u2019s game, the Warriors play 12 times before Jonathan Kuminga can be traded, on Jan. 15. There is little chance that Kuminga will do enough in that time to convince Kerr that he (Kuminga) can be a vital cog in a championship machine</a>. Thursday against the Suns, Kuminga played 9:31 and scored two points on 1-for-5 shooting. Rusty coming off three DNP games, sure, but yikes. Kuminga\u2019s trade value won\u2019t go down in those 12 games. There are teams out there who believe that Kuminga has never gotten a real chance to thrive, or that he has been awkwardly shoehorned into the Warriors\u2019 quirky system.",
+        "outlet": "San Francisco Chronicle",
+        "source_url": "https://www.sfchronicle.com/sports/ostler/article/golden-state-warriors-lineup-21252562.php"
+      },
+      {
+        "date": "2025-12-18",
+        "text": "The New OrleansPelicans were also previously linked to Jonathan Kuminga, but it\u2019s unclear where they stand regarding current\u00a0interest.\u00a0Meanwhile,the Brooklyn Nets, who were speculated by some at times to have\u00a0interest\u00a0in Kuminga, never showed much\u00a0interest\u00a0in the 6-foot-7 forward.HoopsHype",
+        "text_html": "The New Orleans <a href=\"https://www.hoopshype.com/story/sports/nba/2025/12/18/michael-scottos-nba-intel-giannis-antetokounmpo-anthony-davis-trae-young-lauri-markkanen-lamelo-ball/87823173007/\" target=\"_blank\" style=\"color: #1a73e8;\">Pelicans were also previously linked to Jonathan Kuminga, but it\u2019s unclear where they stand regarding current interest. Meanwhile,</a> the Brooklyn Nets, who were speculated by some at times to have interest in Kuminga, never showed much interest in the 6-foot-7 forward.",
+        "outlet": "HoopsHype",
+        "source_url": "https://www.hoopshype.com/story/sports/nba/2025/12/18/michael-scottos-nba-intel-giannis-antetokounmpo-anthony-davis-trae-young-lauri-markkanen-lamelo-ball/87823173007/"
+      },
+      {
+        "date": "2025-12-17",
+        "text": "The Warriors will be open to discussing trades for Jonathan Kuminga when he is eligible to be moved on Jan. 15,sources told ESPN's Shams Charania. Golden State hopes to improve the roster and Kuminga's $22.5 million salary could lead to a larger trade haul.ESPN",
+        "text_html": "<a href=\"https://www.espn.com/nba/story/_/id/47191162/nba-buzz-latest-live-updates-trades-intel-league\" target=\"_blank\" style=\"color: #1a73e8;\">The Warriors will be open to discussing trades for Jonathan Kuminga when he is eligible to be moved on Jan. 15,</a> sources told ESPN's Shams Charania. Golden State hopes to improve the roster and Kuminga's $22.5 million salary could lead to a larger trade haul.",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/47191162/nba-buzz-latest-live-updates-trades-intel-league"
+      },
+      {
+        "date": "2025-12-12",
+        "text": "For quite some time now, the Warriors have been open about their desire to acquire the Pelicans\u2019 Trey Murphy III.But if they\u2019re going to use Kuminga to do that, then it would be helpful to know how, if at all, the Pelicans value the Warriors\u2019 23-year-old forward. For the time being, the feedback is mixed on that front. \u2019Tis the season for smokescreens, after all. Yet this part is indisputable when it comes to the Warriors\u2019 side of the equation: These past six weeks have not been kind when it comes to Kuminga\u2019s value. After the first six games of the season when Kuminga was receiving rave reviews, he has returned to the rollercoaster existence that embodied the vast majority of his first four seasons.New York Times",
+        "text_html": "<a href=\"https://www.nytimes.com/athletic/6881845/2025/12/12/nba-trades-giannis-antetokounmpo-anthony-davis-warriors-mavericks/?source=user_shared_article\" target=\"_blank\" style=\"color: #1a73e8;\">For quite some time now, the Warriors have been open about their desire to acquire the Pelicans\u2019 Trey Murphy III.</a> But if they\u2019re going to use Kuminga to do that, then it would be helpful to know how, if at all, the Pelicans value the Warriors\u2019 23-year-old forward. For the time being, the feedback is mixed on that front. \u2019Tis the season for smokescreens, after all. Yet this part is indisputable when it comes to the Warriors\u2019 side of the equation: These past six weeks have not been kind when it comes to Kuminga\u2019s value. After the first six games of the season when Kuminga was receiving rave reviews, he has returned to the rollercoaster existence that embodied the vast majority of his first four seasons.",
+        "outlet": "New York Times",
+        "source_url": "https://www.nytimes.com/athletic/6881845/2025/12/12/nba-trades-giannis-antetokounmpo-anthony-davis-warriors-mavericks/?source=user_shared_article"
+      },
+      {
+        "date": "2025-12-12",
+        "text": "No story about trade targets is complete without discussing Golden State\u2019s Jonathan Kuminga. Never mind that he\u2019s not eligible to be moved until Jan. 15. There are Kuminga-related dynamics worth analyzing in the here and now \u2014 some familiar, and some not so much.The Kings are widely expected to revisit their offseason interest in Kuminga, and it remains to be seen if that\u2019s the case for teams like Phoenix and Chicago that have been intrigued by him before. But the New Orleans Pelicans, in many ways, are front and center in this discussion.New York Times",
+        "text_html": "No story about trade targets is complete without discussing Golden State\u2019s Jonathan Kuminga. Never mind that he\u2019s not eligible to be moved until Jan. 15. There are Kuminga-related dynamics worth analyzing in the here and now \u2014 some familiar, and some not so much. <a href=\"https://www.nytimes.com/athletic/6881845/2025/12/12/nba-trades-giannis-antetokounmpo-anthony-davis-warriors-mavericks/?source=user_shared_article\" target=\"_blank\" style=\"color: #1a73e8;\">The Kings are widely expected to revisit their offseason interest in Kuminga, and it remains to be seen if that\u2019s the case for teams like Phoenix and Chicago that have been intrigued by him before. But the New Orleans Pelicans, in many ways, are front and center in this discussion</a>.",
+        "outlet": "New York Times",
+        "source_url": "https://www.nytimes.com/athletic/6881845/2025/12/12/nba-trades-giannis-antetokounmpo-anthony-davis-warriors-mavericks/?source=user_shared_article"
+      },
+      {
+        "date": "2025-12-12",
+        "text": "Evan Sidery:The Warriors, who will be in the market for a center upgrade during trade season, are expected to show interest in Nic Claxton.The Nets are once again open to moving Claxton, who is under contract through 2027-28. A swap of Jonathan Kuminga for Claxton would be on the table.x.com",
+        "text_html": "Evan Sidery: <a href=\"https://x.com/esidery/status/1998474849136836786\" target=\"_blank\" style=\"color: #1a73e8;\">The Warriors, who will be in the market for a center upgrade during trade season, are expected to show interest in Nic Claxton.</a> The Nets are once again open to moving Claxton, who is under contract through 2027-28. A swap of Jonathan Kuminga for Claxton would be on the table.",
+        "outlet": "x.com",
+        "source_url": "https://x.com/esidery/status/1998474849136836786"
+      },
+      {
+        "date": "2025-12-11",
+        "text": "The Warriors are increasingly expected to trade Kuminga between Jan. 15 \u2014 who is not trade-eligible this season until that date \u2014 and the Feb. 5 trade deadline. AndChicago has certainly registered trade interest in Kuminga in the past, bringing up the 23-year-old in negotiations with Golden State on trades that never came to fruition in which the Warriors were engaged in talks of varying degrees of seriousness featuring Alex Caruso, Zach LaVine and Nikola Vu\u010devi\u0107.marcstein.substack.com",
+        "text_html": "The Warriors are increasingly expected to trade Kuminga between Jan. 15 \u2014 who is not trade-eligible this season until that date \u2014 and the Feb. 5 trade deadline. And <a href=\"https://marcstein.substack.com/p/lots-of-the-nbas-latest-trade-talk\" target=\"_blank\" style=\"color: #1a73e8;\">Chicago has certainly registered trade interest in Kuminga in the past, bringing up the 23-year-old in negotiations with Golden State on trades that never came to fruition in which the Warriors were engaged in talks of varying degrees of seriousness featuring Alex Caruso, Zach LaVine and Nikola Vu\u010devi\u0107</a>.",
+        "outlet": "marcstein.substack.com",
+        "source_url": "https://marcstein.substack.com/p/lots-of-the-nbas-latest-trade-talk"
+      },
+      {
+        "date": "2025-12-11",
+        "text": "Jake Fischer:\u201cThe only player I think in the league that Golden State would be willing to move Draymond Green for would be Giannis Antetokounmpo. That\u2019s the only player. Between him and Jonathan Kuminga and Brandin Podziemski, all of a sudden Golden State probably does have an intriguing package if you're Milwaukee. But I don't think that they are going to be pushing Draymond's salary onto the table \u2014 or Jimmy Butler\u2019s salary \u2014 for anyone short of him.\u201dYouTube",
+        "text_html": "Jake Fischer: <a href=\"https://www.youtube.com/watch?v=xAMVMh9f7KA\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cThe only player I think in the league that Golden State would be willing to move Draymond Green for would be Giannis Antetokounmpo. That\u2019s the only player</a>. Between him and Jonathan Kuminga and Brandin Podziemski, all of a sudden Golden State probably does have an intriguing package if you're Milwaukee. But I don't think that they are going to be pushing Draymond's salary onto the table \u2014 or Jimmy Butler\u2019s salary \u2014 for anyone short of him.\u201d",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=xAMVMh9f7KA"
+      },
+      {
+        "date": "2025-12-11",
+        "text": "Kuminga\u2019s removal from Golden State\u2019s rotation \u2013 however temporary or not \u2013 came five-plus weeks ahead of Jan. 15, when the bouncy fifth-year forward becomes eligible for trades. Kuminga signed a two-year contract worth $48.5 million in October with a team option for 2026-27 that grants inherent flexibility after a summer of tense negotiations during Kuminga\u2019s restricted free agency. Kerr said he\u2019s talked to Kuminga about the business of basketball and \u201cI can imagine it\u2019s not easy for him. And we\u2019ve talked about the situation.My desire for JK is to become the best player he can possibly be \u2013 regardless of where he ends up, whether it\u2019s here or elsewhere.\u201dSan Francisco Chronicle",
+        "text_html": "Kuminga\u2019s removal from Golden State\u2019s rotation \u2013 however temporary or not \u2013 came five-plus weeks ahead of Jan. 15, when the bouncy fifth-year forward becomes eligible for trades. Kuminga signed a two-year contract worth $48.5 million in October with a team option for 2026-27 that grants inherent flexibility after a summer of tense negotiations during Kuminga\u2019s restricted free agency. Kerr said he\u2019s talked to Kuminga about the business of basketball and \u201cI can imagine it\u2019s not easy for him. And we\u2019ve talked about the situation. <a href=\"https://www.sfchronicle.com/sports/warriors/article/warriors-kerr-wants-kuminga-succeed-or-21236006.php\" target=\"_blank\" style=\"color: #1a73e8;\">My desire for JK is to become the best player he can possibly be \u2013 regardless of where he ends up, whether it\u2019s here or elsewhere.\u201d</a>",
+        "outlet": "San Francisco Chronicle",
+        "source_url": "https://www.sfchronicle.com/sports/warriors/article/warriors-kerr-wants-kuminga-succeed-or-21236006.php"
+      },
+      {
+        "date": "2025-12-09",
+        "text": "Dalton Johnson:Jonathan Kuminga\u2019s trade market will heat up in the coming weeks. The Kings and Suns, his two biggest suitors in the offseason, remain interested,sources say There are still five-plus weeks until Kuminga can be traded. The Warriors have 16 games until he becomes trade eligibleBluesky",
+        "text_html": "Dalton Johnson: <a href=\"https://bsky.app/profile/daltonjohnson.bsky.social/post/3m7lfvgrrgs24\" target=\"_blank\" style=\"color: #1a73e8;\">Jonathan Kuminga\u2019s trade market will heat up in the coming weeks. The Kings and Suns, his two biggest suitors in the offseason, remain interested,</a> sources say There are still five-plus weeks until Kuminga can be traded. The Warriors have 16 games until he becomes trade eligible",
+        "outlet": "Bluesky",
+        "source_url": "https://bsky.app/profile/daltonjohnson.bsky.social/post/3m7lfvgrrgs24"
+      },
+      {
+        "date": "2025-12-09",
+        "text": "TheWarriors will discuss trades for forward\u00a0Jonathan Kuminga\u00a0when he is eligible to be moved Jan. 15,\u00a0sources\u00a0said,after\u00a0discussions\u00a0with the\u00a0Phoenix Suns\u00a0and\u00a0Sacramento Kings\u00a0in the summer\u00a0failed to progress. Golden State wants to find upgrades on its roster, and Kuminga's $22.5 million salary could be used in bigger trade scenarios.ESPN",
+        "text_html": "The <a href=\"https://www.espn.com/nba/story/_/id/47245704/shams-pass-nba-trade-deadline-notes-news-buzz-anthony-davis-giannis-antetokounmpo-teams\" target=\"_blank\" style=\"color: #1a73e8;\">Warriors will discuss trades for forward Jonathan Kuminga when he is eligible to be moved Jan. 15, sources said,</a> after discussions with the Phoenix Suns and Sacramento Kings in the summer failed to progress. Golden State wants to find upgrades on its roster, and Kuminga's $22.5 million salary could be used in bigger trade scenarios.",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/47245704/shams-pass-nba-trade-deadline-notes-news-buzz-anthony-davis-giannis-antetokounmpo-teams"
+      },
+      {
+        "date": "2025-12-08",
+        "text": "APHoops: TheSacramento Kings continue to have interest in acquiring Jonathan Kuminga, but while Malik Monk might still be available in a package, the previously included first-round pick is no longer expected to be part of Sacramento\u2019s offer,per @MarcJSpears.x.com",
+        "text_html": "APHoops: The <a href=\"https://x.com/APH00PS/status/1998133644993650906\" target=\"_blank\" style=\"color: #1a73e8;\">Sacramento Kings continue to have interest in acquiring Jonathan Kuminga, but while Malik Monk might still be available in a package, the previously included first-round pick is no longer expected to be part of Sacramento\u2019s offer,</a> per @MarcJSpears.",
+        "outlet": "x.com",
+        "source_url": "https://x.com/APH00PS/status/1998133644993650906"
+      },
+      {
+        "date": "2025-12-08",
+        "text": "Kuminga becomes trade eligible Jan. 15.The Warriors are expected to explore the Kuminga trade market in the weeks ahead as the probability of a split before the February deadline remains strong,according to league sources.ESPN",
+        "text_html": "Kuminga becomes trade eligible Jan. 15. <a href=\"https://www.espn.com/nba/story/_/id/47243592/jonathan-kuminga-gets-dnp-shorthanded-warriors-win-again\" target=\"_blank\" style=\"color: #1a73e8;\">The Warriors are expected to explore the Kuminga trade market in the weeks ahead as the probability of a split before the February deadline remains strong,</a> according to league sources.",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/47243592/jonathan-kuminga-gets-dnp-shorthanded-warriors-win-again"
+      },
+      {
+        "date": "2025-11-26",
+        "text": "Sources sayGolden State did discuss the pursuit of Domantas Sabonis before the 2022 trade deadlinethat featured Indiana shipping the Lithuanian lefty to Sacramento for a package headlined by Tyrese Haliburton. The Pacers were known at the time to be big fans of Jonathan Kuminga, leading to various discussions between the two front offices that featured current Warriors swingman Buddy Hield, former Warriors swingman Andrew Wiggins and Sabonis in various frameworks.marcstein.substack.com",
+        "text_html": "Sources say <a href=\"https://marcstein.substack.com/p/talking-zone-defense-nba-big-men\" target=\"_blank\" style=\"color: #1a73e8;\">Golden State did discuss the pursuit of Domantas Sabonis before the 2022 trade deadline</a> that featured Indiana shipping the Lithuanian lefty to Sacramento for a package headlined by Tyrese Haliburton. The Pacers were known at the time to be big fans of Jonathan Kuminga, leading to various discussions between the two front offices that featured current Warriors swingman Buddy Hield, former Warriors swingman Andrew Wiggins and Sabonis in various frameworks.",
+        "outlet": "marcstein.substack.com",
+        "source_url": "https://marcstein.substack.com/p/talking-zone-defense-nba-big-men"
+      }
+    ],
+    "Robert Williams": [
+      {
+        "date": "2025-12-20",
+        "text": "Haynes then listed three targets for the Warriors, including the Mavs' Daniel Gafford, the Nets' Nic Claxton, and the Blazers' Robert Williams. \"Those are three names who are on the Golden State Warriors' list of targets, to try to bring in a rim-running, block-shot defender. I was told they are really serious and they are trying to do everything they can to try to get the team back to being of the caliber of a championship contending-type,\" added Haynes.RealGM",
+        "text_html": "<a href=\"https://basketball.realgm.com/wiretap/283192/Warriors-Looking-For-Size-Athleticism-In-Trades;-Interested-In-Daniel-Gafford-Nic-Claxton-Robert-Williams\" target=\"_blank\" style=\"color: #1a73e8;\">Haynes then listed three targets for the Warriors, including the Mavs' Daniel Gafford, the Nets' Nic Claxton, and the Blazers' Robert Williams</a>. \"Those are three names who are on the Golden State Warriors' list of targets, to try to bring in a rim-running, block-shot defender. I was told they are really serious and they are trying to do everything they can to try to get the team back to being of the caliber of a championship contending-type,\" added Haynes.",
+        "outlet": "RealGM",
+        "source_url": "https://basketball.realgm.com/wiretap/283192/Warriors-Looking-For-Size-Athleticism-In-Trades;-Interested-In-Daniel-Gafford-Nic-Claxton-Robert-Williams"
+      },
+      {
+        "date": "2025-11-26",
+        "text": "Phoenix has made Nick Richards available for trade since this past summer,league sources say. I've also been told that Portland is forecasted to be more willing to move Robert Williams III this season compared to last season, when the Trail Blazers maintained a high asking price for the oft-injured big man.marcstein.substack.com",
+        "text_html": "<a href=\"https://marcstein.substack.com/p/talking-zone-defense-nba-big-men\" target=\"_blank\" style=\"color: #1a73e8;\">Phoenix has made Nick Richards available for trade since this past summer,</a> league sources say. I've also been told that Portland is forecasted to be more willing to move Robert Williams III this season compared to last season, when the Trail Blazers maintained a high asking price for the oft-injured big man.",
+        "outlet": "marcstein.substack.com",
+        "source_url": "https://marcstein.substack.com/p/talking-zone-defense-nba-big-men"
+      }
+    ],
+    "Daniel Gafford": [
+      {
+        "date": "2025-12-20",
+        "text": "Haynes then listed three targets for the Warriors, including the Mavs' Daniel Gafford, the Nets' Nic Claxton, and the Blazers' Robert Williams. \"Those are three names who are on the Golden State Warriors' list of targets, to try to bring in a rim-running, block-shot defender. I was told they are really serious and they are trying to do everything they can to try to get the team back to being of the caliber of a championship contending-type,\" added Haynes.RealGM",
+        "text_html": "<a href=\"https://basketball.realgm.com/wiretap/283192/Warriors-Looking-For-Size-Athleticism-In-Trades;-Interested-In-Daniel-Gafford-Nic-Claxton-Robert-Williams\" target=\"_blank\" style=\"color: #1a73e8;\">Haynes then listed three targets for the Warriors, including the Mavs' Daniel Gafford, the Nets' Nic Claxton, and the Blazers' Robert Williams</a>. \"Those are three names who are on the Golden State Warriors' list of targets, to try to bring in a rim-running, block-shot defender. I was told they are really serious and they are trying to do everything they can to try to get the team back to being of the caliber of a championship contending-type,\" added Haynes.",
+        "outlet": "RealGM",
+        "source_url": "https://basketball.realgm.com/wiretap/283192/Warriors-Looking-For-Size-Athleticism-In-Trades;-Interested-In-Daniel-Gafford-Nic-Claxton-Robert-Williams"
+      },
+      {
+        "date": "2025-12-18",
+        "text": "Underdog NBA: Shams:Mavs are open to exploring trade markets for Anthony Davis, Klay Thompson, Daniel Gafford, and D\u2019Angelo Russell.x.com",
+        "text_html": "Underdog NBA: Shams: <a href=\"https://x.com/UnderdogNBA/status/2001755627115159592?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">Mavs are open to exploring trade markets for Anthony Davis, Klay Thompson, Daniel Gafford, and D\u2019Angelo Russell</a>.",
+        "outlet": "x.com",
+        "source_url": "https://x.com/UnderdogNBA/status/2001755627115159592?s=20"
+      },
+      {
+        "date": "2025-12-18",
+        "text": "Yet the repeated signals emanating from Salt Lake City indicate that Utah wants to keep Kessler have not stopped Indiana from expressing trade interest in the promising big man.Kessler and Dallas' Daniel Gafford are two bigs that the Pacers have tried to engage on in recent weeks with an eye toward landing a quality center before Tyrese Haliburton's projected return from an Achilles tear when next season commences.journal-topics.com",
+        "text_html": "Yet the repeated signals emanating from Salt Lake City indicate that Utah wants to keep Kessler have not stopped Indiana from expressing trade interest in the promising big man. <a href=\"https://marcstein.substack.com\" target=\"_blank\" style=\"color: #1a73e8;\">Kessler and Dallas' Daniel Gafford are two bigs that the Pacers have tried to engage on in recent weeks with an eye toward landing a quality center before Tyrese Haliburton's projected return from an Achilles tear when next season commences</a>.",
+        "outlet": "journal-topics.com",
+        "source_url": "https://marcstein.substack.com"
+      },
+      {
+        "date": "2025-12-18",
+        "text": "The Raptors have also been mentioned as a potential Gafford suitor depending on the course Toronto ultimately chooses in its well-chronicled pursuit of frontcourt help: Chasing an All-Star-caliber big man like Dallas' Anthony Davis or Sacramento's Sabonis\u2026 or focusing on veteran targets on more trade-friendly contracts such as Gafford or Phoenix's Nick Richards.journal-topics.com",
+        "text_html": "<a href=\"https://marcstein.substack.com\" target=\"_blank\" style=\"color: #1a73e8;\">The Raptors have also been mentioned as a potential Gafford suitor depending on the course Toronto ultimately chooses in its well-chronicled pursuit of frontcourt help: Chasing an All-Star-caliber big man like Dallas' Anthony Davis or Sacramento's Sabonis</a> \u2026 or focusing on veteran targets on more trade-friendly contracts such as Gafford or Phoenix's Nick Richards.",
+        "outlet": "journal-topics.com",
+        "source_url": "https://marcstein.substack.com"
+      },
+      {
+        "date": "2025-12-12",
+        "text": "The Mavericks\u2019 potential trade candidates have remained consistent \u2014 including a willingness to entertain offers for Anthony Davis, Klay Thompson, Daniel Gafford, and D\u2019Angelo Russell \u2014 but the team is not aggressively shopping those players, sources told DallasHoopsJournal.com.The internal view is that any deal must clearly improve Dallas\u2019 long-term outlook, whether through added flexibility, future assets, or a cleaner roster fit.Dallas Hoops Journal",
+        "text_html": "The Mavericks\u2019 potential trade candidates have remained consistent \u2014 including a willingness to entertain offers for Anthony Davis, Klay Thompson, Daniel Gafford, and D\u2019Angelo Russell \u2014 but the team is not aggressively shopping those players, sources told DallasHoopsJournal.com. <a href=\"https://dallashoopsjournal.com/p/nba-rumors-notebook-early-developments-to-monitor-about-the-dallas-mavericks-and-across-the-league/\" target=\"_blank\" style=\"color: #1a73e8;\">The internal view is that any deal must clearly improve Dallas\u2019 long-term outlook, whether through added flexibility, future assets, or a cleaner roster fit</a>.",
+        "outlet": "Dallas Hoops Journal",
+        "source_url": "https://dallashoopsjournal.com/p/nba-rumors-notebook-early-developments-to-monitor-about-the-dallas-mavericks-and-across-the-league/"
+      },
+      {
+        "date": "2025-12-12",
+        "text": "\"They have to be very careful with what they do with AD,\" an East\u00a0executive\u00a0said. \"They could set themselves back years with the wrong deal.\"Speaking of Daniel Gafford, he has been mentioned as a possible trade\u00a0candidate\u00a0this season and into the future, especially if the Mavericks have to cut payroll.He's a quality big man, and the three-year, $54 million\u00a0contract\u00a0he starts next season is viewed as reasonable. But with center\u00a0Dereck Lively II\u00a0playing just 43 games over the past two seasons -- he will miss the rest of 2025-26 with a foot injury -- it should no longer be assumed that Gafford is expendable in Dallas.ESPN",
+        "text_html": "\"They have to be very careful with what they do with AD,\" an East executive said. \"They could set themselves back years with the wrong deal.\" <a href=\"https://www.espn.com/nba/story/_/id/47281439/nba-trade-deadline-intel-new-era-superstar-value-means-giannis-anthony-davis\" target=\"_blank\" style=\"color: #1a73e8;\">Speaking of Daniel Gafford, he has been mentioned as a possible trade candidate this season and into the future, especially if the Mavericks have to cut payroll.</a> He's a quality big man, and the three-year, $54 million contract he starts next season is viewed as reasonable. But with center Dereck Lively II playing just 43 games over the past two seasons -- he will miss the rest of 2025-26 with a foot injury -- it should no longer be assumed that Gafford is expendable in Dallas.",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/47281439/nba-trade-deadline-intel-new-era-superstar-value-means-giannis-anthony-davis"
+      },
+      {
+        "date": "2025-12-09",
+        "text": "Anthony Davis\u00a0of the\u00a0Dallas Mavericks, another former NBA champion, is expected to be a\u00a0critical trade target\u00a0of several teams, including many of the East's contenders.The\u00a0Detroit Pistons,\u00a0Atlanta Hawks\u00a0and\u00a0Toronto Raptors\u00a0are expected to be suitors for Davis,league\u00a0sources\u00a0told\u00a0ESPN.ESPN",
+        "text_html": "Anthony Davis of the Dallas Mavericks, another former NBA champion, is expected to be a critical trade target of several teams, including many of the East's contenders. <a href=\"https://www.espn.com/nba/story/_/id/47245704/shams-pass-nba-trade-deadline-notes-news-buzz-anthony-davis-giannis-antetokounmpo-teams\" target=\"_blank\" style=\"color: #1a73e8;\">The Detroit Pistons, Atlanta Hawks and Toronto Raptors are expected to be suitors for Davis,</a> league sources told ESPN.",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/47245704/shams-pass-nba-trade-deadline-notes-news-buzz-anthony-davis-giannis-antetokounmpo-teams"
+      },
+      {
+        "date": "2025-12-09",
+        "text": "TheMavericks are open to exploring the trade markets for Davis, center\u00a0Daniel Gafford\u00a0and guards\u00a0Klay Thompson\u00a0and\u00a0D'Angelo Russell,\u00a0sources\u00a0said.ESPN",
+        "text_html": "The <a href=\"https://www.espn.com/nba/story/_/id/47245704/shams-pass-nba-trade-deadline-notes-news-buzz-anthony-davis-giannis-antetokounmpo-teams\" target=\"_blank\" style=\"color: #1a73e8;\">Mavericks are open to exploring the trade markets for Davis, center Daniel Gafford and guards Klay Thompson and D'Angelo Russell, sources said.</a>",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/47245704/shams-pass-nba-trade-deadline-notes-news-buzz-anthony-davis-giannis-antetokounmpo-teams"
+      }
+    ],
+    "Trae Young": [
+      {
+        "date": "2025-12-20",
+        "text": "The Young situation is the one around the league \u2014 outside of Giannis' status \u2014 executives are most fascinated by.It's a referendum on team-building strategy in the modern era, when the league is devaluing small guards. It's a referendum on new Hawks' general manager Onsi Saleh, who has won high praise for his decisions in Atlanta and is well-respected in league circles for his strategic acumen. It's also a referendum on Hawks' ownership, which has long placed Young in high esteem. All the questions here, from Young's value league-wide to what the Hawks decide to do with him, are ones that even teams without interest in acquiring him are monitoring closely.New York Times",
+        "text_html": "<a href=\"https://www.nytimes.com/athletic/6877429/2025/12/19/nba-trade-rumors-anthony-davis-trae-young/\" target=\"_blank\" style=\"color: #1a73e8;\">The Young situation is the one around the league \u2014 outside of Giannis' status \u2014 executives are most fascinated by.</a> It's a referendum on team-building strategy in the modern era, when the league is devaluing small guards. It's a referendum on new Hawks' general manager Onsi Saleh, who has won high praise for his decisions in Atlanta and is well-respected in league circles for his strategic acumen. It's also a referendum on Hawks' ownership, which has long placed Young in high esteem. All the questions here, from Young's value league-wide to what the Hawks decide to do with him, are ones that even teams without interest in acquiring him are monitoring closely.",
+        "outlet": "New York Times",
+        "source_url": "https://www.nytimes.com/athletic/6877429/2025/12/19/nba-trade-rumors-anthony-davis-trae-young/"
+      },
+      {
+        "date": "2025-12-19",
+        "text": "The Trae Young situation is the one around the league \u2014 outside of Giannis' status \u2014\u00a0executives\u00a0are most fascinated by. It's a referendum on team-building strategy in the modern era, when the league is devaluing small guards.It's a referendum on new Hawks' general manager Onsi Saleh, who has won high praise for his decisions in Atlanta and is well-respected in league circles for his strategic acumen. It's also a referendum on Hawks' ownership, which has long placed Young in high esteem. All the questions here, from Young's value league-wide to what the Hawks decide to do with him, are ones that even teams without\u00a0interest\u00a0in acquiring him are\u00a0monitoring\u00a0closely.New York Times",
+        "text_html": "<a href=\"https://www.nytimes.com/athletic/6877429/2025/12/19/nba-trade-rumors-anthony-davis-trae-young/\" target=\"_blank\" style=\"color: #1a73e8;\">The Trae Young situation is the one around the league \u2014 outside of Giannis' status \u2014 executives are most fascinated by. It's a referendum on team-building strategy in the modern era, when the league is devaluing small guards.</a> It's a referendum on new Hawks' general manager Onsi Saleh, who has won high praise for his decisions in Atlanta and is well-respected in league circles for his strategic acumen. It's also a referendum on Hawks' ownership, which has long placed Young in high esteem. All the questions here, from Young's value league-wide to what the Hawks decide to do with him, are ones that even teams without interest in acquiring him are monitoring closely.",
+        "outlet": "New York Times",
+        "source_url": "https://www.nytimes.com/athletic/6877429/2025/12/19/nba-trade-rumors-anthony-davis-trae-young/"
+      },
+      {
+        "date": "2025-12-18",
+        "text": "Atlanta's\u00a0interest\u00a0in Anthony Davis could be described as exploratory.The big question is whether acquiring Davis would move the needle to make the Hawks a contender in the East. More reporting and a deeper dive on Atlanta to come in the next section below regarding\u00a0Trae Young\u00a0and\u00a0Kristaps Porzingis.HoopsHype",
+        "text_html": "<a href=\"https://www.hoopshype.com/story/sports/nba/2025/12/18/michael-scottos-nba-intel-giannis-antetokounmpo-anthony-davis-trae-young-lauri-markkanen-lamelo-ball/87823173007/\" target=\"_blank\" style=\"color: #1a73e8;\">Atlanta's interest in Anthony Davis could be described as exploratory.</a> The big question is whether acquiring Davis would move the needle to make the Hawks a contender in the East. More reporting and a deeper dive on Atlanta to come in the next section below regarding Trae Young and Kristaps Porzingis.",
+        "outlet": "HoopsHype",
+        "source_url": "https://www.hoopshype.com/story/sports/nba/2025/12/18/michael-scottos-nba-intel-giannis-antetokounmpo-anthony-davis-trae-young-lauri-markkanen-lamelo-ball/87823173007/"
+      },
+      {
+        "date": "2025-12-12",
+        "text": "Grant Afseth: Shams Charania from ESPN reported a couple of potential Eastern Conference suitors like the Atlanta Hawks, Detroit Pistons, Toronto Raptors. But those teams so far, doesn't seem like there's meaningful traction by any means of a great offer that the Dallas Mavericks cannot refuse.I've been asking around, and there's more skepticism than optimism about Detroit and Atlanta as viable trade destinations. Because of various reasons, like Detroit has it rolling right now. Like, there's, probably a reluctance to break that team up and complicate things chemistry wise with how the season has gone for them. And then Atlanta, they also have to solve Trae Young's future, with their team long-term. So do you go into the offseason where you have to give contract clarity to Trae Young and Anthony Davis? That's where it gets complicated. And they could get a potential top three, even number one overall pick this year where you're adding that next to Jalen Johnson.Youtube",
+        "text_html": "Grant Afseth: Shams Charania from ESPN reported a couple of potential Eastern Conference suitors like the Atlanta Hawks, Detroit Pistons, Toronto Raptors. But those teams so far, doesn't seem like there's meaningful traction by any means of a great offer that the Dallas Mavericks cannot refuse. <a href=\"https://youtu.be/sEPja1PuIH4?si=G9cM2JWLbG1pVvS2\" target=\"_blank\" style=\"color: #1a73e8;\">I've been asking around, and there's more skepticism than optimism about Detroit and Atlanta as viable trade destinations. Because of various reasons, like Detroit has it rolling right now. Like, there's, probably a reluctance to break that team up and complicate things chemistry wise with how the season has gone for them</a>. And then Atlanta, they also have to solve Trae Young's future, with their team long-term. So do you go into the offseason where you have to give contract clarity to Trae Young and Anthony Davis? That's where it gets complicated. And they could get a potential top three, even number one overall pick this year where you're adding that next to Jalen Johnson.",
+        "outlet": "Youtube",
+        "source_url": "https://youtu.be/sEPja1PuIH4?si=G9cM2JWLbG1pVvS2"
+      },
+      {
+        "date": "2025-12-03",
+        "text": "Charlotte's\u00a0LaMelo Ball,\u00a0Memphis'\u00a0Ja Morant\u00a0and\u00a0Atlanta's\u00a0Trae Young\u00a0all seem to be stuck in a sort of limbo with the franchises that they've been the faces of since entering the league as high lottery picks. There is rampant speculation among rival teams that Ball, Morant and Young could all be available leading up to the Feb. 5 trade deadline. For a variety of reasons, from their maximum contracts to their major flaws, it's not a discussion that generates much enthusiasm despite their status as big names who have put up big numbers.\"I wouldn't want any of them,\" a Western Conference general manager\u00a0told\u00a0ESPN. That was a popular opinion in an informal poll of\u00a0executives, scouts and coaches conducted by ESPN. There wasn't a consensus about which one of the three would command the biggest return if they ended up getting shopped in the trade market, as votes were split among Ball, Morant and Young. \"They all might have negative value,\" an Eastern Conference\u00a0executive\u00a0said.ESPN",
+        "text_html": "Charlotte's LaMelo Ball, Memphis' Ja Morant and Atlanta's Trae Young all seem to be stuck in a sort of limbo with the franchises that they've been the faces of since entering the league as high lottery picks. There is rampant speculation among rival teams that Ball, Morant and Young could all be available leading up to the Feb. 5 trade deadline. For a variety of reasons, from their maximum contracts to their major flaws, it's not a discussion that generates much enthusiasm despite their status as big names who have put up big numbers. <a href=\"https://www.espn.com/nba/story/_/id/47179857/ja-morant-lamelo-ball-trae-young-three-all-star-guards-limbo\" target=\"_blank\" style=\"color: #1a73e8;\">\"I wouldn't want any of them,\" a Western Conference general manager told ESPN</a>. That was a popular opinion in an informal poll of executives, scouts and coaches conducted by ESPN. There wasn't a consensus about which one of the three would command the biggest return if they ended up getting shopped in the trade market, as votes were split among Ball, Morant and Young. \"They all might have negative value,\" an Eastern Conference executive said.",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/47179857/ja-morant-lamelo-ball-trae-young-three-all-star-guards-limbo"
+      },
+      {
+        "date": "2025-12-03",
+        "text": "In other words, the Hawks with Young in the lineup would rank dead last in the league in defensive efficiency.Without him, the Hawks have defended at a top-five level. \"He's just small and doesn't play any defense,\" an East scout said. That scout valued Young more than Morant and Ball, primarily because of his offensive prowess and lack of off-court concerns. Several people mentioned the long-running perception that he's unpopular with teammates as worrisome, especially considering that Young creates so many dunks and open looks with his passing prowess.ESPN",
+        "text_html": "In other words, the Hawks with Young in the lineup would rank dead last in the league in defensive efficiency. <a href=\"https://www.espn.com/nba/story/_/id/47179857/ja-morant-lamelo-ball-trae-young-three-all-star-guards-limbo\" target=\"_blank\" style=\"color: #1a73e8;\">Without him, the Hawks have defended at a top-five level. \"He's just small and doesn't play any defense,\" an East scout said</a>. That scout valued Young more than Morant and Ball, primarily because of his offensive prowess and lack of off-court concerns. Several people mentioned the long-running perception that he's unpopular with teammates as worrisome, especially considering that Young creates so many dunks and open looks with his passing prowess.",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/47179857/ja-morant-lamelo-ball-trae-young-three-all-star-guards-limbo"
+      },
+      {
+        "date": "2025-11-24",
+        "text": "Marc Stein: \u201cWhat I think is really happening here, in the grand scheme \u2014 and I already mentioned Ja Morant in Memphis \u2014 is that Trae Young is now in a similar position. He\u2019s out in Atlanta, and the Hawks have been winning some games without him. Remember, this summer the two sides could have engaged in contract extension talks, but they didn\u2019t. The Hawks made it clear to Trae Young\u2019s camp that they weren\u2019t interested in an extension before the season. They wanted this season to play out.Around the league, these three guards \u2014 LaMelo Ball, Ja Morant, and Trae Young \u2014 are being grouped together in the eyes of a lot of executives. Maybe they aren\u2019t available right now, as we speak but these are players teams are anticipating could be available between now and the trade deadline on February 5th. And again, all three of these guys have been All-Stars.YouTube",
+        "text_html": "Marc Stein: \u201cWhat I think is really happening here, in the grand scheme \u2014 and I already mentioned Ja Morant in Memphis \u2014 is that Trae Young is now in a similar position. He\u2019s out in Atlanta, and the Hawks have been winning some games without him. Remember, this summer the two sides could have engaged in contract extension talks, but they didn\u2019t. The Hawks made it clear to Trae Young\u2019s camp that they weren\u2019t interested in an extension before the season. They wanted this season to play out. <a href=\"https://www.youtube.com/live/FLwniS558nA\" target=\"_blank\" style=\"color: #1a73e8;\">Around the league, these three guards \u2014 LaMelo Ball, Ja Morant, and Trae Young \u2014 are being grouped together in the eyes of a lot of executives. Maybe they aren\u2019t available right now, as we speak but these are players teams are anticipating could be available between now and the trade deadline on February 5th. And again, all three of these guys have been All-Stars</a>.",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/live/FLwniS558nA"
+      }
+    ],
+    "Zach LaVine": [
+      {
+        "date": "2025-12-20",
+        "text": "The Milwaukee Bucks are looking to add a \"difference maker\" to the roster and are keeping tabs on the Sacramento Kings' Zach LaVine,according to Chris Haynes. \"The Milwaukee Bucks are in desperate pursuit of trying to look out on the trade market to see if they can bring in a difference maker type of player ... one of the guys I've identified is Zach LaVine of the Sacramento Kings. He is one player they have done their homework on. \"There hasn't been any concrete, serious talks to this point but he is someone who is on their radar,\" said Haynes on NBA on Prime.RealGM",
+        "text_html": "<a href=\"https://basketball.realgm.com/wiretap/283191/Bucks-Looking-To-Add-Difference-Maker-In-Trade-Market-Have-Zach-LaVine-On-Radar\" target=\"_blank\" style=\"color: #1a73e8;\">The Milwaukee Bucks are looking to add a \"difference maker\" to the roster and are keeping tabs on the Sacramento Kings' Zach LaVine,</a> according to Chris Haynes. \"The Milwaukee Bucks are in desperate pursuit of trying to look out on the trade market to see if they can bring in a difference maker type of player ... one of the guys I've identified is Zach LaVine of the Sacramento Kings. He is one player they have done their homework on. \"There hasn't been any concrete, serious talks to this point but he is someone who is on their radar,\" said Haynes on NBA on Prime.",
+        "outlet": "RealGM",
+        "source_url": "https://basketball.realgm.com/wiretap/283191/Bucks-Looking-To-Add-Difference-Maker-In-Trade-Market-Have-Zach-LaVine-On-Radar"
+      },
+      {
+        "date": "2025-12-18",
+        "text": "The team most widely painted as Trade Deadline Sellers as the Showcase gets underway? Most rival teams would nominate Sacramento first.\"Active is the word I would use to describe them,\" one veteran executive said of the Kings. Zach LaVine is out for at least one week with an ankle sprain that was announced Wednesday, but LaVine and DeMar DeRozan have certainly been made available. Domantas Sabonis (although currently sidelined by a knee injury, has also been generating no shortage of trade chatter.journal-topics.com",
+        "text_html": "The team most widely painted as Trade Deadline Sellers as the Showcase gets underway? Most rival teams would nominate Sacramento first. <a href=\"https://marcstein.substack.com\" target=\"_blank\" style=\"color: #1a73e8;\">\"Active is the word I would use to describe them,\" one veteran executive said of the Kings</a>. Zach LaVine is out for at least one week with an ankle sprain that was announced Wednesday, but LaVine and DeMar DeRozan have certainly been made available. Domantas Sabonis (although currently sidelined by a knee injury, has also been generating no shortage of trade chatter.",
+        "outlet": "journal-topics.com",
+        "source_url": "https://marcstein.substack.com"
+      },
+      {
+        "date": "2025-12-17",
+        "text": "The Kings and first-year general manager Scott Perry are open to trade talks throughout the roster, sources told ESPN's Shams Charania.Teams around the league are keeping their eyes on veterans Domantas Sabonis, Zach LaVine and DeMar DeRozan, as well as 25-year-old guard Keon Ellis.ESPN",
+        "text_html": "The Kings and first-year general manager Scott Perry are open to trade talks throughout the roster, sources told ESPN's Shams Charania. <a href=\"https://www.espn.com/nba/story/_/id/47191162/nba-buzz-latest-live-updates-trades-intel-league\" target=\"_blank\" style=\"color: #1a73e8;\">Teams around the league are keeping their eyes on veterans Domantas Sabonis, Zach LaVine and DeMar DeRozan, as well as 25-year-old guard Keon Ellis</a>.",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/47191162/nba-buzz-latest-live-updates-trades-intel-league"
+      },
+      {
+        "date": "2025-12-15",
+        "text": "The Kings are struggling with the likes of Murray and veterans Domantas Sabonis, Zach LaVine, DeMar DeRozan and Russell Westbrook on their roster. Sources told Andscape that there is a disconnect between some veteran Kings players and Christie and his coaching staff.Sacramento is expected to explore making trades of its veteran players, a source told Andscape.Andscape",
+        "text_html": "The Kings are struggling with the likes of Murray and veterans Domantas Sabonis, Zach LaVine, DeMar DeRozan and Russell Westbrook on their roster. Sources told Andscape that there is a disconnect between some veteran Kings players and Christie and his coaching staff. <a href=\"https://andscape.com/features/for-deaaron-fox-the-grass-is-greener-with-the-san-antonio-spurs/\" target=\"_blank\" style=\"color: #1a73e8;\">Sacramento is expected to explore making trades of its veteran players, a source told Andscape</a>.",
+        "outlet": "Andscape",
+        "source_url": "https://andscape.com/features/for-deaaron-fox-the-grass-is-greener-with-the-san-antonio-spurs/"
+      },
+      {
+        "date": "2025-12-15",
+        "text": "It should come as no surprise that, as The Athletic confirmed this week, they\u2019ve done due diligence on the Sacramento Kings\u2019 Zach LaVine recently(and have shown interest in him in the past). At minimum, that revelation shows that with their backs against the wall, the Bucks might once again be willing to take a more sizable swing than just adding around the periphery as they search for solutions.New York Times",
+        "text_html": "<a href=\"https://www.nytimes.com/athletic/6890775/2025/12/15/bucks-giannis-antetokounmpo-nba-trade-season/\" target=\"_blank\" style=\"color: #1a73e8;\">It should come as no surprise that, as The Athletic confirmed this week, they\u2019ve done due diligence on the Sacramento Kings\u2019 Zach LaVine recently</a> (and have shown interest in him in the past). At minimum, that revelation shows that with their backs against the wall, the Bucks might once again be willing to take a more sizable swing than just adding around the periphery as they search for solutions.",
+        "outlet": "New York Times",
+        "source_url": "https://www.nytimes.com/athletic/6890775/2025/12/15/bucks-giannis-antetokounmpo-nba-trade-season/"
+      },
+      {
+        "date": "2025-12-12",
+        "text": "Yet as is the case with so many other teams, the realities of the market might provide a sobering dose of reality once we get closer to dealing time. The Kings\u2019 Zach LaVine, for starters, could certainly help several contending teams.To that point, league sources confirmed that Milwaukee has done recent due diligence on the 30-year-old guard (and has shown interest in the past). But his exorbitant salary \u2014 $47.4 million this season and a player option for $48.9 million next season \u2014 makes it nearly impossible to move him without attaching some sort of sweetener (draft assets) in return. And therein lies the challenge for first-year Kings general manager Scott Perry.New York Times",
+        "text_html": "Yet as is the case with so many other teams, the realities of the market might provide a sobering dose of reality once we get closer to dealing time. The Kings\u2019 Zach LaVine, for starters, could certainly help several contending teams. <a href=\"https://www.nytimes.com/athletic/6881845/2025/12/12/nba-trades-giannis-antetokounmpo-anthony-davis-warriors-mavericks/?source=user_shared_article\" target=\"_blank\" style=\"color: #1a73e8;\">To that point, league sources confirmed that Milwaukee has done recent due diligence on the 30-year-old guard (and has shown interest in the past)</a>. But his exorbitant salary \u2014 $47.4 million this season and a player option for $48.9 million next season \u2014 makes it nearly impossible to move him without attaching some sort of sweetener (draft assets) in return. And therein lies the challenge for first-year Kings general manager Scott Perry.",
+        "outlet": "New York Times",
+        "source_url": "https://www.nytimes.com/athletic/6881845/2025/12/12/nba-trades-giannis-antetokounmpo-anthony-davis-warriors-mavericks/?source=user_shared_article"
+      },
+      {
+        "date": "2025-12-09",
+        "text": "The Kings and first-year general manager Scott Perry are using this season as a patient evaluation campaign, trying to build a gritty culture.They are open-minded about trade talks throughout the roster,\u00a0sources\u00a0said.Teams are\u00a0monitoring\u00a0veterans\u00a0Domantas Sabonis,\u00a0Zach LaVine\u00a0and\u00a0DeMar DeRozan, along with 25-year-old guard\u00a0Keon Ellis.ESPN",
+        "text_html": "The Kings and first-year general manager Scott Perry are using this season as a patient evaluation campaign, trying to build a gritty culture. <a href=\"https://www.espn.com/nba/story/_/id/47245704/shams-pass-nba-trade-deadline-notes-news-buzz-anthony-davis-giannis-antetokounmpo-teams\" target=\"_blank\" style=\"color: #1a73e8;\">They are open-minded about trade talks throughout the roster, sources said.</a> Teams are monitoring veterans Domantas Sabonis, Zach LaVine and DeMar DeRozan, along with 25-year-old guard Keon Ellis.",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/47245704/shams-pass-nba-trade-deadline-notes-news-buzz-anthony-davis-giannis-antetokounmpo-teams"
+      },
+      {
+        "date": "2025-12-01",
+        "text": "Marc Stein: Zach LaVine has a player option in 2026\u201327 that\u2019s worth almost $50 million. And kind of the rumble \u2014 the rumble there \u2014 isif he were willing to decline the option and take a longer-term extension at a lesser number, I think there would be some trade interest in Zach LaVine. Then DeMar DeRozan \u2014 because his contract next season, I think, is only guaranteed for about $10 million \u2014 you know, perhaps a trade market will emerge there.YouTube",
+        "text_html": "Marc Stein: Zach LaVine has a player option in 2026\u201327 that\u2019s worth almost $50 million. And kind of the rumble \u2014 the rumble there \u2014 is <a href=\"https://www.youtube.com/watch?v=1LCOowNMP8c\" target=\"_blank\" style=\"color: #1a73e8;\">if he were willing to decline the option and take a longer-term extension at a lesser number, I think there would be some trade interest in Zach LaVine</a>. Then DeMar DeRozan \u2014 because his contract next season, I think, is only guaranteed for about $10 million \u2014 you know, perhaps a trade market will emerge there.",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=1LCOowNMP8c"
+      },
+      {
+        "date": "2025-11-26",
+        "text": "The Milwaukee Bucks have conducted background due diligence on Zach LaVine and others around the league, as usual,\u00a0sources\u00a0told\u00a0HoopsHype.However, nothing is imminent as Bucks superstar\u00a0Giannis Antetokounmpo\u00a0nears a return from a low-grade adductor strain.\u00a0Should Milwaukee\u2019s\u00a0interest\u00a0in LaVine become more serious, it\u2019s worth noting that Bucks forward\u00a0Kyle Kuzma\u00a0and Kings Governor\u00a0Vivek Ranadive\u00a0both invested\u00a0in a new women\u2019s professional sports venture called Major League Volleyball, and Kuzma has been linked to the Kings via trade\u00a0rumors\u00a0for several seasons.HoopsHype",
+        "text_html": "<a href=\"https://www.hoopshype.com/story/sports/nba/2025/11/26/title-nba-intel-ja-morant-timberwolves-kings-celtics/87477567007/\" target=\"_blank\" style=\"color: #1a73e8;\">The Milwaukee Bucks have conducted background due diligence on Zach LaVine and others around the league, as usual, sources told HoopsHype.</a> However, nothing is imminent as Bucks superstar Giannis Antetokounmpo nears a return from a low-grade adductor strain. Should Milwaukee\u2019s interest in LaVine become more serious, it\u2019s worth noting that Bucks forward Kyle Kuzma and Kings Governor Vivek Ranadive both invested in a new women\u2019s professional sports venture called Major League Volleyball, and Kuzma has been linked to the Kings via trade rumors for several seasons.",
+        "outlet": "HoopsHype",
+        "source_url": "https://www.hoopshype.com/story/sports/nba/2025/11/26/title-nba-intel-ja-morant-timberwolves-kings-celtics/87477567007/"
+      }
+    ],
+    "Andrew Wiggins": [
+      {
+        "date": "2025-12-20",
+        "text": "Now, amid speculation about what\u2019s next for the struggling Milwaukee Bucks and forward Giannis Antetokounmpo, Wiggins\u2019 name again has been making the rounds, as in a piece the Bucks might try to acquire to augment Antetokounmpo rather than trading their franchise mainstay.\u201cMan,\u201d Wiggins said, \u201cI try not to think about it. I don\u2019t really go on social media and search my name or anything that has to do with me,so I don\u2019t really hear too much of anything, unless someone comes up and tells me.\u201dSouth Florida Sun-Sentinel",
+        "text_html": "Now, amid speculation about what\u2019s next for the struggling Milwaukee Bucks and forward Giannis Antetokounmpo, Wiggins\u2019 name again has been making the rounds, as in a piece the Bucks might try to acquire to augment Antetokounmpo rather than trading their franchise mainstay. <a href=\"https://www.sun-sentinel.com/2025/12/19/heats-andrew-wiggins-dealing-with-another-round-of-rumor-swirl-as-giannis-talk-intensifies/\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cMan,\u201d Wiggins said, \u201cI try not to think about it. I don\u2019t really go on social media and search my name or anything that has to do with me,</a> so I don\u2019t really hear too much of anything, unless someone comes up and tells me.\u201d",
+        "outlet": "South Florida Sun-Sentinel",
+        "source_url": "https://www.sun-sentinel.com/2025/12/19/heats-andrew-wiggins-dealing-with-another-round-of-rumor-swirl-as-giannis-talk-intensifies/"
+      },
+      {
+        "date": "2025-12-20",
+        "text": "Now he\u2019s been told, just as he is acclimating after a difficult adjustment in the immediate wake of last February\u2019s trade. \u201cIt\u2019s part of the NBA,\u201d said Wiggins, with the Heat playing the Boston Celtics on Friday night at TD Garden, before closing out their three-game trip Sunday night against the New York Knicks at Madison Square Garden. \u201cThere\u2019s nothing you can do.I feel like I\u2019ve been in the league 12 years and nine of the 12 years, I\u2019ve been in trade rumors. So it is what it is, and all I can do is just play my game and whatever happens, happens.\u201dSouth Florida Sun-Sentinel",
+        "text_html": "Now he\u2019s been told, just as he is acclimating after a difficult adjustment in the immediate wake of last February\u2019s trade. \u201cIt\u2019s part of the NBA,\u201d said Wiggins, with the Heat playing the Boston Celtics on Friday night at TD Garden, before closing out their three-game trip Sunday night against the New York Knicks at Madison Square Garden. \u201cThere\u2019s nothing you can do. <a href=\"https://www.sun-sentinel.com/2025/12/19/heats-andrew-wiggins-dealing-with-another-round-of-rumor-swirl-as-giannis-talk-intensifies/\" target=\"_blank\" style=\"color: #1a73e8;\">I feel like I\u2019ve been in the league 12 years and nine of the 12 years, I\u2019ve been in trade rumors. So it is what it is, and all I can do is just play my game and whatever happens, happens.\u201d</a>",
+        "outlet": "South Florida Sun-Sentinel",
+        "source_url": "https://www.sun-sentinel.com/2025/12/19/heats-andrew-wiggins-dealing-with-another-round-of-rumor-swirl-as-giannis-talk-intensifies/"
+      },
+      {
+        "date": "2025-12-18",
+        "text": "Miami has gauged the trade market on small forward\u00a0Andrew Wiggins,who has a $30.17 million player option for the 2026-27 season.\u00a0Tyler Herro, a Milwaukee, Wisconsin native, has maintained his All-Star form from last season after missing the first 17 games of the season.\u00a0Terry Rozier\u2019s\u00a0expiring $26.64 million\u00a0contract\u00a0also looms.HoopsHype",
+        "text_html": "<a href=\"https://www.hoopshype.com/story/sports/nba/2025/12/18/michael-scottos-nba-intel-giannis-antetokounmpo-anthony-davis-trae-young-lauri-markkanen-lamelo-ball/87823173007/\" target=\"_blank\" style=\"color: #1a73e8;\">Miami has gauged the trade market on small forward Andrew Wiggins,</a> who has a $30.17 million player option for the 2026-27 season. Tyler Herro, a Milwaukee, Wisconsin native, has maintained his All-Star form from last season after missing the first 17 games of the season. Terry Rozier\u2019s expiring $26.64 million contract also looms.",
+        "outlet": "HoopsHype",
+        "source_url": "https://www.hoopshype.com/story/sports/nba/2025/12/18/michael-scottos-nba-intel-giannis-antetokounmpo-anthony-davis-trae-young-lauri-markkanen-lamelo-ball/87823173007/"
+      },
+      {
+        "date": "2025-12-16",
+        "text": "Milwaukee regularly called about Andrew Wiggins during his tenure in Golden State, league sources say. And the Bucks were also quite interested in Dejounte Murray,sources add, while Atlanta was holding the trade conversations that ultimately landed the former All-Star point guard on Bourbon Street.marcstein.substack.com",
+        "text_html": "<a href=\"https://open.substack.com/pub/marcstein/p/the-many-many-layers-to-the-nbas\" target=\"_blank\" style=\"color: #1a73e8;\">Milwaukee regularly called about Andrew Wiggins during his tenure in Golden State, league sources say. And the Bucks were also quite interested in Dejounte Murray,</a> sources add, while Atlanta was holding the trade conversations that ultimately landed the former All-Star point guard on Bourbon Street.",
+        "outlet": "marcstein.substack.com",
+        "source_url": "https://open.substack.com/pub/marcstein/p/the-many-many-layers-to-the-nbas"
+      },
+      {
+        "date": "2025-12-08",
+        "text": "My read is that the Heat can't ever be a real contender to land Antetokounmpo if they're not willing to part with Ware this go-around. Sources insist, however, that Miami is indeed willing to part with Andrew Wiggins(and his $28.2 million salary) in the proverbial right deal.marcstein.substack.com",
+        "text_html": "<a href=\"https://marcstein.substack.com/p/sunday-best-the-nba-trade-topic-that\" target=\"_blank\" style=\"color: #1a73e8;\">My read is that the Heat can't ever be a real contender to land Antetokounmpo if they're not willing to part with Ware this go-around. Sources insist, however, that Miami is indeed willing to part with Andrew Wiggins</a> (and his $28.2 million salary) in the proverbial right deal.",
+        "outlet": "marcstein.substack.com",
+        "source_url": "https://marcstein.substack.com/p/sunday-best-the-nba-trade-topic-that"
+      },
+      {
+        "date": "2025-11-26",
+        "text": "Sources sayGolden State did discuss the pursuit of Domantas Sabonis before the 2022 trade deadlinethat featured Indiana shipping the Lithuanian lefty to Sacramento for a package headlined by Tyrese Haliburton. The Pacers were known at the time to be big fans of Jonathan Kuminga, leading to various discussions between the two front offices that featured current Warriors swingman Buddy Hield, former Warriors swingman Andrew Wiggins and Sabonis in various frameworks.marcstein.substack.com",
+        "text_html": "Sources say <a href=\"https://marcstein.substack.com/p/talking-zone-defense-nba-big-men\" target=\"_blank\" style=\"color: #1a73e8;\">Golden State did discuss the pursuit of Domantas Sabonis before the 2022 trade deadline</a> that featured Indiana shipping the Lithuanian lefty to Sacramento for a package headlined by Tyrese Haliburton. The Pacers were known at the time to be big fans of Jonathan Kuminga, leading to various discussions between the two front offices that featured current Warriors swingman Buddy Hield, former Warriors swingman Andrew Wiggins and Sabonis in various frameworks.",
+        "outlet": "marcstein.substack.com",
+        "source_url": "https://marcstein.substack.com/p/talking-zone-defense-nba-big-men"
+      }
+    ],
     "Keon Ellis": [
       {
         "date": "2025-12-20",
@@ -1740,13 +1828,6 @@
         "text_html": "<a href=\"https://www.hoopshype.com/story/sports/nba/2025/11/26/title-nba-intel-ja-morant-timberwolves-kings-celtics/87477567007/\" target=\"_blank\" style=\"color: #1a73e8;\">The Indiana Pacers have been among many teams to express interest in Keon Ellis this season</a> and have previously targeted him, league sources told HoopsHype.",
         "outlet": "HoopsHype",
         "source_url": "https://www.hoopshype.com/story/sports/nba/2025/11/26/title-nba-intel-ja-morant-timberwolves-kings-celtics/87477567007/"
-      },
-      {
-        "date": "2025-11-23",
-        "text": "The King who appears to hold the most immediate trade value:\u00a0Keon Ellis.\"More than half the league has called on him,\" one\u00a0source\u00a0with\u00a0knowledge\u00a0of the situation\u00a0told\u00a0The Stein Line.marcstein.substack.com",
-        "text_html": "The King who appears to hold the most immediate trade value: Keon Ellis. <a href=\"https://marcstein.substack.com/p/sunday-best-the-pieces-of-this-seasons\" target=\"_blank\" style=\"color: #1a73e8;\">\"More than half the league has called on him,\" one source with knowledge of the situation told The Stein Line</a>.",
-        "outlet": "marcstein.substack.com",
-        "source_url": "https://marcstein.substack.com/p/sunday-best-the-pieces-of-this-seasons"
       }
     ],
     "Herb Jones": [
@@ -1996,13 +2077,6 @@
         "text_html": "The Dallas Mavericks are reportedly facing a conundrum when it comes to potentially trading star big man Anthony Davis. During Monday's episode of The Hoop Collective, ESPN's Tim Bontemps explained that Davis' trade value isn't as high as many would expect for a player of his caliber. \"The idea of trading Anthony Davis has everyone trained to think, well, they're gonna get three firsts, two swaps, they're gonna get two young players and they're gonna get all this stuff,\" Bontemps said around the 33:00 mark. <a href=\"https://bleacherreport.com/articles/25304382-what-anthony-davis-trade-value-nba-insiders-shocking-revelation-amid-mavs-rumors\" target=\"_blank\" style=\"color: #1a73e8;\">\"I shouldn't say it's not gonna happen... but, you talk to people in the league, there's not a lot of teams that are lining up to take on a 35-year-old Anthony Davis making $63 million, and you have to assume that he's gonna opt into that deal.\"</a>",
         "outlet": "Bleacher Report",
         "source_url": "https://bleacherreport.com/articles/25304382-what-anthony-davis-trade-value-nba-insiders-shocking-revelation-amid-mavs-rumors"
-      },
-      {
-        "date": "2025-11-23",
-        "text": "Ian Begley: I\u2019d guess today that they prioritize point guard over front court in the trade market. This is stating the obvious, butI\u2019m sure the Knicks would at least check in with Dallas if/when\u00a0Anthony Davis\u00a0becomes available.You may scoff at the idea, but the Knicks want to win a title this season. If Dallas is offering Davis at a below-market cost, I\u2019m sure the Knicks will at least give the move some thought. But this, again, is stating the obvious. The Mavs will get calls from nearly all NBA teams if/when they make Davis available.SportsNet New York",
-        "text_html": "Ian Begley: I\u2019d guess today that they prioritize point guard over front court in the trade market. This is stating the obvious, but <a href=\"https://sny.tv/articles/knicks-mailbag-11-22-25\" target=\"_blank\" style=\"color: #1a73e8;\">I\u2019m sure the Knicks would at least check in with Dallas if/when Anthony Davis becomes available.</a> You may scoff at the idea, but the Knicks want to win a title this season. If Dallas is offering Davis at a below-market cost, I\u2019m sure the Knicks will at least give the move some thought. But this, again, is stating the obvious. The Mavs will get calls from nearly all NBA teams if/when they make Davis available.",
-        "outlet": "SportsNet New York",
-        "source_url": "https://sny.tv/articles/knicks-mailbag-11-22-25"
       }
     ],
     "Klay Thompson": [
@@ -2104,29 +2178,6 @@
         "source_url": "https://x.com/UnderdogNBA/status/2001748633302036932?s=20"
       }
     ],
-    "James Harden": [
-      {
-        "date": "2025-12-18",
-        "text": "One well-placed Western Conference observer shared this week thatJames Harden's status going forward is being monitored closely by various teams given his career goals at age 36 and the Clippers' dim prospects for digging out of their current hole.journal-topics.com",
-        "text_html": "One well-placed Western Conference observer shared this week that <a href=\"https://marcstein.substack.com\" target=\"_blank\" style=\"color: #1a73e8;\">James Harden's status going forward is being monitored closely by various teams given his career goals at age 36 and the Clippers' dim prospects for digging out of their current hole</a>.",
-        "outlet": "journal-topics.com",
-        "source_url": "https://marcstein.substack.com"
-      },
-      {
-        "date": "2025-12-06",
-        "text": "\"Life-changing,\" Harden said of the trade to Houston.\"What would've happened or what could have happened [if that trade doesn't happen]. I probably wouldn't have been able to be who I am, as far as creating an entire James Harden movement.I'm on my 10th signature shoe. \"All these things probably wouldn't have happened if I was there. I possibly could have been a champion. Who knows? Possibly. But so I'm grateful.\"ESPN",
-        "text_html": "\"Life-changing,\" Harden said of the trade to Houston. <a href=\"https://www.espn.com/nba/story/_/id/47227706/clippers-harden-passes-carmelo-10th-scoring-list\" target=\"_blank\" style=\"color: #1a73e8;\">\"What would've happened or what could have happened [if that trade doesn't happen]. I probably wouldn't have been able to be who I am, as far as creating an entire James Harden movement.</a> I'm on my 10th signature shoe. \"All these things probably wouldn't have happened if I was there. I possibly could have been a champion. Who knows? Possibly. But so I'm grateful.\"",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/47227706/clippers-harden-passes-carmelo-10th-scoring-list"
-      },
-      {
-        "date": "2025-12-05",
-        "text": "Tim Bontemps: Some\u00a0sources\u00a0have indicated that the Clippers could try to move up their free agency timeline from the 2027 offseason to next summer, which would require finding trade partners with cap room to take on James Harden ($42 million player option for 2026-27) and Leonard (owed $50 million in 2026-27). The feedback from league insiders has been that, while a team would take on Harden, it may be more difficult to find a landing spot for Leonard because of his injury and the Aspiration case still ongoing.\"James has maybe neutral value,\" an East scout said. \"Kawhi Leonard has negative value.\"ESPN",
-        "text_html": "Tim Bontemps: Some sources have indicated that the Clippers could try to move up their free agency timeline from the 2027 offseason to next summer, which would require finding trade partners with cap room to take on James Harden ($42 million player option for 2026-27) and Leonard (owed $50 million in 2026-27). The feedback from league insiders has been that, while a team would take on Harden, it may be more difficult to find a landing spot for Leonard because of his injury and the Aspiration case still ongoing. <a href=\"https://www.espn.com/nba/story/_/id/47202440/nba-intel-next-clippers-league-insiders-examine-three-paths\" target=\"_blank\" style=\"color: #1a73e8;\">\"James has maybe neutral value,\" an East scout said. \"Kawhi Leonard has negative value.\"</a>",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/47202440/nba-intel-next-clippers-league-insiders-examine-three-paths"
-      }
-    ],
     "DeMar DeRozan": [
       {
         "date": "2025-12-18",
@@ -2220,13 +2271,6 @@
         "text_html": "Sources say <a href=\"https://marcstein.substack.com/p/talking-zone-defense-nba-big-men\" target=\"_blank\" style=\"color: #1a73e8;\">Golden State did discuss the pursuit of Domantas Sabonis before the 2022 trade deadline</a> that featured Indiana shipping the Lithuanian lefty to Sacramento for a package headlined by Tyrese Haliburton. The Pacers were known at the time to be big fans of Jonathan Kuminga, leading to various discussions between the two front offices that featured current Warriors swingman Buddy Hield, former Warriors swingman Andrew Wiggins and Sabonis in various frameworks.",
         "outlet": "marcstein.substack.com",
         "source_url": "https://marcstein.substack.com/p/talking-zone-defense-nba-big-men"
-      },
-      {
-        "date": "2025-11-23",
-        "text": "Maybe this was inevitable after a 41-point loss to the Morant-less Grizzlies, butleague\u00a0sources\u00a0say that the Kings are willing to listen to offers for players up and down their roster \u2026 particularly for Sacramento's veterans.marcstein.substack.com",
-        "text_html": "Maybe this was inevitable after a 41-point loss to the Morant-less Grizzlies, but <a href=\"https://marcstein.substack.com/p/sunday-best-the-pieces-of-this-seasons\" target=\"_blank\" style=\"color: #1a73e8;\">league sources say that the Kings are willing to listen to offers for players up and down their roster \u2026 particularly for Sacramento's veterans</a>.",
-        "outlet": "marcstein.substack.com",
-        "source_url": "https://marcstein.substack.com/p/sunday-best-the-pieces-of-this-seasons"
       }
     ],
     "Keegan Murray": [
@@ -2236,13 +2280,6 @@
         "text_html": "<a href=\"https://marcstein.substack.com\" target=\"_blank\" style=\"color: #1a73e8;\">The Kings have largely been open to fielding trade calls on pretty much anyone on the roster outside of Keegan Murray and rookie Nique Clifford but have also been telling potential trade partners that they do not intend to attach draft capital to veteran contracts to try to move them</a> \u2026 or use Keon Ellis' contract to try to sweeten deals. Ellis has been attracting trade feelers for some time given the leaguewide dearth of 3-and-D players currently available.",
         "outlet": "journal-topics.com",
         "source_url": "https://marcstein.substack.com"
-      },
-      {
-        "date": "2025-11-23",
-        "text": "Just don't get your hopes up about your favorite team acquiring the recently re-signed\u00a0Keegan Murray. \u2026 or last June's prized first-round pick\u00a0NiqueClifford.\u00a0Sources\u00a0say both will be off the table in upcoming trade talks.marcstein.substack.com",
-        "text_html": "Just don't get your hopes up about your favorite team acquiring the recently re-signed Keegan Murray. \u2026 or last June's prized first-round pick Nique <a href=\"https://marcstein.substack.com/p/sunday-best-the-pieces-of-this-seasons\" target=\"_blank\" style=\"color: #1a73e8;\">Clifford. Sources say both will be off the table in upcoming trade talks</a>.",
-        "outlet": "marcstein.substack.com",
-        "source_url": "https://marcstein.substack.com/p/sunday-best-the-pieces-of-this-seasons"
       }
     ],
     "Nique Clifford": [
@@ -2471,13 +2508,6 @@
         "text_html": "Marc Stein: The reality is, there\u2019s chatter out there \u2014 a lot of curiosity, most of it coming from rival front offices. Are the Hornets going to be open to fielding trade pitches for LaMelo Ball? <a href=\"https://www.youtube.com/live/FLwniS558nA\" target=\"_blank\" style=\"color: #1a73e8;\">To this point \u2014 and this will sound a lot like the Ja Morant situation in Memphis \u2014 the messaging is that the Hornets don\u2019t want to field those pitches. They don\u2019t want to trade him</a>. There was a report this week from my pal in Houston, Kelly Iko, writing for Yahoo Sports. Kelly wrote that Ball is open to a trade, and that the Hornets are disillusioned with him on various levels. Both parties have come out and publicly denied that \u2014 insisting it\u2019s not the case. Again, we haven\u2019t even gotten to Thanksgiving. Trade season doesn\u2019t officially start until December 15th. As of where we are right now, the Hornets insist they\u2019re not gauging Ball\u2019s trade value.\u201d",
         "outlet": "YouTube",
         "source_url": "https://www.youtube.com/live/FLwniS558nA"
-      },
-      {
-        "date": "2025-11-23",
-        "text": "LaMelo Ball is not a character concern off the floor by any means, to my\u00a0understanding, even if\u00a0sources\u00a0say it's indeed true that he's been frustrated by the team's lack of forward progress.Ball has played in 47 or fewer games in each of the past three seasons due to injury. His shot selection also turns some teams off, but the durability questions resonate the loudest\u00a0leaguewide. It's somewhat reminiscent of the situation\u00a0Anthony Davis\u00a0faces in Dallas. The Hornets are unlikely to get the sort of offers for Ball they'd be hoping for until their star guard can get through a stretch of sustained production, availability and ideally some winning. No wonder the Hornets, as league\u00a0sources\u00a0maintain, are not currently\u00a0interested\u00a0in looking to move him.marcstein.substack.com",
-        "text_html": "<a href=\"https://marcstein.substack.com/p/sunday-best-the-pieces-of-this-seasons\" target=\"_blank\" style=\"color: #1a73e8;\">LaMelo Ball is not a character concern off the floor by any means, to my understanding, even if sources say it's indeed true that he's been frustrated by the team's lack of forward progress.</a> Ball has played in 47 or fewer games in each of the past three seasons due to injury. His shot selection also turns some teams off, but the durability questions resonate the loudest leaguewide. It's somewhat reminiscent of the situation Anthony Davis faces in Dallas. The Hornets are unlikely to get the sort of offers for Ball they'd be hoping for until their star guard can get through a stretch of sustained production, availability and ideally some winning. No wonder the Hornets, as league sources maintain, are not currently interested in looking to move him.",
-        "outlet": "marcstein.substack.com",
-        "source_url": "https://marcstein.substack.com/p/sunday-best-the-pieces-of-this-seasons"
       }
     ],
     "Lauri Markkanen": [
@@ -2755,50 +2785,6 @@
         "text_html": "Michael A. Scotto: <a href=\"https://x.com/APH00PS/status/2000345603868635171?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">There is expected to be significant interest in Darius Garland leading up to the trade deadline, as some teams believe he could be a difference-maker as their primary option,</a> per @MikeAScotto on The YES Network.",
         "outlet": "x.com",
         "source_url": "https://x.com/APH00PS/status/2000345603868635171?s=20"
-      }
-    ],
-    "Coby White": [
-      {
-        "date": "2025-12-13",
-        "text": "KC Johnson: FWIW,sounds like little to no engagement from other teams currently. White is definitely on some teams' radar and, as he noted with his pending UFA status, interest could intensify between now and Feb. trade deadlinex.com",
-        "text_html": "KC Johnson: FWIW, <a href=\"https://x.com/KCJHoop/status/1999628540841721948\" target=\"_blank\" style=\"color: #1a73e8;\">sounds like little to no engagement from other teams currently. White is definitely on some teams' radar and, as he noted with his pending UFA status, interest could intensify between now and Feb. trade deadline</a>",
-        "outlet": "x.com",
-        "source_url": "https://x.com/KCJHoop/status/1999628540841721948"
-      },
-      {
-        "date": "2025-12-13",
-        "text": "KC Johnson: Shared what Coby White said about trade rumors on @CHSN__ pregame show:\"I love being here. I love being on this team. But I understand it\u2019s a business and it's different going into (UFA). They have to do what they think is best for the organization. It\u2019s out of my control.\"x.com",
-        "text_html": "KC Johnson: Shared what Coby White said about trade rumors on @CHSN__ pregame show: <a href=\"https://x.com/KCJHoop/status/1999628540841721948?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1999628540841721948%7Ctwgr%5E4709d7be1d547de16339c7fc49ef928449372362%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fd-1426525028151746239.ampproject.net%2F2510081644000%2Fframe.html\" target=\"_blank\" style=\"color: #1a73e8;\">\"I love being here. I love being on this team. But I understand it\u2019s a business and it's different going into (UFA). They have to do what they think is best for the organization. It\u2019s out of my control.\"</a>",
-        "outlet": "x.com",
-        "source_url": "https://x.com/KCJHoop/status/1999628540841721948?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1999628540841721948%7Ctwgr%5E4709d7be1d547de16339c7fc49ef928449372362%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fd-1426525028151746239.ampproject.net%2F2510081644000%2Fframe.html"
-      },
-      {
-        "date": "2025-12-13",
-        "text": "Jon Krawczynski:I can tell you that there is absolutely nothing cooking there right now.Could that change down the road? Maybe. He's certainly a name to watch. But nothing percolating yet.x.com",
-        "text_html": "Jon Krawczynski: <a href=\"https://x.com/Timberwolves215/status/1999228607776817305\" target=\"_blank\" style=\"color: #1a73e8;\">I can tell you that there is absolutely nothing cooking there right now.</a> Could that change down the road? Maybe. He's certainly a name to watch. But nothing percolating yet.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/Timberwolves215/status/1999228607776817305"
-      },
-      {
-        "date": "2025-12-12",
-        "text": "A Wolves source confirmed that there is legitimate interest in White, but the 25-year-old\u2019s looming free agency appears to be a significant hindrance to a possible trade.He\u2019s making $12.8 million in the final year of his deal and is widely expected to seek a major raise this summer. But the fear of that unknown, it seems, means this is the kind of \u201crental\u201d situation that drops the price point precipitously and creates a negotiating gap between the two sides.New York Times",
-        "text_html": "<a href=\"https://www.nytimes.com/athletic/6881845/2025/12/12/nba-trades-giannis-antetokounmpo-anthony-davis-warriors-mavericks/?source=user_shared_article\" target=\"_blank\" style=\"color: #1a73e8;\">A Wolves source confirmed that there is legitimate interest in White, but the 25-year-old\u2019s looming free agency appears to be a significant hindrance to a possible trade.</a> He\u2019s making $12.8 million in the final year of his deal and is widely expected to seek a major raise this summer. But the fear of that unknown, it seems, means this is the kind of \u201crental\u201d situation that drops the price point precipitously and creates a negotiating gap between the two sides.",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/6881845/2025/12/12/nba-trades-giannis-antetokounmpo-anthony-davis-warriors-mavericks/?source=user_shared_article"
-      },
-      {
-        "date": "2025-12-11",
-        "text": "The Bulls, meanwhile, continue to field trade interest in guard Coby White.marcstein.substack.com",
-        "text_html": "<a href=\"https://marcstein.substack.com/p/lots-of-the-nbas-latest-trade-talk\" target=\"_blank\" style=\"color: #1a73e8;\">The Bulls, meanwhile, continue to field trade interest in guard Coby White</a>.",
-        "outlet": "marcstein.substack.com",
-        "source_url": "https://marcstein.substack.com/p/lots-of-the-nbas-latest-trade-talk"
-      },
-      {
-        "date": "2025-12-11",
-        "text": "According to a source, Coby White has been inquired about, and time is of the essence in the Bulls making a decision.The source said that Minnesota is not looking to wait until February and the trade deadline to get a deal done, looking to fix the primary ball-handling situation that\u2019s been an issue all season long for them. White not only does that, but helps them continue to improve on their pace, which has been a priority since last year.Chicago Sun-Times",
-        "text_html": "<a href=\"https://chicago.suntimes.com/bulls/2025/12/11/trade-rumors-grow-around-bulls-coby-white\" target=\"_blank\" style=\"color: #1a73e8;\">According to a source, Coby White has been inquired about, and time is of the essence in the Bulls making a decision.</a> The source said that Minnesota is not looking to wait until February and the trade deadline to get a deal done, looking to fix the primary ball-handling situation that\u2019s been an issue all season long for them. White not only does that, but helps them continue to improve on their pace, which has been a priority since last year.",
-        "outlet": "Chicago Sun-Times",
-        "source_url": "https://chicago.suntimes.com/bulls/2025/12/11/trade-rumors-grow-around-bulls-coby-white"
       }
     ],
     "Kyrie Irving": [
@@ -3188,6 +3174,38 @@
     ]
   },
   "daily_counts": {
+    "Giannis Antetokounmpo": {
+      "2025-12-21": 1,
+      "2025-12-20": 1,
+      "2025-12-18": 8,
+      "2025-12-17": 2,
+      "2025-12-16": 1,
+      "2025-12-15": 2,
+      "2025-12-14": 2,
+      "2025-12-13": 2,
+      "2025-12-12": 2,
+      "2025-12-11": 2,
+      "2025-12-10": 3,
+      "2025-12-09": 4,
+      "2025-12-08": 5,
+      "2025-12-06": 1,
+      "2025-12-05": 1,
+      "2025-12-04": 7,
+      "2025-12-03": 11,
+      "2025-11-26": 1
+    },
+    "Coby White": {
+      "2025-12-21": 1,
+      "2025-12-13": 3,
+      "2025-12-12": 1,
+      "2025-12-11": 2
+    },
+    "James Harden": {
+      "2025-12-21": 1,
+      "2025-12-18": 1,
+      "2025-12-06": 1,
+      "2025-12-05": 1
+    },
     "Jonathan Kuminga": {
       "2025-12-21": 2,
       "2025-12-18": 1,
@@ -3233,25 +3251,6 @@
       "2025-12-08": 1,
       "2025-11-26": 1
     },
-    "Giannis Antetokounmpo": {
-      "2025-12-20": 1,
-      "2025-12-18": 8,
-      "2025-12-17": 2,
-      "2025-12-16": 1,
-      "2025-12-15": 2,
-      "2025-12-14": 2,
-      "2025-12-13": 2,
-      "2025-12-12": 2,
-      "2025-12-11": 2,
-      "2025-12-10": 3,
-      "2025-12-09": 4,
-      "2025-12-08": 5,
-      "2025-12-06": 1,
-      "2025-12-05": 1,
-      "2025-12-04": 7,
-      "2025-12-03": 11,
-      "2025-11-26": 1
-    },
     "Keon Ellis": {
       "2025-12-20": 1,
       "2025-12-19": 1,
@@ -3261,8 +3260,7 @@
       "2025-12-09": 1,
       "2025-12-07": 1,
       "2025-12-01": 1,
-      "2025-11-26": 1,
-      "2025-11-23": 1
+      "2025-11-26": 1
     },
     "Herb Jones": {
       "2025-12-19": 1,
@@ -3286,8 +3284,7 @@
       "2025-11-28": 1,
       "2025-11-27": 1,
       "2025-11-26": 3,
-      "2025-11-24": 1,
-      "2025-11-23": 1
+      "2025-11-24": 1
     },
     "Klay Thompson": {
       "2025-12-18": 2,
@@ -3307,11 +3304,6 @@
     "Evan Mobley": {
       "2025-12-18": 1
     },
-    "James Harden": {
-      "2025-12-18": 1,
-      "2025-12-06": 1,
-      "2025-12-05": 1
-    },
     "DeMar DeRozan": {
       "2025-12-18": 1,
       "2025-12-17": 1,
@@ -3326,12 +3318,10 @@
       "2025-12-15": 1,
       "2025-12-12": 1,
       "2025-12-09": 2,
-      "2025-11-26": 1,
-      "2025-11-23": 1
+      "2025-11-26": 1
     },
     "Keegan Murray": {
-      "2025-12-18": 1,
-      "2025-11-23": 1
+      "2025-12-18": 1
     },
     "Nique Clifford": {
       "2025-12-18": 1
@@ -3370,8 +3360,7 @@
       "2025-12-18": 1,
       "2025-12-11": 1,
       "2025-12-03": 2,
-      "2025-11-24": 2,
-      "2025-11-23": 1
+      "2025-11-24": 2
     },
     "Lauri Markkanen": {
       "2025-12-18": 1,
@@ -3437,11 +3426,6 @@
     },
     "Darius Garland": {
       "2025-12-14": 1
-    },
-    "Coby White": {
-      "2025-12-13": 3,
-      "2025-12-12": 1,
-      "2025-12-11": 2
     },
     "Kyrie Irving": {
       "2025-12-12": 1,
