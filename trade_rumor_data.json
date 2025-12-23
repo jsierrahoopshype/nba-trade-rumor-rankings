@@ -1,58 +1,46 @@
 {
-  "generated_at": "2025-12-22T19:17:50.585550",
+  "generated_at": "2025-12-23T02:54:25.688632",
   "scrape_window_days": 28,
-  "window_start": "2025-11-24",
-  "window_end": "2025-12-22",
-  "total_rumors": 297,
+  "window_start": "2025-11-25",
+  "window_end": "2025-12-23",
+  "total_rumors": 294,
   "total_players": 80,
   "rankings": [
     {
       "player": "Giannis Antetokounmpo",
-      "score": 30.25,
-      "mentions_week1": 15,
-      "mentions_week2": 20,
-      "mentions_weeks3_4": 21,
-      "total_mentions": 56,
+      "score": 29.0,
+      "mentions_week1": 14,
+      "mentions_week2": 17,
+      "mentions_weeks3_4": 26,
+      "total_mentions": 57,
       "first_mention": "2025-11-26",
-      "last_mention": "2025-12-21",
+      "last_mention": "2025-12-22",
       "team": "Milwaukee Bucks",
       "rank": 1
     },
     {
       "player": "Anthony Davis",
-      "score": 16.25,
-      "mentions_week1": 10,
-      "mentions_week2": 8,
-      "mentions_weeks3_4": 9,
-      "total_mentions": 27,
-      "first_mention": "2025-11-24",
+      "score": 14.5,
+      "mentions_week1": 7,
+      "mentions_week2": 11,
+      "mentions_weeks3_4": 8,
+      "total_mentions": 26,
+      "first_mention": "2025-11-26",
       "last_mention": "2025-12-19",
       "team": "Dallas Mavericks",
       "rank": 2
     },
     {
       "player": "Jonathan Kuminga",
-      "score": 9.25,
+      "score": 8.75,
       "mentions_week1": 4,
-      "mentions_week2": 10,
-      "mentions_weeks3_4": 1,
+      "mentions_week2": 8,
+      "mentions_weeks3_4": 3,
       "total_mentions": 15,
       "first_mention": "2025-11-26",
       "last_mention": "2025-12-21",
       "team": "Golden State Warriors",
       "rank": 3
-    },
-    {
-      "player": "Zach LaVine",
-      "score": 6.5,
-      "mentions_week1": 5,
-      "mentions_week2": 2,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 9,
-      "first_mention": "2025-11-26",
-      "last_mention": "2025-12-20",
-      "team": "Sacramento Kings",
-      "rank": 4
     },
     {
       "player": "Daniel Gafford",
@@ -64,7 +52,7 @@
       "first_mention": "2025-12-09",
       "last_mention": "2025-12-20",
       "team": "Dallas Mavericks",
-      "rank": 5
+      "rank": 4
     },
     {
       "player": "Keon Ellis",
@@ -76,13 +64,25 @@
       "first_mention": "2025-11-26",
       "last_mention": "2025-12-20",
       "team": "Sacramento Kings",
+      "rank": 5
+    },
+    {
+      "player": "Zach LaVine",
+      "score": 5.5,
+      "mentions_week1": 3,
+      "mentions_week2": 4,
+      "mentions_weeks3_4": 2,
+      "total_mentions": 9,
+      "first_mention": "2025-11-26",
+      "last_mention": "2025-12-20",
+      "team": "Sacramento Kings",
       "rank": 6
     },
     {
       "player": "Domantas Sabonis",
-      "score": 5.75,
-      "mentions_week1": 4,
-      "mentions_week2": 3,
+      "score": 5.25,
+      "mentions_week1": 3,
+      "mentions_week2": 4,
       "mentions_weeks3_4": 1,
       "total_mentions": 8,
       "first_mention": "2025-11-26",
@@ -103,28 +103,16 @@
       "rank": 8
     },
     {
-      "player": "Terry Rozier",
-      "score": 5.0,
-      "mentions_week1": 2,
-      "mentions_week2": 6,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 8,
-      "first_mention": "2025-12-08",
-      "last_mention": "2025-12-18",
-      "team": "Miami Heat",
-      "rank": 9
-    },
-    {
       "player": "Andrew Wiggins",
-      "score": 4.75,
+      "score": 4.5,
       "mentions_week1": 4,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 2,
       "total_mentions": 6,
       "first_mention": "2025-11-26",
       "last_mention": "2025-12-20",
       "team": "Miami Heat",
-      "rank": 10
+      "rank": 9
     },
     {
       "player": "Klay Thompson",
@@ -136,19 +124,19 @@
       "first_mention": "2025-12-09",
       "last_mention": "2025-12-18",
       "team": "Dallas Mavericks",
-      "rank": 11
+      "rank": 10
     },
     {
-      "player": "Trae Young",
+      "player": "Terry Rozier",
       "score": 4.25,
-      "mentions_week1": 3,
-      "mentions_week2": 1,
+      "mentions_week1": 2,
+      "mentions_week2": 3,
       "mentions_weeks3_4": 3,
-      "total_mentions": 7,
-      "first_mention": "2025-11-24",
-      "last_mention": "2025-12-20",
-      "team": "Atlanta Hawks",
-      "rank": 12
+      "total_mentions": 8,
+      "first_mention": "2025-12-08",
+      "last_mention": "2025-12-18",
+      "team": "Miami Heat",
+      "rank": 11
     },
     {
       "player": "Coby White",
@@ -160,31 +148,31 @@
       "first_mention": "2025-12-11",
       "last_mention": "2025-12-21",
       "team": "Chicago Bulls",
+      "rank": 12
+    },
+    {
+      "player": "Trae Young",
+      "score": 4.0,
+      "mentions_week1": 3,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 2,
+      "total_mentions": 6,
+      "first_mention": "2025-12-03",
+      "last_mention": "2025-12-20",
+      "team": "Atlanta Hawks",
       "rank": 13
     },
     {
       "player": "Ja Morant",
-      "score": 3.75,
+      "score": 3.25,
       "mentions_week1": 1,
-      "mentions_week2": 3,
+      "mentions_week2": 2,
       "mentions_weeks3_4": 5,
-      "total_mentions": 9,
-      "first_mention": "2025-11-24",
+      "total_mentions": 8,
+      "first_mention": "2025-11-26",
       "last_mention": "2025-12-17",
       "team": "Memphis Grizzlies",
       "rank": 14
-    },
-    {
-      "player": "DeMar DeRozan",
-      "score": 3.75,
-      "mentions_week1": 3,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 5,
-      "first_mention": "2025-11-24",
-      "last_mention": "2025-12-18",
-      "team": "Sacramento Kings",
-      "rank": 15
     },
     {
       "player": "D'Angelo Russell",
@@ -196,7 +184,7 @@
       "first_mention": "2025-11-27",
       "last_mention": "2025-12-18",
       "team": "Dallas Mavericks",
-      "rank": 16
+      "rank": 15
     },
     {
       "player": "Nick Richards",
@@ -208,6 +196,18 @@
       "first_mention": "2025-11-26",
       "last_mention": "2025-12-18",
       "team": "Phoenix Suns",
+      "rank": 16
+    },
+    {
+      "player": "DeMar DeRozan",
+      "score": 3.0,
+      "mentions_week1": 2,
+      "mentions_week2": 2,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 4,
+      "first_mention": "2025-12-09",
+      "last_mention": "2025-12-18",
+      "team": "Sacramento Kings",
       "rank": 17
     },
     {
@@ -223,18 +223,6 @@
       "rank": 18
     },
     {
-      "player": "LaMelo Ball",
-      "score": 2.5,
-      "mentions_week1": 1,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 4,
-      "total_mentions": 6,
-      "first_mention": "2025-11-24",
-      "last_mention": "2025-12-18",
-      "team": "Charlotte Hornets",
-      "rank": 19
-    },
-    {
       "player": "Trey Murphy",
       "score": 2.5,
       "mentions_week1": 1,
@@ -244,7 +232,7 @@
       "first_mention": "2025-12-06",
       "last_mention": "2025-12-18",
       "team": "New Orleans Pelicans",
-      "rank": 20
+      "rank": 19
     },
     {
       "player": "James Harden",
@@ -256,7 +244,7 @@
       "first_mention": "2025-12-05",
       "last_mention": "2025-12-21",
       "team": "Los Angeles Clippers",
-      "rank": 21
+      "rank": 20
     },
     {
       "player": "Walker Kessler",
@@ -268,7 +256,7 @@
       "first_mention": "2025-12-09",
       "last_mention": "2025-12-18",
       "team": "Utah Jazz",
-      "rank": 22
+      "rank": 21
     },
     {
       "player": "Lauri Markkanen",
@@ -280,7 +268,31 @@
       "first_mention": "2025-12-01",
       "last_mention": "2025-12-18",
       "team": "Utah Jazz",
+      "rank": 22
+    },
+    {
+      "player": "LaMelo Ball",
+      "score": 2.0,
+      "mentions_week1": 1,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 2,
+      "total_mentions": 4,
+      "first_mention": "2025-12-03",
+      "last_mention": "2025-12-18",
+      "team": "Charlotte Hornets",
       "rank": 23
+    },
+    {
+      "player": "Donovan Mitchell",
+      "score": 2.0,
+      "mentions_week1": 2,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 2,
+      "first_mention": "2025-12-18",
+      "last_mention": "2025-12-22",
+      "team": "Cleveland Cavaliers",
+      "rank": 24
     },
     {
       "player": "Guerschon Yabusele",
@@ -292,19 +304,19 @@
       "first_mention": "2025-12-22",
       "last_mention": "2025-12-22",
       "team": "New York Knicks",
-      "rank": 24
+      "rank": 25
     },
     {
-      "player": "Kyrie Irving",
+      "player": "Darius Garland",
       "score": 1.5,
-      "mentions_week1": 0,
-      "mentions_week2": 2,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 4,
-      "first_mention": "2025-11-27",
-      "last_mention": "2025-12-12",
-      "team": "Dallas Mavericks",
-      "rank": 25
+      "mentions_week1": 1,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 2,
+      "first_mention": "2025-12-14",
+      "last_mention": "2025-12-22",
+      "team": "Cleveland Cavaliers",
+      "rank": 26
     },
     {
       "player": "Michael Porter",
@@ -316,7 +328,7 @@
       "first_mention": "2025-12-12",
       "last_mention": "2025-12-17",
       "team": "Brooklyn Nets",
-      "rank": 26
+      "rank": 27
     },
     {
       "player": "Tyler Herro",
@@ -328,7 +340,19 @@
       "first_mention": "2025-12-12",
       "last_mention": "2025-12-18",
       "team": "Miami Heat",
-      "rank": 27
+      "rank": 28
+    },
+    {
+      "player": "Kyrie Irving",
+      "score": 1.25,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 3,
+      "total_mentions": 4,
+      "first_mention": "2025-11-27",
+      "last_mention": "2025-12-12",
+      "team": "Dallas Mavericks",
+      "rank": 29
     },
     {
       "player": "Brandon Ingram",
@@ -340,7 +364,7 @@
       "first_mention": "2025-11-27",
       "last_mention": "2025-12-18",
       "team": "Toronto Raptors",
-      "rank": 28
+      "rank": 30
     },
     {
       "player": "Devin Booker",
@@ -352,7 +376,7 @@
       "first_mention": "2025-11-27",
       "last_mention": "2025-12-17",
       "team": "Phoenix Suns",
-      "rank": 29
+      "rank": 31
     },
     {
       "player": "Robert Williams",
@@ -364,19 +388,7 @@
       "first_mention": "2025-11-26",
       "last_mention": "2025-12-20",
       "team": "Portland Trail Blazers",
-      "rank": 30
-    },
-    {
-      "player": "Russell Westbrook",
-      "score": 1.25,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 2,
-      "first_mention": "2025-11-27",
-      "last_mention": "2025-12-15",
-      "team": "Sacramento Kings",
-      "rank": 31
+      "rank": 32
     },
     {
       "player": "Tyrese Haliburton",
@@ -388,7 +400,7 @@
       "first_mention": "2025-11-26",
       "last_mention": "2025-12-18",
       "team": "Indiana Pacers",
-      "rank": 32
+      "rank": 33
     },
     {
       "player": "Kevin Porter",
@@ -400,7 +412,7 @@
       "first_mention": "2025-12-04",
       "last_mention": "2025-12-10",
       "team": "Milwaukee Bucks",
-      "rank": 33
+      "rank": 34
     },
     {
       "player": "Chris Paul",
@@ -412,7 +424,7 @@
       "first_mention": "2025-12-09",
       "last_mention": "2025-12-12",
       "team": "Los Angeles Clippers",
-      "rank": 34
+      "rank": 35
     },
     {
       "player": "Austin Reaves",
@@ -424,7 +436,7 @@
       "first_mention": "2025-12-17",
       "last_mention": "2025-12-17",
       "team": "Los Angeles Lakers",
-      "rank": 35
+      "rank": 36
     },
     {
       "player": "Cam Thomas",
@@ -436,18 +448,6 @@
       "first_mention": "2025-12-16",
       "last_mention": "2025-12-16",
       "team": "Brooklyn Nets",
-      "rank": 36
-    },
-    {
-      "player": "De'Aaron Fox",
-      "score": 1.0,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2025-12-15",
-      "last_mention": "2025-12-15",
-      "team": "San Antonio Spurs",
       "rank": 37
     },
     {
@@ -463,7 +463,7 @@
       "rank": 38
     },
     {
-      "player": "Donovan Mitchell",
+      "player": "Evan Mobley",
       "score": 1.0,
       "mentions_week1": 1,
       "mentions_week2": 0,
@@ -475,18 +475,6 @@
       "rank": 39
     },
     {
-      "player": "Evan Mobley",
-      "score": 1.0,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2025-12-18",
-      "last_mention": "2025-12-18",
-      "team": "Cleveland Cavaliers",
-      "rank": 40
-    },
-    {
       "player": "Gary Trent Jr",
       "score": 1.0,
       "mentions_week1": 1,
@@ -496,7 +484,7 @@
       "first_mention": "2025-12-17",
       "last_mention": "2025-12-17",
       "team": "Los Angeles Lakers",
-      "rank": 41
+      "rank": 40
     },
     {
       "player": "Jalen Green",
@@ -508,7 +496,7 @@
       "first_mention": "2025-12-18",
       "last_mention": "2025-12-18",
       "team": "Phoenix Suns",
-      "rank": 42
+      "rank": 41
     },
     {
       "player": "Jerami Grant",
@@ -520,7 +508,7 @@
       "first_mention": "2025-12-16",
       "last_mention": "2025-12-16",
       "team": "Milwaukee Bucks",
-      "rank": 43
+      "rank": 42
     },
     {
       "player": "Jimmy Butler",
@@ -532,7 +520,7 @@
       "first_mention": "2025-12-17",
       "last_mention": "2025-12-17",
       "team": "Golden State Warriors",
-      "rank": 44
+      "rank": 43
     },
     {
       "player": "Keegan Murray",
@@ -544,7 +532,7 @@
       "first_mention": "2025-12-18",
       "last_mention": "2025-12-18",
       "team": "Sacramento Kings",
-      "rank": 45
+      "rank": 44
     },
     {
       "player": "Kristaps Porzingis",
@@ -556,7 +544,7 @@
       "first_mention": "2025-12-18",
       "last_mention": "2025-12-18",
       "team": "Atlanta Hawks",
-      "rank": 46
+      "rank": 45
     },
     {
       "player": "Nique Clifford",
@@ -568,7 +556,7 @@
       "first_mention": "2025-12-18",
       "last_mention": "2025-12-18",
       "team": "Sacramento Kings",
-      "rank": 47
+      "rank": 46
     },
     {
       "player": "Anfernee Simons",
@@ -580,7 +568,7 @@
       "first_mention": "2025-11-26",
       "last_mention": "2025-11-30",
       "team": "Boston Celtics",
-      "rank": 48
+      "rank": 47
     },
     {
       "player": "Dylan Harper",
@@ -592,6 +580,18 @@
       "first_mention": "2025-12-04",
       "last_mention": "2025-12-10",
       "team": "San Antonio Spurs",
+      "rank": 48
+    },
+    {
+      "player": "Russell Westbrook",
+      "score": 0.75,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 2,
+      "first_mention": "2025-11-27",
+      "last_mention": "2025-12-15",
+      "team": "Sacramento Kings",
       "rank": 49
     },
     {
@@ -643,15 +643,15 @@
       "rank": 53
     },
     {
-      "player": "Darius Garland",
+      "player": "De'Aaron Fox",
       "score": 0.5,
       "mentions_week1": 0,
       "mentions_week2": 1,
       "mentions_weeks3_4": 0,
       "total_mentions": 1,
-      "first_mention": "2025-12-14",
-      "last_mention": "2025-12-14",
-      "team": "Cleveland Cavaliers",
+      "first_mention": "2025-12-15",
+      "last_mention": "2025-12-15",
+      "team": "San Antonio Spurs",
       "rank": 54
     },
     {
@@ -751,18 +751,6 @@
       "rank": 62
     },
     {
-      "player": "Kel'el Ware",
-      "score": 0.5,
-      "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2025-12-08",
-      "last_mention": "2025-12-08",
-      "team": "Miami Heat",
-      "rank": 63
-    },
-    {
       "player": "LeBron James",
       "score": 0.5,
       "mentions_week1": 0,
@@ -772,7 +760,7 @@
       "first_mention": "2025-12-09",
       "last_mention": "2025-12-09",
       "team": "Los Angeles Lakers",
-      "rank": 64
+      "rank": 63
     },
     {
       "player": "Luka Doncic",
@@ -784,19 +772,7 @@
       "first_mention": "2025-12-09",
       "last_mention": "2025-12-09",
       "team": "Los Angeles Lakers",
-      "rank": 65
-    },
-    {
-      "player": "Malik Monk",
-      "score": 0.5,
-      "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2025-12-08",
-      "last_mention": "2025-12-08",
-      "team": "Sacramento Kings",
-      "rank": 66
+      "rank": 64
     },
     {
       "player": "Myles Turner",
@@ -808,7 +784,7 @@
       "first_mention": "2025-12-09",
       "last_mention": "2025-12-09",
       "team": "Milwaukee Bucks",
-      "rank": 67
+      "rank": 65
     },
     {
       "player": "Nicolas Claxton",
@@ -820,19 +796,7 @@
       "first_mention": "2025-12-12",
       "last_mention": "2025-12-12",
       "team": "Golden State Warriors",
-      "rank": 68
-    },
-    {
-      "player": "Pelle Larsson",
-      "score": 0.5,
-      "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2025-12-08",
-      "last_mention": "2025-12-08",
-      "team": "Miami Heat",
-      "rank": 69
+      "rank": 66
     },
     {
       "player": "Anthony Edwards",
@@ -844,7 +808,7 @@
       "first_mention": "2025-11-26",
       "last_mention": "2025-11-26",
       "team": "Minnesota Timberwolves",
-      "rank": 70
+      "rank": 67
     },
     {
       "player": "Bobby Portis",
@@ -856,7 +820,7 @@
       "first_mention": "2025-12-04",
       "last_mention": "2025-12-04",
       "team": "Milwaukee Bucks",
-      "rank": 71
+      "rank": 68
     },
     {
       "player": "Buddy Hield",
@@ -868,7 +832,7 @@
       "first_mention": "2025-11-26",
       "last_mention": "2025-11-26",
       "team": "Golden State Warriors",
-      "rank": 72
+      "rank": 69
     },
     {
       "player": "Ivica Zubac",
@@ -880,7 +844,7 @@
       "first_mention": "2025-12-04",
       "last_mention": "2025-12-04",
       "team": "Los Angeles Clippers",
-      "rank": 73
+      "rank": 70
     },
     {
       "player": "Jaden McDaniels",
@@ -892,7 +856,7 @@
       "first_mention": "2025-11-26",
       "last_mention": "2025-11-26",
       "team": "Minnesota Timberwolves",
-      "rank": 74
+      "rank": 71
     },
     {
       "player": "Josh Hart",
@@ -904,7 +868,7 @@
       "first_mention": "2025-11-27",
       "last_mention": "2025-11-27",
       "team": "New York Knicks",
-      "rank": 75
+      "rank": 72
     },
     {
       "player": "Kawhi Leonard",
@@ -916,7 +880,19 @@
       "first_mention": "2025-12-05",
       "last_mention": "2025-12-05",
       "team": "Los Angeles Clippers",
-      "rank": 76
+      "rank": 73
+    },
+    {
+      "player": "Kel'el Ware",
+      "score": 0.25,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 1,
+      "first_mention": "2025-12-08",
+      "last_mention": "2025-12-08",
+      "team": "Miami Heat",
+      "rank": 74
     },
     {
       "player": "Kyle Kuzma",
@@ -928,7 +904,7 @@
       "first_mention": "2025-11-26",
       "last_mention": "2025-11-26",
       "team": "Milwaukee Bucks",
-      "rank": 77
+      "rank": 75
     },
     {
       "player": "Lonzo Ball",
@@ -940,7 +916,19 @@
       "first_mention": "2025-11-26",
       "last_mention": "2025-11-26",
       "team": "Cleveland Cavaliers",
-      "rank": 78
+      "rank": 76
+    },
+    {
+      "player": "Malik Monk",
+      "score": 0.25,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 1,
+      "first_mention": "2025-12-08",
+      "last_mention": "2025-12-08",
+      "team": "Sacramento Kings",
+      "rank": 77
     },
     {
       "player": "Max Christie",
@@ -952,6 +940,18 @@
       "first_mention": "2025-11-28",
       "last_mention": "2025-11-28",
       "team": "Dallas Mavericks",
+      "rank": 78
+    },
+    {
+      "player": "Pelle Larsson",
+      "score": 0.25,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 1,
+      "first_mention": "2025-12-08",
+      "last_mention": "2025-12-08",
+      "team": "Miami Heat",
       "rank": 79
     },
     {
@@ -968,23 +968,46 @@
     }
   ],
   "player_rumors": {
-    "Guerschon Yabusele": [
+    "Donovan Mitchell": [
       {
         "date": "2025-12-22",
-        "text": "The loudest league chatter about the Knicks is that they are open to trading Guerschon Yabusele,the team\u2019s biggest free-agency signing last offseason. He signed a two-year contract that will pay him $5.5 million this season and has a $5.7 million player option for next season. Yabusele hasn\u2019t found his footing with the Knicks after an OK season with a bad Philadelphia 76ers team last season. The 30-year-old has struggled defensively while also shooting below 31 percent from 3 and less than 40 percent from the field overall and averaging under 10 minutes per game for head coach Mike Brown.New York Times",
-        "text_html": "<a href=\"https://www.nytimes.com/athletic/6908462/2025/12/22/knicks-trade-deadline-moves-nba/\" target=\"_blank\" style=\"color: #1a73e8;\">The loudest league chatter about the Knicks is that they are open to trading Guerschon Yabusele,</a> the team\u2019s biggest free-agency signing last offseason. He signed a two-year contract that will pay him $5.5 million this season and has a $5.7 million player option for next season. Yabusele hasn\u2019t found his footing with the Knicks after an OK season with a bad Philadelphia 76ers team last season. The 30-year-old has struggled defensively while also shooting below 31 percent from 3 and less than 40 percent from the field overall and averaging under 10 minutes per game for head coach Mike Brown.",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/6908462/2025/12/22/knicks-trade-deadline-moves-nba/"
+        "text": "Additionally, the intel from some NBA teams is a perception that Garland would like to run his own team again at some point, as opposed to being in a more complementary role next to Mitchell. \u201cDarius is the safest option on the trade market for a team seeking a point guard upgrade,\u201d a source said. \u201cThere are teams who think he can handle more being put on his plate.\u201dDallas Hoops Journal",
+        "text_html": "<a href=\"https://dallashoopsjournal.com/p/nba-rumors-notebook-dallas-mavericks-giannis-antetokounmpo-cleveland-cavaliers-utah-jazz-daniel-gafford-anthony-davis/\" target=\"_blank\" style=\"color: #1a73e8;\">Additionally, the intel from some NBA teams is a perception that Garland would like to run his own team again at some point, as opposed to being in a more complementary role next to Mitchell</a>. \u201cDarius is the safest option on the trade market for a team seeking a point guard upgrade,\u201d a source said. \u201cThere are teams who think he can handle more being put on his plate.\u201d",
+        "outlet": "Dallas Hoops Journal",
+        "source_url": "https://dallashoopsjournal.com/p/nba-rumors-notebook-dallas-mavericks-giannis-antetokounmpo-cleveland-cavaliers-utah-jazz-daniel-gafford-anthony-davis/"
       },
       {
+        "date": "2025-12-18",
+        "text": "Underdog NBA: Shams:Donovan Mitchell, Evan Mobley considered \"untouchable\" in trade talks. Cavs have been getting \"a ton\" of calls on their players.x.com",
+        "text_html": "Underdog NBA: Shams: <a href=\"https://x.com/UnderdogNBA/status/2001748633302036932?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">Donovan Mitchell, Evan Mobley considered \"untouchable\" in trade talks</a>. Cavs have been getting \"a ton\" of calls on their players.",
+        "outlet": "x.com",
+        "source_url": "https://x.com/UnderdogNBA/status/2001748633302036932?s=20"
+      }
+    ],
+    "Darius Garland": [
+      {
         "date": "2025-12-22",
-        "text": "Given New York\u2019s financial situation, it can\u2019t afford to get nothing out of that salary slot. Multipleleague executives believe the Knicks would have to attach something to Yabusele in order to have a chance to move him before the deadline. Other than what New York does or doesn\u2019t do with Yabusele, the franchise has long put out feelers about adding another ballhandlerand/or frontcourt player, per league sources.New York Times",
-        "text_html": "Given New York\u2019s financial situation, it can\u2019t afford to get nothing out of that salary slot. Multiple <a href=\"https://www.nytimes.com/athletic/6908462/2025/12/22/knicks-trade-deadline-moves-nba/\" target=\"_blank\" style=\"color: #1a73e8;\">league executives believe the Knicks would have to attach something to Yabusele in order to have a chance to move him before the deadline. Other than what New York does or doesn\u2019t do with Yabusele, the franchise has long put out feelers about adding another ballhandler</a> and/or frontcourt player, per league sources.",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/6908462/2025/12/22/knicks-trade-deadline-moves-nba/"
+        "text": "Additionally, the intel from some NBA teams is a perception that Garland would like to run his own team again at some point, as opposed to being in a more complementary role next to Mitchell. \u201cDarius is the safest option on the trade market for a team seeking a point guard upgrade,\u201d a source said. \u201cThere are teams who think he can handle more being put on his plate.\u201dDallas Hoops Journal",
+        "text_html": "<a href=\"https://dallashoopsjournal.com/p/nba-rumors-notebook-dallas-mavericks-giannis-antetokounmpo-cleveland-cavaliers-utah-jazz-daniel-gafford-anthony-davis/\" target=\"_blank\" style=\"color: #1a73e8;\">Additionally, the intel from some NBA teams is a perception that Garland would like to run his own team again at some point, as opposed to being in a more complementary role next to Mitchell</a>. \u201cDarius is the safest option on the trade market for a team seeking a point guard upgrade,\u201d a source said. \u201cThere are teams who think he can handle more being put on his plate.\u201d",
+        "outlet": "Dallas Hoops Journal",
+        "source_url": "https://dallashoopsjournal.com/p/nba-rumors-notebook-dallas-mavericks-giannis-antetokounmpo-cleveland-cavaliers-utah-jazz-daniel-gafford-anthony-davis/"
+      },
+      {
+        "date": "2025-12-14",
+        "text": "Michael A. Scotto:There is expected to be significant interest in Darius Garland leading up to the trade deadline, as some teams believe he could be a difference-maker as their primary option,per @MikeAScotto on The YES Network.x.com",
+        "text_html": "Michael A. Scotto: <a href=\"https://x.com/APH00PS/status/2000345603868635171?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">There is expected to be significant interest in Darius Garland leading up to the trade deadline, as some teams believe he could be a difference-maker as their primary option,</a> per @MikeAScotto on The YES Network.",
+        "outlet": "x.com",
+        "source_url": "https://x.com/APH00PS/status/2000345603868635171?s=20"
       }
     ],
     "Giannis Antetokounmpo": [
+      {
+        "date": "2025-12-22",
+        "text": "Around the league, the most viable potential suitors for Antetokounmpo are increasingly viewed as being in the Eastern Conference, sources tell DallasHoopsJournal.com.However, there is growing skepticism among rival teams that the New York Knicks would be willing to break up their roster midseason to pursue a trade.Dallas Hoops Journal",
+        "text_html": "Around the league, the most viable potential suitors for Antetokounmpo are increasingly viewed as being in the Eastern Conference, sources tell DallasHoopsJournal.com. <a href=\"https://dallashoopsjournal.com/p/nba-rumors-notebook-dallas-mavericks-giannis-antetokounmpo-cleveland-cavaliers-utah-jazz-daniel-gafford-anthony-davis/\" target=\"_blank\" style=\"color: #1a73e8;\">However, there is growing skepticism among rival teams that the New York Knicks would be willing to break up their roster midseason to pursue a trade</a>.",
+        "outlet": "Dallas Hoops Journal",
+        "source_url": "https://dallashoopsjournal.com/p/nba-rumors-notebook-dallas-mavericks-giannis-antetokounmpo-cleveland-cavaliers-utah-jazz-daniel-gafford-anthony-davis/"
+      },
       {
         "date": "2025-12-21",
         "text": "As I reported last Sunday, No matter how many times Giannis Antetokounmpo or Doc Rivers or anyone else associated with the Bucks attempts to convince the basketball public that there are no active trade discussions involving the two-time MVP, you still routinely hear a team or two (or three) out there express the belief that they expect that status to change in January. Will it actually change?The Bucks say no. And they are now countering that noise by telling teams that inquire about The Greek Freak that they want to add to the current roster despite their limited trade assets.It's Milwaukee's latest attempt to try to convince Antetokounmpo, who recently turned 31 in his 13th NBA season, that he can continue to compete for championships if he stays in Brewtown.marcstein.substack.com",
@@ -1371,6 +1394,22 @@
         "source_url": "https://www.hoopshype.com/story/sports/nba/2025/11/26/title-nba-intel-ja-morant-timberwolves-kings-celtics/87477567007/"
       }
     ],
+    "Guerschon Yabusele": [
+      {
+        "date": "2025-12-22",
+        "text": "The loudest league chatter about the Knicks is that they are open to trading Guerschon Yabusele,the team\u2019s biggest free-agency signing last offseason. He signed a two-year contract that will pay him $5.5 million this season and has a $5.7 million player option for next season. Yabusele hasn\u2019t found his footing with the Knicks after an OK season with a bad Philadelphia 76ers team last season. The 30-year-old has struggled defensively while also shooting below 31 percent from 3 and less than 40 percent from the field overall and averaging under 10 minutes per game for head coach Mike Brown.New York Times",
+        "text_html": "<a href=\"https://www.nytimes.com/athletic/6908462/2025/12/22/knicks-trade-deadline-moves-nba/\" target=\"_blank\" style=\"color: #1a73e8;\">The loudest league chatter about the Knicks is that they are open to trading Guerschon Yabusele,</a> the team\u2019s biggest free-agency signing last offseason. He signed a two-year contract that will pay him $5.5 million this season and has a $5.7 million player option for next season. Yabusele hasn\u2019t found his footing with the Knicks after an OK season with a bad Philadelphia 76ers team last season. The 30-year-old has struggled defensively while also shooting below 31 percent from 3 and less than 40 percent from the field overall and averaging under 10 minutes per game for head coach Mike Brown.",
+        "outlet": "New York Times",
+        "source_url": "https://www.nytimes.com/athletic/6908462/2025/12/22/knicks-trade-deadline-moves-nba/"
+      },
+      {
+        "date": "2025-12-22",
+        "text": "Given New York\u2019s financial situation, it can\u2019t afford to get nothing out of that salary slot. Multipleleague executives believe the Knicks would have to attach something to Yabusele in order to have a chance to move him before the deadline. Other than what New York does or doesn\u2019t do with Yabusele, the franchise has long put out feelers about adding another ballhandlerand/or frontcourt player, per league sources.New York Times",
+        "text_html": "Given New York\u2019s financial situation, it can\u2019t afford to get nothing out of that salary slot. Multiple <a href=\"https://www.nytimes.com/athletic/6908462/2025/12/22/knicks-trade-deadline-moves-nba/\" target=\"_blank\" style=\"color: #1a73e8;\">league executives believe the Knicks would have to attach something to Yabusele in order to have a chance to move him before the deadline. Other than what New York does or doesn\u2019t do with Yabusele, the franchise has long put out feelers about adding another ballhandler</a> and/or frontcourt player, per league sources.",
+        "outlet": "New York Times",
+        "source_url": "https://www.nytimes.com/athletic/6908462/2025/12/22/knicks-trade-deadline-moves-nba/"
+      }
+    ],
     "Coby White": [
       {
         "date": "2025-12-21",
@@ -1675,13 +1714,6 @@
         "text_html": "In other words, the Hawks with Young in the lineup would rank dead last in the league in defensive efficiency. <a href=\"https://www.espn.com/nba/story/_/id/47179857/ja-morant-lamelo-ball-trae-young-three-all-star-guards-limbo\" target=\"_blank\" style=\"color: #1a73e8;\">Without him, the Hawks have defended at a top-five level. \"He's just small and doesn't play any defense,\" an East scout said</a>. That scout valued Young more than Morant and Ball, primarily because of his offensive prowess and lack of off-court concerns. Several people mentioned the long-running perception that he's unpopular with teammates as worrisome, especially considering that Young creates so many dunks and open looks with his passing prowess.",
         "outlet": "ESPN",
         "source_url": "https://www.espn.com/nba/story/_/id/47179857/ja-morant-lamelo-ball-trae-young-three-all-star-guards-limbo"
-      },
-      {
-        "date": "2025-11-24",
-        "text": "Marc Stein: \u201cWhat I think is really happening here, in the grand scheme \u2014 and I already mentioned Ja Morant in Memphis \u2014 is that Trae Young is now in a similar position. He\u2019s out in Atlanta, and the Hawks have been winning some games without him. Remember, this summer the two sides could have engaged in contract extension talks, but they didn\u2019t. The Hawks made it clear to Trae Young\u2019s camp that they weren\u2019t interested in an extension before the season. They wanted this season to play out.Around the league, these three guards \u2014 LaMelo Ball, Ja Morant, and Trae Young \u2014 are being grouped together in the eyes of a lot of executives. Maybe they aren\u2019t available right now, as we speak but these are players teams are anticipating could be available between now and the trade deadline on February 5th. And again, all three of these guys have been All-Stars.YouTube",
-        "text_html": "Marc Stein: \u201cWhat I think is really happening here, in the grand scheme \u2014 and I already mentioned Ja Morant in Memphis \u2014 is that Trae Young is now in a similar position. He\u2019s out in Atlanta, and the Hawks have been winning some games without him. Remember, this summer the two sides could have engaged in contract extension talks, but they didn\u2019t. The Hawks made it clear to Trae Young\u2019s camp that they weren\u2019t interested in an extension before the season. They wanted this season to play out. <a href=\"https://www.youtube.com/live/FLwniS558nA\" target=\"_blank\" style=\"color: #1a73e8;\">Around the league, these three guards \u2014 LaMelo Ball, Ja Morant, and Trae Young \u2014 are being grouped together in the eyes of a lot of executives. Maybe they aren\u2019t available right now, as we speak but these are players teams are anticipating could be available between now and the trade deadline on February 5th. And again, all three of these guys have been All-Stars</a>.",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/live/FLwniS558nA"
       }
     ],
     "Zach LaVine": [
@@ -2098,13 +2130,6 @@
         "text_html": "<a href=\"https://marcstein.substack.com/p/talking-zone-defense-nba-big-men\" target=\"_blank\" style=\"color: #1a73e8;\">There is an expectation in some corners, you see, that Anthony Davis and his representation at Klutch Sports will seek a contract extension from a new team if he indeed gets dealt</a>.",
         "outlet": "marcstein.substack.com",
         "source_url": "https://marcstein.substack.com/p/talking-zone-defense-nba-big-men"
-      },
-      {
-        "date": "2025-11-24",
-        "text": "The Dallas Mavericks are reportedly facing a conundrum when it comes to potentially trading star big man Anthony Davis. During Monday's episode of The Hoop Collective, ESPN's Tim Bontemps explained that Davis' trade value isn't as high as many would expect for a player of his caliber. \"The idea of trading Anthony Davis has everyone trained to think, well, they're gonna get three firsts, two swaps, they're gonna get two young players and they're gonna get all this stuff,\" Bontemps said around the 33:00 mark.\"I shouldn't say it's not gonna happen... but, you talk to people in the league, there's not a lot of teams that are lining up to take on a 35-year-old Anthony Davis making $63 million, and you have to assume that he's gonna opt into that deal.\"Bleacher Report",
-        "text_html": "The Dallas Mavericks are reportedly facing a conundrum when it comes to potentially trading star big man Anthony Davis. During Monday's episode of The Hoop Collective, ESPN's Tim Bontemps explained that Davis' trade value isn't as high as many would expect for a player of his caliber. \"The idea of trading Anthony Davis has everyone trained to think, well, they're gonna get three firsts, two swaps, they're gonna get two young players and they're gonna get all this stuff,\" Bontemps said around the 33:00 mark. <a href=\"https://bleacherreport.com/articles/25304382-what-anthony-davis-trade-value-nba-insiders-shocking-revelation-amid-mavs-rumors\" target=\"_blank\" style=\"color: #1a73e8;\">\"I shouldn't say it's not gonna happen... but, you talk to people in the league, there's not a lot of teams that are lining up to take on a 35-year-old Anthony Davis making $63 million, and you have to assume that he's gonna opt into that deal.\"</a>",
-        "outlet": "Bleacher Report",
-        "source_url": "https://bleacherreport.com/articles/25304382-what-anthony-davis-trade-value-nba-insiders-shocking-revelation-amid-mavs-rumors"
       }
     ],
     "Klay Thompson": [
@@ -2188,15 +2213,6 @@
         "source_url": "https://www.hoopshype.com/story/sports/nba/2025/11/27/yaron-weitzman-qa-i-think-laker-fans-would-have-expected-more-than-one-title-with-lebron-james/87473819007/"
       }
     ],
-    "Donovan Mitchell": [
-      {
-        "date": "2025-12-18",
-        "text": "Underdog NBA: Shams:Donovan Mitchell, Evan Mobley considered \"untouchable\" in trade talks. Cavs have been getting \"a ton\" of calls on their players.x.com",
-        "text_html": "Underdog NBA: Shams: <a href=\"https://x.com/UnderdogNBA/status/2001748633302036932?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">Donovan Mitchell, Evan Mobley considered \"untouchable\" in trade talks</a>. Cavs have been getting \"a ton\" of calls on their players.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/UnderdogNBA/status/2001748633302036932?s=20"
-      }
-    ],
     "Evan Mobley": [
       {
         "date": "2025-12-18",
@@ -2234,13 +2250,6 @@
         "text_html": "The Kings and first-year general manager Scott Perry are using this season as a patient evaluation campaign, trying to build a gritty culture. <a href=\"https://www.espn.com/nba/story/_/id/47245704/shams-pass-nba-trade-deadline-notes-news-buzz-anthony-davis-giannis-antetokounmpo-teams\" target=\"_blank\" style=\"color: #1a73e8;\">They are open-minded about trade talks throughout the roster, sources said.</a> Teams are monitoring veterans Domantas Sabonis, Zach LaVine and DeMar DeRozan, along with 25-year-old guard Keon Ellis.",
         "outlet": "ESPN",
         "source_url": "https://www.espn.com/nba/story/_/id/47245704/shams-pass-nba-trade-deadline-notes-news-buzz-anthony-davis-giannis-antetokounmpo-teams"
-      },
-      {
-        "date": "2025-11-24",
-        "text": "DeMar DeRozan, the 36-year-old who league sources say has some interest from the LA Clippers,has a partial guarantee on his deal for next season (approximately $10 million of his $25.7 million). Malik Monk, who was part of the Jonathan Kuminga trade talks with Golden State in the summer that are likely to be revisited, has a combined $41.7 million on his deal in the next two seasons (including a 2027-28 player option). The list goes on from there, with fourth-year guard Keon Ellis ($2.3 million expiring deal) widely seen as one of the most coveted Kings players among rival teams.New York Times",
-        "text_html": "<a href=\"https://www.nytimes.com/athletic/6832410/2025/11/24/scott-perry-sacramento-kings-building-future/\" target=\"_blank\" style=\"color: #1a73e8;\">DeMar DeRozan, the 36-year-old who league sources say has some interest from the LA Clippers,</a> has a partial guarantee on his deal for next season (approximately $10 million of his $25.7 million). Malik Monk, who was part of the Jonathan Kuminga trade talks with Golden State in the summer that are likely to be revisited, has a combined $41.7 million on his deal in the next two seasons (including a 2027-28 player option). The list goes on from there, with fourth-year guard Keon Ellis ($2.3 million expiring deal) widely seen as one of the most coveted Kings players among rival teams.",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/6832410/2025/11/24/scott-perry-sacramento-kings-building-future/"
       }
     ],
     "Domantas Sabonis": [
@@ -2522,20 +2531,6 @@
         "text_html": "Coaches, scouts and executives often roll their eyes when discussing Ball's tendency to launch long 3-pointers off one foot early in the shot clock. Ball's bad shot selection is a significant factor in his career-worst percentages (37.9% from the floor, 28.1% on 3s) this season. <a href=\"https://www.espn.com/nba/story/_/id/47179857/ja-morant-lamelo-ball-trae-young-three-all-star-guards-limbo\" target=\"_blank\" style=\"color: #1a73e8;\">\"He's definitely one of the top three most talented guards in the league,\" a West executive said. \"But every [scouting] report I write on him has the word 'Globetrotter' in it.\"</a> Added a West scout: \"They all have their warts, but I don't think you can win anything with LaMelo.\"",
         "outlet": "ESPN",
         "source_url": "https://www.espn.com/nba/story/_/id/47179857/ja-morant-lamelo-ball-trae-young-three-all-star-guards-limbo"
-      },
-      {
-        "date": "2025-11-24",
-        "text": "Marc Stein: \u201cWhat I think is really happening here, in the grand scheme \u2014 and I already mentioned Ja Morant in Memphis \u2014 is that Trae Young is now in a similar position. He\u2019s out in Atlanta, and the Hawks have been winning some games without him. Remember, this summer the two sides could have engaged in contract extension talks, but they didn\u2019t. The Hawks made it clear to Trae Young\u2019s camp that they weren\u2019t interested in an extension before the season. They wanted this season to play out.Around the league, these three guards \u2014 LaMelo Ball, Ja Morant, and Trae Young \u2014 are being grouped together in the eyes of a lot of executives. Maybe they aren\u2019t available right now, as we speak but these are players teams are anticipating could be available between now and the trade deadline on February 5th. And again, all three of these guys have been All-Stars.YouTube",
-        "text_html": "Marc Stein: \u201cWhat I think is really happening here, in the grand scheme \u2014 and I already mentioned Ja Morant in Memphis \u2014 is that Trae Young is now in a similar position. He\u2019s out in Atlanta, and the Hawks have been winning some games without him. Remember, this summer the two sides could have engaged in contract extension talks, but they didn\u2019t. The Hawks made it clear to Trae Young\u2019s camp that they weren\u2019t interested in an extension before the season. They wanted this season to play out. <a href=\"https://www.youtube.com/live/FLwniS558nA\" target=\"_blank\" style=\"color: #1a73e8;\">Around the league, these three guards \u2014 LaMelo Ball, Ja Morant, and Trae Young \u2014 are being grouped together in the eyes of a lot of executives. Maybe they aren\u2019t available right now, as we speak but these are players teams are anticipating could be available between now and the trade deadline on February 5th. And again, all three of these guys have been All-Stars</a>.",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/live/FLwniS558nA"
-      },
-      {
-        "date": "2025-11-24",
-        "text": "Marc Stein: The reality is, there\u2019s chatter out there \u2014 a lot of curiosity, most of it coming from rival front offices. Are the Hornets going to be open to fielding trade pitches for LaMelo Ball?To this point \u2014 and this will sound a lot like the Ja Morant situation in Memphis \u2014 the messaging is that the Hornets don\u2019t want to field those pitches. They don\u2019t want to trade him. There was a report this week from my pal in Houston, Kelly Iko, writing for Yahoo Sports. Kelly wrote that Ball is open to a trade, and that the Hornets are disillusioned with him on various levels. Both parties have come out and publicly denied that \u2014 insisting it\u2019s not the case. Again, we haven\u2019t even gotten to Thanksgiving. Trade season doesn\u2019t officially start until December 15th. As of where we are right now, the Hornets insist they\u2019re not gauging Ball\u2019s trade value.\u201dYouTube",
-        "text_html": "Marc Stein: The reality is, there\u2019s chatter out there \u2014 a lot of curiosity, most of it coming from rival front offices. Are the Hornets going to be open to fielding trade pitches for LaMelo Ball? <a href=\"https://www.youtube.com/live/FLwniS558nA\" target=\"_blank\" style=\"color: #1a73e8;\">To this point \u2014 and this will sound a lot like the Ja Morant situation in Memphis \u2014 the messaging is that the Hornets don\u2019t want to field those pitches. They don\u2019t want to trade him</a>. There was a report this week from my pal in Houston, Kelly Iko, writing for Yahoo Sports. Kelly wrote that Ball is open to a trade, and that the Hornets are disillusioned with him on various levels. Both parties have come out and publicly denied that \u2014 insisting it\u2019s not the case. Again, we haven\u2019t even gotten to Thanksgiving. Trade season doesn\u2019t officially start until December 15th. As of where we are right now, the Hornets insist they\u2019re not gauging Ball\u2019s trade value.\u201d",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/live/FLwniS558nA"
       }
     ],
     "Lauri Markkanen": [
@@ -2745,13 +2740,6 @@
         "text_html": "Following an argument with Grizzlies head coach Tuomas Iisalo and a one-game suspension for conduct detrimental to the team, rival NBA executives circled like vultures conducting due diligence to see if the Ja Morant era in Memphis was nearing an end. <a href=\"https://www.hoopshype.com/story/sports/nba/2025/11/26/title-nba-intel-ja-morant-timberwolves-kings-celtics/87477567007/\" target=\"_blank\" style=\"color: #1a73e8;\">However, Grizzlies executive Zach Kleiman declined trade inquiries on Morant then and has since, for the time being, league sources told HoopsHype.</a>",
         "outlet": "HoopsHype",
         "source_url": "https://www.hoopshype.com/story/sports/nba/2025/11/26/title-nba-intel-ja-morant-timberwolves-kings-celtics/87477567007/"
-      },
-      {
-        "date": "2025-11-24",
-        "text": "Marc Stein: \u201cWhat I think is really happening here, in the grand scheme \u2014 and I already mentioned Ja Morant in Memphis \u2014 is that Trae Young is now in a similar position. He\u2019s out in Atlanta, and the Hawks have been winning some games without him. Remember, this summer the two sides could have engaged in contract extension talks, but they didn\u2019t. The Hawks made it clear to Trae Young\u2019s camp that they weren\u2019t interested in an extension before the season. They wanted this season to play out.Around the league, these three guards \u2014 LaMelo Ball, Ja Morant, and Trae Young \u2014 are being grouped together in the eyes of a lot of executives. Maybe they aren\u2019t available right now, as we speak but these are players teams are anticipating could be available between now and the trade deadline on February 5th. And again, all three of these guys have been All-Stars.YouTube",
-        "text_html": "Marc Stein: \u201cWhat I think is really happening here, in the grand scheme \u2014 and I already mentioned Ja Morant in Memphis \u2014 is that Trae Young is now in a similar position. He\u2019s out in Atlanta, and the Hawks have been winning some games without him. Remember, this summer the two sides could have engaged in contract extension talks, but they didn\u2019t. The Hawks made it clear to Trae Young\u2019s camp that they weren\u2019t interested in an extension before the season. They wanted this season to play out. <a href=\"https://www.youtube.com/live/FLwniS558nA\" target=\"_blank\" style=\"color: #1a73e8;\">Around the league, these three guards \u2014 LaMelo Ball, Ja Morant, and Trae Young \u2014 are being grouped together in the eyes of a lot of executives. Maybe they aren\u2019t available right now, as we speak but these are players teams are anticipating could be available between now and the trade deadline on February 5th. And again, all three of these guys have been All-Stars</a>.",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/live/FLwniS558nA"
       }
     ],
     "Jerami Grant": [
@@ -2804,15 +2792,6 @@
         "text_html": "The Kings are struggling with the likes of Murray and veterans Domantas Sabonis, Zach LaVine, DeMar DeRozan and Russell Westbrook on their roster. Sources told Andscape that there is a disconnect between some veteran Kings players and Christie and his coaching staff. <a href=\"https://andscape.com/features/for-deaaron-fox-the-grass-is-greener-with-the-san-antonio-spurs/\" target=\"_blank\" style=\"color: #1a73e8;\">Sacramento is expected to explore making trades of its veteran players, a source told Andscape</a>.",
         "outlet": "Andscape",
         "source_url": "https://andscape.com/features/for-deaaron-fox-the-grass-is-greener-with-the-san-antonio-spurs/"
-      }
-    ],
-    "Darius Garland": [
-      {
-        "date": "2025-12-14",
-        "text": "Michael A. Scotto:There is expected to be significant interest in Darius Garland leading up to the trade deadline, as some teams believe he could be a difference-maker as their primary option,per @MikeAScotto on The YES Network.x.com",
-        "text_html": "Michael A. Scotto: <a href=\"https://x.com/APH00PS/status/2000345603868635171?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">There is expected to be significant interest in Darius Garland leading up to the trade deadline, as some teams believe he could be a difference-maker as their primary option,</a> per @MikeAScotto on The YES Network.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/APH00PS/status/2000345603868635171?s=20"
       }
     ],
     "Kyrie Irving": [
@@ -3202,10 +3181,16 @@
     ]
   },
   "daily_counts": {
-    "Guerschon Yabusele": {
-      "2025-12-22": 2
+    "Donovan Mitchell": {
+      "2025-12-22": 1,
+      "2025-12-18": 1
+    },
+    "Darius Garland": {
+      "2025-12-22": 1,
+      "2025-12-14": 1
     },
     "Giannis Antetokounmpo": {
+      "2025-12-22": 1,
       "2025-12-21": 1,
       "2025-12-20": 1,
       "2025-12-18": 8,
@@ -3224,6 +3209,9 @@
       "2025-12-04": 7,
       "2025-12-03": 11,
       "2025-11-26": 1
+    },
+    "Guerschon Yabusele": {
+      "2025-12-22": 2
     },
     "Coby White": {
       "2025-12-21": 1,
@@ -3262,8 +3250,7 @@
       "2025-12-19": 1,
       "2025-12-18": 1,
       "2025-12-12": 1,
-      "2025-12-03": 2,
-      "2025-11-24": 1
+      "2025-12-03": 2
     },
     "Zach LaVine": {
       "2025-12-20": 1,
@@ -3314,8 +3301,7 @@
       "2025-12-01": 1,
       "2025-11-28": 1,
       "2025-11-27": 1,
-      "2025-11-26": 3,
-      "2025-11-24": 1
+      "2025-11-26": 3
     },
     "Klay Thompson": {
       "2025-12-18": 2,
@@ -3329,9 +3315,6 @@
       "2025-12-09": 2,
       "2025-11-27": 1
     },
-    "Donovan Mitchell": {
-      "2025-12-18": 1
-    },
     "Evan Mobley": {
       "2025-12-18": 1
     },
@@ -3339,8 +3322,7 @@
       "2025-12-18": 1,
       "2025-12-17": 1,
       "2025-12-15": 1,
-      "2025-12-09": 1,
-      "2025-11-24": 1
+      "2025-12-09": 1
     },
     "Domantas Sabonis": {
       "2025-12-18": 1,
@@ -3390,8 +3372,7 @@
     "LaMelo Ball": {
       "2025-12-18": 1,
       "2025-12-11": 1,
-      "2025-12-03": 2,
-      "2025-11-24": 2
+      "2025-12-03": 2
     },
     "Lauri Markkanen": {
       "2025-12-18": 1,
@@ -3436,8 +3417,7 @@
       "2025-12-08": 1,
       "2025-12-03": 2,
       "2025-12-02": 1,
-      "2025-11-26": 1,
-      "2025-11-24": 1
+      "2025-11-26": 1
     },
     "Jerami Grant": {
       "2025-12-16": 1
@@ -3454,9 +3434,6 @@
     },
     "De'Aaron Fox": {
       "2025-12-15": 1
-    },
-    "Darius Garland": {
-      "2025-12-14": 1
     },
     "Kyrie Irving": {
       "2025-12-12": 1,
