@@ -1,17 +1,17 @@
 {
-  "generated_at": "2025-12-29T19:17:01.174829",
+  "generated_at": "2025-12-30T02:55:41.963425",
   "scrape_window_days": 28,
-  "window_start": "2025-12-01",
-  "window_end": "2025-12-29",
-  "total_rumors": 302,
+  "window_start": "2025-12-02",
+  "window_end": "2025-12-30",
+  "total_rumors": 298,
   "total_players": 80,
   "rankings": [
     {
       "player": "Giannis Antetokounmpo",
-      "score": 23.5,
-      "mentions_week1": 6,
-      "mentions_week2": 15,
-      "mentions_weeks3_4": 40,
+      "score": 22.5,
+      "mentions_week1": 5,
+      "mentions_week2": 14,
+      "mentions_weeks3_4": 42,
       "total_mentions": 61,
       "first_mention": "2025-12-03",
       "last_mention": "2025-12-29",
@@ -20,12 +20,12 @@
     },
     {
       "player": "Anthony Davis",
-      "score": 16.75,
+      "score": 15.75,
       "mentions_week1": 9,
-      "mentions_week2": 10,
-      "mentions_weeks3_4": 11,
-      "total_mentions": 30,
-      "first_mention": "2025-12-01",
+      "mentions_week2": 7,
+      "mentions_weeks3_4": 13,
+      "total_mentions": 29,
+      "first_mention": "2025-12-05",
       "last_mention": "2025-12-29",
       "team": "Dallas Mavericks",
       "rank": 2
@@ -67,30 +67,6 @@
       "rank": 5
     },
     {
-      "player": "Zach LaVine",
-      "score": 3.25,
-      "mentions_week1": 0,
-      "mentions_week2": 5,
-      "mentions_weeks3_4": 3,
-      "total_mentions": 8,
-      "first_mention": "2025-12-01",
-      "last_mention": "2025-12-20",
-      "team": "Sacramento Kings",
-      "rank": 6
-    },
-    {
-      "player": "Darius Garland",
-      "score": 3.25,
-      "mentions_week1": 3,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 4,
-      "first_mention": "2025-12-14",
-      "last_mention": "2025-12-27",
-      "team": "Cleveland Cavaliers",
-      "rank": 7
-    },
-    {
       "player": "Malik Monk",
       "score": 3.25,
       "mentions_week1": 3,
@@ -100,7 +76,7 @@
       "first_mention": "2025-12-08",
       "last_mention": "2025-12-24",
       "team": "Sacramento Kings",
-      "rank": 8
+      "rank": 6
     },
     {
       "player": "Daniel Gafford",
@@ -112,19 +88,7 @@
       "first_mention": "2025-12-09",
       "last_mention": "2025-12-20",
       "team": "Dallas Mavericks",
-      "rank": 9
-    },
-    {
-      "player": "Keon Ellis",
-      "score": 3.0,
-      "mentions_week1": 0,
-      "mentions_week2": 4,
-      "mentions_weeks3_4": 4,
-      "total_mentions": 8,
-      "first_mention": "2025-12-01",
-      "last_mention": "2025-12-20",
-      "team": "Sacramento Kings",
-      "rank": 10
+      "rank": 7
     },
     {
       "player": "Herb Jones",
@@ -136,19 +100,31 @@
       "first_mention": "2025-12-06",
       "last_mention": "2025-12-19",
       "team": "New Orleans Pelicans",
-      "rank": 11
+      "rank": 8
     },
     {
-      "player": "Domantas Sabonis",
+      "player": "Keon Ellis",
       "score": 2.75,
       "mentions_week1": 0,
       "mentions_week2": 4,
       "mentions_weeks3_4": 3,
       "total_mentions": 7,
-      "first_mention": "2025-12-09",
-      "last_mention": "2025-12-18",
+      "first_mention": "2025-12-07",
+      "last_mention": "2025-12-20",
       "team": "Sacramento Kings",
-      "rank": 12
+      "rank": 9
+    },
+    {
+      "player": "Darius Garland",
+      "score": 2.75,
+      "mentions_week1": 2,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 4,
+      "first_mention": "2025-12-14",
+      "last_mention": "2025-12-27",
+      "team": "Cleveland Cavaliers",
+      "rank": 10
     },
     {
       "player": "Terry Rozier",
@@ -160,19 +136,31 @@
       "first_mention": "2025-12-08",
       "last_mention": "2025-12-18",
       "team": "Miami Heat",
-      "rank": 13
+      "rank": 11
     },
     {
-      "player": "Donovan Mitchell",
+      "player": "Domantas Sabonis",
       "score": 2.5,
-      "mentions_week1": 2,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 3,
-      "first_mention": "2025-12-18",
-      "last_mention": "2025-12-27",
-      "team": "Cleveland Cavaliers",
-      "rank": 14
+      "mentions_week1": 0,
+      "mentions_week2": 3,
+      "mentions_weeks3_4": 4,
+      "total_mentions": 7,
+      "first_mention": "2025-12-09",
+      "last_mention": "2025-12-18",
+      "team": "Sacramento Kings",
+      "rank": 12
+    },
+    {
+      "player": "Zach LaVine",
+      "score": 2.5,
+      "mentions_week1": 0,
+      "mentions_week2": 3,
+      "mentions_weeks3_4": 4,
+      "total_mentions": 7,
+      "first_mention": "2025-12-09",
+      "last_mention": "2025-12-20",
+      "team": "Sacramento Kings",
+      "rank": 13
     },
     {
       "player": "Klay Thompson",
@@ -184,7 +172,7 @@
       "first_mention": "2025-12-09",
       "last_mention": "2025-12-18",
       "team": "Dallas Mavericks",
-      "rank": 15
+      "rank": 14
     },
     {
       "player": "Andrew Wiggins",
@@ -196,7 +184,7 @@
       "first_mention": "2025-12-08",
       "last_mention": "2025-12-20",
       "team": "Miami Heat",
-      "rank": 16
+      "rank": 15
     },
     {
       "player": "Coby White",
@@ -208,7 +196,7 @@
       "first_mention": "2025-12-11",
       "last_mention": "2025-12-21",
       "team": "Chicago Bulls",
-      "rank": 17
+      "rank": 16
     },
     {
       "player": "Ja Morant",
@@ -220,19 +208,19 @@
       "first_mention": "2025-12-02",
       "last_mention": "2025-12-17",
       "team": "Memphis Grizzlies",
-      "rank": 18
+      "rank": 17
     },
     {
-      "player": "Guerschon Yabusele",
+      "player": "Donovan Mitchell",
       "score": 2.0,
-      "mentions_week1": 2,
-      "mentions_week2": 0,
+      "mentions_week1": 1,
+      "mentions_week2": 2,
       "mentions_weeks3_4": 0,
-      "total_mentions": 2,
-      "first_mention": "2025-12-22",
-      "last_mention": "2025-12-22",
-      "team": "New York Knicks",
-      "rank": 19
+      "total_mentions": 3,
+      "first_mention": "2025-12-18",
+      "last_mention": "2025-12-27",
+      "team": "Cleveland Cavaliers",
+      "rank": 18
     },
     {
       "player": "Jarrett Allen",
@@ -244,7 +232,7 @@
       "first_mention": "2025-12-23",
       "last_mention": "2025-12-27",
       "team": "Cleveland Cavaliers",
-      "rank": 20
+      "rank": 19
     },
     {
       "player": "Zaccharie Risacher",
@@ -256,19 +244,7 @@
       "first_mention": "2025-12-27",
       "last_mention": "2025-12-28",
       "team": "Atlanta Hawks",
-      "rank": 21
-    },
-    {
-      "player": "DeMar DeRozan",
-      "score": 1.75,
-      "mentions_week1": 0,
-      "mentions_week2": 3,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 4,
-      "first_mention": "2025-12-09",
-      "last_mention": "2025-12-18",
-      "team": "Sacramento Kings",
-      "rank": 22
+      "rank": 20
     },
     {
       "player": "Michael Porter",
@@ -280,7 +256,7 @@
       "first_mention": "2025-12-12",
       "last_mention": "2025-12-28",
       "team": "Brooklyn Nets",
-      "rank": 23
+      "rank": 21
     },
     {
       "player": "Trey Murphy",
@@ -292,7 +268,7 @@
       "first_mention": "2025-12-06",
       "last_mention": "2025-12-18",
       "team": "New Orleans Pelicans",
-      "rank": 24
+      "rank": 22
     },
     {
       "player": "D'Angelo Russell",
@@ -304,7 +280,19 @@
       "first_mention": "2025-12-09",
       "last_mention": "2025-12-18",
       "team": "Dallas Mavericks",
-      "rank": 25
+      "rank": 23
+    },
+    {
+      "player": "DeMar DeRozan",
+      "score": 1.5,
+      "mentions_week1": 0,
+      "mentions_week2": 2,
+      "mentions_weeks3_4": 2,
+      "total_mentions": 4,
+      "first_mention": "2025-12-09",
+      "last_mention": "2025-12-18",
+      "team": "Sacramento Kings",
+      "rank": 24
     },
     {
       "player": "Stephon Castle",
@@ -316,7 +304,7 @@
       "first_mention": "2025-12-04",
       "last_mention": "2025-12-18",
       "team": "San Antonio Spurs",
-      "rank": 26
+      "rank": 25
     },
     {
       "player": "Nick Richards",
@@ -328,7 +316,7 @@
       "first_mention": "2025-12-18",
       "last_mention": "2025-12-18",
       "team": "Phoenix Suns",
-      "rank": 27
+      "rank": 26
     },
     {
       "player": "Evan Mobley",
@@ -340,7 +328,7 @@
       "first_mention": "2025-12-18",
       "last_mention": "2025-12-27",
       "team": "Cleveland Cavaliers",
-      "rank": 28
+      "rank": 27
     },
     {
       "player": "Jimmy Butler",
@@ -352,7 +340,7 @@
       "first_mention": "2025-12-17",
       "last_mention": "2025-12-23",
       "team": "Golden State Warriors",
-      "rank": 29
+      "rank": 28
     },
     {
       "player": "Kristaps Porzingis",
@@ -364,7 +352,7 @@
       "first_mention": "2025-12-18",
       "last_mention": "2025-12-28",
       "team": "Atlanta Hawks",
-      "rank": 30
+      "rank": 29
     },
     {
       "player": "LaMelo Ball",
@@ -376,19 +364,7 @@
       "first_mention": "2025-12-03",
       "last_mention": "2025-12-18",
       "team": "Charlotte Hornets",
-      "rank": 31
-    },
-    {
-      "player": "Lauri Markkanen",
-      "score": 1.25,
-      "mentions_week1": 0,
-      "mentions_week2": 2,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 3,
-      "first_mention": "2025-12-01",
-      "last_mention": "2025-12-18",
-      "team": "Utah Jazz",
-      "rank": 32
+      "rank": 30
     },
     {
       "player": "Walker Kessler",
@@ -400,7 +376,7 @@
       "first_mention": "2025-12-09",
       "last_mention": "2025-12-18",
       "team": "Utah Jazz",
-      "rank": 33
+      "rank": 31
     },
     {
       "player": "Karl-Anthony Towns",
@@ -412,6 +388,30 @@
       "first_mention": "2025-12-09",
       "last_mention": "2025-12-24",
       "team": "New York Knicks",
+      "rank": 32
+    },
+    {
+      "player": "Guerschon Yabusele",
+      "score": 1.0,
+      "mentions_week1": 0,
+      "mentions_week2": 2,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 2,
+      "first_mention": "2025-12-22",
+      "last_mention": "2025-12-22",
+      "team": "New York Knicks",
+      "rank": 33
+    },
+    {
+      "player": "Lauri Markkanen",
+      "score": 1.0,
+      "mentions_week1": 0,
+      "mentions_week2": 2,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 2,
+      "first_mention": "2025-12-16",
+      "last_mention": "2025-12-18",
+      "team": "Utah Jazz",
       "rank": 34
     },
     {
@@ -595,18 +595,6 @@
       "rank": 49
     },
     {
-      "player": "De'Aaron Fox",
-      "score": 0.5,
-      "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2025-12-15",
-      "last_mention": "2025-12-15",
-      "team": "San Antonio Spurs",
-      "rank": 50
-    },
-    {
       "player": "Dejounte Murray",
       "score": 0.5,
       "mentions_week1": 0,
@@ -616,7 +604,7 @@
       "first_mention": "2025-12-16",
       "last_mention": "2025-12-16",
       "team": "New Orleans Pelicans",
-      "rank": 51
+      "rank": 50
     },
     {
       "player": "Devin Booker",
@@ -628,7 +616,7 @@
       "first_mention": "2025-12-17",
       "last_mention": "2025-12-17",
       "team": "Phoenix Suns",
-      "rank": 52
+      "rank": 51
     },
     {
       "player": "Gary Trent Jr",
@@ -640,7 +628,7 @@
       "first_mention": "2025-12-17",
       "last_mention": "2025-12-17",
       "team": "Los Angeles Lakers",
-      "rank": 53
+      "rank": 52
     },
     {
       "player": "Jalen Green",
@@ -652,7 +640,7 @@
       "first_mention": "2025-12-18",
       "last_mention": "2025-12-18",
       "team": "Phoenix Suns",
-      "rank": 54
+      "rank": 53
     },
     {
       "player": "Jerami Grant",
@@ -664,7 +652,7 @@
       "first_mention": "2025-12-16",
       "last_mention": "2025-12-16",
       "team": "Milwaukee Bucks",
-      "rank": 55
+      "rank": 54
     },
     {
       "player": "Keegan Murray",
@@ -676,7 +664,7 @@
       "first_mention": "2025-12-18",
       "last_mention": "2025-12-18",
       "team": "Sacramento Kings",
-      "rank": 56
+      "rank": 55
     },
     {
       "player": "Nique Clifford",
@@ -688,7 +676,7 @@
       "first_mention": "2025-12-18",
       "last_mention": "2025-12-18",
       "team": "Sacramento Kings",
-      "rank": 57
+      "rank": 56
     },
     {
       "player": "Robert Williams",
@@ -700,19 +688,7 @@
       "first_mention": "2025-12-20",
       "last_mention": "2025-12-20",
       "team": "Portland Trail Blazers",
-      "rank": 58
-    },
-    {
-      "player": "Russell Westbrook",
-      "score": 0.5,
-      "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2025-12-15",
-      "last_mention": "2025-12-15",
-      "team": "Sacramento Kings",
-      "rank": 59
+      "rank": 57
     },
     {
       "player": "Tyrese Haliburton",
@@ -724,7 +700,7 @@
       "first_mention": "2025-12-18",
       "last_mention": "2025-12-18",
       "team": "Indiana Pacers",
-      "rank": 60
+      "rank": 58
     },
     {
       "player": "Bobby Portis",
@@ -736,7 +712,7 @@
       "first_mention": "2025-12-04",
       "last_mention": "2025-12-04",
       "team": "Milwaukee Bucks",
-      "rank": 61
+      "rank": 59
     },
     {
       "player": "Brandin Podziemski",
@@ -748,7 +724,7 @@
       "first_mention": "2025-12-11",
       "last_mention": "2025-12-11",
       "team": "Golden State Warriors",
-      "rank": 62
+      "rank": 60
     },
     {
       "player": "Cade Cunningham",
@@ -760,7 +736,7 @@
       "first_mention": "2025-12-10",
       "last_mention": "2025-12-10",
       "team": "Detroit Pistons",
-      "rank": 63
+      "rank": 61
     },
     {
       "player": "Cooper Flagg",
@@ -772,7 +748,19 @@
       "first_mention": "2025-12-12",
       "last_mention": "2025-12-12",
       "team": "Dallas Mavericks",
-      "rank": 64
+      "rank": 62
+    },
+    {
+      "player": "De'Aaron Fox",
+      "score": 0.25,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 1,
+      "first_mention": "2025-12-15",
+      "last_mention": "2025-12-15",
+      "team": "San Antonio Spurs",
+      "rank": 63
     },
     {
       "player": "Dereck Lively",
@@ -784,7 +772,7 @@
       "first_mention": "2025-12-12",
       "last_mention": "2025-12-12",
       "team": "Dallas Mavericks",
-      "rank": 65
+      "rank": 64
     },
     {
       "player": "Draymond Green",
@@ -796,7 +784,7 @@
       "first_mention": "2025-12-11",
       "last_mention": "2025-12-11",
       "team": "Golden State Warriors",
-      "rank": 66
+      "rank": 65
     },
     {
       "player": "Fred VanVleet",
@@ -808,7 +796,7 @@
       "first_mention": "2025-12-11",
       "last_mention": "2025-12-11",
       "team": "Houston Rockets",
-      "rank": 67
+      "rank": 66
     },
     {
       "player": "Ivica Zubac",
@@ -820,7 +808,7 @@
       "first_mention": "2025-12-04",
       "last_mention": "2025-12-04",
       "team": "Los Angeles Clippers",
-      "rank": 68
+      "rank": 67
     },
     {
       "player": "Jaime Jaquez",
@@ -832,7 +820,7 @@
       "first_mention": "2025-12-12",
       "last_mention": "2025-12-12",
       "team": "Miami Heat",
-      "rank": 69
+      "rank": 68
     },
     {
       "player": "Jalen Duren",
@@ -844,7 +832,7 @@
       "first_mention": "2025-12-10",
       "last_mention": "2025-12-10",
       "team": "Detroit Pistons",
-      "rank": 70
+      "rank": 69
     },
     {
       "player": "Jalen Johnson",
@@ -856,7 +844,7 @@
       "first_mention": "2025-12-12",
       "last_mention": "2025-12-12",
       "team": "Atlanta Hawks",
-      "rank": 71
+      "rank": 70
     },
     {
       "player": "Jose Alvarado",
@@ -868,7 +856,7 @@
       "first_mention": "2025-12-12",
       "last_mention": "2025-12-12",
       "team": "New Orleans Pelicans",
-      "rank": 72
+      "rank": 71
     },
     {
       "player": "Kawhi Leonard",
@@ -880,7 +868,7 @@
       "first_mention": "2025-12-05",
       "last_mention": "2025-12-05",
       "team": "Los Angeles Clippers",
-      "rank": 73
+      "rank": 72
     },
     {
       "player": "Kel'el Ware",
@@ -892,7 +880,7 @@
       "first_mention": "2025-12-08",
       "last_mention": "2025-12-08",
       "team": "Miami Heat",
-      "rank": 74
+      "rank": 73
     },
     {
       "player": "LeBron James",
@@ -904,7 +892,7 @@
       "first_mention": "2025-12-09",
       "last_mention": "2025-12-09",
       "team": "Los Angeles Lakers",
-      "rank": 75
+      "rank": 74
     },
     {
       "player": "Luka Doncic",
@@ -916,7 +904,7 @@
       "first_mention": "2025-12-09",
       "last_mention": "2025-12-09",
       "team": "Los Angeles Lakers",
-      "rank": 76
+      "rank": 75
     },
     {
       "player": "Myles Turner",
@@ -928,7 +916,7 @@
       "first_mention": "2025-12-09",
       "last_mention": "2025-12-09",
       "team": "Milwaukee Bucks",
-      "rank": 77
+      "rank": 76
     },
     {
       "player": "Nicolas Claxton",
@@ -940,7 +928,7 @@
       "first_mention": "2025-12-12",
       "last_mention": "2025-12-12",
       "team": "Golden State Warriors",
-      "rank": 78
+      "rank": 77
     },
     {
       "player": "Pelle Larsson",
@@ -952,6 +940,18 @@
       "first_mention": "2025-12-08",
       "last_mention": "2025-12-08",
       "team": "Miami Heat",
+      "rank": 78
+    },
+    {
+      "player": "Russell Westbrook",
+      "score": 0.25,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 1,
+      "first_mention": "2025-12-15",
+      "last_mention": "2025-12-15",
+      "team": "Sacramento Kings",
       "rank": 79
     },
     {
@@ -1593,13 +1593,6 @@
         "text_html": "Brian Windhorst: I don't know what the value of Anthony Davis. Some of the stuff that I have heard from executives talking to me about what they think Anthony Davis' trade value is\u2026 I'm not even going to say it because then I'd get aggregated and people would be jumping down my throat and I would just be repeating something somebody else said. When I have heard what people are saying Anthony Davis' trade value is right now, not because of him as a player, to be clear, not because he's diminished as a player, but <a href=\"https://www.youtube.com/watch?v=aqCUYmtwRCo&t=510s\" target=\"_blank\" style=\"color: #1a73e8;\">because of the idea of paying an injury-prone mid-30s guy $50, $60 million dollars in the apron era is unpalatable</a>.",
         "outlet": "YouTube",
         "source_url": "https://www.youtube.com/watch?v=aqCUYmtwRCo&t=510s"
-      },
-      {
-        "date": "2025-12-01",
-        "text": "The Bulls have had internal discussions about how to proceed, including conversations about Dallas Mavericks star Anthony Davis,sources told ESPN, whom they believe could help the team's porous rim protection and defensive interior.ESPN",
-        "text_html": "<a href=\"https://www.espn.com/nba/story/_/id/47154935/from-6-1-9-10-make-curious-chicago-bulls-start\" target=\"_blank\" style=\"color: #1a73e8;\">The Bulls have had internal discussions about how to proceed, including conversations about Dallas Mavericks star Anthony Davis,</a> sources told ESPN, whom they believe could help the team's porous rim protection and defensive interior.",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/47154935/from-6-1-9-10-make-curious-chicago-bulls-start"
       }
     ],
     "Trae Young": [
@@ -2259,13 +2252,6 @@
         "text_html": "The Kings and first-year general manager Scott Perry are using this season as a patient evaluation campaign, trying to build a gritty culture. <a href=\"https://www.espn.com/nba/story/_/id/47245704/shams-pass-nba-trade-deadline-notes-news-buzz-anthony-davis-giannis-antetokounmpo-teams\" target=\"_blank\" style=\"color: #1a73e8;\">They are open-minded about trade talks throughout the roster, sources said.</a> Teams are monitoring veterans Domantas Sabonis, Zach LaVine and DeMar DeRozan, along with 25-year-old guard Keon Ellis.",
         "outlet": "ESPN",
         "source_url": "https://www.espn.com/nba/story/_/id/47245704/shams-pass-nba-trade-deadline-notes-news-buzz-anthony-davis-giannis-antetokounmpo-teams"
-      },
-      {
-        "date": "2025-12-01",
-        "text": "Marc Stein: Zach LaVine has a player option in 2026\u201327 that\u2019s worth almost $50 million. And kind of the rumble \u2014 the rumble there \u2014 isif he were willing to decline the option and take a longer-term extension at a lesser number, I think there would be some trade interest in Zach LaVine. Then DeMar DeRozan \u2014 because his contract next season, I think, is only guaranteed for about $10 million \u2014 you know, perhaps a trade market will emerge there.YouTube",
-        "text_html": "Marc Stein: Zach LaVine has a player option in 2026\u201327 that\u2019s worth almost $50 million. And kind of the rumble \u2014 the rumble there \u2014 is <a href=\"https://www.youtube.com/watch?v=1LCOowNMP8c\" target=\"_blank\" style=\"color: #1a73e8;\">if he were willing to decline the option and take a longer-term extension at a lesser number, I think there would be some trade interest in Zach LaVine</a>. Then DeMar DeRozan \u2014 because his contract next season, I think, is only guaranteed for about $10 million \u2014 you know, perhaps a trade market will emerge there.",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=1LCOowNMP8c"
       }
     ],
     "Andrew Wiggins": [
@@ -2354,13 +2340,6 @@
         "text_html": "Keon Ellis on Kings players named in trade rumors: I mean it's part of the job. It's kind of what you signed up for. <a href=\"https://www.youtube.com/watch?v=A-eGnsGOF98&t=103s\" target=\"_blank\" style=\"color: #1a73e8;\">It's a business at the end of the day. Everyone knows that. So it is what it is. You can't really do anything about it. So just don't let it affect you.</a> Q. But is it possible to be named in all these rumors, and keep practicing and have the mindset? Ellis: Yeah. I mean you definitely see it. I mean you hear about it but there's nothing you can do. So it is just talk at the end of the day until something happens.",
         "outlet": "YouTube",
         "source_url": "https://www.youtube.com/watch?v=A-eGnsGOF98&t=103s"
-      },
-      {
-        "date": "2025-12-01",
-        "text": "Marc Stein: Well,look \u2014 their phones are already ringing for Keon Ellis, whose minutes \u2014 he's playing about six minutes,what, a heck of a game fewer than he did last season. And the Kings are going to have to decide: do we want to part with him \u2014 someone who you can probably construct a net-positive trade for between now and the deadline in February \u2014 or is that a player they want to keep for the future? I mean, the early messaging out of the 916 has been that Keegan Murray and Nique Clifford are off-limits, and they\u2019re open to pretty much everything else.YouTube",
-        "text_html": "Marc Stein: Well, <a href=\"https://www.youtube.com/watch?v=1LCOowNMP8c\" target=\"_blank\" style=\"color: #1a73e8;\">look \u2014 their phones are already ringing for Keon Ellis, whose minutes \u2014 he's playing about six minutes,</a> what, a heck of a game fewer than he did last season. And the Kings are going to have to decide: do we want to part with him \u2014 someone who you can probably construct a net-positive trade for between now and the deadline in February \u2014 or is that a player they want to keep for the future? I mean, the early messaging out of the 916 has been that Keegan Murray and Nique Clifford are off-limits, and they\u2019re open to pretty much everything else.",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=1LCOowNMP8c"
       }
     ],
     "Herb Jones": [
@@ -2790,13 +2769,6 @@
         "text_html": "Scotto: \"To my understanding, Utah wants to build around Lauri Markkanen. What they want to do, ideally, they have a ton of cap space this summer. Use it to make the roster better. If they're going to be in the lottery this year, they hope that's the last time for the foreseeable future where they can start to build this thing. Re-sign Walker Kessler, but wait until you use the cap space. <a href=\"https://x.com/MikeAScotto/status/2000982943486108013\" target=\"_blank\" style=\"color: #1a73e8;\">Lauri draws a ton of interest around the league, but right now, Utah wants to hold onto him.\"</a>",
         "outlet": "x.com",
         "source_url": "https://x.com/MikeAScotto/status/2000982943486108013"
-      },
-      {
-        "date": "2025-12-01",
-        "text": "Difficult as it can be for rival teams to read the intentions of a front office that now houses Austin Ainge as well as Danny Ainge,more teams than not that we speak to are increasingly convinced that the Jazz are more likely to try to add to their Markkanen-led core this Trade Season rather than trade Markkanen away.marcstein.substack.com",
-        "text_html": "Difficult as it can be for rival teams to read the intentions of a front office that now houses Austin Ainge as well as Danny Ainge, <a href=\"https://marcstein.substack.com/p/sunday-best-the-latest-nba-trade\" target=\"_blank\" style=\"color: #1a73e8;\">more teams than not that we speak to are increasingly convinced that the Jazz are more likely to try to add to their Markkanen-led core this Trade Season rather than trade Markkanen away</a>.",
-        "outlet": "marcstein.substack.com",
-        "source_url": "https://marcstein.substack.com/p/sunday-best-the-latest-nba-trade"
       }
     ],
     "Trey Murphy": [
@@ -3273,8 +3245,7 @@
       "2025-12-12": 5,
       "2025-12-11": 2,
       "2025-12-09": 1,
-      "2025-12-05": 2,
-      "2025-12-01": 1
+      "2025-12-05": 2
     },
     "Trae Young": {
       "2025-12-28": 2,
@@ -3391,8 +3362,7 @@
       "2025-12-17": 1,
       "2025-12-15": 2,
       "2025-12-12": 1,
-      "2025-12-09": 1,
-      "2025-12-01": 1
+      "2025-12-09": 1
     },
     "Andrew Wiggins": {
       "2025-12-20": 2,
@@ -3407,8 +3377,7 @@
       "2025-12-17": 1,
       "2025-12-14": 1,
       "2025-12-09": 1,
-      "2025-12-07": 1,
-      "2025-12-01": 1
+      "2025-12-07": 1
     },
     "Herb Jones": {
       "2025-12-19": 1,
@@ -3481,8 +3450,7 @@
     },
     "Lauri Markkanen": {
       "2025-12-18": 1,
-      "2025-12-16": 1,
-      "2025-12-01": 1
+      "2025-12-16": 1
     },
     "Trey Murphy": {
       "2025-12-18": 1,
