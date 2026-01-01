@@ -1,29 +1,29 @@
 {
-  "generated_at": "2025-12-31T19:17:12.553814",
+  "generated_at": "2026-01-01T03:07:02.176035",
   "scrape_window_days": 28,
-  "window_start": "2025-12-03",
-  "window_end": "2025-12-31",
-  "total_rumors": 320,
-  "total_players": 80,
+  "window_start": "2025-12-04",
+  "window_end": "2026-01-01",
+  "total_rumors": 304,
+  "total_players": 81,
   "rankings": [
     {
       "player": "Giannis Antetokounmpo",
-      "score": 23.25,
+      "score": 20.0,
       "mentions_week1": 6,
-      "mentions_week2": 13,
-      "mentions_weeks3_4": 43,
-      "total_mentions": 62,
-      "first_mention": "2025-12-03",
+      "mentions_week2": 11,
+      "mentions_weeks3_4": 34,
+      "total_mentions": 51,
+      "first_mention": "2025-12-04",
       "last_mention": "2025-12-31",
       "team": "Milwaukee Bucks",
       "rank": 1
     },
     {
       "player": "Anthony Davis",
-      "score": 18.5,
+      "score": 18.25,
       "mentions_week1": 12,
-      "mentions_week2": 6,
-      "mentions_weeks3_4": 14,
+      "mentions_week2": 5,
+      "mentions_weeks3_4": 15,
       "total_mentions": 32,
       "first_mention": "2025-12-05",
       "last_mention": "2025-12-31",
@@ -32,22 +32,22 @@
     },
     {
       "player": "Trae Young",
-      "score": 9.25,
+      "score": 8.75,
       "mentions_week1": 7,
       "mentions_week2": 3,
-      "mentions_weeks3_4": 3,
-      "total_mentions": 13,
-      "first_mention": "2025-12-03",
+      "mentions_weeks3_4": 1,
+      "total_mentions": 11,
+      "first_mention": "2025-12-12",
       "last_mention": "2025-12-31",
       "team": "Atlanta Hawks",
       "rank": 3
     },
     {
       "player": "Jonathan Kuminga",
-      "score": 5.5,
+      "score": 5.25,
       "mentions_week1": 1,
-      "mentions_week2": 4,
-      "mentions_weeks3_4": 10,
+      "mentions_week2": 3,
+      "mentions_weeks3_4": 11,
       "total_mentions": 15,
       "first_mention": "2025-12-08",
       "last_mention": "2025-12-31",
@@ -55,28 +55,16 @@
       "rank": 4
     },
     {
-      "player": "Malik Monk",
-      "score": 4.75,
-      "mentions_week1": 4,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 6,
-      "first_mention": "2025-12-08",
-      "last_mention": "2025-12-31",
-      "team": "Sacramento Kings",
-      "rank": 5
-    },
-    {
       "player": "Zach LaVine",
-      "score": 4.5,
+      "score": 4.25,
       "mentions_week1": 2,
-      "mentions_week2": 3,
-      "mentions_weeks3_4": 4,
+      "mentions_week2": 2,
+      "mentions_weeks3_4": 5,
       "total_mentions": 9,
       "first_mention": "2025-12-09",
       "last_mention": "2025-12-31",
       "team": "Sacramento Kings",
-      "rank": 6
+      "rank": 5
     },
     {
       "player": "James Harden",
@@ -88,6 +76,18 @@
       "first_mention": "2025-12-05",
       "last_mention": "2025-12-31",
       "team": "Los Angeles Clippers",
+      "rank": 6
+    },
+    {
+      "player": "Malik Monk",
+      "score": 3.75,
+      "mentions_week1": 2,
+      "mentions_week2": 3,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 6,
+      "first_mention": "2025-12-08",
+      "last_mention": "2025-12-31",
+      "team": "Sacramento Kings",
       "rank": 7
     },
     {
@@ -103,18 +103,6 @@
       "rank": 8
     },
     {
-      "player": "Jimmy Butler",
-      "score": 3.0,
-      "mentions_week1": 2,
-      "mentions_week2": 2,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 4,
-      "first_mention": "2025-12-17",
-      "last_mention": "2025-12-31",
-      "team": "Golden State Warriors",
-      "rank": 9
-    },
-    {
       "player": "Zaccharie Risacher",
       "score": 3.0,
       "mentions_week1": 3,
@@ -124,19 +112,7 @@
       "first_mention": "2025-12-27",
       "last_mention": "2025-12-31",
       "team": "Atlanta Hawks",
-      "rank": 10
-    },
-    {
-      "player": "Keon Ellis",
-      "score": 2.75,
-      "mentions_week1": 0,
-      "mentions_week2": 4,
-      "mentions_weeks3_4": 3,
-      "total_mentions": 7,
-      "first_mention": "2025-12-07",
-      "last_mention": "2025-12-20",
-      "team": "Sacramento Kings",
-      "rank": 11
+      "rank": 9
     },
     {
       "player": "Darius Garland",
@@ -148,19 +124,19 @@
       "first_mention": "2025-12-14",
       "last_mention": "2025-12-27",
       "team": "Cleveland Cavaliers",
-      "rank": 12
+      "rank": 10
     },
     {
-      "player": "Michael Porter",
+      "player": "Jimmy Butler",
       "score": 2.75,
       "mentions_week1": 2,
       "mentions_week2": 1,
       "mentions_weeks3_4": 1,
       "total_mentions": 4,
-      "first_mention": "2025-12-12",
+      "first_mention": "2025-12-17",
       "last_mention": "2025-12-31",
-      "team": "Milwaukee Bucks",
-      "rank": 13
+      "team": "Golden State Warriors",
+      "rank": 11
     },
     {
       "player": "Herb Jones",
@@ -172,7 +148,7 @@
       "first_mention": "2025-12-06",
       "last_mention": "2025-12-19",
       "team": "New Orleans Pelicans",
-      "rank": 14
+      "rank": 12
     },
     {
       "player": "Terry Rozier",
@@ -184,31 +160,31 @@
       "first_mention": "2025-12-08",
       "last_mention": "2025-12-18",
       "team": "Miami Heat",
-      "rank": 15
+      "rank": 13
     },
     {
-      "player": "Domantas Sabonis",
-      "score": 2.25,
-      "mentions_week1": 0,
-      "mentions_week2": 2,
-      "mentions_weeks3_4": 5,
-      "total_mentions": 7,
-      "first_mention": "2025-12-09",
-      "last_mention": "2025-12-18",
-      "team": "Sacramento Kings",
-      "rank": 16
-    },
-    {
-      "player": "Klay Thompson",
-      "score": 2.25,
+      "player": "Keon Ellis",
+      "score": 2.5,
       "mentions_week1": 0,
       "mentions_week2": 3,
-      "mentions_weeks3_4": 3,
-      "total_mentions": 6,
-      "first_mention": "2025-12-09",
-      "last_mention": "2025-12-18",
-      "team": "Dallas Mavericks",
-      "rank": 17
+      "mentions_weeks3_4": 4,
+      "total_mentions": 7,
+      "first_mention": "2025-12-07",
+      "last_mention": "2025-12-20",
+      "team": "Sacramento Kings",
+      "rank": 14
+    },
+    {
+      "player": "Michael Porter",
+      "score": 2.5,
+      "mentions_week1": 2,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 2,
+      "total_mentions": 4,
+      "first_mention": "2025-12-12",
+      "last_mention": "2025-12-31",
+      "team": "Milwaukee Bucks",
+      "rank": 15
     },
     {
       "player": "Jerami Grant",
@@ -220,7 +196,7 @@
       "first_mention": "2025-12-16",
       "last_mention": "2025-12-31",
       "team": "Milwaukee Bucks",
-      "rank": 18
+      "rank": 16
     },
     {
       "player": "Coby White",
@@ -232,6 +208,30 @@
       "first_mention": "2025-12-11",
       "last_mention": "2025-12-21",
       "team": "Chicago Bulls",
+      "rank": 17
+    },
+    {
+      "player": "Domantas Sabonis",
+      "score": 2.0,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 6,
+      "total_mentions": 7,
+      "first_mention": "2025-12-09",
+      "last_mention": "2025-12-18",
+      "team": "Sacramento Kings",
+      "rank": 18
+    },
+    {
+      "player": "Klay Thompson",
+      "score": 2.0,
+      "mentions_week1": 0,
+      "mentions_week2": 2,
+      "mentions_weeks3_4": 4,
+      "total_mentions": 6,
+      "first_mention": "2025-12-09",
+      "last_mention": "2025-12-18",
+      "team": "Dallas Mavericks",
       "rank": 19
     },
     {
@@ -259,18 +259,6 @@
       "rank": 21
     },
     {
-      "player": "Ja Morant",
-      "score": 1.75,
-      "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 5,
-      "total_mentions": 6,
-      "first_mention": "2025-12-03",
-      "last_mention": "2025-12-17",
-      "team": "Memphis Grizzlies",
-      "rank": 22
-    },
-    {
       "player": "Trey Murphy",
       "score": 1.5,
       "mentions_week1": 0,
@@ -280,31 +268,7 @@
       "first_mention": "2025-12-06",
       "last_mention": "2025-12-18",
       "team": "New Orleans Pelicans",
-      "rank": 23
-    },
-    {
-      "player": "D'Angelo Russell",
-      "score": 1.5,
-      "mentions_week1": 0,
-      "mentions_week2": 2,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 4,
-      "first_mention": "2025-12-09",
-      "last_mention": "2025-12-18",
-      "team": "Dallas Mavericks",
-      "rank": 24
-    },
-    {
-      "player": "DeMar DeRozan",
-      "score": 1.5,
-      "mentions_week1": 0,
-      "mentions_week2": 2,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 4,
-      "first_mention": "2025-12-09",
-      "last_mention": "2025-12-18",
-      "team": "Sacramento Kings",
-      "rank": 25
+      "rank": 22
     },
     {
       "player": "Stephon Castle",
@@ -316,7 +280,7 @@
       "first_mention": "2025-12-04",
       "last_mention": "2025-12-18",
       "team": "San Antonio Spurs",
-      "rank": 26
+      "rank": 23
     },
     {
       "player": "Kyrie Irving",
@@ -328,7 +292,7 @@
       "first_mention": "2025-12-08",
       "last_mention": "2025-12-30",
       "team": "Dallas Mavericks",
-      "rank": 27
+      "rank": 24
     },
     {
       "player": "Nick Richards",
@@ -340,7 +304,7 @@
       "first_mention": "2025-12-18",
       "last_mention": "2025-12-18",
       "team": "Phoenix Suns",
-      "rank": 28
+      "rank": 25
     },
     {
       "player": "Evan Mobley",
@@ -352,7 +316,7 @@
       "first_mention": "2025-12-18",
       "last_mention": "2025-12-27",
       "team": "Cleveland Cavaliers",
-      "rank": 29
+      "rank": 26
     },
     {
       "player": "Jarrett Allen",
@@ -364,7 +328,7 @@
       "first_mention": "2025-12-23",
       "last_mention": "2025-12-27",
       "team": "Cleveland Cavaliers",
-      "rank": 30
+      "rank": 27
     },
     {
       "player": "Kristaps Porzingis",
@@ -376,19 +340,31 @@
       "first_mention": "2025-12-18",
       "last_mention": "2025-12-28",
       "team": "Atlanta Hawks",
-      "rank": 31
+      "rank": 28
     },
     {
-      "player": "LaMelo Ball",
+      "player": "D'Angelo Russell",
       "score": 1.25,
       "mentions_week1": 0,
       "mentions_week2": 1,
       "mentions_weeks3_4": 3,
       "total_mentions": 4,
-      "first_mention": "2025-12-03",
+      "first_mention": "2025-12-09",
       "last_mention": "2025-12-18",
-      "team": "Charlotte Hornets",
-      "rank": 32
+      "team": "Dallas Mavericks",
+      "rank": 29
+    },
+    {
+      "player": "DeMar DeRozan",
+      "score": 1.25,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 3,
+      "total_mentions": 4,
+      "first_mention": "2025-12-09",
+      "last_mention": "2025-12-18",
+      "team": "Sacramento Kings",
+      "rank": 30
     },
     {
       "player": "Draymond Green",
@@ -400,19 +376,7 @@
       "first_mention": "2025-12-11",
       "last_mention": "2025-12-31",
       "team": "Golden State Warriors",
-      "rank": 33
-    },
-    {
-      "player": "Karl-Anthony Towns",
-      "score": 1.25,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 2,
-      "first_mention": "2025-12-09",
-      "last_mention": "2025-12-24",
-      "team": "New York Knicks",
-      "rank": 34
+      "rank": 31
     },
     {
       "player": "LeBron James",
@@ -424,7 +388,19 @@
       "first_mention": "2025-12-09",
       "last_mention": "2025-12-30",
       "team": "Los Angeles Lakers",
-      "rank": 35
+      "rank": 32
+    },
+    {
+      "player": "Ja Morant",
+      "score": 1.0,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 4,
+      "total_mentions": 4,
+      "first_mention": "2025-12-08",
+      "last_mention": "2025-12-17",
+      "team": "Memphis Grizzlies",
+      "rank": 33
     },
     {
       "player": "Walker Kessler",
@@ -436,7 +412,7 @@
       "first_mention": "2025-12-09",
       "last_mention": "2025-12-18",
       "team": "Utah Jazz",
-      "rank": 36
+      "rank": 34
     },
     {
       "player": "Guerschon Yabusele",
@@ -448,19 +424,7 @@
       "first_mention": "2025-12-22",
       "last_mention": "2025-12-22",
       "team": "New York Knicks",
-      "rank": 37
-    },
-    {
-      "player": "Donte DiVincenzo",
-      "score": 1.0,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2025-12-24",
-      "last_mention": "2025-12-24",
-      "team": "Minnesota Timberwolves",
-      "rank": 38
+      "rank": 35
     },
     {
       "player": "Luke Kennard",
@@ -472,7 +436,19 @@
       "first_mention": "2025-12-28",
       "last_mention": "2025-12-28",
       "team": "Atlanta Hawks",
-      "rank": 39
+      "rank": 36
+    },
+    {
+      "player": "Mark Williams",
+      "score": 1.0,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2025-12-31",
+      "last_mention": "2025-12-31",
+      "team": "Phoenix Suns",
+      "rank": 37
     },
     {
       "player": "Nikola Vucevic",
@@ -484,7 +460,7 @@
       "first_mention": "2025-12-28",
       "last_mention": "2025-12-28",
       "team": "Chicago Bulls",
-      "rank": 40
+      "rank": 38
     },
     {
       "player": "Kevin Porter",
@@ -496,6 +472,30 @@
       "first_mention": "2025-12-04",
       "last_mention": "2025-12-10",
       "team": "Milwaukee Bucks",
+      "rank": 39
+    },
+    {
+      "player": "Karl-Anthony Towns",
+      "score": 0.75,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 2,
+      "first_mention": "2025-12-09",
+      "last_mention": "2025-12-24",
+      "team": "New York Knicks",
+      "rank": 40
+    },
+    {
+      "player": "LaMelo Ball",
+      "score": 0.75,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 2,
+      "first_mention": "2025-12-11",
+      "last_mention": "2025-12-18",
+      "team": "Charlotte Hornets",
       "rank": 41
     },
     {
@@ -547,18 +547,6 @@
       "rank": 45
     },
     {
-      "player": "Austin Reaves",
-      "score": 0.5,
-      "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2025-12-17",
-      "last_mention": "2025-12-17",
-      "team": "Los Angeles Lakers",
-      "rank": 46
-    },
-    {
       "player": "Brandon Ingram",
       "score": 0.5,
       "mentions_week1": 0,
@@ -568,7 +556,7 @@
       "first_mention": "2025-12-18",
       "last_mention": "2025-12-18",
       "team": "Toronto Raptors",
-      "rank": 47
+      "rank": 46
     },
     {
       "player": "Dean Wade",
@@ -580,31 +568,19 @@
       "first_mention": "2025-12-23",
       "last_mention": "2025-12-23",
       "team": "Cleveland Cavaliers",
+      "rank": 47
+    },
+    {
+      "player": "Donte DiVincenzo",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2025-12-24",
+      "last_mention": "2025-12-24",
+      "team": "Minnesota Timberwolves",
       "rank": 48
-    },
-    {
-      "player": "Devin Booker",
-      "score": 0.5,
-      "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2025-12-17",
-      "last_mention": "2025-12-17",
-      "team": "Phoenix Suns",
-      "rank": 49
-    },
-    {
-      "player": "Gary Trent Jr",
-      "score": 0.5,
-      "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2025-12-17",
-      "last_mention": "2025-12-17",
-      "team": "Los Angeles Lakers",
-      "rank": 50
     },
     {
       "player": "Jalen Green",
@@ -616,7 +592,7 @@
       "first_mention": "2025-12-18",
       "last_mention": "2025-12-18",
       "team": "Phoenix Suns",
-      "rank": 51
+      "rank": 49
     },
     {
       "player": "Jrue Holiday",
@@ -628,7 +604,7 @@
       "first_mention": "2025-12-23",
       "last_mention": "2025-12-23",
       "team": "Portland Trail Blazers",
-      "rank": 52
+      "rank": 50
     },
     {
       "player": "Keegan Murray",
@@ -640,7 +616,7 @@
       "first_mention": "2025-12-18",
       "last_mention": "2025-12-18",
       "team": "Sacramento Kings",
-      "rank": 53
+      "rank": 51
     },
     {
       "player": "Lonzo Ball",
@@ -652,7 +628,7 @@
       "first_mention": "2025-12-23",
       "last_mention": "2025-12-23",
       "team": "Cleveland Cavaliers",
-      "rank": 54
+      "rank": 52
     },
     {
       "player": "Max Strus",
@@ -664,7 +640,7 @@
       "first_mention": "2025-12-23",
       "last_mention": "2025-12-23",
       "team": "Cleveland Cavaliers",
-      "rank": 55
+      "rank": 53
     },
     {
       "player": "Nique Clifford",
@@ -676,7 +652,7 @@
       "first_mention": "2025-12-18",
       "last_mention": "2025-12-18",
       "team": "Sacramento Kings",
-      "rank": 56
+      "rank": 54
     },
     {
       "player": "Robert Williams",
@@ -688,7 +664,7 @@
       "first_mention": "2025-12-20",
       "last_mention": "2025-12-20",
       "team": "Portland Trail Blazers",
-      "rank": 57
+      "rank": 55
     },
     {
       "player": "Tyrese Haliburton",
@@ -700,7 +676,19 @@
       "first_mention": "2025-12-18",
       "last_mention": "2025-12-18",
       "team": "Indiana Pacers",
-      "rank": 58
+      "rank": 56
+    },
+    {
+      "player": "Austin Reaves",
+      "score": 0.25,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 1,
+      "first_mention": "2025-12-17",
+      "last_mention": "2025-12-17",
+      "team": "Los Angeles Lakers",
+      "rank": 57
     },
     {
       "player": "Bobby Portis",
@@ -712,7 +700,7 @@
       "first_mention": "2025-12-04",
       "last_mention": "2025-12-04",
       "team": "Milwaukee Bucks",
-      "rank": 59
+      "rank": 58
     },
     {
       "player": "Brandin Podziemski",
@@ -724,7 +712,7 @@
       "first_mention": "2025-12-11",
       "last_mention": "2025-12-11",
       "team": "Golden State Warriors",
-      "rank": 60
+      "rank": 59
     },
     {
       "player": "Cade Cunningham",
@@ -736,7 +724,7 @@
       "first_mention": "2025-12-10",
       "last_mention": "2025-12-10",
       "team": "Detroit Pistons",
-      "rank": 61
+      "rank": 60
     },
     {
       "player": "Cam Thomas",
@@ -748,7 +736,7 @@
       "first_mention": "2025-12-16",
       "last_mention": "2025-12-16",
       "team": "Brooklyn Nets",
-      "rank": 62
+      "rank": 61
     },
     {
       "player": "Cooper Flagg",
@@ -760,7 +748,7 @@
       "first_mention": "2025-12-12",
       "last_mention": "2025-12-12",
       "team": "Dallas Mavericks",
-      "rank": 63
+      "rank": 62
     },
     {
       "player": "De'Aaron Fox",
@@ -772,7 +760,7 @@
       "first_mention": "2025-12-15",
       "last_mention": "2025-12-15",
       "team": "San Antonio Spurs",
-      "rank": 64
+      "rank": 63
     },
     {
       "player": "Dejounte Murray",
@@ -784,7 +772,7 @@
       "first_mention": "2025-12-16",
       "last_mention": "2025-12-16",
       "team": "New Orleans Pelicans",
-      "rank": 65
+      "rank": 64
     },
     {
       "player": "Dereck Lively",
@@ -796,6 +784,18 @@
       "first_mention": "2025-12-12",
       "last_mention": "2025-12-12",
       "team": "Dallas Mavericks",
+      "rank": 65
+    },
+    {
+      "player": "Devin Booker",
+      "score": 0.25,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 1,
+      "first_mention": "2025-12-17",
+      "last_mention": "2025-12-17",
+      "team": "Phoenix Suns",
       "rank": 66
     },
     {
@@ -811,6 +811,18 @@
       "rank": 67
     },
     {
+      "player": "Gary Trent Jr",
+      "score": 0.25,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 1,
+      "first_mention": "2025-12-17",
+      "last_mention": "2025-12-17",
+      "team": "Los Angeles Lakers",
+      "rank": 68
+    },
+    {
       "player": "Ivica Zubac",
       "score": 0.25,
       "mentions_week1": 0,
@@ -820,7 +832,7 @@
       "first_mention": "2025-12-04",
       "last_mention": "2025-12-04",
       "team": "Los Angeles Clippers",
-      "rank": 68
+      "rank": 69
     },
     {
       "player": "Jaime Jaquez",
@@ -832,7 +844,7 @@
       "first_mention": "2025-12-12",
       "last_mention": "2025-12-12",
       "team": "Miami Heat",
-      "rank": 69
+      "rank": 70
     },
     {
       "player": "Jalen Duren",
@@ -844,7 +856,7 @@
       "first_mention": "2025-12-10",
       "last_mention": "2025-12-10",
       "team": "Detroit Pistons",
-      "rank": 70
+      "rank": 71
     },
     {
       "player": "Jalen Johnson",
@@ -856,7 +868,7 @@
       "first_mention": "2025-12-12",
       "last_mention": "2025-12-12",
       "team": "Atlanta Hawks",
-      "rank": 71
+      "rank": 72
     },
     {
       "player": "Jose Alvarado",
@@ -868,7 +880,7 @@
       "first_mention": "2025-12-12",
       "last_mention": "2025-12-12",
       "team": "New Orleans Pelicans",
-      "rank": 72
+      "rank": 73
     },
     {
       "player": "Kawhi Leonard",
@@ -880,7 +892,7 @@
       "first_mention": "2025-12-05",
       "last_mention": "2025-12-05",
       "team": "Los Angeles Clippers",
-      "rank": 73
+      "rank": 74
     },
     {
       "player": "Kel'el Ware",
@@ -892,7 +904,7 @@
       "first_mention": "2025-12-08",
       "last_mention": "2025-12-08",
       "team": "Miami Heat",
-      "rank": 74
+      "rank": 75
     },
     {
       "player": "Luka Doncic",
@@ -904,7 +916,7 @@
       "first_mention": "2025-12-09",
       "last_mention": "2025-12-09",
       "team": "Los Angeles Lakers",
-      "rank": 75
+      "rank": 76
     },
     {
       "player": "Myles Turner",
@@ -916,7 +928,7 @@
       "first_mention": "2025-12-09",
       "last_mention": "2025-12-09",
       "team": "Milwaukee Bucks",
-      "rank": 76
+      "rank": 77
     },
     {
       "player": "Nicolas Claxton",
@@ -928,7 +940,7 @@
       "first_mention": "2025-12-12",
       "last_mention": "2025-12-12",
       "team": "Golden State Warriors",
-      "rank": 77
+      "rank": 78
     },
     {
       "player": "Pelle Larsson",
@@ -940,7 +952,7 @@
       "first_mention": "2025-12-08",
       "last_mention": "2025-12-08",
       "team": "Miami Heat",
-      "rank": 78
+      "rank": 79
     },
     {
       "player": "Russell Westbrook",
@@ -952,7 +964,7 @@
       "first_mention": "2025-12-15",
       "last_mention": "2025-12-15",
       "team": "Sacramento Kings",
-      "rank": 79
+      "rank": 80
     },
     {
       "player": "Zion Williamson",
@@ -964,10 +976,19 @@
       "first_mention": "2025-12-06",
       "last_mention": "2025-12-06",
       "team": "New Orleans Pelicans",
-      "rank": 80
+      "rank": 81
     }
   ],
   "player_rumors": {
+    "Mark Williams": [
+      {
+        "date": "2025-12-31",
+        "text": "Fullcourtpass:Mark Williams on the Lakers trade being rescinded? \u201cHonestly, like fu*k y\u2019all\u201d (Via @OldManAndThree , h/t @PurpGolded )x.com",
+        "text_html": "Fullcourtpass: <a href=\"https://x.com/Fullcourtpass/status/2006505627380756937\" target=\"_blank\" style=\"color: #1a73e8;\">Mark Williams on the Lakers trade being rescinded</a> ? \u201cHonestly, like fu*k y\u2019all\u201d (Via @OldManAndThree , h/t @PurpGolded )",
+        "outlet": "x.com",
+        "source_url": "https://x.com/Fullcourtpass/status/2006505627380756937"
+      }
+    ],
     "Zach LaVine": [
       {
         "date": "2025-12-31",
@@ -1660,20 +1681,6 @@
         "text_html": "Grant Afseth: Shams Charania from ESPN reported a couple of potential Eastern Conference suitors like the Atlanta Hawks, Detroit Pistons, Toronto Raptors. But those teams so far, doesn't seem like there's meaningful traction by any means of a great offer that the Dallas Mavericks cannot refuse. <a href=\"https://youtu.be/sEPja1PuIH4?si=G9cM2JWLbG1pVvS2\" target=\"_blank\" style=\"color: #1a73e8;\">I've been asking around, and there's more skepticism than optimism about Detroit and Atlanta as viable trade destinations. Because of various reasons, like Detroit has it rolling right now. Like, there's, probably a reluctance to break that team up and complicate things chemistry wise with how the season has gone for them</a>. And then Atlanta, they also have to solve Trae Young's future, with their team long-term. So do you go into the offseason where you have to give contract clarity to Trae Young and Anthony Davis? That's where it gets complicated. And they could get a potential top three, even number one overall pick this year where you're adding that next to Jalen Johnson.",
         "outlet": "Youtube",
         "source_url": "https://youtu.be/sEPja1PuIH4?si=G9cM2JWLbG1pVvS2"
-      },
-      {
-        "date": "2025-12-03",
-        "text": "Charlotte's\u00a0LaMelo Ball,\u00a0Memphis'\u00a0Ja Morant\u00a0and\u00a0Atlanta's\u00a0Trae Young\u00a0all seem to be stuck in a sort of limbo with the franchises that they've been the faces of since entering the league as high lottery picks. There is rampant speculation among rival teams that Ball, Morant and Young could all be available leading up to the Feb. 5 trade deadline. For a variety of reasons, from their maximum contracts to their major flaws, it's not a discussion that generates much enthusiasm despite their status as big names who have put up big numbers.\"I wouldn't want any of them,\" a Western Conference general manager\u00a0told\u00a0ESPN. That was a popular opinion in an informal poll of\u00a0executives, scouts and coaches conducted by ESPN. There wasn't a consensus about which one of the three would command the biggest return if they ended up getting shopped in the trade market, as votes were split among Ball, Morant and Young. \"They all might have negative value,\" an Eastern Conference\u00a0executive\u00a0said.ESPN",
-        "text_html": "Charlotte's LaMelo Ball, Memphis' Ja Morant and Atlanta's Trae Young all seem to be stuck in a sort of limbo with the franchises that they've been the faces of since entering the league as high lottery picks. There is rampant speculation among rival teams that Ball, Morant and Young could all be available leading up to the Feb. 5 trade deadline. For a variety of reasons, from their maximum contracts to their major flaws, it's not a discussion that generates much enthusiasm despite their status as big names who have put up big numbers. <a href=\"https://www.espn.com/nba/story/_/id/47179857/ja-morant-lamelo-ball-trae-young-three-all-star-guards-limbo\" target=\"_blank\" style=\"color: #1a73e8;\">\"I wouldn't want any of them,\" a Western Conference general manager told ESPN</a>. That was a popular opinion in an informal poll of executives, scouts and coaches conducted by ESPN. There wasn't a consensus about which one of the three would command the biggest return if they ended up getting shopped in the trade market, as votes were split among Ball, Morant and Young. \"They all might have negative value,\" an Eastern Conference executive said.",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/47179857/ja-morant-lamelo-ball-trae-young-three-all-star-guards-limbo"
-      },
-      {
-        "date": "2025-12-03",
-        "text": "In other words, the Hawks with Young in the lineup would rank dead last in the league in defensive efficiency.Without him, the Hawks have defended at a top-five level. \"He's just small and doesn't play any defense,\" an East scout said. That scout valued Young more than Morant and Ball, primarily because of his offensive prowess and lack of off-court concerns. Several people mentioned the long-running perception that he's unpopular with teammates as worrisome, especially considering that Young creates so many dunks and open looks with his passing prowess.ESPN",
-        "text_html": "In other words, the Hawks with Young in the lineup would rank dead last in the league in defensive efficiency. <a href=\"https://www.espn.com/nba/story/_/id/47179857/ja-morant-lamelo-ball-trae-young-three-all-star-guards-limbo\" target=\"_blank\" style=\"color: #1a73e8;\">Without him, the Hawks have defended at a top-five level. \"He's just small and doesn't play any defense,\" an East scout said</a>. That scout valued Young more than Morant and Ball, primarily because of his offensive prowess and lack of off-court concerns. Several people mentioned the long-running perception that he's unpopular with teammates as worrisome, especially considering that Young creates so many dunks and open looks with his passing prowess.",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/47179857/ja-morant-lamelo-ball-trae-young-three-all-star-guards-limbo"
       }
     ],
     "Giannis Antetokounmpo": [
@@ -2026,83 +2033,6 @@
         "text_html": "Eric Nehm: <a href=\"https://x.com/eric_nehm/status/1996442327293026789\" target=\"_blank\" style=\"color: #1a73e8;\">Bobby Portis told reporters that while he hasn't had a chance to talk personally to Giannis Antetokounmpo yet, the Bucks star was the first player in the group chat after the game congratulating the team on a win</a>.",
         "outlet": "x.com",
         "source_url": "https://x.com/eric_nehm/status/1996442327293026789"
-      },
-      {
-        "date": "2025-12-03",
-        "text": "Yet while the report indicated that Antetokounmpo and his representation are having conversations with the Bucks about the future of the organization\u2019s all-time leading scorer, team sources downplayed the severity of the situation in conversations with The Athletic and indicated that there has been no formal trade request.New York Times",
-        "text_html": "<a href=\"https://www.nytimes.com/athletic/6859373/2025/12/03/giannis-antetokounmpo-bucks-future/\" target=\"_blank\" style=\"color: #1a73e8;\">Yet while the report indicated that Antetokounmpo and his representation are having conversations with the Bucks about the future of the organization\u2019s all-time leading scorer, team sources downplayed the severity of the situation in conversations with The Athletic and indicated that there has been no formal trade request</a>.",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/6859373/2025/12/03/giannis-antetokounmpo-bucks-future/"
-      },
-      {
-        "date": "2025-12-03",
-        "text": "\u201cThe reason that this is out is because we\u2019re not playing well,\u201d Bucks coach Doc Rivers said.\u201cWhen we started out the season, I heard guys saying, \u2018Man, they\u2019re going to be really good.\u2019 So, let\u2019s just call a spade a spade. We\u2019re not playing well. We had a tough loss the other night, and so now this is the subject matter. It\u2019s no more true than it was this summer. Does it affect our team and our players? I hope not. I can tell you, after listening to our guys talk today, it doesn\u2019t. But that doesn\u2019t mean it won\u2019t. I can\u2019t answer that.\u201dNew York Times",
-        "text_html": "<a href=\"https://www.nytimes.com/athletic/6859373/2025/12/03/giannis-antetokounmpo-bucks-future/\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cThe reason that this is out is because we\u2019re not playing well,\u201d Bucks coach Doc Rivers said.</a> \u201cWhen we started out the season, I heard guys saying, \u2018Man, they\u2019re going to be really good.\u2019 So, let\u2019s just call a spade a spade. We\u2019re not playing well. We had a tough loss the other night, and so now this is the subject matter. It\u2019s no more true than it was this summer. Does it affect our team and our players? I hope not. I can tell you, after listening to our guys talk today, it doesn\u2019t. But that doesn\u2019t mean it won\u2019t. I can\u2019t answer that.\u201d",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/6859373/2025/12/03/giannis-antetokounmpo-bucks-future/"
-      },
-      {
-        "date": "2025-12-03",
-        "text": "Lily Zhao: #Bucks Doc Rivers on Giannis Antetokounmpo trade reports:\"There have been no conversations... I want to make it clear... Giannis has never asked to be traded. Ever. I can't make that more clear.\"x.com",
-        "text_html": "Lily Zhao: #Bucks Doc Rivers on Giannis Antetokounmpo trade reports: <a href=\"https://x.com/LilySZhao/status/1996363029450236075\" target=\"_blank\" style=\"color: #1a73e8;\">\"There have been no conversations... I want to make it clear... Giannis has never asked to be traded. Ever. I can't make that more clear.\"</a>",
-        "outlet": "x.com",
-        "source_url": "https://x.com/LilySZhao/status/1996363029450236075"
-      },
-      {
-        "date": "2025-12-03",
-        "text": "TheNew York Knicks and San Antonio Spurs will aggressively pursue a Giannis Antetokounmpo trade with the Milwaukee Bucks,NBA sources told DallasHoopsJournal. The Knicks and Bucks discussed an Antetokounmpo trade before the season started. Antetokounmpo is very interested in playing for the Knickerbockers, sources said.Dallas Hoops Journal",
-        "text_html": "The <a href=\"https://dallashoopsjournal.com/p/new-york-knicks-san-antonio-spurs-giannis-antetokounmpo-milwaukee-bucks-nba-trade-rumors-news/\" target=\"_blank\" style=\"color: #1a73e8;\">New York Knicks and San Antonio Spurs will aggressively pursue a Giannis Antetokounmpo trade with the Milwaukee Bucks,</a> NBA sources told DallasHoopsJournal. The Knicks and Bucks discussed an Antetokounmpo trade before the season started. Antetokounmpo is very interested in playing for the Knickerbockers, sources said.",
-        "outlet": "Dallas Hoops Journal",
-        "source_url": "https://dallashoopsjournal.com/p/new-york-knicks-san-antonio-spurs-giannis-antetokounmpo-milwaukee-bucks-nba-trade-rumors-news/"
-      },
-      {
-        "date": "2025-12-03",
-        "text": "Eric Nehm: Doc Rivers:\"I want to make it clear for the - I want to say one more time - for the 50th time, and clearly it's not getting to one network, for sure, Giannis has never asked to be traded.Ever. I can't make that more clear.\"x.com",
-        "text_html": "Eric Nehm: Doc Rivers: <a href=\"https://x.com/eric_nehm/status/1996360637107286430\" target=\"_blank\" style=\"color: #1a73e8;\">\"I want to make it clear for the - I want to say one more time - for the 50th time, and clearly it's not getting to one network, for sure, Giannis has never asked to be traded.</a> Ever. I can't make that more clear.\"",
-        "outlet": "x.com",
-        "source_url": "https://x.com/eric_nehm/status/1996360637107286430"
-      },
-      {
-        "date": "2025-12-03",
-        "text": "Ian Begley: Nothing has changed on NYK/Giannis Antetokounmpo front.NYK will be one of his desired landing spots if he & MIL part ways.Logic tells you he\u2019d need MIL to work with him on trade in order to end up in NY. Could also use contract leverage to land in NY. Big hurdles to clear, IMOx.com",
-        "text_html": "Ian Begley: Nothing has changed on NYK/Giannis Antetokounmpo front. <a href=\"https://x.com/IanBegley/status/1996326598929535487\" target=\"_blank\" style=\"color: #1a73e8;\">NYK will be one of his desired landing spots if he & MIL part ways.</a> Logic tells you he\u2019d need MIL to work with him on trade in order to end up in NY. Could also use contract leverage to land in NY. Big hurdles to clear, IMO",
-        "outlet": "x.com",
-        "source_url": "https://x.com/IanBegley/status/1996326598929535487"
-      },
-      {
-        "date": "2025-12-03",
-        "text": "Giannis Antetokounmpo came into the season having bought into the championship roster vision of general manager Jon Horst and coach Doc Rivers.Before the season started, sources said Antetokounmpo would examine the Bucks' first 25 or so games this season and make decisions on his long-term future, depending on whether the team showed signs of competing in the Eastern Conference.ESPN",
-        "text_html": "Giannis Antetokounmpo came into the season having bought into the championship roster vision of general manager Jon Horst and coach Doc Rivers. <a href=\"https://www.espn.com/nba/story/_/id/47191857/sources-giannis-antetokounmpo-bucks-discussing-future\" target=\"_blank\" style=\"color: #1a73e8;\">Before the season started, sources said Antetokounmpo would examine the Bucks' first 25 or so games this season and make decisions on his long-term future, depending on whether the team showed signs of competing in the Eastern Conference</a>.",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/47191857/sources-giannis-antetokounmpo-bucks-discussing-future"
-      },
-      {
-        "date": "2025-12-03",
-        "text": "Several sources have characterized the losing as frustrating for Antetokounmpo and the team's front office, coaches and the rest of the players. Butone source with direct knowledge of the situation described it as \"the writing is on the wall\" on the inevitable outcome for Antetokounmpo unless there is a dramatic turn of events in the Bucks' season.ESPN",
-        "text_html": "Several sources have characterized the losing as frustrating for Antetokounmpo and the team's front office, coaches and the rest of the players. But <a href=\"https://www.espn.com/nba/story/_/id/47191857/sources-giannis-antetokounmpo-bucks-discussing-future\" target=\"_blank\" style=\"color: #1a73e8;\">one source with direct knowledge of the situation described it as \"the writing is on the wall\" on the inevitable outcome for Antetokounmpo unless there is a dramatic turn of events in the Bucks' season</a>.",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/47191857/sources-giannis-antetokounmpo-bucks-discussing-future"
-      },
-      {
-        "date": "2025-12-03",
-        "text": "Over the offseason, Antetokounmpo explored external options and was open to playing for one team outside of Milwaukee -- the New York Knicks -- as a potential trade home.Sources described it as an exclusive negotiating window for the Knicks over a multiweek period in August, but that will not be the case moving forward. Multiple other teams would be expected to emerge as suitors for the nine-time All-Star if trades are explored.ESPN",
-        "text_html": "Over the offseason, Antetokounmpo explored external options and was open to playing for one team outside of Milwaukee -- the New York Knicks -- as a potential trade home. <a href=\"https://www.espn.com/nba/story/_/id/47191857/sources-giannis-antetokounmpo-bucks-discussing-future\" target=\"_blank\" style=\"color: #1a73e8;\">Sources described it as an exclusive negotiating window for the Knicks over a multiweek period in August, but that will not be the case moving forward</a>. Multiple other teams would be expected to emerge as suitors for the nine-time All-Star if trades are explored.",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/47191857/sources-giannis-antetokounmpo-bucks-discussing-future"
-      },
-      {
-        "date": "2025-12-03",
-        "text": "Shams Charania: Just in:Giannis Antetokounmpo and his agent Alex Saratsis have started conversations with the Milwaukee Bucks about the two-time NBA MVP's future \u2013 and discussing whether his best fit is staying or elsewhere,sources tell ESPN. A resolution is expected in the coming weeks.Twitter @ShamsCharania",
-        "text_html": "Shams Charania: Just in: <a href=\"https://hoopshype.com/social/\" target=\"_blank\" style=\"color: #1a73e8;\">Giannis Antetokounmpo and his agent Alex Saratsis have started conversations with the Milwaukee Bucks about the two-time NBA MVP's future \u2013 and discussing whether his best fit is staying or elsewhere,</a> sources tell ESPN. A resolution is expected in the coming weeks.",
-        "outlet": "Twitter @ShamsCharania",
-        "source_url": "https://hoopshype.com/social/"
-      },
-      {
-        "date": "2025-12-03",
-        "text": "ESPN Cleveland: Brian Windhorst:The Bucks called the Knicks and asked for an offer for Giannis Antetokounmpo, because Giannis said, 'I want to be a Knick.' .... Guys, Giannis has asked to be traded already. It appears Giannis committed to himself for the season to the Bucks. But the Bucks are not good. This year, when Giannis hasn't played, the Bucks are 1-5. When he has played, they're 9-8. Would his viewpoint change? I don't know.x.com",
-        "text_html": "ESPN Cleveland: Brian Windhorst: <a href=\"https://x.com/ESPNCleveland/status/1996258638327857617?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">The Bucks called the Knicks and asked for an offer for Giannis Antetokounmpo, because Giannis said, 'I want to be a Knick.' .... Guys, Giannis has asked to be traded already. It appears Giannis committed to himself for the season to the Bucks. But the Bucks are not good. This year, when Giannis hasn't played, the Bucks are 1-5. When he has played, they're 9-8. Would his viewpoint change? I don't know</a>.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/ESPNCleveland/status/1996258638327857617?s=20"
       }
     ],
     "Kyrie Irving": [
@@ -2943,20 +2873,6 @@
         "text_html": "Jake Fischer: <a href=\"https://www.youtube.com/watch?v=xAMVMh9f7KA\" target=\"_blank\" style=\"color: #1a73e8;\">I don\u2019t think Sacramento is really interested in LaMelo Ball. I think everything Scott Perry has talked about, both privately and publicly since taking over this team, points to a desire to reestablish a tough, gritty identity. Someone I spoke with on the phone this morning \u2014 a prominent NBA figure \u2014 called LaMelo Ball \u2018the most unserious player in the NBA.\u2019</a> That\u2019s not my opinion \u2014 that was a quote from someone inside the league. I don\u2019t think Sacramento would view LaMelo as someone to really reinvigorate their culture around.\u201d",
         "outlet": "YouTube",
         "source_url": "https://www.youtube.com/watch?v=xAMVMh9f7KA"
-      },
-      {
-        "date": "2025-12-03",
-        "text": "Charlotte's\u00a0LaMelo Ball,\u00a0Memphis'\u00a0Ja Morant\u00a0and\u00a0Atlanta's\u00a0Trae Young\u00a0all seem to be stuck in a sort of limbo with the franchises that they've been the faces of since entering the league as high lottery picks. There is rampant speculation among rival teams that Ball, Morant and Young could all be available leading up to the Feb. 5 trade deadline. For a variety of reasons, from their maximum contracts to their major flaws, it's not a discussion that generates much enthusiasm despite their status as big names who have put up big numbers.\"I wouldn't want any of them,\" a Western Conference general manager\u00a0told\u00a0ESPN. That was a popular opinion in an informal poll of\u00a0executives, scouts and coaches conducted by ESPN. There wasn't a consensus about which one of the three would command the biggest return if they ended up getting shopped in the trade market, as votes were split among Ball, Morant and Young. \"They all might have negative value,\" an Eastern Conference\u00a0executive\u00a0said.ESPN",
-        "text_html": "Charlotte's LaMelo Ball, Memphis' Ja Morant and Atlanta's Trae Young all seem to be stuck in a sort of limbo with the franchises that they've been the faces of since entering the league as high lottery picks. There is rampant speculation among rival teams that Ball, Morant and Young could all be available leading up to the Feb. 5 trade deadline. For a variety of reasons, from their maximum contracts to their major flaws, it's not a discussion that generates much enthusiasm despite their status as big names who have put up big numbers. <a href=\"https://www.espn.com/nba/story/_/id/47179857/ja-morant-lamelo-ball-trae-young-three-all-star-guards-limbo\" target=\"_blank\" style=\"color: #1a73e8;\">\"I wouldn't want any of them,\" a Western Conference general manager told ESPN</a>. That was a popular opinion in an informal poll of executives, scouts and coaches conducted by ESPN. There wasn't a consensus about which one of the three would command the biggest return if they ended up getting shopped in the trade market, as votes were split among Ball, Morant and Young. \"They all might have negative value,\" an Eastern Conference executive said.",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/47179857/ja-morant-lamelo-ball-trae-young-three-all-star-guards-limbo"
-      },
-      {
-        "date": "2025-12-03",
-        "text": "Coaches, scouts and\u00a0executives\u00a0often roll their eyes when discussing Ball's tendency to launch long 3-pointers off one foot early in the shot clock. Ball's bad shot selection is a significant factor in his career-worst percentages (37.9% from the floor, 28.1% on 3s) this season.\"He's definitely one of the top three most talented guards in the league,\" a West\u00a0executive\u00a0said. \"But every [scouting] report I write on him has the word 'Globetrotter' in it.\"Added a West scout: \"They all have their warts, but I don't think you can win anything with LaMelo.\"ESPN",
-        "text_html": "Coaches, scouts and executives often roll their eyes when discussing Ball's tendency to launch long 3-pointers off one foot early in the shot clock. Ball's bad shot selection is a significant factor in his career-worst percentages (37.9% from the floor, 28.1% on 3s) this season. <a href=\"https://www.espn.com/nba/story/_/id/47179857/ja-morant-lamelo-ball-trae-young-three-all-star-guards-limbo\" target=\"_blank\" style=\"color: #1a73e8;\">\"He's definitely one of the top three most talented guards in the league,\" a West executive said. \"But every [scouting] report I write on him has the word 'Globetrotter' in it.\"</a> Added a West scout: \"They all have their warts, but I don't think you can win anything with LaMelo.\"",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/47179857/ja-morant-lamelo-ball-trae-young-three-all-star-guards-limbo"
       }
     ],
     "Lauri Markkanen": [
@@ -3092,20 +3008,6 @@
         "text_html": "Miami was already shaping into a surprising buyer on this trade market even before this week's Giannis headlines. League sources say that <a href=\"https://marcstein.substack.com/p/sunday-best-the-nba-trade-topic-that\" target=\"_blank\" style=\"color: #1a73e8;\">the Heat, for example, have had internal discussions about Memphis' Ja Morant and how Miami's infrastructure could benefit him</a>.",
         "outlet": "marcstein.substack.com",
         "source_url": "https://marcstein.substack.com/p/sunday-best-the-nba-trade-topic-that"
-      },
-      {
-        "date": "2025-12-03",
-        "text": "Charlotte's\u00a0LaMelo Ball,\u00a0Memphis'\u00a0Ja Morant\u00a0and\u00a0Atlanta's\u00a0Trae Young\u00a0all seem to be stuck in a sort of limbo with the franchises that they've been the faces of since entering the league as high lottery picks. There is rampant speculation among rival teams that Ball, Morant and Young could all be available leading up to the Feb. 5 trade deadline. For a variety of reasons, from their maximum contracts to their major flaws, it's not a discussion that generates much enthusiasm despite their status as big names who have put up big numbers.\"I wouldn't want any of them,\" a Western Conference general manager\u00a0told\u00a0ESPN. That was a popular opinion in an informal poll of\u00a0executives, scouts and coaches conducted by ESPN. There wasn't a consensus about which one of the three would command the biggest return if they ended up getting shopped in the trade market, as votes were split among Ball, Morant and Young. \"They all might have negative value,\" an Eastern Conference\u00a0executive\u00a0said.ESPN",
-        "text_html": "Charlotte's LaMelo Ball, Memphis' Ja Morant and Atlanta's Trae Young all seem to be stuck in a sort of limbo with the franchises that they've been the faces of since entering the league as high lottery picks. There is rampant speculation among rival teams that Ball, Morant and Young could all be available leading up to the Feb. 5 trade deadline. For a variety of reasons, from their maximum contracts to their major flaws, it's not a discussion that generates much enthusiasm despite their status as big names who have put up big numbers. <a href=\"https://www.espn.com/nba/story/_/id/47179857/ja-morant-lamelo-ball-trae-young-three-all-star-guards-limbo\" target=\"_blank\" style=\"color: #1a73e8;\">\"I wouldn't want any of them,\" a Western Conference general manager told ESPN</a>. That was a popular opinion in an informal poll of executives, scouts and coaches conducted by ESPN. There wasn't a consensus about which one of the three would command the biggest return if they ended up getting shopped in the trade market, as votes were split among Ball, Morant and Young. \"They all might have negative value,\" an Eastern Conference executive said.",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/47179857/ja-morant-lamelo-ball-trae-young-three-all-star-guards-limbo"
-      },
-      {
-        "date": "2025-12-03",
-        "text": "Ja Morant emerged as one of the NBA's most electrifying stars primarily because he was so dynamic attacking off the dribble. But he's shown increasing hesitancy to drive into the paint.\u00a0According to\u00a0Basketball Reference, the percentage of Morant's field goal attempts within three feet of the basket has dipped each season and plummeted this season. Only 15.4% of his attempts have come from that close range this season, less than half of his career norm.\"Either you're declining at a rapidly fast rate, or you've quit on this [coach],\" a West\u00a0executive\u00a0said. Morant has readily admitted that he stopped attacking the rim with reckless abandon as a way to protect his body, blaming officials for putting him in harm's way by swallowing their whistles.ESPN",
-        "text_html": "Ja Morant emerged as one of the NBA's most electrifying stars primarily because he was so dynamic attacking off the dribble. But he's shown increasing hesitancy to drive into the paint. According to Basketball Reference, the percentage of Morant's field goal attempts within three feet of the basket has dipped each season and plummeted this season. Only 15.4% of his attempts have come from that close range this season, less than half of his career norm. <a href=\"https://www.espn.com/nba/story/_/id/47179857/ja-morant-lamelo-ball-trae-young-three-all-star-guards-limbo\" target=\"_blank\" style=\"color: #1a73e8;\">\"Either you're declining at a rapidly fast rate, or you've quit on this [coach],\" a West executive said</a>. Morant has readily admitted that he stopped attacking the rim with reckless abandon as a way to protect his body, blaming officials for putting him in harm's way by swallowing their whistles.",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/47179857/ja-morant-lamelo-ball-trae-young-three-all-star-guards-limbo"
       }
     ],
     "Dejounte Murray": [
@@ -3363,6 +3265,9 @@
     ]
   },
   "daily_counts": {
+    "Mark Williams": {
+      "2025-12-31": 1
+    },
     "Zach LaVine": {
       "2025-12-31": 1,
       "2025-12-30": 1,
@@ -3450,8 +3355,7 @@
       "2025-12-20": 1,
       "2025-12-19": 1,
       "2025-12-18": 1,
-      "2025-12-12": 1,
-      "2025-12-03": 2
+      "2025-12-12": 1
     },
     "Giannis Antetokounmpo": {
       "2025-12-31": 1,
@@ -3474,8 +3378,7 @@
       "2025-12-08": 5,
       "2025-12-06": 1,
       "2025-12-05": 1,
-      "2025-12-04": 7,
-      "2025-12-03": 11
+      "2025-12-04": 7
     },
     "Kyrie Irving": {
       "2025-12-30": 1,
@@ -3632,8 +3535,7 @@
     },
     "LaMelo Ball": {
       "2025-12-18": 1,
-      "2025-12-11": 1,
-      "2025-12-03": 2
+      "2025-12-11": 1
     },
     "Lauri Markkanen": {
       "2025-12-18": 1,
@@ -3665,8 +3567,7 @@
       "2025-12-17": 1,
       "2025-12-11": 1,
       "2025-12-10": 1,
-      "2025-12-08": 1,
-      "2025-12-03": 2
+      "2025-12-08": 1
     },
     "Dejounte Murray": {
       "2025-12-16": 1
