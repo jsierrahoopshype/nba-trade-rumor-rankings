@@ -1,81 +1,81 @@
 {
-  "generated_at": "2026-01-09T19:20:20.184065",
+  "generated_at": "2026-01-10T02:51:35.609775",
   "scrape_window_days": 28,
-  "window_start": "2025-12-12",
-  "window_end": "2026-01-09",
-  "total_rumors": 379,
-  "total_players": 93,
+  "window_start": "2025-12-13",
+  "window_end": "2026-01-10",
+  "total_rumors": 361,
+  "total_players": 92,
   "rankings": [
     {
       "player": "Trae Young",
-      "score": 37.5,
+      "score": 37.25,
       "mentions_week1": 32,
       "mentions_week2": 9,
-      "mentions_weeks3_4": 4,
-      "total_mentions": 45,
-      "first_mention": "2025-12-12",
+      "mentions_weeks3_4": 3,
+      "total_mentions": 44,
+      "first_mention": "2025-12-18",
       "last_mention": "2026-01-09",
       "team": "Atlanta Hawks",
       "rank": 1
     },
     {
       "player": "Anthony Davis",
-      "score": 29.75,
-      "mentions_week1": 20,
-      "mentions_week2": 12,
-      "mentions_weeks3_4": 15,
-      "total_mentions": 47,
-      "first_mention": "2025-12-12",
+      "score": 28.25,
+      "mentions_week1": 19,
+      "mentions_week2": 13,
+      "mentions_weeks3_4": 11,
+      "total_mentions": 43,
+      "first_mention": "2025-12-15",
       "last_mention": "2026-01-09",
       "team": "Dallas Mavericks",
       "rank": 2
     },
     {
       "player": "Giannis Antetokounmpo",
-      "score": 19.5,
-      "mentions_week1": 11,
-      "mentions_week2": 6,
-      "mentions_weeks3_4": 22,
-      "total_mentions": 39,
-      "first_mention": "2025-12-12",
+      "score": 18.5,
+      "mentions_week1": 10,
+      "mentions_week2": 7,
+      "mentions_weeks3_4": 20,
+      "total_mentions": 37,
+      "first_mention": "2025-12-13",
       "last_mention": "2026-01-09",
       "team": "Milwaukee Bucks",
       "rank": 3
     },
     {
       "player": "Jonathan Kuminga",
-      "score": 10.25,
+      "score": 9.5,
       "mentions_week1": 8,
       "mentions_week2": 1,
-      "mentions_weeks3_4": 7,
-      "total_mentions": 16,
-      "first_mention": "2025-12-12",
+      "mentions_weeks3_4": 4,
+      "total_mentions": 13,
+      "first_mention": "2025-12-17",
       "last_mention": "2026-01-09",
       "team": "Golden State Warriors",
       "rank": 4
     },
     {
-      "player": "Zach LaVine",
-      "score": 6.5,
-      "mentions_week1": 4,
-      "mentions_week2": 2,
-      "mentions_weeks3_4": 6,
-      "total_mentions": 12,
-      "first_mention": "2025-12-12",
-      "last_mention": "2026-01-07",
-      "team": "Sacramento Kings",
-      "rank": 5
-    },
-    {
       "player": "Ja Morant",
-      "score": 5.25,
-      "mentions_week1": 5,
+      "score": 8.25,
+      "mentions_week1": 8,
       "mentions_week2": 0,
       "mentions_weeks3_4": 1,
-      "total_mentions": 6,
+      "total_mentions": 9,
       "first_mention": "2025-12-17",
       "last_mention": "2026-01-09",
       "team": "Memphis Grizzlies",
+      "rank": 5
+    },
+    {
+      "player": "Zach LaVine",
+      "score": 5.75,
+      "mentions_week1": 3,
+      "mentions_week2": 3,
+      "mentions_weeks3_4": 5,
+      "total_mentions": 11,
+      "first_mention": "2025-12-15",
+      "last_mention": "2026-01-07",
+      "team": "Sacramento Kings",
       "rank": 6
     },
     {
@@ -91,18 +91,6 @@
       "rank": 7
     },
     {
-      "player": "Daniel Gafford",
-      "score": 4.5,
-      "mentions_week1": 3,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 6,
-      "total_mentions": 9,
-      "first_mention": "2025-12-12",
-      "last_mention": "2026-01-07",
-      "team": "Dallas Mavericks",
-      "rank": 8
-    },
-    {
       "player": "Darius Garland",
       "score": 4.5,
       "mentions_week1": 3,
@@ -112,19 +100,7 @@
       "first_mention": "2025-12-14",
       "last_mention": "2026-01-06",
       "team": "Cleveland Cavaliers",
-      "rank": 9
-    },
-    {
-      "player": "Michael Porter",
-      "score": 4.5,
-      "mentions_week1": 3,
-      "mentions_week2": 2,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 7,
-      "first_mention": "2025-12-12",
-      "last_mention": "2026-01-08",
-      "team": "Golden State Warriors",
-      "rank": 10
+      "rank": 8
     },
     {
       "player": "Keon Ellis",
@@ -136,7 +112,19 @@
       "first_mention": "2025-12-14",
       "last_mention": "2026-01-09",
       "team": "Sacramento Kings",
-      "rank": 11
+      "rank": 9
+    },
+    {
+      "player": "Daniel Gafford",
+      "score": 4.0,
+      "mentions_week1": 3,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 4,
+      "total_mentions": 7,
+      "first_mention": "2025-12-18",
+      "last_mention": "2026-01-07",
+      "team": "Dallas Mavericks",
+      "rank": 10
     },
     {
       "player": "LeBron James",
@@ -148,6 +136,18 @@
       "first_mention": "2025-12-30",
       "last_mention": "2026-01-07",
       "team": "Los Angeles Lakers",
+      "rank": 11
+    },
+    {
+      "player": "Michael Porter",
+      "score": 3.75,
+      "mentions_week1": 2,
+      "mentions_week2": 3,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 6,
+      "first_mention": "2025-12-17",
+      "last_mention": "2026-01-08",
+      "team": "Golden State Warriors",
       "rank": 12
     },
     {
@@ -200,15 +200,27 @@
     },
     {
       "player": "Coby White",
-      "score": 3.25,
+      "score": 3.0,
       "mentions_week1": 2,
       "mentions_week2": 0,
-      "mentions_weeks3_4": 5,
-      "total_mentions": 7,
-      "first_mention": "2025-12-12",
+      "mentions_weeks3_4": 4,
+      "total_mentions": 6,
+      "first_mention": "2025-12-13",
       "last_mention": "2026-01-07",
       "team": "Chicago Bulls",
       "rank": 17
+    },
+    {
+      "player": "Herb Jones",
+      "score": 3.0,
+      "mentions_week1": 2,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 4,
+      "total_mentions": 6,
+      "first_mention": "2025-12-14",
+      "last_mention": "2026-01-09",
+      "team": "New Orleans Pelicans",
+      "rank": 18
     },
     {
       "player": "Donovan Mitchell",
@@ -220,7 +232,7 @@
       "first_mention": "2025-12-18",
       "last_mention": "2026-01-06",
       "team": "Cleveland Cavaliers",
-      "rank": 18
+      "rank": 19
     },
     {
       "player": "Kevin Durant",
@@ -232,7 +244,7 @@
       "first_mention": "2026-01-06",
       "last_mention": "2026-01-08",
       "team": "Houston Rockets",
-      "rank": 19
+      "rank": 20
     },
     {
       "player": "Malik Monk",
@@ -244,7 +256,7 @@
       "first_mention": "2025-12-23",
       "last_mention": "2026-01-03",
       "team": "Sacramento Kings",
-      "rank": 20
+      "rank": 21
     },
     {
       "player": "Kristaps Porzingis",
@@ -256,43 +268,19 @@
       "first_mention": "2025-12-18",
       "last_mention": "2026-01-07",
       "team": "Atlanta Hawks",
-      "rank": 21
+      "rank": 22
     },
     {
-      "player": "Cooper Flagg",
+      "player": "Trey Murphy",
       "score": 2.25,
       "mentions_week1": 2,
       "mentions_week2": 0,
       "mentions_weeks3_4": 1,
       "total_mentions": 3,
-      "first_mention": "2025-12-12",
-      "last_mention": "2026-01-07",
-      "team": "Dallas Mavericks",
-      "rank": 22
-    },
-    {
-      "player": "Herb Jones",
-      "score": 2.0,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 4,
-      "total_mentions": 5,
-      "first_mention": "2025-12-14",
-      "last_mention": "2026-01-06",
+      "first_mention": "2025-12-18",
+      "last_mention": "2026-01-09",
       "team": "New Orleans Pelicans",
       "rank": 23
-    },
-    {
-      "player": "Klay Thompson",
-      "score": 2.0,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 4,
-      "total_mentions": 5,
-      "first_mention": "2025-12-12",
-      "last_mention": "2026-01-07",
-      "team": "Dallas Mavericks",
-      "rank": 24
     },
     {
       "player": "Corey Kispert",
@@ -304,6 +292,18 @@
       "first_mention": "2026-01-07",
       "last_mention": "2026-01-07",
       "team": "Atlanta Hawks",
+      "rank": 24
+    },
+    {
+      "player": "Derik Queen",
+      "score": 2.0,
+      "mentions_week1": 2,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 2,
+      "first_mention": "2026-01-06",
+      "last_mention": "2026-01-09",
+      "team": "New Orleans Pelicans",
       "rank": 25
     },
     {
@@ -331,6 +331,18 @@
       "rank": 27
     },
     {
+      "player": "Jaren Jackson Jr",
+      "score": 2.0,
+      "mentions_week1": 2,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 2,
+      "first_mention": "2026-01-09",
+      "last_mention": "2026-01-09",
+      "team": "Memphis Grizzlies",
+      "rank": 28
+    },
+    {
       "player": "Jordan Poole",
       "score": 2.0,
       "mentions_week1": 2,
@@ -340,7 +352,7 @@
       "first_mention": "2026-01-05",
       "last_mention": "2026-01-09",
       "team": "Atlanta Hawks",
-      "rank": 28
+      "rank": 29
     },
     {
       "player": "Kevin Love",
@@ -352,7 +364,19 @@
       "first_mention": "2026-01-07",
       "last_mention": "2026-01-07",
       "team": "Utah Jazz",
-      "rank": 29
+      "rank": 30
+    },
+    {
+      "player": "Zion Williamson",
+      "score": 2.0,
+      "mentions_week1": 2,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 2,
+      "first_mention": "2026-01-06",
+      "last_mention": "2026-01-09",
+      "team": "New Orleans Pelicans",
+      "rank": 31
     },
     {
       "player": "James Harden",
@@ -364,19 +388,19 @@
       "first_mention": "2025-12-18",
       "last_mention": "2025-12-31",
       "team": "Los Angeles Clippers",
-      "rank": 30
+      "rank": 32
     },
     {
-      "player": "Terry Rozier",
+      "player": "Klay Thompson",
       "score": 1.75,
       "mentions_week1": 1,
       "mentions_week2": 0,
       "mentions_weeks3_4": 3,
       "total_mentions": 4,
-      "first_mention": "2025-12-12",
-      "last_mention": "2026-01-06",
-      "team": "Miami Heat",
-      "rank": 31
+      "first_mention": "2025-12-17",
+      "last_mention": "2026-01-07",
+      "team": "Dallas Mavericks",
+      "rank": 33
     },
     {
       "player": "Evan Mobley",
@@ -388,42 +412,18 @@
       "first_mention": "2025-12-18",
       "last_mention": "2026-01-06",
       "team": "Cleveland Cavaliers",
-      "rank": 32
-    },
-    {
-      "player": "Kyrie Irving",
-      "score": 1.75,
-      "mentions_week1": 1,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 3,
-      "first_mention": "2025-12-12",
-      "last_mention": "2026-01-08",
-      "team": "Dallas Mavericks",
-      "rank": 33
-    },
-    {
-      "player": "Guerschon Yabusele",
-      "score": 1.5,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 3,
-      "first_mention": "2025-12-22",
-      "last_mention": "2026-01-02",
-      "team": "New York Knicks",
       "rank": 34
     },
     {
-      "player": "Trey Murphy",
+      "player": "Terry Rozier",
       "score": 1.5,
       "mentions_week1": 1,
       "mentions_week2": 0,
       "mentions_weeks3_4": 2,
       "total_mentions": 3,
-      "first_mention": "2025-12-12",
+      "first_mention": "2025-12-18",
       "last_mention": "2026-01-06",
-      "team": "New Orleans Pelicans",
+      "team": "Miami Heat",
       "rank": 35
     },
     {
@@ -439,16 +439,28 @@
       "rank": 36
     },
     {
-      "player": "Domantas Sabonis",
-      "score": 1.25,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 5,
-      "total_mentions": 5,
-      "first_mention": "2025-12-12",
-      "last_mention": "2025-12-18",
-      "team": "Sacramento Kings",
+      "player": "Cooper Flagg",
+      "score": 1.5,
+      "mentions_week1": 1,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 2,
+      "first_mention": "2026-01-02",
+      "last_mention": "2026-01-07",
+      "team": "Dallas Mavericks",
       "rank": 37
+    },
+    {
+      "player": "Kyrie Irving",
+      "score": 1.5,
+      "mentions_week1": 1,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 2,
+      "first_mention": "2025-12-30",
+      "last_mention": "2026-01-08",
+      "team": "Dallas Mavericks",
+      "rank": 38
     },
     {
       "player": "Jerami Grant",
@@ -460,18 +472,6 @@
       "first_mention": "2025-12-16",
       "last_mention": "2025-12-31",
       "team": "Milwaukee Bucks",
-      "rank": 38
-    },
-    {
-      "player": "Jose Alvarado",
-      "score": 1.25,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 2,
-      "first_mention": "2025-12-12",
-      "last_mention": "2026-01-08",
-      "team": "New Orleans Pelicans",
       "rank": 39
     },
     {
@@ -499,18 +499,6 @@
       "rank": 41
     },
     {
-      "player": "Nicolas Claxton",
-      "score": 1.25,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 2,
-      "first_mention": "2025-12-12",
-      "last_mention": "2026-01-06",
-      "team": "Dallas Mavericks",
-      "rank": 42
-    },
-    {
       "player": "Nique Clifford",
       "score": 1.25,
       "mentions_week1": 1,
@@ -520,7 +508,7 @@
       "first_mention": "2025-12-18",
       "last_mention": "2026-01-09",
       "team": "Sacramento Kings",
-      "rank": 43
+      "rank": 42
     },
     {
       "player": "Andrew Wiggins",
@@ -532,7 +520,31 @@
       "first_mention": "2025-12-16",
       "last_mention": "2025-12-20",
       "team": "Miami Heat",
+      "rank": 43
+    },
+    {
+      "player": "Domantas Sabonis",
+      "score": 1.0,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 4,
+      "total_mentions": 4,
+      "first_mention": "2025-12-15",
+      "last_mention": "2025-12-18",
+      "team": "Sacramento Kings",
       "rank": 44
+    },
+    {
+      "player": "Guerschon Yabusele",
+      "score": 1.0,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 2,
+      "total_mentions": 3,
+      "first_mention": "2025-12-22",
+      "last_mention": "2026-01-02",
+      "team": "New York Knicks",
+      "rank": 45
     },
     {
       "player": "Mark Williams",
@@ -544,7 +556,7 @@
       "first_mention": "2025-12-31",
       "last_mention": "2026-01-01",
       "team": "Phoenix Suns",
-      "rank": 45
+      "rank": 46
     },
     {
       "player": "Anfernee Simons",
@@ -556,7 +568,7 @@
       "first_mention": "2026-01-06",
       "last_mention": "2026-01-06",
       "team": "Boston Celtics",
-      "rank": 46
+      "rank": 47
     },
     {
       "player": "Bam Adebayo",
@@ -568,7 +580,7 @@
       "first_mention": "2026-01-03",
       "last_mention": "2026-01-03",
       "team": "Miami Heat",
-      "rank": 47
+      "rank": 48
     },
     {
       "player": "Caleb Martin",
@@ -580,7 +592,7 @@
       "first_mention": "2026-01-07",
       "last_mention": "2026-01-07",
       "team": "Dallas Mavericks",
-      "rank": 48
+      "rank": 49
     },
     {
       "player": "Deni Avdija",
@@ -592,19 +604,19 @@
       "first_mention": "2026-01-06",
       "last_mention": "2026-01-06",
       "team": "Portland Trail Blazers",
-      "rank": 49
+      "rank": 50
     },
     {
-      "player": "Derik Queen",
+      "player": "Desmond Bane",
       "score": 1.0,
       "mentions_week1": 1,
       "mentions_week2": 0,
       "mentions_weeks3_4": 0,
       "total_mentions": 1,
-      "first_mention": "2026-01-06",
-      "last_mention": "2026-01-06",
-      "team": "Atlanta Hawks",
-      "rank": 50
+      "first_mention": "2026-01-09",
+      "last_mention": "2026-01-09",
+      "team": "Orlando Magic",
+      "rank": 51
     },
     {
       "player": "Doug McDermott",
@@ -616,7 +628,7 @@
       "first_mention": "2026-01-08",
       "last_mention": "2026-01-08",
       "team": "New York Knicks",
-      "rank": 51
+      "rank": 52
     },
     {
       "player": "Dyson Daniels",
@@ -628,10 +640,10 @@
       "first_mention": "2026-01-07",
       "last_mention": "2026-01-07",
       "team": "Atlanta Hawks",
-      "rank": 52
+      "rank": 53
     },
     {
-      "player": "Jaren Jackson Jr",
+      "player": "Jeremiah Fears",
       "score": 1.0,
       "mentions_week1": 1,
       "mentions_week2": 0,
@@ -639,8 +651,20 @@
       "total_mentions": 1,
       "first_mention": "2026-01-09",
       "last_mention": "2026-01-09",
-      "team": "Memphis Grizzlies",
-      "rank": 53
+      "team": "New Orleans Pelicans",
+      "rank": 54
+    },
+    {
+      "player": "Jose Alvarado",
+      "score": 1.0,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-01-08",
+      "last_mention": "2026-01-08",
+      "team": "New Orleans Pelicans",
+      "rank": 55
     },
     {
       "player": "Kelly Oubre",
@@ -652,7 +676,7 @@
       "first_mention": "2026-01-08",
       "last_mention": "2026-01-08",
       "team": "Atlanta Hawks",
-      "rank": 54
+      "rank": 56
     },
     {
       "player": "Luka Doncic",
@@ -664,7 +688,7 @@
       "first_mention": "2026-01-08",
       "last_mention": "2026-01-08",
       "team": "Los Angeles Lakers",
-      "rank": 55
+      "rank": 57
     },
     {
       "player": "Naji Marshall",
@@ -676,7 +700,7 @@
       "first_mention": "2026-01-07",
       "last_mention": "2026-01-07",
       "team": "Dallas Mavericks",
-      "rank": 56
+      "rank": 58
     },
     {
       "player": "Nickeil Alexander-Walker",
@@ -688,7 +712,19 @@
       "first_mention": "2026-01-08",
       "last_mention": "2026-01-08",
       "team": "Atlanta Hawks",
-      "rank": 57
+      "rank": 59
+    },
+    {
+      "player": "Nicolas Claxton",
+      "score": 1.0,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-01-06",
+      "last_mention": "2026-01-06",
+      "team": "Dallas Mavericks",
+      "rank": 60
     },
     {
       "player": "RJ Barrett",
@@ -700,7 +736,7 @@
       "first_mention": "2026-01-09",
       "last_mention": "2026-01-09",
       "team": "Dallas Mavericks",
-      "rank": 58
+      "rank": 61
     },
     {
       "player": "Rob Dillingham",
@@ -712,7 +748,7 @@
       "first_mention": "2026-01-07",
       "last_mention": "2026-01-07",
       "team": "Minnesota Timberwolves",
-      "rank": 59
+      "rank": 62
     },
     {
       "player": "Tyrese Maxey",
@@ -724,7 +760,7 @@
       "first_mention": "2026-01-08",
       "last_mention": "2026-01-08",
       "team": "Philadelphia 76ers",
-      "rank": 60
+      "rank": 63
     },
     {
       "player": "Yves Missi",
@@ -736,19 +772,7 @@
       "first_mention": "2026-01-06",
       "last_mention": "2026-01-06",
       "team": "Dallas Mavericks",
-      "rank": 61
-    },
-    {
-      "player": "Zion Williamson",
-      "score": 1.0,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-01-06",
-      "last_mention": "2026-01-06",
-      "team": "New Orleans Pelicans",
-      "rank": 62
+      "rank": 64
     },
     {
       "player": "DeMar DeRozan",
@@ -760,7 +784,7 @@
       "first_mention": "2025-12-15",
       "last_mention": "2025-12-18",
       "team": "Sacramento Kings",
-      "rank": 63
+      "rank": 65
     },
     {
       "player": "Nick Richards",
@@ -772,19 +796,7 @@
       "first_mention": "2025-12-18",
       "last_mention": "2025-12-18",
       "team": "Phoenix Suns",
-      "rank": 64
-    },
-    {
-      "player": "Jalen Johnson",
-      "score": 0.75,
-      "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 2,
-      "first_mention": "2025-12-12",
-      "last_mention": "2026-01-01",
-      "team": "Atlanta Hawks",
-      "rank": 65
+      "rank": 66
     },
     {
       "player": "D'Angelo Russell",
@@ -796,7 +808,7 @@
       "first_mention": "2025-12-17",
       "last_mention": "2025-12-18",
       "team": "Dallas Mavericks",
-      "rank": 66
+      "rank": 67
     },
     {
       "player": "Lauri Markkanen",
@@ -808,7 +820,7 @@
       "first_mention": "2025-12-16",
       "last_mention": "2025-12-18",
       "team": "Utah Jazz",
-      "rank": 67
+      "rank": 68
     },
     {
       "player": "Stephon Castle",
@@ -820,18 +832,6 @@
       "first_mention": "2025-12-18",
       "last_mention": "2025-12-18",
       "team": "San Antonio Spurs",
-      "rank": 68
-    },
-    {
-      "player": "Tyler Herro",
-      "score": 0.5,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 2,
-      "first_mention": "2025-12-12",
-      "last_mention": "2025-12-18",
-      "team": "Miami Heat",
       "rank": 69
     },
     {
@@ -847,6 +847,18 @@
       "rank": 70
     },
     {
+      "player": "Jalen Johnson",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-01-01",
+      "last_mention": "2026-01-01",
+      "team": "Atlanta Hawks",
+      "rank": 71
+    },
+    {
       "player": "Luke Kennard",
       "score": 0.5,
       "mentions_week1": 0,
@@ -856,7 +868,7 @@
       "first_mention": "2025-12-28",
       "last_mention": "2025-12-28",
       "team": "Atlanta Hawks",
-      "rank": 71
+      "rank": 72
     },
     {
       "player": "Nikola Vucevic",
@@ -868,7 +880,7 @@
       "first_mention": "2025-12-28",
       "last_mention": "2025-12-28",
       "team": "Chicago Bulls",
-      "rank": 72
+      "rank": 73
     },
     {
       "player": "Stephen Curry",
@@ -880,7 +892,7 @@
       "first_mention": "2026-01-01",
       "last_mention": "2026-01-01",
       "team": "Golden State Warriors",
-      "rank": 73
+      "rank": 74
     },
     {
       "player": "Austin Reaves",
@@ -892,7 +904,7 @@
       "first_mention": "2025-12-17",
       "last_mention": "2025-12-17",
       "team": "Los Angeles Lakers",
-      "rank": 74
+      "rank": 75
     },
     {
       "player": "Brandon Ingram",
@@ -904,7 +916,7 @@
       "first_mention": "2025-12-18",
       "last_mention": "2025-12-18",
       "team": "Toronto Raptors",
-      "rank": 75
+      "rank": 76
     },
     {
       "player": "Cam Thomas",
@@ -916,18 +928,6 @@
       "first_mention": "2025-12-16",
       "last_mention": "2025-12-16",
       "team": "Brooklyn Nets",
-      "rank": 76
-    },
-    {
-      "player": "Chris Paul",
-      "score": 0.25,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 1,
-      "first_mention": "2025-12-12",
-      "last_mention": "2025-12-12",
-      "team": "Los Angeles Clippers",
       "rank": 77
     },
     {
@@ -967,18 +967,6 @@
       "rank": 80
     },
     {
-      "player": "Dereck Lively",
-      "score": 0.25,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 1,
-      "first_mention": "2025-12-12",
-      "last_mention": "2025-12-12",
-      "team": "Dallas Mavericks",
-      "rank": 81
-    },
-    {
       "player": "Devin Booker",
       "score": 0.25,
       "mentions_week1": 0,
@@ -988,7 +976,7 @@
       "first_mention": "2025-12-17",
       "last_mention": "2025-12-17",
       "team": "Phoenix Suns",
-      "rank": 82
+      "rank": 81
     },
     {
       "player": "Donte DiVincenzo",
@@ -1000,7 +988,7 @@
       "first_mention": "2025-12-24",
       "last_mention": "2025-12-24",
       "team": "Minnesota Timberwolves",
-      "rank": 83
+      "rank": 82
     },
     {
       "player": "Gary Trent Jr",
@@ -1012,19 +1000,7 @@
       "first_mention": "2025-12-17",
       "last_mention": "2025-12-17",
       "team": "Los Angeles Lakers",
-      "rank": 84
-    },
-    {
-      "player": "Jaime Jaquez",
-      "score": 0.25,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 1,
-      "first_mention": "2025-12-12",
-      "last_mention": "2025-12-12",
-      "team": "Miami Heat",
-      "rank": 85
+      "rank": 83
     },
     {
       "player": "Jalen Green",
@@ -1036,7 +1012,7 @@
       "first_mention": "2025-12-18",
       "last_mention": "2025-12-18",
       "team": "Phoenix Suns",
-      "rank": 86
+      "rank": 84
     },
     {
       "player": "Jrue Holiday",
@@ -1048,7 +1024,7 @@
       "first_mention": "2025-12-23",
       "last_mention": "2025-12-23",
       "team": "Portland Trail Blazers",
-      "rank": 87
+      "rank": 85
     },
     {
       "player": "Karl-Anthony Towns",
@@ -1060,7 +1036,7 @@
       "first_mention": "2025-12-24",
       "last_mention": "2025-12-24",
       "team": "New York Knicks",
-      "rank": 88
+      "rank": 86
     },
     {
       "player": "Lonzo Ball",
@@ -1072,7 +1048,7 @@
       "first_mention": "2025-12-23",
       "last_mention": "2025-12-23",
       "team": "Cleveland Cavaliers",
-      "rank": 89
+      "rank": 87
     },
     {
       "player": "Max Strus",
@@ -1084,7 +1060,7 @@
       "first_mention": "2025-12-23",
       "last_mention": "2025-12-23",
       "team": "Cleveland Cavaliers",
-      "rank": 90
+      "rank": 88
     },
     {
       "player": "Robert Williams",
@@ -1096,7 +1072,7 @@
       "first_mention": "2025-12-20",
       "last_mention": "2025-12-20",
       "team": "Portland Trail Blazers",
-      "rank": 91
+      "rank": 89
     },
     {
       "player": "Russell Westbrook",
@@ -1108,7 +1084,19 @@
       "first_mention": "2025-12-15",
       "last_mention": "2025-12-15",
       "team": "Sacramento Kings",
-      "rank": 92
+      "rank": 90
+    },
+    {
+      "player": "Tyler Herro",
+      "score": 0.25,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 1,
+      "first_mention": "2025-12-18",
+      "last_mention": "2025-12-18",
+      "team": "Miami Heat",
+      "rank": 91
     },
     {
       "player": "Tyrese Haliburton",
@@ -1120,64 +1108,18 @@
       "first_mention": "2025-12-18",
       "last_mention": "2025-12-18",
       "team": "Indiana Pacers",
-      "rank": 93
+      "rank": 92
     }
   ],
   "player_rumors": {
-    "Ja Morant": [
-      {
-        "date": "2026-01-09",
-        "text": "The Memphis Grizzlies are entertaining offers to potentially move two-time All-Star Ja Morant ahead of the Feb. 5 NBA trade deadline,sources told ESPN. Multiple teams are pursuing Morant in trade talks, and rival executives believe the Grizzlies would prioritize draft picks and young players in return, sources said. This is the first time the Grizzlies have engaged other teams in trades for Morant, who was the No. 2 overall pick in the 2019 draft.ESPN",
-        "text_html": "<a href=\"https://www.espn.com/nba/story/_/id/47561697/grizzlies-entertaining-ja-morant-trade-offers-sources-say\" target=\"_blank\" style=\"color: #1a73e8;\">The Memphis Grizzlies are entertaining offers to potentially move two-time All-Star Ja Morant ahead of the Feb. 5 NBA trade deadline,</a> sources told ESPN. Multiple teams are pursuing Morant in trade talks, and rival executives believe the Grizzlies would prioritize draft picks and young players in return, sources said. This is the first time the Grizzlies have engaged other teams in trades for Morant, who was the No. 2 overall pick in the 2019 draft.",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/47561697/grizzlies-entertaining-ja-morant-trade-offers-sources-say"
-      },
-      {
-        "date": "2026-01-09",
-        "text": "Shams Charania: Just in:For the first time, the Memphis Grizzlies are entertaining offers to potentially move two-time All-Star Ja Morant ahead of the Feb. 5 NBA trade deadline,sources tell ESPN.x.com",
-        "text_html": "Shams Charania: Just in: <a href=\"https://x.com/ShamsCharania/status/2009685627978371316?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">For the first time, the Memphis Grizzlies are entertaining offers to potentially move two-time All-Star Ja Morant ahead of the Feb. 5 NBA trade deadline,</a> sources tell ESPN.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/ShamsCharania/status/2009685627978371316?s=20"
-      },
-      {
-        "date": "2026-01-09",
-        "text": "Shams Charania:Multiple teams are pursuing Morant in trade talks and rival executives believe the Grizzlies would prioritize draft picks and young players in return, sources said. Morant, 26, is under contract with the Grizzlies through the 2027-28 season.x.com",
-        "text_html": "Shams Charania: <a href=\"https://x.com/ShamsCharania/status/2009685812787470337?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">Multiple teams are pursuing Morant in trade talks and rival executives believe the Grizzlies would prioritize draft picks and young players in return, sources said. Morant, 26, is under contract with the Grizzlies through the 2027-28 season</a>.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/ShamsCharania/status/2009685812787470337?s=20"
-      },
-      {
-        "date": "2026-01-09",
-        "text": "Shams Charania:Memphis is considering multiple paths forward amid the emergence of several promising young players, including building around them and 2023 Defensive Player of the Year Jaren Jackson Jr. The Grizzlies also remain open to continue on with Morant as a focal part of their retool.x.com",
-        "text_html": "Shams Charania: <a href=\"https://x.com/ShamsCharania/status/2009685931943711183?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">Memphis is considering multiple paths forward amid the emergence of several promising young players, including building around them and 2023 Defensive Player of the Year Jaren Jackson Jr. The Grizzlies also remain open to continue on with Morant as a focal part of their retool</a>.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/ShamsCharania/status/2009685931943711183?s=20"
-      },
-      {
-        "date": "2026-01-06",
-        "text": "Sam Amick: The Pelicans are putting up a good face saying no on trade inquiries for Herb Jones,no on Trey Murphy - well, not completely 'no' on Trey, but they have a pretty high price tag on him.Even Zion Williamson, I can't remember a year where we got so many high-profile stars, players, who you feel might be available for trades, right now, we got Ja Morant, LaMelo Ball, all the way down the lion, and Zion, to me, should be at the top of the list. The Pelicans should be really open to listening to move him, and I do think, in the right situation, he could be a difference-maker, there's not much talk on Zion getting traded at this point. It's a little bit quiet, though a possibility, I think. Joe Dumars told teams he wanted to really get a good look at Zion, and I don't know how long that look needs to be before he makes up his mind, but if I got to handicap right now, it probably won't happen before the trade deadline.x.com",
-        "text_html": "Sam Amick: The Pelicans are putting up a good face saying no on trade inquiries for Herb Jones, <a href=\"https://x.com/RunItBackFDTV/status/2008575051965059345\" target=\"_blank\" style=\"color: #1a73e8;\">no on Trey Murphy - well, not completely 'no' on Trey, but they have a pretty high price tag on him.</a> Even Zion Williamson, I can't remember a year where we got so many high-profile stars, players, who you feel might be available for trades, right now, we got Ja Morant, LaMelo Ball, all the way down the lion, and Zion, to me, should be at the top of the list. The Pelicans should be really open to listening to move him, and I do think, in the right situation, he could be a difference-maker, there's not much talk on Zion getting traded at this point. It's a little bit quiet, though a possibility, I think. Joe Dumars told teams he wanted to really get a good look at Zion, and I don't know how long that look needs to be before he makes up his mind, but if I got to handicap right now, it probably won't happen before the trade deadline.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/RunItBackFDTV/status/2008575051965059345"
-      },
-      {
-        "date": "2025-12-17",
-        "text": "Austin Rivers:\"Ja\u2019s gotta get out of Memphis. I\u2019ve seen it. I\u2019ve seen the experiment. I\u2019m over it. He\u2019s done a lot of great things there. He\u2019s had playoff runs. He\u2019s a very talented player. I\u2019d like a fresh start for him \u2014 somewhere that makes sense. I would like him paired with another star. I don\u2019t want Ja to be the best player. I don\u2019t mind if he\u2019s one of them, meaning like if he\u2019s your one or two. I just don\u2019t want him to stand out so alone. I want him to be paired with someone he can go to battle with \u2014 realistically \u2014 and actually compete. That\u2019s a fresh start. Out of Memphis. I think the market for him down there \u2014 I would like him to get a whole rebrand. He is a star.\u201dYouTube",
-        "text_html": "Austin Rivers: <a href=\"https://www.youtube.com/watch?v=qe54WoLUod8\" target=\"_blank\" style=\"color: #1a73e8;\">\"Ja\u2019s gotta get out of Memphis. I\u2019ve seen it. I\u2019ve seen the experiment. I\u2019m over it</a>. He\u2019s done a lot of great things there. He\u2019s had playoff runs. He\u2019s a very talented player. I\u2019d like a fresh start for him \u2014 somewhere that makes sense. I would like him paired with another star. I don\u2019t want Ja to be the best player. I don\u2019t mind if he\u2019s one of them, meaning like if he\u2019s your one or two. I just don\u2019t want him to stand out so alone. I want him to be paired with someone he can go to battle with \u2014 realistically \u2014 and actually compete. That\u2019s a fresh start. Out of Memphis. I think the market for him down there \u2014 I would like him to get a whole rebrand. He is a star.\u201d",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=qe54WoLUod8"
-      }
-    ],
-    "Jaren Jackson Jr": [
-      {
-        "date": "2026-01-09",
-        "text": "Shams Charania:Memphis is considering multiple paths forward amid the emergence of several promising young players, including building around them and 2023 Defensive Player of the Year Jaren Jackson Jr. The Grizzlies also remain open to continue on with Morant as a focal part of their retool.x.com",
-        "text_html": "Shams Charania: <a href=\"https://x.com/ShamsCharania/status/2009685931943711183?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">Memphis is considering multiple paths forward amid the emergence of several promising young players, including building around them and 2023 Defensive Player of the Year Jaren Jackson Jr. The Grizzlies also remain open to continue on with Morant as a focal part of their retool</a>.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/ShamsCharania/status/2009685931943711183?s=20"
-      }
-    ],
     "Anthony Davis": [
+      {
+        "date": "2026-01-09",
+        "text": "Shams Charania:There is a real chance Davis -- one of the NBA's prime trade targets -- will be sidelined through the Feb. 5 NBA deadline.And possibly beyond, depending on the need for surgery.x.com",
+        "text_html": "Shams Charania: <a href=\"https://x.com/ShamsCharania/status/2009737195200921924\" target=\"_blank\" style=\"color: #1a73e8;\">There is a real chance Davis -- one of the NBA's prime trade targets -- will be sidelined through the Feb. 5 NBA deadline.</a> And possibly beyond, depending on the need for surgery.",
+        "outlet": "x.com",
+        "source_url": "https://x.com/ShamsCharania/status/2009737195200921924"
+      },
       {
         "date": "2026-01-09",
         "text": "There\u2019s also the question of what Davis\u2019 leaguewide interest truly is, what the Mavericks are seeking in a potential return and any middle ground that exists.League sources have identified the Toronto Raptors as another team that would entertain a Davis addition \u2014 at the right price \u2014 but this isn\u2019t the sweepstakes from a few years ago.The combination of price tag, injury history and age have watered down Davis\u2019 market. Dallas is currently $1.3 million below the second apron and, with hopes of gaining more flexibility, is believed to be open to moving veterans ahead of the deadline.Yahoo! Sports",
@@ -1471,41 +1413,204 @@
         "text_html": "<a href=\"https://www.nytimes.com/athletic/6888689/2025/12/15/mavericks-nba-trade-deadline-anthony-davis/\" target=\"_blank\" style=\"color: #1a73e8;\">So what are the Mavericks supposed to do with their 10-time All-Star who turns 33 in March? Multiple NBA sources with rival teams believe the answer could be nothing \u2014 at least for now. The view in some corners of the league is the Mavericks might try to wait until this summer to deal him.</a> The Mavericks could use the rest of this season to improve Davis\u2019 trade value, which is low after he missed extended stretches in each of the last two seasons with an adductor strain and a calf strain.",
         "outlet": "New York Times",
         "source_url": "https://www.nytimes.com/athletic/6888689/2025/12/15/mavericks-nba-trade-deadline-anthony-davis/"
+      }
+    ],
+    "Ja Morant": [
+      {
+        "date": "2026-01-09",
+        "text": "Kelly Iko:The Houston Rockets are not interested in trading for Grizzlies point guard Ja Morant,sources tell @YahooSports .x.com",
+        "text_html": "Kelly Iko: <a href=\"https://x.com/KellyIko/status/2009699527788507248?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">The Houston Rockets are not interested in trading for Grizzlies point guard Ja Morant,</a> sources tell @YahooSports .",
+        "outlet": "x.com",
+        "source_url": "https://x.com/KellyIko/status/2009699527788507248?s=20"
       },
       {
-        "date": "2025-12-12",
-        "text": "The Mavericks\u2019 potential trade candidates have remained consistent \u2014 including a willingness to entertain offers for Anthony Davis, Klay Thompson, Daniel Gafford, and D\u2019Angelo Russell \u2014 but the team is not aggressively shopping those players, sources told DallasHoopsJournal.com.The internal view is that any deal must clearly improve Dallas\u2019 long-term outlook, whether through added flexibility, future assets, or a cleaner roster fit.Dallas Hoops Journal",
-        "text_html": "The Mavericks\u2019 potential trade candidates have remained consistent \u2014 including a willingness to entertain offers for Anthony Davis, Klay Thompson, Daniel Gafford, and D\u2019Angelo Russell \u2014 but the team is not aggressively shopping those players, sources told DallasHoopsJournal.com. <a href=\"https://dallashoopsjournal.com/p/nba-rumors-notebook-early-developments-to-monitor-about-the-dallas-mavericks-and-across-the-league/\" target=\"_blank\" style=\"color: #1a73e8;\">The internal view is that any deal must clearly improve Dallas\u2019 long-term outlook, whether through added flexibility, future assets, or a cleaner roster fit</a>.",
-        "outlet": "Dallas Hoops Journal",
-        "source_url": "https://dallashoopsjournal.com/p/nba-rumors-notebook-early-developments-to-monitor-about-the-dallas-mavericks-and-across-the-league/"
+        "date": "2026-01-09",
+        "text": "Michael Grange:Given how things ended for Taylor Jenkins in Memphis and his relationship with his former assistant Darko Rajakovic I\u2019m not sure there would be a ton of enthusiasm for Ja Morant finding his way to the Raptors, before anyone asks.x.com",
+        "text_html": "Michael Grange: <a href=\"https://x.com/michaelgrange/status/2009714092127510614?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">Given how things ended for Taylor Jenkins in Memphis and his relationship with his former assistant Darko Rajakovic I\u2019m not sure there would be a ton of enthusiasm for Ja Morant finding his way to the Raptors, before anyone asks</a>.",
+        "outlet": "x.com",
+        "source_url": "https://x.com/michaelgrange/status/2009714092127510614?s=20"
       },
       {
-        "date": "2025-12-12",
-        "text": "But obviously with all the noise we know about A.D, do you think a divorce or you know, obviously a trade is inevitable or is that something that could be avoided? Grant Afseth: I think honestly it's fluid depending on what offers come in.My understanding of the sentiment right now, I don't think it's like a we absolutely have to get rid of Anthony Davis, by any means necessary before the deadline hits. I think it's definitely going to be a matter of. Is there a trade offer that comes through that we deem acceptable?And if that is a good trade for us to make to build around Cooper Flagg, then, you know, perhaps pull the trigger, but I think, that's going to be a matter of external factors.Youtube",
-        "text_html": "But obviously with all the noise we know about A.D, do you think a divorce or you know, obviously a trade is inevitable or is that something that could be avoided? Grant Afseth: I think honestly it's fluid depending on what offers come in. <a href=\"https://youtu.be/sEPja1PuIH4?si=G9cM2JWLbG1pVvS2\" target=\"_blank\" style=\"color: #1a73e8;\">My understanding of the sentiment right now, I don't think it's like a we absolutely have to get rid of Anthony Davis, by any means necessary before the deadline hits. I think it's definitely going to be a matter of. Is there a trade offer that comes through that we deem acceptable?</a> And if that is a good trade for us to make to build around Cooper Flagg, then, you know, perhaps pull the trigger, but I think, that's going to be a matter of external factors.",
-        "outlet": "Youtube",
-        "source_url": "https://youtu.be/sEPja1PuIH4?si=G9cM2JWLbG1pVvS2"
+        "date": "2026-01-09",
+        "text": "Michael Scotto:I discussed the possibility of the Memphis Grizzlies trading Ja Morant Wednesdaywith @TheFrankIsola and @Scalabrine on @SiriusXMNBA . After getting four firsts in the Desmond Bane trade, would they sell low? NBA execs have monitored Ja and if Jaren Jackson Jr would be available.Twitter @MikeAScotto",
+        "text_html": "Michael Scotto: <a href=\"https://hoopshype.com/social/\" target=\"_blank\" style=\"color: #1a73e8;\">I discussed the possibility of the Memphis Grizzlies trading Ja Morant Wednesday</a> with @TheFrankIsola and @Scalabrine on @SiriusXMNBA . After getting four firsts in the Desmond Bane trade, would they sell low? NBA execs have monitored Ja and if Jaren Jackson Jr would be available.",
+        "outlet": "Twitter @MikeAScotto",
+        "source_url": "https://hoopshype.com/social/"
       },
       {
-        "date": "2025-12-12",
-        "text": "Grant Afseth: Shams Charania from ESPN reported a couple of potential Eastern Conference suitors like the Atlanta Hawks, Detroit Pistons, Toronto Raptors. But those teams so far, doesn't seem like there's meaningful traction by any means of a great offer that the Dallas Mavericks cannot refuse.I've been asking around, and there's more skepticism than optimism about Detroit and Atlanta as viable trade destinations. Because of various reasons, like Detroit has it rolling right now. Like, there's, probably a reluctance to break that team up and complicate things chemistry wise with how the season has gone for them. And then Atlanta, they also have to solve Trae Young's future, with their team long-term. So do you go into the offseason where you have to give contract clarity to Trae Young and Anthony Davis? That's where it gets complicated. And they could get a potential top three, even number one overall pick this year where you're adding that next to Jalen Johnson.Youtube",
-        "text_html": "Grant Afseth: Shams Charania from ESPN reported a couple of potential Eastern Conference suitors like the Atlanta Hawks, Detroit Pistons, Toronto Raptors. But those teams so far, doesn't seem like there's meaningful traction by any means of a great offer that the Dallas Mavericks cannot refuse. <a href=\"https://youtu.be/sEPja1PuIH4?si=G9cM2JWLbG1pVvS2\" target=\"_blank\" style=\"color: #1a73e8;\">I've been asking around, and there's more skepticism than optimism about Detroit and Atlanta as viable trade destinations. Because of various reasons, like Detroit has it rolling right now. Like, there's, probably a reluctance to break that team up and complicate things chemistry wise with how the season has gone for them</a>. And then Atlanta, they also have to solve Trae Young's future, with their team long-term. So do you go into the offseason where you have to give contract clarity to Trae Young and Anthony Davis? That's where it gets complicated. And they could get a potential top three, even number one overall pick this year where you're adding that next to Jalen Johnson.",
-        "outlet": "Youtube",
-        "source_url": "https://youtu.be/sEPja1PuIH4?si=G9cM2JWLbG1pVvS2"
-      },
-      {
-        "date": "2025-12-12",
-        "text": "Davis\u2019 contract status is certainly providing a pressure point. Davis \u2014 who is represented by Klutch Sports CEO Rich Paul \u2014 is eligible for an extension this summer (his current deal runs through next season, with a player option for $62.7 million in 2027-28). That\u2019s a major consideration for both the Mavs and the expected suitors, which \u2014 as ESPN first reported \u2014 are expected to include Detroit, Atlanta and Toronto.Yet as several league sources indicated, the actual level of interest from the aforementioned teams remains to be seen. Especially given Davis\u2019 sordid health history.New York Times",
-        "text_html": "Davis\u2019 contract status is certainly providing a pressure point. Davis \u2014 who is represented by Klutch Sports CEO Rich Paul \u2014 is eligible for an extension this summer (his current deal runs through next season, with a player option for $62.7 million in 2027-28). That\u2019s a major consideration for both the Mavs and the expected suitors, which \u2014 as ESPN first reported \u2014 are expected to include Detroit, Atlanta and Toronto. <a href=\"https://www.nytimes.com/athletic/6881845/2025/12/12/nba-trades-giannis-antetokounmpo-anthony-davis-warriors-mavericks/?source=user_shared_article\" target=\"_blank\" style=\"color: #1a73e8;\">Yet as several league sources indicated, the actual level of interest from the aforementioned teams remains to be seen. Especially given Davis\u2019 sordid health history</a>.",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/6881845/2025/12/12/nba-trades-giannis-antetokounmpo-anthony-davis-warriors-mavericks/?source=user_shared_article"
-      },
-      {
-        "date": "2025-12-12",
-        "text": "Tim Bontemps:\u201cFor a guy like Anthony Davis,\" a West\u00a0executive\u00a0said, \"it's hard to justify them getting a 35 percent max when they aren't playing a ton of minutes and games.\"That's why\u00a0sources\u00a0I've\u00a0spoken\u00a0to have expressed skepticism in a robust market for Davis this trade season, particularly as teams around the league are shifting to younger, faster and deeper rosters.ESPN",
-        "text_html": "Tim Bontemps: <a href=\"https://www.espn.com/nba/story/_/id/47281439/nba-trade-deadline-intel-new-era-superstar-value-means-giannis-anthony-davis\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cFor a guy like Anthony Davis,\" a West executive said, \"it's hard to justify them getting a 35 percent max when they aren't playing a ton of minutes and games.\"</a> That's why sources I've spoken to have expressed skepticism in a robust market for Davis this trade season, particularly as teams around the league are shifting to younger, faster and deeper rosters.",
+        "date": "2026-01-09",
+        "text": "The Memphis Grizzlies are entertaining offers to potentially move two-time All-Star Ja Morant ahead of the Feb. 5 NBA trade deadline,sources told ESPN. Multiple teams are pursuing Morant in trade talks, and rival executives believe the Grizzlies would prioritize draft picks and young players in return, sources said. This is the first time the Grizzlies have engaged other teams in trades for Morant, who was the No. 2 overall pick in the 2019 draft.ESPN",
+        "text_html": "<a href=\"https://www.espn.com/nba/story/_/id/47561697/grizzlies-entertaining-ja-morant-trade-offers-sources-say\" target=\"_blank\" style=\"color: #1a73e8;\">The Memphis Grizzlies are entertaining offers to potentially move two-time All-Star Ja Morant ahead of the Feb. 5 NBA trade deadline,</a> sources told ESPN. Multiple teams are pursuing Morant in trade talks, and rival executives believe the Grizzlies would prioritize draft picks and young players in return, sources said. This is the first time the Grizzlies have engaged other teams in trades for Morant, who was the No. 2 overall pick in the 2019 draft.",
         "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/47281439/nba-trade-deadline-intel-new-era-superstar-value-means-giannis-anthony-davis"
+        "source_url": "https://www.espn.com/nba/story/_/id/47561697/grizzlies-entertaining-ja-morant-trade-offers-sources-say"
+      },
+      {
+        "date": "2026-01-09",
+        "text": "Shams Charania: Just in:For the first time, the Memphis Grizzlies are entertaining offers to potentially move two-time All-Star Ja Morant ahead of the Feb. 5 NBA trade deadline,sources tell ESPN.x.com",
+        "text_html": "Shams Charania: Just in: <a href=\"https://x.com/ShamsCharania/status/2009685627978371316?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">For the first time, the Memphis Grizzlies are entertaining offers to potentially move two-time All-Star Ja Morant ahead of the Feb. 5 NBA trade deadline,</a> sources tell ESPN.",
+        "outlet": "x.com",
+        "source_url": "https://x.com/ShamsCharania/status/2009685627978371316?s=20"
+      },
+      {
+        "date": "2026-01-09",
+        "text": "Shams Charania:Multiple teams are pursuing Morant in trade talks and rival executives believe the Grizzlies would prioritize draft picks and young players in return, sources said. Morant, 26, is under contract with the Grizzlies through the 2027-28 season.x.com",
+        "text_html": "Shams Charania: <a href=\"https://x.com/ShamsCharania/status/2009685812787470337?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">Multiple teams are pursuing Morant in trade talks and rival executives believe the Grizzlies would prioritize draft picks and young players in return, sources said. Morant, 26, is under contract with the Grizzlies through the 2027-28 season</a>.",
+        "outlet": "x.com",
+        "source_url": "https://x.com/ShamsCharania/status/2009685812787470337?s=20"
+      },
+      {
+        "date": "2026-01-09",
+        "text": "Shams Charania:Memphis is considering multiple paths forward amid the emergence of several promising young players, including building around them and 2023 Defensive Player of the Year Jaren Jackson Jr. The Grizzlies also remain open to continue on with Morant as a focal part of their retool.x.com",
+        "text_html": "Shams Charania: <a href=\"https://x.com/ShamsCharania/status/2009685931943711183?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">Memphis is considering multiple paths forward amid the emergence of several promising young players, including building around them and 2023 Defensive Player of the Year Jaren Jackson Jr. The Grizzlies also remain open to continue on with Morant as a focal part of their retool</a>.",
+        "outlet": "x.com",
+        "source_url": "https://x.com/ShamsCharania/status/2009685931943711183?s=20"
+      },
+      {
+        "date": "2026-01-06",
+        "text": "Sam Amick: The Pelicans are putting up a good face saying no on trade inquiries for Herb Jones,no on Trey Murphy - well, not completely 'no' on Trey, but they have a pretty high price tag on him.Even Zion Williamson, I can't remember a year where we got so many high-profile stars, players, who you feel might be available for trades, right now, we got Ja Morant, LaMelo Ball, all the way down the lion, and Zion, to me, should be at the top of the list. The Pelicans should be really open to listening to move him, and I do think, in the right situation, he could be a difference-maker, there's not much talk on Zion getting traded at this point. It's a little bit quiet, though a possibility, I think. Joe Dumars told teams he wanted to really get a good look at Zion, and I don't know how long that look needs to be before he makes up his mind, but if I got to handicap right now, it probably won't happen before the trade deadline.x.com",
+        "text_html": "Sam Amick: The Pelicans are putting up a good face saying no on trade inquiries for Herb Jones, <a href=\"https://x.com/RunItBackFDTV/status/2008575051965059345\" target=\"_blank\" style=\"color: #1a73e8;\">no on Trey Murphy - well, not completely 'no' on Trey, but they have a pretty high price tag on him.</a> Even Zion Williamson, I can't remember a year where we got so many high-profile stars, players, who you feel might be available for trades, right now, we got Ja Morant, LaMelo Ball, all the way down the lion, and Zion, to me, should be at the top of the list. The Pelicans should be really open to listening to move him, and I do think, in the right situation, he could be a difference-maker, there's not much talk on Zion getting traded at this point. It's a little bit quiet, though a possibility, I think. Joe Dumars told teams he wanted to really get a good look at Zion, and I don't know how long that look needs to be before he makes up his mind, but if I got to handicap right now, it probably won't happen before the trade deadline.",
+        "outlet": "x.com",
+        "source_url": "https://x.com/RunItBackFDTV/status/2008575051965059345"
+      },
+      {
+        "date": "2025-12-17",
+        "text": "Austin Rivers:\"Ja\u2019s gotta get out of Memphis. I\u2019ve seen it. I\u2019ve seen the experiment. I\u2019m over it. He\u2019s done a lot of great things there. He\u2019s had playoff runs. He\u2019s a very talented player. I\u2019d like a fresh start for him \u2014 somewhere that makes sense. I would like him paired with another star. I don\u2019t want Ja to be the best player. I don\u2019t mind if he\u2019s one of them, meaning like if he\u2019s your one or two. I just don\u2019t want him to stand out so alone. I want him to be paired with someone he can go to battle with \u2014 realistically \u2014 and actually compete. That\u2019s a fresh start. Out of Memphis. I think the market for him down there \u2014 I would like him to get a whole rebrand. He is a star.\u201dYouTube",
+        "text_html": "Austin Rivers: <a href=\"https://www.youtube.com/watch?v=qe54WoLUod8\" target=\"_blank\" style=\"color: #1a73e8;\">\"Ja\u2019s gotta get out of Memphis. I\u2019ve seen it. I\u2019ve seen the experiment. I\u2019m over it</a>. He\u2019s done a lot of great things there. He\u2019s had playoff runs. He\u2019s a very talented player. I\u2019d like a fresh start for him \u2014 somewhere that makes sense. I would like him paired with another star. I don\u2019t want Ja to be the best player. I don\u2019t mind if he\u2019s one of them, meaning like if he\u2019s your one or two. I just don\u2019t want him to stand out so alone. I want him to be paired with someone he can go to battle with \u2014 realistically \u2014 and actually compete. That\u2019s a fresh start. Out of Memphis. I think the market for him down there \u2014 I would like him to get a whole rebrand. He is a star.\u201d",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=qe54WoLUod8"
+      }
+    ],
+    "Zion Williamson": [
+      {
+        "date": "2026-01-09",
+        "text": "Chris Haynes: Sources:New Orleans Pelicans are disappointing the market in informing teams that Zion Williamson, Trey Murphy, Herb Jones, Derik Queen and Jeremiah Fears will remain with the organization past Feb. 5 trade deadline.x.com",
+        "text_html": "Chris Haynes: Sources: <a href=\"https://x.com/ChrisBHaynes/status/2009711895524303194?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">New Orleans Pelicans are disappointing the market in informing teams that Zion Williamson, Trey Murphy, Herb Jones, Derik Queen and Jeremiah Fears will remain with the organization past Feb. 5 trade deadline</a>.",
+        "outlet": "x.com",
+        "source_url": "https://x.com/ChrisBHaynes/status/2009711895524303194?s=20"
+      },
+      {
+        "date": "2026-01-06",
+        "text": "Sam Amick: The Pelicans are putting up a good face saying no on trade inquiries for Herb Jones,no on Trey Murphy - well, not completely 'no' on Trey, but they have a pretty high price tag on him.Even Zion Williamson, I can't remember a year where we got so many high-profile stars, players, who you feel might be available for trades, right now, we got Ja Morant, LaMelo Ball, all the way down the lion, and Zion, to me, should be at the top of the list. The Pelicans should be really open to listening to move him, and I do think, in the right situation, he could be a difference-maker, there's not much talk on Zion getting traded at this point. It's a little bit quiet, though a possibility, I think. Joe Dumars told teams he wanted to really get a good look at Zion, and I don't know how long that look needs to be before he makes up his mind, but if I got to handicap right now, it probably won't happen before the trade deadline.x.com",
+        "text_html": "Sam Amick: The Pelicans are putting up a good face saying no on trade inquiries for Herb Jones, <a href=\"https://x.com/RunItBackFDTV/status/2008575051965059345\" target=\"_blank\" style=\"color: #1a73e8;\">no on Trey Murphy - well, not completely 'no' on Trey, but they have a pretty high price tag on him.</a> Even Zion Williamson, I can't remember a year where we got so many high-profile stars, players, who you feel might be available for trades, right now, we got Ja Morant, LaMelo Ball, all the way down the lion, and Zion, to me, should be at the top of the list. The Pelicans should be really open to listening to move him, and I do think, in the right situation, he could be a difference-maker, there's not much talk on Zion getting traded at this point. It's a little bit quiet, though a possibility, I think. Joe Dumars told teams he wanted to really get a good look at Zion, and I don't know how long that look needs to be before he makes up his mind, but if I got to handicap right now, it probably won't happen before the trade deadline.",
+        "outlet": "x.com",
+        "source_url": "https://x.com/RunItBackFDTV/status/2008575051965059345"
+      }
+    ],
+    "Herb Jones": [
+      {
+        "date": "2026-01-09",
+        "text": "Chris Haynes: Sources:New Orleans Pelicans are disappointing the market in informing teams that Zion Williamson, Trey Murphy, Herb Jones, Derik Queen and Jeremiah Fears will remain with the organization past Feb. 5 trade deadline.x.com",
+        "text_html": "Chris Haynes: Sources: <a href=\"https://x.com/ChrisBHaynes/status/2009711895524303194?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">New Orleans Pelicans are disappointing the market in informing teams that Zion Williamson, Trey Murphy, Herb Jones, Derik Queen and Jeremiah Fears will remain with the organization past Feb. 5 trade deadline</a>.",
+        "outlet": "x.com",
+        "source_url": "https://x.com/ChrisBHaynes/status/2009711895524303194?s=20"
+      },
+      {
+        "date": "2026-01-06",
+        "text": "Sam Amick: The Pelicans are putting up a good face saying no on trade inquiries for Herb Jones,no on Trey Murphy - well, not completely 'no' on Trey, but they have a pretty high price tag on him.Even Zion Williamson, I can't remember a year where we got so many high-profile stars, players, who you feel might be available for trades, right now, we got Ja Morant, LaMelo Ball, all the way down the lion, and Zion, to me, should be at the top of the list. The Pelicans should be really open to listening to move him, and I do think, in the right situation, he could be a difference-maker, there's not much talk on Zion getting traded at this point. It's a little bit quiet, though a possibility, I think. Joe Dumars told teams he wanted to really get a good look at Zion, and I don't know how long that look needs to be before he makes up his mind, but if I got to handicap right now, it probably won't happen before the trade deadline.x.com",
+        "text_html": "Sam Amick: The Pelicans are putting up a good face saying no on trade inquiries for Herb Jones, <a href=\"https://x.com/RunItBackFDTV/status/2008575051965059345\" target=\"_blank\" style=\"color: #1a73e8;\">no on Trey Murphy - well, not completely 'no' on Trey, but they have a pretty high price tag on him.</a> Even Zion Williamson, I can't remember a year where we got so many high-profile stars, players, who you feel might be available for trades, right now, we got Ja Morant, LaMelo Ball, all the way down the lion, and Zion, to me, should be at the top of the list. The Pelicans should be really open to listening to move him, and I do think, in the right situation, he could be a difference-maker, there's not much talk on Zion getting traded at this point. It's a little bit quiet, though a possibility, I think. Joe Dumars told teams he wanted to really get a good look at Zion, and I don't know how long that look needs to be before he makes up his mind, but if I got to handicap right now, it probably won't happen before the trade deadline.",
+        "outlet": "x.com",
+        "source_url": "https://x.com/RunItBackFDTV/status/2008575051965059345"
+      },
+      {
+        "date": "2025-12-19",
+        "text": "The New Orleans Pelicans, according to team and league sources, have signaled to interested teams that they\u2019re not entertaining Herbert Jones trades \u2014 at least not at any cost the Lakers can meet.L.A. could offer a single unprotected first-round pick and matching salary for Jones once he becomes trade-eligible in January. And for players like Jones, the asking price is usually a combination of good draft capital and young players.New York Times",
+        "text_html": "<a href=\"https://www.nytimes.com/athletic/6902319/2025/12/19/lakers-trade-rumors-deadline-needs/?source=user_shared_article\" target=\"_blank\" style=\"color: #1a73e8;\">The New Orleans Pelicans, according to team and league sources, have signaled to interested teams that they\u2019re not entertaining Herbert Jones trades \u2014 at least not at any cost the Lakers can meet.</a> L.A. could offer a single unprotected first-round pick and matching salary for Jones once he becomes trade-eligible in January. And for players like Jones, the asking price is usually a combination of good draft capital and young players.",
+        "outlet": "New York Times",
+        "source_url": "https://www.nytimes.com/athletic/6902319/2025/12/19/lakers-trade-rumors-deadline-needs/?source=user_shared_article"
+      },
+      {
+        "date": "2025-12-18",
+        "text": "The Los Angeles Lakers are\u00a0monitoring\u00a0the trade market for a defensive wing upgrade, league\u00a0sources\u00a0told\u00a0HoopsHype.Among the 3-and-D wing upgrades on their wish list is New Orleans Pelicans forward\u00a0Herb Jones, league\u00a0sources\u00a0say.HoopsHype",
+        "text_html": "The Los Angeles Lakers are monitoring the trade market for a defensive wing upgrade, league sources told HoopsHype. <a href=\"https://www.hoopshype.com/story/sports/nba/2025/12/18/michael-scottos-nba-intel-giannis-antetokounmpo-anthony-davis-trae-young-lauri-markkanen-lamelo-ball/87823173007/\" target=\"_blank\" style=\"color: #1a73e8;\">Among the 3-and-D wing upgrades on their wish list is New Orleans Pelicans forward Herb Jones, league sources say</a>.",
+        "outlet": "HoopsHype",
+        "source_url": "https://www.hoopshype.com/story/sports/nba/2025/12/18/michael-scottos-nba-intel-giannis-antetokounmpo-anthony-davis-trae-young-lauri-markkanen-lamelo-ball/87823173007/"
+      },
+      {
+        "date": "2025-12-16",
+        "text": "MrBuckBuck: New Orleans PelicansHerb Jones is in disbelief after a fan trolls him saying he was traded to the Lakersx.com",
+        "text_html": "MrBuckBuck: New Orleans Pelicans <a href=\"https://x.com/MrBuckBuckNBA/status/2000910301055885530\" target=\"_blank\" style=\"color: #1a73e8;\">Herb Jones is in disbelief after a fan trolls him saying he was traded to the Lakers</a>",
+        "outlet": "x.com",
+        "source_url": "https://x.com/MrBuckBuckNBA/status/2000910301055885530"
+      },
+      {
+        "date": "2025-12-14",
+        "text": "League sources say that the Lakers would naturally like to be in the 3-and-D market this Trade Season, but it's a very limited market at this juncture, essentially headlined by Sacramento's Keon Ellis despite the fact that Ellis is playing seven fewer minutes per game this season under Kings coach Doug Christie than he did last season. We mentioned the other day that the Pelicans would insist on a significant haul to part with Herb Jones It's a price point is presumed to be beyond the Lakers\u2019 current trade means.marcstein.substack.com",
+        "text_html": "<a href=\"https://marcstein.substack.com/\" target=\"_blank\" style=\"color: #1a73e8;\">League sources say that the Lakers would naturally like to be in the 3-and-D market this Trade Season, but it's a very limited market at this juncture, essentially headlined by Sacramento's Keon Ellis despite the fact that Ellis is playing seven fewer minutes per game this season under Kings coach Doug Christie than he did last season</a>. We mentioned the other day that the Pelicans would insist on a significant haul to part with Herb Jones It's a price point is presumed to be beyond the Lakers\u2019 current trade means.",
+        "outlet": "marcstein.substack.com",
+        "source_url": "https://marcstein.substack.com/"
+      }
+    ],
+    "Trey Murphy": [
+      {
+        "date": "2026-01-09",
+        "text": "Chris Haynes: Sources:New Orleans Pelicans are disappointing the market in informing teams that Zion Williamson, Trey Murphy, Herb Jones, Derik Queen and Jeremiah Fears will remain with the organization past Feb. 5 trade deadline.x.com",
+        "text_html": "Chris Haynes: Sources: <a href=\"https://x.com/ChrisBHaynes/status/2009711895524303194?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">New Orleans Pelicans are disappointing the market in informing teams that Zion Williamson, Trey Murphy, Herb Jones, Derik Queen and Jeremiah Fears will remain with the organization past Feb. 5 trade deadline</a>.",
+        "outlet": "x.com",
+        "source_url": "https://x.com/ChrisBHaynes/status/2009711895524303194?s=20"
+      },
+      {
+        "date": "2026-01-06",
+        "text": "Sam Amick: The Pelicans are putting up a good face saying no on trade inquiries for Herb Jones,no on Trey Murphy - well, not completely 'no' on Trey, but they have a pretty high price tag on him.Even Zion Williamson, I can't remember a year where we got so many high-profile stars, players, who you feel might be available for trades, right now, we got Ja Morant, LaMelo Ball, all the way down the lion, and Zion, to me, should be at the top of the list. The Pelicans should be really open to listening to move him, and I do think, in the right situation, he could be a difference-maker, there's not much talk on Zion getting traded at this point. It's a little bit quiet, though a possibility, I think. Joe Dumars told teams he wanted to really get a good look at Zion, and I don't know how long that look needs to be before he makes up his mind, but if I got to handicap right now, it probably won't happen before the trade deadline.x.com",
+        "text_html": "Sam Amick: The Pelicans are putting up a good face saying no on trade inquiries for Herb Jones, <a href=\"https://x.com/RunItBackFDTV/status/2008575051965059345\" target=\"_blank\" style=\"color: #1a73e8;\">no on Trey Murphy - well, not completely 'no' on Trey, but they have a pretty high price tag on him.</a> Even Zion Williamson, I can't remember a year where we got so many high-profile stars, players, who you feel might be available for trades, right now, we got Ja Morant, LaMelo Ball, all the way down the lion, and Zion, to me, should be at the top of the list. The Pelicans should be really open to listening to move him, and I do think, in the right situation, he could be a difference-maker, there's not much talk on Zion getting traded at this point. It's a little bit quiet, though a possibility, I think. Joe Dumars told teams he wanted to really get a good look at Zion, and I don't know how long that look needs to be before he makes up his mind, but if I got to handicap right now, it probably won't happen before the trade deadline.",
+        "outlet": "x.com",
+        "source_url": "https://x.com/RunItBackFDTV/status/2008575051965059345"
+      },
+      {
+        "date": "2025-12-18",
+        "text": "The Golden StateWarriors have been enamored with Trey Murphy since he was eligible for the draft, league\u00a0sources\u00a0told\u00a0HoopsHype.With that said, rival\u00a0executives\u00a0around the league believe the Warriors will ultimately prioritize a\u00a0Giannis Antetokounmpo\u00a0pursuit ahead of Murphy before cashing in all their trade chips in an attempt to land the Pelican forward.HoopsHype",
+        "text_html": "The Golden State <a href=\"https://www.hoopshype.com/story/sports/nba/2025/12/18/michael-scottos-nba-intel-giannis-antetokounmpo-anthony-davis-trae-young-lauri-markkanen-lamelo-ball/87823173007/\" target=\"_blank\" style=\"color: #1a73e8;\">Warriors have been enamored with Trey Murphy since he was eligible for the draft, league sources told HoopsHype.</a> With that said, rival executives around the league believe the Warriors will ultimately prioritize a Giannis Antetokounmpo pursuit ahead of Murphy before cashing in all their trade chips in an attempt to land the Pelican forward.",
+        "outlet": "HoopsHype",
+        "source_url": "https://www.hoopshype.com/story/sports/nba/2025/12/18/michael-scottos-nba-intel-giannis-antetokounmpo-anthony-davis-trae-young-lauri-markkanen-lamelo-ball/87823173007/"
+      }
+    ],
+    "Derik Queen": [
+      {
+        "date": "2026-01-09",
+        "text": "Chris Haynes: Sources:New Orleans Pelicans are disappointing the market in informing teams that Zion Williamson, Trey Murphy, Herb Jones, Derik Queen and Jeremiah Fears will remain with the organization past Feb. 5 trade deadline.x.com",
+        "text_html": "Chris Haynes: Sources: <a href=\"https://x.com/ChrisBHaynes/status/2009711895524303194?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">New Orleans Pelicans are disappointing the market in informing teams that Zion Williamson, Trey Murphy, Herb Jones, Derik Queen and Jeremiah Fears will remain with the organization past Feb. 5 trade deadline</a>.",
+        "outlet": "x.com",
+        "source_url": "https://x.com/ChrisBHaynes/status/2009711895524303194?s=20"
+      },
+      {
+        "date": "2026-01-06",
+        "text": "In trade discussions with the Mavericks regarding Anthony Davis to this point, the Hawks have resisted including former No. 1 pick Zaccharie Risacher and the Pelicans\u2019 unprotected 2026 first-round draft pick via the Derik Queen trade,league sources told HoopsHype. Atlanta has labeled the unprotected 2026 first-round draft pick from New Orleans as virtually untradeable heading into the deadline, HoopsHype has learned. The Pelicans are currently tied at 14 percent for the highest odds of winning the lottery with the Indiana Pacers and Sacramento Kings. Meanwhile, Dallas and other teams around the league have called to inquire about Risacher, league sources said.HoopsHype",
+        "text_html": "<a href=\"https://www.hoopshype.com/story/sports/nba/2026/01/06/nba-intel-trae-young-anthony-davis-michael-porter-jr-ivica-zubac/88049739007/\" target=\"_blank\" style=\"color: #1a73e8;\">In trade discussions with the Mavericks regarding Anthony Davis to this point, the Hawks have resisted including former No. 1 pick Zaccharie Risacher and the Pelicans\u2019 unprotected 2026 first-round draft pick via the Derik Queen trade,</a> league sources told HoopsHype. Atlanta has labeled the unprotected 2026 first-round draft pick from New Orleans as virtually untradeable heading into the deadline, HoopsHype has learned. The Pelicans are currently tied at 14 percent for the highest odds of winning the lottery with the Indiana Pacers and Sacramento Kings. Meanwhile, Dallas and other teams around the league have called to inquire about Risacher, league sources said.",
+        "outlet": "HoopsHype",
+        "source_url": "https://www.hoopshype.com/story/sports/nba/2026/01/06/nba-intel-trae-young-anthony-davis-michael-porter-jr-ivica-zubac/88049739007/"
+      }
+    ],
+    "Jeremiah Fears": [
+      {
+        "date": "2026-01-09",
+        "text": "Chris Haynes: Sources:New Orleans Pelicans are disappointing the market in informing teams that Zion Williamson, Trey Murphy, Herb Jones, Derik Queen and Jeremiah Fears will remain with the organization past Feb. 5 trade deadline.x.com",
+        "text_html": "Chris Haynes: Sources: <a href=\"https://x.com/ChrisBHaynes/status/2009711895524303194?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">New Orleans Pelicans are disappointing the market in informing teams that Zion Williamson, Trey Murphy, Herb Jones, Derik Queen and Jeremiah Fears will remain with the organization past Feb. 5 trade deadline</a>.",
+        "outlet": "x.com",
+        "source_url": "https://x.com/ChrisBHaynes/status/2009711895524303194?s=20"
+      }
+    ],
+    "Jaren Jackson Jr": [
+      {
+        "date": "2026-01-09",
+        "text": "Michael Scotto:I discussed the possibility of the Memphis Grizzlies trading Ja Morant Wednesdaywith @TheFrankIsola and @Scalabrine on @SiriusXMNBA . After getting four firsts in the Desmond Bane trade, would they sell low? NBA execs have monitored Ja and if Jaren Jackson Jr would be available.Twitter @MikeAScotto",
+        "text_html": "Michael Scotto: <a href=\"https://hoopshype.com/social/\" target=\"_blank\" style=\"color: #1a73e8;\">I discussed the possibility of the Memphis Grizzlies trading Ja Morant Wednesday</a> with @TheFrankIsola and @Scalabrine on @SiriusXMNBA . After getting four firsts in the Desmond Bane trade, would they sell low? NBA execs have monitored Ja and if Jaren Jackson Jr would be available.",
+        "outlet": "Twitter @MikeAScotto",
+        "source_url": "https://hoopshype.com/social/"
+      },
+      {
+        "date": "2026-01-09",
+        "text": "Shams Charania:Memphis is considering multiple paths forward amid the emergence of several promising young players, including building around them and 2023 Defensive Player of the Year Jaren Jackson Jr. The Grizzlies also remain open to continue on with Morant as a focal part of their retool.x.com",
+        "text_html": "Shams Charania: <a href=\"https://x.com/ShamsCharania/status/2009685931943711183?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">Memphis is considering multiple paths forward amid the emergence of several promising young players, including building around them and 2023 Defensive Player of the Year Jaren Jackson Jr. The Grizzlies also remain open to continue on with Morant as a focal part of their retool</a>.",
+        "outlet": "x.com",
+        "source_url": "https://x.com/ShamsCharania/status/2009685931943711183?s=20"
+      }
+    ],
+    "Desmond Bane": [
+      {
+        "date": "2026-01-09",
+        "text": "Michael Scotto:I discussed the possibility of the Memphis Grizzlies trading Ja Morant Wednesdaywith @TheFrankIsola and @Scalabrine on @SiriusXMNBA . After getting four firsts in the Desmond Bane trade, would they sell low? NBA execs have monitored Ja and if Jaren Jackson Jr would be available.Twitter @MikeAScotto",
+        "text_html": "Michael Scotto: <a href=\"https://hoopshype.com/social/\" target=\"_blank\" style=\"color: #1a73e8;\">I discussed the possibility of the Memphis Grizzlies trading Ja Morant Wednesday</a> with @TheFrankIsola and @Scalabrine on @SiriusXMNBA . After getting four firsts in the Desmond Bane trade, would they sell low? NBA execs have monitored Ja and if Jaren Jackson Jr would be available.",
+        "outlet": "Twitter @MikeAScotto",
+        "source_url": "https://hoopshype.com/social/"
       }
     ],
     "Giannis Antetokounmpo": [
@@ -1760,20 +1865,6 @@
         "text_html": "Amid being the top subject of discussions across the league, the Milwaukee Bucks will only consider moving on from Giannis Antetokounmpo if the Greek star formally asks to be traded. That's what veteran league insider Marc Stein has insisted in his recent appearance on talkSPORT, noting that it will all begin under the final say of Antetokounmpo. <a href=\"https://basketnews.com/news-236742-insider-bucks-to-consider-giannis-trade-but-only-under-one-condition.html\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cTeams are calling the Bucks, and the Bucks keep telling teams: \u2018He\u2019s not available, we\u2019re not trading him.\u2019 The only way there\u2019s gonna be a Giannis sweepstakes \u2014 Giannis himself has to go to the Bucks and say \u2018I want out.\u2019</a> He has to firmly say it, and that has not happened,\" Stein said.",
         "outlet": "BasketNews",
         "source_url": "https://basketnews.com/news-236742-insider-bucks-to-consider-giannis-trade-but-only-under-one-condition.html"
-      },
-      {
-        "date": "2025-12-12",
-        "text": "The Miami Heat, for example, are often handicapped by league insiders as a place that Antetokounmpo might be willing to call his new basketball home.Pat Riley and company could offer the Bucks a yacht full of draft assets, all their best young players (All-Star Tyler Herro, promising young big man Kel\u2019el Ware, small forward Jaime Jaquez Jr.) and salary filler (Terry Rozier, if the NBA allows it) to make the numbers work.New York Times",
-        "text_html": "<a href=\"https://www.nytimes.com/athletic/6881845/2025/12/12/nba-trades-giannis-antetokounmpo-anthony-davis-warriors-mavericks/?source=user_shared_article\" target=\"_blank\" style=\"color: #1a73e8;\">The Miami Heat, for example, are often handicapped by league insiders as a place that Antetokounmpo might be willing to call his new basketball home.</a> Pat Riley and company could offer the Bucks a yacht full of draft assets, all their best young players (All-Star Tyler Herro, promising young big man Kel\u2019el Ware, small forward Jaime Jaquez Jr.) and salary filler (Terry Rozier, if the NBA allows it) to make the numbers work.",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/6881845/2025/12/12/nba-trades-giannis-antetokounmpo-anthony-davis-warriors-mavericks/?source=user_shared_article"
-      },
-      {
-        "date": "2025-12-12",
-        "text": "But any Giannis talks are still played by the old rules,\u00a0according to\u00a0executives\u00a0and coaches.\"I don't think you'd see 29 teams make an offer like if, say,\u00a0Victor [Wembanyama] was available, but there would be plenty of\u00a0interest\u00a0and probably two to three teams would be willing to go all-in right now,\" an East\u00a0executive\u00a0said. \"Every player has risk, and he'd have some risk, but this is one you don't have to work too hard to talk yourself into.\"\"I'm sure the front office would have pros and cons and all that,\" an assistant coach said. \"But if you're asking me, I'd want him on my team in less than a second. He plays hard every night and clearly wants to win and can be unstoppable. This is the kind of player you need to win it all.\"ESPN",
-        "text_html": "But any Giannis talks are still played by the old rules, according to executives and coaches. <a href=\"https://www.espn.com/nba/story/_/id/47281439/nba-trade-deadline-intel-new-era-superstar-value-means-giannis-anthony-davis\" target=\"_blank\" style=\"color: #1a73e8;\">\"I don't think you'd see 29 teams make an offer like if, say, Victor [Wembanyama] was available, but there would be plenty of interest and probably two to three teams would be willing to go all-in right now,\" an East executive said. \"Every player has risk, and he'd have some risk, but this is one you don't have to work too hard to talk yourself into.\"</a> \"I'm sure the front office would have pros and cons and all that,\" an assistant coach said. \"But if you're asking me, I'd want him on my team in less than a second. He plays hard every night and clearly wants to win and can be unstoppable. This is the kind of player you need to win it all.\"",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/47281439/nba-trade-deadline-intel-new-era-superstar-value-means-giannis-anthony-davis"
       }
     ],
     "Jonathan Kuminga": [
@@ -1867,27 +1958,6 @@
         "text_html": "<a href=\"https://www.espn.com/nba/story/_/id/47191162/nba-buzz-latest-live-updates-trades-intel-league\" target=\"_blank\" style=\"color: #1a73e8;\">The Warriors will be open to discussing trades for Jonathan Kuminga when he is eligible to be moved on Jan. 15,</a> sources told ESPN's Shams Charania. Golden State hopes to improve the roster and Kuminga's $22.5 million salary could lead to a larger trade haul.",
         "outlet": "ESPN",
         "source_url": "https://www.espn.com/nba/story/_/id/47191162/nba-buzz-latest-live-updates-trades-intel-league"
-      },
-      {
-        "date": "2025-12-12",
-        "text": "For quite some time now, the Warriors have been open about their desire to acquire the Pelicans\u2019 Trey Murphy III.But if they\u2019re going to use Kuminga to do that, then it would be helpful to know how, if at all, the Pelicans value the Warriors\u2019 23-year-old forward. For the time being, the feedback is mixed on that front. \u2019Tis the season for smokescreens, after all. Yet this part is indisputable when it comes to the Warriors\u2019 side of the equation: These past six weeks have not been kind when it comes to Kuminga\u2019s value. After the first six games of the season when Kuminga was receiving rave reviews, he has returned to the rollercoaster existence that embodied the vast majority of his first four seasons.New York Times",
-        "text_html": "<a href=\"https://www.nytimes.com/athletic/6881845/2025/12/12/nba-trades-giannis-antetokounmpo-anthony-davis-warriors-mavericks/?source=user_shared_article\" target=\"_blank\" style=\"color: #1a73e8;\">For quite some time now, the Warriors have been open about their desire to acquire the Pelicans\u2019 Trey Murphy III.</a> But if they\u2019re going to use Kuminga to do that, then it would be helpful to know how, if at all, the Pelicans value the Warriors\u2019 23-year-old forward. For the time being, the feedback is mixed on that front. \u2019Tis the season for smokescreens, after all. Yet this part is indisputable when it comes to the Warriors\u2019 side of the equation: These past six weeks have not been kind when it comes to Kuminga\u2019s value. After the first six games of the season when Kuminga was receiving rave reviews, he has returned to the rollercoaster existence that embodied the vast majority of his first four seasons.",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/6881845/2025/12/12/nba-trades-giannis-antetokounmpo-anthony-davis-warriors-mavericks/?source=user_shared_article"
-      },
-      {
-        "date": "2025-12-12",
-        "text": "No story about trade targets is complete without discussing Golden State\u2019s Jonathan Kuminga. Never mind that he\u2019s not eligible to be moved until Jan. 15. There are Kuminga-related dynamics worth analyzing in the here and now \u2014 some familiar, and some not so much.The Kings are widely expected to revisit their offseason interest in Kuminga, and it remains to be seen if that\u2019s the case for teams like Phoenix and Chicago that have been intrigued by him before. But the New Orleans Pelicans, in many ways, are front and center in this discussion.New York Times",
-        "text_html": "No story about trade targets is complete without discussing Golden State\u2019s Jonathan Kuminga. Never mind that he\u2019s not eligible to be moved until Jan. 15. There are Kuminga-related dynamics worth analyzing in the here and now \u2014 some familiar, and some not so much. <a href=\"https://www.nytimes.com/athletic/6881845/2025/12/12/nba-trades-giannis-antetokounmpo-anthony-davis-warriors-mavericks/?source=user_shared_article\" target=\"_blank\" style=\"color: #1a73e8;\">The Kings are widely expected to revisit their offseason interest in Kuminga, and it remains to be seen if that\u2019s the case for teams like Phoenix and Chicago that have been intrigued by him before. But the New Orleans Pelicans, in many ways, are front and center in this discussion</a>.",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/6881845/2025/12/12/nba-trades-giannis-antetokounmpo-anthony-davis-warriors-mavericks/?source=user_shared_article"
-      },
-      {
-        "date": "2025-12-12",
-        "text": "Evan Sidery:The Warriors, who will be in the market for a center upgrade during trade season, are expected to show interest in Nic Claxton.The Nets are once again open to moving Claxton, who is under contract through 2027-28. A swap of Jonathan Kuminga for Claxton would be on the table.x.com",
-        "text_html": "Evan Sidery: <a href=\"https://x.com/esidery/status/1998474849136836786\" target=\"_blank\" style=\"color: #1a73e8;\">The Warriors, who will be in the market for a center upgrade during trade season, are expected to show interest in Nic Claxton.</a> The Nets are once again open to moving Claxton, who is under contract through 2027-28. A swap of Jonathan Kuminga for Claxton would be on the table.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/esidery/status/1998474849136836786"
       }
     ],
     "Jakob Poeltl": [
@@ -2223,13 +2293,6 @@
         "text_html": "<a href=\"https://www.hoopshype.com/story/sports/nba/2025/12/18/michael-scottos-nba-intel-giannis-antetokounmpo-anthony-davis-trae-young-lauri-markkanen-lamelo-ball/87823173007/\" target=\"_blank\" style=\"color: #1a73e8;\">Atlanta's interest in Anthony Davis could be described as exploratory.</a> The big question is whether acquiring Davis would move the needle to make the Hawks a contender in the East. More reporting and a deeper dive on Atlanta to come in the next section below regarding Trae Young and Kristaps Porzingis.",
         "outlet": "HoopsHype",
         "source_url": "https://www.hoopshype.com/story/sports/nba/2025/12/18/michael-scottos-nba-intel-giannis-antetokounmpo-anthony-davis-trae-young-lauri-markkanen-lamelo-ball/87823173007/"
-      },
-      {
-        "date": "2025-12-12",
-        "text": "Grant Afseth: Shams Charania from ESPN reported a couple of potential Eastern Conference suitors like the Atlanta Hawks, Detroit Pistons, Toronto Raptors. But those teams so far, doesn't seem like there's meaningful traction by any means of a great offer that the Dallas Mavericks cannot refuse.I've been asking around, and there's more skepticism than optimism about Detroit and Atlanta as viable trade destinations. Because of various reasons, like Detroit has it rolling right now. Like, there's, probably a reluctance to break that team up and complicate things chemistry wise with how the season has gone for them. And then Atlanta, they also have to solve Trae Young's future, with their team long-term. So do you go into the offseason where you have to give contract clarity to Trae Young and Anthony Davis? That's where it gets complicated. And they could get a potential top three, even number one overall pick this year where you're adding that next to Jalen Johnson.Youtube",
-        "text_html": "Grant Afseth: Shams Charania from ESPN reported a couple of potential Eastern Conference suitors like the Atlanta Hawks, Detroit Pistons, Toronto Raptors. But those teams so far, doesn't seem like there's meaningful traction by any means of a great offer that the Dallas Mavericks cannot refuse. <a href=\"https://youtu.be/sEPja1PuIH4?si=G9cM2JWLbG1pVvS2\" target=\"_blank\" style=\"color: #1a73e8;\">I've been asking around, and there's more skepticism than optimism about Detroit and Atlanta as viable trade destinations. Because of various reasons, like Detroit has it rolling right now. Like, there's, probably a reluctance to break that team up and complicate things chemistry wise with how the season has gone for them</a>. And then Atlanta, they also have to solve Trae Young's future, with their team long-term. So do you go into the offseason where you have to give contract clarity to Trae Young and Anthony Davis? That's where it gets complicated. And they could get a potential top three, even number one overall pick this year where you're adding that next to Jalen Johnson.",
-        "outlet": "Youtube",
-        "source_url": "https://youtu.be/sEPja1PuIH4?si=G9cM2JWLbG1pVvS2"
       }
     ],
     "CJ McCollum": [
@@ -2389,13 +2452,6 @@
         "text_html": "The Atlanta Hawks are open to trading All-Star point guard Trae Young, NBA sources told Grant Afseth of DallasHoopsJournal. <a href=\"https://dallashoopsjournal.com/p/atlanta-hawks-trae-young-dallas-mavericks-kyrie-irving-nba-trade-rumors-news/\" target=\"_blank\" style=\"color: #1a73e8;\">The Hawks and Dallas Mavericks have spoken about an Anthony Davis trade, but Dallas isn\u2019t interested in trading for Young and prefers to keep Kyrie Irving,</a> sources told Afseth.",
         "outlet": "Dallas Hoops Journal",
         "source_url": "https://dallashoopsjournal.com/p/atlanta-hawks-trae-young-dallas-mavericks-kyrie-irving-nba-trade-rumors-news/"
-      },
-      {
-        "date": "2025-12-12",
-        "text": "Does Kyrie Irving have input on the moves they will make? Like did he know of the Luka trade? Grant Afseth: I'm not fully sure on. I don't think he's been included on every move they made by any means. I think when they're like going into offseasons, like some players like, hey, you know, what are some players that you think could help this team like that type of feedback? Not necessarily like a, Hey, we're about to make this move. Do you like it? Or should we call it like that type of thing or.I think it's more like just the general idea of who are some guys that you think could help us. Let's talk about it. And, we can see how that shakes out and help us mold our offseason plan, if you will.Youtube",
-        "text_html": "Does Kyrie Irving have input on the moves they will make? Like did he know of the Luka trade? Grant Afseth: I'm not fully sure on. I don't think he's been included on every move they made by any means. I think when they're like going into offseasons, like some players like, hey, you know, what are some players that you think could help this team like that type of feedback? Not necessarily like a, Hey, we're about to make this move. Do you like it? Or should we call it like that type of thing or. <a href=\"https://youtu.be/sEPja1PuIH4?si=G9cM2JWLbG1pVvS2\" target=\"_blank\" style=\"color: #1a73e8;\">I think it's more like just the general idea of who are some guys that you think could help us. Let's talk about it. And, we can see how that shakes out and help us mold our offseason plan, if you will</a>.",
-        "outlet": "Youtube",
-        "source_url": "https://youtu.be/sEPja1PuIH4?si=G9cM2JWLbG1pVvS2"
       }
     ],
     "Michael Porter": [
@@ -2440,13 +2496,6 @@
         "text_html": "<a href=\"https://clutchpoints.com/nba/brooklyn-nets/nets-news-michael-porter-jr-receives-best-in-league-praise-trade-buzz-grows\" target=\"_blank\" style=\"color: #1a73e8;\">Michael Porter Jr. is expected to draw interest on the trade market amid his red-hot start. The Nets are likely to gauge offers for the veteran,</a> whom they acquired alongside an unprotected Nuggets 2032 first-round pick for Cam Johnson.",
         "outlet": "Clutch Points",
         "source_url": "https://clutchpoints.com/nba/brooklyn-nets/nets-news-michael-porter-jr-receives-best-in-league-praise-trade-buzz-grows"
-      },
-      {
-        "date": "2025-12-12",
-        "text": "\u201cYeah,\u00a0I love it here,\u201d\u00a0Michael Porter Jr said\u00a0when asked by The\u00a0Post\u00a0if he sees himself in Brooklyn long term.\u00a0\u201cI love the staff, I love the energy of practice.Everyone gets along and has great vibes and great energy around the facility. So whatever team wants and appreciates what I bring to the table, then that\u2019s where I want to be. And I feel like they do here.New York Post",
-        "text_html": "<a href=\"https://nypost.com/2025/12/11/sports/michael-porter-jr-hopes-to-convince-nets-hes-worth-keeping/\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cYeah, I love it here,\u201d Michael Porter Jr said when asked by The Post if he sees himself in Brooklyn long term. \u201cI love the staff, I love the energy of practice.</a> Everyone gets along and has great vibes and great energy around the facility. So whatever team wants and appreciates what I bring to the table, then that\u2019s where I want to be. And I feel like they do here.",
-        "outlet": "New York Post",
-        "source_url": "https://nypost.com/2025/12/11/sports/michael-porter-jr-hopes-to-convince-nets-hes-worth-keeping/"
       }
     ],
     "Draymond Green": [
@@ -2495,13 +2544,6 @@
         "text_html": "Jose Alvarado, Guard, New Orleans Pelicans. <a href=\"https://www.nytimes.com/athletic/6949338/2026/01/08/knicks-nba-trade-deadline-defense/\" target=\"_blank\" style=\"color: #1a73e8;\">New York, per league sources, has shown interest in the feisty guard</a>. Alvarado really applies pressure on ballhandlers night in and night out. He\u2019s one of those infectious players, similar to Hart, whose plays radiate throughout the rest of the group.",
         "outlet": "New York Times",
         "source_url": "https://www.nytimes.com/athletic/6949338/2026/01/08/knicks-nba-trade-deadline-defense/"
-      },
-      {
-        "date": "2025-12-12",
-        "text": "Ian Begley: And I think teams around the\u00a0league are just keeping an eye down\u00a0there to see who's New Orleans going to\u00a0make available. What will they want for\u00a0those players?A New York product, Jose\u00a0Alvarado, if they make him available, the Knicks, I'm sure, will be\u00a0one of those teams that are\u00a0interested.\u00a0The Knicks will be among many teams\u00a0that are\u00a0interested\u00a0in Jose Alvarado if\u00a0he is made available.And the\u00a0interesting thing with Jose is his salary, I believe he is at 4.5\u00a0million. So like salary matching\u00a0is less difficult at that number. You talk about backup point\u00a0guard for the Knicks, you talk about a\u00a0player in Alvarado who defends and\u00a0brings a passion on the end of the\u00a0floor. I'm sure a lot of teams will be\u00a0calling if New Orleans made him\u00a0available.YouTube",
-        "text_html": "Ian Begley: And I think teams around the league are just keeping an eye down there to see who's New Orleans going to make available. What will they want for those players? <a href=\"https://www.youtube.com/watch?v=7tXh4JvmEzk&t=2214s\" target=\"_blank\" style=\"color: #1a73e8;\">A New York product, Jose Alvarado, if they make him available, the Knicks, I'm sure, will be one of those teams that are interested. The Knicks will be among many teams that are interested in Jose Alvarado if he is made available.</a> And the interesting thing with Jose is his salary, I believe he is at 4.5 million. So like salary matching is less difficult at that number. You talk about backup point guard for the Knicks, you talk about a player in Alvarado who defends and brings a passion on the end of the floor. I'm sure a lot of teams will be calling if New Orleans made him available.",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=7tXh4JvmEzk&t=2214s"
       }
     ],
     "Kevin Durant": [
@@ -2632,13 +2674,6 @@
         "text_html": "<a href=\"https://www.youtube.com/watch?v=hs-LosRo_Ls\" target=\"_blank\" style=\"color: #1a73e8;\">Marc Stein: The Mavs, they are not discouraging anyone's calls. They are open for business</a> and that, you guys brought up something that maybe I'm insensitive to and don't cover enough. I'm sure it's not fun for the guys on this team. I mean, they know that this team I mean, tomorrow is 11 months since the Luka trade. And so it's been a very rough 11 months. This team is 12 and 23 and outside of Cooper Flagg very much looking like the rookie of the year. There is not a lot that has gone right in those 11 months. So everybody around the league knows it, understands it, and yeah, everyone wants to talk Mavs.",
         "outlet": "YouTube",
         "source_url": "https://www.youtube.com/watch?v=hs-LosRo_Ls"
-      },
-      {
-        "date": "2025-12-12",
-        "text": "But obviously with all the noise we know about A.D, do you think a divorce or you know, obviously a trade is inevitable or is that something that could be avoided? Grant Afseth: I think honestly it's fluid depending on what offers come in.My understanding of the sentiment right now, I don't think it's like a we absolutely have to get rid of Anthony Davis, by any means necessary before the deadline hits. I think it's definitely going to be a matter of. Is there a trade offer that comes through that we deem acceptable?And if that is a good trade for us to make to build around Cooper Flagg, then, you know, perhaps pull the trigger, but I think, that's going to be a matter of external factors.Youtube",
-        "text_html": "But obviously with all the noise we know about A.D, do you think a divorce or you know, obviously a trade is inevitable or is that something that could be avoided? Grant Afseth: I think honestly it's fluid depending on what offers come in. <a href=\"https://youtu.be/sEPja1PuIH4?si=G9cM2JWLbG1pVvS2\" target=\"_blank\" style=\"color: #1a73e8;\">My understanding of the sentiment right now, I don't think it's like a we absolutely have to get rid of Anthony Davis, by any means necessary before the deadline hits. I think it's definitely going to be a matter of. Is there a trade offer that comes through that we deem acceptable?</a> And if that is a good trade for us to make to build around Cooper Flagg, then, you know, perhaps pull the trigger, but I think, that's going to be a matter of external factors.",
-        "outlet": "Youtube",
-        "source_url": "https://youtu.be/sEPja1PuIH4?si=G9cM2JWLbG1pVvS2"
       }
     ],
     "Zach LaVine": [
@@ -2718,13 +2753,6 @@
         "text_html": "<a href=\"https://www.nytimes.com/athletic/6890775/2025/12/15/bucks-giannis-antetokounmpo-nba-trade-season/\" target=\"_blank\" style=\"color: #1a73e8;\">It should come as no surprise that, as The Athletic confirmed this week, they\u2019ve done due diligence on the Sacramento Kings\u2019 Zach LaVine recently</a> (and have shown interest in him in the past). At minimum, that revelation shows that with their backs against the wall, the Bucks might once again be willing to take a more sizable swing than just adding around the periphery as they search for solutions.",
         "outlet": "New York Times",
         "source_url": "https://www.nytimes.com/athletic/6890775/2025/12/15/bucks-giannis-antetokounmpo-nba-trade-season/"
-      },
-      {
-        "date": "2025-12-12",
-        "text": "Yet as is the case with so many other teams, the realities of the market might provide a sobering dose of reality once we get closer to dealing time. The Kings\u2019 Zach LaVine, for starters, could certainly help several contending teams.To that point, league sources confirmed that Milwaukee has done recent due diligence on the 30-year-old guard (and has shown interest in the past). But his exorbitant salary \u2014 $47.4 million this season and a player option for $48.9 million next season \u2014 makes it nearly impossible to move him without attaching some sort of sweetener (draft assets) in return. And therein lies the challenge for first-year Kings general manager Scott Perry.New York Times",
-        "text_html": "Yet as is the case with so many other teams, the realities of the market might provide a sobering dose of reality once we get closer to dealing time. The Kings\u2019 Zach LaVine, for starters, could certainly help several contending teams. <a href=\"https://www.nytimes.com/athletic/6881845/2025/12/12/nba-trades-giannis-antetokounmpo-anthony-davis-warriors-mavericks/?source=user_shared_article\" target=\"_blank\" style=\"color: #1a73e8;\">To that point, league sources confirmed that Milwaukee has done recent due diligence on the 30-year-old guard (and has shown interest in the past)</a>. But his exorbitant salary \u2014 $47.4 million this season and a player option for $48.9 million next season \u2014 makes it nearly impossible to move him without attaching some sort of sweetener (draft assets) in return. And therein lies the challenge for first-year Kings general manager Scott Perry.",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/6881845/2025/12/12/nba-trades-giannis-antetokounmpo-anthony-davis-warriors-mavericks/?source=user_shared_article"
       }
     ],
     "Rob Dillingham": [
@@ -2778,13 +2806,6 @@
         "text_html": "Jon Krawczynski: <a href=\"https://x.com/Timberwolves215/status/1999228607776817305\" target=\"_blank\" style=\"color: #1a73e8;\">I can tell you that there is absolutely nothing cooking there right now.</a> Could that change down the road? Maybe. He's certainly a name to watch. But nothing percolating yet.",
         "outlet": "x.com",
         "source_url": "https://x.com/Timberwolves215/status/1999228607776817305"
-      },
-      {
-        "date": "2025-12-12",
-        "text": "A Wolves source confirmed that there is legitimate interest in White, but the 25-year-old\u2019s looming free agency appears to be a significant hindrance to a possible trade.He\u2019s making $12.8 million in the final year of his deal and is widely expected to seek a major raise this summer. But the fear of that unknown, it seems, means this is the kind of \u201crental\u201d situation that drops the price point precipitously and creates a negotiating gap between the two sides.New York Times",
-        "text_html": "<a href=\"https://www.nytimes.com/athletic/6881845/2025/12/12/nba-trades-giannis-antetokounmpo-anthony-davis-warriors-mavericks/?source=user_shared_article\" target=\"_blank\" style=\"color: #1a73e8;\">A Wolves source confirmed that there is legitimate interest in White, but the 25-year-old\u2019s looming free agency appears to be a significant hindrance to a possible trade.</a> He\u2019s making $12.8 million in the final year of his deal and is widely expected to seek a major raise this summer. But the fear of that unknown, it seems, means this is the kind of \u201crental\u201d situation that drops the price point precipitously and creates a negotiating gap between the two sides.",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/6881845/2025/12/12/nba-trades-giannis-antetokounmpo-anthony-davis-warriors-mavericks/?source=user_shared_article"
       }
     ],
     "Kevin Love": [
@@ -2875,13 +2896,6 @@
         "text_html": "<a href=\"https://www.espn.com/nba/story/_/id/47191162/nba-buzz-latest-live-updates-trades-intel-league\" target=\"_blank\" style=\"color: #1a73e8;\">Dallas is open to exploring trades for Davis as well as veteran guards Klay Thompson and D'Angelo Russell,</a> per sources.",
         "outlet": "ESPN",
         "source_url": "https://www.espn.com/nba/story/_/id/47191162/nba-buzz-latest-live-updates-trades-intel-league"
-      },
-      {
-        "date": "2025-12-12",
-        "text": "The Mavericks\u2019 potential trade candidates have remained consistent \u2014 including a willingness to entertain offers for Anthony Davis, Klay Thompson, Daniel Gafford, and D\u2019Angelo Russell \u2014 but the team is not aggressively shopping those players, sources told DallasHoopsJournal.com.The internal view is that any deal must clearly improve Dallas\u2019 long-term outlook, whether through added flexibility, future assets, or a cleaner roster fit.Dallas Hoops Journal",
-        "text_html": "The Mavericks\u2019 potential trade candidates have remained consistent \u2014 including a willingness to entertain offers for Anthony Davis, Klay Thompson, Daniel Gafford, and D\u2019Angelo Russell \u2014 but the team is not aggressively shopping those players, sources told DallasHoopsJournal.com. <a href=\"https://dallashoopsjournal.com/p/nba-rumors-notebook-early-developments-to-monitor-about-the-dallas-mavericks-and-across-the-league/\" target=\"_blank\" style=\"color: #1a73e8;\">The internal view is that any deal must clearly improve Dallas\u2019 long-term outlook, whether through added flexibility, future assets, or a cleaner roster fit</a>.",
-        "outlet": "Dallas Hoops Journal",
-        "source_url": "https://dallashoopsjournal.com/p/nba-rumors-notebook-early-developments-to-monitor-about-the-dallas-mavericks-and-across-the-league/"
       }
     ],
     "Daniel Gafford": [
@@ -2933,20 +2947,6 @@
         "text_html": "<a href=\"https://marcstein.substack.com\" target=\"_blank\" style=\"color: #1a73e8;\">The Raptors have also been mentioned as a potential Gafford suitor depending on the course Toronto ultimately chooses in its well-chronicled pursuit of frontcourt help: Chasing an All-Star-caliber big man like Dallas' Anthony Davis or Sacramento's Sabonis</a> \u2026 or focusing on veteran targets on more trade-friendly contracts such as Gafford or Phoenix's Nick Richards.",
         "outlet": "journal-topics.com",
         "source_url": "https://marcstein.substack.com"
-      },
-      {
-        "date": "2025-12-12",
-        "text": "The Mavericks\u2019 potential trade candidates have remained consistent \u2014 including a willingness to entertain offers for Anthony Davis, Klay Thompson, Daniel Gafford, and D\u2019Angelo Russell \u2014 but the team is not aggressively shopping those players, sources told DallasHoopsJournal.com.The internal view is that any deal must clearly improve Dallas\u2019 long-term outlook, whether through added flexibility, future assets, or a cleaner roster fit.Dallas Hoops Journal",
-        "text_html": "The Mavericks\u2019 potential trade candidates have remained consistent \u2014 including a willingness to entertain offers for Anthony Davis, Klay Thompson, Daniel Gafford, and D\u2019Angelo Russell \u2014 but the team is not aggressively shopping those players, sources told DallasHoopsJournal.com. <a href=\"https://dallashoopsjournal.com/p/nba-rumors-notebook-early-developments-to-monitor-about-the-dallas-mavericks-and-across-the-league/\" target=\"_blank\" style=\"color: #1a73e8;\">The internal view is that any deal must clearly improve Dallas\u2019 long-term outlook, whether through added flexibility, future assets, or a cleaner roster fit</a>.",
-        "outlet": "Dallas Hoops Journal",
-        "source_url": "https://dallashoopsjournal.com/p/nba-rumors-notebook-early-developments-to-monitor-about-the-dallas-mavericks-and-across-the-league/"
-      },
-      {
-        "date": "2025-12-12",
-        "text": "\"They have to be very careful with what they do with AD,\" an East\u00a0executive\u00a0said. \"They could set themselves back years with the wrong deal.\"Speaking of Daniel Gafford, he has been mentioned as a possible trade\u00a0candidate\u00a0this season and into the future, especially if the Mavericks have to cut payroll.He's a quality big man, and the three-year, $54 million\u00a0contract\u00a0he starts next season is viewed as reasonable. But with center\u00a0Dereck Lively II\u00a0playing just 43 games over the past two seasons -- he will miss the rest of 2025-26 with a foot injury -- it should no longer be assumed that Gafford is expendable in Dallas.ESPN",
-        "text_html": "\"They have to be very careful with what they do with AD,\" an East executive said. \"They could set themselves back years with the wrong deal.\" <a href=\"https://www.espn.com/nba/story/_/id/47281439/nba-trade-deadline-intel-new-era-superstar-value-means-giannis-anthony-davis\" target=\"_blank\" style=\"color: #1a73e8;\">Speaking of Daniel Gafford, he has been mentioned as a possible trade candidate this season and into the future, especially if the Mavericks have to cut payroll.</a> He's a quality big man, and the three-year, $54 million contract he starts next season is viewed as reasonable. But with center Dereck Lively II playing just 43 games over the past two seasons -- he will miss the rest of 2025-26 with a foot injury -- it should no longer be assumed that Gafford is expendable in Dallas.",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/47281439/nba-trade-deadline-intel-new-era-superstar-value-means-giannis-anthony-davis"
       }
     ],
     "Caleb Martin": [
@@ -3041,15 +3041,6 @@
         "source_url": "https://basketnews.com/news-237569-dallas-doesnt-want-trae-young-in-potential-anthony-davis-trade-with-hawks.html"
       }
     ],
-    "Derik Queen": [
-      {
-        "date": "2026-01-06",
-        "text": "In trade discussions with the Mavericks regarding Anthony Davis to this point, the Hawks have resisted including former No. 1 pick Zaccharie Risacher and the Pelicans\u2019 unprotected 2026 first-round draft pick via the Derik Queen trade,league sources told HoopsHype. Atlanta has labeled the unprotected 2026 first-round draft pick from New Orleans as virtually untradeable heading into the deadline, HoopsHype has learned. The Pelicans are currently tied at 14 percent for the highest odds of winning the lottery with the Indiana Pacers and Sacramento Kings. Meanwhile, Dallas and other teams around the league have called to inquire about Risacher, league sources said.HoopsHype",
-        "text_html": "<a href=\"https://www.hoopshype.com/story/sports/nba/2026/01/06/nba-intel-trae-young-anthony-davis-michael-porter-jr-ivica-zubac/88049739007/\" target=\"_blank\" style=\"color: #1a73e8;\">In trade discussions with the Mavericks regarding Anthony Davis to this point, the Hawks have resisted including former No. 1 pick Zaccharie Risacher and the Pelicans\u2019 unprotected 2026 first-round draft pick via the Derik Queen trade,</a> league sources told HoopsHype. Atlanta has labeled the unprotected 2026 first-round draft pick from New Orleans as virtually untradeable heading into the deadline, HoopsHype has learned. The Pelicans are currently tied at 14 percent for the highest odds of winning the lottery with the Indiana Pacers and Sacramento Kings. Meanwhile, Dallas and other teams around the league have called to inquire about Risacher, league sources said.",
-        "outlet": "HoopsHype",
-        "source_url": "https://www.hoopshype.com/story/sports/nba/2026/01/06/nba-intel-trae-young-anthony-davis-michael-porter-jr-ivica-zubac/88049739007/"
-      }
-    ],
     "Ivica Zubac": [
       {
         "date": "2026-01-06",
@@ -3073,13 +3064,6 @@
         "text_html": "With that in mind, the Pacers gauged the price tag on various centers leaguewide this season, including <a href=\"https://www.hoopshype.com/story/sports/nba/2026/01/06/nba-intel-trae-young-anthony-davis-michael-porter-jr-ivica-zubac/88049739007/\" target=\"_blank\" style=\"color: #1a73e8;\">Utah\u2019s Walker Kessler, Los Angeles\u2019 Ivica Zubac, Brooklyn\u2019s Nicolas Claxton, Dallas\u2019 Daniel Gafford, New Orleans\u2019 Yves Missi, and others,</a> league sources told HoopsHype.",
         "outlet": "HoopsHype",
         "source_url": "https://www.hoopshype.com/story/sports/nba/2026/01/06/nba-intel-trae-young-anthony-davis-michael-porter-jr-ivica-zubac/88049739007/"
-      },
-      {
-        "date": "2025-12-12",
-        "text": "Evan Sidery:The Warriors, who will be in the market for a center upgrade during trade season, are expected to show interest in Nic Claxton.The Nets are once again open to moving Claxton, who is under contract through 2027-28. A swap of Jonathan Kuminga for Claxton would be on the table.x.com",
-        "text_html": "Evan Sidery: <a href=\"https://x.com/esidery/status/1998474849136836786\" target=\"_blank\" style=\"color: #1a73e8;\">The Warriors, who will be in the market for a center upgrade during trade season, are expected to show interest in Nic Claxton.</a> The Nets are once again open to moving Claxton, who is under contract through 2027-28. A swap of Jonathan Kuminga for Claxton would be on the table.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/esidery/status/1998474849136836786"
       }
     ],
     "Walker Kessler": [
@@ -3292,13 +3276,6 @@
         "text_html": "<a href=\"https://www.hoopshype.com/story/sports/nba/2025/12/18/michael-scottos-nba-intel-giannis-antetokounmpo-anthony-davis-trae-young-lauri-markkanen-lamelo-ball/87823173007/\" target=\"_blank\" style=\"color: #1a73e8;\">Miami has gauged the trade market on small forward Andrew Wiggins,</a> who has a $30.17 million player option for the 2026-27 season. Tyler Herro, a Milwaukee, Wisconsin native, has maintained his All-Star form from last season after missing the first 17 games of the season. Terry Rozier\u2019s expiring $26.64 million contract also looms.",
         "outlet": "HoopsHype",
         "source_url": "https://www.hoopshype.com/story/sports/nba/2025/12/18/michael-scottos-nba-intel-giannis-antetokounmpo-anthony-davis-trae-young-lauri-markkanen-lamelo-ball/87823173007/"
-      },
-      {
-        "date": "2025-12-12",
-        "text": "The Miami Heat, for example, are often handicapped by league insiders as a place that Antetokounmpo might be willing to call his new basketball home.Pat Riley and company could offer the Bucks a yacht full of draft assets, all their best young players (All-Star Tyler Herro, promising young big man Kel\u2019el Ware, small forward Jaime Jaquez Jr.) and salary filler (Terry Rozier, if the NBA allows it) to make the numbers work.New York Times",
-        "text_html": "<a href=\"https://www.nytimes.com/athletic/6881845/2025/12/12/nba-trades-giannis-antetokounmpo-anthony-davis-warriors-mavericks/?source=user_shared_article\" target=\"_blank\" style=\"color: #1a73e8;\">The Miami Heat, for example, are often handicapped by league insiders as a place that Antetokounmpo might be willing to call his new basketball home.</a> Pat Riley and company could offer the Bucks a yacht full of draft assets, all their best young players (All-Star Tyler Herro, promising young big man Kel\u2019el Ware, small forward Jaime Jaquez Jr.) and salary filler (Terry Rozier, if the NBA allows it) to make the numbers work.",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/6881845/2025/12/12/nba-trades-giannis-antetokounmpo-anthony-davis-warriors-mavericks/?source=user_shared_article"
       }
     ],
     "LaMelo Ball": [
@@ -3315,75 +3292,6 @@
         "text_html": "Speaking of trade interest, the Toronto <a href=\"https://www.hoopshype.com/story/sports/nba/2025/12/18/michael-scottos-nba-intel-giannis-antetokounmpo-anthony-davis-trae-young-lauri-markkanen-lamelo-ball/87823173007/\" target=\"_blank\" style=\"color: #1a73e8;\">Raptors checked in on the availability of LaMelo Ball over the summer,</a> league sources told HoopsHype.",
         "outlet": "HoopsHype",
         "source_url": "https://www.hoopshype.com/story/sports/nba/2025/12/18/michael-scottos-nba-intel-giannis-antetokounmpo-anthony-davis-trae-young-lauri-markkanen-lamelo-ball/87823173007/"
-      }
-    ],
-    "Zion Williamson": [
-      {
-        "date": "2026-01-06",
-        "text": "Sam Amick: The Pelicans are putting up a good face saying no on trade inquiries for Herb Jones,no on Trey Murphy - well, not completely 'no' on Trey, but they have a pretty high price tag on him.Even Zion Williamson, I can't remember a year where we got so many high-profile stars, players, who you feel might be available for trades, right now, we got Ja Morant, LaMelo Ball, all the way down the lion, and Zion, to me, should be at the top of the list. The Pelicans should be really open to listening to move him, and I do think, in the right situation, he could be a difference-maker, there's not much talk on Zion getting traded at this point. It's a little bit quiet, though a possibility, I think. Joe Dumars told teams he wanted to really get a good look at Zion, and I don't know how long that look needs to be before he makes up his mind, but if I got to handicap right now, it probably won't happen before the trade deadline.x.com",
-        "text_html": "Sam Amick: The Pelicans are putting up a good face saying no on trade inquiries for Herb Jones, <a href=\"https://x.com/RunItBackFDTV/status/2008575051965059345\" target=\"_blank\" style=\"color: #1a73e8;\">no on Trey Murphy - well, not completely 'no' on Trey, but they have a pretty high price tag on him.</a> Even Zion Williamson, I can't remember a year where we got so many high-profile stars, players, who you feel might be available for trades, right now, we got Ja Morant, LaMelo Ball, all the way down the lion, and Zion, to me, should be at the top of the list. The Pelicans should be really open to listening to move him, and I do think, in the right situation, he could be a difference-maker, there's not much talk on Zion getting traded at this point. It's a little bit quiet, though a possibility, I think. Joe Dumars told teams he wanted to really get a good look at Zion, and I don't know how long that look needs to be before he makes up his mind, but if I got to handicap right now, it probably won't happen before the trade deadline.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/RunItBackFDTV/status/2008575051965059345"
-      }
-    ],
-    "Herb Jones": [
-      {
-        "date": "2026-01-06",
-        "text": "Sam Amick: The Pelicans are putting up a good face saying no on trade inquiries for Herb Jones,no on Trey Murphy - well, not completely 'no' on Trey, but they have a pretty high price tag on him.Even Zion Williamson, I can't remember a year where we got so many high-profile stars, players, who you feel might be available for trades, right now, we got Ja Morant, LaMelo Ball, all the way down the lion, and Zion, to me, should be at the top of the list. The Pelicans should be really open to listening to move him, and I do think, in the right situation, he could be a difference-maker, there's not much talk on Zion getting traded at this point. It's a little bit quiet, though a possibility, I think. Joe Dumars told teams he wanted to really get a good look at Zion, and I don't know how long that look needs to be before he makes up his mind, but if I got to handicap right now, it probably won't happen before the trade deadline.x.com",
-        "text_html": "Sam Amick: The Pelicans are putting up a good face saying no on trade inquiries for Herb Jones, <a href=\"https://x.com/RunItBackFDTV/status/2008575051965059345\" target=\"_blank\" style=\"color: #1a73e8;\">no on Trey Murphy - well, not completely 'no' on Trey, but they have a pretty high price tag on him.</a> Even Zion Williamson, I can't remember a year where we got so many high-profile stars, players, who you feel might be available for trades, right now, we got Ja Morant, LaMelo Ball, all the way down the lion, and Zion, to me, should be at the top of the list. The Pelicans should be really open to listening to move him, and I do think, in the right situation, he could be a difference-maker, there's not much talk on Zion getting traded at this point. It's a little bit quiet, though a possibility, I think. Joe Dumars told teams he wanted to really get a good look at Zion, and I don't know how long that look needs to be before he makes up his mind, but if I got to handicap right now, it probably won't happen before the trade deadline.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/RunItBackFDTV/status/2008575051965059345"
-      },
-      {
-        "date": "2025-12-19",
-        "text": "The New Orleans Pelicans, according to team and league sources, have signaled to interested teams that they\u2019re not entertaining Herbert Jones trades \u2014 at least not at any cost the Lakers can meet.L.A. could offer a single unprotected first-round pick and matching salary for Jones once he becomes trade-eligible in January. And for players like Jones, the asking price is usually a combination of good draft capital and young players.New York Times",
-        "text_html": "<a href=\"https://www.nytimes.com/athletic/6902319/2025/12/19/lakers-trade-rumors-deadline-needs/?source=user_shared_article\" target=\"_blank\" style=\"color: #1a73e8;\">The New Orleans Pelicans, according to team and league sources, have signaled to interested teams that they\u2019re not entertaining Herbert Jones trades \u2014 at least not at any cost the Lakers can meet.</a> L.A. could offer a single unprotected first-round pick and matching salary for Jones once he becomes trade-eligible in January. And for players like Jones, the asking price is usually a combination of good draft capital and young players.",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/6902319/2025/12/19/lakers-trade-rumors-deadline-needs/?source=user_shared_article"
-      },
-      {
-        "date": "2025-12-18",
-        "text": "The Los Angeles Lakers are\u00a0monitoring\u00a0the trade market for a defensive wing upgrade, league\u00a0sources\u00a0told\u00a0HoopsHype.Among the 3-and-D wing upgrades on their wish list is New Orleans Pelicans forward\u00a0Herb Jones, league\u00a0sources\u00a0say.HoopsHype",
-        "text_html": "The Los Angeles Lakers are monitoring the trade market for a defensive wing upgrade, league sources told HoopsHype. <a href=\"https://www.hoopshype.com/story/sports/nba/2025/12/18/michael-scottos-nba-intel-giannis-antetokounmpo-anthony-davis-trae-young-lauri-markkanen-lamelo-ball/87823173007/\" target=\"_blank\" style=\"color: #1a73e8;\">Among the 3-and-D wing upgrades on their wish list is New Orleans Pelicans forward Herb Jones, league sources say</a>.",
-        "outlet": "HoopsHype",
-        "source_url": "https://www.hoopshype.com/story/sports/nba/2025/12/18/michael-scottos-nba-intel-giannis-antetokounmpo-anthony-davis-trae-young-lauri-markkanen-lamelo-ball/87823173007/"
-      },
-      {
-        "date": "2025-12-16",
-        "text": "MrBuckBuck: New Orleans PelicansHerb Jones is in disbelief after a fan trolls him saying he was traded to the Lakersx.com",
-        "text_html": "MrBuckBuck: New Orleans Pelicans <a href=\"https://x.com/MrBuckBuckNBA/status/2000910301055885530\" target=\"_blank\" style=\"color: #1a73e8;\">Herb Jones is in disbelief after a fan trolls him saying he was traded to the Lakers</a>",
-        "outlet": "x.com",
-        "source_url": "https://x.com/MrBuckBuckNBA/status/2000910301055885530"
-      },
-      {
-        "date": "2025-12-14",
-        "text": "League sources say that the Lakers would naturally like to be in the 3-and-D market this Trade Season, but it's a very limited market at this juncture, essentially headlined by Sacramento's Keon Ellis despite the fact that Ellis is playing seven fewer minutes per game this season under Kings coach Doug Christie than he did last season. We mentioned the other day that the Pelicans would insist on a significant haul to part with Herb Jones It's a price point is presumed to be beyond the Lakers\u2019 current trade means.marcstein.substack.com",
-        "text_html": "<a href=\"https://marcstein.substack.com/\" target=\"_blank\" style=\"color: #1a73e8;\">League sources say that the Lakers would naturally like to be in the 3-and-D market this Trade Season, but it's a very limited market at this juncture, essentially headlined by Sacramento's Keon Ellis despite the fact that Ellis is playing seven fewer minutes per game this season under Kings coach Doug Christie than he did last season</a>. We mentioned the other day that the Pelicans would insist on a significant haul to part with Herb Jones It's a price point is presumed to be beyond the Lakers\u2019 current trade means.",
-        "outlet": "marcstein.substack.com",
-        "source_url": "https://marcstein.substack.com/"
-      }
-    ],
-    "Trey Murphy": [
-      {
-        "date": "2026-01-06",
-        "text": "Sam Amick: The Pelicans are putting up a good face saying no on trade inquiries for Herb Jones,no on Trey Murphy - well, not completely 'no' on Trey, but they have a pretty high price tag on him.Even Zion Williamson, I can't remember a year where we got so many high-profile stars, players, who you feel might be available for trades, right now, we got Ja Morant, LaMelo Ball, all the way down the lion, and Zion, to me, should be at the top of the list. The Pelicans should be really open to listening to move him, and I do think, in the right situation, he could be a difference-maker, there's not much talk on Zion getting traded at this point. It's a little bit quiet, though a possibility, I think. Joe Dumars told teams he wanted to really get a good look at Zion, and I don't know how long that look needs to be before he makes up his mind, but if I got to handicap right now, it probably won't happen before the trade deadline.x.com",
-        "text_html": "Sam Amick: The Pelicans are putting up a good face saying no on trade inquiries for Herb Jones, <a href=\"https://x.com/RunItBackFDTV/status/2008575051965059345\" target=\"_blank\" style=\"color: #1a73e8;\">no on Trey Murphy - well, not completely 'no' on Trey, but they have a pretty high price tag on him.</a> Even Zion Williamson, I can't remember a year where we got so many high-profile stars, players, who you feel might be available for trades, right now, we got Ja Morant, LaMelo Ball, all the way down the lion, and Zion, to me, should be at the top of the list. The Pelicans should be really open to listening to move him, and I do think, in the right situation, he could be a difference-maker, there's not much talk on Zion getting traded at this point. It's a little bit quiet, though a possibility, I think. Joe Dumars told teams he wanted to really get a good look at Zion, and I don't know how long that look needs to be before he makes up his mind, but if I got to handicap right now, it probably won't happen before the trade deadline.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/RunItBackFDTV/status/2008575051965059345"
-      },
-      {
-        "date": "2025-12-18",
-        "text": "The Golden StateWarriors have been enamored with Trey Murphy since he was eligible for the draft, league\u00a0sources\u00a0told\u00a0HoopsHype.With that said, rival\u00a0executives\u00a0around the league believe the Warriors will ultimately prioritize a\u00a0Giannis Antetokounmpo\u00a0pursuit ahead of Murphy before cashing in all their trade chips in an attempt to land the Pelican forward.HoopsHype",
-        "text_html": "The Golden State <a href=\"https://www.hoopshype.com/story/sports/nba/2025/12/18/michael-scottos-nba-intel-giannis-antetokounmpo-anthony-davis-trae-young-lauri-markkanen-lamelo-ball/87823173007/\" target=\"_blank\" style=\"color: #1a73e8;\">Warriors have been enamored with Trey Murphy since he was eligible for the draft, league sources told HoopsHype.</a> With that said, rival executives around the league believe the Warriors will ultimately prioritize a Giannis Antetokounmpo pursuit ahead of Murphy before cashing in all their trade chips in an attempt to land the Pelican forward.",
-        "outlet": "HoopsHype",
-        "source_url": "https://www.hoopshype.com/story/sports/nba/2025/12/18/michael-scottos-nba-intel-giannis-antetokounmpo-anthony-davis-trae-young-lauri-markkanen-lamelo-ball/87823173007/"
-      },
-      {
-        "date": "2025-12-12",
-        "text": "For quite some time now, the Warriors have been open about their desire to acquire the Pelicans\u2019 Trey Murphy III.But if they\u2019re going to use Kuminga to do that, then it would be helpful to know how, if at all, the Pelicans value the Warriors\u2019 23-year-old forward. For the time being, the feedback is mixed on that front. \u2019Tis the season for smokescreens, after all. Yet this part is indisputable when it comes to the Warriors\u2019 side of the equation: These past six weeks have not been kind when it comes to Kuminga\u2019s value. After the first six games of the season when Kuminga was receiving rave reviews, he has returned to the rollercoaster existence that embodied the vast majority of his first four seasons.New York Times",
-        "text_html": "<a href=\"https://www.nytimes.com/athletic/6881845/2025/12/12/nba-trades-giannis-antetokounmpo-anthony-davis-warriors-mavericks/?source=user_shared_article\" target=\"_blank\" style=\"color: #1a73e8;\">For quite some time now, the Warriors have been open about their desire to acquire the Pelicans\u2019 Trey Murphy III.</a> But if they\u2019re going to use Kuminga to do that, then it would be helpful to know how, if at all, the Pelicans value the Warriors\u2019 23-year-old forward. For the time being, the feedback is mixed on that front. \u2019Tis the season for smokescreens, after all. Yet this part is indisputable when it comes to the Warriors\u2019 side of the equation: These past six weeks have not been kind when it comes to Kuminga\u2019s value. After the first six games of the season when Kuminga was receiving rave reviews, he has returned to the rollercoaster existence that embodied the vast majority of his first four seasons.",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/6881845/2025/12/12/nba-trades-giannis-antetokounmpo-anthony-davis-warriors-mavericks/?source=user_shared_article"
       }
     ],
     "Deni Avdija": [
@@ -3496,13 +3404,6 @@
         "text_html": "Stacey King: <a href=\"https://www.youtube.com/watch?v=phT1eWskNks&t=681s\" target=\"_blank\" style=\"color: #1a73e8;\">Well, news flash, the owner loves him. He\u2019s not going anywhere. When the owner loves you and the owner\u2019s son loves you, Trae Young is not going anywhere.</a> I think the problem right now is that the other young players, like Jalen Johnson, have ascended.",
         "outlet": "YouTube",
         "source_url": "https://www.youtube.com/watch?v=phT1eWskNks&t=681s"
-      },
-      {
-        "date": "2025-12-12",
-        "text": "Grant Afseth: Shams Charania from ESPN reported a couple of potential Eastern Conference suitors like the Atlanta Hawks, Detroit Pistons, Toronto Raptors. But those teams so far, doesn't seem like there's meaningful traction by any means of a great offer that the Dallas Mavericks cannot refuse.I've been asking around, and there's more skepticism than optimism about Detroit and Atlanta as viable trade destinations. Because of various reasons, like Detroit has it rolling right now. Like, there's, probably a reluctance to break that team up and complicate things chemistry wise with how the season has gone for them. And then Atlanta, they also have to solve Trae Young's future, with their team long-term. So do you go into the offseason where you have to give contract clarity to Trae Young and Anthony Davis? That's where it gets complicated. And they could get a potential top three, even number one overall pick this year where you're adding that next to Jalen Johnson.Youtube",
-        "text_html": "Grant Afseth: Shams Charania from ESPN reported a couple of potential Eastern Conference suitors like the Atlanta Hawks, Detroit Pistons, Toronto Raptors. But those teams so far, doesn't seem like there's meaningful traction by any means of a great offer that the Dallas Mavericks cannot refuse. <a href=\"https://youtu.be/sEPja1PuIH4?si=G9cM2JWLbG1pVvS2\" target=\"_blank\" style=\"color: #1a73e8;\">I've been asking around, and there's more skepticism than optimism about Detroit and Atlanta as viable trade destinations. Because of various reasons, like Detroit has it rolling right now. Like, there's, probably a reluctance to break that team up and complicate things chemistry wise with how the season has gone for them</a>. And then Atlanta, they also have to solve Trae Young's future, with their team long-term. So do you go into the offseason where you have to give contract clarity to Trae Young and Anthony Davis? That's where it gets complicated. And they could get a potential top three, even number one overall pick this year where you're adding that next to Jalen Johnson.",
-        "outlet": "Youtube",
-        "source_url": "https://youtu.be/sEPja1PuIH4?si=G9cM2JWLbG1pVvS2"
       }
     ],
     "Mark Williams": [
@@ -3759,13 +3660,6 @@
         "text_html": "The Kings are struggling with the likes of Murray and veterans Domantas Sabonis, Zach LaVine, DeMar DeRozan and Russell Westbrook on their roster. Sources told Andscape that there is a disconnect between some veteran Kings players and Christie and his coaching staff. <a href=\"https://andscape.com/features/for-deaaron-fox-the-grass-is-greener-with-the-san-antonio-spurs/\" target=\"_blank\" style=\"color: #1a73e8;\">Sacramento is expected to explore making trades of its veteran players, a source told Andscape</a>.",
         "outlet": "Andscape",
         "source_url": "https://andscape.com/features/for-deaaron-fox-the-grass-is-greener-with-the-san-antonio-spurs/"
-      },
-      {
-        "date": "2025-12-12",
-        "text": "For Sabonis\u2019 part, league sources say the 29-year-old big man has heeded that call for patience.His contract runs through the 2027-28 season, with a combined $94 million owed in the next two seasons, meaning his market is inevitably limited by the sheer magnitude of the money owed. Teams like Washington, the Phoenix Suns and Chicago have shown significant interest in the past and are still believed to be on his short list of possible suitors, but Sabonis is prepared to remain in a Kings jersey for the foreseeable future.New York Times",
-        "text_html": "<a href=\"https://www.nytimes.com/athletic/6881845/2025/12/12/nba-trades-giannis-antetokounmpo-anthony-davis-warriors-mavericks/?source=user_shared_article\" target=\"_blank\" style=\"color: #1a73e8;\">For Sabonis\u2019 part, league sources say the 29-year-old big man has heeded that call for patience.</a> His contract runs through the 2027-28 season, with a combined $94 million owed in the next two seasons, meaning his market is inevitably limited by the sheer magnitude of the money owed. Teams like Washington, the Phoenix Suns and Chicago have shown significant interest in the past and are still believed to be on his short list of possible suitors, but Sabonis is prepared to remain in a Kings jersey for the foreseeable future.",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/6881845/2025/12/12/nba-trades-giannis-antetokounmpo-anthony-davis-warriors-mavericks/?source=user_shared_article"
       }
     ],
     "Tyrese Haliburton": [
@@ -3848,13 +3742,6 @@
         "text_html": "<a href=\"https://www.hoopshype.com/story/sports/nba/2025/12/18/michael-scottos-nba-intel-giannis-antetokounmpo-anthony-davis-trae-young-lauri-markkanen-lamelo-ball/87823173007/\" target=\"_blank\" style=\"color: #1a73e8;\">Miami has gauged the trade market on small forward Andrew Wiggins,</a> who has a $30.17 million player option for the 2026-27 season. Tyler Herro, a Milwaukee, Wisconsin native, has maintained his All-Star form from last season after missing the first 17 games of the season. Terry Rozier\u2019s expiring $26.64 million contract also looms.",
         "outlet": "HoopsHype",
         "source_url": "https://www.hoopshype.com/story/sports/nba/2025/12/18/michael-scottos-nba-intel-giannis-antetokounmpo-anthony-davis-trae-young-lauri-markkanen-lamelo-ball/87823173007/"
-      },
-      {
-        "date": "2025-12-12",
-        "text": "The Miami Heat, for example, are often handicapped by league insiders as a place that Antetokounmpo might be willing to call his new basketball home.Pat Riley and company could offer the Bucks a yacht full of draft assets, all their best young players (All-Star Tyler Herro, promising young big man Kel\u2019el Ware, small forward Jaime Jaquez Jr.) and salary filler (Terry Rozier, if the NBA allows it) to make the numbers work.New York Times",
-        "text_html": "<a href=\"https://www.nytimes.com/athletic/6881845/2025/12/12/nba-trades-giannis-antetokounmpo-anthony-davis-warriors-mavericks/?source=user_shared_article\" target=\"_blank\" style=\"color: #1a73e8;\">The Miami Heat, for example, are often handicapped by league insiders as a place that Antetokounmpo might be willing to call his new basketball home.</a> Pat Riley and company could offer the Bucks a yacht full of draft assets, all their best young players (All-Star Tyler Herro, promising young big man Kel\u2019el Ware, small forward Jaime Jaquez Jr.) and salary filler (Terry Rozier, if the NBA allows it) to make the numbers work.",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/6881845/2025/12/12/nba-trades-giannis-antetokounmpo-anthony-davis-warriors-mavericks/?source=user_shared_article"
       }
     ],
     "Brandon Ingram": [
@@ -3928,46 +3815,11 @@
         "outlet": "Andscape",
         "source_url": "https://andscape.com/features/for-deaaron-fox-the-grass-is-greener-with-the-san-antonio-spurs/"
       }
-    ],
-    "Jaime Jaquez": [
-      {
-        "date": "2025-12-12",
-        "text": "The Miami Heat, for example, are often handicapped by league insiders as a place that Antetokounmpo might be willing to call his new basketball home.Pat Riley and company could offer the Bucks a yacht full of draft assets, all their best young players (All-Star Tyler Herro, promising young big man Kel\u2019el Ware, small forward Jaime Jaquez Jr.) and salary filler (Terry Rozier, if the NBA allows it) to make the numbers work.New York Times",
-        "text_html": "<a href=\"https://www.nytimes.com/athletic/6881845/2025/12/12/nba-trades-giannis-antetokounmpo-anthony-davis-warriors-mavericks/?source=user_shared_article\" target=\"_blank\" style=\"color: #1a73e8;\">The Miami Heat, for example, are often handicapped by league insiders as a place that Antetokounmpo might be willing to call his new basketball home.</a> Pat Riley and company could offer the Bucks a yacht full of draft assets, all their best young players (All-Star Tyler Herro, promising young big man Kel\u2019el Ware, small forward Jaime Jaquez Jr.) and salary filler (Terry Rozier, if the NBA allows it) to make the numbers work.",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/6881845/2025/12/12/nba-trades-giannis-antetokounmpo-anthony-davis-warriors-mavericks/?source=user_shared_article"
-      }
-    ],
-    "Dereck Lively": [
-      {
-        "date": "2025-12-12",
-        "text": "\"They have to be very careful with what they do with AD,\" an East\u00a0executive\u00a0said. \"They could set themselves back years with the wrong deal.\"Speaking of Daniel Gafford, he has been mentioned as a possible trade\u00a0candidate\u00a0this season and into the future, especially if the Mavericks have to cut payroll.He's a quality big man, and the three-year, $54 million\u00a0contract\u00a0he starts next season is viewed as reasonable. But with center\u00a0Dereck Lively II\u00a0playing just 43 games over the past two seasons -- he will miss the rest of 2025-26 with a foot injury -- it should no longer be assumed that Gafford is expendable in Dallas.ESPN",
-        "text_html": "\"They have to be very careful with what they do with AD,\" an East executive said. \"They could set themselves back years with the wrong deal.\" <a href=\"https://www.espn.com/nba/story/_/id/47281439/nba-trade-deadline-intel-new-era-superstar-value-means-giannis-anthony-davis\" target=\"_blank\" style=\"color: #1a73e8;\">Speaking of Daniel Gafford, he has been mentioned as a possible trade candidate this season and into the future, especially if the Mavericks have to cut payroll.</a> He's a quality big man, and the three-year, $54 million contract he starts next season is viewed as reasonable. But with center Dereck Lively II playing just 43 games over the past two seasons -- he will miss the rest of 2025-26 with a foot injury -- it should no longer be assumed that Gafford is expendable in Dallas.",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/47281439/nba-trade-deadline-intel-new-era-superstar-value-means-giannis-anthony-davis"
-      }
-    ],
-    "Chris Paul": [
-      {
-        "date": "2025-12-12",
-        "text": "Charlotte is among the teams that had\u00a0interest\u00a0in\u00a0Chris Paul\u00a0this past offseason when the future Hall of Fame point guard (and North Carolina native) was adamant that he was willing to play no farther away from his Los Angeles-based family than Phoenix. Now?A\u00a0source\u00a0with\u00a0knowledge\u00a0of the Hornets' thinking said this week that they are not expected to pursue the 40-year-old, but Paul is said to be open-minded about destinations nowto go somewhere he can assemble a final chapter with a far happier ending than his second stint as a Clipper featured.marcstein.substack.com",
-        "text_html": "Charlotte is among the teams that had interest in Chris Paul this past offseason when the future Hall of Fame point guard (and North Carolina native) was adamant that he was willing to play no farther away from his Los Angeles-based family than Phoenix. Now? <a href=\"https://marcstein.substack.com/p/lots-of-the-nbas-latest-trade-talk\" target=\"_blank\" style=\"color: #1a73e8;\">A source with knowledge of the Hornets' thinking said this week that they are not expected to pursue the 40-year-old, but Paul is said to be open-minded about destinations now</a> to go somewhere he can assemble a final chapter with a far happier ending than his second stint as a Clipper featured.",
-        "outlet": "marcstein.substack.com",
-        "source_url": "https://marcstein.substack.com/p/lots-of-the-nbas-latest-trade-talk"
-      }
     ]
   },
   "daily_counts": {
-    "Ja Morant": {
-      "2026-01-09": 4,
-      "2026-01-06": 1,
-      "2025-12-17": 1
-    },
-    "Jaren Jackson Jr": {
-      "2026-01-09": 1
-    },
     "Anthony Davis": {
-      "2026-01-09": 3,
+      "2026-01-09": 4,
       "2026-01-08": 1,
       "2026-01-07": 8,
       "2026-01-06": 1,
@@ -3985,8 +3837,42 @@
       "2025-12-18": 4,
       "2025-12-17": 1,
       "2025-12-16": 1,
-      "2025-12-15": 3,
-      "2025-12-12": 5
+      "2025-12-15": 3
+    },
+    "Ja Morant": {
+      "2026-01-09": 7,
+      "2026-01-06": 1,
+      "2025-12-17": 1
+    },
+    "Zion Williamson": {
+      "2026-01-09": 1,
+      "2026-01-06": 1
+    },
+    "Herb Jones": {
+      "2026-01-09": 1,
+      "2026-01-06": 1,
+      "2025-12-19": 1,
+      "2025-12-18": 1,
+      "2025-12-16": 1,
+      "2025-12-14": 1
+    },
+    "Trey Murphy": {
+      "2026-01-09": 1,
+      "2026-01-06": 1,
+      "2025-12-18": 1
+    },
+    "Derik Queen": {
+      "2026-01-09": 1,
+      "2026-01-06": 1
+    },
+    "Jeremiah Fears": {
+      "2026-01-09": 1
+    },
+    "Jaren Jackson Jr": {
+      "2026-01-09": 2
+    },
+    "Desmond Bane": {
+      "2026-01-09": 1
     },
     "Giannis Antetokounmpo": {
       "2026-01-09": 1,
@@ -4007,8 +3893,7 @@
       "2025-12-16": 1,
       "2025-12-15": 2,
       "2025-12-14": 2,
-      "2025-12-13": 2,
-      "2025-12-12": 2
+      "2025-12-13": 2
     },
     "Jonathan Kuminga": {
       "2026-01-09": 1,
@@ -4019,8 +3904,7 @@
       "2025-12-31": 1,
       "2025-12-21": 2,
       "2025-12-18": 1,
-      "2025-12-17": 1,
-      "2025-12-12": 3
+      "2025-12-17": 1
     },
     "Jakob Poeltl": {
       "2026-01-09": 1,
@@ -4042,8 +3926,7 @@
       "2025-12-27": 1,
       "2025-12-20": 1,
       "2025-12-19": 1,
-      "2025-12-18": 1,
-      "2025-12-12": 1
+      "2025-12-18": 1
     },
     "CJ McCollum": {
       "2026-01-09": 1,
@@ -4074,8 +3957,7 @@
     },
     "Kyrie Irving": {
       "2026-01-08": 1,
-      "2025-12-30": 1,
-      "2025-12-12": 1
+      "2025-12-30": 1
     },
     "Michael Porter": {
       "2026-01-08": 1,
@@ -4083,8 +3965,7 @@
       "2026-01-02": 1,
       "2025-12-31": 1,
       "2025-12-28": 1,
-      "2025-12-17": 1,
-      "2025-12-12": 1
+      "2025-12-17": 1
     },
     "Draymond Green": {
       "2026-01-08": 2,
@@ -4095,8 +3976,7 @@
       "2026-01-08": 1
     },
     "Jose Alvarado": {
-      "2026-01-08": 1,
-      "2025-12-12": 1
+      "2026-01-08": 1
     },
     "Kevin Durant": {
       "2026-01-08": 1,
@@ -4129,8 +4009,7 @@
     },
     "Cooper Flagg": {
       "2026-01-07": 1,
-      "2026-01-02": 1,
-      "2025-12-12": 1
+      "2026-01-02": 1
     },
     "Zach LaVine": {
       "2026-01-07": 1,
@@ -4142,8 +4021,7 @@
       "2025-12-20": 1,
       "2025-12-18": 1,
       "2025-12-17": 1,
-      "2025-12-15": 2,
-      "2025-12-12": 1
+      "2025-12-15": 2
     },
     "Rob Dillingham": {
       "2026-01-07": 1
@@ -4151,8 +4029,7 @@
     "Coby White": {
       "2026-01-07": 2,
       "2025-12-21": 1,
-      "2025-12-13": 3,
-      "2025-12-12": 1
+      "2025-12-13": 3
     },
     "Kevin Love": {
       "2026-01-07": 2
@@ -4168,16 +4045,14 @@
     "Klay Thompson": {
       "2026-01-07": 1,
       "2025-12-18": 2,
-      "2025-12-17": 1,
-      "2025-12-12": 1
+      "2025-12-17": 1
     },
     "Daniel Gafford": {
       "2026-01-07": 1,
       "2026-01-06": 1,
       "2026-01-05": 1,
       "2025-12-20": 1,
-      "2025-12-18": 3,
-      "2025-12-12": 2
+      "2025-12-18": 3
     },
     "Caleb Martin": {
       "2026-01-07": 1
@@ -4199,15 +4074,11 @@
       "2025-12-28": 1,
       "2025-12-27": 1
     },
-    "Derik Queen": {
-      "2026-01-06": 1
-    },
     "Ivica Zubac": {
       "2026-01-06": 2
     },
     "Nicolas Claxton": {
-      "2026-01-06": 1,
-      "2025-12-12": 1
+      "2026-01-06": 1
     },
     "Walker Kessler": {
       "2026-01-06": 1,
@@ -4244,27 +4115,11 @@
     },
     "Terry Rozier": {
       "2026-01-06": 1,
-      "2025-12-18": 2,
-      "2025-12-12": 1
+      "2025-12-18": 2
     },
     "LaMelo Ball": {
       "2026-01-06": 1,
       "2025-12-18": 1
-    },
-    "Zion Williamson": {
-      "2026-01-06": 1
-    },
-    "Herb Jones": {
-      "2026-01-06": 1,
-      "2025-12-19": 1,
-      "2025-12-18": 1,
-      "2025-12-16": 1,
-      "2025-12-14": 1
-    },
-    "Trey Murphy": {
-      "2026-01-06": 1,
-      "2025-12-18": 1,
-      "2025-12-12": 1
     },
     "Deni Avdija": {
       "2026-01-06": 1
@@ -4290,8 +4145,7 @@
       "2026-01-01": 1
     },
     "Jalen Johnson": {
-      "2026-01-01": 1,
-      "2025-12-12": 1
+      "2026-01-01": 1
     },
     "Mark Williams": {
       "2026-01-01": 1,
@@ -4354,8 +4208,7 @@
       "2025-12-18": 1,
       "2025-12-17": 1,
       "2025-12-16": 1,
-      "2025-12-15": 1,
-      "2025-12-12": 1
+      "2025-12-15": 1
     },
     "Tyrese Haliburton": {
       "2025-12-18": 1
@@ -4374,8 +4227,7 @@
       "2025-12-16": 1
     },
     "Tyler Herro": {
-      "2025-12-18": 1,
-      "2025-12-12": 1
+      "2025-12-18": 1
     },
     "Brandon Ingram": {
       "2025-12-18": 1
@@ -4400,15 +4252,6 @@
     },
     "De'Aaron Fox": {
       "2025-12-15": 1
-    },
-    "Jaime Jaquez": {
-      "2025-12-12": 1
-    },
-    "Dereck Lively": {
-      "2025-12-12": 1
-    },
-    "Chris Paul": {
-      "2025-12-12": 1
     }
   }
 }
