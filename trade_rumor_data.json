@@ -1,46 +1,34 @@
 {
-  "generated_at": "2026-03-09T19:40:40.921180",
+  "generated_at": "2026-03-10T03:26:08.002351",
   "scrape_window_days": 28,
-  "window_start": "2026-02-09",
-  "window_end": "2026-03-09",
-  "total_rumors": 115,
-  "total_players": 53,
+  "window_start": "2026-02-10",
+  "window_end": "2026-03-10",
+  "total_rumors": 108,
+  "total_players": 51,
   "rankings": [
     {
       "player": "Giannis Antetokounmpo",
-      "score": 8.25,
+      "score": 8.0,
       "mentions_week1": 3,
       "mentions_week2": 3,
-      "mentions_weeks3_4": 15,
-      "total_mentions": 21,
-      "first_mention": "2026-02-09",
+      "mentions_weeks3_4": 14,
+      "total_mentions": 20,
+      "first_mention": "2026-02-10",
       "last_mention": "2026-03-06",
       "team": "Milwaukee Bucks",
       "rank": 1
     },
     {
       "player": "Kawhi Leonard",
-      "score": 4.25,
+      "score": 3.5,
       "mentions_week1": 2,
       "mentions_week2": 3,
-      "mentions_weeks3_4": 3,
-      "total_mentions": 8,
-      "first_mention": "2026-02-09",
+      "mentions_weeks3_4": 0,
+      "total_mentions": 5,
+      "first_mention": "2026-02-25",
       "last_mention": "2026-03-06",
       "team": "Los Angeles Clippers",
       "rank": 2
-    },
-    {
-      "player": "Ja Morant",
-      "score": 3.0,
-      "mentions_week1": 1,
-      "mentions_week2": 2,
-      "mentions_weeks3_4": 4,
-      "total_mentions": 7,
-      "first_mention": "2026-02-10",
-      "last_mention": "2026-03-07",
-      "team": "Memphis Grizzlies",
-      "rank": 3
     },
     {
       "player": "Jared McCain",
@@ -52,6 +40,18 @@
       "first_mention": "2026-03-04",
       "last_mention": "2026-03-09",
       "team": "Philadelphia 76ers",
+      "rank": 3
+    },
+    {
+      "player": "Ja Morant",
+      "score": 2.5,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 6,
+      "total_mentions": 7,
+      "first_mention": "2026-02-10",
+      "last_mention": "2026-03-07",
+      "team": "Memphis Grizzlies",
       "rank": 4
     },
     {
@@ -104,12 +104,12 @@
     },
     {
       "player": "Ivica Zubac",
-      "score": 1.5,
+      "score": 1.25,
       "mentions_week1": 0,
       "mentions_week2": 1,
-      "mentions_weeks3_4": 4,
-      "total_mentions": 5,
-      "first_mention": "2026-02-09",
+      "mentions_weeks3_4": 3,
+      "total_mentions": 4,
+      "first_mention": "2026-02-11",
       "last_mention": "2026-02-25",
       "team": "Los Angeles Clippers",
       "rank": 9
@@ -403,18 +403,6 @@
       "rank": 33
     },
     {
-      "player": "Darius Garland",
-      "score": 0.25,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 1,
-      "first_mention": "2026-02-09",
-      "last_mention": "2026-02-09",
-      "team": "Cleveland Cavaliers",
-      "rank": 34
-    },
-    {
       "player": "Dennis Schroeder",
       "score": 0.25,
       "mentions_week1": 0,
@@ -424,7 +412,7 @@
       "first_mention": "2026-02-15",
       "last_mention": "2026-02-15",
       "team": "Cleveland Cavaliers",
-      "rank": 35
+      "rank": 34
     },
     {
       "player": "Jarrett Allen",
@@ -436,7 +424,7 @@
       "first_mention": "2026-02-11",
       "last_mention": "2026-02-11",
       "team": "Cleveland Cavaliers",
-      "rank": 36
+      "rank": 35
     },
     {
       "player": "Jayson Tatum",
@@ -448,7 +436,7 @@
       "first_mention": "2026-02-11",
       "last_mention": "2026-02-11",
       "team": "Boston Celtics",
-      "rank": 37
+      "rank": 36
     },
     {
       "player": "John Konchar",
@@ -460,7 +448,7 @@
       "first_mention": "2026-02-17",
       "last_mention": "2026-02-17",
       "team": "Memphis Grizzlies",
-      "rank": 38
+      "rank": 37
     },
     {
       "player": "Josh Giddey",
@@ -472,7 +460,7 @@
       "first_mention": "2026-02-18",
       "last_mention": "2026-02-18",
       "team": "Chicago Bulls",
-      "rank": 39
+      "rank": 38
     },
     {
       "player": "Julius Randle",
@@ -484,7 +472,7 @@
       "first_mention": "2026-02-16",
       "last_mention": "2026-02-16",
       "team": "Minnesota Timberwolves",
-      "rank": 40
+      "rank": 39
     },
     {
       "player": "Kel'el Ware",
@@ -496,7 +484,7 @@
       "first_mention": "2026-02-13",
       "last_mention": "2026-02-13",
       "team": "Miami Heat",
-      "rank": 41
+      "rank": 40
     },
     {
       "player": "Keon Ellis",
@@ -508,7 +496,7 @@
       "first_mention": "2026-02-15",
       "last_mention": "2026-02-15",
       "team": "Sacramento Kings",
-      "rank": 42
+      "rank": 41
     },
     {
       "player": "Kristaps Porzingis",
@@ -520,7 +508,7 @@
       "first_mention": "2026-02-10",
       "last_mention": "2026-02-10",
       "team": "Atlanta Hawks",
-      "rank": 43
+      "rank": 42
     },
     {
       "player": "Kyle Kuzma",
@@ -532,7 +520,7 @@
       "first_mention": "2026-02-11",
       "last_mention": "2026-02-11",
       "team": "Milwaukee Bucks",
-      "rank": 44
+      "rank": 43
     },
     {
       "player": "Kyrie Irving",
@@ -544,7 +532,7 @@
       "first_mention": "2026-02-15",
       "last_mention": "2026-02-15",
       "team": "Dallas Mavericks",
-      "rank": 45
+      "rank": 44
     },
     {
       "player": "Matas Buzelis",
@@ -556,7 +544,7 @@
       "first_mention": "2026-02-18",
       "last_mention": "2026-02-18",
       "team": "Chicago Bulls",
-      "rank": 46
+      "rank": 45
     },
     {
       "player": "Norman Powell",
@@ -568,7 +556,7 @@
       "first_mention": "2026-02-10",
       "last_mention": "2026-02-10",
       "team": "Miami Heat",
-      "rank": 47
+      "rank": 46
     },
     {
       "player": "Onyeka Okongwu",
@@ -580,19 +568,7 @@
       "first_mention": "2026-02-11",
       "last_mention": "2026-02-11",
       "team": "Atlanta Hawks",
-      "rank": 48
-    },
-    {
-      "player": "Paul George",
-      "score": 0.25,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 1,
-      "first_mention": "2026-02-09",
-      "last_mention": "2026-02-09",
-      "team": "Philadelphia 76ers",
-      "rank": 49
+      "rank": 47
     },
     {
       "player": "Ryan Rollins",
@@ -604,7 +580,7 @@
       "first_mention": "2026-02-11",
       "last_mention": "2026-02-11",
       "team": "Memphis Grizzlies",
-      "rank": 50
+      "rank": 48
     },
     {
       "player": "Stephen Curry",
@@ -616,7 +592,7 @@
       "first_mention": "2026-02-15",
       "last_mention": "2026-02-15",
       "team": "Golden State Warriors",
-      "rank": 51
+      "rank": 49
     },
     {
       "player": "Tristan Vukcevic",
@@ -628,7 +604,7 @@
       "first_mention": "2026-02-21",
       "last_mention": "2026-02-21",
       "team": "Washington Wizards",
-      "rank": 52
+      "rank": 50
     },
     {
       "player": "Tyler Herro",
@@ -640,7 +616,7 @@
       "first_mention": "2026-02-10",
       "last_mention": "2026-02-10",
       "team": "Miami Heat",
-      "rank": 53
+      "rank": 51
     }
   ],
   "player_rumors": {
@@ -819,27 +795,6 @@
         "text_html": "The LA insider explained that there is some \"bad blood\" between the two teams, not surprising given that they are city rivals. <a href=\"https://basketnews.com/news-241880-kawhi-leonard-to-lakers-insider-trade-rumors-explained.html\" target=\"_blank\" style=\"color: #1a73e8;\">\"There's a little bad blood there, I would say, between the ownerships,\" Buha said. \"Like, I don't think it's two franchises that like love each other.\"</a> For context, Lakers owner Jeanie Buss once nicknamed Clippers owner Steve Ballmer \"Ballz,\" and the Lakers still have some \"egg on their face\" from the Ivica Zubac trade with the Clippers. \"I don't think the Clippers would love trading Kawhi to the Lakers,\" Buha noted. \"And at that point, if you're forced to trade him, I think the league's not gonna be like, 'You have to trade him to the Lakers, you have to trade him to team X.' It's gonna be, 'Alright, let's get into a bidding war here.'",
         "outlet": "BasketNews",
         "source_url": "https://basketnews.com/news-241880-kawhi-leonard-to-lakers-insider-trade-rumors-explained.html"
-      },
-      {
-        "date": "2026-02-09",
-        "text": "Joey Linn: Lawrence Frank on the possibility of Kawhi Leonard staying with the Clippers beyond his current contract: \u201cWe definitely see a scenario where he\u2019s part of the group going forward. Look \u2014 Kawhi when healthy is arguably one of the top-5 players in this league. No one is playing better than him over this last 7-week stretch. Similar to what we did in other summers, we always get together with Kawhi and his representatives and we lay out what the plan is. The number one priority for Kawhi is the same number one priority for the Clippers organization. We want to win a championship. How do we do it together? This is what it looks like. Yes, we\u2019ve been very transparent with how we\u2019ve treated 27-28 space. And that\u2019s kinda what factored into the nature of James\u2019 last contract and the mutual option. We also, because we prioritized it, it\u2019s not just used in free agency. Darius is a great example of that\u2026 Would you rather have space or would you rather have Darius? We rather have Darius. Same thing with Kawhi.We can continue and look forward to building with Kawhi, while still acknowledging we\u2019re going to need more. We\u2019ll go through every step of what that looks like, whether it\u2019s free agency, whether it\u2019s a trade, whether it\u2019s the draft\u2026 But Kawhi has been a great partner, and I anticipate him being a great partner moving forward.\u201dx.com",
-        "text_html": "Joey Linn: Lawrence Frank on the possibility of Kawhi Leonard staying with the Clippers beyond his current contract: \u201cWe definitely see a scenario where he\u2019s part of the group going forward. Look \u2014 Kawhi when healthy is arguably one of the top-5 players in this league. No one is playing better than him over this last 7-week stretch. Similar to what we did in other summers, we always get together with Kawhi and his representatives and we lay out what the plan is. The number one priority for Kawhi is the same number one priority for the Clippers organization. We want to win a championship. How do we do it together? This is what it looks like. Yes, we\u2019ve been very transparent with how we\u2019ve treated 27-28 space. And that\u2019s kinda what factored into the nature of James\u2019 last contract and the mutual option. We also, because we prioritized it, it\u2019s not just used in free agency. Darius is a great example of that\u2026 Would you rather have space or would you rather have Darius? We rather have Darius. Same thing with Kawhi. <a href=\"https://x.com/joeylinn_/status/2020946082499526797\" target=\"_blank\" style=\"color: #1a73e8;\">We can continue and look forward to building with Kawhi, while still acknowledging we\u2019re going to need more. We\u2019ll go through every step of what that looks like, whether it\u2019s free agency, whether it\u2019s a trade, whether it\u2019s the draft\u2026 But Kawhi has been a great partner, and I anticipate him being a great partner moving forward.\u201d</a>",
-        "outlet": "x.com",
-        "source_url": "https://x.com/joeylinn_/status/2020946082499526797"
-      },
-      {
-        "date": "2026-02-09",
-        "text": "League sources tellThe Stein Line that the LA Clippers were hit with multiple trade inquires for Kawhi Leonard in the final hour before last Thursday's3 PM ET trade deadline sounded after it became known leaguewide that the Clippers had agreed to send Ivica Zubac to Indiana.marcstein.substack.com",
-        "text_html": "League sources tell <a href=\"https://marcstein.substack.com/\" target=\"_blank\" style=\"color: #1a73e8;\">The Stein Line that the LA Clippers were hit with multiple trade inquires for Kawhi Leonard in the final hour before last Thursday's</a> 3 PM ET trade deadline sounded after it became known leaguewide that the Clippers had agreed to send Ivica Zubac to Indiana.",
-        "outlet": "marcstein.substack.com",
-        "source_url": "https://marcstein.substack.com/"
-      },
-      {
-        "date": "2026-02-09",
-        "text": "Leonard has only on more season left on his current contract at $50.3 million before the 34-year-old \u2014 who has been playing some of the best basketball of his career this season \u2014 becomes a free agent.The expectation here is that teams will certainly be trying again to trade for Leonard in June.marcstein.substack.com",
-        "text_html": "Leonard has only on more season left on his current contract at $50.3 million before the 34-year-old \u2014 who has been playing some of the best basketball of his career this season \u2014 becomes a free agent. <a href=\"https://marcstein.substack.com/\" target=\"_blank\" style=\"color: #1a73e8;\">The expectation here is that teams will certainly be trying again to trade for Leonard in June</a>.",
-        "outlet": "marcstein.substack.com",
-        "source_url": "https://marcstein.substack.com/"
       }
     ],
     "Giannis Antetokounmpo": [
@@ -982,13 +937,6 @@
         "text_html": "No, because <a href=\"https://www.miamiherald.com/sports/nba/miami-heat/article314348366.html\" target=\"_blank\" style=\"color: #1a73e8;\">the Heat found a way to acquire a third first-round pick and would have pulled the trigger if that would have been enough to satisfy Milwaukee,</a> according to an involved source.",
         "outlet": "Miami Herald",
         "source_url": "https://www.miamiherald.com/sports/nba/miami-heat/article314348366.html"
-      },
-      {
-        "date": "2026-02-09",
-        "text": "The two sides are putting discussions about the future of the franchise star on hold until the summer,sources told ESPN. Antetokounmpo has one year remaining on a three-year extension he signed in 2023, and he has a $62.8 million player option for the 2027-28 season. He will become eligible to sign a four-year contract extension through the 2030-31 season worth up to $275 million in October. What he signals about his intentions regarding that contract will ultimately determine if his future remains in Milwaukee.ESPN",
-        "text_html": "<a href=\"https://www.espn.com/nba/story/_/id/47869398/ahead-giannis-antetokounmpo-milwaukee-bucks\" target=\"_blank\" style=\"color: #1a73e8;\">The two sides are putting discussions about the future of the franchise star on hold until the summer,</a> sources told ESPN. Antetokounmpo has one year remaining on a three-year extension he signed in 2023, and he has a $62.8 million player option for the 2027-28 season. He will become eligible to sign a four-year contract extension through the 2030-31 season worth up to $275 million in October. What he signals about his intentions regarding that contract will ultimately determine if his future remains in Milwaukee.",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/47869398/ahead-giannis-antetokounmpo-milwaukee-bucks"
       }
     ],
     "Trae Young": [
@@ -1085,13 +1033,6 @@
         "text_html": "<a href=\"https://marcstein.substack.com/p/nba-how-it-happened-the-deal-of-the\" target=\"_blank\" style=\"color: #1a73e8;\">Where the Clippers would not relent, sources say, was the significant price point they had established for surrendering Ivica Zubac.</a> Two first-round-picks-and-then-some was the bar that Clippers officials insisted would have to be hit to make a trade happen. Some in Clipperland, I'm told, even hoped that the Pacers would ultimately concede that they weren't able to reach that threshold, making it so they \"had\" to carry on with Big Zu.",
         "outlet": "marcstein.substack.com",
         "source_url": "https://marcstein.substack.com/p/nba-how-it-happened-the-deal-of-the"
-      },
-      {
-        "date": "2026-02-09",
-        "text": "Ivica Zubac:Free agency started. Right before free agency, I signed a four-year deal. It just wasn\u2019t announced yet. About two days later, it comes out we signed Kawhi and traded for Paul George.It literally dropped at the same minute\u2014signed him and made the trade. I\u2019m at home panicking\u2014am I in the deal? What\u2019s happening? I had no clue. All that was out was: a trade happened. I didn\u2019t know what was going on\u2014nobody was calling me. They hadn\u2019t announced the signing yet. So I call my agent: is the deal valid? Is everything good? He\u2019s like, yeah, don\u2019t worry. And then the trade details came out. Overnight we became\u2014everyone\u2019s saying we\u2019re winning the title.\u201dYouTube",
-        "text_html": "Ivica Zubac: <a href=\"https://www.youtube.com/watch?v=g_5WO5R3QL0\" target=\"_blank\" style=\"color: #1a73e8;\">Free agency started. Right before free agency, I signed a four-year deal. It just wasn\u2019t announced yet. About two days later, it comes out we signed Kawhi and traded for Paul George.</a> It literally dropped at the same minute\u2014signed him and made the trade. I\u2019m at home panicking\u2014am I in the deal? What\u2019s happening? I had no clue. All that was out was: a trade happened. I didn\u2019t know what was going on\u2014nobody was calling me. They hadn\u2019t announced the signing yet. So I call my agent: is the deal valid? Is everything good? He\u2019s like, yeah, don\u2019t worry. And then the trade details came out. Overnight we became\u2014everyone\u2019s saying we\u2019re winning the title.\u201d",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=g_5WO5R3QL0"
       }
     ],
     "Austin Reaves": [
@@ -1536,24 +1477,6 @@
         "outlet": "NBC Sports Bay Area",
         "source_url": "https://www.nbcsportsbayarea.com/nba/golden-state-warriors/draymond-green-jonathan-kuminga-trade/1914560/?_osource=sm_npd_rsn_bay_bsky_sprtresocial"
       }
-    ],
-    "Darius Garland": [
-      {
-        "date": "2026-02-09",
-        "text": "Joey Linn: Lawrence Frank on the possibility of Kawhi Leonard staying with the Clippers beyond his current contract: \u201cWe definitely see a scenario where he\u2019s part of the group going forward. Look \u2014 Kawhi when healthy is arguably one of the top-5 players in this league. No one is playing better than him over this last 7-week stretch. Similar to what we did in other summers, we always get together with Kawhi and his representatives and we lay out what the plan is. The number one priority for Kawhi is the same number one priority for the Clippers organization. We want to win a championship. How do we do it together? This is what it looks like. Yes, we\u2019ve been very transparent with how we\u2019ve treated 27-28 space. And that\u2019s kinda what factored into the nature of James\u2019 last contract and the mutual option. We also, because we prioritized it, it\u2019s not just used in free agency. Darius is a great example of that\u2026 Would you rather have space or would you rather have Darius? We rather have Darius. Same thing with Kawhi.We can continue and look forward to building with Kawhi, while still acknowledging we\u2019re going to need more. We\u2019ll go through every step of what that looks like, whether it\u2019s free agency, whether it\u2019s a trade, whether it\u2019s the draft\u2026 But Kawhi has been a great partner, and I anticipate him being a great partner moving forward.\u201dx.com",
-        "text_html": "Joey Linn: Lawrence Frank on the possibility of Kawhi Leonard staying with the Clippers beyond his current contract: \u201cWe definitely see a scenario where he\u2019s part of the group going forward. Look \u2014 Kawhi when healthy is arguably one of the top-5 players in this league. No one is playing better than him over this last 7-week stretch. Similar to what we did in other summers, we always get together with Kawhi and his representatives and we lay out what the plan is. The number one priority for Kawhi is the same number one priority for the Clippers organization. We want to win a championship. How do we do it together? This is what it looks like. Yes, we\u2019ve been very transparent with how we\u2019ve treated 27-28 space. And that\u2019s kinda what factored into the nature of James\u2019 last contract and the mutual option. We also, because we prioritized it, it\u2019s not just used in free agency. Darius is a great example of that\u2026 Would you rather have space or would you rather have Darius? We rather have Darius. Same thing with Kawhi. <a href=\"https://x.com/joeylinn_/status/2020946082499526797\" target=\"_blank\" style=\"color: #1a73e8;\">We can continue and look forward to building with Kawhi, while still acknowledging we\u2019re going to need more. We\u2019ll go through every step of what that looks like, whether it\u2019s free agency, whether it\u2019s a trade, whether it\u2019s the draft\u2026 But Kawhi has been a great partner, and I anticipate him being a great partner moving forward.\u201d</a>",
-        "outlet": "x.com",
-        "source_url": "https://x.com/joeylinn_/status/2020946082499526797"
-      }
-    ],
-    "Paul George": [
-      {
-        "date": "2026-02-09",
-        "text": "Ivica Zubac:Free agency started. Right before free agency, I signed a four-year deal. It just wasn\u2019t announced yet. About two days later, it comes out we signed Kawhi and traded for Paul George.It literally dropped at the same minute\u2014signed him and made the trade. I\u2019m at home panicking\u2014am I in the deal? What\u2019s happening? I had no clue. All that was out was: a trade happened. I didn\u2019t know what was going on\u2014nobody was calling me. They hadn\u2019t announced the signing yet. So I call my agent: is the deal valid? Is everything good? He\u2019s like, yeah, don\u2019t worry. And then the trade details came out. Overnight we became\u2014everyone\u2019s saying we\u2019re winning the title.\u201dYouTube",
-        "text_html": "Ivica Zubac: <a href=\"https://www.youtube.com/watch?v=g_5WO5R3QL0\" target=\"_blank\" style=\"color: #1a73e8;\">Free agency started. Right before free agency, I signed a four-year deal. It just wasn\u2019t announced yet. About two days later, it comes out we signed Kawhi and traded for Paul George.</a> It literally dropped at the same minute\u2014signed him and made the trade. I\u2019m at home panicking\u2014am I in the deal? What\u2019s happening? I had no clue. All that was out was: a trade happened. I didn\u2019t know what was going on\u2014nobody was calling me. They hadn\u2019t announced the signing yet. So I call my agent: is the deal valid? Is everything good? He\u2019s like, yeah, don\u2019t worry. And then the trade details came out. Overnight we became\u2014everyone\u2019s saying we\u2019re winning the title.\u201d",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=g_5WO5R3QL0"
-      }
     ]
   },
   "daily_counts": {
@@ -1587,8 +1510,7 @@
     "Kawhi Leonard": {
       "2026-03-06": 1,
       "2026-03-04": 1,
-      "2026-02-25": 3,
-      "2026-02-09": 3
+      "2026-02-25": 3
     },
     "Giannis Antetokounmpo": {
       "2026-03-06": 1,
@@ -1600,8 +1522,7 @@
       "2026-02-17": 2,
       "2026-02-16": 1,
       "2026-02-15": 2,
-      "2026-02-10": 4,
-      "2026-02-09": 1
+      "2026-02-10": 4
     },
     "Trae Young": {
       "2026-03-05": 1,
@@ -1623,8 +1544,7 @@
     "Ivica Zubac": {
       "2026-02-25": 1,
       "2026-02-13": 1,
-      "2026-02-11": 2,
-      "2026-02-09": 1
+      "2026-02-11": 2
     },
     "Austin Reaves": {
       "2026-02-24": 1
@@ -1745,12 +1665,6 @@
     },
     "Buddy Hield": {
       "2026-02-10": 1
-    },
-    "Darius Garland": {
-      "2026-02-09": 1
-    },
-    "Paul George": {
-      "2026-02-09": 1
     }
   }
 }
