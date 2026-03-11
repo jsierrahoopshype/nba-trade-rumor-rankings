@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-03-10T19:38:26.739847",
+  "generated_at": "2026-03-11T03:25:55.576964",
   "scrape_window_days": 28,
-  "window_start": "2026-02-10",
-  "window_end": "2026-03-10",
-  "total_rumors": 114,
-  "total_players": 52,
+  "window_start": "2026-02-11",
+  "window_end": "2026-03-11",
+  "total_rumors": 100,
+  "total_players": 47,
   "rankings": [
     {
       "player": "Giannis Antetokounmpo",
-      "score": 10.0,
+      "score": 8.25,
       "mentions_week1": 5,
-      "mentions_week2": 3,
-      "mentions_weeks3_4": 14,
-      "total_mentions": 22,
-      "first_mention": "2026-02-10",
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 13,
+      "total_mentions": 18,
+      "first_mention": "2026-02-15",
       "last_mention": "2026-03-10",
       "team": "Milwaukee Bucks",
       "rank": 1
@@ -31,18 +31,6 @@
       "rank": 2
     },
     {
-      "player": "Bobby Portis",
-      "score": 3.0,
-      "mentions_week1": 2,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 5,
-      "first_mention": "2026-02-11",
-      "last_mention": "2026-03-10",
-      "team": "Milwaukee Bucks",
-      "rank": 3
-    },
-    {
       "player": "Jared McCain",
       "score": 3.0,
       "mentions_week1": 3,
@@ -52,28 +40,40 @@
       "first_mention": "2026-03-04",
       "last_mention": "2026-03-09",
       "team": "Philadelphia 76ers",
+      "rank": 3
+    },
+    {
+      "player": "Bobby Portis",
+      "score": 2.75,
+      "mentions_week1": 2,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 3,
+      "total_mentions": 5,
+      "first_mention": "2026-02-11",
+      "last_mention": "2026-03-10",
+      "team": "Milwaukee Bucks",
       "rank": 4
     },
     {
       "player": "Ja Morant",
-      "score": 2.5,
+      "score": 2.25,
       "mentions_week1": 1,
       "mentions_week2": 0,
-      "mentions_weeks3_4": 6,
-      "total_mentions": 7,
-      "first_mention": "2026-02-10",
+      "mentions_weeks3_4": 5,
+      "total_mentions": 6,
+      "first_mention": "2026-02-11",
       "last_mention": "2026-03-07",
       "team": "Memphis Grizzlies",
       "rank": 5
     },
     {
       "player": "Jonathan Kuminga",
-      "score": 2.5,
+      "score": 2.25,
       "mentions_week1": 1,
       "mentions_week2": 0,
-      "mentions_weeks3_4": 6,
-      "total_mentions": 7,
-      "first_mention": "2026-02-10",
+      "mentions_weeks3_4": 5,
+      "total_mentions": 6,
+      "first_mention": "2026-02-11",
       "last_mention": "2026-03-10",
       "team": "Golden State Warriors",
       "rank": 6
@@ -199,54 +199,6 @@
       "rank": 16
     },
     {
-      "player": "Draymond Green",
-      "score": 0.75,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 3,
-      "total_mentions": 3,
-      "first_mention": "2026-02-10",
-      "last_mention": "2026-02-20",
-      "team": "Golden State Warriors",
-      "rank": 17
-    },
-    {
-      "player": "Domantas Sabonis",
-      "score": 0.75,
-      "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 2,
-      "first_mention": "2026-02-22",
-      "last_mention": "2026-02-24",
-      "team": "Sacramento Kings",
-      "rank": 18
-    },
-    {
-      "player": "LeBron James",
-      "score": 0.75,
-      "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 2,
-      "first_mention": "2026-02-15",
-      "last_mention": "2026-02-24",
-      "team": "Los Angeles Lakers",
-      "rank": 19
-    },
-    {
-      "player": "Andrew Wiggins",
-      "score": 0.5,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 2,
-      "first_mention": "2026-02-10",
-      "last_mention": "2026-02-10",
-      "team": "Miami Heat",
-      "rank": 20
-    },
-    {
       "player": "Anthony Davis",
       "score": 0.5,
       "mentions_week1": 0,
@@ -256,7 +208,19 @@
       "first_mention": "2026-02-12",
       "last_mention": "2026-02-21",
       "team": "Dallas Mavericks",
-      "rank": 21
+      "rank": 17
+    },
+    {
+      "player": "Domantas Sabonis",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 2,
+      "total_mentions": 2,
+      "first_mention": "2026-02-22",
+      "last_mention": "2026-02-24",
+      "team": "Sacramento Kings",
+      "rank": 18
     },
     {
       "player": "Donovan Mitchell",
@@ -268,7 +232,7 @@
       "first_mention": "2026-02-13",
       "last_mention": "2026-02-15",
       "team": "Cleveland Cavaliers",
-      "rank": 22
+      "rank": 19
     },
     {
       "player": "James Harden",
@@ -280,7 +244,7 @@
       "first_mention": "2026-02-13",
       "last_mention": "2026-02-15",
       "team": "Los Angeles Clippers",
-      "rank": 23
+      "rank": 20
     },
     {
       "player": "Jeremy Sochan",
@@ -292,7 +256,7 @@
       "first_mention": "2026-02-11",
       "last_mention": "2026-02-11",
       "team": "New York Knicks",
-      "rank": 24
+      "rank": 21
     },
     {
       "player": "Kevin Durant",
@@ -304,19 +268,19 @@
       "first_mention": "2026-02-12",
       "last_mention": "2026-02-12",
       "team": "Houston Rockets",
-      "rank": 25
+      "rank": 22
     },
     {
-      "player": "Austin Reaves",
+      "player": "LeBron James",
       "score": 0.5,
       "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-02-24",
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 2,
+      "total_mentions": 2,
+      "first_mention": "2026-02-15",
       "last_mention": "2026-02-24",
       "team": "Los Angeles Lakers",
-      "rank": 26
+      "rank": 23
     },
     {
       "player": "Immanuel Quickley",
@@ -328,7 +292,7 @@
       "first_mention": "2026-02-27",
       "last_mention": "2026-02-27",
       "team": "Toronto Raptors",
-      "rank": 27
+      "rank": 24
     },
     {
       "player": "RJ Barrett",
@@ -340,7 +304,7 @@
       "first_mention": "2026-02-27",
       "last_mention": "2026-02-27",
       "team": "Toronto Raptors",
-      "rank": 28
+      "rank": 25
     },
     {
       "player": "Alex Sarr",
@@ -352,7 +316,7 @@
       "first_mention": "2026-02-21",
       "last_mention": "2026-02-21",
       "team": "Washington Wizards",
-      "rank": 29
+      "rank": 26
     },
     {
       "player": "Anfernee Simons",
@@ -364,19 +328,19 @@
       "first_mention": "2026-02-11",
       "last_mention": "2026-02-11",
       "team": "Boston Celtics",
-      "rank": 30
+      "rank": 27
     },
     {
-      "player": "Buddy Hield",
+      "player": "Austin Reaves",
       "score": 0.25,
       "mentions_week1": 0,
       "mentions_week2": 0,
       "mentions_weeks3_4": 1,
       "total_mentions": 1,
-      "first_mention": "2026-02-10",
-      "last_mention": "2026-02-10",
-      "team": "Golden State Warriors",
-      "rank": 31
+      "first_mention": "2026-02-24",
+      "last_mention": "2026-02-24",
+      "team": "Los Angeles Lakers",
+      "rank": 28
     },
     {
       "player": "Cedric Coward",
@@ -388,7 +352,7 @@
       "first_mention": "2026-02-17",
       "last_mention": "2026-02-17",
       "team": "Memphis Grizzlies",
-      "rank": 32
+      "rank": 29
     },
     {
       "player": "Cooper Flagg",
@@ -400,7 +364,7 @@
       "first_mention": "2026-02-15",
       "last_mention": "2026-02-15",
       "team": "Dallas Mavericks",
-      "rank": 33
+      "rank": 30
     },
     {
       "player": "Daniel Gafford",
@@ -412,7 +376,7 @@
       "first_mention": "2026-02-22",
       "last_mention": "2026-02-22",
       "team": "Dallas Mavericks",
-      "rank": 34
+      "rank": 31
     },
     {
       "player": "Dennis Schroeder",
@@ -424,7 +388,19 @@
       "first_mention": "2026-02-15",
       "last_mention": "2026-02-15",
       "team": "Cleveland Cavaliers",
-      "rank": 35
+      "rank": 32
+    },
+    {
+      "player": "Draymond Green",
+      "score": 0.25,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 1,
+      "first_mention": "2026-02-20",
+      "last_mention": "2026-02-20",
+      "team": "Golden State Warriors",
+      "rank": 33
     },
     {
       "player": "Jarrett Allen",
@@ -436,7 +412,7 @@
       "first_mention": "2026-02-11",
       "last_mention": "2026-02-11",
       "team": "Cleveland Cavaliers",
-      "rank": 36
+      "rank": 34
     },
     {
       "player": "Jayson Tatum",
@@ -448,7 +424,7 @@
       "first_mention": "2026-02-11",
       "last_mention": "2026-02-11",
       "team": "Boston Celtics",
-      "rank": 37
+      "rank": 35
     },
     {
       "player": "John Konchar",
@@ -460,7 +436,7 @@
       "first_mention": "2026-02-17",
       "last_mention": "2026-02-17",
       "team": "Memphis Grizzlies",
-      "rank": 38
+      "rank": 36
     },
     {
       "player": "Josh Giddey",
@@ -472,7 +448,7 @@
       "first_mention": "2026-02-18",
       "last_mention": "2026-02-18",
       "team": "Chicago Bulls",
-      "rank": 39
+      "rank": 37
     },
     {
       "player": "Julius Randle",
@@ -484,7 +460,7 @@
       "first_mention": "2026-02-16",
       "last_mention": "2026-02-16",
       "team": "Minnesota Timberwolves",
-      "rank": 40
+      "rank": 38
     },
     {
       "player": "Kel'el Ware",
@@ -496,7 +472,7 @@
       "first_mention": "2026-02-13",
       "last_mention": "2026-02-13",
       "team": "Miami Heat",
-      "rank": 41
+      "rank": 39
     },
     {
       "player": "Keon Ellis",
@@ -508,19 +484,7 @@
       "first_mention": "2026-02-15",
       "last_mention": "2026-02-15",
       "team": "Sacramento Kings",
-      "rank": 42
-    },
-    {
-      "player": "Kristaps Porzingis",
-      "score": 0.25,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 1,
-      "first_mention": "2026-02-10",
-      "last_mention": "2026-02-10",
-      "team": "Atlanta Hawks",
-      "rank": 43
+      "rank": 40
     },
     {
       "player": "Kyle Kuzma",
@@ -532,7 +496,7 @@
       "first_mention": "2026-02-11",
       "last_mention": "2026-02-11",
       "team": "Milwaukee Bucks",
-      "rank": 44
+      "rank": 41
     },
     {
       "player": "Kyrie Irving",
@@ -544,7 +508,7 @@
       "first_mention": "2026-02-15",
       "last_mention": "2026-02-15",
       "team": "Dallas Mavericks",
-      "rank": 45
+      "rank": 42
     },
     {
       "player": "Matas Buzelis",
@@ -556,19 +520,7 @@
       "first_mention": "2026-02-18",
       "last_mention": "2026-02-18",
       "team": "Chicago Bulls",
-      "rank": 46
-    },
-    {
-      "player": "Norman Powell",
-      "score": 0.25,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 1,
-      "first_mention": "2026-02-10",
-      "last_mention": "2026-02-10",
-      "team": "Miami Heat",
-      "rank": 47
+      "rank": 43
     },
     {
       "player": "Onyeka Okongwu",
@@ -580,7 +532,7 @@
       "first_mention": "2026-02-11",
       "last_mention": "2026-02-11",
       "team": "Atlanta Hawks",
-      "rank": 48
+      "rank": 44
     },
     {
       "player": "Ryan Rollins",
@@ -592,7 +544,7 @@
       "first_mention": "2026-02-11",
       "last_mention": "2026-02-11",
       "team": "Memphis Grizzlies",
-      "rank": 49
+      "rank": 45
     },
     {
       "player": "Stephen Curry",
@@ -604,7 +556,7 @@
       "first_mention": "2026-02-15",
       "last_mention": "2026-02-15",
       "team": "Golden State Warriors",
-      "rank": 50
+      "rank": 46
     },
     {
       "player": "Tristan Vukcevic",
@@ -616,19 +568,7 @@
       "first_mention": "2026-02-21",
       "last_mention": "2026-02-21",
       "team": "Washington Wizards",
-      "rank": 51
-    },
-    {
-      "player": "Tyler Herro",
-      "score": 0.25,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 1,
-      "first_mention": "2026-02-10",
-      "last_mention": "2026-02-10",
-      "team": "Miami Heat",
-      "rank": 52
+      "rank": 47
     }
   ],
   "player_rumors": {
@@ -758,34 +698,6 @@
         "text_html": "Oh No He Didn\u2019t: <a href=\"http://twitter.com/ohnohedidnt24/status/2022942507341091186\" target=\"_blank\" style=\"color: #1a73e8;\">Giannis Antetokounmpo: \"As of today I'm committed to the Milwaukee Bucks, I'm committed to the people that I work with, my teammates, the coaching staff, coach Doc and Jon in the front office...you will never hear me say I don't want to be a Milwaukee Buck.</a> I am a winner and I'm extremely loyal. Growing up you dream oh what if I played for the Knicks Madison Square Garden? What if I get drafted by the Lakers and now I'm teammates with Kobe, what if I go play for the Cavs and Lebron pass me the ball? If there were ever be a scenario of me not being a Milwaukee Buck no more I don't want anybody to ever think like hey man I quit on my team because this is my team and I love it\"",
         "outlet": "Twitter",
         "source_url": "http://twitter.com/ohnohedidnt24/status/2022942507341091186"
-      },
-      {
-        "date": "2026-02-10",
-        "text": "With how much uncertainty there was with the trade deadline, to what extent did you envision what a defensive identity would look like with you with Giannis, or you with the Bucks or if the Warriors kept the group intact? Draymond Green:\u201cI didn\u2019t get into the hypotheticals. That\u2019s not something that I can control. I didn\u2019t want to trigger my mind into something that is not the case. But if you put me next to any good defender, we\u2019re going to be very good. I would do all I can to make him better.\u201dEssentially Sports",
-        "text_html": "With how much uncertainty there was with the trade deadline, to what extent did you envision what a defensive identity would look like with you with Giannis, or you with the Bucks or if the Warriors kept the group intact? Draymond Green: <a href=\"https://www.essentiallysports.com/nba-active-basketball-news-exclusive-draymond-green-on-guarding-giannis-antetokounmpo-kobe-bryant-s-defense-tenth-all-defensive-team-aspirations-and-more/\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cI didn\u2019t get into the hypotheticals. That\u2019s not something that I can control. I didn\u2019t want to trigger my mind into something that is not the case. But if you put me next to any good defender, we\u2019re going to be very good. I would do all I can to make him better.\u201d</a>",
-        "outlet": "Essentially Sports",
-        "source_url": "https://www.essentiallysports.com/nba-active-basketball-news-exclusive-draymond-green-on-guarding-giannis-antetokounmpo-kobe-bryant-s-defense-tenth-all-defensive-team-aspirations-and-more/"
-      },
-      {
-        "date": "2026-02-10",
-        "text": "That\u2019s why it desperately tried to acquire Giannis Antetokounmpo before last week\u2019s trade deadline, secretly crafting a way to create a third first-round pick to try to convince the Bucks to make the deal.It\u2019s why another attempt to acquire Antetokounmpo will be made this summer, according to a source.Miami Herald",
-        "text_html": "That\u2019s why it desperately tried to acquire Giannis Antetokounmpo before last week\u2019s trade deadline, secretly crafting a way to create a third first-round pick to try to convince the Bucks to make the deal. <a href=\"https://www.miamiherald.com/sports/nba/miami-heat/article314348366.html\" target=\"_blank\" style=\"color: #1a73e8;\">It\u2019s why another attempt to acquire Antetokounmpo will be made this summer, according to a source</a>.",
-        "outlet": "Miami Herald",
-        "source_url": "https://www.miamiherald.com/sports/nba/miami-heat/article314348366.html"
-      },
-      {
-        "date": "2026-02-10",
-        "text": "No. Miami said \u201cno\u201d to nothing that the Bucks requested. But ultimately, a source said Milwaukee never told the Heat what would be enough to make them say \u201cyes.\u201d (At least one other suitor indicated the same.)The Bucks considered Miami\u2019s offer, but the belief is that Milwaukee said no because Antetokounmpo never strongly demanded a trade and the Bucks believe they can convince him to stay this summer.Miami Herald",
-        "text_html": "No. Miami said \u201cno\u201d to nothing that the Bucks requested. But ultimately, a source said Milwaukee never told the Heat what would be enough to make them say \u201cyes.\u201d (At least one other suitor indicated the same.) <a href=\"https://www.miamiherald.com/sports/nba/miami-heat/article314348366.html\" target=\"_blank\" style=\"color: #1a73e8;\">The Bucks considered Miami\u2019s offer, but the belief is that Milwaukee said no because Antetokounmpo never strongly demanded a trade and the Bucks believe they can convince him to stay this summer</a>.",
-        "outlet": "Miami Herald",
-        "source_url": "https://www.miamiherald.com/sports/nba/miami-heat/article314348366.html"
-      },
-      {
-        "date": "2026-02-10",
-        "text": "No, becausethe Heat found a way to acquire a third first-round pick and would have pulled the trigger if that would have been enough to satisfy Milwaukee,according to an involved source.Miami Herald",
-        "text_html": "No, because <a href=\"https://www.miamiherald.com/sports/nba/miami-heat/article314348366.html\" target=\"_blank\" style=\"color: #1a73e8;\">the Heat found a way to acquire a third first-round pick and would have pulled the trigger if that would have been enough to satisfy Milwaukee,</a> according to an involved source.",
-        "outlet": "Miami Herald",
-        "source_url": "https://www.miamiherald.com/sports/nba/miami-heat/article314348366.html"
       }
     ],
     "Bobby Portis": [
@@ -876,13 +788,6 @@
         "text_html": "<a href=\"https://www.espn.com/nba/story/_/id/47880753/inside-ugly-5-year-split-jonathan-kuminga-warriors\" target=\"_blank\" style=\"color: #1a73e8;\">The most tense flare-up in what team sources otherwise described as a relatively cordial cold war between Jonathan Kuminga and Steve Kerr came on the afternoon of Dec. 10</a>. The Golden State Warriors had been eliminated from the NBA Cup two weeks earlier, giving them a rare break in the schedule. They'd won in Chicago the previous Sunday night and didn't play again until Friday. Kuminga was prepared for the conversation. He knew management wanted to ding him for missing a team-requested event and alert him that someone around him was taking too much food from the family room. The gripes between player and organization, as multiple sources said, had become \"petty\" in the fifth year of a relationship many believed should've ended years before.",
         "outlet": "ESPN",
         "source_url": "https://www.espn.com/nba/story/_/id/47880753/inside-ugly-5-year-split-jonathan-kuminga-warriors"
-      },
-      {
-        "date": "2026-02-10",
-        "text": "The Warriors forward discussed on the latest episode of his podcast, \"The Draymond Green Show,\" Golden State trading Kuminga, along with guard Buddy Hield, to the Atlanta Hawks for Kristaps Porzingis before Thursday's NBA trade deadline and shared his appreciation for how Kuminga handled himself throughout his four-plus seasons with Golden State, despite not receiving consistent playing time after he was selected with the No. 7 pick in the 2021 draft.\"When you're the seventh pick in the NBA draft, you usually go to a place where they're going to give you the ball, they're going to allow you to make a ton of mistakes, and you grow through those mistakes in hopes that you become a key, cornerstone, franchise piece to the rebuild of the team that drafted you with the seventh pick,\" Green said of Kuminga. \"You're usually not drafted to a team that's good enough to compete and win a championship that year. That's the hand Jonathan Kuminga was dealt. And so I appreciate the way he handled it, the maturity he showed in handling the situation the entire time, even when the writing was on the wall and everybody in the world kind of knew a trade was going to happen.\"NBC Sports Bay Area",
-        "text_html": "The Warriors forward discussed on the latest episode of his podcast, \"The Draymond Green Show,\" Golden State trading Kuminga, along with guard Buddy Hield, to the Atlanta Hawks for Kristaps Porzingis before Thursday's NBA trade deadline and shared his appreciation for how Kuminga handled himself throughout his four-plus seasons with Golden State, despite not receiving consistent playing time after he was selected with the No. 7 pick in the 2021 draft. <a href=\"https://www.nbcsportsbayarea.com/nba/golden-state-warriors/draymond-green-jonathan-kuminga-trade/1914560/?_osource=sm_npd_rsn_bay_bsky_sprtresocial\" target=\"_blank\" style=\"color: #1a73e8;\">\"When you're the seventh pick in the NBA draft, you usually go to a place where they're going to give you the ball, they're going to allow you to make a ton of mistakes, and you grow through those mistakes in hopes that you become a key, cornerstone, franchise piece to the rebuild of the team that drafted you with the seventh pick,\" Green said of Kuminga</a>. \"You're usually not drafted to a team that's good enough to compete and win a championship that year. That's the hand Jonathan Kuminga was dealt. And so I appreciate the way he handled it, the maturity he showed in handling the situation the entire time, even when the writing was on the wall and everybody in the world kind of knew a trade was going to happen.\"",
-        "outlet": "NBC Sports Bay Area",
-        "source_url": "https://www.nbcsportsbayarea.com/nba/golden-state-warriors/draymond-green-jonathan-kuminga-trade/1914560/?_osource=sm_npd_rsn_bay_bsky_sprtresocial"
       }
     ],
     "Terry Rozier": [
@@ -1016,13 +921,6 @@
         "text_html": "<a href=\"https://clutchpoints.com/nba/memphis-grizzlies/whats-next-for-ja-morant-grizzlies-after-no-deal-materialized-at-nba-trade-deadline\" target=\"_blank\" style=\"color: #1a73e8;\">The Grizzlies also engaged the Minnesota Timberwolves and Milwaukee Bucks in conversations for Morant, but didn't come close on a deal with either team by the deadline.</a> According to league sources, trade discussions with the Bucks centered around guard Ryan Rollins, but Milwaukee also wanted to include the contracts of Kyle Kuzma or Bobby Portis, which Memphis had no interest in taking on.",
         "outlet": "Clutch Points",
         "source_url": "https://clutchpoints.com/nba/memphis-grizzlies/whats-next-for-ja-morant-grizzlies-after-no-deal-materialized-at-nba-trade-deadline"
-      },
-      {
-        "date": "2026-02-10",
-        "text": "There was one exception: Ja Morant. But there was reluctance to take on two years (and $84 million) for a player who has not played more than 67 games in any of his six seasons because of injuries and suspensions.(He\u2019s now sidelined again.) His slender body type (which runs counter to Miami\u2019s preference for point guards) and diminished production couldn\u2019t be ignored, nor could the risk of an extended NBA suspension with another misstep.Miami Herald",
-        "text_html": "There was one exception: Ja Morant. But there was reluctance to take on two years (and $84 million) for a player who has not played more than 67 games in any of his six seasons because of injuries and suspensions. <a href=\"https://www.miamiherald.com/sports/nba/miami-heat/article314348366.html\" target=\"_blank\" style=\"color: #1a73e8;\">(He\u2019s now sidelined again.) His slender body type (which runs counter to Miami\u2019s preference for point guards) and diminished production couldn\u2019t be ignored, nor could the risk of an extended NBA suspension with another misstep</a>.",
-        "outlet": "Miami Herald",
-        "source_url": "https://www.miamiherald.com/sports/nba/miami-heat/article314348366.html"
       }
     ],
     "Kawhi Leonard": [
@@ -1249,20 +1147,6 @@
         "text_html": "After the deadline, Dunleavy pushed back on the presumption that Draymond was actually offered because the Warriors and Bucks only spoke in the most general terms. Lacob backed that up. \u201cHe was never discussed in a trade; Mike was 100% correct what he said,\u201d Lacob said. \u201cI know he got a lot of crap for that. And it did look defensive. I mean, I think he would say that in retrospect. \u201cBut the truth is, the way these things are, you don\u2019t just easily banter around names unless you\u2019re getting serious. \u2026 We never really got engagement on some of the big deals to the point where you get into specific names. People can look at the roster and they can make assumptions about who might or might not have to go if you\u2019ve got a certain person. <a href=\"https://sfstandard.com/2026/02/20/joe-lacob-warriors-jonathan-kuminga/\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cBut I can tell you he was never shopped in any way. He\u2019s a core person in our franchise. You don\u2019t trade a Draymond Green simply or easily.</a> You do it if you have to, and you\u2019re getting tremendous value and you\u2019re improving your team. Even Draymond has said he understands that. You have to look at these things. But his name was never specifically discussed with another team. And that\u2019s the truth.\u201d",
         "outlet": "San Francisco Standard",
         "source_url": "https://sfstandard.com/2026/02/20/joe-lacob-warriors-jonathan-kuminga/"
-      },
-      {
-        "date": "2026-02-10",
-        "text": "With how much uncertainty there was with the trade deadline, to what extent did you envision what a defensive identity would look like with you with Giannis, or you with the Bucks or if the Warriors kept the group intact? Draymond Green:\u201cI didn\u2019t get into the hypotheticals. That\u2019s not something that I can control. I didn\u2019t want to trigger my mind into something that is not the case. But if you put me next to any good defender, we\u2019re going to be very good. I would do all I can to make him better.\u201dEssentially Sports",
-        "text_html": "With how much uncertainty there was with the trade deadline, to what extent did you envision what a defensive identity would look like with you with Giannis, or you with the Bucks or if the Warriors kept the group intact? Draymond Green: <a href=\"https://www.essentiallysports.com/nba-active-basketball-news-exclusive-draymond-green-on-guarding-giannis-antetokounmpo-kobe-bryant-s-defense-tenth-all-defensive-team-aspirations-and-more/\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cI didn\u2019t get into the hypotheticals. That\u2019s not something that I can control. I didn\u2019t want to trigger my mind into something that is not the case. But if you put me next to any good defender, we\u2019re going to be very good. I would do all I can to make him better.\u201d</a>",
-        "outlet": "Essentially Sports",
-        "source_url": "https://www.essentiallysports.com/nba-active-basketball-news-exclusive-draymond-green-on-guarding-giannis-antetokounmpo-kobe-bryant-s-defense-tenth-all-defensive-team-aspirations-and-more/"
-      },
-      {
-        "date": "2026-02-10",
-        "text": "The Warriors forward discussed on the latest episode of his podcast, \"The Draymond Green Show,\" Golden State trading Kuminga, along with guard Buddy Hield, to the Atlanta Hawks for Kristaps Porzingis before Thursday's NBA trade deadline and shared his appreciation for how Kuminga handled himself throughout his four-plus seasons with Golden State, despite not receiving consistent playing time after he was selected with the No. 7 pick in the 2021 draft.\"When you're the seventh pick in the NBA draft, you usually go to a place where they're going to give you the ball, they're going to allow you to make a ton of mistakes, and you grow through those mistakes in hopes that you become a key, cornerstone, franchise piece to the rebuild of the team that drafted you with the seventh pick,\" Green said of Kuminga. \"You're usually not drafted to a team that's good enough to compete and win a championship that year. That's the hand Jonathan Kuminga was dealt. And so I appreciate the way he handled it, the maturity he showed in handling the situation the entire time, even when the writing was on the wall and everybody in the world kind of knew a trade was going to happen.\"NBC Sports Bay Area",
-        "text_html": "The Warriors forward discussed on the latest episode of his podcast, \"The Draymond Green Show,\" Golden State trading Kuminga, along with guard Buddy Hield, to the Atlanta Hawks for Kristaps Porzingis before Thursday's NBA trade deadline and shared his appreciation for how Kuminga handled himself throughout his four-plus seasons with Golden State, despite not receiving consistent playing time after he was selected with the No. 7 pick in the 2021 draft. <a href=\"https://www.nbcsportsbayarea.com/nba/golden-state-warriors/draymond-green-jonathan-kuminga-trade/1914560/?_osource=sm_npd_rsn_bay_bsky_sprtresocial\" target=\"_blank\" style=\"color: #1a73e8;\">\"When you're the seventh pick in the NBA draft, you usually go to a place where they're going to give you the ball, they're going to allow you to make a ton of mistakes, and you grow through those mistakes in hopes that you become a key, cornerstone, franchise piece to the rebuild of the team that drafted you with the seventh pick,\" Green said of Kuminga</a>. \"You're usually not drafted to a team that's good enough to compete and win a championship that year. That's the hand Jonathan Kuminga was dealt. And so I appreciate the way he handled it, the maturity he showed in handling the situation the entire time, even when the writing was on the wall and everybody in the world kind of knew a trade was going to happen.\"",
-        "outlet": "NBC Sports Bay Area",
-        "source_url": "https://www.nbcsportsbayarea.com/nba/golden-state-warriors/draymond-green-jonathan-kuminga-trade/1914560/?_osource=sm_npd_rsn_bay_bsky_sprtresocial"
       }
     ],
     "Josh Giddey": [
@@ -1481,58 +1365,6 @@
         "outlet": "marcstein.substack.com",
         "source_url": "https://marcstein.substack.com/p/nba-how-it-happened-the-deal-of-the"
       }
-    ],
-    "Andrew Wiggins": [
-      {
-        "date": "2026-02-10",
-        "text": "According to a source,the Heat wasn\u2019t offered a first-round pick for any of its top veteran wing players \u2014 not Andrew Wiggins, Powell or Tyler Herro.Miami Herald",
-        "text_html": "According to a source, <a href=\"https://www.miamiherald.com/sports/nba/miami-heat/article314348366.html\" target=\"_blank\" style=\"color: #1a73e8;\">the Heat wasn\u2019t offered a first-round pick for any of its top veteran wing players \u2014 not Andrew Wiggins, Powell or Tyler Herro</a>.",
-        "outlet": "Miami Herald",
-        "source_url": "https://www.miamiherald.com/sports/nba/miami-heat/article314348366.html"
-      },
-      {
-        "date": "2026-02-10",
-        "text": "Potentially two second-round picks, per a source.But the Heat didn\u2019t deem that enough because of the benefit of having Wiggins the rest of the season, and also potentially having his contract to keep or trade if he opts into $30 million next season.Miami Herald",
-        "text_html": "<a href=\"https://www.miamiherald.com/sports/nba/miami-heat/article314348366.html\" target=\"_blank\" style=\"color: #1a73e8;\">Potentially two second-round picks, per a source.</a> But the Heat didn\u2019t deem that enough because of the benefit of having Wiggins the rest of the season, and also potentially having his contract to keep or trade if he opts into $30 million next season.",
-        "outlet": "Miami Herald",
-        "source_url": "https://www.miamiherald.com/sports/nba/miami-heat/article314348366.html"
-      }
-    ],
-    "Norman Powell": [
-      {
-        "date": "2026-02-10",
-        "text": "According to a source,the Heat wasn\u2019t offered a first-round pick for any of its top veteran wing players \u2014 not Andrew Wiggins, Powell or Tyler Herro.Miami Herald",
-        "text_html": "According to a source, <a href=\"https://www.miamiherald.com/sports/nba/miami-heat/article314348366.html\" target=\"_blank\" style=\"color: #1a73e8;\">the Heat wasn\u2019t offered a first-round pick for any of its top veteran wing players \u2014 not Andrew Wiggins, Powell or Tyler Herro</a>.",
-        "outlet": "Miami Herald",
-        "source_url": "https://www.miamiherald.com/sports/nba/miami-heat/article314348366.html"
-      }
-    ],
-    "Tyler Herro": [
-      {
-        "date": "2026-02-10",
-        "text": "According to a source,the Heat wasn\u2019t offered a first-round pick for any of its top veteran wing players \u2014 not Andrew Wiggins, Powell or Tyler Herro.Miami Herald",
-        "text_html": "According to a source, <a href=\"https://www.miamiherald.com/sports/nba/miami-heat/article314348366.html\" target=\"_blank\" style=\"color: #1a73e8;\">the Heat wasn\u2019t offered a first-round pick for any of its top veteran wing players \u2014 not Andrew Wiggins, Powell or Tyler Herro</a>.",
-        "outlet": "Miami Herald",
-        "source_url": "https://www.miamiherald.com/sports/nba/miami-heat/article314348366.html"
-      }
-    ],
-    "Kristaps Porzingis": [
-      {
-        "date": "2026-02-10",
-        "text": "The Warriors forward discussed on the latest episode of his podcast, \"The Draymond Green Show,\" Golden State trading Kuminga, along with guard Buddy Hield, to the Atlanta Hawks for Kristaps Porzingis before Thursday's NBA trade deadline and shared his appreciation for how Kuminga handled himself throughout his four-plus seasons with Golden State, despite not receiving consistent playing time after he was selected with the No. 7 pick in the 2021 draft.\"When you're the seventh pick in the NBA draft, you usually go to a place where they're going to give you the ball, they're going to allow you to make a ton of mistakes, and you grow through those mistakes in hopes that you become a key, cornerstone, franchise piece to the rebuild of the team that drafted you with the seventh pick,\" Green said of Kuminga. \"You're usually not drafted to a team that's good enough to compete and win a championship that year. That's the hand Jonathan Kuminga was dealt. And so I appreciate the way he handled it, the maturity he showed in handling the situation the entire time, even when the writing was on the wall and everybody in the world kind of knew a trade was going to happen.\"NBC Sports Bay Area",
-        "text_html": "The Warriors forward discussed on the latest episode of his podcast, \"The Draymond Green Show,\" Golden State trading Kuminga, along with guard Buddy Hield, to the Atlanta Hawks for Kristaps Porzingis before Thursday's NBA trade deadline and shared his appreciation for how Kuminga handled himself throughout his four-plus seasons with Golden State, despite not receiving consistent playing time after he was selected with the No. 7 pick in the 2021 draft. <a href=\"https://www.nbcsportsbayarea.com/nba/golden-state-warriors/draymond-green-jonathan-kuminga-trade/1914560/?_osource=sm_npd_rsn_bay_bsky_sprtresocial\" target=\"_blank\" style=\"color: #1a73e8;\">\"When you're the seventh pick in the NBA draft, you usually go to a place where they're going to give you the ball, they're going to allow you to make a ton of mistakes, and you grow through those mistakes in hopes that you become a key, cornerstone, franchise piece to the rebuild of the team that drafted you with the seventh pick,\" Green said of Kuminga</a>. \"You're usually not drafted to a team that's good enough to compete and win a championship that year. That's the hand Jonathan Kuminga was dealt. And so I appreciate the way he handled it, the maturity he showed in handling the situation the entire time, even when the writing was on the wall and everybody in the world kind of knew a trade was going to happen.\"",
-        "outlet": "NBC Sports Bay Area",
-        "source_url": "https://www.nbcsportsbayarea.com/nba/golden-state-warriors/draymond-green-jonathan-kuminga-trade/1914560/?_osource=sm_npd_rsn_bay_bsky_sprtresocial"
-      }
-    ],
-    "Buddy Hield": [
-      {
-        "date": "2026-02-10",
-        "text": "The Warriors forward discussed on the latest episode of his podcast, \"The Draymond Green Show,\" Golden State trading Kuminga, along with guard Buddy Hield, to the Atlanta Hawks for Kristaps Porzingis before Thursday's NBA trade deadline and shared his appreciation for how Kuminga handled himself throughout his four-plus seasons with Golden State, despite not receiving consistent playing time after he was selected with the No. 7 pick in the 2021 draft.\"When you're the seventh pick in the NBA draft, you usually go to a place where they're going to give you the ball, they're going to allow you to make a ton of mistakes, and you grow through those mistakes in hopes that you become a key, cornerstone, franchise piece to the rebuild of the team that drafted you with the seventh pick,\" Green said of Kuminga. \"You're usually not drafted to a team that's good enough to compete and win a championship that year. That's the hand Jonathan Kuminga was dealt. And so I appreciate the way he handled it, the maturity he showed in handling the situation the entire time, even when the writing was on the wall and everybody in the world kind of knew a trade was going to happen.\"NBC Sports Bay Area",
-        "text_html": "The Warriors forward discussed on the latest episode of his podcast, \"The Draymond Green Show,\" Golden State trading Kuminga, along with guard Buddy Hield, to the Atlanta Hawks for Kristaps Porzingis before Thursday's NBA trade deadline and shared his appreciation for how Kuminga handled himself throughout his four-plus seasons with Golden State, despite not receiving consistent playing time after he was selected with the No. 7 pick in the 2021 draft. <a href=\"https://www.nbcsportsbayarea.com/nba/golden-state-warriors/draymond-green-jonathan-kuminga-trade/1914560/?_osource=sm_npd_rsn_bay_bsky_sprtresocial\" target=\"_blank\" style=\"color: #1a73e8;\">\"When you're the seventh pick in the NBA draft, you usually go to a place where they're going to give you the ball, they're going to allow you to make a ton of mistakes, and you grow through those mistakes in hopes that you become a key, cornerstone, franchise piece to the rebuild of the team that drafted you with the seventh pick,\" Green said of Kuminga</a>. \"You're usually not drafted to a team that's good enough to compete and win a championship that year. That's the hand Jonathan Kuminga was dealt. And so I appreciate the way he handled it, the maturity he showed in handling the situation the entire time, even when the writing was on the wall and everybody in the world kind of knew a trade was going to happen.\"",
-        "outlet": "NBC Sports Bay Area",
-        "source_url": "https://www.nbcsportsbayarea.com/nba/golden-state-warriors/draymond-green-jonathan-kuminga-trade/1914560/?_osource=sm_npd_rsn_bay_bsky_sprtresocial"
-      }
     ]
   },
   "daily_counts": {
@@ -1546,8 +1378,7 @@
       "2026-02-18": 2,
       "2026-02-17": 2,
       "2026-02-16": 1,
-      "2026-02-15": 2,
-      "2026-02-10": 4
+      "2026-02-15": 2
     },
     "Bobby Portis": {
       "2026-03-10": 2,
@@ -1563,8 +1394,7 @@
       "2026-02-20": 1,
       "2026-02-16": 1,
       "2026-02-12": 1,
-      "2026-02-11": 2,
-      "2026-02-10": 1
+      "2026-02-11": 2
     },
     "Terry Rozier": {
       "2026-03-09": 2
@@ -1590,8 +1420,7 @@
     "Ja Morant": {
       "2026-03-07": 1,
       "2026-02-23": 2,
-      "2026-02-11": 3,
-      "2026-02-10": 1
+      "2026-02-11": 3
     },
     "Kawhi Leonard": {
       "2026-03-06": 1,
@@ -1645,8 +1474,7 @@
       "2026-02-21": 1
     },
     "Draymond Green": {
-      "2026-02-20": 1,
-      "2026-02-10": 2
+      "2026-02-20": 1
     },
     "Josh Giddey": {
       "2026-02-18": 1
@@ -1712,21 +1540,6 @@
     },
     "Onyeka Okongwu": {
       "2026-02-11": 1
-    },
-    "Andrew Wiggins": {
-      "2026-02-10": 2
-    },
-    "Norman Powell": {
-      "2026-02-10": 1
-    },
-    "Tyler Herro": {
-      "2026-02-10": 1
-    },
-    "Kristaps Porzingis": {
-      "2026-02-10": 1
-    },
-    "Buddy Hield": {
-      "2026-02-10": 1
     }
   }
 }
