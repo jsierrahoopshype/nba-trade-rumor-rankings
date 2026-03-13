@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-03-12T19:42:35.933528",
+  "generated_at": "2026-03-13T03:28:14.831615",
   "scrape_window_days": 28,
-  "window_start": "2026-02-12",
-  "window_end": "2026-03-12",
-  "total_rumors": 85,
-  "total_players": 41,
+  "window_start": "2026-02-13",
+  "window_end": "2026-03-13",
+  "total_rumors": 81,
+  "total_players": 40,
   "rankings": [
     {
       "player": "Giannis Antetokounmpo",
@@ -67,18 +67,6 @@
       "rank": 5
     },
     {
-      "player": "Trae Young",
-      "score": 2.0,
-      "mentions_week1": 1,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 4,
-      "first_mention": "2026-02-16",
-      "last_mention": "2026-03-05",
-      "team": "Atlanta Hawks",
-      "rank": 6
-    },
-    {
       "player": "Terry Rozier",
       "score": 2.0,
       "mentions_week1": 2,
@@ -88,19 +76,7 @@
       "first_mention": "2026-03-09",
       "last_mention": "2026-03-09",
       "team": "Miami Heat",
-      "rank": 7
-    },
-    {
-      "player": "Jonathan Kuminga",
-      "score": 1.75,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 3,
-      "total_mentions": 4,
-      "first_mention": "2026-02-12",
-      "last_mention": "2026-03-10",
-      "team": "Golden State Warriors",
-      "rank": 8
+      "rank": 6
     },
     {
       "player": "Ja Morant",
@@ -112,19 +88,31 @@
       "first_mention": "2026-02-23",
       "last_mention": "2026-03-07",
       "team": "Memphis Grizzlies",
-      "rank": 9
+      "rank": 7
     },
     {
-      "player": "Bennedict Mathurin",
-      "score": 1.0,
+      "player": "Jonathan Kuminga",
+      "score": 1.5,
       "mentions_week1": 1,
       "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-03-05",
+      "mentions_weeks3_4": 2,
+      "total_mentions": 3,
+      "first_mention": "2026-02-16",
+      "last_mention": "2026-03-10",
+      "team": "Golden State Warriors",
+      "rank": 8
+    },
+    {
+      "player": "Trae Young",
+      "score": 1.25,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 3,
+      "total_mentions": 4,
+      "first_mention": "2026-02-16",
       "last_mention": "2026-03-05",
-      "team": "Indiana Pacers",
-      "rank": 10
+      "team": "Atlanta Hawks",
+      "rank": 9
     },
     {
       "player": "Fred VanVleet",
@@ -136,7 +124,7 @@
       "first_mention": "2026-03-10",
       "last_mention": "2026-03-10",
       "team": "Atlanta Hawks",
-      "rank": 11
+      "rank": 10
     },
     {
       "player": "Jaylen Brown",
@@ -148,7 +136,7 @@
       "first_mention": "2026-03-12",
       "last_mention": "2026-03-12",
       "team": "Boston Celtics",
-      "rank": 12
+      "rank": 11
     },
     {
       "player": "Josh Green",
@@ -160,19 +148,7 @@
       "first_mention": "2026-03-09",
       "last_mention": "2026-03-09",
       "team": "Charlotte Hornets",
-      "rank": 13
-    },
-    {
-      "player": "Marcus Smart",
-      "score": 1.0,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-03-05",
-      "last_mention": "2026-03-05",
-      "team": "Los Angeles Lakers",
-      "rank": 14
+      "rank": 12
     },
     {
       "player": "Tyrese Maxey",
@@ -184,7 +160,7 @@
       "first_mention": "2026-03-09",
       "last_mention": "2026-03-09",
       "team": "Philadelphia 76ers",
-      "rank": 15
+      "rank": 13
     },
     {
       "player": "VJ Edgecombe",
@@ -196,19 +172,7 @@
       "first_mention": "2026-03-09",
       "last_mention": "2026-03-09",
       "team": "Oklahoma City Thunder",
-      "rank": 16
-    },
-    {
-      "player": "Anthony Davis",
-      "score": 0.5,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 2,
-      "first_mention": "2026-02-12",
-      "last_mention": "2026-02-21",
-      "team": "Dallas Mavericks",
-      "rank": 17
+      "rank": 14
     },
     {
       "player": "Domantas Sabonis",
@@ -220,7 +184,7 @@
       "first_mention": "2026-02-22",
       "last_mention": "2026-02-24",
       "team": "Sacramento Kings",
-      "rank": 18
+      "rank": 15
     },
     {
       "player": "Donovan Mitchell",
@@ -232,7 +196,7 @@
       "first_mention": "2026-02-13",
       "last_mention": "2026-02-15",
       "team": "Cleveland Cavaliers",
-      "rank": 19
+      "rank": 16
     },
     {
       "player": "Ivica Zubac",
@@ -244,7 +208,7 @@
       "first_mention": "2026-02-13",
       "last_mention": "2026-02-25",
       "team": "Los Angeles Clippers",
-      "rank": 20
+      "rank": 17
     },
     {
       "player": "James Harden",
@@ -256,19 +220,7 @@
       "first_mention": "2026-02-13",
       "last_mention": "2026-02-15",
       "team": "Los Angeles Clippers",
-      "rank": 21
-    },
-    {
-      "player": "Kevin Durant",
-      "score": 0.5,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 2,
-      "first_mention": "2026-02-12",
-      "last_mention": "2026-02-12",
-      "team": "Houston Rockets",
-      "rank": 22
+      "rank": 18
     },
     {
       "player": "LeBron James",
@@ -280,7 +232,19 @@
       "first_mention": "2026-02-15",
       "last_mention": "2026-02-24",
       "team": "Los Angeles Lakers",
-      "rank": 23
+      "rank": 19
+    },
+    {
+      "player": "Bennedict Mathurin",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-03-05",
+      "last_mention": "2026-03-05",
+      "team": "Indiana Pacers",
+      "rank": 20
     },
     {
       "player": "Immanuel Quickley",
@@ -292,7 +256,19 @@
       "first_mention": "2026-02-27",
       "last_mention": "2026-02-27",
       "team": "Toronto Raptors",
-      "rank": 24
+      "rank": 21
+    },
+    {
+      "player": "Marcus Smart",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-03-05",
+      "last_mention": "2026-03-05",
+      "team": "Los Angeles Lakers",
+      "rank": 22
     },
     {
       "player": "RJ Barrett",
@@ -304,7 +280,7 @@
       "first_mention": "2026-02-27",
       "last_mention": "2026-02-27",
       "team": "Toronto Raptors",
-      "rank": 25
+      "rank": 23
     },
     {
       "player": "Alex Sarr",
@@ -316,7 +292,19 @@
       "first_mention": "2026-02-21",
       "last_mention": "2026-02-21",
       "team": "Washington Wizards",
-      "rank": 26
+      "rank": 24
+    },
+    {
+      "player": "Anthony Davis",
+      "score": 0.25,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 1,
+      "first_mention": "2026-02-21",
+      "last_mention": "2026-02-21",
+      "team": "Dallas Mavericks",
+      "rank": 25
     },
     {
       "player": "Austin Reaves",
@@ -328,7 +316,7 @@
       "first_mention": "2026-02-24",
       "last_mention": "2026-02-24",
       "team": "Los Angeles Lakers",
-      "rank": 27
+      "rank": 26
     },
     {
       "player": "Cedric Coward",
@@ -340,7 +328,7 @@
       "first_mention": "2026-02-17",
       "last_mention": "2026-02-17",
       "team": "Memphis Grizzlies",
-      "rank": 28
+      "rank": 27
     },
     {
       "player": "Cooper Flagg",
@@ -352,7 +340,7 @@
       "first_mention": "2026-02-15",
       "last_mention": "2026-02-15",
       "team": "Dallas Mavericks",
-      "rank": 29
+      "rank": 28
     },
     {
       "player": "Daniel Gafford",
@@ -364,7 +352,7 @@
       "first_mention": "2026-02-22",
       "last_mention": "2026-02-22",
       "team": "Dallas Mavericks",
-      "rank": 30
+      "rank": 29
     },
     {
       "player": "Dennis Schroeder",
@@ -376,7 +364,7 @@
       "first_mention": "2026-02-15",
       "last_mention": "2026-02-15",
       "team": "Cleveland Cavaliers",
-      "rank": 31
+      "rank": 30
     },
     {
       "player": "Draymond Green",
@@ -388,7 +376,7 @@
       "first_mention": "2026-02-20",
       "last_mention": "2026-02-20",
       "team": "Golden State Warriors",
-      "rank": 32
+      "rank": 31
     },
     {
       "player": "John Konchar",
@@ -400,7 +388,7 @@
       "first_mention": "2026-02-17",
       "last_mention": "2026-02-17",
       "team": "Memphis Grizzlies",
-      "rank": 33
+      "rank": 32
     },
     {
       "player": "Josh Giddey",
@@ -412,7 +400,7 @@
       "first_mention": "2026-02-18",
       "last_mention": "2026-02-18",
       "team": "Chicago Bulls",
-      "rank": 34
+      "rank": 33
     },
     {
       "player": "Julius Randle",
@@ -424,7 +412,7 @@
       "first_mention": "2026-02-16",
       "last_mention": "2026-02-16",
       "team": "Minnesota Timberwolves",
-      "rank": 35
+      "rank": 34
     },
     {
       "player": "Kel'el Ware",
@@ -436,7 +424,7 @@
       "first_mention": "2026-02-13",
       "last_mention": "2026-02-13",
       "team": "Miami Heat",
-      "rank": 36
+      "rank": 35
     },
     {
       "player": "Keon Ellis",
@@ -448,7 +436,7 @@
       "first_mention": "2026-02-15",
       "last_mention": "2026-02-15",
       "team": "Sacramento Kings",
-      "rank": 37
+      "rank": 36
     },
     {
       "player": "Kyrie Irving",
@@ -460,7 +448,7 @@
       "first_mention": "2026-02-15",
       "last_mention": "2026-02-15",
       "team": "Dallas Mavericks",
-      "rank": 38
+      "rank": 37
     },
     {
       "player": "Matas Buzelis",
@@ -472,7 +460,7 @@
       "first_mention": "2026-02-18",
       "last_mention": "2026-02-18",
       "team": "Chicago Bulls",
-      "rank": 39
+      "rank": 38
     },
     {
       "player": "Stephen Curry",
@@ -484,7 +472,7 @@
       "first_mention": "2026-02-15",
       "last_mention": "2026-02-15",
       "team": "Golden State Warriors",
-      "rank": 40
+      "rank": 39
     },
     {
       "player": "Tristan Vukcevic",
@@ -496,7 +484,7 @@
       "first_mention": "2026-02-21",
       "last_mention": "2026-02-21",
       "team": "Washington Wizards",
-      "rank": 41
+      "rank": 40
     }
   ],
   "player_rumors": {
@@ -697,13 +685,6 @@
         "text_html": "<a href=\"https://www.ajc.com/sports/2026/02/even-a-once-skeptical-nba-scout-likes-onsi-salehs-plan-for-hawks/\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cYou either have to go all in and build around Trae or you\u2019ve got to go all in with the young guys and start to build it together, and it looks like they\u2019ve done that,\u201d the scout said.</a> \u201cThey\u2019ve made sure that almost everyone they\u2019ve brought in has been a shooting piece, except for Kuminga.\u201d Kispert, Hield and McCollum each has a career 3-point shooting percentages of 38% or higher, and Landale has shot 40% from 3-point range over the past three seasons.",
         "outlet": "Atlanta Journal-Constitution",
         "source_url": "https://www.ajc.com/sports/2026/02/even-a-once-skeptical-nba-scout-likes-onsi-salehs-plan-for-hawks/"
-      },
-      {
-        "date": "2026-02-12",
-        "text": "IN LATE DECEMBER, amid his third lengthy stretch of DNPs this season, Kuminga started to box up belongings in his Bay Area house, sources close to him said, anticipating a trade and essentially attempting to will it into existence. He showed up when required and cheered for teammates at games, but he had his skills trainer, Ant Wells, in town to do individual training at different gyms away from the facility, feeling an increasing eye of distaste from Warriors management and coaches when he'd work on drills to improve his on-ball scoring and playmaking in front of them. \"He hates working out in this place,\" one source said, pointing down toward the practice court.ESPN",
-        "text_html": "<a href=\"https://www.espn.com/nba/story/_/id/47880753/inside-ugly-5-year-split-jonathan-kuminga-warriors\" target=\"_blank\" style=\"color: #1a73e8;\">IN LATE DECEMBER, amid his third lengthy stretch of DNPs this season, Kuminga started to box up belongings in his Bay Area house, sources close to him said, anticipating a trade and essentially attempting to will it into existence</a>. He showed up when required and cheered for teammates at games, but he had his skills trainer, Ant Wells, in town to do individual training at different gyms away from the facility, feeling an increasing eye of distaste from Warriors management and coaches when he'd work on drills to improve his on-ball scoring and playmaking in front of them. \"He hates working out in this place,\" one source said, pointing down toward the practice court.",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/47880753/inside-ugly-5-year-split-jonathan-kuminga-warriors"
       }
     ],
     "Terry Rozier": [
@@ -994,13 +975,6 @@
         "text_html": "Josh Robbins: The Wizards' decision to sign Tristan Vukcevic to a three-year deal creates big-man depth behind Alex Sarr and Anthony Davis for 2026-27. But even with the Vukcevic move, the <a href=\"https://bsky.app/profile/joshrobbins.bsky.social/post/3mffcqtn5ok2i\" target=\"_blank\" style=\"color: #1a73e8;\">Wizards could add another big during the offseason to serve as the primary big-man backup</a>.",
         "outlet": "Bluesky",
         "source_url": "https://bsky.app/profile/joshrobbins.bsky.social/post/3mffcqtn5ok2i"
-      },
-      {
-        "date": "2026-02-12",
-        "text": "The Mavs negotiated with the Wizards without the\u00a0knowledge\u00a0of Davis and Paul, who weren't aware Washington was a serious suitor until the trade was done.Sources\u00a0said there was some concern from Dumont about how Mavs fans would react to a Davis deal that didn't include premium draft picks or players who fit into the franchise's long-term plans as part of the return. But Flagg's presence and production -- he's on pace to join Doncic, Michael Jordan and Larry Bird as the only rookies to average at least 20 points, 6 rebounds and 4 assists per game since the 1976 ABA-NBA merger -- provide hope and some patience.ESPN",
-        "text_html": "The Mavs negotiated with the Wizards without the knowledge of Davis and Paul, who weren't aware Washington was a serious suitor until the trade was done. <a href=\"https://www.espn.com/nba/story/_/id/47890796/nba-2026-dallas-mavericks-cooper-flagg-anthony-davis-luka-doncic-lottery-trade\" target=\"_blank\" style=\"color: #1a73e8;\">Sources said there was some concern from Dumont about how Mavs fans would react to a Davis deal that didn't include premium draft picks or players who fit into the franchise's long-term plans as part of the return</a>. But Flagg's presence and production -- he's on pace to join Doncic, Michael Jordan and Larry Bird as the only rookies to average at least 20 points, 6 rebounds and 4 assists per game since the 1976 ABA-NBA merger -- provide hope and some patience.",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/47890796/nba-2026-dallas-mavericks-cooper-flagg-anthony-davis-luka-doncic-lottery-trade"
       }
     ],
     "Tristan Vukcevic": [
@@ -1160,22 +1134,6 @@
         "outlet": "x.com",
         "source_url": "https://x.com/HeatCulture13/status/2022381540865413550"
       }
-    ],
-    "Kevin Durant": [
-      {
-        "date": "2026-02-12",
-        "text": "Yet as he finished his burger and fries inside the hotel \u2014 after watching the team\u2019s shootaround that morning and attending the game against his hometown Detroit Pistons that night \u2014 the topic of regret was finally raised. If he could do it all over again, what might he change?\u201cI would have paused and said, \u2018Let\u2019s define this first,\u2019\u201d Mat Ishbia admits. \u201cYou could blame me for not defining and setting the culture up front, because at the end of the day, that\u2019s the leader\u2019s responsibility. And I\u2019m the owner.I\u2019m the leader. It\u2019s my job\u2026So what would I have done differently? I would have said, \u2018Let\u2019s do this the right way.\u2019 But I got excited. I bought a team.\u201dNew York Times",
-        "text_html": "Yet as he finished his burger and fries inside the hotel \u2014 after watching the team\u2019s shootaround that morning and attending the game against his hometown Detroit Pistons that night \u2014 the topic of regret was finally raised. If he could do it all over again, what might he change? <a href=\"https://www.nytimes.com/athletic/7039220/2026/02/12/nba-mat-ishbia-phoenix-suns-rebuild/\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cI would have paused and said, \u2018Let\u2019s define this first,\u2019\u201d Mat Ishbia admits. \u201cYou could blame me for not defining and setting the culture up front, because at the end of the day, that\u2019s the leader\u2019s responsibility. And I\u2019m the owner.</a> I\u2019m the leader. It\u2019s my job\u2026So what would I have done differently? I would have said, \u2018Let\u2019s do this the right way.\u2019 But I got excited. I bought a team.\u201d",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/7039220/2026/02/12/nba-mat-ishbia-phoenix-suns-rebuild/"
-      },
-      {
-        "date": "2026-02-12",
-        "text": "When the dust finally settled on the 2025 trade deadline, and after so much speculation that he might be on the move, Durant was still in Phoenix. While Jones was still in the top front office spot at the time \u2014 he would later be named a Suns \u2018adviser\u2019 before leaving in July for a job as the head of basketball operations in the league office \u2014 \u2013 league\u00a0sources\u00a0say Bartelstein led the way in communications with teams that were\u00a0interested\u00a0in Durant. But the\u00a0discussions\u00a0had been held without any sort of direct involvement of Durant himself, which \u2014 after they learned that he wasn\u2019t pleased with the prospect of a reunion \u2014 ultimately compelled the Golden State Warriors to back away from a deal. The Rockets, however, didn\u2019t show any\u00a0interest\u00a0in Durant until the 11th hour.\u201cIt was \u2018No, no, no,\u2019 (from Houston) until the day of the trade deadline last year, when (Rockets general manager Rafael Stone) called me at 4 in the morning,\u201d Bartelstein said. \u201c(But) it wasn\u2019t the right package. It wasn\u2019t as good as the package we got. That was the really hard part for me and Mat at that time.\u201dNew York Times",
-        "text_html": "When the dust finally settled on the 2025 trade deadline, and after so much speculation that he might be on the move, Durant was still in Phoenix. While Jones was still in the top front office spot at the time \u2014 he would later be named a Suns \u2018adviser\u2019 before leaving in July for a job as the head of basketball operations in the league office \u2014 \u2013 league sources say Bartelstein led the way in communications with teams that were interested in Durant. But the discussions had been held without any sort of direct involvement of Durant himself, which \u2014 after they learned that he wasn\u2019t pleased with the prospect of a reunion \u2014 ultimately compelled the Golden State Warriors to back away from a deal. The Rockets, however, didn\u2019t show any interest in Durant until the 11th hour. <a href=\"https://www.nytimes.com/athletic/7039220/2026/02/12/nba-mat-ishbia-phoenix-suns-rebuild/\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cIt was \u2018No, no, no,\u2019 (from Houston) until the day of the trade deadline last year, when (Rockets general manager Rafael Stone) called me at 4 in the morning,\u201d Bartelstein said. \u201c(But) it wasn\u2019t the right package. It wasn\u2019t as good as the package we got. That was the really hard part for me and Mat at that time.\u201d</a>",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/7039220/2026/02/12/nba-mat-ishbia-phoenix-suns-rebuild/"
-      }
     ]
   },
   "daily_counts": {
@@ -1205,8 +1163,7 @@
     "Jonathan Kuminga": {
       "2026-03-10": 1,
       "2026-02-20": 1,
-      "2026-02-16": 1,
-      "2026-02-12": 1
+      "2026-02-16": 1
     },
     "Terry Rozier": {
       "2026-03-09": 2
@@ -1274,8 +1231,7 @@
       "2026-02-22": 1
     },
     "Anthony Davis": {
-      "2026-02-21": 1,
-      "2026-02-12": 1
+      "2026-02-21": 1
     },
     "Tristan Vukcevic": {
       "2026-02-21": 1
@@ -1326,9 +1282,6 @@
     },
     "Kel'el Ware": {
       "2026-02-13": 1
-    },
-    "Kevin Durant": {
-      "2026-02-12": 2
     }
   }
 }
