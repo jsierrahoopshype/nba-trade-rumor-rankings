@@ -1,34 +1,22 @@
 {
-  "generated_at": "2026-03-15T19:28:12.411786",
+  "generated_at": "2026-03-16T03:54:11.260779",
   "scrape_window_days": 28,
-  "window_start": "2026-02-15",
-  "window_end": "2026-03-15",
-  "total_rumors": 84,
-  "total_players": 42,
+  "window_start": "2026-02-16",
+  "window_end": "2026-03-16",
+  "total_rumors": 73,
+  "total_players": 36,
   "rankings": [
     {
       "player": "Giannis Antetokounmpo",
-      "score": 7.75,
+      "score": 7.25,
       "mentions_week1": 3,
       "mentions_week2": 3,
-      "mentions_weeks3_4": 13,
-      "total_mentions": 19,
-      "first_mention": "2026-02-15",
+      "mentions_weeks3_4": 11,
+      "total_mentions": 17,
+      "first_mention": "2026-02-16",
       "last_mention": "2026-03-14",
       "team": "Milwaukee Bucks",
       "rank": 1
-    },
-    {
-      "player": "Bobby Portis",
-      "score": 2.5,
-      "mentions_week1": 2,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 4,
-      "first_mention": "2026-02-15",
-      "last_mention": "2026-03-10",
-      "team": "Milwaukee Bucks",
-      "rank": 2
     },
     {
       "player": "Jared McCain",
@@ -40,6 +28,18 @@
       "first_mention": "2026-03-04",
       "last_mention": "2026-03-09",
       "team": "Philadelphia 76ers",
+      "rank": 2
+    },
+    {
+      "player": "Bobby Portis",
+      "score": 2.25,
+      "mentions_week1": 2,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 3,
+      "first_mention": "2026-02-24",
+      "last_mention": "2026-03-10",
+      "team": "Milwaukee Bucks",
       "rank": 3
     },
     {
@@ -127,18 +127,6 @@
       "rank": 10
     },
     {
-      "player": "James Harden",
-      "score": 1.25,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 2,
-      "first_mention": "2026-02-15",
-      "last_mention": "2026-03-13",
-      "team": "Los Angeles Clippers",
-      "rank": 11
-    },
-    {
       "player": "Ja Morant",
       "score": 1.0,
       "mentions_week1": 0,
@@ -148,7 +136,7 @@
       "first_mention": "2026-02-23",
       "last_mention": "2026-03-07",
       "team": "Memphis Grizzlies",
-      "rank": 12
+      "rank": 11
     },
     {
       "player": "Brook Lopez",
@@ -160,7 +148,7 @@
       "first_mention": "2026-03-13",
       "last_mention": "2026-03-13",
       "team": "Los Angeles Clippers",
-      "rank": 13
+      "rank": 12
     },
     {
       "player": "Fred VanVleet",
@@ -172,6 +160,18 @@
       "first_mention": "2026-03-10",
       "last_mention": "2026-03-10",
       "team": "Atlanta Hawks",
+      "rank": 13
+    },
+    {
+      "player": "James Harden",
+      "score": 1.0,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-03-13",
+      "last_mention": "2026-03-13",
+      "team": "Los Angeles Clippers",
       "rank": 14
     },
     {
@@ -247,18 +247,6 @@
       "rank": 20
     },
     {
-      "player": "LeBron James",
-      "score": 0.5,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 2,
-      "first_mention": "2026-02-15",
-      "last_mention": "2026-02-24",
-      "team": "Los Angeles Lakers",
-      "rank": 21
-    },
-    {
       "player": "Bennedict Mathurin",
       "score": 0.5,
       "mentions_week1": 0,
@@ -268,7 +256,7 @@
       "first_mention": "2026-03-05",
       "last_mention": "2026-03-05",
       "team": "Indiana Pacers",
-      "rank": 22
+      "rank": 21
     },
     {
       "player": "Marcus Smart",
@@ -280,7 +268,7 @@
       "first_mention": "2026-03-05",
       "last_mention": "2026-03-05",
       "team": "Los Angeles Lakers",
-      "rank": 23
+      "rank": 22
     },
     {
       "player": "Alex Sarr",
@@ -292,7 +280,7 @@
       "first_mention": "2026-02-21",
       "last_mention": "2026-02-21",
       "team": "Washington Wizards",
-      "rank": 24
+      "rank": 23
     },
     {
       "player": "Anthony Davis",
@@ -304,7 +292,7 @@
       "first_mention": "2026-02-21",
       "last_mention": "2026-02-21",
       "team": "Dallas Mavericks",
-      "rank": 25
+      "rank": 24
     },
     {
       "player": "Austin Reaves",
@@ -316,7 +304,7 @@
       "first_mention": "2026-02-24",
       "last_mention": "2026-02-24",
       "team": "Los Angeles Lakers",
-      "rank": 26
+      "rank": 25
     },
     {
       "player": "Cedric Coward",
@@ -328,19 +316,7 @@
       "first_mention": "2026-02-17",
       "last_mention": "2026-02-17",
       "team": "Memphis Grizzlies",
-      "rank": 27
-    },
-    {
-      "player": "Cooper Flagg",
-      "score": 0.25,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 1,
-      "first_mention": "2026-02-15",
-      "last_mention": "2026-02-15",
-      "team": "Dallas Mavericks",
-      "rank": 28
+      "rank": 26
     },
     {
       "player": "Daniel Gafford",
@@ -352,31 +328,7 @@
       "first_mention": "2026-02-22",
       "last_mention": "2026-02-22",
       "team": "Dallas Mavericks",
-      "rank": 29
-    },
-    {
-      "player": "Dennis Schroeder",
-      "score": 0.25,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 1,
-      "first_mention": "2026-02-15",
-      "last_mention": "2026-02-15",
-      "team": "Cleveland Cavaliers",
-      "rank": 30
-    },
-    {
-      "player": "Donovan Mitchell",
-      "score": 0.25,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 1,
-      "first_mention": "2026-02-15",
-      "last_mention": "2026-02-15",
-      "team": "Cleveland Cavaliers",
-      "rank": 31
+      "rank": 27
     },
     {
       "player": "Draymond Green",
@@ -388,7 +340,7 @@
       "first_mention": "2026-02-20",
       "last_mention": "2026-02-20",
       "team": "Golden State Warriors",
-      "rank": 32
+      "rank": 28
     },
     {
       "player": "Immanuel Quickley",
@@ -400,7 +352,7 @@
       "first_mention": "2026-02-27",
       "last_mention": "2026-02-27",
       "team": "Toronto Raptors",
-      "rank": 33
+      "rank": 29
     },
     {
       "player": "John Konchar",
@@ -412,7 +364,7 @@
       "first_mention": "2026-02-17",
       "last_mention": "2026-02-17",
       "team": "Memphis Grizzlies",
-      "rank": 34
+      "rank": 30
     },
     {
       "player": "Josh Giddey",
@@ -424,7 +376,7 @@
       "first_mention": "2026-02-18",
       "last_mention": "2026-02-18",
       "team": "Chicago Bulls",
-      "rank": 35
+      "rank": 31
     },
     {
       "player": "Julius Randle",
@@ -436,31 +388,19 @@
       "first_mention": "2026-02-16",
       "last_mention": "2026-02-16",
       "team": "Minnesota Timberwolves",
-      "rank": 36
+      "rank": 32
     },
     {
-      "player": "Keon Ellis",
+      "player": "LeBron James",
       "score": 0.25,
       "mentions_week1": 0,
       "mentions_week2": 0,
       "mentions_weeks3_4": 1,
       "total_mentions": 1,
-      "first_mention": "2026-02-15",
-      "last_mention": "2026-02-15",
-      "team": "Sacramento Kings",
-      "rank": 37
-    },
-    {
-      "player": "Kyrie Irving",
-      "score": 0.25,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 1,
-      "first_mention": "2026-02-15",
-      "last_mention": "2026-02-15",
-      "team": "Dallas Mavericks",
-      "rank": 38
+      "first_mention": "2026-02-24",
+      "last_mention": "2026-02-24",
+      "team": "Los Angeles Lakers",
+      "rank": 33
     },
     {
       "player": "Matas Buzelis",
@@ -472,7 +412,7 @@
       "first_mention": "2026-02-18",
       "last_mention": "2026-02-18",
       "team": "Chicago Bulls",
-      "rank": 39
+      "rank": 34
     },
     {
       "player": "RJ Barrett",
@@ -484,19 +424,7 @@
       "first_mention": "2026-02-27",
       "last_mention": "2026-02-27",
       "team": "Toronto Raptors",
-      "rank": 40
-    },
-    {
-      "player": "Stephen Curry",
-      "score": 0.25,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 1,
-      "first_mention": "2026-02-15",
-      "last_mention": "2026-02-15",
-      "team": "Golden State Warriors",
-      "rank": 41
+      "rank": 35
     },
     {
       "player": "Tristan Vukcevic",
@@ -508,7 +436,7 @@
       "first_mention": "2026-02-21",
       "last_mention": "2026-02-21",
       "team": "Washington Wizards",
-      "rank": 42
+      "rank": 36
     }
   ],
   "player_rumors": {
@@ -631,20 +559,6 @@
         "text_html": "Fullcourtpass: <a href=\"https://x.com/Fullcourtpass/status/2023252334168432766\" target=\"_blank\" style=\"color: #1a73e8;\">Someone asked Giannis Antetokounmpo if he is coming to Miami</a> \u201cFor vacation\u201d (h/t @WadexFlash)",
         "outlet": "x.com",
         "source_url": "https://x.com/Fullcourtpass/status/2023252334168432766"
-      },
-      {
-        "date": "2026-02-15",
-        "text": "SiriusXM NBA Radio: \u201cWe're playing for Milwaukee... they call me the mayor\"Bobby Portis is focussed on the here and now of the season instead of the trade rumors surrounding Giannis Antetokounmpo.Twitter @SiriusXMNBA",
-        "text_html": "SiriusXM NBA Radio: \u201cWe're playing for Milwaukee... they call me the mayor\" <a href=\"https://hoopshype.com/social/\" target=\"_blank\" style=\"color: #1a73e8;\">Bobby Portis is focussed on the here and now of the season instead of the trade rumors surrounding Giannis Antetokounmpo</a>.",
-        "outlet": "Twitter @SiriusXMNBA",
-        "source_url": "https://hoopshype.com/social/"
-      },
-      {
-        "date": "2026-02-15",
-        "text": "Oh No He Didn\u2019t:Giannis Antetokounmpo: \"As of today I'm committed to the Milwaukee Bucks, I'm committed to the people that I work with, my teammates, the coaching staff, coach Doc and Jon in the front office...you will never hear me say I don't want to be a Milwaukee Buck.I am a winner and I'm extremely loyal. Growing up you dream oh what if I played for the Knicks Madison Square Garden? What if I get drafted by the Lakers and now I'm teammates with Kobe, what if I go play for the Cavs and Lebron pass me the ball? If there were ever be a scenario of me not being a Milwaukee Buck no more I don't want anybody to ever think like hey man I quit on my team because this is my team and I love it\"Twitter",
-        "text_html": "Oh No He Didn\u2019t: <a href=\"http://twitter.com/ohnohedidnt24/status/2022942507341091186\" target=\"_blank\" style=\"color: #1a73e8;\">Giannis Antetokounmpo: \"As of today I'm committed to the Milwaukee Bucks, I'm committed to the people that I work with, my teammates, the coaching staff, coach Doc and Jon in the front office...you will never hear me say I don't want to be a Milwaukee Buck.</a> I am a winner and I'm extremely loyal. Growing up you dream oh what if I played for the Knicks Madison Square Garden? What if I get drafted by the Lakers and now I'm teammates with Kobe, what if I go play for the Cavs and Lebron pass me the ball? If there were ever be a scenario of me not being a Milwaukee Buck no more I don't want anybody to ever think like hey man I quit on my team because this is my team and I love it\"",
-        "outlet": "Twitter",
-        "source_url": "http://twitter.com/ohnohedidnt24/status/2022942507341091186"
       }
     ],
     "Jalen Johnson": [
@@ -679,13 +593,6 @@
         "text_html": "Harden was traded to Cleveland. Zubac was traded to Indiana. Two key starters. How did you feel about those trades? Brook Lopez: It was tough, obviously, because they brought so much to the team and so much of our success hinged on them. <a href=\"https://andscape.com/features/brook-lopez-clippers-trades-age-health-brother-disney/\" target=\"_blank\" style=\"color: #1a73e8;\">That being said, I don\u2019t think internally we see our expectations as that different. We\u2019re very confident.</a> We definitely, a while ago, turned a corner and we know we can play with anyone.",
         "outlet": "Andscape",
         "source_url": "https://andscape.com/features/brook-lopez-clippers-trades-age-health-brother-disney/"
-      },
-      {
-        "date": "2026-02-15",
-        "text": "SiriusXM NBA Radio: \u201cIt\u2019s LeBron James, right?\" Here\u2019s Donovan Mitchell\u2019s thoughts on the rumors that LeBron could finish his career in Cleveland @TermineRadio | @Jumpshot8.\u201cAs a Bron fan, to be able to be a teammate would obviously be special. But that\u2019s something not in my control. I control what we got here. There\u2019s always going to be reports. It\u2019s natural, it\u2019s going to be a thing.But at the end of the day, to your point, my main focus right now is trying to get this championship. And whatever happens, it happens. And that\u2019s not up to me, that\u2019s not up to anybody, those in the locker room. I\u2019m a big believer in what I can control, but yeah, I mean, it\u2019s LeBron James, right? But at the end of the day, that\u2019s not my focus. (\u2026) We just traded for James Harden, Dennis Schroeder, Keon Ellis, hey, let\u2019s try to find a way to get a ring and go from there.\u201dTwitter @SiriusXMNBA",
-        "text_html": "SiriusXM NBA Radio: \u201cIt\u2019s LeBron James, right?\" Here\u2019s Donovan Mitchell\u2019s thoughts on the rumors that LeBron could finish his career in Cleveland @TermineRadio | @Jumpshot8. <a href=\"https://hoopshype.com/social/\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cAs a Bron fan, to be able to be a teammate would obviously be special. But that\u2019s something not in my control. I control what we got here. There\u2019s always going to be reports. It\u2019s natural, it\u2019s going to be a thing.</a> But at the end of the day, to your point, my main focus right now is trying to get this championship. And whatever happens, it happens. And that\u2019s not up to me, that\u2019s not up to anybody, those in the locker room. I\u2019m a big believer in what I can control, but yeah, I mean, it\u2019s LeBron James, right? But at the end of the day, that\u2019s not my focus. (\u2026) We just traded for James Harden, Dennis Schroeder, Keon Ellis, hey, let\u2019s try to find a way to get a ring and go from there.\u201d",
-        "outlet": "Twitter @SiriusXMNBA",
-        "source_url": "https://hoopshype.com/social/"
       }
     ],
     "Brook Lopez": [
@@ -743,13 +650,6 @@
         "text_html": "Bobby Portis: \u201cLast time I got on here, I said it was relieving that he\u2019s talking in a way that shows he doesn\u2019t want to leave, and that we can get a breath of fresh air in general. I think there was so much pressure on our team this year, <a href=\"https://www.youtube.com/watch?v=GkG9u6tkyQ4\" target=\"_blank\" style=\"color: #1a73e8;\">with so much outside media about Giannis leaving the Bucks\u2014him requesting a trade\u2014or people pushing that narrative, and it gets to the guys on the team. Guys feel that pressure, especially playing with the Bucks, playing with an all-time great.</a> There are always narratives about winning\u2014whether the guys around him are the right guys, and whether the organization is still the organization for him. So much goes into it.\u201d",
         "outlet": "YouTube",
         "source_url": "https://www.youtube.com/watch?v=GkG9u6tkyQ4"
-      },
-      {
-        "date": "2026-02-15",
-        "text": "SiriusXM NBA Radio: \u201cWe're playing for Milwaukee... they call me the mayor\"Bobby Portis is focussed on the here and now of the season instead of the trade rumors surrounding Giannis Antetokounmpo.Twitter @SiriusXMNBA",
-        "text_html": "SiriusXM NBA Radio: \u201cWe're playing for Milwaukee... they call me the mayor\" <a href=\"https://hoopshype.com/social/\" target=\"_blank\" style=\"color: #1a73e8;\">Bobby Portis is focussed on the here and now of the season instead of the trade rumors surrounding Giannis Antetokounmpo</a>.",
-        "outlet": "Twitter @SiriusXMNBA",
-        "source_url": "https://hoopshype.com/social/"
       }
     ],
     "Fred VanVleet": [
@@ -1015,13 +915,6 @@
         "text_html": "<a href=\"https://www.miamiherald.com/sports/nba/miami-heat/article314646510.html\" target=\"_blank\" style=\"color: #1a73e8;\">Including LeBron James in a sign-and-trade with Cleveland \u2014 his widely speculated but uncorroborated preference \u2014 would be difficult, if not impossible,</a> because of the Cavs\u2019 high payroll and challenges created by the first and second aprons.",
         "outlet": "Miami Herald",
         "source_url": "https://www.miamiherald.com/sports/nba/miami-heat/article314646510.html"
-      },
-      {
-        "date": "2026-02-15",
-        "text": "SiriusXM NBA Radio: \u201cIt\u2019s LeBron James, right?\" Here\u2019s Donovan Mitchell\u2019s thoughts on the rumors that LeBron could finish his career in Cleveland @TermineRadio | @Jumpshot8.\u201cAs a Bron fan, to be able to be a teammate would obviously be special. But that\u2019s something not in my control. I control what we got here. There\u2019s always going to be reports. It\u2019s natural, it\u2019s going to be a thing.But at the end of the day, to your point, my main focus right now is trying to get this championship. And whatever happens, it happens. And that\u2019s not up to me, that\u2019s not up to anybody, those in the locker room. I\u2019m a big believer in what I can control, but yeah, I mean, it\u2019s LeBron James, right? But at the end of the day, that\u2019s not my focus. (\u2026) We just traded for James Harden, Dennis Schroeder, Keon Ellis, hey, let\u2019s try to find a way to get a ring and go from there.\u201dTwitter @SiriusXMNBA",
-        "text_html": "SiriusXM NBA Radio: \u201cIt\u2019s LeBron James, right?\" Here\u2019s Donovan Mitchell\u2019s thoughts on the rumors that LeBron could finish his career in Cleveland @TermineRadio | @Jumpshot8. <a href=\"https://hoopshype.com/social/\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cAs a Bron fan, to be able to be a teammate would obviously be special. But that\u2019s something not in my control. I control what we got here. There\u2019s always going to be reports. It\u2019s natural, it\u2019s going to be a thing.</a> But at the end of the day, to your point, my main focus right now is trying to get this championship. And whatever happens, it happens. And that\u2019s not up to me, that\u2019s not up to anybody, those in the locker room. I\u2019m a big believer in what I can control, but yeah, I mean, it\u2019s LeBron James, right? But at the end of the day, that\u2019s not my focus. (\u2026) We just traded for James Harden, Dennis Schroeder, Keon Ellis, hey, let\u2019s try to find a way to get a ring and go from there.\u201d",
-        "outlet": "Twitter @SiriusXMNBA",
-        "source_url": "https://hoopshype.com/social/"
       }
     ],
     "Domantas Sabonis": [
@@ -1129,60 +1022,6 @@
         "outlet": "New York Times",
         "source_url": "https://www.nytimes.com/athletic/7039626/2026/02/13/julius-randle-minnesota-timberwolves-all-star-break/"
       }
-    ],
-    "Kyrie Irving": [
-      {
-        "date": "2026-02-15",
-        "text": "After trading\u00a0Anthony Davis\u00a0in a move aimed at financial flexibility and draft capital,league\u00a0sources\u00a0told\u00a0DallasHoopsJournal.com\u00a0that the Mavericks continue to see strong long-term potential in pairing Irving with rookie\u00a0Cooper Flagg.The two have yet to share the floor. Irving\u2019s injury occurred months before Dallas selected Flagg with the No. 1 overall pick, leaving the partnership rooted in projection.Dallas Hoops Journal",
-        "text_html": "After trading Anthony Davis in a move aimed at financial flexibility and draft capital, <a href=\"https://dallashoopsjournal.com/p/dallas-mavericks-star-kyrie-irving-injury-address-return-after-all-star-break-nba-news/\" target=\"_blank\" style=\"color: #1a73e8;\">league sources told DallasHoopsJournal.com that the Mavericks continue to see strong long-term potential in pairing Irving with rookie Cooper Flagg.</a> The two have yet to share the floor. Irving\u2019s injury occurred months before Dallas selected Flagg with the No. 1 overall pick, leaving the partnership rooted in projection.",
-        "outlet": "Dallas Hoops Journal",
-        "source_url": "https://dallashoopsjournal.com/p/dallas-mavericks-star-kyrie-irving-injury-address-return-after-all-star-break-nba-news/"
-      }
-    ],
-    "Cooper Flagg": [
-      {
-        "date": "2026-02-15",
-        "text": "After trading\u00a0Anthony Davis\u00a0in a move aimed at financial flexibility and draft capital,league\u00a0sources\u00a0told\u00a0DallasHoopsJournal.com\u00a0that the Mavericks continue to see strong long-term potential in pairing Irving with rookie\u00a0Cooper Flagg.The two have yet to share the floor. Irving\u2019s injury occurred months before Dallas selected Flagg with the No. 1 overall pick, leaving the partnership rooted in projection.Dallas Hoops Journal",
-        "text_html": "After trading Anthony Davis in a move aimed at financial flexibility and draft capital, <a href=\"https://dallashoopsjournal.com/p/dallas-mavericks-star-kyrie-irving-injury-address-return-after-all-star-break-nba-news/\" target=\"_blank\" style=\"color: #1a73e8;\">league sources told DallasHoopsJournal.com that the Mavericks continue to see strong long-term potential in pairing Irving with rookie Cooper Flagg.</a> The two have yet to share the floor. Irving\u2019s injury occurred months before Dallas selected Flagg with the No. 1 overall pick, leaving the partnership rooted in projection.",
-        "outlet": "Dallas Hoops Journal",
-        "source_url": "https://dallashoopsjournal.com/p/dallas-mavericks-star-kyrie-irving-injury-address-return-after-all-star-break-nba-news/"
-      }
-    ],
-    "Dennis Schroeder": [
-      {
-        "date": "2026-02-15",
-        "text": "SiriusXM NBA Radio: \u201cIt\u2019s LeBron James, right?\" Here\u2019s Donovan Mitchell\u2019s thoughts on the rumors that LeBron could finish his career in Cleveland @TermineRadio | @Jumpshot8.\u201cAs a Bron fan, to be able to be a teammate would obviously be special. But that\u2019s something not in my control. I control what we got here. There\u2019s always going to be reports. It\u2019s natural, it\u2019s going to be a thing.But at the end of the day, to your point, my main focus right now is trying to get this championship. And whatever happens, it happens. And that\u2019s not up to me, that\u2019s not up to anybody, those in the locker room. I\u2019m a big believer in what I can control, but yeah, I mean, it\u2019s LeBron James, right? But at the end of the day, that\u2019s not my focus. (\u2026) We just traded for James Harden, Dennis Schroeder, Keon Ellis, hey, let\u2019s try to find a way to get a ring and go from there.\u201dTwitter @SiriusXMNBA",
-        "text_html": "SiriusXM NBA Radio: \u201cIt\u2019s LeBron James, right?\" Here\u2019s Donovan Mitchell\u2019s thoughts on the rumors that LeBron could finish his career in Cleveland @TermineRadio | @Jumpshot8. <a href=\"https://hoopshype.com/social/\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cAs a Bron fan, to be able to be a teammate would obviously be special. But that\u2019s something not in my control. I control what we got here. There\u2019s always going to be reports. It\u2019s natural, it\u2019s going to be a thing.</a> But at the end of the day, to your point, my main focus right now is trying to get this championship. And whatever happens, it happens. And that\u2019s not up to me, that\u2019s not up to anybody, those in the locker room. I\u2019m a big believer in what I can control, but yeah, I mean, it\u2019s LeBron James, right? But at the end of the day, that\u2019s not my focus. (\u2026) We just traded for James Harden, Dennis Schroeder, Keon Ellis, hey, let\u2019s try to find a way to get a ring and go from there.\u201d",
-        "outlet": "Twitter @SiriusXMNBA",
-        "source_url": "https://hoopshype.com/social/"
-      }
-    ],
-    "Donovan Mitchell": [
-      {
-        "date": "2026-02-15",
-        "text": "SiriusXM NBA Radio: \u201cIt\u2019s LeBron James, right?\" Here\u2019s Donovan Mitchell\u2019s thoughts on the rumors that LeBron could finish his career in Cleveland @TermineRadio | @Jumpshot8.\u201cAs a Bron fan, to be able to be a teammate would obviously be special. But that\u2019s something not in my control. I control what we got here. There\u2019s always going to be reports. It\u2019s natural, it\u2019s going to be a thing.But at the end of the day, to your point, my main focus right now is trying to get this championship. And whatever happens, it happens. And that\u2019s not up to me, that\u2019s not up to anybody, those in the locker room. I\u2019m a big believer in what I can control, but yeah, I mean, it\u2019s LeBron James, right? But at the end of the day, that\u2019s not my focus. (\u2026) We just traded for James Harden, Dennis Schroeder, Keon Ellis, hey, let\u2019s try to find a way to get a ring and go from there.\u201dTwitter @SiriusXMNBA",
-        "text_html": "SiriusXM NBA Radio: \u201cIt\u2019s LeBron James, right?\" Here\u2019s Donovan Mitchell\u2019s thoughts on the rumors that LeBron could finish his career in Cleveland @TermineRadio | @Jumpshot8. <a href=\"https://hoopshype.com/social/\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cAs a Bron fan, to be able to be a teammate would obviously be special. But that\u2019s something not in my control. I control what we got here. There\u2019s always going to be reports. It\u2019s natural, it\u2019s going to be a thing.</a> But at the end of the day, to your point, my main focus right now is trying to get this championship. And whatever happens, it happens. And that\u2019s not up to me, that\u2019s not up to anybody, those in the locker room. I\u2019m a big believer in what I can control, but yeah, I mean, it\u2019s LeBron James, right? But at the end of the day, that\u2019s not my focus. (\u2026) We just traded for James Harden, Dennis Schroeder, Keon Ellis, hey, let\u2019s try to find a way to get a ring and go from there.\u201d",
-        "outlet": "Twitter @SiriusXMNBA",
-        "source_url": "https://hoopshype.com/social/"
-      }
-    ],
-    "Keon Ellis": [
-      {
-        "date": "2026-02-15",
-        "text": "SiriusXM NBA Radio: \u201cIt\u2019s LeBron James, right?\" Here\u2019s Donovan Mitchell\u2019s thoughts on the rumors that LeBron could finish his career in Cleveland @TermineRadio | @Jumpshot8.\u201cAs a Bron fan, to be able to be a teammate would obviously be special. But that\u2019s something not in my control. I control what we got here. There\u2019s always going to be reports. It\u2019s natural, it\u2019s going to be a thing.But at the end of the day, to your point, my main focus right now is trying to get this championship. And whatever happens, it happens. And that\u2019s not up to me, that\u2019s not up to anybody, those in the locker room. I\u2019m a big believer in what I can control, but yeah, I mean, it\u2019s LeBron James, right? But at the end of the day, that\u2019s not my focus. (\u2026) We just traded for James Harden, Dennis Schroeder, Keon Ellis, hey, let\u2019s try to find a way to get a ring and go from there.\u201dTwitter @SiriusXMNBA",
-        "text_html": "SiriusXM NBA Radio: \u201cIt\u2019s LeBron James, right?\" Here\u2019s Donovan Mitchell\u2019s thoughts on the rumors that LeBron could finish his career in Cleveland @TermineRadio | @Jumpshot8. <a href=\"https://hoopshype.com/social/\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cAs a Bron fan, to be able to be a teammate would obviously be special. But that\u2019s something not in my control. I control what we got here. There\u2019s always going to be reports. It\u2019s natural, it\u2019s going to be a thing.</a> But at the end of the day, to your point, my main focus right now is trying to get this championship. And whatever happens, it happens. And that\u2019s not up to me, that\u2019s not up to anybody, those in the locker room. I\u2019m a big believer in what I can control, but yeah, I mean, it\u2019s LeBron James, right? But at the end of the day, that\u2019s not my focus. (\u2026) We just traded for James Harden, Dennis Schroeder, Keon Ellis, hey, let\u2019s try to find a way to get a ring and go from there.\u201d",
-        "outlet": "Twitter @SiriusXMNBA",
-        "source_url": "https://hoopshype.com/social/"
-      }
-    ],
-    "Stephen Curry": [
-      {
-        "date": "2026-02-15",
-        "text": "Q. There was a\u00a0moment they were they could have traded\u00a0Stephen Curry. They were going to choose between\u00a0him and Monta Ellis.\u00a0Anthony Morrow: Yeah.\u00a0Q. Was the belief when you were in\u00a0practices, was the energy like, they\u00a0fully have bought into Steph or was it\u00a0kind of like we don't know, it's a\u00a0little wobbly, like do they believe in\u00a0him? I know Mark Jackson eventually did,\u00a0but what was it like those early years?\u00a0Was it like you could tell that he's\u00a0kind of like a trial run with them or\u00a0was it like he's the face of this\u00a0franchise?\u00a0Anthony Morrow: Day one. They started him first\u00a0game of the season against Houston. He\u00a0played well. It's like he\u00a0had like 17, but he had like a terrible\u00a0turnover that lost the game.And like I\u00a0remember all the vets like he ain't\u00a0ready to play, he ain't this, he ain't\u00a0that. I'm like Don Nelson is not turning his\u00a0back on him. He chose him.\u00a0He's not turning his back,\u00a0and it was just part of the\u00a0game. Like in the process, in the journey.\u00a0Iwas like, he turned his back on this\u00a0boy, man.\u00a0The way he played, Don was opening\u00a0him up like play yourself like you did\u00a0at Davidson, and it is what it\u00a0is and I remember the whole\u00a0sh*t going on with him and Monta, well it wasn't him and Monta, it was like the\u00a0media and everybody else and Monta, with Steph and Monta,\u00a0and I mean Monta is a hell of a player\u00a0bro, he was super underrated, still my guy, he was cold and I think that the way they\u00a0played they had, was too small of a back\u00a0court for back then.YouTube",
-        "text_html": "Q. There was a moment they were they could have traded Stephen Curry. They were going to choose between him and Monta Ellis. Anthony Morrow: Yeah. Q. Was the belief when you were in practices, was the energy like, they fully have bought into Steph or was it kind of like we don't know, it's a little wobbly, like do they believe in him? I know Mark Jackson eventually did, but what was it like those early years? Was it like you could tell that he's kind of like a trial run with them or was it like he's the face of this franchise? Anthony Morrow: Day one. They started him first game of the season against Houston. He played well. It's like he had like 17, but he had like a terrible turnover that lost the game. <a href=\"https://www.youtube.com/watch?v=oMrfgeMI4mE\" target=\"_blank\" style=\"color: #1a73e8;\">And like I remember all the vets like he ain't ready to play, he ain't this, he ain't that. I'm like Don Nelson is not turning his back on him. He chose him. He's not turning his back, and it was just part of the game. Like in the process, in the journey. I</a> was like, he turned his back on this boy, man. The way he played, Don was opening him up like play yourself like you did at Davidson, and it is what it is and I remember the whole sh*t going on with him and Monta, well it wasn't him and Monta, it was like the media and everybody else and Monta, with Steph and Monta, and I mean Monta is a hell of a player bro, he was super underrated, still my guy, he was cold and I think that the way they played they had, was too small of a back court for back then.",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=oMrfgeMI4mE"
-      }
     ]
   },
   "daily_counts": {
@@ -1196,8 +1035,7 @@
       "2026-02-20": 1,
       "2026-02-18": 2,
       "2026-02-17": 2,
-      "2026-02-16": 1,
-      "2026-02-15": 2
+      "2026-02-16": 1
     },
     "Jalen Johnson": {
       "2026-03-14": 2
@@ -1206,8 +1044,7 @@
       "2026-03-14": 1
     },
     "James Harden": {
-      "2026-03-13": 1,
-      "2026-02-15": 1
+      "2026-03-13": 1
     },
     "Brook Lopez": {
       "2026-03-13": 1
@@ -1221,8 +1058,7 @@
     },
     "Bobby Portis": {
       "2026-03-10": 2,
-      "2026-02-24": 1,
-      "2026-02-15": 1
+      "2026-02-24": 1
     },
     "Fred VanVleet": {
       "2026-03-10": 1
@@ -1283,8 +1119,7 @@
       "2026-02-24": 1
     },
     "LeBron James": {
-      "2026-02-24": 1,
-      "2026-02-15": 1
+      "2026-02-24": 1
     },
     "Domantas Sabonis": {
       "2026-02-24": 1,
@@ -1319,24 +1154,6 @@
     },
     "Julius Randle": {
       "2026-02-16": 1
-    },
-    "Kyrie Irving": {
-      "2026-02-15": 1
-    },
-    "Cooper Flagg": {
-      "2026-02-15": 1
-    },
-    "Dennis Schroeder": {
-      "2026-02-15": 1
-    },
-    "Donovan Mitchell": {
-      "2026-02-15": 1
-    },
-    "Keon Ellis": {
-      "2026-02-15": 1
-    },
-    "Stephen Curry": {
-      "2026-02-15": 1
     }
   }
 }
