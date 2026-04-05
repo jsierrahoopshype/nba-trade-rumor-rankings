@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-04-04T19:31:05.446440",
+  "generated_at": "2026-04-05T03:53:38.271294",
   "scrape_window_days": 28,
-  "window_start": "2026-03-07",
-  "window_end": "2026-04-04",
-  "total_rumors": 96,
-  "total_players": 49,
+  "window_start": "2026-03-08",
+  "window_end": "2026-04-05",
+  "total_rumors": 94,
+  "total_players": 48,
   "rankings": [
     {
       "player": "Giannis Antetokounmpo",
-      "score": 8.25,
+      "score": 7.0,
       "mentions_week1": 1,
-      "mentions_week2": 8,
-      "mentions_weeks3_4": 13,
+      "mentions_week2": 3,
+      "mentions_weeks3_4": 18,
       "total_mentions": 22,
       "first_mention": "2026-03-10",
       "last_mention": "2026-04-01",
@@ -127,18 +127,6 @@
       "rank": 10
     },
     {
-      "player": "Ja Morant",
-      "score": 1.25,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 2,
-      "first_mention": "2026-03-07",
-      "last_mention": "2026-03-29",
-      "team": "Memphis Grizzlies",
-      "rank": 11
-    },
-    {
       "player": "James Harden",
       "score": 1.25,
       "mentions_week1": 1,
@@ -148,7 +136,7 @@
       "first_mention": "2026-03-13",
       "last_mention": "2026-03-30",
       "team": "Los Angeles Clippers",
-      "rank": 12
+      "rank": 11
     },
     {
       "player": "Jared McCain",
@@ -160,7 +148,7 @@
       "first_mention": "2026-03-09",
       "last_mention": "2026-03-23",
       "team": "Philadelphia 76ers",
-      "rank": 13
+      "rank": 12
     },
     {
       "player": "Cameron Johnson",
@@ -172,7 +160,7 @@
       "first_mention": "2026-04-03",
       "last_mention": "2026-04-03",
       "team": "Denver Nuggets",
-      "rank": 14
+      "rank": 13
     },
     {
       "player": "DeMar DeRozan",
@@ -184,7 +172,7 @@
       "first_mention": "2026-04-03",
       "last_mention": "2026-04-03",
       "team": "Sacramento Kings",
-      "rank": 15
+      "rank": 14
     },
     {
       "player": "Domantas Sabonis",
@@ -196,7 +184,7 @@
       "first_mention": "2026-04-03",
       "last_mention": "2026-04-03",
       "team": "Sacramento Kings",
-      "rank": 16
+      "rank": 15
     },
     {
       "player": "Donovan Mitchell",
@@ -208,7 +196,7 @@
       "first_mention": "2026-04-03",
       "last_mention": "2026-04-03",
       "team": "Cleveland Cavaliers",
-      "rank": 17
+      "rank": 16
     },
     {
       "player": "Draymond Green",
@@ -220,6 +208,18 @@
       "first_mention": "2026-04-01",
       "last_mention": "2026-04-01",
       "team": "Golden State Warriors",
+      "rank": 17
+    },
+    {
+      "player": "Ja Morant",
+      "score": 1.0,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-03-29",
+      "last_mention": "2026-03-29",
+      "team": "Memphis Grizzlies",
       "rank": 18
     },
     {
@@ -331,18 +331,6 @@
       "rank": 27
     },
     {
-      "player": "VJ Edgecombe",
-      "score": 0.75,
-      "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 2,
-      "first_mention": "2026-03-09",
-      "last_mention": "2026-03-21",
-      "team": "Cleveland Cavaliers",
-      "rank": 28
-    },
-    {
       "player": "Buddy Hield",
       "score": 0.5,
       "mentions_week1": 0,
@@ -352,7 +340,7 @@
       "first_mention": "2026-03-20",
       "last_mention": "2026-03-20",
       "team": "Golden State Warriors",
-      "rank": 29
+      "rank": 28
     },
     {
       "player": "Dennis Schroeder",
@@ -364,7 +352,7 @@
       "first_mention": "2026-03-18",
       "last_mention": "2026-03-18",
       "team": "Atlanta Hawks",
-      "rank": 30
+      "rank": 29
     },
     {
       "player": "Jalen Johnson",
@@ -376,7 +364,7 @@
       "first_mention": "2026-03-14",
       "last_mention": "2026-03-14",
       "team": "Atlanta Hawks",
-      "rank": 31
+      "rank": 30
     },
     {
       "player": "Terry Rozier",
@@ -388,43 +376,19 @@
       "first_mention": "2026-03-09",
       "last_mention": "2026-03-09",
       "team": "Miami Heat",
-      "rank": 32
+      "rank": 31
     },
     {
-      "player": "Bismack Biyombo",
+      "player": "VJ Edgecombe",
       "score": 0.5,
       "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-03-21",
-      "last_mention": "2026-03-21",
-      "team": "San Antonio Spurs",
-      "rank": 33
-    },
-    {
-      "player": "Evan Mobley",
-      "score": 0.5,
-      "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-03-21",
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 2,
+      "total_mentions": 2,
+      "first_mention": "2026-03-09",
       "last_mention": "2026-03-21",
       "team": "Cleveland Cavaliers",
-      "rank": 34
-    },
-    {
-      "player": "Keldon Johnson",
-      "score": 0.5,
-      "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-03-21",
-      "last_mention": "2026-03-21",
-      "team": "San Antonio Spurs",
-      "rank": 35
+      "rank": 32
     },
     {
       "player": "Amen Thompson",
@@ -436,7 +400,7 @@
       "first_mention": "2026-03-18",
       "last_mention": "2026-03-18",
       "team": "Houston Rockets",
-      "rank": 36
+      "rank": 33
     },
     {
       "player": "Ayo Dosunmu",
@@ -448,7 +412,7 @@
       "first_mention": "2026-03-18",
       "last_mention": "2026-03-18",
       "team": "Chicago Bulls",
-      "rank": 37
+      "rank": 34
     },
     {
       "player": "Bilal Coulibaly",
@@ -460,7 +424,19 @@
       "first_mention": "2026-03-16",
       "last_mention": "2026-03-16",
       "team": "Washington Wizards",
-      "rank": 38
+      "rank": 35
+    },
+    {
+      "player": "Bismack Biyombo",
+      "score": 0.25,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 1,
+      "first_mention": "2026-03-21",
+      "last_mention": "2026-03-21",
+      "team": "San Antonio Spurs",
+      "rank": 36
     },
     {
       "player": "Brook Lopez",
@@ -472,7 +448,19 @@
       "first_mention": "2026-03-13",
       "last_mention": "2026-03-13",
       "team": "Los Angeles Clippers",
-      "rank": 39
+      "rank": 37
+    },
+    {
+      "player": "Evan Mobley",
+      "score": 0.25,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 1,
+      "first_mention": "2026-03-21",
+      "last_mention": "2026-03-21",
+      "team": "Cleveland Cavaliers",
+      "rank": 38
     },
     {
       "player": "Fred VanVleet",
@@ -484,7 +472,7 @@
       "first_mention": "2026-03-10",
       "last_mention": "2026-03-10",
       "team": "Atlanta Hawks",
-      "rank": 40
+      "rank": 39
     },
     {
       "player": "Isaac Okoro",
@@ -496,19 +484,7 @@
       "first_mention": "2026-03-20",
       "last_mention": "2026-03-20",
       "team": "Chicago Bulls",
-      "rank": 41
-    },
-    {
-      "player": "Jaren Jackson Jr",
-      "score": 0.25,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 1,
-      "first_mention": "2026-03-07",
-      "last_mention": "2026-03-07",
-      "team": "Los Angeles Clippers",
-      "rank": 42
+      "rank": 40
     },
     {
       "player": "Jaylen Brown",
@@ -520,7 +496,7 @@
       "first_mention": "2026-03-12",
       "last_mention": "2026-03-12",
       "team": "Boston Celtics",
-      "rank": 43
+      "rank": 41
     },
     {
       "player": "Josh Green",
@@ -532,7 +508,19 @@
       "first_mention": "2026-03-09",
       "last_mention": "2026-03-09",
       "team": "Charlotte Hornets",
-      "rank": 44
+      "rank": 42
+    },
+    {
+      "player": "Keldon Johnson",
+      "score": 0.25,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 1,
+      "first_mention": "2026-03-21",
+      "last_mention": "2026-03-21",
+      "team": "San Antonio Spurs",
+      "rank": 43
     },
     {
       "player": "Kevin Durant",
@@ -544,7 +532,7 @@
       "first_mention": "2026-03-18",
       "last_mention": "2026-03-18",
       "team": "Houston Rockets",
-      "rank": 45
+      "rank": 44
     },
     {
       "player": "Kristaps Porzingis",
@@ -556,7 +544,7 @@
       "first_mention": "2026-03-20",
       "last_mention": "2026-03-20",
       "team": "Atlanta Hawks",
-      "rank": 46
+      "rank": 45
     },
     {
       "player": "Lonzo Ball",
@@ -568,7 +556,7 @@
       "first_mention": "2026-03-20",
       "last_mention": "2026-03-20",
       "team": "Cleveland Cavaliers",
-      "rank": 47
+      "rank": 46
     },
     {
       "player": "Onyeka Okongwu",
@@ -580,7 +568,7 @@
       "first_mention": "2026-03-14",
       "last_mention": "2026-03-14",
       "team": "Atlanta Hawks",
-      "rank": 48
+      "rank": 47
     },
     {
       "player": "Tyrese Maxey",
@@ -592,7 +580,7 @@
       "first_mention": "2026-03-09",
       "last_mention": "2026-03-09",
       "team": "Philadelphia 76ers",
-      "rank": 49
+      "rank": 48
     }
   ],
   "player_rumors": {
@@ -1055,13 +1043,6 @@
         "text_html": "NBA Courtside: <a href=\"http://twitter.com/NBA__Courtside/status/2038256879281873271\" target=\"_blank\" style=\"color: #1a73e8;\">Joe Johnson thinks Ja Morant would thrive if he got traded to the Miami Heat in the offseason: \u201cI\u2019m not going to lie, I think he would thrive in that Miami situation. One thing about Pat Riley, he\u2019s going to have a real sit down 1 on 1 with him. He does that with everybody.</a> It\u2019s going to be something in that meeting you\u2019ll be able to take, and run with. All you got to do is apply it. If you apply it, I promise you the sky will be the limit for this kid again\u2026 I want to see Ja back out there throwing grenades, covering his ears\u2026 I never went to the club when I played for the Heat. We worked so hard I couldn\u2019t wait to go lay down\u201d (Via @NightcapShow_ )",
         "outlet": "Twitter",
         "source_url": "http://twitter.com/NBA__Courtside/status/2038256879281873271"
-      },
-      {
-        "date": "2026-03-07",
-        "text": "A lot has changed around the Grizzlies and with Morant in that time \u2014 in particular, the absence of Jaren Jackson Jr., who was part of an eight-player deal on Feb. 3 that sent him to the Utah Jazz. Morant called the trade deadline \"difficult.\"\"I wasn't a fan of it, but it's a business, so, like I told him, he's been a pro for eight years now, so continue to be that,\" Morant said March 7 ahead of the Grizzlies' game against the Los Angeles Clippers.Memphis Commercial Appeal",
-        "text_html": "A lot has changed around the Grizzlies and with Morant in that time \u2014 in particular, the absence of Jaren Jackson Jr., who was part of an eight-player deal on Feb. 3 that sent him to the Utah Jazz. Morant called the trade deadline \"difficult.\" <a href=\"https://www.commercialappeal.com/story/sports/nba/grizzlies/2026/03/07/ja-morant-trade-rumors-memphis-grizzlies-jaren-jackson-jr/88898239007/\" target=\"_blank\" style=\"color: #1a73e8;\">\"I wasn't a fan of it, but it's a business, so, like I told him, he's been a pro for eight years now, so continue to be that,\" Morant said March 7 ahead of the Grizzlies' game against the Los Angeles Clippers</a>.",
-        "outlet": "Memphis Commercial Appeal",
-        "source_url": "https://www.commercialappeal.com/story/sports/nba/grizzlies/2026/03/07/ja-morant-trade-rumors-memphis-grizzlies-jaren-jackson-jr/88898239007/"
       }
     ],
     "Jared McCain": [
@@ -1356,15 +1337,6 @@
         "outlet": "YouTube",
         "source_url": "https://www.youtube.com/watch?v=iGPYDwzzYAU"
       }
-    ],
-    "Jaren Jackson Jr": [
-      {
-        "date": "2026-03-07",
-        "text": "A lot has changed around the Grizzlies and with Morant in that time \u2014 in particular, the absence of Jaren Jackson Jr., who was part of an eight-player deal on Feb. 3 that sent him to the Utah Jazz. Morant called the trade deadline \"difficult.\"\"I wasn't a fan of it, but it's a business, so, like I told him, he's been a pro for eight years now, so continue to be that,\" Morant said March 7 ahead of the Grizzlies' game against the Los Angeles Clippers.Memphis Commercial Appeal",
-        "text_html": "A lot has changed around the Grizzlies and with Morant in that time \u2014 in particular, the absence of Jaren Jackson Jr., who was part of an eight-player deal on Feb. 3 that sent him to the Utah Jazz. Morant called the trade deadline \"difficult.\" <a href=\"https://www.commercialappeal.com/story/sports/nba/grizzlies/2026/03/07/ja-morant-trade-rumors-memphis-grizzlies-jaren-jackson-jr/88898239007/\" target=\"_blank\" style=\"color: #1a73e8;\">\"I wasn't a fan of it, but it's a business, so, like I told him, he's been a pro for eight years now, so continue to be that,\" Morant said March 7 ahead of the Grizzlies' game against the Los Angeles Clippers</a>.",
-        "outlet": "Memphis Commercial Appeal",
-        "source_url": "https://www.commercialappeal.com/story/sports/nba/grizzlies/2026/03/07/ja-morant-trade-rumors-memphis-grizzlies-jaren-jackson-jr/88898239007/"
-      }
     ]
   },
   "daily_counts": {
@@ -1457,8 +1429,7 @@
       "2026-03-30": 1
     },
     "Ja Morant": {
-      "2026-03-29": 1,
-      "2026-03-07": 1
+      "2026-03-29": 1
     },
     "Jared McCain": {
       "2026-03-23": 1,
@@ -1535,9 +1506,6 @@
     },
     "Josh Green": {
       "2026-03-09": 1
-    },
-    "Jaren Jackson Jr": {
-      "2026-03-07": 1
     }
   }
 }
