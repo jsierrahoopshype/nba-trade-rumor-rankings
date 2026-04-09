@@ -1,34 +1,22 @@
 {
-  "generated_at": "2026-04-08T19:58:44.878714",
+  "generated_at": "2026-04-09T03:47:13.646316",
   "scrape_window_days": 28,
-  "window_start": "2026-03-11",
-  "window_end": "2026-04-08",
+  "window_start": "2026-03-12",
+  "window_end": "2026-04-09",
   "total_rumors": 123,
   "total_players": 53,
   "rankings": [
     {
       "player": "Giannis Antetokounmpo",
-      "score": 25.25,
-      "mentions_week1": 20,
-      "mentions_week2": 2,
+      "score": 24.75,
+      "mentions_week1": 19,
+      "mentions_week2": 3,
       "mentions_weeks3_4": 17,
       "total_mentions": 39,
       "first_mention": "2026-03-14",
       "last_mention": "2026-04-08",
       "team": "Milwaukee Bucks",
       "rank": 1
-    },
-    {
-      "player": "Luka Doncic",
-      "score": 5.0,
-      "mentions_week1": 5,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 5,
-      "first_mention": "2026-04-01",
-      "last_mention": "2026-04-08",
-      "team": "Los Angeles Lakers",
-      "rank": 2
     },
     {
       "player": "Anthony Davis",
@@ -40,6 +28,18 @@
       "first_mention": "2026-03-16",
       "last_mention": "2026-04-08",
       "team": "Dallas Mavericks",
+      "rank": 2
+    },
+    {
+      "player": "Luka Doncic",
+      "score": 3.5,
+      "mentions_week1": 2,
+      "mentions_week2": 3,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 5,
+      "first_mention": "2026-04-01",
+      "last_mention": "2026-04-08",
+      "team": "Los Angeles Lakers",
       "rank": 3
     },
     {
@@ -56,27 +56,15 @@
     },
     {
       "player": "Draymond Green",
-      "score": 3.0,
-      "mentions_week1": 3,
-      "mentions_week2": 0,
+      "score": 2.5,
+      "mentions_week1": 2,
+      "mentions_week2": 1,
       "mentions_weeks3_4": 0,
       "total_mentions": 3,
       "first_mention": "2026-04-01",
       "last_mention": "2026-04-08",
       "team": "Golden State Warriors",
       "rank": 5
-    },
-    {
-      "player": "Zion Williamson",
-      "score": 3.0,
-      "mentions_week1": 3,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 3,
-      "first_mention": "2026-04-01",
-      "last_mention": "2026-04-01",
-      "team": "New Orleans Pelicans",
-      "rank": 6
     },
     {
       "player": "Ja Morant",
@@ -88,19 +76,7 @@
       "first_mention": "2026-03-29",
       "last_mention": "2026-04-08",
       "team": "Memphis Grizzlies",
-      "rank": 7
-    },
-    {
-      "player": "LeBron James",
-      "score": 2.5,
-      "mentions_week1": 2,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 3,
-      "first_mention": "2026-03-29",
-      "last_mention": "2026-04-05",
-      "team": "Los Angeles Lakers",
-      "rank": 8
+      "rank": 6
     },
     {
       "player": "Kawhi Leonard",
@@ -112,7 +88,19 @@
       "first_mention": "2026-03-29",
       "last_mention": "2026-04-02",
       "team": "Los Angeles Clippers",
-      "rank": 9
+      "rank": 7
+    },
+    {
+      "player": "LeBron James",
+      "score": 2.0,
+      "mentions_week1": 1,
+      "mentions_week2": 2,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 3,
+      "first_mention": "2026-03-29",
+      "last_mention": "2026-04-05",
+      "team": "Los Angeles Lakers",
+      "rank": 8
     },
     {
       "player": "Jonathan Kuminga",
@@ -124,6 +112,18 @@
       "first_mention": "2026-03-20",
       "last_mention": "2026-04-07",
       "team": "Golden State Warriors",
+      "rank": 9
+    },
+    {
+      "player": "Zion Williamson",
+      "score": 1.5,
+      "mentions_week1": 0,
+      "mentions_week2": 3,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 3,
+      "first_mention": "2026-04-01",
+      "last_mention": "2026-04-01",
+      "team": "New Orleans Pelicans",
       "rank": 10
     },
     {
@@ -259,18 +259,6 @@
       "rank": 21
     },
     {
-      "player": "Jarrett Allen",
-      "score": 1.0,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-04-01",
-      "last_mention": "2026-04-01",
-      "team": "Cleveland Cavaliers",
-      "rank": 22
-    },
-    {
       "player": "Joel Embiid",
       "score": 1.0,
       "mentions_week1": 1,
@@ -280,7 +268,7 @@
       "first_mention": "2026-04-08",
       "last_mention": "2026-04-08",
       "team": "Philadelphia 76ers",
-      "rank": 23
+      "rank": 22
     },
     {
       "player": "Jrue Holiday",
@@ -292,7 +280,7 @@
       "first_mention": "2026-04-07",
       "last_mention": "2026-04-07",
       "team": "Portland Trail Blazers",
-      "rank": 24
+      "rank": 23
     },
     {
       "player": "Kel'el Ware",
@@ -304,7 +292,7 @@
       "first_mention": "2026-04-07",
       "last_mention": "2026-04-07",
       "team": "Miami Heat",
-      "rank": 25
+      "rank": 24
     },
     {
       "player": "Malik Monk",
@@ -316,7 +304,7 @@
       "first_mention": "2026-04-03",
       "last_mention": "2026-04-03",
       "team": "Sacramento Kings",
-      "rank": 26
+      "rank": 25
     },
     {
       "player": "Mark Williams",
@@ -328,7 +316,7 @@
       "first_mention": "2026-04-03",
       "last_mention": "2026-04-03",
       "team": "Phoenix Suns",
-      "rank": 27
+      "rank": 26
     },
     {
       "player": "Mikal Bridges",
@@ -340,7 +328,7 @@
       "first_mention": "2026-04-08",
       "last_mention": "2026-04-08",
       "team": "New York Knicks",
-      "rank": 28
+      "rank": 27
     },
     {
       "player": "Peyton Watson",
@@ -352,7 +340,7 @@
       "first_mention": "2026-04-03",
       "last_mention": "2026-04-03",
       "team": "Denver Nuggets",
-      "rank": 29
+      "rank": 28
     },
     {
       "player": "Tyler Herro",
@@ -364,7 +352,7 @@
       "first_mention": "2026-04-07",
       "last_mention": "2026-04-07",
       "team": "Miami Heat",
-      "rank": 30
+      "rank": 29
     },
     {
       "player": "Zach LaVine",
@@ -376,7 +364,7 @@
       "first_mention": "2026-04-03",
       "last_mention": "2026-04-03",
       "team": "Sacramento Kings",
-      "rank": 31
+      "rank": 30
     },
     {
       "player": "Ivica Zubac",
@@ -388,7 +376,7 @@
       "first_mention": "2026-03-13",
       "last_mention": "2026-03-30",
       "team": "Los Angeles Clippers",
-      "rank": 32
+      "rank": 31
     },
     {
       "player": "James Harden",
@@ -400,7 +388,7 @@
       "first_mention": "2026-03-13",
       "last_mention": "2026-03-30",
       "team": "Los Angeles Clippers",
-      "rank": 33
+      "rank": 32
     },
     {
       "player": "Buddy Hield",
@@ -412,7 +400,7 @@
       "first_mention": "2026-03-20",
       "last_mention": "2026-03-20",
       "team": "Golden State Warriors",
-      "rank": 34
+      "rank": 33
     },
     {
       "player": "Dennis Schroeder",
@@ -424,7 +412,7 @@
       "first_mention": "2026-03-18",
       "last_mention": "2026-03-18",
       "team": "Atlanta Hawks",
-      "rank": 35
+      "rank": 34
     },
     {
       "player": "Jalen Johnson",
@@ -436,6 +424,18 @@
       "first_mention": "2026-03-14",
       "last_mention": "2026-03-14",
       "team": "Atlanta Hawks",
+      "rank": 35
+    },
+    {
+      "player": "Jarrett Allen",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-04-01",
+      "last_mention": "2026-04-01",
+      "team": "Cleveland Cavaliers",
       "rank": 36
     },
     {
