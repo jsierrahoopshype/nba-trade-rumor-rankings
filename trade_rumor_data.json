@@ -1,22 +1,34 @@
 {
-  "generated_at": "2026-04-09T20:02:00.097882",
+  "generated_at": "2026-04-10T04:07:21.066079",
   "scrape_window_days": 28,
-  "window_start": "2026-03-12",
-  "window_end": "2026-04-09",
-  "total_rumors": 126,
-  "total_players": 53,
+  "window_start": "2026-03-13",
+  "window_end": "2026-04-10",
+  "total_rumors": 128,
+  "total_players": 52,
   "rankings": [
     {
       "player": "Giannis Antetokounmpo",
-      "score": 25.75,
+      "score": 25.5,
       "mentions_week1": 20,
-      "mentions_week2": 3,
-      "mentions_weeks3_4": 17,
+      "mentions_week2": 2,
+      "mentions_weeks3_4": 18,
       "total_mentions": 40,
       "first_mention": "2026-03-14",
       "last_mention": "2026-04-09",
       "team": "Milwaukee Bucks",
       "rank": 1
+    },
+    {
+      "player": "Ja Morant",
+      "score": 5.5,
+      "mentions_week1": 5,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 6,
+      "first_mention": "2026-03-29",
+      "last_mention": "2026-04-09",
+      "team": "Memphis Grizzlies",
+      "rank": 2
     },
     {
       "player": "Anthony Davis",
@@ -28,7 +40,7 @@
       "first_mention": "2026-03-16",
       "last_mention": "2026-04-08",
       "team": "Dallas Mavericks",
-      "rank": 2
+      "rank": 3
     },
     {
       "player": "Luka Doncic",
@@ -40,18 +52,6 @@
       "first_mention": "2026-04-01",
       "last_mention": "2026-04-08",
       "team": "Los Angeles Lakers",
-      "rank": 3
-    },
-    {
-      "player": "Aaron Gordon",
-      "score": 3.5,
-      "mentions_week1": 3,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 4,
-      "first_mention": "2026-03-26",
-      "last_mention": "2026-04-07",
-      "team": "Denver Nuggets",
       "rank": 4
     },
     {
@@ -67,28 +67,16 @@
       "rank": 5
     },
     {
-      "player": "Ja Morant",
-      "score": 2.5,
-      "mentions_week1": 2,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 3,
-      "first_mention": "2026-03-29",
-      "last_mention": "2026-04-08",
-      "team": "Memphis Grizzlies",
-      "rank": 6
-    },
-    {
-      "player": "Kawhi Leonard",
-      "score": 2.0,
+      "player": "Aaron Gordon",
+      "score": 2.25,
       "mentions_week1": 1,
       "mentions_week2": 2,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 3,
-      "first_mention": "2026-03-29",
-      "last_mention": "2026-04-02",
-      "team": "Los Angeles Clippers",
-      "rank": 7
+      "mentions_weeks3_4": 1,
+      "total_mentions": 4,
+      "first_mention": "2026-03-26",
+      "last_mention": "2026-04-07",
+      "team": "Denver Nuggets",
+      "rank": 6
     },
     {
       "player": "LeBron James",
@@ -100,7 +88,7 @@
       "first_mention": "2026-03-29",
       "last_mention": "2026-04-05",
       "team": "Los Angeles Lakers",
-      "rank": 8
+      "rank": 7
     },
     {
       "player": "Ivica Zubac",
@@ -112,7 +100,7 @@
       "first_mention": "2026-03-13",
       "last_mention": "2026-04-09",
       "team": "Los Angeles Clippers",
-      "rank": 9
+      "rank": 8
     },
     {
       "player": "James Harden",
@@ -124,7 +112,7 @@
       "first_mention": "2026-03-13",
       "last_mention": "2026-04-09",
       "team": "Los Angeles Clippers",
-      "rank": 10
+      "rank": 9
     },
     {
       "player": "Jonathan Kuminga",
@@ -136,6 +124,18 @@
       "first_mention": "2026-03-20",
       "last_mention": "2026-04-07",
       "team": "Golden State Warriors",
+      "rank": 10
+    },
+    {
+      "player": "Kawhi Leonard",
+      "score": 1.5,
+      "mentions_week1": 0,
+      "mentions_week2": 3,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 3,
+      "first_mention": "2026-03-29",
+      "last_mention": "2026-04-02",
+      "team": "Los Angeles Clippers",
       "rank": 11
     },
     {
@@ -151,30 +151,6 @@
       "rank": 12
     },
     {
-      "player": "Gary Harris",
-      "score": 1.5,
-      "mentions_week1": 1,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 2,
-      "first_mention": "2026-03-26",
-      "last_mention": "2026-04-02",
-      "team": "Denver Nuggets",
-      "rank": 13
-    },
-    {
-      "player": "Nikola Jokic",
-      "score": 1.5,
-      "mentions_week1": 1,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 2,
-      "first_mention": "2026-03-26",
-      "last_mention": "2026-04-02",
-      "team": "Denver Nuggets",
-      "rank": 14
-    },
-    {
       "player": "Kevin Durant",
       "score": 1.25,
       "mentions_week1": 1,
@@ -184,7 +160,7 @@
       "first_mention": "2026-03-18",
       "last_mention": "2026-04-07",
       "team": "Houston Rockets",
-      "rank": 15
+      "rank": 13
     },
     {
       "player": "Bronny James",
@@ -196,7 +172,7 @@
       "first_mention": "2026-04-05",
       "last_mention": "2026-04-05",
       "team": "Los Angeles Lakers",
-      "rank": 16
+      "rank": 14
     },
     {
       "player": "Cameron Johnson",
@@ -208,7 +184,7 @@
       "first_mention": "2026-04-03",
       "last_mention": "2026-04-03",
       "team": "Denver Nuggets",
-      "rank": 17
+      "rank": 15
     },
     {
       "player": "Dalton Knecht",
@@ -220,7 +196,7 @@
       "first_mention": "2026-04-05",
       "last_mention": "2026-04-05",
       "team": "Los Angeles Lakers",
-      "rank": 18
+      "rank": 16
     },
     {
       "player": "DeMar DeRozan",
@@ -232,7 +208,7 @@
       "first_mention": "2026-04-03",
       "last_mention": "2026-04-03",
       "team": "Sacramento Kings",
-      "rank": 19
+      "rank": 17
     },
     {
       "player": "Domantas Sabonis",
@@ -244,7 +220,7 @@
       "first_mention": "2026-04-03",
       "last_mention": "2026-04-03",
       "team": "Sacramento Kings",
-      "rank": 20
+      "rank": 18
     },
     {
       "player": "Donovan Mitchell",
@@ -256,7 +232,7 @@
       "first_mention": "2026-04-03",
       "last_mention": "2026-04-03",
       "team": "Cleveland Cavaliers",
-      "rank": 21
+      "rank": 19
     },
     {
       "player": "Jaden Ivey",
@@ -268,7 +244,7 @@
       "first_mention": "2026-04-06",
       "last_mention": "2026-04-06",
       "team": "Chicago Bulls",
-      "rank": 22
+      "rank": 20
     },
     {
       "player": "Jalen Green",
@@ -280,7 +256,7 @@
       "first_mention": "2026-04-07",
       "last_mention": "2026-04-07",
       "team": "Phoenix Suns",
-      "rank": 23
+      "rank": 21
     },
     {
       "player": "Joel Embiid",
@@ -292,7 +268,7 @@
       "first_mention": "2026-04-08",
       "last_mention": "2026-04-08",
       "team": "Philadelphia 76ers",
-      "rank": 24
+      "rank": 22
     },
     {
       "player": "Jrue Holiday",
@@ -304,7 +280,7 @@
       "first_mention": "2026-04-07",
       "last_mention": "2026-04-07",
       "team": "Portland Trail Blazers",
-      "rank": 25
+      "rank": 23
     },
     {
       "player": "Kel'el Ware",
@@ -316,7 +292,7 @@
       "first_mention": "2026-04-07",
       "last_mention": "2026-04-07",
       "team": "Miami Heat",
-      "rank": 26
+      "rank": 24
     },
     {
       "player": "Malik Monk",
@@ -328,7 +304,7 @@
       "first_mention": "2026-04-03",
       "last_mention": "2026-04-03",
       "team": "Sacramento Kings",
-      "rank": 27
+      "rank": 25
     },
     {
       "player": "Mark Williams",
@@ -340,7 +316,7 @@
       "first_mention": "2026-04-03",
       "last_mention": "2026-04-03",
       "team": "Phoenix Suns",
-      "rank": 28
+      "rank": 26
     },
     {
       "player": "Mikal Bridges",
@@ -352,7 +328,7 @@
       "first_mention": "2026-04-08",
       "last_mention": "2026-04-08",
       "team": "New York Knicks",
-      "rank": 29
+      "rank": 27
     },
     {
       "player": "Peyton Watson",
@@ -364,7 +340,7 @@
       "first_mention": "2026-04-03",
       "last_mention": "2026-04-03",
       "team": "Denver Nuggets",
-      "rank": 30
+      "rank": 28
     },
     {
       "player": "Tyler Herro",
@@ -376,7 +352,7 @@
       "first_mention": "2026-04-07",
       "last_mention": "2026-04-07",
       "team": "Miami Heat",
-      "rank": 31
+      "rank": 29
     },
     {
       "player": "Zach LaVine",
@@ -388,6 +364,30 @@
       "first_mention": "2026-04-03",
       "last_mention": "2026-04-03",
       "team": "Sacramento Kings",
+      "rank": 30
+    },
+    {
+      "player": "Gary Harris",
+      "score": 0.75,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 2,
+      "first_mention": "2026-03-26",
+      "last_mention": "2026-04-02",
+      "team": "Denver Nuggets",
+      "rank": 31
+    },
+    {
+      "player": "Nikola Jokic",
+      "score": 0.75,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 2,
+      "first_mention": "2026-03-26",
+      "last_mention": "2026-04-02",
+      "team": "Denver Nuggets",
       "rank": 32
     },
     {
@@ -571,18 +571,6 @@
       "rank": 47
     },
     {
-      "player": "Jaylen Brown",
-      "score": 0.25,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 1,
-      "first_mention": "2026-03-12",
-      "last_mention": "2026-03-12",
-      "team": "Boston Celtics",
-      "rank": 48
-    },
-    {
       "player": "Keldon Johnson",
       "score": 0.25,
       "mentions_week1": 0,
@@ -592,7 +580,7 @@
       "first_mention": "2026-03-21",
       "last_mention": "2026-03-21",
       "team": "San Antonio Spurs",
-      "rank": 49
+      "rank": 48
     },
     {
       "player": "Kristaps Porzingis",
@@ -604,7 +592,7 @@
       "first_mention": "2026-03-20",
       "last_mention": "2026-03-20",
       "team": "Atlanta Hawks",
-      "rank": 50
+      "rank": 49
     },
     {
       "player": "Lonzo Ball",
@@ -616,7 +604,7 @@
       "first_mention": "2026-03-20",
       "last_mention": "2026-03-20",
       "team": "Cleveland Cavaliers",
-      "rank": 51
+      "rank": 50
     },
     {
       "player": "Onyeka Okongwu",
@@ -628,7 +616,7 @@
       "first_mention": "2026-03-14",
       "last_mention": "2026-03-14",
       "team": "Atlanta Hawks",
-      "rank": 52
+      "rank": 51
     },
     {
       "player": "VJ Edgecombe",
@@ -640,10 +628,54 @@
       "first_mention": "2026-03-21",
       "last_mention": "2026-03-21",
       "team": "Cleveland Cavaliers",
-      "rank": 53
+      "rank": 52
     }
   ],
   "player_rumors": {
+    "Ja Morant": [
+      {
+        "date": "2026-04-09",
+        "text": "Signs of a fracture appeared during the Grizzlies\u2019 final regular-season home game against the Cleveland Cavaliers last Monday. During the team\u2019s \u201cFan Appreciation Night,\u201d every active player reportedly gave their jersey to a fan as a gesture of gratitude\u2014except for Morant. \u201cHe just stood there and watched his teammates give away their jerseys,\u201d an unnamed Grizzlies source shared. \u201cWho does that? The writing is on the wall.\u201dHowever, a separate team source indicated that the friction might be a two-way street. Ja Morant was reportedly notified just one hour before tip-off that he would not be participating in the giveaway, leaving him without a jersey to provide. \u201cHe\u2019s unhappy with how he\u2019s being treated,\u201d a source close to the situation claimed. \u201cHe feels alienated by the organization.\u201dScoopB.com",
+        "text_html": "<a href=\"https://scoopb.com/2026/04/grizzlies-offseason-of-uncertainty-is-ja-morants-departure-inevitable/\" target=\"_blank\" style=\"color: #1a73e8;\">Signs of a fracture appeared during the Grizzlies\u2019 final regular-season home game against the Cleveland Cavaliers last Monday. During the team\u2019s \u201cFan Appreciation Night,\u201d every active player reportedly gave their jersey to a fan as a gesture of gratitude\u2014except for Morant. \u201cHe just stood there and watched his teammates give away their jerseys,\u201d an unnamed Grizzlies source shared. \u201cWho does that? The writing is on the wall.\u201d</a> However, a separate team source indicated that the friction might be a two-way street. Ja Morant was reportedly notified just one hour before tip-off that he would not be participating in the giveaway, leaving him without a jersey to provide. \u201cHe\u2019s unhappy with how he\u2019s being treated,\u201d a source close to the situation claimed. \u201cHe feels alienated by the organization.\u201d",
+        "outlet": "ScoopB.com",
+        "source_url": "https://scoopb.com/2026/04/grizzlies-offseason-of-uncertainty-is-ja-morants-departure-inevitable/"
+      },
+      {
+        "date": "2026-04-09",
+        "text": "According to a source close to Morant, the All-Star was largely kept in the dark regarding the interest from other teams. \u201cJa didn\u2019t know who was coming at him until after the deadline,\u201d the source said. \u201cIt was painted as if nobody wanted him, but that wasn\u2019t the reality.\u201dWhile a move to a team of his choice remains the goal, indications suggest that if a trade occurs this offseason, Morant may be less focused on a specific city and more on a fresh start. \u201cHe wants to go somewhere he can prove his worth,\u201d the source added. \u201cSomeone who actually wants him and where he can just play basketball.\u201dScoopB.com",
+        "text_html": "<a href=\"https://scoopb.com/2026/04/grizzlies-offseason-of-uncertainty-is-ja-morants-departure-inevitable/\" target=\"_blank\" style=\"color: #1a73e8;\">According to a source close to Morant, the All-Star was largely kept in the dark regarding the interest from other teams. \u201cJa didn\u2019t know who was coming at him until after the deadline,\u201d the source said. \u201cIt was painted as if nobody wanted him, but that wasn\u2019t the reality.\u201d</a> While a move to a team of his choice remains the goal, indications suggest that if a trade occurs this offseason, Morant may be less focused on a specific city and more on a fresh start. \u201cHe wants to go somewhere he can prove his worth,\u201d the source added. \u201cSomeone who actually wants him and where he can just play basketball.\u201d",
+        "outlet": "ScoopB.com",
+        "source_url": "https://scoopb.com/2026/04/grizzlies-offseason-of-uncertainty-is-ja-morants-departure-inevitable/"
+      },
+      {
+        "date": "2026-04-09",
+        "text": "Speculation reached a fever pitch recently when Morant\u2019s Memphis-area home was listed for sale at $3.5 million. While fans viewed this as a definitive \u201cgoodbye,\u201d those within Morant\u2019s inner circle are downplaying the move.\u201cHe still has two other houses,\u201d a source rebuffed, suggesting the sale might be a simple real estate correction rather than a suitcase packed for Miami. Whether it is a change of address or a change of scenery, the next few months will determine if the Ja Morant era in Memphis has truly run its course.ScoopB.com",
+        "text_html": "Speculation reached a fever pitch recently when Morant\u2019s Memphis-area home was listed for sale at $3.5 million. While fans viewed this as a definitive \u201cgoodbye,\u201d those within Morant\u2019s inner circle are downplaying the move. <a href=\"https://scoopb.com/2026/04/grizzlies-offseason-of-uncertainty-is-ja-morants-departure-inevitable/\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cHe still has two other houses,\u201d a source rebuffed, suggesting the sale might be a simple real estate correction rather than a suitcase packed for Miami. Whether it is a change of address or a change of scenery, the next few months will determine if the Ja Morant era in Memphis has truly run its course</a>.",
+        "outlet": "ScoopB.com",
+        "source_url": "https://scoopb.com/2026/04/grizzlies-offseason-of-uncertainty-is-ja-morants-departure-inevitable/"
+      },
+      {
+        "date": "2026-04-08",
+        "text": "Anthony Davis on trade to Lakers: It was tough though because when Rich Paul\u00a0was telling me like you got to go to the\u00a0media\u2026 and I never talked about this by\u00a0the way. You\u2019re getting the first\u00a0clues. I've never\u00a0spoken\u00a0to anybody\u00a0about this. Draymond Green: Appreciated. Davis: When Rich\u00a0told\u00a0me like you have to go and say I was like no, hell no.\u00a0Be a villain? man\u2026 change teams? I was scared. Like I didn't at first I didn't\u00a0want to be traded cuz I'm like change is\u00a0change is different man. Change is hard. I started doubting myself like\u00a0man I know I can do in New Orleans. I'm\u00a0going to get all the balls. I'm about to go\u00a0play with LeBron, spotlight. I\u2019m gonna play\u00a0with Rondo. Like I'm about to play with\u00a0all these players in LA\u2026 I'm about to go play with\u00a0some guys. And it's like I am I ready\u00a0for that? I wasn't sure, you\u00a0know, so I'm like, man, I don't know.\u00a0Let's figure this out over here, you\u00a0know? I hit Bron like, bro, you want to\u00a0come over here? Like everybody trying to\u00a0figure it out so I didn't have to leave.\u00a0So because I was comfortable, and I'm glad I did make the\u00a0make the change, but that sh*t was tough when\u00a0he was telling me what I had to do, and\u00a0I was like, man,\u00a0but at the day, I had to\u00a0grow up and do what's best for me and let the rest\u00a0take care ofitself.\u00a0Green: So Ja Morant gets drafted number one\u00a0instead of Zion and you're probably\u00a0still a New Orleans Pelican. Davis: I think. Yep. I\u2019d probably still be\u00a0in New Orleans. Green: And you asked David Griffin\u00a0to draft Ja Morant, and he didn\u2019t.YouTube",
+        "text_html": "Anthony Davis on trade to Lakers: It was tough though because when Rich Paul was telling me like you got to go to the media\u2026 and I never talked about this by the way. You\u2019re getting the first clues. I've never spoken to anybody about this. Draymond Green: Appreciated. Davis: When Rich told me like you have to go and say I was like no, hell no. Be a villain? man\u2026 change teams? I was scared. Like I didn't at first I didn't want to be traded cuz I'm like change is change is different man. Change is hard. I started doubting myself like man I know I can do in New Orleans. I'm going to get all the balls. I'm about to go play with LeBron, spotlight. I\u2019m gonna play with Rondo. Like I'm about to play with all these players in LA\u2026 I'm about to go play with some guys. And it's like I am I ready for that? I wasn't sure, you know, so I'm like, man, I don't know. Let's figure this out over here, you know? I hit Bron like, bro, you want to come over here? Like everybody trying to figure it out so I didn't have to leave. So because I was comfortable, and I'm glad I did make the make the change, but that sh*t was tough when he was telling me what I had to do, and I was like, man, but at the day, I had to grow up and do what's best for me and let the rest take care of <a href=\"https://www.youtube.com/watch?v=eESLCDwZLdo&t=2242s\" target=\"_blank\" style=\"color: #1a73e8;\">itself. Green: So Ja Morant gets drafted number one instead of Zion and you're probably still a New Orleans Pelican. Davis: I think. Yep. I\u2019d probably still be in New Orleans. Green: And you asked David Griffin to draft Ja Morant, and he didn\u2019t</a>.",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=eESLCDwZLdo&t=2242s"
+      },
+      {
+        "date": "2026-04-08",
+        "text": "Oh Giannis. Zach Lowe dedicated 230 minutes to Giannis Antetokounmpo on his podcast, more than 2x the minutes dedicated to the second most discussed player (Ja Morant) and more than 3x the third (Anthony Davis).Zach clearly loves prognosticating about trade candidates and where they\u2019ll end up, and you can see the discussion around all three players pick up ahead of the early February trade deadline.Charting Hoops",
+        "text_html": "<a href=\"https://chartinghoops.substack.com/p/the-zach-lowe-teams\" target=\"_blank\" style=\"color: #1a73e8;\">Oh Giannis. Zach Lowe dedicated 230 minutes to Giannis Antetokounmpo on his podcast, more than 2x the minutes dedicated to the second most discussed player (Ja Morant) and more than 3x the third (Anthony Davis).</a> Zach clearly loves prognosticating about trade candidates and where they\u2019ll end up, and you can see the discussion around all three players pick up ahead of the early February trade deadline.",
+        "outlet": "Charting Hoops",
+        "source_url": "https://chartinghoops.substack.com/p/the-zach-lowe-teams"
+      },
+      {
+        "date": "2026-03-29",
+        "text": "NBA Courtside:Joe Johnson thinks Ja Morant would thrive if he got traded to the Miami Heat in the offseason: \u201cI\u2019m not going to lie, I think he would thrive in that Miami situation. One thing about Pat Riley, he\u2019s going to have a real sit down 1 on 1 with him. He does that with everybody.It\u2019s going to be something in that meeting you\u2019ll be able to take, and run with. All you got to do is apply it. If you apply it, I promise you the sky will be the limit for this kid again\u2026 I want to see Ja back out there throwing grenades, covering his ears\u2026 I never went to the club when I played for the Heat. We worked so hard I couldn\u2019t wait to go lay down\u201d (Via @NightcapShow_ )Twitter",
+        "text_html": "NBA Courtside: <a href=\"http://twitter.com/NBA__Courtside/status/2038256879281873271\" target=\"_blank\" style=\"color: #1a73e8;\">Joe Johnson thinks Ja Morant would thrive if he got traded to the Miami Heat in the offseason: \u201cI\u2019m not going to lie, I think he would thrive in that Miami situation. One thing about Pat Riley, he\u2019s going to have a real sit down 1 on 1 with him. He does that with everybody.</a> It\u2019s going to be something in that meeting you\u2019ll be able to take, and run with. All you got to do is apply it. If you apply it, I promise you the sky will be the limit for this kid again\u2026 I want to see Ja back out there throwing grenades, covering his ears\u2026 I never went to the club when I played for the Heat. We worked so hard I couldn\u2019t wait to go lay down\u201d (Via @NightcapShow_ )",
+        "outlet": "Twitter",
+        "source_url": "http://twitter.com/NBA__Courtside/status/2038256879281873271"
+      }
+    ],
     "James Harden": [
       {
         "date": "2026-04-09",
@@ -1037,29 +1069,6 @@
         "text_html": "Draymond Green could opt out and test unrestricted free agency again this summer. League sources said a reroute to the Los Angeles teams were on his radar when the idea of a possible trade surfaced. <a href=\"https://www.espn.com/nba/story/_/id/48359923/draymond-green-reflects-future-amid-uncertainty-golden-state-warriors\" target=\"_blank\" style=\"color: #1a73e8;\">But the opt-out to test unrestricted free agency isn't a route team or league sources are predicting. The expectation is that Green will either opt in -- keeping him as a bulky $27.6 million expiring deal that the Warriors could either hold or move -- or work out a multiyear extension</a> starting at a lower number, signaling a greater likelihood he finishes his career with the Warriors.",
         "outlet": "ESPN",
         "source_url": "https://www.espn.com/nba/story/_/id/48359923/draymond-green-reflects-future-amid-uncertainty-golden-state-warriors"
-      }
-    ],
-    "Ja Morant": [
-      {
-        "date": "2026-04-08",
-        "text": "Anthony Davis on trade to Lakers: It was tough though because when Rich Paul\u00a0was telling me like you got to go to the\u00a0media\u2026 and I never talked about this by\u00a0the way. You\u2019re getting the first\u00a0clues. I've never\u00a0spoken\u00a0to anybody\u00a0about this. Draymond Green: Appreciated. Davis: When Rich\u00a0told\u00a0me like you have to go and say I was like no, hell no.\u00a0Be a villain? man\u2026 change teams? I was scared. Like I didn't at first I didn't\u00a0want to be traded cuz I'm like change is\u00a0change is different man. Change is hard. I started doubting myself like\u00a0man I know I can do in New Orleans. I'm\u00a0going to get all the balls. I'm about to go\u00a0play with LeBron, spotlight. I\u2019m gonna play\u00a0with Rondo. Like I'm about to play with\u00a0all these players in LA\u2026 I'm about to go play with\u00a0some guys. And it's like I am I ready\u00a0for that? I wasn't sure, you\u00a0know, so I'm like, man, I don't know.\u00a0Let's figure this out over here, you\u00a0know? I hit Bron like, bro, you want to\u00a0come over here? Like everybody trying to\u00a0figure it out so I didn't have to leave.\u00a0So because I was comfortable, and I'm glad I did make the\u00a0make the change, but that sh*t was tough when\u00a0he was telling me what I had to do, and\u00a0I was like, man,\u00a0but at the day, I had to\u00a0grow up and do what's best for me and let the rest\u00a0take care ofitself.\u00a0Green: So Ja Morant gets drafted number one\u00a0instead of Zion and you're probably\u00a0still a New Orleans Pelican. Davis: I think. Yep. I\u2019d probably still be\u00a0in New Orleans. Green: And you asked David Griffin\u00a0to draft Ja Morant, and he didn\u2019t.YouTube",
-        "text_html": "Anthony Davis on trade to Lakers: It was tough though because when Rich Paul was telling me like you got to go to the media\u2026 and I never talked about this by the way. You\u2019re getting the first clues. I've never spoken to anybody about this. Draymond Green: Appreciated. Davis: When Rich told me like you have to go and say I was like no, hell no. Be a villain? man\u2026 change teams? I was scared. Like I didn't at first I didn't want to be traded cuz I'm like change is change is different man. Change is hard. I started doubting myself like man I know I can do in New Orleans. I'm going to get all the balls. I'm about to go play with LeBron, spotlight. I\u2019m gonna play with Rondo. Like I'm about to play with all these players in LA\u2026 I'm about to go play with some guys. And it's like I am I ready for that? I wasn't sure, you know, so I'm like, man, I don't know. Let's figure this out over here, you know? I hit Bron like, bro, you want to come over here? Like everybody trying to figure it out so I didn't have to leave. So because I was comfortable, and I'm glad I did make the make the change, but that sh*t was tough when he was telling me what I had to do, and I was like, man, but at the day, I had to grow up and do what's best for me and let the rest take care of <a href=\"https://www.youtube.com/watch?v=eESLCDwZLdo&t=2242s\" target=\"_blank\" style=\"color: #1a73e8;\">itself. Green: So Ja Morant gets drafted number one instead of Zion and you're probably still a New Orleans Pelican. Davis: I think. Yep. I\u2019d probably still be in New Orleans. Green: And you asked David Griffin to draft Ja Morant, and he didn\u2019t</a>.",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=eESLCDwZLdo&t=2242s"
-      },
-      {
-        "date": "2026-04-08",
-        "text": "Oh Giannis. Zach Lowe dedicated 230 minutes to Giannis Antetokounmpo on his podcast, more than 2x the minutes dedicated to the second most discussed player (Ja Morant) and more than 3x the third (Anthony Davis).Zach clearly loves prognosticating about trade candidates and where they\u2019ll end up, and you can see the discussion around all three players pick up ahead of the early February trade deadline.Charting Hoops",
-        "text_html": "<a href=\"https://chartinghoops.substack.com/p/the-zach-lowe-teams\" target=\"_blank\" style=\"color: #1a73e8;\">Oh Giannis. Zach Lowe dedicated 230 minutes to Giannis Antetokounmpo on his podcast, more than 2x the minutes dedicated to the second most discussed player (Ja Morant) and more than 3x the third (Anthony Davis).</a> Zach clearly loves prognosticating about trade candidates and where they\u2019ll end up, and you can see the discussion around all three players pick up ahead of the early February trade deadline.",
-        "outlet": "Charting Hoops",
-        "source_url": "https://chartinghoops.substack.com/p/the-zach-lowe-teams"
-      },
-      {
-        "date": "2026-03-29",
-        "text": "NBA Courtside:Joe Johnson thinks Ja Morant would thrive if he got traded to the Miami Heat in the offseason: \u201cI\u2019m not going to lie, I think he would thrive in that Miami situation. One thing about Pat Riley, he\u2019s going to have a real sit down 1 on 1 with him. He does that with everybody.It\u2019s going to be something in that meeting you\u2019ll be able to take, and run with. All you got to do is apply it. If you apply it, I promise you the sky will be the limit for this kid again\u2026 I want to see Ja back out there throwing grenades, covering his ears\u2026 I never went to the club when I played for the Heat. We worked so hard I couldn\u2019t wait to go lay down\u201d (Via @NightcapShow_ )Twitter",
-        "text_html": "NBA Courtside: <a href=\"http://twitter.com/NBA__Courtside/status/2038256879281873271\" target=\"_blank\" style=\"color: #1a73e8;\">Joe Johnson thinks Ja Morant would thrive if he got traded to the Miami Heat in the offseason: \u201cI\u2019m not going to lie, I think he would thrive in that Miami situation. One thing about Pat Riley, he\u2019s going to have a real sit down 1 on 1 with him. He does that with everybody.</a> It\u2019s going to be something in that meeting you\u2019ll be able to take, and run with. All you got to do is apply it. If you apply it, I promise you the sky will be the limit for this kid again\u2026 I want to see Ja back out there throwing grenades, covering his ears\u2026 I never went to the club when I played for the Heat. We worked so hard I couldn\u2019t wait to go lay down\u201d (Via @NightcapShow_ )",
-        "outlet": "Twitter",
-        "source_url": "http://twitter.com/NBA__Courtside/status/2038256879281873271"
       }
     ],
     "Luka Doncic": [
@@ -1622,18 +1631,14 @@
         "outlet": "Andscape",
         "source_url": "https://andscape.com/features/brook-lopez-clippers-trades-age-health-brother-disney/"
       }
-    ],
-    "Jaylen Brown": [
-      {
-        "date": "2026-03-12",
-        "text": "Tracy McGrady: Talk to us about you reaching out to me\u00a0coming to the house. What was your\u00a0mindset like? What made you do that? Jaylen Brown: Right around that\u00a0time after that season that we lost in a second round to the Bucks.\u00a0I came right after that to Houston to\u00a0get some work in. And I'm so grateful\u00a0for that time and I'm I'm grateful\u00a0to this day for you opening up your\u00a0crib to me and just coming to be able to\u00a0kick it with the fam and just ask\u00a0questions and get some good\u00a0advice about how I should look\u00a0at the next couple years and how I\u00a0should think about and where my mind should be at at the time.\u00a0And you told\u00a0me the potential that I\u00a0have and what I needed to do if I needed\u00a0to make it work and I followed those\u00a0instructions to achieve\u00a0and fast forward I became an NBA\u00a0champion. (\u2026)Coming and sitting down with T-Mac. We\u00a0spent a couple days just working out and\u00a0talking, having some food, and he's\u00a0telling me like, I'm thinking\u00a0like one thing and he's thinking like,\u00a0nah, you need to stay, it's\u00a0going to be you. He's telling me all the\u00a0stuff that all just\u00a0manifested itself. So, I can't even\u00a0like, it\u2019s crazy looking back\u00a0on it now.YouTube",
-        "text_html": "Tracy McGrady: Talk to us about you reaching out to me coming to the house. What was your mindset like? What made you do that? Jaylen Brown: Right around that time after that season that we lost in a second round to the Bucks. I came right after that to Houston to get some work in. And I'm so grateful for that time and I'm I'm grateful to this day for you opening up your crib to me and just coming to be able to kick it with the fam and just ask questions and get some good advice about how I should look at the next couple years and how I should think about and where my mind should be at at the time. And you told me the potential that I have and what I needed to do if I needed to make it work and I followed those instructions to achieve and fast forward I became an NBA champion. (\u2026) <a href=\"https://www.youtube.com/watch?v=RYYJQElmLIw&t=2415s\" target=\"_blank\" style=\"color: #1a73e8;\">Coming and sitting down with T-Mac. We spent a couple days just working out and talking, having some food, and he's telling me like, I'm thinking like one thing and he's thinking like, nah, you need to stay, it's going to be you. He's telling me all the stuff that all just manifested itself. So, I can't even like, it\u2019s crazy looking back on it now.</a>",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=RYYJQElmLIw&t=2415s"
-      }
     ]
   },
   "daily_counts": {
+    "Ja Morant": {
+      "2026-04-09": 3,
+      "2026-04-08": 2,
+      "2026-03-29": 1
+    },
     "James Harden": {
       "2026-04-09": 1,
       "2026-03-30": 1,
@@ -1670,10 +1675,6 @@
       "2026-04-08": 1,
       "2026-04-07": 1,
       "2026-04-01": 1
-    },
-    "Ja Morant": {
-      "2026-04-08": 2,
-      "2026-03-29": 1
     },
     "Luka Doncic": {
       "2026-04-08": 2,
@@ -1823,9 +1824,6 @@
     },
     "Brook Lopez": {
       "2026-03-13": 1
-    },
-    "Jaylen Brown": {
-      "2026-03-12": 1
     }
   }
 }
