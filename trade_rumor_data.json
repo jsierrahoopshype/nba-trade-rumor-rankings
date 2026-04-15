@@ -1,22 +1,34 @@
 {
-  "generated_at": "2026-04-14T20:04:55.798888",
+  "generated_at": "2026-04-15T04:08:05.384028",
   "scrape_window_days": 28,
-  "window_start": "2026-03-17",
-  "window_end": "2026-04-14",
-  "total_rumors": 132,
+  "window_start": "2026-03-18",
+  "window_end": "2026-04-15",
+  "total_rumors": 133,
   "total_players": 49,
   "rankings": [
     {
       "player": "Giannis Antetokounmpo",
-      "score": 31.25,
-      "mentions_week1": 25,
-      "mentions_week2": 4,
+      "score": 27.25,
+      "mentions_week1": 17,
+      "mentions_week2": 12,
       "mentions_weeks3_4": 17,
       "total_mentions": 46,
       "first_mention": "2026-03-18",
       "last_mention": "2026-04-14",
       "team": "Milwaukee Bucks",
       "rank": 1
+    },
+    {
+      "player": "Anthony Davis",
+      "score": 5.25,
+      "mentions_week1": 5,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 6,
+      "first_mention": "2026-03-31",
+      "last_mention": "2026-04-14",
+      "team": "Dallas Mavericks",
+      "rank": 2
     },
     {
       "player": "Ja Morant",
@@ -28,18 +40,6 @@
       "first_mention": "2026-03-29",
       "last_mention": "2026-04-09",
       "team": "Memphis Grizzlies",
-      "rank": 2
-    },
-    {
-      "player": "Anthony Davis",
-      "score": 4.5,
-      "mentions_week1": 4,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 5,
-      "first_mention": "2026-03-31",
-      "last_mention": "2026-04-08",
-      "team": "Dallas Mavericks",
       "rank": 3
     },
     {
@@ -67,30 +67,6 @@
       "rank": 5
     },
     {
-      "player": "Draymond Green",
-      "score": 2.5,
-      "mentions_week1": 2,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 3,
-      "first_mention": "2026-04-01",
-      "last_mention": "2026-04-08",
-      "team": "Golden State Warriors",
-      "rank": 6
-    },
-    {
-      "player": "Aaron Gordon",
-      "score": 2.25,
-      "mentions_week1": 1,
-      "mentions_week2": 2,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 4,
-      "first_mention": "2026-03-26",
-      "last_mention": "2026-04-07",
-      "team": "Denver Nuggets",
-      "rank": 7
-    },
-    {
       "player": "James Harden",
       "score": 2.25,
       "mentions_week1": 2,
@@ -100,19 +76,31 @@
       "first_mention": "2026-03-30",
       "last_mention": "2026-04-13",
       "team": "Los Angeles Clippers",
-      "rank": 8
+      "rank": 6
     },
     {
-      "player": "Jonathan Kuminga",
-      "score": 1.5,
+      "player": "Draymond Green",
+      "score": 2.0,
       "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 2,
+      "mentions_week2": 2,
+      "mentions_weeks3_4": 0,
       "total_mentions": 3,
-      "first_mention": "2026-03-20",
-      "last_mention": "2026-04-07",
+      "first_mention": "2026-04-01",
+      "last_mention": "2026-04-08",
       "team": "Golden State Warriors",
-      "rank": 9
+      "rank": 7
+    },
+    {
+      "player": "Aaron Gordon",
+      "score": 1.75,
+      "mentions_week1": 0,
+      "mentions_week2": 3,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 4,
+      "first_mention": "2026-03-26",
+      "last_mention": "2026-04-07",
+      "team": "Denver Nuggets",
+      "rank": 8
     },
     {
       "player": "Domantas Sabonis",
@@ -124,7 +112,7 @@
       "first_mention": "2026-04-03",
       "last_mention": "2026-04-14",
       "team": "Sacramento Kings",
-      "rank": 10
+      "rank": 9
     },
     {
       "player": "Zach LaVine",
@@ -136,7 +124,7 @@
       "first_mention": "2026-04-03",
       "last_mention": "2026-04-14",
       "team": "Sacramento Kings",
-      "rank": 11
+      "rank": 10
     },
     {
       "player": "LeBron James",
@@ -148,7 +136,7 @@
       "first_mention": "2026-03-29",
       "last_mention": "2026-04-05",
       "team": "Los Angeles Lakers",
-      "rank": 12
+      "rank": 11
     },
     {
       "player": "Ivica Zubac",
@@ -160,19 +148,19 @@
       "first_mention": "2026-03-30",
       "last_mention": "2026-04-09",
       "team": "Los Angeles Clippers",
-      "rank": 13
+      "rank": 12
     },
     {
-      "player": "Kevin Durant",
-      "score": 1.25,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 2,
-      "first_mention": "2026-03-18",
+      "player": "Jonathan Kuminga",
+      "score": 1.0,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 2,
+      "total_mentions": 3,
+      "first_mention": "2026-03-20",
       "last_mention": "2026-04-07",
-      "team": "Houston Rockets",
-      "rank": 14
+      "team": "Golden State Warriors",
+      "rank": 13
     },
     {
       "player": "Kawhi Leonard",
@@ -184,7 +172,7 @@
       "first_mention": "2026-03-29",
       "last_mention": "2026-04-02",
       "team": "Los Angeles Clippers",
-      "rank": 15
+      "rank": 14
     },
     {
       "player": "Derik Queen",
@@ -196,19 +184,7 @@
       "first_mention": "2026-04-14",
       "last_mention": "2026-04-14",
       "team": "New Orleans Pelicans",
-      "rank": 16
-    },
-    {
-      "player": "Jalen Green",
-      "score": 1.0,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-04-07",
-      "last_mention": "2026-04-07",
-      "team": "Phoenix Suns",
-      "rank": 17
+      "rank": 15
     },
     {
       "player": "Joel Embiid",
@@ -220,31 +196,7 @@
       "first_mention": "2026-04-08",
       "last_mention": "2026-04-08",
       "team": "Philadelphia 76ers",
-      "rank": 18
-    },
-    {
-      "player": "Jrue Holiday",
-      "score": 1.0,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-04-07",
-      "last_mention": "2026-04-07",
-      "team": "Portland Trail Blazers",
-      "rank": 19
-    },
-    {
-      "player": "Kel'el Ware",
-      "score": 1.0,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-04-07",
-      "last_mention": "2026-04-07",
-      "team": "Miami Heat",
-      "rank": 20
+      "rank": 16
     },
     {
       "player": "Klay Thompson",
@@ -256,7 +208,7 @@
       "first_mention": "2026-04-13",
       "last_mention": "2026-04-13",
       "team": "Dallas Mavericks",
-      "rank": 21
+      "rank": 17
     },
     {
       "player": "Mikal Bridges",
@@ -268,19 +220,7 @@
       "first_mention": "2026-04-08",
       "last_mention": "2026-04-08",
       "team": "New York Knicks",
-      "rank": 22
-    },
-    {
-      "player": "Tyler Herro",
-      "score": 1.0,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-04-07",
-      "last_mention": "2026-04-07",
-      "team": "Miami Heat",
-      "rank": 23
+      "rank": 18
     },
     {
       "player": "Gary Harris",
@@ -292,7 +232,19 @@
       "first_mention": "2026-03-26",
       "last_mention": "2026-04-02",
       "team": "Denver Nuggets",
-      "rank": 24
+      "rank": 19
+    },
+    {
+      "player": "Kevin Durant",
+      "score": 0.75,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 2,
+      "first_mention": "2026-03-18",
+      "last_mention": "2026-04-07",
+      "team": "Houston Rockets",
+      "rank": 20
     },
     {
       "player": "Nikola Jokic",
@@ -304,7 +256,7 @@
       "first_mention": "2026-03-26",
       "last_mention": "2026-04-02",
       "team": "Denver Nuggets",
-      "rank": 25
+      "rank": 21
     },
     {
       "player": "Buddy Hield",
@@ -316,7 +268,7 @@
       "first_mention": "2026-03-20",
       "last_mention": "2026-03-20",
       "team": "Golden State Warriors",
-      "rank": 26
+      "rank": 22
     },
     {
       "player": "Dennis Schroeder",
@@ -328,7 +280,7 @@
       "first_mention": "2026-03-18",
       "last_mention": "2026-03-18",
       "team": "Atlanta Hawks",
-      "rank": 27
+      "rank": 23
     },
     {
       "player": "Bronny James",
@@ -340,7 +292,7 @@
       "first_mention": "2026-04-05",
       "last_mention": "2026-04-05",
       "team": "Los Angeles Lakers",
-      "rank": 28
+      "rank": 24
     },
     {
       "player": "Cameron Johnson",
@@ -352,7 +304,7 @@
       "first_mention": "2026-04-03",
       "last_mention": "2026-04-03",
       "team": "Denver Nuggets",
-      "rank": 29
+      "rank": 25
     },
     {
       "player": "Dalton Knecht",
@@ -364,7 +316,7 @@
       "first_mention": "2026-04-05",
       "last_mention": "2026-04-05",
       "team": "Los Angeles Lakers",
-      "rank": 30
+      "rank": 26
     },
     {
       "player": "DeMar DeRozan",
@@ -376,7 +328,7 @@
       "first_mention": "2026-04-03",
       "last_mention": "2026-04-03",
       "team": "Sacramento Kings",
-      "rank": 31
+      "rank": 27
     },
     {
       "player": "Donovan Mitchell",
@@ -388,7 +340,7 @@
       "first_mention": "2026-04-03",
       "last_mention": "2026-04-03",
       "team": "Cleveland Cavaliers",
-      "rank": 32
+      "rank": 28
     },
     {
       "player": "Jaden Ivey",
@@ -400,7 +352,19 @@
       "first_mention": "2026-04-06",
       "last_mention": "2026-04-06",
       "team": "Chicago Bulls",
-      "rank": 33
+      "rank": 29
+    },
+    {
+      "player": "Jalen Green",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-04-07",
+      "last_mention": "2026-04-07",
+      "team": "Phoenix Suns",
+      "rank": 30
     },
     {
       "player": "Jarrett Allen",
@@ -412,7 +376,31 @@
       "first_mention": "2026-04-01",
       "last_mention": "2026-04-01",
       "team": "Cleveland Cavaliers",
-      "rank": 34
+      "rank": 31
+    },
+    {
+      "player": "Jrue Holiday",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-04-07",
+      "last_mention": "2026-04-07",
+      "team": "Portland Trail Blazers",
+      "rank": 32
+    },
+    {
+      "player": "Kel'el Ware",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-04-07",
+      "last_mention": "2026-04-07",
+      "team": "Miami Heat",
+      "rank": 33
     },
     {
       "player": "Malik Monk",
@@ -424,7 +412,7 @@
       "first_mention": "2026-04-03",
       "last_mention": "2026-04-03",
       "team": "Sacramento Kings",
-      "rank": 35
+      "rank": 34
     },
     {
       "player": "Mark Williams",
@@ -436,7 +424,7 @@
       "first_mention": "2026-04-03",
       "last_mention": "2026-04-03",
       "team": "Phoenix Suns",
-      "rank": 36
+      "rank": 35
     },
     {
       "player": "Peyton Watson",
@@ -448,19 +436,19 @@
       "first_mention": "2026-04-03",
       "last_mention": "2026-04-03",
       "team": "Denver Nuggets",
-      "rank": 37
+      "rank": 36
     },
     {
-      "player": "Rui Hachimura",
+      "player": "Tyler Herro",
       "score": 0.5,
       "mentions_week1": 0,
       "mentions_week2": 1,
       "mentions_weeks3_4": 0,
       "total_mentions": 1,
-      "first_mention": "2026-03-31",
-      "last_mention": "2026-03-31",
-      "team": "Los Angeles Lakers",
-      "rank": 38
+      "first_mention": "2026-04-07",
+      "last_mention": "2026-04-07",
+      "team": "Miami Heat",
+      "rank": 37
     },
     {
       "player": "Amen Thompson",
@@ -472,7 +460,7 @@
       "first_mention": "2026-03-18",
       "last_mention": "2026-03-18",
       "team": "Houston Rockets",
-      "rank": 39
+      "rank": 38
     },
     {
       "player": "Ayo Dosunmu",
@@ -484,7 +472,7 @@
       "first_mention": "2026-03-18",
       "last_mention": "2026-03-18",
       "team": "Chicago Bulls",
-      "rank": 40
+      "rank": 39
     },
     {
       "player": "Bismack Biyombo",
@@ -496,7 +484,7 @@
       "first_mention": "2026-03-21",
       "last_mention": "2026-03-21",
       "team": "San Antonio Spurs",
-      "rank": 41
+      "rank": 40
     },
     {
       "player": "Evan Mobley",
@@ -508,7 +496,7 @@
       "first_mention": "2026-03-21",
       "last_mention": "2026-03-21",
       "team": "Cleveland Cavaliers",
-      "rank": 42
+      "rank": 41
     },
     {
       "player": "Isaac Okoro",
@@ -520,7 +508,7 @@
       "first_mention": "2026-03-20",
       "last_mention": "2026-03-20",
       "team": "Chicago Bulls",
-      "rank": 43
+      "rank": 42
     },
     {
       "player": "Jared McCain",
@@ -532,7 +520,7 @@
       "first_mention": "2026-03-23",
       "last_mention": "2026-03-23",
       "team": "Philadelphia 76ers",
-      "rank": 44
+      "rank": 43
     },
     {
       "player": "Keldon Johnson",
@@ -544,7 +532,7 @@
       "first_mention": "2026-03-21",
       "last_mention": "2026-03-21",
       "team": "San Antonio Spurs",
-      "rank": 45
+      "rank": 44
     },
     {
       "player": "Kristaps Porzingis",
@@ -556,7 +544,7 @@
       "first_mention": "2026-03-20",
       "last_mention": "2026-03-20",
       "team": "Atlanta Hawks",
-      "rank": 46
+      "rank": 45
     },
     {
       "player": "Lonzo Ball",
@@ -568,7 +556,7 @@
       "first_mention": "2026-03-20",
       "last_mention": "2026-03-20",
       "team": "Cleveland Cavaliers",
-      "rank": 47
+      "rank": 46
     },
     {
       "player": "Nicolas Batum",
@@ -580,6 +568,18 @@
       "first_mention": "2026-03-30",
       "last_mention": "2026-03-30",
       "team": "Cleveland Cavaliers",
+      "rank": 47
+    },
+    {
+      "player": "Rui Hachimura",
+      "score": 0.25,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 1,
+      "first_mention": "2026-03-31",
+      "last_mention": "2026-03-31",
+      "team": "Los Angeles Lakers",
       "rank": 48
     },
     {
@@ -596,6 +596,50 @@
     }
   ],
   "player_rumors": {
+    "Anthony Davis": [
+      {
+        "date": "2026-04-14",
+        "text": "Anthony Davis is parting with more than just a mansion. The NBA star is shedding one of the last major pieces of his Los Angeles life. The Washington Wizards forward has found a buyer for his Bel Air estate, sources told The Post \u2014 the lavish hilltop property he bought in 2021 when he was still a centerpiece of the Los Angeles Lakers and fresh off the team\u2019s championship run.The home, which had been seeking close to $40 million, entered contract as Davis continues a dramatic professional reset that has taken him from LA to Dallas and now to Washington in a whirlwind stretch of trades,sources added.New York Post",
+        "text_html": "Anthony Davis is parting with more than just a mansion. The NBA star is shedding one of the last major pieces of his Los Angeles life. The Washington Wizards forward has found a buyer for his Bel Air estate, sources told The Post \u2014 the lavish hilltop property he bought in 2021 when he was still a centerpiece of the Los Angeles Lakers and fresh off the team\u2019s championship run. <a href=\"https://nypost.com/2026/04/14/real-estate/anthony-davis-in-contract-to-sell-40m-la-mansion/\" target=\"_blank\" style=\"color: #1a73e8;\">The home, which had been seeking close to $40 million, entered contract as Davis continues a dramatic professional reset that has taken him from LA to Dallas and now to Washington in a whirlwind stretch of trades,</a> sources added.",
+        "outlet": "New York Post",
+        "source_url": "https://nypost.com/2026/04/14/real-estate/anthony-davis-in-contract-to-sell-40m-la-mansion/"
+      },
+      {
+        "date": "2026-04-08",
+        "text": "Anthony Davis on trade to Lakers: It was tough though because when Rich Paul\u00a0was telling me like you got to go to the\u00a0media\u2026 and I never talked about this by\u00a0the way. You\u2019re getting the first\u00a0clues. I've never\u00a0spoken\u00a0to anybody\u00a0about this. Draymond Green: Appreciated. Davis: When Rich\u00a0told\u00a0me like you have to go and say I was like no, hell no.\u00a0Be a villain? man\u2026 change teams? I was scared. Like I didn't at first I didn't\u00a0want to be traded cuz I'm like change is\u00a0change is different man. Change is hard. I started doubting myself like\u00a0man I know I can do in New Orleans. I'm\u00a0going to get all the balls. I'm about to go\u00a0play with LeBron, spotlight. I\u2019m gonna play\u00a0with Rondo. Like I'm about to play with\u00a0all these players in LA\u2026 I'm about to go play with\u00a0some guys. And it's like I am I ready\u00a0for that? I wasn't sure, you\u00a0know, so I'm like, man, I don't know.\u00a0Let's figure this out over here, you\u00a0know? I hit Bron like, bro, you want to\u00a0come over here? Like everybody trying to\u00a0figure it out so I didn't have to leave.\u00a0So because I was comfortable, and I'm glad I did make the\u00a0make the change, but that sh*t was tough when\u00a0he was telling me what I had to do, and\u00a0I was like, man,\u00a0but at the day, I had to\u00a0grow up and do what's best for me and let the rest\u00a0take care ofitself.\u00a0Green: So Ja Morant gets drafted number one\u00a0instead of Zion and you're probably\u00a0still a New Orleans Pelican. Davis: I think. Yep. I\u2019d probably still be\u00a0in New Orleans. Green: And you asked David Griffin\u00a0to draft Ja Morant, and he didn\u2019t.YouTube",
+        "text_html": "Anthony Davis on trade to Lakers: It was tough though because when Rich Paul was telling me like you got to go to the media\u2026 and I never talked about this by the way. You\u2019re getting the first clues. I've never spoken to anybody about this. Draymond Green: Appreciated. Davis: When Rich told me like you have to go and say I was like no, hell no. Be a villain? man\u2026 change teams? I was scared. Like I didn't at first I didn't want to be traded cuz I'm like change is change is different man. Change is hard. I started doubting myself like man I know I can do in New Orleans. I'm going to get all the balls. I'm about to go play with LeBron, spotlight. I\u2019m gonna play with Rondo. Like I'm about to play with all these players in LA\u2026 I'm about to go play with some guys. And it's like I am I ready for that? I wasn't sure, you know, so I'm like, man, I don't know. Let's figure this out over here, you know? I hit Bron like, bro, you want to come over here? Like everybody trying to figure it out so I didn't have to leave. So because I was comfortable, and I'm glad I did make the make the change, but that sh*t was tough when he was telling me what I had to do, and I was like, man, but at the day, I had to grow up and do what's best for me and let the rest take care of <a href=\"https://www.youtube.com/watch?v=eESLCDwZLdo&t=2242s\" target=\"_blank\" style=\"color: #1a73e8;\">itself. Green: So Ja Morant gets drafted number one instead of Zion and you're probably still a New Orleans Pelican. Davis: I think. Yep. I\u2019d probably still be in New Orleans. Green: And you asked David Griffin to draft Ja Morant, and he didn\u2019t</a>.",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=eESLCDwZLdo&t=2242s"
+      },
+      {
+        "date": "2026-04-08",
+        "text": "Anthony Davis on being traded to Dallas: Look, from\u00a0the business standpoint I can't be\u00a0mad, but like why? I couldn't understand it. Nobody\u00a0told\u00a0menothing.\u00a0Nobody said a thing to me. So you\u00a0just catch me off guard like yeah you\u00a0traded to Dallas. That's what I couldn't\u00a0get over it, and I still can't get\u00a0over it, I think I deserve much more\u00a0respect than that. All the time I've been here, six years, all\u00a0the time I've been there, we won a championship, all\u00a0this stuff and I can't get a phone call\u00a0or a text to tell me like \u2018look, this is\u00a0what we're thinking.\u2019So all I'm saying,\u00a0all I know is that that Rob, what you\u00a0was calling me for was to tell me that I\u00a0was getting traded, but that was already\u00a010 minutes before the trade was before\u00a0about to be announced. So you already\u00a0knew this already, or you had\u00a0to at some point a conversation had to\u00a0start about me being traded for Luka,\u00a0right? And it never got to me or like,\u00a0hey, this is what we're thinking,\u00a0whatever, right? So I think that's the\u00a0biggest thing that kind of like f*ck with me this entire time.YouTube",
+        "text_html": "Anthony Davis on being traded to Dallas: Look, from the business standpoint I can't be mad, but like why? I couldn't understand it. Nobody told me <a href=\"https://www.youtube.com/watch?v=eESLCDwZLdo&t=2943s\" target=\"_blank\" style=\"color: #1a73e8;\">nothing. Nobody said a thing to me. So you just catch me off guard like yeah you traded to Dallas. That's what I couldn't get over it, and I still can't get over it, I think I deserve much more respect than that. All the time I've been here, six years, all the time I've been there, we won a championship, all this stuff and I can't get a phone call or a text to tell me like \u2018look, this is what we're thinking.\u2019</a> So all I'm saying, all I know is that that Rob, what you was calling me for was to tell me that I was getting traded, but that was already 10 minutes before the trade was before about to be announced. So you already knew this already, or you had to at some point a conversation had to start about me being traded for Luka, right? And it never got to me or like, hey, this is what we're thinking, whatever, right? So I think that's the biggest thing that kind of like f*ck with me this entire time.",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=eESLCDwZLdo&t=2943s"
+      },
+      {
+        "date": "2026-04-08",
+        "text": "Anthony Davis:So when Rich said I was traded to Dallas, I\u00a0was like\u00a0the f*ck out of here. I saidwho the f*ck they gonna trade me\u00a0for? Luka Doncic? I was just\u00a0saying like who else can you trade me\u00a0for on that team?\u00a0Mind\u00a0you, the Mavs just went to the finals.\u00a0And it was never no discussion\u00a0about like man, we might get AD out of\u00a0here or\u2026 it was nothing. And\u00a0he was like, \u201cThey traded you for Luka.\u201d I'm like\u00a0\"Rich, shut the hell up. What? Like,\u00a0shut what do you want?\" I'm\u00a0really thinking he's just\u00a0playing.And he was like, \"Man, I swear.\" \u00a0And at the time, like,\u00a0Nico Harrison is calling me. So, I'm like,\u00a0\"All right, Rich, I'mma call you back.\u00a0Let me see what Nico\u2026 And\u00a0I'm like, \"Rich, I'mma call you back.\"\u00a0Hello.\u00a0Yeah, \u2018I\u00a0told\u00a0you I was going to come get\u00a0you one day. I wanted you.\u2019\u00a0Huh? I'm still like, \"All right, I know\u00a0Rich and Nico like, y'all playing a joke.\" Like, this is foul\u00a0play.\u00a0Foul play. Got you. So,\u00a0I'm like,\u00a0\"Huh?\" So, I tell Nico, I didn't even\u00a0speak. I said, \"Yo, let me call you\u00a0back.\" So now I'm like, \"All right, I'm\u00a0about to call Rob Pelinka back.\" So I call\u00a0Rob back and I'm like, \"Hello.\" He\u2019s\u00a0telling me all this stuff and like, basically, that I got traded for Luka,\u00a0and some of the stuff he was\u00a0saying, I didn't understand. \u2018You know, when Bron's done, we want somebody to\u00a0take over, we want to go younger, rebuild all this\u2026\u2019 And I'm like,\u00a0\"Huh?\" I just didn't understand like\u00a0what he was saying. But also too, like\u00a0as I'm\u00a0hearing\u00a0this, I'm now like\u00a0checked out. Like I\u00a0hear\u00a0you, but I'm\u00a0not listening, right?\u00a0And hang up. And my chef is right there\u00a0in front of me. And I'm like, I\u00a0just got traded to the Mavs.\u00a0He starts laughing. \u2018Yeah, big dog.\u2019 So I'm\u00a0like, you know what? I know this true. I go to X and go straight to Sham Charania\u2019s page. Nothing, yeah they playing. So\u00a0I'm walking out the kitchen, turning the\u00a0corner to go up the stairs. Joel Embiid\u00a0calls me.\u00a0He\u2019s in Philly, 12 o\u2019clock. I don't answer, I\u2019m going upstairs,\u00a0then somebody else calls me, another\u00a0player and I'm like wait hold on. So, I\u00a0go back to Sham\u2019s page and then there it\u00a0is.\u00a0Breaking news: Dallas Mavericks trade\u00a0Luka Doncic. And I'm like, what?\u00a0Run upstairs,\u00a0say baby, I just got traded to Dallas. Shut\u00a0up.\u00a0But now this time I'm not\u00a0shaking, but my heart is in my stomach. I'm like, yo,\u00a0what the f*ck just happened? Right.\u00a0And I show her and she's like, \"What the\u00a0hell?\" But now I'm like, \"All right, I'm\u00a0running back outside. The first\u00a0person\u00a0I\u00a0call my pop like, \"Yo, pop, I just got\u00a0traded.\"YouTube",
+        "text_html": "Anthony Davis: <a href=\"https://www.youtube.com/watch?v=eESLCDwZLdo&t=2645s\" target=\"_blank\" style=\"color: #1a73e8;\">So when Rich said I was traded to Dallas, I was like the f*ck out of here. I saidwho the f*ck they gonna trade me for? Luka Doncic? I was just saying like who else can you trade me for on that team? Mind you, the Mavs just went to the finals. And it was never no discussion about like man, we might get AD out of here or\u2026 it was nothing. And he was like, \u201cThey traded you for Luka.\u201d I'm like \"Rich, shut the hell up. What? Like, shut what do you want?\" I'm really thinking he's just playing.</a> And he was like, \"Man, I swear.\" And at the time, like, Nico Harrison is calling me. So, I'm like, \"All right, Rich, I'mma call you back. Let me see what Nico\u2026 And I'm like, \"Rich, I'mma call you back.\" Hello. Yeah, \u2018I told you I was going to come get you one day. I wanted you.\u2019 Huh? I'm still like, \"All right, I know Rich and Nico like, y'all playing a joke.\" Like, this is foul play. Foul play. Got you. So, I'm like, \"Huh?\" So, I tell Nico, I didn't even speak. I said, \"Yo, let me call you back.\" So now I'm like, \"All right, I'm about to call Rob Pelinka back.\" So I call Rob back and I'm like, \"Hello.\" He\u2019s telling me all this stuff and like, basically, that I got traded for Luka, and some of the stuff he was saying, I didn't understand. \u2018You know, when Bron's done, we want somebody to take over, we want to go younger, rebuild all this\u2026\u2019 And I'm like, \"Huh?\" I just didn't understand like what he was saying. But also too, like as I'm hearing this, I'm now like checked out. Like I hear you, but I'm not listening, right? And hang up. And my chef is right there in front of me. And I'm like, I just got traded to the Mavs. He starts laughing. \u2018Yeah, big dog.\u2019 So I'm like, you know what? I know this true. I go to X and go straight to Sham Charania\u2019s page. Nothing, yeah they playing. So I'm walking out the kitchen, turning the corner to go up the stairs. Joel Embiid calls me. He\u2019s in Philly, 12 o\u2019clock. I don't answer, I\u2019m going upstairs, then somebody else calls me, another player and I'm like wait hold on. So, I go back to Sham\u2019s page and then there it is. Breaking news: Dallas Mavericks trade Luka Doncic. And I'm like, what? Run upstairs, say baby, I just got traded to Dallas. Shut up. But now this time I'm not shaking, but my heart is in my stomach. I'm like, yo, what the f*ck just happened? Right. And I show her and she's like, \"What the hell?\" But now I'm like, \"All right, I'm running back outside. The first person I call my pop like, \"Yo, pop, I just got traded.\"",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=eESLCDwZLdo&t=2645s"
+      },
+      {
+        "date": "2026-04-08",
+        "text": "Oh Giannis. Zach Lowe dedicated 230 minutes to Giannis Antetokounmpo on his podcast, more than 2x the minutes dedicated to the second most discussed player (Ja Morant) and more than 3x the third (Anthony Davis).Zach clearly loves prognosticating about trade candidates and where they\u2019ll end up, and you can see the discussion around all three players pick up ahead of the early February trade deadline.Charting Hoops",
+        "text_html": "<a href=\"https://chartinghoops.substack.com/p/the-zach-lowe-teams\" target=\"_blank\" style=\"color: #1a73e8;\">Oh Giannis. Zach Lowe dedicated 230 minutes to Giannis Antetokounmpo on his podcast, more than 2x the minutes dedicated to the second most discussed player (Ja Morant) and more than 3x the third (Anthony Davis).</a> Zach clearly loves prognosticating about trade candidates and where they\u2019ll end up, and you can see the discussion around all three players pick up ahead of the early February trade deadline.",
+        "outlet": "Charting Hoops",
+        "source_url": "https://chartinghoops.substack.com/p/the-zach-lowe-teams"
+      },
+      {
+        "date": "2026-03-31",
+        "text": "MrBuckBuck: RuiHachimura was surprised to see Anthony Davis on the Wizards bench tonight because he forgot he was traded thereTwitter",
+        "text_html": "MrBuckBuck: Rui <a href=\"http://twitter.com/MrBuckBuckNBA/status/2038867906272915619\" target=\"_blank\" style=\"color: #1a73e8;\">Hachimura was surprised to see Anthony Davis on the Wizards bench tonight because he forgot he was traded there</a>",
+        "outlet": "Twitter",
+        "source_url": "http://twitter.com/MrBuckBuckNBA/status/2038867906272915619"
+      }
+    ],
     "Zion Williamson": [
       {
         "date": "2026-04-14",
@@ -1088,43 +1132,6 @@
         "text_html": "<a href=\"https://marcstein.substack.com/p/sunday-best-my-latest-around-the\" target=\"_blank\" style=\"color: #1a73e8;\">The Warriors made what has been described as a determined trade run at the Clippers' Kawhi Leonard in the final hour before the Feb. 5 trade buzzer</a> sounded under the belief that Leonard might be unexpectedly unavailable after LA agreed to ship Ivica Zubac to Indiana. The Clippers ultimately balked then, but it is reasonable to presume that Golden State will investigate that possibility once again.",
         "outlet": "marcstein.substack.com",
         "source_url": "https://marcstein.substack.com/p/sunday-best-my-latest-around-the"
-      }
-    ],
-    "Anthony Davis": [
-      {
-        "date": "2026-04-08",
-        "text": "Anthony Davis on trade to Lakers: It was tough though because when Rich Paul\u00a0was telling me like you got to go to the\u00a0media\u2026 and I never talked about this by\u00a0the way. You\u2019re getting the first\u00a0clues. I've never\u00a0spoken\u00a0to anybody\u00a0about this. Draymond Green: Appreciated. Davis: When Rich\u00a0told\u00a0me like you have to go and say I was like no, hell no.\u00a0Be a villain? man\u2026 change teams? I was scared. Like I didn't at first I didn't\u00a0want to be traded cuz I'm like change is\u00a0change is different man. Change is hard. I started doubting myself like\u00a0man I know I can do in New Orleans. I'm\u00a0going to get all the balls. I'm about to go\u00a0play with LeBron, spotlight. I\u2019m gonna play\u00a0with Rondo. Like I'm about to play with\u00a0all these players in LA\u2026 I'm about to go play with\u00a0some guys. And it's like I am I ready\u00a0for that? I wasn't sure, you\u00a0know, so I'm like, man, I don't know.\u00a0Let's figure this out over here, you\u00a0know? I hit Bron like, bro, you want to\u00a0come over here? Like everybody trying to\u00a0figure it out so I didn't have to leave.\u00a0So because I was comfortable, and I'm glad I did make the\u00a0make the change, but that sh*t was tough when\u00a0he was telling me what I had to do, and\u00a0I was like, man,\u00a0but at the day, I had to\u00a0grow up and do what's best for me and let the rest\u00a0take care ofitself.\u00a0Green: So Ja Morant gets drafted number one\u00a0instead of Zion and you're probably\u00a0still a New Orleans Pelican. Davis: I think. Yep. I\u2019d probably still be\u00a0in New Orleans. Green: And you asked David Griffin\u00a0to draft Ja Morant, and he didn\u2019t.YouTube",
-        "text_html": "Anthony Davis on trade to Lakers: It was tough though because when Rich Paul was telling me like you got to go to the media\u2026 and I never talked about this by the way. You\u2019re getting the first clues. I've never spoken to anybody about this. Draymond Green: Appreciated. Davis: When Rich told me like you have to go and say I was like no, hell no. Be a villain? man\u2026 change teams? I was scared. Like I didn't at first I didn't want to be traded cuz I'm like change is change is different man. Change is hard. I started doubting myself like man I know I can do in New Orleans. I'm going to get all the balls. I'm about to go play with LeBron, spotlight. I\u2019m gonna play with Rondo. Like I'm about to play with all these players in LA\u2026 I'm about to go play with some guys. And it's like I am I ready for that? I wasn't sure, you know, so I'm like, man, I don't know. Let's figure this out over here, you know? I hit Bron like, bro, you want to come over here? Like everybody trying to figure it out so I didn't have to leave. So because I was comfortable, and I'm glad I did make the make the change, but that sh*t was tough when he was telling me what I had to do, and I was like, man, but at the day, I had to grow up and do what's best for me and let the rest take care of <a href=\"https://www.youtube.com/watch?v=eESLCDwZLdo&t=2242s\" target=\"_blank\" style=\"color: #1a73e8;\">itself. Green: So Ja Morant gets drafted number one instead of Zion and you're probably still a New Orleans Pelican. Davis: I think. Yep. I\u2019d probably still be in New Orleans. Green: And you asked David Griffin to draft Ja Morant, and he didn\u2019t</a>.",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=eESLCDwZLdo&t=2242s"
-      },
-      {
-        "date": "2026-04-08",
-        "text": "Anthony Davis on being traded to Dallas: Look, from\u00a0the business standpoint I can't be\u00a0mad, but like why? I couldn't understand it. Nobody\u00a0told\u00a0menothing.\u00a0Nobody said a thing to me. So you\u00a0just catch me off guard like yeah you\u00a0traded to Dallas. That's what I couldn't\u00a0get over it, and I still can't get\u00a0over it, I think I deserve much more\u00a0respect than that. All the time I've been here, six years, all\u00a0the time I've been there, we won a championship, all\u00a0this stuff and I can't get a phone call\u00a0or a text to tell me like \u2018look, this is\u00a0what we're thinking.\u2019So all I'm saying,\u00a0all I know is that that Rob, what you\u00a0was calling me for was to tell me that I\u00a0was getting traded, but that was already\u00a010 minutes before the trade was before\u00a0about to be announced. So you already\u00a0knew this already, or you had\u00a0to at some point a conversation had to\u00a0start about me being traded for Luka,\u00a0right? And it never got to me or like,\u00a0hey, this is what we're thinking,\u00a0whatever, right? So I think that's the\u00a0biggest thing that kind of like f*ck with me this entire time.YouTube",
-        "text_html": "Anthony Davis on being traded to Dallas: Look, from the business standpoint I can't be mad, but like why? I couldn't understand it. Nobody told me <a href=\"https://www.youtube.com/watch?v=eESLCDwZLdo&t=2943s\" target=\"_blank\" style=\"color: #1a73e8;\">nothing. Nobody said a thing to me. So you just catch me off guard like yeah you traded to Dallas. That's what I couldn't get over it, and I still can't get over it, I think I deserve much more respect than that. All the time I've been here, six years, all the time I've been there, we won a championship, all this stuff and I can't get a phone call or a text to tell me like \u2018look, this is what we're thinking.\u2019</a> So all I'm saying, all I know is that that Rob, what you was calling me for was to tell me that I was getting traded, but that was already 10 minutes before the trade was before about to be announced. So you already knew this already, or you had to at some point a conversation had to start about me being traded for Luka, right? And it never got to me or like, hey, this is what we're thinking, whatever, right? So I think that's the biggest thing that kind of like f*ck with me this entire time.",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=eESLCDwZLdo&t=2943s"
-      },
-      {
-        "date": "2026-04-08",
-        "text": "Anthony Davis:So when Rich said I was traded to Dallas, I\u00a0was like\u00a0the f*ck out of here. I saidwho the f*ck they gonna trade me\u00a0for? Luka Doncic? I was just\u00a0saying like who else can you trade me\u00a0for on that team?\u00a0Mind\u00a0you, the Mavs just went to the finals.\u00a0And it was never no discussion\u00a0about like man, we might get AD out of\u00a0here or\u2026 it was nothing. And\u00a0he was like, \u201cThey traded you for Luka.\u201d I'm like\u00a0\"Rich, shut the hell up. What? Like,\u00a0shut what do you want?\" I'm\u00a0really thinking he's just\u00a0playing.And he was like, \"Man, I swear.\" \u00a0And at the time, like,\u00a0Nico Harrison is calling me. So, I'm like,\u00a0\"All right, Rich, I'mma call you back.\u00a0Let me see what Nico\u2026 And\u00a0I'm like, \"Rich, I'mma call you back.\"\u00a0Hello.\u00a0Yeah, \u2018I\u00a0told\u00a0you I was going to come get\u00a0you one day. I wanted you.\u2019\u00a0Huh? I'm still like, \"All right, I know\u00a0Rich and Nico like, y'all playing a joke.\" Like, this is foul\u00a0play.\u00a0Foul play. Got you. So,\u00a0I'm like,\u00a0\"Huh?\" So, I tell Nico, I didn't even\u00a0speak. I said, \"Yo, let me call you\u00a0back.\" So now I'm like, \"All right, I'm\u00a0about to call Rob Pelinka back.\" So I call\u00a0Rob back and I'm like, \"Hello.\" He\u2019s\u00a0telling me all this stuff and like, basically, that I got traded for Luka,\u00a0and some of the stuff he was\u00a0saying, I didn't understand. \u2018You know, when Bron's done, we want somebody to\u00a0take over, we want to go younger, rebuild all this\u2026\u2019 And I'm like,\u00a0\"Huh?\" I just didn't understand like\u00a0what he was saying. But also too, like\u00a0as I'm\u00a0hearing\u00a0this, I'm now like\u00a0checked out. Like I\u00a0hear\u00a0you, but I'm\u00a0not listening, right?\u00a0And hang up. And my chef is right there\u00a0in front of me. And I'm like, I\u00a0just got traded to the Mavs.\u00a0He starts laughing. \u2018Yeah, big dog.\u2019 So I'm\u00a0like, you know what? I know this true. I go to X and go straight to Sham Charania\u2019s page. Nothing, yeah they playing. So\u00a0I'm walking out the kitchen, turning the\u00a0corner to go up the stairs. Joel Embiid\u00a0calls me.\u00a0He\u2019s in Philly, 12 o\u2019clock. I don't answer, I\u2019m going upstairs,\u00a0then somebody else calls me, another\u00a0player and I'm like wait hold on. So, I\u00a0go back to Sham\u2019s page and then there it\u00a0is.\u00a0Breaking news: Dallas Mavericks trade\u00a0Luka Doncic. And I'm like, what?\u00a0Run upstairs,\u00a0say baby, I just got traded to Dallas. Shut\u00a0up.\u00a0But now this time I'm not\u00a0shaking, but my heart is in my stomach. I'm like, yo,\u00a0what the f*ck just happened? Right.\u00a0And I show her and she's like, \"What the\u00a0hell?\" But now I'm like, \"All right, I'm\u00a0running back outside. The first\u00a0person\u00a0I\u00a0call my pop like, \"Yo, pop, I just got\u00a0traded.\"YouTube",
-        "text_html": "Anthony Davis: <a href=\"https://www.youtube.com/watch?v=eESLCDwZLdo&t=2645s\" target=\"_blank\" style=\"color: #1a73e8;\">So when Rich said I was traded to Dallas, I was like the f*ck out of here. I saidwho the f*ck they gonna trade me for? Luka Doncic? I was just saying like who else can you trade me for on that team? Mind you, the Mavs just went to the finals. And it was never no discussion about like man, we might get AD out of here or\u2026 it was nothing. And he was like, \u201cThey traded you for Luka.\u201d I'm like \"Rich, shut the hell up. What? Like, shut what do you want?\" I'm really thinking he's just playing.</a> And he was like, \"Man, I swear.\" And at the time, like, Nico Harrison is calling me. So, I'm like, \"All right, Rich, I'mma call you back. Let me see what Nico\u2026 And I'm like, \"Rich, I'mma call you back.\" Hello. Yeah, \u2018I told you I was going to come get you one day. I wanted you.\u2019 Huh? I'm still like, \"All right, I know Rich and Nico like, y'all playing a joke.\" Like, this is foul play. Foul play. Got you. So, I'm like, \"Huh?\" So, I tell Nico, I didn't even speak. I said, \"Yo, let me call you back.\" So now I'm like, \"All right, I'm about to call Rob Pelinka back.\" So I call Rob back and I'm like, \"Hello.\" He\u2019s telling me all this stuff and like, basically, that I got traded for Luka, and some of the stuff he was saying, I didn't understand. \u2018You know, when Bron's done, we want somebody to take over, we want to go younger, rebuild all this\u2026\u2019 And I'm like, \"Huh?\" I just didn't understand like what he was saying. But also too, like as I'm hearing this, I'm now like checked out. Like I hear you, but I'm not listening, right? And hang up. And my chef is right there in front of me. And I'm like, I just got traded to the Mavs. He starts laughing. \u2018Yeah, big dog.\u2019 So I'm like, you know what? I know this true. I go to X and go straight to Sham Charania\u2019s page. Nothing, yeah they playing. So I'm walking out the kitchen, turning the corner to go up the stairs. Joel Embiid calls me. He\u2019s in Philly, 12 o\u2019clock. I don't answer, I\u2019m going upstairs, then somebody else calls me, another player and I'm like wait hold on. So, I go back to Sham\u2019s page and then there it is. Breaking news: Dallas Mavericks trade Luka Doncic. And I'm like, what? Run upstairs, say baby, I just got traded to Dallas. Shut up. But now this time I'm not shaking, but my heart is in my stomach. I'm like, yo, what the f*ck just happened? Right. And I show her and she's like, \"What the hell?\" But now I'm like, \"All right, I'm running back outside. The first person I call my pop like, \"Yo, pop, I just got traded.\"",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=eESLCDwZLdo&t=2645s"
-      },
-      {
-        "date": "2026-04-08",
-        "text": "Oh Giannis. Zach Lowe dedicated 230 minutes to Giannis Antetokounmpo on his podcast, more than 2x the minutes dedicated to the second most discussed player (Ja Morant) and more than 3x the third (Anthony Davis).Zach clearly loves prognosticating about trade candidates and where they\u2019ll end up, and you can see the discussion around all three players pick up ahead of the early February trade deadline.Charting Hoops",
-        "text_html": "<a href=\"https://chartinghoops.substack.com/p/the-zach-lowe-teams\" target=\"_blank\" style=\"color: #1a73e8;\">Oh Giannis. Zach Lowe dedicated 230 minutes to Giannis Antetokounmpo on his podcast, more than 2x the minutes dedicated to the second most discussed player (Ja Morant) and more than 3x the third (Anthony Davis).</a> Zach clearly loves prognosticating about trade candidates and where they\u2019ll end up, and you can see the discussion around all three players pick up ahead of the early February trade deadline.",
-        "outlet": "Charting Hoops",
-        "source_url": "https://chartinghoops.substack.com/p/the-zach-lowe-teams"
-      },
-      {
-        "date": "2026-03-31",
-        "text": "MrBuckBuck: RuiHachimura was surprised to see Anthony Davis on the Wizards bench tonight because he forgot he was traded thereTwitter",
-        "text_html": "MrBuckBuck: Rui <a href=\"http://twitter.com/MrBuckBuckNBA/status/2038867906272915619\" target=\"_blank\" style=\"color: #1a73e8;\">Hachimura was surprised to see Anthony Davis on the Wizards bench tonight because he forgot he was traded there</a>",
-        "outlet": "Twitter",
-        "source_url": "http://twitter.com/MrBuckBuckNBA/status/2038867906272915619"
       }
     ],
     "Draymond Green": [
@@ -1620,6 +1627,11 @@
     ]
   },
   "daily_counts": {
+    "Anthony Davis": {
+      "2026-04-14": 1,
+      "2026-04-08": 4,
+      "2026-03-31": 1
+    },
     "Zion Williamson": {
       "2026-04-14": 2,
       "2026-04-01": 3
@@ -1670,10 +1682,6 @@
     "Ivica Zubac": {
       "2026-04-09": 1,
       "2026-03-30": 1
-    },
-    "Anthony Davis": {
-      "2026-04-08": 4,
-      "2026-03-31": 1
     },
     "Draymond Green": {
       "2026-04-08": 1,
