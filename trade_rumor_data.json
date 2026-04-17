@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-04-16T19:59:35.972115",
+  "generated_at": "2026-04-17T04:11:29.667359",
   "scrape_window_days": 28,
-  "window_start": "2026-03-19",
-  "window_end": "2026-04-16",
-  "total_rumors": 126,
+  "window_start": "2026-03-20",
+  "window_end": "2026-04-17",
+  "total_rumors": 125,
   "total_players": 46,
   "rankings": [
     {
       "player": "Giannis Antetokounmpo",
-      "score": 21.75,
-      "mentions_week1": 9,
-      "mentions_week2": 19,
-      "mentions_weeks3_4": 13,
-      "total_mentions": 41,
-      "first_mention": "2026-03-19",
+      "score": 21.0,
+      "mentions_week1": 8,
+      "mentions_week2": 20,
+      "mentions_weeks3_4": 12,
+      "total_mentions": 40,
+      "first_mention": "2026-03-20",
       "last_mention": "2026-04-14",
       "team": "Milwaukee Bucks",
       "rank": 1
     },
     {
       "player": "Ja Morant",
-      "score": 7.25,
-      "mentions_week1": 6,
-      "mentions_week2": 2,
+      "score": 5.75,
+      "mentions_week1": 3,
+      "mentions_week2": 5,
       "mentions_weeks3_4": 1,
       "total_mentions": 9,
       "first_mention": "2026-03-29",
@@ -55,18 +55,6 @@
       "rank": 4
     },
     {
-      "player": "James Harden",
-      "score": 2.25,
-      "mentions_week1": 2,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 3,
-      "first_mention": "2026-03-30",
-      "last_mention": "2026-04-13",
-      "team": "Los Angeles Clippers",
-      "rank": 5
-    },
-    {
       "player": "Luka Doncic",
       "score": 1.75,
       "mentions_week1": 0,
@@ -76,19 +64,19 @@
       "first_mention": "2026-04-01",
       "last_mention": "2026-04-08",
       "team": "Los Angeles Lakers",
-      "rank": 6
+      "rank": 5
     },
     {
-      "player": "Aaron Gordon",
+      "player": "James Harden",
       "score": 1.75,
-      "mentions_week1": 0,
-      "mentions_week2": 3,
+      "mentions_week1": 1,
+      "mentions_week2": 1,
       "mentions_weeks3_4": 1,
-      "total_mentions": 4,
-      "first_mention": "2026-03-26",
-      "last_mention": "2026-04-07",
-      "team": "Denver Nuggets",
-      "rank": 7
+      "total_mentions": 3,
+      "first_mention": "2026-03-30",
+      "last_mention": "2026-04-13",
+      "team": "Los Angeles Clippers",
+      "rank": 6
     },
     {
       "player": "Domantas Sabonis",
@@ -100,7 +88,7 @@
       "first_mention": "2026-04-03",
       "last_mention": "2026-04-14",
       "team": "Sacramento Kings",
-      "rank": 8
+      "rank": 7
     },
     {
       "player": "Zach LaVine",
@@ -112,6 +100,18 @@
       "first_mention": "2026-04-03",
       "last_mention": "2026-04-14",
       "team": "Sacramento Kings",
+      "rank": 8
+    },
+    {
+      "player": "Aaron Gordon",
+      "score": 1.25,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 3,
+      "total_mentions": 4,
+      "first_mention": "2026-03-26",
+      "last_mention": "2026-04-07",
+      "team": "Denver Nuggets",
       "rank": 9
     },
     {
@@ -127,18 +127,6 @@
       "rank": 10
     },
     {
-      "player": "Ivica Zubac",
-      "score": 1.25,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 2,
-      "first_mention": "2026-03-30",
-      "last_mention": "2026-04-09",
-      "team": "Los Angeles Clippers",
-      "rank": 11
-    },
-    {
       "player": "Jonathan Kuminga",
       "score": 1.0,
       "mentions_week1": 0,
@@ -148,19 +136,7 @@
       "first_mention": "2026-03-20",
       "last_mention": "2026-04-07",
       "team": "Golden State Warriors",
-      "rank": 12
-    },
-    {
-      "player": "Kawhi Leonard",
-      "score": 1.0,
-      "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 3,
-      "first_mention": "2026-03-29",
-      "last_mention": "2026-04-02",
-      "team": "Los Angeles Clippers",
-      "rank": 13
+      "rank": 11
     },
     {
       "player": "LeBron James",
@@ -172,7 +148,7 @@
       "first_mention": "2026-03-29",
       "last_mention": "2026-04-05",
       "team": "Los Angeles Lakers",
-      "rank": 14
+      "rank": 12
     },
     {
       "player": "Derik Queen",
@@ -184,7 +160,7 @@
       "first_mention": "2026-04-14",
       "last_mention": "2026-04-14",
       "team": "New Orleans Pelicans",
-      "rank": 15
+      "rank": 13
     },
     {
       "player": "Klay Thompson",
@@ -196,31 +172,31 @@
       "first_mention": "2026-04-13",
       "last_mention": "2026-04-13",
       "team": "Dallas Mavericks",
+      "rank": 14
+    },
+    {
+      "player": "Kawhi Leonard",
+      "score": 0.75,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 3,
+      "total_mentions": 3,
+      "first_mention": "2026-03-29",
+      "last_mention": "2026-04-02",
+      "team": "Los Angeles Clippers",
+      "rank": 15
+    },
+    {
+      "player": "Ivica Zubac",
+      "score": 0.75,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 2,
+      "first_mention": "2026-03-30",
+      "last_mention": "2026-04-09",
+      "team": "Los Angeles Clippers",
       "rank": 16
-    },
-    {
-      "player": "Gary Harris",
-      "score": 0.75,
-      "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 2,
-      "first_mention": "2026-03-26",
-      "last_mention": "2026-04-02",
-      "team": "Denver Nuggets",
-      "rank": 17
-    },
-    {
-      "player": "Nikola Jokic",
-      "score": 0.75,
-      "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 2,
-      "first_mention": "2026-03-26",
-      "last_mention": "2026-04-02",
-      "team": "Denver Nuggets",
-      "rank": 18
     },
     {
       "player": "Buddy Hield",
@@ -232,6 +208,30 @@
       "first_mention": "2026-03-20",
       "last_mention": "2026-03-20",
       "team": "Golden State Warriors",
+      "rank": 17
+    },
+    {
+      "player": "Gary Harris",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 2,
+      "total_mentions": 2,
+      "first_mention": "2026-03-26",
+      "last_mention": "2026-04-02",
+      "team": "Denver Nuggets",
+      "rank": 18
+    },
+    {
+      "player": "Nikola Jokic",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 2,
+      "total_mentions": 2,
+      "first_mention": "2026-03-26",
+      "last_mention": "2026-04-02",
+      "team": "Denver Nuggets",
       "rank": 19
     },
     {
@@ -995,13 +995,6 @@
         "text_html": "Instead of looking to trade Antetokounmpo this summer, the Bucks could try to acquire new players -- most likely other teams' distressed assets -- in the hope of convincing Antetokounmpo to sign the extension they can offer him in October. <a href=\"https://www.espn.com/nba/story/_/id/48225217/how-unique-milwaukee-bucks-ownership-structure-impacts-giannis-antetokounmpo-trade-wes-edens-jimmy-haslam-marc-lasry\" target=\"_blank\" style=\"color: #1a73e8;\">\"There's still another play,\" said one source close to the organization. \"Put a maximum contract extension in front of Giannis -- and dare him to turn it down.\"</a>",
         "outlet": "ESPN",
         "source_url": "https://www.espn.com/nba/story/_/id/48225217/how-unique-milwaukee-bucks-ownership-structure-impacts-giannis-antetokounmpo-trade-wes-edens-jimmy-haslam-marc-lasry"
-      },
-      {
-        "date": "2026-03-19",
-        "text": "Haynes believes the Bucks could still convince Antetokounmpo to stay if they build a roster capable of contending for a championship. \u201cKnowing Giannis, the way (the Bucks) do that is very complicated,\u201d Haynes said. \u201cHe is a pretty loyal guy. He likes his routines. He knows Milwaukee like the back of his hand. He loves it there. His kids grew up there.\u201cIf the Milwaukee Bucks can make a compelling case and basically convince him that they have the tools, the resources, and can pull off a few moves that will place them in deep consideration to be a championship-contending team, I think Giannis can be convinced.\u201dPro Football Network",
-        "text_html": "Haynes believes the Bucks could still convince Antetokounmpo to stay if they build a roster capable of contending for a championship. \u201cKnowing Giannis, the way (the Bucks) do that is very complicated,\u201d Haynes said. \u201cHe is a pretty loyal guy. He likes his routines. He knows Milwaukee like the back of his hand. He loves it there. His kids grew up there. <a href=\"https://www.profootballnetwork.com/nba/chris-haynes-bucks-convince-giannis-antetokounmpo-stay/\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cIf the Milwaukee Bucks can make a compelling case and basically convince him that they have the tools, the resources, and can pull off a few moves that will place them in deep consideration to be a championship-contending team, I think Giannis can be convinced.\u201d</a>",
-        "outlet": "Pro Football Network",
-        "source_url": "https://www.profootballnetwork.com/nba/chris-haynes-bucks-convince-giannis-antetokounmpo-stay/"
       }
     ],
     "Domantas Sabonis": [
@@ -1569,8 +1562,7 @@
       "2026-03-26": 1,
       "2026-03-24": 1,
       "2026-03-21": 5,
-      "2026-03-20": 3,
-      "2026-03-19": 1
+      "2026-03-20": 3
     },
     "Domantas Sabonis": {
       "2026-04-14": 1,
