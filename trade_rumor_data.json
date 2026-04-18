@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-04-17T19:57:49.403735",
+  "generated_at": "2026-04-18T03:47:22.000766",
   "scrape_window_days": 28,
-  "window_start": "2026-03-20",
-  "window_end": "2026-04-17",
-  "total_rumors": 133,
-  "total_players": 48,
+  "window_start": "2026-03-21",
+  "window_end": "2026-04-18",
+  "total_rumors": 126,
+  "total_players": 44,
   "rankings": [
     {
       "player": "Giannis Antetokounmpo",
-      "score": 24.0,
-      "mentions_week1": 11,
-      "mentions_week2": 20,
-      "mentions_weeks3_4": 12,
-      "total_mentions": 43,
-      "first_mention": "2026-03-20",
+      "score": 22.25,
+      "mentions_week1": 9,
+      "mentions_week2": 22,
+      "mentions_weeks3_4": 9,
+      "total_mentions": 40,
+      "first_mention": "2026-03-21",
       "last_mention": "2026-04-17",
       "team": "Milwaukee Bucks",
       "rank": 1
@@ -31,6 +31,18 @@
       "rank": 2
     },
     {
+      "player": "James Harden",
+      "score": 3.75,
+      "mentions_week1": 3,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 5,
+      "first_mention": "2026-03-30",
+      "last_mention": "2026-04-17",
+      "team": "Los Angeles Clippers",
+      "rank": 3
+    },
+    {
       "player": "Anthony Davis",
       "score": 3.25,
       "mentions_week1": 1,
@@ -40,7 +52,7 @@
       "first_mention": "2026-03-31",
       "last_mention": "2026-04-14",
       "team": "Dallas Mavericks",
-      "rank": 3
+      "rank": 4
     },
     {
       "player": "Zion Williamson",
@@ -52,18 +64,6 @@
       "first_mention": "2026-04-01",
       "last_mention": "2026-04-14",
       "team": "New Orleans Pelicans",
-      "rank": 4
-    },
-    {
-      "player": "James Harden",
-      "score": 2.75,
-      "mentions_week1": 2,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 4,
-      "first_mention": "2026-03-30",
-      "last_mention": "2026-04-17",
-      "team": "Los Angeles Clippers",
       "rank": 5
     },
     {
@@ -79,27 +79,27 @@
       "rank": 6
     },
     {
-      "player": "Domantas Sabonis",
-      "score": 1.5,
+      "player": "Kawhi Leonard",
+      "score": 1.75,
       "mentions_week1": 1,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 2,
-      "first_mention": "2026-04-03",
-      "last_mention": "2026-04-14",
-      "team": "Sacramento Kings",
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 3,
+      "total_mentions": 4,
+      "first_mention": "2026-03-29",
+      "last_mention": "2026-04-17",
+      "team": "Los Angeles Clippers",
       "rank": 7
     },
     {
-      "player": "Zach LaVine",
-      "score": 1.5,
+      "player": "Ivica Zubac",
+      "score": 1.75,
       "mentions_week1": 1,
       "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 2,
-      "first_mention": "2026-04-03",
-      "last_mention": "2026-04-14",
-      "team": "Sacramento Kings",
+      "mentions_weeks3_4": 1,
+      "total_mentions": 3,
+      "first_mention": "2026-03-30",
+      "last_mention": "2026-04-17",
+      "team": "Los Angeles Clippers",
       "rank": 8
     },
     {
@@ -127,16 +127,28 @@
       "rank": 10
     },
     {
-      "player": "Jonathan Kuminga",
-      "score": 1.0,
-      "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 3,
-      "first_mention": "2026-03-20",
-      "last_mention": "2026-04-07",
-      "team": "Golden State Warriors",
+      "player": "Domantas Sabonis",
+      "score": 1.25,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 2,
+      "first_mention": "2026-04-03",
+      "last_mention": "2026-04-14",
+      "team": "Sacramento Kings",
       "rank": 11
+    },
+    {
+      "player": "Zach LaVine",
+      "score": 1.25,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 2,
+      "first_mention": "2026-04-03",
+      "last_mention": "2026-04-14",
+      "team": "Sacramento Kings",
+      "rank": 12
     },
     {
       "player": "LeBron James",
@@ -148,7 +160,7 @@
       "first_mention": "2026-03-29",
       "last_mention": "2026-04-05",
       "team": "Los Angeles Lakers",
-      "rank": 12
+      "rank": 13
     },
     {
       "player": "Derik Queen",
@@ -160,7 +172,7 @@
       "first_mention": "2026-04-14",
       "last_mention": "2026-04-14",
       "team": "New Orleans Pelicans",
-      "rank": 13
+      "rank": 14
     },
     {
       "player": "Klay Thompson",
@@ -172,7 +184,7 @@
       "first_mention": "2026-04-13",
       "last_mention": "2026-04-13",
       "team": "Dallas Mavericks",
-      "rank": 14
+      "rank": 15
     },
     {
       "player": "Myles Turner",
@@ -184,7 +196,7 @@
       "first_mention": "2026-04-17",
       "last_mention": "2026-04-17",
       "team": "Milwaukee Bucks",
-      "rank": 15
+      "rank": 16
     },
     {
       "player": "Paolo Banchero",
@@ -196,43 +208,7 @@
       "first_mention": "2026-04-17",
       "last_mention": "2026-04-17",
       "team": "Orlando Magic",
-      "rank": 16
-    },
-    {
-      "player": "Kawhi Leonard",
-      "score": 0.75,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 3,
-      "total_mentions": 3,
-      "first_mention": "2026-03-29",
-      "last_mention": "2026-04-02",
-      "team": "Los Angeles Clippers",
       "rank": 17
-    },
-    {
-      "player": "Ivica Zubac",
-      "score": 0.75,
-      "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 2,
-      "first_mention": "2026-03-30",
-      "last_mention": "2026-04-09",
-      "team": "Los Angeles Clippers",
-      "rank": 18
-    },
-    {
-      "player": "Buddy Hield",
-      "score": 0.5,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 2,
-      "first_mention": "2026-03-20",
-      "last_mention": "2026-03-20",
-      "team": "Golden State Warriors",
-      "rank": 19
     },
     {
       "player": "Gary Harris",
@@ -244,7 +220,7 @@
       "first_mention": "2026-03-26",
       "last_mention": "2026-04-02",
       "team": "Denver Nuggets",
-      "rank": 20
+      "rank": 18
     },
     {
       "player": "Nikola Jokic",
@@ -256,7 +232,7 @@
       "first_mention": "2026-03-26",
       "last_mention": "2026-04-02",
       "team": "Denver Nuggets",
-      "rank": 21
+      "rank": 19
     },
     {
       "player": "Bronny James",
@@ -268,19 +244,7 @@
       "first_mention": "2026-04-05",
       "last_mention": "2026-04-05",
       "team": "Los Angeles Lakers",
-      "rank": 22
-    },
-    {
-      "player": "Cameron Johnson",
-      "score": 0.5,
-      "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-04-03",
-      "last_mention": "2026-04-03",
-      "team": "Denver Nuggets",
-      "rank": 23
+      "rank": 20
     },
     {
       "player": "Dalton Knecht",
@@ -292,31 +256,7 @@
       "first_mention": "2026-04-05",
       "last_mention": "2026-04-05",
       "team": "Los Angeles Lakers",
-      "rank": 24
-    },
-    {
-      "player": "DeMar DeRozan",
-      "score": 0.5,
-      "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-04-03",
-      "last_mention": "2026-04-03",
-      "team": "Sacramento Kings",
-      "rank": 25
-    },
-    {
-      "player": "Donovan Mitchell",
-      "score": 0.5,
-      "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-04-03",
-      "last_mention": "2026-04-03",
-      "team": "Cleveland Cavaliers",
-      "rank": 26
+      "rank": 21
     },
     {
       "player": "Jaden Ivey",
@@ -328,7 +268,7 @@
       "first_mention": "2026-04-06",
       "last_mention": "2026-04-06",
       "team": "Chicago Bulls",
-      "rank": 27
+      "rank": 22
     },
     {
       "player": "Jalen Green",
@@ -340,7 +280,7 @@
       "first_mention": "2026-04-07",
       "last_mention": "2026-04-07",
       "team": "Phoenix Suns",
-      "rank": 28
+      "rank": 23
     },
     {
       "player": "Joel Embiid",
@@ -352,7 +292,19 @@
       "first_mention": "2026-04-08",
       "last_mention": "2026-04-08",
       "team": "Philadelphia 76ers",
-      "rank": 29
+      "rank": 24
+    },
+    {
+      "player": "Jonathan Kuminga",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-04-07",
+      "last_mention": "2026-04-07",
+      "team": "Golden State Warriors",
+      "rank": 25
     },
     {
       "player": "Jrue Holiday",
@@ -364,7 +316,7 @@
       "first_mention": "2026-04-07",
       "last_mention": "2026-04-07",
       "team": "Portland Trail Blazers",
-      "rank": 30
+      "rank": 26
     },
     {
       "player": "Kel'el Ware",
@@ -376,7 +328,7 @@
       "first_mention": "2026-04-07",
       "last_mention": "2026-04-07",
       "team": "Miami Heat",
-      "rank": 31
+      "rank": 27
     },
     {
       "player": "Kevin Durant",
@@ -388,31 +340,7 @@
       "first_mention": "2026-04-07",
       "last_mention": "2026-04-07",
       "team": "Houston Rockets",
-      "rank": 32
-    },
-    {
-      "player": "Malik Monk",
-      "score": 0.5,
-      "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-04-03",
-      "last_mention": "2026-04-03",
-      "team": "Sacramento Kings",
-      "rank": 33
-    },
-    {
-      "player": "Mark Williams",
-      "score": 0.5,
-      "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-04-03",
-      "last_mention": "2026-04-03",
-      "team": "Phoenix Suns",
-      "rank": 34
+      "rank": 28
     },
     {
       "player": "Mikal Bridges",
@@ -424,19 +352,7 @@
       "first_mention": "2026-04-08",
       "last_mention": "2026-04-08",
       "team": "New York Knicks",
-      "rank": 35
-    },
-    {
-      "player": "Peyton Watson",
-      "score": 0.5,
-      "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-04-03",
-      "last_mention": "2026-04-03",
-      "team": "Denver Nuggets",
-      "rank": 36
+      "rank": 29
     },
     {
       "player": "Tyler Herro",
@@ -448,7 +364,7 @@
       "first_mention": "2026-04-07",
       "last_mention": "2026-04-07",
       "team": "Miami Heat",
-      "rank": 37
+      "rank": 30
     },
     {
       "player": "Bismack Biyombo",
@@ -460,7 +376,43 @@
       "first_mention": "2026-03-21",
       "last_mention": "2026-03-21",
       "team": "San Antonio Spurs",
-      "rank": 38
+      "rank": 31
+    },
+    {
+      "player": "Cameron Johnson",
+      "score": 0.25,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 1,
+      "first_mention": "2026-04-03",
+      "last_mention": "2026-04-03",
+      "team": "Denver Nuggets",
+      "rank": 32
+    },
+    {
+      "player": "DeMar DeRozan",
+      "score": 0.25,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 1,
+      "first_mention": "2026-04-03",
+      "last_mention": "2026-04-03",
+      "team": "Sacramento Kings",
+      "rank": 33
+    },
+    {
+      "player": "Donovan Mitchell",
+      "score": 0.25,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 1,
+      "first_mention": "2026-04-03",
+      "last_mention": "2026-04-03",
+      "team": "Cleveland Cavaliers",
+      "rank": 34
     },
     {
       "player": "Evan Mobley",
@@ -472,19 +424,7 @@
       "first_mention": "2026-03-21",
       "last_mention": "2026-03-21",
       "team": "Cleveland Cavaliers",
-      "rank": 39
-    },
-    {
-      "player": "Isaac Okoro",
-      "score": 0.25,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 1,
-      "first_mention": "2026-03-20",
-      "last_mention": "2026-03-20",
-      "team": "Chicago Bulls",
-      "rank": 40
+      "rank": 35
     },
     {
       "player": "Jared McCain",
@@ -496,7 +436,7 @@
       "first_mention": "2026-03-23",
       "last_mention": "2026-03-23",
       "team": "Philadelphia 76ers",
-      "rank": 41
+      "rank": 36
     },
     {
       "player": "Jarrett Allen",
@@ -508,7 +448,7 @@
       "first_mention": "2026-04-01",
       "last_mention": "2026-04-01",
       "team": "Cleveland Cavaliers",
-      "rank": 42
+      "rank": 37
     },
     {
       "player": "Keldon Johnson",
@@ -520,31 +460,31 @@
       "first_mention": "2026-03-21",
       "last_mention": "2026-03-21",
       "team": "San Antonio Spurs",
-      "rank": 43
+      "rank": 38
     },
     {
-      "player": "Kristaps Porzingis",
+      "player": "Malik Monk",
       "score": 0.25,
       "mentions_week1": 0,
       "mentions_week2": 0,
       "mentions_weeks3_4": 1,
       "total_mentions": 1,
-      "first_mention": "2026-03-20",
-      "last_mention": "2026-03-20",
-      "team": "Atlanta Hawks",
-      "rank": 44
+      "first_mention": "2026-04-03",
+      "last_mention": "2026-04-03",
+      "team": "Sacramento Kings",
+      "rank": 39
     },
     {
-      "player": "Lonzo Ball",
+      "player": "Mark Williams",
       "score": 0.25,
       "mentions_week1": 0,
       "mentions_week2": 0,
       "mentions_weeks3_4": 1,
       "total_mentions": 1,
-      "first_mention": "2026-03-20",
-      "last_mention": "2026-03-20",
-      "team": "Cleveland Cavaliers",
-      "rank": 45
+      "first_mention": "2026-04-03",
+      "last_mention": "2026-04-03",
+      "team": "Phoenix Suns",
+      "rank": 40
     },
     {
       "player": "Nicolas Batum",
@@ -556,7 +496,19 @@
       "first_mention": "2026-03-30",
       "last_mention": "2026-03-30",
       "team": "Cleveland Cavaliers",
-      "rank": 46
+      "rank": 41
+    },
+    {
+      "player": "Peyton Watson",
+      "score": 0.25,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 1,
+      "first_mention": "2026-04-03",
+      "last_mention": "2026-04-03",
+      "team": "Denver Nuggets",
+      "rank": 42
     },
     {
       "player": "Rui Hachimura",
@@ -568,7 +520,7 @@
       "first_mention": "2026-03-31",
       "last_mention": "2026-03-31",
       "team": "Los Angeles Lakers",
-      "rank": 47
+      "rank": 43
     },
     {
       "player": "VJ Edgecombe",
@@ -580,10 +532,100 @@
       "first_mention": "2026-03-21",
       "last_mention": "2026-03-21",
       "team": "Cleveland Cavaliers",
-      "rank": 48
+      "rank": 44
     }
   ],
   "player_rumors": {
+    "James Harden": [
+      {
+        "date": "2026-04-17",
+        "text": "Frank signaled that the Clippers would like to extend Leonard, who on Wednesday night requested he be given time to \u201ccry about this loss a little bit more\u201d before talking about his future.Frank acknowledged that questions about trading Leonard came once the Clippers traded James Harden and Ivica Zubac the week of the NBA trade deadline. But the franchise is focused on getting back to contender status with Leonard in the fold. \u201cAt the appropriate time, we\u2019ll sit down with Kawhi, and very similar to 2024, lay out our plan,\u201d Frank said. \u201cAnd if our goals are aligned, then we\u2019d like to win with Kawhi.\u201dNew York Times",
+        "text_html": "<a href=\"https://www.nytimes.com/athletic/7205699/2026/04/17/clippers-tyronn-lue-future-kawhi-leonard-nba/\" target=\"_blank\" style=\"color: #1a73e8;\">Frank signaled that the Clippers would like to extend Leonard, who on Wednesday night requested he be given time to \u201ccry about this loss a little bit more\u201d before talking about his future.</a> Frank acknowledged that questions about trading Leonard came once the Clippers traded James Harden and Ivica Zubac the week of the NBA trade deadline. But the franchise is focused on getting back to contender status with Leonard in the fold. \u201cAt the appropriate time, we\u2019ll sit down with Kawhi, and very similar to 2024, lay out our plan,\u201d Frank said. \u201cAnd if our goals are aligned, then we\u2019d like to win with Kawhi.\u201d",
+        "outlet": "New York Times",
+        "source_url": "https://www.nytimes.com/athletic/7205699/2026/04/17/clippers-tyronn-lue-future-kawhi-leonard-nba/"
+      },
+      {
+        "date": "2026-04-17",
+        "text": "Harden has a $42 million player option for next season that he\u2019s likely to decline, a league source said. But a longer-term deal at a lesser number still would not be cheap. With today\u2019s rules, with the way high payrolls chip away at resources and wallets, teams can\u2019t stay so expensive while continuing to lose in the second round. Meanwhile, Mitchell, who can hit free agency in 2027, becomes eligible for an extension this summer.If he signs it, the Cavs can move forward with him at their core. If he doesn\u2019t, the organization will discuss the possibility of moving him,league sources said.New York Times",
+        "text_html": "Harden has a $42 million player option for next season that he\u2019s likely to decline, a league source said. But a longer-term deal at a lesser number still would not be cheap. With today\u2019s rules, with the way high payrolls chip away at resources and wallets, teams can\u2019t stay so expensive while continuing to lose in the second round. Meanwhile, Mitchell, who can hit free agency in 2027, becomes eligible for an extension this summer. <a href=\"https://www.nytimes.com/athletic/7199232/2026/04/17/james-harden-cavaliers-nba-playoffs-expectations/\" target=\"_blank\" style=\"color: #1a73e8;\">If he signs it, the Cavs can move forward with him at their core. If he doesn\u2019t, the organization will discuss the possibility of moving him,</a> league sources said.",
+        "outlet": "New York Times",
+        "source_url": "https://www.nytimes.com/athletic/7199232/2026/04/17/james-harden-cavaliers-nba-playoffs-expectations/"
+      },
+      {
+        "date": "2026-04-13",
+        "text": "James Harden made one request upon joining the Cleveland Cavaliers after the big trade in February. It was something off the court, a practice he\u2019d engaged in for most of his 17 storied NBA seasons, where tape ends up on the floor. The kind of thing a few of his new, younger Cavaliers teammates had never done before, while even some veterans had only dabbled in it here or there, but certainly not in Cleveland.When Harden\u2019s new coach, Kenny Atkinson, heard Harden make the request, he scrunched his eyes and shook his head. \u201cI\u2019m like, eh, this isn\u2019t my thing,\u201d Atkinson recalled as his initial response. There are other teams in the NBA that would simply refuse to partake in such behavior. But Harden was coming from L.A., where this sort of thing was common.New York Times",
+        "text_html": "James Harden made one request upon joining the Cleveland Cavaliers after the big trade in February. It was something off the court, a practice he\u2019d engaged in for most of his 17 storied NBA seasons, where tape ends up on the floor. The kind of thing a few of his new, younger Cavaliers teammates had never done before, while even some veterans had only dabbled in it here or there, but certainly not in Cleveland. <a href=\"https://www.nytimes.com/athletic/7175875/2026/04/07/james-harden-cavs-nba-request/\" target=\"_blank\" style=\"color: #1a73e8;\">When Harden\u2019s new coach, Kenny Atkinson, heard Harden make the request, he scrunched his eyes and shook his head. \u201cI\u2019m like, eh, this isn\u2019t my thing,\u201d Atkinson recalled as his initial response</a>. There are other teams in the NBA that would simply refuse to partake in such behavior. But Harden was coming from L.A., where this sort of thing was common.",
+        "outlet": "New York Times",
+        "source_url": "https://www.nytimes.com/athletic/7175875/2026/04/07/james-harden-cavs-nba-request/"
+      },
+      {
+        "date": "2026-04-09",
+        "text": "For slower teams, meanwhile, a more deliberate pace often arises because of their superior personnel. \"A lot of the better teams, they do have a slower pace,\"\u00a0LA Clippers\u00a0coach Tyronn Lue said in late January, just before his team traded\u00a0James Harden\u00a0and\u00a0Ivica Zubac.\"I think because you're playing with stars or guys that are max players, they're going to slow the offense down because you want to play through them and get the ball in their hands.\"ESPN",
+        "text_html": "<a href=\"https://www.espn.com/nba/story/_/id/48414857/nba-fast-pace-slow-pace-offensive-efficiency-playoff-implications\" target=\"_blank\" style=\"color: #1a73e8;\">For slower teams, meanwhile, a more deliberate pace often arises because of their superior personnel. \"A lot of the better teams, they do have a slower pace,\" LA Clippers coach Tyronn Lue said in late January, just before his team traded James Harden and Ivica Zubac.</a> \"I think because you're playing with stars or guys that are max players, they're going to slow the offense down because you want to play through them and get the ball in their hands.\"",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/48414857/nba-fast-pace-slow-pace-offensive-efficiency-playoff-implications"
+      },
+      {
+        "date": "2026-03-30",
+        "text": "Nicolas Batum on James Harden trade to Cleveland: I was shocked. James\u00a0was huge though for us, last year when Kawhi was in and out.he\u00a0was the guy, and again this year like\u00a0Kawhi missed I think two or three weeks\u00a0because of an ankle injury, and he pretty\u00a0much carried us by himself, he got like\u00a050-point games, he got like 40-some\u00a0triple doubles\u2026 I mean, he is who he is, one\u00a0of the best players of all time! So when\u00a0you lost a guy like that just in two\u00a0days, I mean it happened in two days\u00a0really, so that was like shocking, but DG been amazing so far with us.YouTube",
+        "text_html": "<a href=\"https://www.youtube.com/watch?v=pnSh6C3VYGo&t=543s\" target=\"_blank\" style=\"color: #1a73e8;\">Nicolas Batum on James Harden trade to Cleveland: I was shocked. James was huge though for us, last year when Kawhi was in and out.</a> he was the guy, and again this year like Kawhi missed I think two or three weeks because of an ankle injury, and he pretty much carried us by himself, he got like 50-point games, he got like 40-some triple doubles\u2026 I mean, he is who he is, one of the best players of all time! So when you lost a guy like that just in two days, I mean it happened in two days really, so that was like shocking, but DG been amazing so far with us.",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=pnSh6C3VYGo&t=543s"
+      }
+    ],
+    "Ivica Zubac": [
+      {
+        "date": "2026-04-17",
+        "text": "Frank signaled that the Clippers would like to extend Leonard, who on Wednesday night requested he be given time to \u201ccry about this loss a little bit more\u201d before talking about his future.Frank acknowledged that questions about trading Leonard came once the Clippers traded James Harden and Ivica Zubac the week of the NBA trade deadline. But the franchise is focused on getting back to contender status with Leonard in the fold. \u201cAt the appropriate time, we\u2019ll sit down with Kawhi, and very similar to 2024, lay out our plan,\u201d Frank said. \u201cAnd if our goals are aligned, then we\u2019d like to win with Kawhi.\u201dNew York Times",
+        "text_html": "<a href=\"https://www.nytimes.com/athletic/7205699/2026/04/17/clippers-tyronn-lue-future-kawhi-leonard-nba/\" target=\"_blank\" style=\"color: #1a73e8;\">Frank signaled that the Clippers would like to extend Leonard, who on Wednesday night requested he be given time to \u201ccry about this loss a little bit more\u201d before talking about his future.</a> Frank acknowledged that questions about trading Leonard came once the Clippers traded James Harden and Ivica Zubac the week of the NBA trade deadline. But the franchise is focused on getting back to contender status with Leonard in the fold. \u201cAt the appropriate time, we\u2019ll sit down with Kawhi, and very similar to 2024, lay out our plan,\u201d Frank said. \u201cAnd if our goals are aligned, then we\u2019d like to win with Kawhi.\u201d",
+        "outlet": "New York Times",
+        "source_url": "https://www.nytimes.com/athletic/7205699/2026/04/17/clippers-tyronn-lue-future-kawhi-leonard-nba/"
+      },
+      {
+        "date": "2026-04-09",
+        "text": "For slower teams, meanwhile, a more deliberate pace often arises because of their superior personnel. \"A lot of the better teams, they do have a slower pace,\"\u00a0LA Clippers\u00a0coach Tyronn Lue said in late January, just before his team traded\u00a0James Harden\u00a0and\u00a0Ivica Zubac.\"I think because you're playing with stars or guys that are max players, they're going to slow the offense down because you want to play through them and get the ball in their hands.\"ESPN",
+        "text_html": "<a href=\"https://www.espn.com/nba/story/_/id/48414857/nba-fast-pace-slow-pace-offensive-efficiency-playoff-implications\" target=\"_blank\" style=\"color: #1a73e8;\">For slower teams, meanwhile, a more deliberate pace often arises because of their superior personnel. \"A lot of the better teams, they do have a slower pace,\" LA Clippers coach Tyronn Lue said in late January, just before his team traded James Harden and Ivica Zubac.</a> \"I think because you're playing with stars or guys that are max players, they're going to slow the offense down because you want to play through them and get the ball in their hands.\"",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/48414857/nba-fast-pace-slow-pace-offensive-efficiency-playoff-implications"
+      },
+      {
+        "date": "2026-03-30",
+        "text": "The Warriors made what has been described as a determined trade run at the Clippers' Kawhi Leonard in the final hour before the Feb. 5 trade buzzersounded under the belief that Leonard might be unexpectedly unavailable after LA agreed to ship Ivica Zubac to Indiana. The Clippers ultimately balked then, but it is reasonable to presume that Golden State will investigate that possibility once again.marcstein.substack.com",
+        "text_html": "<a href=\"https://marcstein.substack.com/p/sunday-best-my-latest-around-the\" target=\"_blank\" style=\"color: #1a73e8;\">The Warriors made what has been described as a determined trade run at the Clippers' Kawhi Leonard in the final hour before the Feb. 5 trade buzzer</a> sounded under the belief that Leonard might be unexpectedly unavailable after LA agreed to ship Ivica Zubac to Indiana. The Clippers ultimately balked then, but it is reasonable to presume that Golden State will investigate that possibility once again.",
+        "outlet": "marcstein.substack.com",
+        "source_url": "https://marcstein.substack.com/p/sunday-best-my-latest-around-the"
+      }
+    ],
+    "Kawhi Leonard": [
+      {
+        "date": "2026-04-17",
+        "text": "Joey Linn:Lawrence Frank says the Clippers\u2019 plan is to win with Kawhi Leonard.x.com",
+        "text_html": "Joey Linn: <a href=\"https://x.com/joeylinn_/status/2045203340490080687?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">Lawrence Frank says the Clippers\u2019 plan is to win with Kawhi Leonard</a>.",
+        "outlet": "x.com",
+        "source_url": "https://x.com/joeylinn_/status/2045203340490080687?s=20"
+      },
+      {
+        "date": "2026-04-02",
+        "text": "Tim Kawakami: Information nugget to illustrate the Warriors' mindset:Multiple NBA sources indicate that they were close a deal for Kawhi Leonard at the deadline before the Clippers pulled out -- and that GSWs plan to be just as aggressive this offseason trying to line up one more run.x.com",
+        "text_html": "Tim Kawakami: Information nugget to illustrate the Warriors' mindset: <a href=\"https://x.com/timkawakami/status/2039711576253698303\" target=\"_blank\" style=\"color: #1a73e8;\">Multiple NBA sources indicate that they were close a deal for Kawhi Leonard at the deadline before the Clippers pulled out -- and that GSWs plan to be just as aggressive this offseason trying to line up one more run</a>.",
+        "outlet": "x.com",
+        "source_url": "https://x.com/timkawakami/status/2039711576253698303"
+      },
+      {
+        "date": "2026-03-30",
+        "text": "The Warriors made what has been described as a determined trade run at the Clippers' Kawhi Leonard in the final hour before the Feb. 5 trade buzzersounded under the belief that Leonard might be unexpectedly unavailable after LA agreed to ship Ivica Zubac to Indiana. The Clippers ultimately balked then, but it is reasonable to presume that Golden State will investigate that possibility once again.marcstein.substack.com",
+        "text_html": "<a href=\"https://marcstein.substack.com/p/sunday-best-my-latest-around-the\" target=\"_blank\" style=\"color: #1a73e8;\">The Warriors made what has been described as a determined trade run at the Clippers' Kawhi Leonard in the final hour before the Feb. 5 trade buzzer</a> sounded under the belief that Leonard might be unexpectedly unavailable after LA agreed to ship Ivica Zubac to Indiana. The Clippers ultimately balked then, but it is reasonable to presume that Golden State will investigate that possibility once again.",
+        "outlet": "marcstein.substack.com",
+        "source_url": "https://marcstein.substack.com/p/sunday-best-my-latest-around-the"
+      },
+      {
+        "date": "2026-03-29",
+        "text": "Tim Kawakami on Warriors offseason: I'm saying Kawhi Leonard, LeBron James. There's complications with both. But you've heard it, I've heard it. I've been aggregated for just speculating it.There is conversation. I'm not saying from the league. I'm just saying, Kawhi\u2019s contract gonna get voided, theoretically. We don't know. That seems to be the number one thing you hear with some other obviously punishment for the Clippers. He could be a free agent. Can you do a sign and trade with a voided contract? I don't. He might not be able to get a max salary is what I'm saying.Spotify",
+        "text_html": "<a href=\"https://open.spotify.com/episode/5DtpWVxCE3AzRFGPfsVA4m?si=7zmKyFQfTMeLYBtXi06B-g&nd=1&dlsi=928770452cff414c\" target=\"_blank\" style=\"color: #1a73e8;\">Tim Kawakami on Warriors offseason: I'm saying Kawhi Leonard, LeBron James. There's complications with both. But you've heard it, I've heard it. I've been aggregated for just speculating it.</a> There is conversation. I'm not saying from the league. I'm just saying, Kawhi\u2019s contract gonna get voided, theoretically. We don't know. That seems to be the number one thing you hear with some other obviously punishment for the Clippers. He could be a free agent. Can you do a sign and trade with a voided contract? I don't. He might not be able to get a max salary is what I'm saying.",
+        "outlet": "Spotify",
+        "source_url": "https://open.spotify.com/episode/5DtpWVxCE3AzRFGPfsVA4m?si=7zmKyFQfTMeLYBtXi06B-g&nd=1&dlsi=928770452cff414c"
+      }
+    ],
     "Giannis Antetokounmpo": [
       {
         "date": "2026-04-17",
@@ -864,27 +906,6 @@
         "text_html": "\u201cSo that\u2019s another good one in terms of: when do you know? You could go viral every day if you wanted. You can report something every day if you want, but if it has long-term ramifications for your credibility, your responsibility, how you treat people, and your relationships, then obviously you have to make a decision. If something you report is going to be unfair or irresponsible, or you\u2019re not giving it the proper time to really marinate and play out, then you\u2019re putting yourself in a tough spot.\u201d Shams Charania: \u201cSo yeah, <a href=\"https://www.youtube.com/watch?v=DjnS-kf7ra4\" target=\"_blank\" style=\"color: #1a73e8;\">the Giannis one, specifically, is certainly one where I think a million times I could have probably reported exactly what I reported the week before the deadline, which was that he was prepared and ready to move on and the team was listening to offers. They literally were listening to the New York Knicks making offers in October</a>. \u201cSo they had listened to offers, but the slight difference was that it had reached such a fever pitch at that point, and they were talking to and listening to Minnesota, Golden State, and Miami. And I\u2019m going on TV. I\u2019m having to report on this. He\u2019s one of the biggest names in the NBA, one of the best players in the NBA. \u201cIt\u2019s irresponsible for me not to report, not to do my job. What I think about more than anything is that I\u2019m a servant for the audience. The audience is going to be let down if I\u2019m not reporting what\u2019s actually going on behind the scenes\u2014not what someone might be telling you, or something you want to hear, or something that might be easier on the ears. I\u2019m always going to try to keep it real when I can.\u201d",
         "outlet": "YouTube",
         "source_url": "https://www.youtube.com/watch?v=DjnS-kf7ra4"
-      },
-      {
-        "date": "2026-03-20",
-        "text": "Milwaukee Bucks\u00a0co-owners Wes Edens and Jimmy Haslam\u00a0told\u00a0ESPN in a joint 90-minute interview that they will decide the path to take with their two-time MVP together, and the most important factor will be whether Giannis Antetokounmpo signs the four-year, $275 million extension he is eligible to receive on Oct. 1.\"Giannis is going into the last year [of his\u00a0contract],\" said Edens, the team's controlling owner until April 2028. \"So one of two things will happen: Either he will be extended or he'll be traded.\"\"The likelihood you'll let him just kind of play out the last year, we can't afford that. It's not consistent with what's good for the organization. That's not a Giannis issue. That's any player that's in their last year.\"ESPN",
-        "text_html": "Milwaukee Bucks co-owners Wes Edens and Jimmy Haslam told ESPN in a joint 90-minute interview that they will decide the path to take with their two-time MVP together, and the most important factor will be whether Giannis Antetokounmpo signs the four-year, $275 million extension he is eligible to receive on Oct. 1. <a href=\"https://www.espn.com/nba/story/_/id/48225217/how-unique-milwaukee-bucks-ownership-structure-impacts-giannis-antetokounmpo-trade-wes-edens-jimmy-haslam-marc-lasry\" target=\"_blank\" style=\"color: #1a73e8;\">\"Giannis is going into the last year [of his contract],\" said Edens, the team's controlling owner until April 2028. \"So one of two things will happen: Either he will be extended or he'll be traded.\"</a> \"The likelihood you'll let him just kind of play out the last year, we can't afford that. It's not consistent with what's good for the organization. That's not a Giannis issue. That's any player that's in their last year.\"",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/48225217/how-unique-milwaukee-bucks-ownership-structure-impacts-giannis-antetokounmpo-trade-wes-edens-jimmy-haslam-marc-lasry"
-      },
-      {
-        "date": "2026-03-20",
-        "text": "Yet team\u00a0sources, rival\u00a0executives\u00a0and league insiders question whether the situation is that simple. Interviews with more than a dozen people with\u00a0knowledge\u00a0of the situation say what's happening in Milwaukee goes beyond a typical NBA franchise's struggle to maintain a winning roster: A unique ownership structure has made it difficult for opposing franchises to identify who is actually running the team. \"This has nothing to do with Giannis and whether he asks out,\" said one\u00a0source\u00a0with\u00a0knowledge\u00a0of the team's operations.\"It's about who's making the decision on whether to trade Giannis, and I don't think anyone knows that. I deal with them all the time and honestly it depends on the day. \"They're not even close to being ready to make a decision like that.\"ESPN",
-        "text_html": "Yet team sources, rival executives and league insiders question whether the situation is that simple. Interviews with more than a dozen people with knowledge of the situation say what's happening in Milwaukee goes beyond a typical NBA franchise's struggle to maintain a winning roster: A unique ownership structure has made it difficult for opposing franchises to identify who is actually running the team. \"This has nothing to do with Giannis and whether he asks out,\" said one source with knowledge of the team's operations. <a href=\"https://www.espn.com/nba/story/_/id/48225217/how-unique-milwaukee-bucks-ownership-structure-impacts-giannis-antetokounmpo-trade-wes-edens-jimmy-haslam-marc-lasry\" target=\"_blank\" style=\"color: #1a73e8;\">\"It's about who's making the decision on whether to trade Giannis, and I don't think anyone knows that. I deal with them all the time and honestly it depends on the day. \"They're not even close to being ready to make a decision like that.\"</a>",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/48225217/how-unique-milwaukee-bucks-ownership-structure-impacts-giannis-antetokounmpo-trade-wes-edens-jimmy-haslam-marc-lasry"
-      },
-      {
-        "date": "2026-03-20",
-        "text": "Instead of looking to trade Antetokounmpo this summer, the Bucks could try to acquire new players -- most likely other teams' distressed assets -- in the hope of convincing Antetokounmpo to sign the extension they can offer him in October.\"There's still another play,\" said one\u00a0source\u00a0close to the organization. \"Put a maximum\u00a0contract\u00a0extension in front of Giannis -- and dare him to turn it down.\"ESPN",
-        "text_html": "Instead of looking to trade Antetokounmpo this summer, the Bucks could try to acquire new players -- most likely other teams' distressed assets -- in the hope of convincing Antetokounmpo to sign the extension they can offer him in October. <a href=\"https://www.espn.com/nba/story/_/id/48225217/how-unique-milwaukee-bucks-ownership-structure-impacts-giannis-antetokounmpo-trade-wes-edens-jimmy-haslam-marc-lasry\" target=\"_blank\" style=\"color: #1a73e8;\">\"There's still another play,\" said one source close to the organization. \"Put a maximum contract extension in front of Giannis -- and dare him to turn it down.\"</a>",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/48225217/how-unique-milwaukee-bucks-ownership-structure-impacts-giannis-antetokounmpo-trade-wes-edens-jimmy-haslam-marc-lasry"
       }
     ],
     "Ja Morant": [
@@ -964,36 +985,6 @@
         "text_html": "NBA Courtside: <a href=\"http://twitter.com/NBA__Courtside/status/2038256879281873271\" target=\"_blank\" style=\"color: #1a73e8;\">Joe Johnson thinks Ja Morant would thrive if he got traded to the Miami Heat in the offseason: \u201cI\u2019m not going to lie, I think he would thrive in that Miami situation. One thing about Pat Riley, he\u2019s going to have a real sit down 1 on 1 with him. He does that with everybody.</a> It\u2019s going to be something in that meeting you\u2019ll be able to take, and run with. All you got to do is apply it. If you apply it, I promise you the sky will be the limit for this kid again\u2026 I want to see Ja back out there throwing grenades, covering his ears\u2026 I never went to the club when I played for the Heat. We worked so hard I couldn\u2019t wait to go lay down\u201d (Via @NightcapShow_ )",
         "outlet": "Twitter",
         "source_url": "http://twitter.com/NBA__Courtside/status/2038256879281873271"
-      }
-    ],
-    "James Harden": [
-      {
-        "date": "2026-04-17",
-        "text": "Harden has a $42 million player option for next season that he\u2019s likely to decline, a league source said. But a longer-term deal at a lesser number still would not be cheap. With today\u2019s rules, with the way high payrolls chip away at resources and wallets, teams can\u2019t stay so expensive while continuing to lose in the second round. Meanwhile, Mitchell, who can hit free agency in 2027, becomes eligible for an extension this summer.If he signs it, the Cavs can move forward with him at their core. If he doesn\u2019t, the organization will discuss the possibility of moving him,league sources said.New York Times",
-        "text_html": "Harden has a $42 million player option for next season that he\u2019s likely to decline, a league source said. But a longer-term deal at a lesser number still would not be cheap. With today\u2019s rules, with the way high payrolls chip away at resources and wallets, teams can\u2019t stay so expensive while continuing to lose in the second round. Meanwhile, Mitchell, who can hit free agency in 2027, becomes eligible for an extension this summer. <a href=\"https://www.nytimes.com/athletic/7199232/2026/04/17/james-harden-cavaliers-nba-playoffs-expectations/\" target=\"_blank\" style=\"color: #1a73e8;\">If he signs it, the Cavs can move forward with him at their core. If he doesn\u2019t, the organization will discuss the possibility of moving him,</a> league sources said.",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/7199232/2026/04/17/james-harden-cavaliers-nba-playoffs-expectations/"
-      },
-      {
-        "date": "2026-04-13",
-        "text": "James Harden made one request upon joining the Cleveland Cavaliers after the big trade in February. It was something off the court, a practice he\u2019d engaged in for most of his 17 storied NBA seasons, where tape ends up on the floor. The kind of thing a few of his new, younger Cavaliers teammates had never done before, while even some veterans had only dabbled in it here or there, but certainly not in Cleveland.When Harden\u2019s new coach, Kenny Atkinson, heard Harden make the request, he scrunched his eyes and shook his head. \u201cI\u2019m like, eh, this isn\u2019t my thing,\u201d Atkinson recalled as his initial response. There are other teams in the NBA that would simply refuse to partake in such behavior. But Harden was coming from L.A., where this sort of thing was common.New York Times",
-        "text_html": "James Harden made one request upon joining the Cleveland Cavaliers after the big trade in February. It was something off the court, a practice he\u2019d engaged in for most of his 17 storied NBA seasons, where tape ends up on the floor. The kind of thing a few of his new, younger Cavaliers teammates had never done before, while even some veterans had only dabbled in it here or there, but certainly not in Cleveland. <a href=\"https://www.nytimes.com/athletic/7175875/2026/04/07/james-harden-cavs-nba-request/\" target=\"_blank\" style=\"color: #1a73e8;\">When Harden\u2019s new coach, Kenny Atkinson, heard Harden make the request, he scrunched his eyes and shook his head. \u201cI\u2019m like, eh, this isn\u2019t my thing,\u201d Atkinson recalled as his initial response</a>. There are other teams in the NBA that would simply refuse to partake in such behavior. But Harden was coming from L.A., where this sort of thing was common.",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/7175875/2026/04/07/james-harden-cavs-nba-request/"
-      },
-      {
-        "date": "2026-04-09",
-        "text": "For slower teams, meanwhile, a more deliberate pace often arises because of their superior personnel. \"A lot of the better teams, they do have a slower pace,\"\u00a0LA Clippers\u00a0coach Tyronn Lue said in late January, just before his team traded\u00a0James Harden\u00a0and\u00a0Ivica Zubac.\"I think because you're playing with stars or guys that are max players, they're going to slow the offense down because you want to play through them and get the ball in their hands.\"ESPN",
-        "text_html": "<a href=\"https://www.espn.com/nba/story/_/id/48414857/nba-fast-pace-slow-pace-offensive-efficiency-playoff-implications\" target=\"_blank\" style=\"color: #1a73e8;\">For slower teams, meanwhile, a more deliberate pace often arises because of their superior personnel. \"A lot of the better teams, they do have a slower pace,\" LA Clippers coach Tyronn Lue said in late January, just before his team traded James Harden and Ivica Zubac.</a> \"I think because you're playing with stars or guys that are max players, they're going to slow the offense down because you want to play through them and get the ball in their hands.\"",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/48414857/nba-fast-pace-slow-pace-offensive-efficiency-playoff-implications"
-      },
-      {
-        "date": "2026-03-30",
-        "text": "Nicolas Batum on James Harden trade to Cleveland: I was shocked. James\u00a0was huge though for us, last year when Kawhi was in and out.he\u00a0was the guy, and again this year like\u00a0Kawhi missed I think two or three weeks\u00a0because of an ankle injury, and he pretty\u00a0much carried us by himself, he got like\u00a050-point games, he got like 40-some\u00a0triple doubles\u2026 I mean, he is who he is, one\u00a0of the best players of all time! So when\u00a0you lost a guy like that just in two\u00a0days, I mean it happened in two days\u00a0really, so that was like shocking, but DG been amazing so far with us.YouTube",
-        "text_html": "<a href=\"https://www.youtube.com/watch?v=pnSh6C3VYGo&t=543s\" target=\"_blank\" style=\"color: #1a73e8;\">Nicolas Batum on James Harden trade to Cleveland: I was shocked. James was huge though for us, last year when Kawhi was in and out.</a> he was the guy, and again this year like Kawhi missed I think two or three weeks because of an ankle injury, and he pretty much carried us by himself, he got like 50-point games, he got like 40-some triple doubles\u2026 I mean, he is who he is, one of the best players of all time! So when you lost a guy like that just in two days, I mean it happened in two days really, so that was like shocking, but DG been amazing so far with us.",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=pnSh6C3VYGo&t=543s"
       }
     ],
     "Paolo Banchero": [
@@ -1145,22 +1136,6 @@
         "source_url": "https://basketnews.com/news-244997-klay-thompson-learned-his-time-in-dallas-after-a-tumultuous-season.html"
       }
     ],
-    "Ivica Zubac": [
-      {
-        "date": "2026-04-09",
-        "text": "For slower teams, meanwhile, a more deliberate pace often arises because of their superior personnel. \"A lot of the better teams, they do have a slower pace,\"\u00a0LA Clippers\u00a0coach Tyronn Lue said in late January, just before his team traded\u00a0James Harden\u00a0and\u00a0Ivica Zubac.\"I think because you're playing with stars or guys that are max players, they're going to slow the offense down because you want to play through them and get the ball in their hands.\"ESPN",
-        "text_html": "<a href=\"https://www.espn.com/nba/story/_/id/48414857/nba-fast-pace-slow-pace-offensive-efficiency-playoff-implications\" target=\"_blank\" style=\"color: #1a73e8;\">For slower teams, meanwhile, a more deliberate pace often arises because of their superior personnel. \"A lot of the better teams, they do have a slower pace,\" LA Clippers coach Tyronn Lue said in late January, just before his team traded James Harden and Ivica Zubac.</a> \"I think because you're playing with stars or guys that are max players, they're going to slow the offense down because you want to play through them and get the ball in their hands.\"",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/48414857/nba-fast-pace-slow-pace-offensive-efficiency-playoff-implications"
-      },
-      {
-        "date": "2026-03-30",
-        "text": "The Warriors made what has been described as a determined trade run at the Clippers' Kawhi Leonard in the final hour before the Feb. 5 trade buzzersounded under the belief that Leonard might be unexpectedly unavailable after LA agreed to ship Ivica Zubac to Indiana. The Clippers ultimately balked then, but it is reasonable to presume that Golden State will investigate that possibility once again.marcstein.substack.com",
-        "text_html": "<a href=\"https://marcstein.substack.com/p/sunday-best-my-latest-around-the\" target=\"_blank\" style=\"color: #1a73e8;\">The Warriors made what has been described as a determined trade run at the Clippers' Kawhi Leonard in the final hour before the Feb. 5 trade buzzer</a> sounded under the belief that Leonard might be unexpectedly unavailable after LA agreed to ship Ivica Zubac to Indiana. The Clippers ultimately balked then, but it is reasonable to presume that Golden State will investigate that possibility once again.",
-        "outlet": "marcstein.substack.com",
-        "source_url": "https://marcstein.substack.com/p/sunday-best-my-latest-around-the"
-      }
-    ],
     "Draymond Green": [
       {
         "date": "2026-04-08",
@@ -1264,20 +1239,6 @@
         "text_html": "Draymond Green on Giannis Antetokounmpo: It's the craziest thing I've seen. He's on the sideline cheering and happy for his brothers while meanwhile sitting in the back with two fingers in the air telling the Milwaukee Bucks to get the hell out of his face and I'm going to get y'all investigated. I think this thing could be headed for a nasty breakup if it doesn't happen soon. It's just getting worse and worse by the day. You have your franchise player kind of getting your organization investigated and saying, \u201cHey, by the way y'all go look.\" like this does is not gonna end well. It's funny how all the people want interviews and stuff with Giannis and y'all don't say nothing. But y'all act like Jonathan Kuminga having a problem with his team was the worst thing the NBA has ever seen. <a href=\"https://www.youtube.com/watch?v=aittHaaZu-c&t=680s\" target=\"_blank\" style=\"color: #1a73e8;\">I'm so tired of all you hypocrites. I'm so tired of it. Everybody around y'all y'all just hypocrites. We act like Jonathan Kuminga being disgruntled with the Golden State Warriors was the biggest deal in the world. Meanwhile, we got Giannis Antetokounmpo calling for an investigation and we selectively speak on it.</a> Y'all some interesting folks out there, media people.",
         "outlet": "YouTube",
         "source_url": "https://www.youtube.com/watch?v=aittHaaZu-c&t=680s"
-      },
-      {
-        "date": "2026-03-20",
-        "text": "The partnership reached its end with a trade demand, which led to the Warriors sending Jonathan Kuminga and Buddy Hield to the Atlanta Hawks just before last month\u2019s trade deadline in exchange for Kristaps Porzi\u0146\u0123is. When asked about what goes through his mind the most in advance of Saturday\u2019s reunion game against Kuminga in Atlanta, Kerr answered through the lens of a coach trying to navigate his own team through a losing skid at the end of a long season.\u201cTo be honest,\u201d Kerr\u00a0told\u00a0The Athletic\u00a0with a chuckle, \u201cI haven\u2019t given it much thought because we\u2019re trying to win a damn game. But I can tell you that everybody likes JK. Everybody on our team wants the best for him. I want the best for him.\u201dNew York Times",
-        "text_html": "The partnership reached its end with a trade demand, which led to the Warriors sending Jonathan Kuminga and Buddy Hield to the Atlanta Hawks just before last month\u2019s trade deadline in exchange for Kristaps Porzi\u0146\u0123is. When asked about what goes through his mind the most in advance of Saturday\u2019s reunion game against Kuminga in Atlanta, Kerr answered through the lens of a coach trying to navigate his own team through a losing skid at the end of a long season. <a href=\"https://www.nytimes.com/athletic/7133310/2026/03/20/warriors-jonathan-kuminga-hawks-steve-kerr/\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cTo be honest,\u201d Kerr told The Athletic with a chuckle, \u201cI haven\u2019t given it much thought because we\u2019re trying to win a damn game. But I can tell you that everybody likes JK. Everybody on our team wants the best for him. I want the best for him.\u201d</a>",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/7133310/2026/03/20/warriors-jonathan-kuminga-hawks-steve-kerr/"
-      },
-      {
-        "date": "2026-03-20",
-        "text": "\u201cI think the trade was a good one,\u201d Kerr said. \u201cBoth guys are very talented. I think everything in the NBA is circumstantial. I think players need the right set of circumstances to thrive.And the trade made sense because these were not the right circumstances for JK. And you can see right away that Kristaps has a very clear role on this team, something we\u2019ve needed for years. And we\u2019re looking forward to getting him out there with Steph. And so in the end, hopefully it\u2019s a trade that works for both guys and both teams.\u201dNew York Times",
-        "text_html": "<a href=\"https://www.nytimes.com/athletic/7133310/2026/03/20/warriors-jonathan-kuminga-hawks-steve-kerr/\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cI think the trade was a good one,\u201d Kerr said. \u201cBoth guys are very talented. I think everything in the NBA is circumstantial. I think players need the right set of circumstances to thrive.</a> And the trade made sense because these were not the right circumstances for JK. And you can see right away that Kristaps has a very clear role on this team, something we\u2019ve needed for years. And we\u2019re looking forward to getting him out there with Steph. And so in the end, hopefully it\u2019s a trade that works for both guys and both teams.\u201d",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/7133310/2026/03/20/warriors-jonathan-kuminga-hawks-steve-kerr/"
       }
     ],
     "Tyler Herro": [
@@ -1473,29 +1434,6 @@
         "source_url": "https://x.com/NBABlackburn/status/2037043533572694196"
       }
     ],
-    "Kawhi Leonard": [
-      {
-        "date": "2026-04-02",
-        "text": "Tim Kawakami: Information nugget to illustrate the Warriors' mindset:Multiple NBA sources indicate that they were close a deal for Kawhi Leonard at the deadline before the Clippers pulled out -- and that GSWs plan to be just as aggressive this offseason trying to line up one more run.x.com",
-        "text_html": "Tim Kawakami: Information nugget to illustrate the Warriors' mindset: <a href=\"https://x.com/timkawakami/status/2039711576253698303\" target=\"_blank\" style=\"color: #1a73e8;\">Multiple NBA sources indicate that they were close a deal for Kawhi Leonard at the deadline before the Clippers pulled out -- and that GSWs plan to be just as aggressive this offseason trying to line up one more run</a>.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/timkawakami/status/2039711576253698303"
-      },
-      {
-        "date": "2026-03-30",
-        "text": "The Warriors made what has been described as a determined trade run at the Clippers' Kawhi Leonard in the final hour before the Feb. 5 trade buzzersounded under the belief that Leonard might be unexpectedly unavailable after LA agreed to ship Ivica Zubac to Indiana. The Clippers ultimately balked then, but it is reasonable to presume that Golden State will investigate that possibility once again.marcstein.substack.com",
-        "text_html": "<a href=\"https://marcstein.substack.com/p/sunday-best-my-latest-around-the\" target=\"_blank\" style=\"color: #1a73e8;\">The Warriors made what has been described as a determined trade run at the Clippers' Kawhi Leonard in the final hour before the Feb. 5 trade buzzer</a> sounded under the belief that Leonard might be unexpectedly unavailable after LA agreed to ship Ivica Zubac to Indiana. The Clippers ultimately balked then, but it is reasonable to presume that Golden State will investigate that possibility once again.",
-        "outlet": "marcstein.substack.com",
-        "source_url": "https://marcstein.substack.com/p/sunday-best-my-latest-around-the"
-      },
-      {
-        "date": "2026-03-29",
-        "text": "Tim Kawakami on Warriors offseason: I'm saying Kawhi Leonard, LeBron James. There's complications with both. But you've heard it, I've heard it. I've been aggregated for just speculating it.There is conversation. I'm not saying from the league. I'm just saying, Kawhi\u2019s contract gonna get voided, theoretically. We don't know. That seems to be the number one thing you hear with some other obviously punishment for the Clippers. He could be a free agent. Can you do a sign and trade with a voided contract? I don't. He might not be able to get a max salary is what I'm saying.Spotify",
-        "text_html": "<a href=\"https://open.spotify.com/episode/5DtpWVxCE3AzRFGPfsVA4m?si=7zmKyFQfTMeLYBtXi06B-g&nd=1&dlsi=928770452cff414c\" target=\"_blank\" style=\"color: #1a73e8;\">Tim Kawakami on Warriors offseason: I'm saying Kawhi Leonard, LeBron James. There's complications with both. But you've heard it, I've heard it. I've been aggregated for just speculating it.</a> There is conversation. I'm not saying from the league. I'm just saying, Kawhi\u2019s contract gonna get voided, theoretically. We don't know. That seems to be the number one thing you hear with some other obviously punishment for the Clippers. He could be a free agent. Can you do a sign and trade with a voided contract? I don't. He might not be able to get a max salary is what I'm saying.",
-        "outlet": "Spotify",
-        "source_url": "https://open.spotify.com/episode/5DtpWVxCE3AzRFGPfsVA4m?si=7zmKyFQfTMeLYBtXi06B-g&nd=1&dlsi=928770452cff414c"
-      }
-    ],
     "Jarrett Allen": [
       {
         "date": "2026-04-01",
@@ -1567,52 +1505,26 @@
         "outlet": "San Antonio Express-News",
         "source_url": "https://www.expressnews.com/sports/spurs/article/how-spurs-family-made-bismack-biyombo-s-22088856.php"
       }
-    ],
-    "Buddy Hield": [
-      {
-        "date": "2026-03-20",
-        "text": "The partnership reached its end with a trade demand, which led to the Warriors sending Jonathan Kuminga and Buddy Hield to the Atlanta Hawks just before last month\u2019s trade deadline in exchange for Kristaps Porzi\u0146\u0123is. When asked about what goes through his mind the most in advance of Saturday\u2019s reunion game against Kuminga in Atlanta, Kerr answered through the lens of a coach trying to navigate his own team through a losing skid at the end of a long season.\u201cTo be honest,\u201d Kerr\u00a0told\u00a0The Athletic\u00a0with a chuckle, \u201cI haven\u2019t given it much thought because we\u2019re trying to win a damn game. But I can tell you that everybody likes JK. Everybody on our team wants the best for him. I want the best for him.\u201dNew York Times",
-        "text_html": "The partnership reached its end with a trade demand, which led to the Warriors sending Jonathan Kuminga and Buddy Hield to the Atlanta Hawks just before last month\u2019s trade deadline in exchange for Kristaps Porzi\u0146\u0123is. When asked about what goes through his mind the most in advance of Saturday\u2019s reunion game against Kuminga in Atlanta, Kerr answered through the lens of a coach trying to navigate his own team through a losing skid at the end of a long season. <a href=\"https://www.nytimes.com/athletic/7133310/2026/03/20/warriors-jonathan-kuminga-hawks-steve-kerr/\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cTo be honest,\u201d Kerr told The Athletic with a chuckle, \u201cI haven\u2019t given it much thought because we\u2019re trying to win a damn game. But I can tell you that everybody likes JK. Everybody on our team wants the best for him. I want the best for him.\u201d</a>",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/7133310/2026/03/20/warriors-jonathan-kuminga-hawks-steve-kerr/"
-      },
-      {
-        "date": "2026-03-20",
-        "text": "\u201cI think the trade was a good one,\u201d Kerr said. \u201cBoth guys are very talented. I think everything in the NBA is circumstantial. I think players need the right set of circumstances to thrive.And the trade made sense because these were not the right circumstances for JK. And you can see right away that Kristaps has a very clear role on this team, something we\u2019ve needed for years. And we\u2019re looking forward to getting him out there with Steph. And so in the end, hopefully it\u2019s a trade that works for both guys and both teams.\u201dNew York Times",
-        "text_html": "<a href=\"https://www.nytimes.com/athletic/7133310/2026/03/20/warriors-jonathan-kuminga-hawks-steve-kerr/\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cI think the trade was a good one,\u201d Kerr said. \u201cBoth guys are very talented. I think everything in the NBA is circumstantial. I think players need the right set of circumstances to thrive.</a> And the trade made sense because these were not the right circumstances for JK. And you can see right away that Kristaps has a very clear role on this team, something we\u2019ve needed for years. And we\u2019re looking forward to getting him out there with Steph. And so in the end, hopefully it\u2019s a trade that works for both guys and both teams.\u201d",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/7133310/2026/03/20/warriors-jonathan-kuminga-hawks-steve-kerr/"
-      }
-    ],
-    "Kristaps Porzingis": [
-      {
-        "date": "2026-03-20",
-        "text": "\u201cI think the trade was a good one,\u201d Kerr said. \u201cBoth guys are very talented. I think everything in the NBA is circumstantial. I think players need the right set of circumstances to thrive.And the trade made sense because these were not the right circumstances for JK. And you can see right away that Kristaps has a very clear role on this team, something we\u2019ve needed for years. And we\u2019re looking forward to getting him out there with Steph. And so in the end, hopefully it\u2019s a trade that works for both guys and both teams.\u201dNew York Times",
-        "text_html": "<a href=\"https://www.nytimes.com/athletic/7133310/2026/03/20/warriors-jonathan-kuminga-hawks-steve-kerr/\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cI think the trade was a good one,\u201d Kerr said. \u201cBoth guys are very talented. I think everything in the NBA is circumstantial. I think players need the right set of circumstances to thrive.</a> And the trade made sense because these were not the right circumstances for JK. And you can see right away that Kristaps has a very clear role on this team, something we\u2019ve needed for years. And we\u2019re looking forward to getting him out there with Steph. And so in the end, hopefully it\u2019s a trade that works for both guys and both teams.\u201d",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/7133310/2026/03/20/warriors-jonathan-kuminga-hawks-steve-kerr/"
-      }
-    ],
-    "Lonzo Ball": [
-      {
-        "date": "2026-03-20",
-        "text": "Lonzo Ball never looked right after the\u00a0Bulls\u00a0traded him to Cleveland for Isaac Okoro last offseason, leaving the Cavs no choice but to finally move off of him with a trade to Utah in February. The Jazz promptly waived him as he now sits at home hoping to get another chance in the NBA. \u201cI loved him as a player and a guy, and he was so cerebral,\u201d Bulls coach Billy Donovan said of Ball on Thursday, reflecting on the frequently-injured point guard. \u201cHe was so selfless, that\u2019s really one of the things I admired.To see him have to go through what he went through, to fight to get back, see what he\u2019s going through now, that\u2019s tough for me because it\u2019s almost like what could have been, how good could he have been?\u201dThe big what if with Ball after a serious knee injury back in 2022 cost him over two-and-a-half seasons. Even when he returned, he only showed glimpses of the player he was before the knee betrayed him.Chicago Sun-Times",
-        "text_html": "Lonzo Ball never looked right after the Bulls traded him to Cleveland for Isaac Okoro last offseason, leaving the Cavs no choice but to finally move off of him with a trade to Utah in February. The Jazz promptly waived him as he now sits at home hoping to get another chance in the NBA. \u201cI loved him as a player and a guy, and he was so cerebral,\u201d Bulls coach Billy Donovan said of Ball on Thursday, reflecting on the frequently-injured point guard. \u201cHe was so selfless, that\u2019s really one of the things I admired. <a href=\"https://chicago.suntimes.com/bulls/2026/03/19/still-what-could-have-been-with-former-bull-lonzo-ball\" target=\"_blank\" style=\"color: #1a73e8;\">To see him have to go through what he went through, to fight to get back, see what he\u2019s going through now, that\u2019s tough for me because it\u2019s almost like what could have been, how good could he have been?\u201d</a> The big what if with Ball after a serious knee injury back in 2022 cost him over two-and-a-half seasons. Even when he returned, he only showed glimpses of the player he was before the knee betrayed him.",
-        "outlet": "Chicago Sun-Times",
-        "source_url": "https://chicago.suntimes.com/bulls/2026/03/19/still-what-could-have-been-with-former-bull-lonzo-ball"
-      }
-    ],
-    "Isaac Okoro": [
-      {
-        "date": "2026-03-20",
-        "text": "Lonzo Ball never looked right after the\u00a0Bulls\u00a0traded him to Cleveland for Isaac Okoro last offseason, leaving the Cavs no choice but to finally move off of him with a trade to Utah in February. The Jazz promptly waived him as he now sits at home hoping to get another chance in the NBA. \u201cI loved him as a player and a guy, and he was so cerebral,\u201d Bulls coach Billy Donovan said of Ball on Thursday, reflecting on the frequently-injured point guard. \u201cHe was so selfless, that\u2019s really one of the things I admired.To see him have to go through what he went through, to fight to get back, see what he\u2019s going through now, that\u2019s tough for me because it\u2019s almost like what could have been, how good could he have been?\u201dThe big what if with Ball after a serious knee injury back in 2022 cost him over two-and-a-half seasons. Even when he returned, he only showed glimpses of the player he was before the knee betrayed him.Chicago Sun-Times",
-        "text_html": "Lonzo Ball never looked right after the Bulls traded him to Cleveland for Isaac Okoro last offseason, leaving the Cavs no choice but to finally move off of him with a trade to Utah in February. The Jazz promptly waived him as he now sits at home hoping to get another chance in the NBA. \u201cI loved him as a player and a guy, and he was so cerebral,\u201d Bulls coach Billy Donovan said of Ball on Thursday, reflecting on the frequently-injured point guard. \u201cHe was so selfless, that\u2019s really one of the things I admired. <a href=\"https://chicago.suntimes.com/bulls/2026/03/19/still-what-could-have-been-with-former-bull-lonzo-ball\" target=\"_blank\" style=\"color: #1a73e8;\">To see him have to go through what he went through, to fight to get back, see what he\u2019s going through now, that\u2019s tough for me because it\u2019s almost like what could have been, how good could he have been?\u201d</a> The big what if with Ball after a serious knee injury back in 2022 cost him over two-and-a-half seasons. Even when he returned, he only showed glimpses of the player he was before the knee betrayed him.",
-        "outlet": "Chicago Sun-Times",
-        "source_url": "https://chicago.suntimes.com/bulls/2026/03/19/still-what-could-have-been-with-former-bull-lonzo-ball"
-      }
     ]
   },
   "daily_counts": {
+    "James Harden": {
+      "2026-04-17": 2,
+      "2026-04-13": 1,
+      "2026-04-09": 1,
+      "2026-03-30": 1
+    },
+    "Ivica Zubac": {
+      "2026-04-17": 1,
+      "2026-04-09": 1,
+      "2026-03-30": 1
+    },
+    "Kawhi Leonard": {
+      "2026-04-17": 1,
+      "2026-04-02": 1,
+      "2026-03-30": 1,
+      "2026-03-29": 1
+    },
     "Giannis Antetokounmpo": {
       "2026-04-17": 3,
       "2026-04-14": 2,
@@ -1628,8 +1540,7 @@
       "2026-03-27": 1,
       "2026-03-26": 1,
       "2026-03-24": 1,
-      "2026-03-21": 5,
-      "2026-03-20": 3
+      "2026-03-21": 5
     },
     "Ja Morant": {
       "2026-04-17": 2,
@@ -1637,12 +1548,6 @@
       "2026-04-09": 3,
       "2026-04-08": 2,
       "2026-03-29": 1
-    },
-    "James Harden": {
-      "2026-04-17": 1,
-      "2026-04-13": 1,
-      "2026-04-09": 1,
-      "2026-03-30": 1
     },
     "Paolo Banchero": {
       "2026-04-17": 1
@@ -1673,10 +1578,6 @@
     "Klay Thompson": {
       "2026-04-13": 1
     },
-    "Ivica Zubac": {
-      "2026-04-09": 1,
-      "2026-03-30": 1
-    },
     "Draymond Green": {
       "2026-04-08": 1,
       "2026-04-07": 1,
@@ -1699,8 +1600,7 @@
       "2026-04-07": 1
     },
     "Jonathan Kuminga": {
-      "2026-04-07": 1,
-      "2026-03-20": 2
+      "2026-04-07": 1
     },
     "Tyler Herro": {
       "2026-04-07": 1
@@ -1756,11 +1656,6 @@
       "2026-04-02": 1,
       "2026-03-26": 1
     },
-    "Kawhi Leonard": {
-      "2026-04-02": 1,
-      "2026-03-30": 1,
-      "2026-03-29": 1
-    },
     "Jarrett Allen": {
       "2026-04-01": 1
     },
@@ -1784,18 +1679,6 @@
     },
     "Keldon Johnson": {
       "2026-03-21": 1
-    },
-    "Buddy Hield": {
-      "2026-03-20": 2
-    },
-    "Kristaps Porzingis": {
-      "2026-03-20": 1
-    },
-    "Lonzo Ball": {
-      "2026-03-20": 1
-    },
-    "Isaac Okoro": {
-      "2026-03-20": 1
     }
   }
 }
