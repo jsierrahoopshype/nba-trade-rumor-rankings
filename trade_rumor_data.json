@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-04-27T14:53:05.344853",
+  "generated_at": "2026-04-27T20:08:13.843614",
   "scrape_window_days": 28,
   "window_start": "2026-03-30",
   "window_end": "2026-04-27",
-  "total_rumors": 139,
-  "total_players": 46,
+  "total_rumors": 143,
+  "total_players": 49,
   "rankings": [
     {
       "player": "Giannis Antetokounmpo",
@@ -19,6 +19,18 @@
       "rank": 1
     },
     {
+      "player": "Luka Doncic",
+      "score": 4.25,
+      "mentions_week1": 3,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 5,
+      "total_mentions": 8,
+      "first_mention": "2026-04-01",
+      "last_mention": "2026-04-27",
+      "team": "Los Angeles Lakers",
+      "rank": 2
+    },
+    {
       "player": "Kawhi Leonard",
       "score": 4.0,
       "mentions_week1": 3,
@@ -28,7 +40,7 @@
       "first_mention": "2026-03-30",
       "last_mention": "2026-04-24",
       "team": "Los Angeles Clippers",
-      "rank": 2
+      "rank": 3
     },
     {
       "player": "Ja Morant",
@@ -40,18 +52,6 @@
       "first_mention": "2026-04-08",
       "last_mention": "2026-04-17",
       "team": "Memphis Grizzlies",
-      "rank": 3
-    },
-    {
-      "player": "Luka Doncic",
-      "score": 3.25,
-      "mentions_week1": 2,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 5,
-      "total_mentions": 7,
-      "first_mention": "2026-04-01",
-      "last_mention": "2026-04-27",
-      "team": "Los Angeles Lakers",
       "rank": 4
     },
     {
@@ -187,31 +187,31 @@
       "rank": 15
     },
     {
-      "player": "Donte DiVincenzo",
+      "player": "Bam Adebayo",
       "score": 1.0,
       "mentions_week1": 1,
       "mentions_week2": 0,
       "mentions_weeks3_4": 0,
       "total_mentions": 1,
-      "first_mention": "2026-04-24",
-      "last_mention": "2026-04-24",
-      "team": "Minnesota Timberwolves",
+      "first_mention": "2026-04-27",
+      "last_mention": "2026-04-27",
+      "team": "Miami Heat",
       "rank": 16
     },
     {
-      "player": "Jimmy Butler",
+      "player": "De'Aaron Fox",
       "score": 1.0,
       "mentions_week1": 1,
       "mentions_week2": 0,
       "mentions_weeks3_4": 0,
       "total_mentions": 1,
-      "first_mention": "2026-04-24",
-      "last_mention": "2026-04-24",
-      "team": "Golden State Warriors",
+      "first_mention": "2026-04-27",
+      "last_mention": "2026-04-27",
+      "team": "San Antonio Spurs",
       "rank": 17
     },
     {
-      "player": "Julius Randle",
+      "player": "Donte DiVincenzo",
       "score": 1.0,
       "mentions_week1": 1,
       "mentions_week2": 0,
@@ -223,6 +223,30 @@
       "rank": 18
     },
     {
+      "player": "Jimmy Butler",
+      "score": 1.0,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-04-24",
+      "last_mention": "2026-04-24",
+      "team": "Golden State Warriors",
+      "rank": 19
+    },
+    {
+      "player": "Julius Randle",
+      "score": 1.0,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-04-24",
+      "last_mention": "2026-04-24",
+      "team": "Minnesota Timberwolves",
+      "rank": 20
+    },
+    {
       "player": "Rudy Gobert",
       "score": 1.0,
       "mentions_week1": 1,
@@ -232,7 +256,19 @@
       "first_mention": "2026-04-27",
       "last_mention": "2026-04-27",
       "team": "Minnesota Timberwolves",
-      "rank": 19
+      "rank": 21
+    },
+    {
+      "player": "Victor Wembanyama",
+      "score": 1.0,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-04-27",
+      "last_mention": "2026-04-27",
+      "team": "San Antonio Spurs",
+      "rank": 22
     },
     {
       "player": "Aaron Gordon",
@@ -244,7 +280,7 @@
       "first_mention": "2026-04-02",
       "last_mention": "2026-04-07",
       "team": "Denver Nuggets",
-      "rank": 20
+      "rank": 23
     },
     {
       "player": "Domantas Sabonis",
@@ -256,7 +292,7 @@
       "first_mention": "2026-04-03",
       "last_mention": "2026-04-14",
       "team": "Sacramento Kings",
-      "rank": 21
+      "rank": 24
     },
     {
       "player": "Zach LaVine",
@@ -268,7 +304,7 @@
       "first_mention": "2026-04-03",
       "last_mention": "2026-04-14",
       "team": "Sacramento Kings",
-      "rank": 22
+      "rank": 25
     },
     {
       "player": "Derik Queen",
@@ -280,7 +316,7 @@
       "first_mention": "2026-04-14",
       "last_mention": "2026-04-14",
       "team": "New Orleans Pelicans",
-      "rank": 23
+      "rank": 26
     },
     {
       "player": "Klay Thompson",
@@ -292,7 +328,7 @@
       "first_mention": "2026-04-13",
       "last_mention": "2026-04-13",
       "team": "Dallas Mavericks",
-      "rank": 24
+      "rank": 27
     },
     {
       "player": "Myles Turner",
@@ -304,7 +340,7 @@
       "first_mention": "2026-04-17",
       "last_mention": "2026-04-17",
       "team": "Milwaukee Bucks",
-      "rank": 25
+      "rank": 28
     },
     {
       "player": "Paolo Banchero",
@@ -316,7 +352,7 @@
       "first_mention": "2026-04-17",
       "last_mention": "2026-04-17",
       "team": "Orlando Magic",
-      "rank": 26
+      "rank": 29
     },
     {
       "player": "Bronny James",
@@ -328,7 +364,7 @@
       "first_mention": "2026-04-05",
       "last_mention": "2026-04-05",
       "team": "Los Angeles Lakers",
-      "rank": 27
+      "rank": 30
     },
     {
       "player": "Cameron Johnson",
@@ -340,7 +376,7 @@
       "first_mention": "2026-04-03",
       "last_mention": "2026-04-03",
       "team": "Denver Nuggets",
-      "rank": 28
+      "rank": 31
     },
     {
       "player": "Dalton Knecht",
@@ -352,7 +388,7 @@
       "first_mention": "2026-04-05",
       "last_mention": "2026-04-05",
       "team": "Los Angeles Lakers",
-      "rank": 29
+      "rank": 32
     },
     {
       "player": "DeMar DeRozan",
@@ -364,7 +400,7 @@
       "first_mention": "2026-04-03",
       "last_mention": "2026-04-03",
       "team": "Sacramento Kings",
-      "rank": 30
+      "rank": 33
     },
     {
       "player": "Gary Harris",
@@ -376,7 +412,7 @@
       "first_mention": "2026-04-02",
       "last_mention": "2026-04-02",
       "team": "Denver Nuggets",
-      "rank": 31
+      "rank": 34
     },
     {
       "player": "Jaden Ivey",
@@ -388,7 +424,7 @@
       "first_mention": "2026-04-06",
       "last_mention": "2026-04-06",
       "team": "Chicago Bulls",
-      "rank": 32
+      "rank": 35
     },
     {
       "player": "Jarrett Allen",
@@ -400,7 +436,7 @@
       "first_mention": "2026-04-01",
       "last_mention": "2026-04-01",
       "team": "Cleveland Cavaliers",
-      "rank": 33
+      "rank": 36
     },
     {
       "player": "Joel Embiid",
@@ -412,7 +448,7 @@
       "first_mention": "2026-04-08",
       "last_mention": "2026-04-08",
       "team": "Philadelphia 76ers",
-      "rank": 34
+      "rank": 37
     },
     {
       "player": "Jonathan Kuminga",
@@ -424,7 +460,7 @@
       "first_mention": "2026-04-07",
       "last_mention": "2026-04-07",
       "team": "Golden State Warriors",
-      "rank": 35
+      "rank": 38
     },
     {
       "player": "Jrue Holiday",
@@ -436,7 +472,7 @@
       "first_mention": "2026-04-07",
       "last_mention": "2026-04-07",
       "team": "Portland Trail Blazers",
-      "rank": 36
+      "rank": 39
     },
     {
       "player": "Kel'el Ware",
@@ -448,7 +484,7 @@
       "first_mention": "2026-04-07",
       "last_mention": "2026-04-07",
       "team": "Miami Heat",
-      "rank": 37
+      "rank": 40
     },
     {
       "player": "Kevin Durant",
@@ -460,7 +496,7 @@
       "first_mention": "2026-04-07",
       "last_mention": "2026-04-07",
       "team": "Houston Rockets",
-      "rank": 38
+      "rank": 41
     },
     {
       "player": "Malik Monk",
@@ -472,7 +508,7 @@
       "first_mention": "2026-04-03",
       "last_mention": "2026-04-03",
       "team": "Sacramento Kings",
-      "rank": 39
+      "rank": 42
     },
     {
       "player": "Mark Williams",
@@ -484,7 +520,7 @@
       "first_mention": "2026-04-03",
       "last_mention": "2026-04-03",
       "team": "Phoenix Suns",
-      "rank": 40
+      "rank": 43
     },
     {
       "player": "Mikal Bridges",
@@ -496,7 +532,7 @@
       "first_mention": "2026-04-08",
       "last_mention": "2026-04-08",
       "team": "New York Knicks",
-      "rank": 41
+      "rank": 44
     },
     {
       "player": "Nicolas Batum",
@@ -508,7 +544,7 @@
       "first_mention": "2026-03-30",
       "last_mention": "2026-03-30",
       "team": "Cleveland Cavaliers",
-      "rank": 42
+      "rank": 45
     },
     {
       "player": "Nikola Jokic",
@@ -520,7 +556,7 @@
       "first_mention": "2026-04-02",
       "last_mention": "2026-04-02",
       "team": "Denver Nuggets",
-      "rank": 43
+      "rank": 46
     },
     {
       "player": "Peyton Watson",
@@ -532,7 +568,7 @@
       "first_mention": "2026-04-03",
       "last_mention": "2026-04-03",
       "team": "Denver Nuggets",
-      "rank": 44
+      "rank": 47
     },
     {
       "player": "Rui Hachimura",
@@ -544,7 +580,7 @@
       "first_mention": "2026-03-31",
       "last_mention": "2026-03-31",
       "team": "Los Angeles Lakers",
-      "rank": 45
+      "rank": 48
     },
     {
       "player": "Tyler Herro",
@@ -556,11 +592,36 @@
       "first_mention": "2026-04-07",
       "last_mention": "2026-04-07",
       "team": "Miami Heat",
-      "rank": 46
+      "rank": 49
     }
   ],
   "player_rumors": {
+    "Bam Adebayo": [
+      {
+        "date": "2026-04-27",
+        "text": "Heat Central: Pat Riley says he will never trade Bam:\u201cI want to build this around Bam. I think Micky wants the same thing\u2026 I\u2019m going to give you a flat out no I wouldn\u2019t do that. Unless somebody gave me 8 picks and Wembanyama\u201dx.com",
+        "text_html": "Heat Central: Pat Riley says he will never trade Bam: <a href=\"https://x.com/HeatCulture13/status/2048821278845395063?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cI want to build this around Bam. I think Micky wants the same thing\u2026 I\u2019m going to give you a flat out no I wouldn\u2019t do that. Unless somebody gave me 8 picks and Wembanyama\u201d</a>",
+        "outlet": "x.com",
+        "source_url": "https://x.com/HeatCulture13/status/2048821278845395063?s=20"
+      }
+    ],
+    "Victor Wembanyama": [
+      {
+        "date": "2026-04-27",
+        "text": "Heat Central: Pat Riley says he will never trade Bam:\u201cI want to build this around Bam. I think Micky wants the same thing\u2026 I\u2019m going to give you a flat out no I wouldn\u2019t do that. Unless somebody gave me 8 picks and Wembanyama\u201dx.com",
+        "text_html": "Heat Central: Pat Riley says he will never trade Bam: <a href=\"https://x.com/HeatCulture13/status/2048821278845395063?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cI want to build this around Bam. I think Micky wants the same thing\u2026 I\u2019m going to give you a flat out no I wouldn\u2019t do that. Unless somebody gave me 8 picks and Wembanyama\u201d</a>",
+        "outlet": "x.com",
+        "source_url": "https://x.com/HeatCulture13/status/2048821278845395063?s=20"
+      }
+    ],
     "Luka Doncic": [
+      {
+        "date": "2026-04-27",
+        "text": "Q. I want to go back\u00a0when you were the GM in Sacramento. I don't remember the year, but you had a\u00a0chance to get Luka Doncic and you passed on him.\u00a0Do you want to talk about that? Because you\u00a0had drafted European players before.\u00a0Vlade Divac: I actually went\u00a0to Madrid to talk to Luka, a year before the draft.\u00a0So, he definitely top on the list. But,\u00a0obviously,it looks like I made mistake. Luka is an unbelievable uh talent, one of the top players in the league.\u00a0All of my assistants told\u00a0me that he can play small forward, and I said no, no, Luka is\u00a0a point guard. Luka is a coach on\u00a0the floor. And I felt that if I get Luka, I would have to trade De\u2019AaronFox,\u00a0and I already got a relationship with Fox, and I see he\u2019s a perfect fit\u00a0for us, a small market team, and Luka was a big market player.YouTube",
+        "text_html": "Q. I want to go back when you were the GM in Sacramento. I don't remember the year, but you had a chance to get Luka Doncic and you passed on him. Do you want to talk about that? Because you had drafted European players before. Vlade Divac: I actually went to Madrid to talk to Luka, a year before the draft. So, he definitely top on the list. But, obviously, <a href=\"https://www.youtube.com/watch?v=4HXV1R3JAlQ&t=2072s\" target=\"_blank\" style=\"color: #1a73e8;\">it looks like I made mistake. Luka is an unbelievable uh talent, one of the top players in the league. All of my assistants told me that he can play small forward, and I said no, no, Luka is a point guard. Luka is a coach on the floor. And I felt that if I get Luka, I would have to trade De\u2019Aaron</a> Fox, and I already got a relationship with Fox, and I see he\u2019s a perfect fit for us, a small market team, and Luka was a big market player.",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=4HXV1R3JAlQ&t=2072s"
+      },
       {
         "date": "2026-04-27",
         "text": "Lou Williams: I want to put you on the hot seat. With all things considered, obviously AD is traded away now. Should the Mavs have kept Luka at this point? Devin Harris: That\u2019s such a hard question. I will say, even after the trade and everything went down, that game against Houston, for those first 15 minutes of that game, and watching everything go down, I\u2019m looking like, \u201cOh my God, we could win this championship.\u201d That\u2019s how dominant it looked. So at that point, I saw the vision that Nico had. In that moment, I was like, \u201cOkay, this could really work out really well for us.\u201d Obviously, he got hurt, I think, like two minutes later, and then we didn\u2019t see him again for another couple weeks. It just kind of went down from there. Butin hindsight, yes. If you\u2019re looking at it, we probably should have kept him, absolutely. I mean, we\u2019re talking about a top-five player.YouTube",
@@ -609,6 +670,15 @@
         "text_html": "Kidd\u2019s initial rhetorical question could have been meant for Mavsland in general, but, clearly, it mostly was directed at Cuban, whom Kidd said he phoned Tuesday after the Intersections podcast\u2019s release. During the podcast, Cuban expressed regret for selling the franchise to the Miriam Adelson and Patrick Dumont families in Dec. 2023 and criticized general manager Nico Harrison\u2019s Feb. 1, 2025 trade of Doncic. <a href=\"https://www.dallasnews.com/sports/mavericks/2026/03/31/dallas-mavs-jason-kidd-luka-doncic-trade-cuban/\" target=\"_blank\" style=\"color: #1a73e8;\">Then suddenly, briefly, he injected Kidd into the conversation. \u201cThat doesn\u2019t justify it for our coach and our general manager to stand up and trade our best player.\u201d</a>",
         "outlet": "Dallas Morning News",
         "source_url": "https://www.dallasnews.com/sports/mavericks/2026/03/31/dallas-mavs-jason-kidd-luka-doncic-trade-cuban/"
+      }
+    ],
+    "De'Aaron Fox": [
+      {
+        "date": "2026-04-27",
+        "text": "Q. I want to go back\u00a0when you were the GM in Sacramento. I don't remember the year, but you had a\u00a0chance to get Luka Doncic and you passed on him.\u00a0Do you want to talk about that? Because you\u00a0had drafted European players before.\u00a0Vlade Divac: I actually went\u00a0to Madrid to talk to Luka, a year before the draft.\u00a0So, he definitely top on the list. But,\u00a0obviously,it looks like I made mistake. Luka is an unbelievable uh talent, one of the top players in the league.\u00a0All of my assistants told\u00a0me that he can play small forward, and I said no, no, Luka is\u00a0a point guard. Luka is a coach on\u00a0the floor. And I felt that if I get Luka, I would have to trade De\u2019AaronFox,\u00a0and I already got a relationship with Fox, and I see he\u2019s a perfect fit\u00a0for us, a small market team, and Luka was a big market player.YouTube",
+        "text_html": "Q. I want to go back when you were the GM in Sacramento. I don't remember the year, but you had a chance to get Luka Doncic and you passed on him. Do you want to talk about that? Because you had drafted European players before. Vlade Divac: I actually went to Madrid to talk to Luka, a year before the draft. So, he definitely top on the list. But, obviously, <a href=\"https://www.youtube.com/watch?v=4HXV1R3JAlQ&t=2072s\" target=\"_blank\" style=\"color: #1a73e8;\">it looks like I made mistake. Luka is an unbelievable uh talent, one of the top players in the league. All of my assistants told me that he can play small forward, and I said no, no, Luka is a point guard. Luka is a coach on the floor. And I felt that if I get Luka, I would have to trade De\u2019Aaron</a> Fox, and I already got a relationship with Fox, and I see he\u2019s a perfect fit for us, a small market team, and Luka was a big market player.",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=4HXV1R3JAlQ&t=2072s"
       }
     ],
     "Rudy Gobert": [
@@ -1627,11 +1697,20 @@
     ]
   },
   "daily_counts": {
+    "Bam Adebayo": {
+      "2026-04-27": 1
+    },
+    "Victor Wembanyama": {
+      "2026-04-27": 1
+    },
     "Luka Doncic": {
-      "2026-04-27": 1,
+      "2026-04-27": 2,
       "2026-04-20": 1,
       "2026-04-08": 2,
       "2026-04-01": 3
+    },
+    "De'Aaron Fox": {
+      "2026-04-27": 1
     },
     "Rudy Gobert": {
       "2026-04-27": 1
