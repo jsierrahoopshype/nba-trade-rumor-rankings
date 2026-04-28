@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-28T15:12:07.238122",
+  "generated_at": "2026-04-28T20:16:22.129074",
   "scrape_window_days": 28,
   "window_start": "2026-03-31",
   "window_end": "2026-04-28",
-  "total_rumors": 142,
+  "total_rumors": 143,
   "total_players": 49,
   "rankings": [
     {
@@ -79,6 +79,18 @@
       "rank": 6
     },
     {
+      "player": "Kevin Durant",
+      "score": 2.25,
+      "mentions_week1": 2,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 3,
+      "first_mention": "2026-04-07",
+      "last_mention": "2026-04-28",
+      "team": "Houston Rockets",
+      "rank": 7
+    },
+    {
       "player": "James Harden",
       "score": 2.0,
       "mentions_week1": 0,
@@ -88,7 +100,7 @@
       "first_mention": "2026-04-09",
       "last_mention": "2026-04-20",
       "team": "Los Angeles Clippers",
-      "rank": 7
+      "rank": 8
     },
     {
       "player": "Karl-Anthony Towns",
@@ -100,7 +112,7 @@
       "first_mention": "2026-04-23",
       "last_mention": "2026-04-24",
       "team": "New York Knicks",
-      "rank": 8
+      "rank": 9
     },
     {
       "player": "Draymond Green",
@@ -112,7 +124,7 @@
       "first_mention": "2026-04-01",
       "last_mention": "2026-04-20",
       "team": "Golden State Warriors",
-      "rank": 9
+      "rank": 10
     },
     {
       "player": "Zion Williamson",
@@ -124,7 +136,7 @@
       "first_mention": "2026-04-01",
       "last_mention": "2026-04-14",
       "team": "New Orleans Pelicans",
-      "rank": 10
+      "rank": 11
     },
     {
       "player": "Ivica Zubac",
@@ -136,7 +148,7 @@
       "first_mention": "2026-04-09",
       "last_mention": "2026-04-20",
       "team": "Los Angeles Clippers",
-      "rank": 11
+      "rank": 12
     },
     {
       "player": "Donovan Mitchell",
@@ -148,18 +160,6 @@
       "first_mention": "2026-04-03",
       "last_mention": "2026-04-24",
       "team": "Cleveland Cavaliers",
-      "rank": 12
-    },
-    {
-      "player": "Kevin Durant",
-      "score": 1.25,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 2,
-      "first_mention": "2026-04-07",
-      "last_mention": "2026-04-28",
-      "team": "Houston Rockets",
       "rank": 13
     },
     {
@@ -597,6 +597,13 @@
   ],
   "player_rumors": {
     "Kevin Durant": [
+      {
+        "date": "2026-04-28",
+        "text": "NBA Courtside: Jeff Teague says Detroit needs to trade for Kevin Durant:\u201cThey desperate for another scorer and Kevin Durant is still playing at a high level, that would take so much pressure off Cade and so much pressure off Kevin Durant to do everything. I think it would be an easy fit.\u201dx.com",
+        "text_html": "NBA Courtside: Jeff Teague says Detroit needs to trade for Kevin Durant: <a href=\"https://x.com/NBA__Courtside/status/2049134331226886653\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cThey desperate for another scorer and Kevin Durant is still playing at a high level, that would take so much pressure off Cade and so much pressure off Kevin Durant to do everything. I think it would be an easy fit.\u201d</a>",
+        "outlet": "x.com",
+        "source_url": "https://x.com/NBA__Courtside/status/2049134331226886653"
+      },
       {
         "date": "2026-04-28",
         "text": "How you view their season depends on which expectations you adopt. Back in October, the basketball media-verse did not expect much from the Suns, a team that had overhauled its roster, trading star power for grit.\u201cWe were counted out,\u201d said Dillon Brooks, who came to Phoenix along with teammate Jalen Green in last summer\u2019s blockbuster Kevin Durant trade. \u201cWe were supposed to be a laughing-stock, losing team. And we proved a lot of people wrong.\u201dNew York Times",
@@ -1691,7 +1698,7 @@
   },
   "daily_counts": {
     "Kevin Durant": {
-      "2026-04-28": 1,
+      "2026-04-28": 2,
       "2026-04-07": 1
     },
     "Dillon Brooks": {
