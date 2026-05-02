@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-05-01T20:04:27.212772",
+  "generated_at": "2026-05-02T04:17:44.066242",
   "scrape_window_days": 28,
-  "window_start": "2026-04-03",
-  "window_end": "2026-05-01",
-  "total_rumors": 142,
-  "total_players": 50,
+  "window_start": "2026-04-04",
+  "window_end": "2026-05-02",
+  "total_rumors": 138,
+  "total_players": 46,
   "rankings": [
     {
       "player": "Giannis Antetokounmpo",
-      "score": 16.5,
-      "mentions_week1": 3,
-      "mentions_week2": 13,
-      "mentions_weeks3_4": 28,
+      "score": 15.25,
+      "mentions_week1": 2,
+      "mentions_week2": 11,
+      "mentions_weeks3_4": 31,
       "total_mentions": 44,
       "first_mention": "2026-04-05",
       "last_mention": "2026-04-29",
@@ -19,64 +19,40 @@
       "rank": 1
     },
     {
+      "player": "Luka Doncic",
+      "score": 5.0,
+      "mentions_week1": 4,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 2,
+      "total_mentions": 7,
+      "first_mention": "2026-04-08",
+      "last_mention": "2026-05-01",
+      "team": "Los Angeles Lakers",
+      "rank": 2
+    },
+    {
+      "player": "Anthony Davis",
+      "score": 4.75,
+      "mentions_week1": 3,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 5,
+      "total_mentions": 9,
+      "first_mention": "2026-04-08",
+      "last_mention": "2026-05-01",
+      "team": "Dallas Mavericks",
+      "rank": 3
+    },
+    {
       "player": "Ja Morant",
-      "score": 4.0,
+      "score": 3.5,
       "mentions_week1": 1,
-      "mentions_week2": 2,
-      "mentions_weeks3_4": 8,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 10,
       "total_mentions": 11,
       "first_mention": "2026-04-08",
       "last_mention": "2026-04-30",
       "team": "Memphis Grizzlies",
-      "rank": 2
-    },
-    {
-      "player": "Luka Doncic",
-      "score": 4.0,
-      "mentions_week1": 3,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 6,
-      "first_mention": "2026-04-08",
-      "last_mention": "2026-04-28",
-      "team": "Los Angeles Lakers",
-      "rank": 3
-    },
-    {
-      "player": "Anthony Davis",
-      "score": 3.75,
-      "mentions_week1": 2,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 5,
-      "total_mentions": 8,
-      "first_mention": "2026-04-08",
-      "last_mention": "2026-04-30",
-      "team": "Dallas Mavericks",
       "rank": 4
-    },
-    {
-      "player": "Kawhi Leonard",
-      "score": 2.5,
-      "mentions_week1": 1,
-      "mentions_week2": 3,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 4,
-      "first_mention": "2026-04-17",
-      "last_mention": "2026-04-24",
-      "team": "Los Angeles Clippers",
-      "rank": 5
-    },
-    {
-      "player": "Jalen Green",
-      "score": 2.25,
-      "mentions_week1": 2,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 3,
-      "first_mention": "2026-04-07",
-      "last_mention": "2026-04-28",
-      "team": "Phoenix Suns",
-      "rank": 6
     },
     {
       "player": "Kevin Durant",
@@ -88,19 +64,7 @@
       "first_mention": "2026-04-07",
       "last_mention": "2026-04-28",
       "team": "Houston Rockets",
-      "rank": 7
-    },
-    {
-      "player": "James Harden",
-      "score": 2.0,
-      "mentions_week1": 0,
-      "mentions_week2": 3,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 5,
-      "first_mention": "2026-04-09",
-      "last_mention": "2026-04-20",
-      "team": "Los Angeles Clippers",
-      "rank": 8
+      "rank": 5
     },
     {
       "player": "Devin Booker",
@@ -112,7 +76,7 @@
       "first_mention": "2026-04-30",
       "last_mention": "2026-04-30",
       "team": "Phoenix Suns",
-      "rank": 9
+      "rank": 6
     },
     {
       "player": "Victor Wembanyama",
@@ -124,7 +88,55 @@
       "first_mention": "2026-04-27",
       "last_mention": "2026-04-29",
       "team": "San Antonio Spurs",
+      "rank": 7
+    },
+    {
+      "player": "Kawhi Leonard",
+      "score": 1.75,
+      "mentions_week1": 0,
+      "mentions_week2": 3,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 4,
+      "first_mention": "2026-04-17",
+      "last_mention": "2026-04-24",
+      "team": "Los Angeles Clippers",
+      "rank": 8
+    },
+    {
+      "player": "Jalen Green",
+      "score": 1.75,
+      "mentions_week1": 1,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 3,
+      "first_mention": "2026-04-07",
+      "last_mention": "2026-04-28",
+      "team": "Phoenix Suns",
+      "rank": 9
+    },
+    {
+      "player": "LeBron James",
+      "score": 1.75,
+      "mentions_week1": 1,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 3,
+      "first_mention": "2026-04-05",
+      "last_mention": "2026-05-01",
+      "team": "Los Angeles Lakers",
       "rank": 10
+    },
+    {
+      "player": "James Harden",
+      "score": 1.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 4,
+      "total_mentions": 5,
+      "first_mention": "2026-04-09",
+      "last_mention": "2026-04-20",
+      "team": "Los Angeles Clippers",
+      "rank": 11
     },
     {
       "player": "Draymond Green",
@@ -136,43 +148,7 @@
       "first_mention": "2026-04-07",
       "last_mention": "2026-04-20",
       "team": "Golden State Warriors",
-      "rank": 11
-    },
-    {
-      "player": "Karl-Anthony Towns",
-      "score": 1.5,
-      "mentions_week1": 1,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 2,
-      "first_mention": "2026-04-23",
-      "last_mention": "2026-04-24",
-      "team": "New York Knicks",
       "rank": 12
-    },
-    {
-      "player": "Paolo Banchero",
-      "score": 1.5,
-      "mentions_week1": 1,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 2,
-      "first_mention": "2026-04-17",
-      "last_mention": "2026-04-29",
-      "team": "Orlando Magic",
-      "rank": 13
-    },
-    {
-      "player": "Ivica Zubac",
-      "score": 1.25,
-      "mentions_week1": 0,
-      "mentions_week2": 2,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 3,
-      "first_mention": "2026-04-09",
-      "last_mention": "2026-04-20",
-      "team": "Los Angeles Clippers",
-      "rank": 14
     },
     {
       "player": "Aaron Gordon",
@@ -184,19 +160,7 @@
       "first_mention": "2026-04-07",
       "last_mention": "2026-05-01",
       "team": "Denver Nuggets",
-      "rank": 15
-    },
-    {
-      "player": "Donovan Mitchell",
-      "score": 1.25,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 2,
-      "first_mention": "2026-04-03",
-      "last_mention": "2026-04-24",
-      "team": "Cleveland Cavaliers",
-      "rank": 16
+      "rank": 13
     },
     {
       "player": "Jrue Holiday",
@@ -208,19 +172,43 @@
       "first_mention": "2026-04-07",
       "last_mention": "2026-04-30",
       "team": "Portland Trail Blazers",
-      "rank": 17
+      "rank": 14
     },
     {
-      "player": "Alperen Sengun",
-      "score": 1.0,
+      "player": "Paolo Banchero",
+      "score": 1.25,
       "mentions_week1": 1,
       "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 2,
+      "first_mention": "2026-04-17",
+      "last_mention": "2026-04-29",
+      "team": "Orlando Magic",
+      "rank": 15
+    },
+    {
+      "player": "Ivica Zubac",
+      "score": 1.0,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 2,
+      "total_mentions": 3,
+      "first_mention": "2026-04-09",
+      "last_mention": "2026-04-20",
+      "team": "Los Angeles Clippers",
+      "rank": 16
+    },
+    {
+      "player": "Karl-Anthony Towns",
+      "score": 1.0,
+      "mentions_week1": 0,
+      "mentions_week2": 2,
       "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-04-24",
+      "total_mentions": 2,
+      "first_mention": "2026-04-23",
       "last_mention": "2026-04-24",
-      "team": "Houston Rockets",
-      "rank": 18
+      "team": "New York Knicks",
+      "rank": 17
     },
     {
       "player": "Ayo Dosunmu",
@@ -232,7 +220,7 @@
       "first_mention": "2026-04-27",
       "last_mention": "2026-04-27",
       "team": "Chicago Bulls",
-      "rank": 19
+      "rank": 18
     },
     {
       "player": "Bam Adebayo",
@@ -244,7 +232,7 @@
       "first_mention": "2026-04-27",
       "last_mention": "2026-04-27",
       "team": "Miami Heat",
-      "rank": 20
+      "rank": 19
     },
     {
       "player": "De'Aaron Fox",
@@ -256,7 +244,7 @@
       "first_mention": "2026-04-27",
       "last_mention": "2026-04-27",
       "team": "San Antonio Spurs",
-      "rank": 21
+      "rank": 20
     },
     {
       "player": "Dillon Brooks",
@@ -268,19 +256,7 @@
       "first_mention": "2026-04-28",
       "last_mention": "2026-04-28",
       "team": "Phoenix Suns",
-      "rank": 22
-    },
-    {
-      "player": "Donte DiVincenzo",
-      "score": 1.0,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-04-24",
-      "last_mention": "2026-04-24",
-      "team": "Minnesota Timberwolves",
-      "rank": 23
+      "rank": 21
     },
     {
       "player": "Jamal Murray",
@@ -292,31 +268,7 @@
       "first_mention": "2026-05-01",
       "last_mention": "2026-05-01",
       "team": "Denver Nuggets",
-      "rank": 24
-    },
-    {
-      "player": "Jimmy Butler",
-      "score": 1.0,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-04-24",
-      "last_mention": "2026-04-24",
-      "team": "Golden State Warriors",
-      "rank": 25
-    },
-    {
-      "player": "Julius Randle",
-      "score": 1.0,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-04-24",
-      "last_mention": "2026-04-24",
-      "team": "Minnesota Timberwolves",
-      "rank": 26
+      "rank": 22
     },
     {
       "player": "Keyonte George",
@@ -328,7 +280,7 @@
       "first_mention": "2026-04-30",
       "last_mention": "2026-04-30",
       "team": "Memphis Grizzlies",
-      "rank": 27
+      "rank": 23
     },
     {
       "player": "Luke Kennard",
@@ -340,7 +292,19 @@
       "first_mention": "2026-04-30",
       "last_mention": "2026-04-30",
       "team": "Los Angeles Lakers",
-      "rank": 28
+      "rank": 24
+    },
+    {
+      "player": "Michael Porter",
+      "score": 1.0,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-05-01",
+      "last_mention": "2026-05-01",
+      "team": "Denver Nuggets",
+      "rank": 25
     },
     {
       "player": "Rudy Gobert",
@@ -352,7 +316,7 @@
       "first_mention": "2026-04-27",
       "last_mention": "2026-04-27",
       "team": "Minnesota Timberwolves",
-      "rank": 29
+      "rank": 26
     },
     {
       "player": "Zaccharie Risacher",
@@ -364,43 +328,7 @@
       "first_mention": "2026-05-01",
       "last_mention": "2026-05-01",
       "team": "Atlanta Hawks",
-      "rank": 30
-    },
-    {
-      "player": "LeBron James",
-      "score": 0.75,
-      "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 2,
-      "first_mention": "2026-04-05",
-      "last_mention": "2026-04-20",
-      "team": "Los Angeles Lakers",
-      "rank": 31
-    },
-    {
-      "player": "Domantas Sabonis",
-      "score": 0.5,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 2,
-      "first_mention": "2026-04-03",
-      "last_mention": "2026-04-14",
-      "team": "Sacramento Kings",
-      "rank": 32
-    },
-    {
-      "player": "Zach LaVine",
-      "score": 0.5,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 2,
-      "first_mention": "2026-04-03",
-      "last_mention": "2026-04-14",
-      "team": "Sacramento Kings",
-      "rank": 33
+      "rank": 27
     },
     {
       "player": "Zion Williamson",
@@ -412,19 +340,67 @@
       "first_mention": "2026-04-14",
       "last_mention": "2026-04-14",
       "team": "New Orleans Pelicans",
-      "rank": 34
+      "rank": 28
     },
     {
-      "player": "Myles Turner",
+      "player": "Alperen Sengun",
       "score": 0.5,
       "mentions_week1": 0,
       "mentions_week2": 1,
       "mentions_weeks3_4": 0,
       "total_mentions": 1,
-      "first_mention": "2026-04-17",
-      "last_mention": "2026-04-17",
-      "team": "Milwaukee Bucks",
-      "rank": 35
+      "first_mention": "2026-04-24",
+      "last_mention": "2026-04-24",
+      "team": "Houston Rockets",
+      "rank": 29
+    },
+    {
+      "player": "Donovan Mitchell",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-04-24",
+      "last_mention": "2026-04-24",
+      "team": "Cleveland Cavaliers",
+      "rank": 30
+    },
+    {
+      "player": "Donte DiVincenzo",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-04-24",
+      "last_mention": "2026-04-24",
+      "team": "Minnesota Timberwolves",
+      "rank": 31
+    },
+    {
+      "player": "Jimmy Butler",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-04-24",
+      "last_mention": "2026-04-24",
+      "team": "Golden State Warriors",
+      "rank": 32
+    },
+    {
+      "player": "Julius Randle",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-04-24",
+      "last_mention": "2026-04-24",
+      "team": "Minnesota Timberwolves",
+      "rank": 33
     },
     {
       "player": "Bronny James",
@@ -436,19 +412,7 @@
       "first_mention": "2026-04-05",
       "last_mention": "2026-04-05",
       "team": "Los Angeles Lakers",
-      "rank": 36
-    },
-    {
-      "player": "Cameron Johnson",
-      "score": 0.25,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 1,
-      "first_mention": "2026-04-03",
-      "last_mention": "2026-04-03",
-      "team": "Denver Nuggets",
-      "rank": 37
+      "rank": 34
     },
     {
       "player": "Dalton Knecht",
@@ -460,19 +424,7 @@
       "first_mention": "2026-04-05",
       "last_mention": "2026-04-05",
       "team": "Los Angeles Lakers",
-      "rank": 38
-    },
-    {
-      "player": "DeMar DeRozan",
-      "score": 0.25,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 1,
-      "first_mention": "2026-04-03",
-      "last_mention": "2026-04-03",
-      "team": "Sacramento Kings",
-      "rank": 39
+      "rank": 35
     },
     {
       "player": "Derik Queen",
@@ -484,7 +436,19 @@
       "first_mention": "2026-04-14",
       "last_mention": "2026-04-14",
       "team": "New Orleans Pelicans",
-      "rank": 40
+      "rank": 36
+    },
+    {
+      "player": "Domantas Sabonis",
+      "score": 0.25,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 1,
+      "first_mention": "2026-04-14",
+      "last_mention": "2026-04-14",
+      "team": "Sacramento Kings",
+      "rank": 37
     },
     {
       "player": "Jaden Ivey",
@@ -496,7 +460,7 @@
       "first_mention": "2026-04-06",
       "last_mention": "2026-04-06",
       "team": "Chicago Bulls",
-      "rank": 41
+      "rank": 38
     },
     {
       "player": "Joel Embiid",
@@ -508,7 +472,7 @@
       "first_mention": "2026-04-08",
       "last_mention": "2026-04-08",
       "team": "Philadelphia 76ers",
-      "rank": 42
+      "rank": 39
     },
     {
       "player": "Jonathan Kuminga",
@@ -520,7 +484,7 @@
       "first_mention": "2026-04-07",
       "last_mention": "2026-04-07",
       "team": "Golden State Warriors",
-      "rank": 43
+      "rank": 40
     },
     {
       "player": "Kel'el Ware",
@@ -532,7 +496,7 @@
       "first_mention": "2026-04-07",
       "last_mention": "2026-04-07",
       "team": "Miami Heat",
-      "rank": 44
+      "rank": 41
     },
     {
       "player": "Klay Thompson",
@@ -544,31 +508,7 @@
       "first_mention": "2026-04-13",
       "last_mention": "2026-04-13",
       "team": "Dallas Mavericks",
-      "rank": 45
-    },
-    {
-      "player": "Malik Monk",
-      "score": 0.25,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 1,
-      "first_mention": "2026-04-03",
-      "last_mention": "2026-04-03",
-      "team": "Sacramento Kings",
-      "rank": 46
-    },
-    {
-      "player": "Mark Williams",
-      "score": 0.25,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 1,
-      "first_mention": "2026-04-03",
-      "last_mention": "2026-04-03",
-      "team": "Phoenix Suns",
-      "rank": 47
+      "rank": 42
     },
     {
       "player": "Mikal Bridges",
@@ -580,19 +520,19 @@
       "first_mention": "2026-04-08",
       "last_mention": "2026-04-08",
       "team": "New York Knicks",
-      "rank": 48
+      "rank": 43
     },
     {
-      "player": "Peyton Watson",
+      "player": "Myles Turner",
       "score": 0.25,
       "mentions_week1": 0,
       "mentions_week2": 0,
       "mentions_weeks3_4": 1,
       "total_mentions": 1,
-      "first_mention": "2026-04-03",
-      "last_mention": "2026-04-03",
-      "team": "Denver Nuggets",
-      "rank": 49
+      "first_mention": "2026-04-17",
+      "last_mention": "2026-04-17",
+      "team": "Milwaukee Bucks",
+      "rank": 44
     },
     {
       "player": "Tyler Herro",
@@ -604,10 +544,170 @@
       "first_mention": "2026-04-07",
       "last_mention": "2026-04-07",
       "team": "Miami Heat",
-      "rank": 50
+      "rank": 45
+    },
+    {
+      "player": "Zach LaVine",
+      "score": 0.25,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 1,
+      "first_mention": "2026-04-14",
+      "last_mention": "2026-04-14",
+      "team": "Sacramento Kings",
+      "rank": 46
     }
   ],
   "player_rumors": {
+    "Michael Porter": [
+      {
+        "date": "2026-05-01",
+        "text": "NBACentral: MPJ says the Nuggets would have won if they hadn\u2019t traded him\u201cShouldn\u2019t have traded me.\u201dx.com",
+        "text_html": "NBACentral: MPJ says the Nuggets would have won if they hadn\u2019t traded him <a href=\"https://x.com/TheDunkCentral/status/2050340425127329811\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cShouldn\u2019t have traded me.\u201d</a>",
+        "outlet": "x.com",
+        "source_url": "https://x.com/TheDunkCentral/status/2050340425127329811"
+      }
+    ],
+    "LeBron James": [
+      {
+        "date": "2026-05-01",
+        "text": "NBA Courtside: Jeanie Buss on how the Luka Doncic trade went down: \u201cDallas wanted Anthony Davis and he was on our team. Conversations started but it was important they remained private\u2026.Those conversations started in the beginning of January\u2026Rob Pelinka was able to pull it off all without it leaking to the media because I think Mark Cuban would\u2019ve jumped in front of a train to keep it from happening. Nobody knew including Luka, Anthony Davis, and LeBron James. We had a game in New York that night, the coach knew this was going to happen but he still had to coach the game. It wasn\u2019t a distraction\u201d (Via https://youtu.be/gHPMuGZe3IE?si=gMgVyp6VAiYhwCrL\u2026)x.com",
+        "text_html": "NBA Courtside: Jeanie Buss on how the Luka Doncic trade went down: \u201cDallas wanted Anthony Davis and he was on our team. Conversations started but it was important they remained private\u2026. <a href=\"https://x.com/NBA__Courtside/status/2050308601793724717\" target=\"_blank\" style=\"color: #1a73e8;\">Those conversations started in the beginning of January\u2026</a> Rob Pelinka was able to pull it off all without it leaking to the media because I think Mark Cuban would\u2019ve jumped in front of a train to keep it from happening. Nobody knew including Luka, Anthony Davis, and LeBron James. We had a game in New York that night, the coach knew this was going to happen but he still had to coach the game. It wasn\u2019t a distraction\u201d (Via https://youtu.be/gHPMuGZe3IE?si=gMgVyp6VAiYhwCrL\u2026)",
+        "outlet": "x.com",
+        "source_url": "https://x.com/NBA__Courtside/status/2050308601793724717"
+      },
+      {
+        "date": "2026-04-20",
+        "text": "Some within the Warriors organization believe a Leonard trade was close. Others were skeptical. On the Clippers side, it was a steadfast no from Ballmer, who wields the ultimate hammer. Either way, sources saidthere's an expectation the Warriors could reengage the Clippers on Leonard's availability this offseason, compile another offer for Antetokounmpo and test the waters again on soon-to-be free agent LeBron James.They could also bring back Porzingis at a lower price than his $30.7 million expiring contract or negotiate a way to use him as a building block in a sign-and-trade for another big name.ESPN",
+        "text_html": "Some within the Warriors organization believe a Leonard trade was close. Others were skeptical. On the Clippers side, it was a steadfast no from Ballmer, who wields the ultimate hammer. Either way, sources said <a href=\"https://www.espn.com/nba/story/_/id/48526309/the-golden-state-warriors-summer-uncertainty-starts-steve-kerr-stephen-curry-draymond-green\" target=\"_blank\" style=\"color: #1a73e8;\">there's an expectation the Warriors could reengage the Clippers on Leonard's availability this offseason, compile another offer for Antetokounmpo and test the waters again on soon-to-be free agent LeBron James.</a> They could also bring back Porzingis at a lower price than his $30.7 million expiring contract or negotiate a way to use him as a building block in a sign-and-trade for another big name.",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/48526309/the-golden-state-warriors-summer-uncertainty-starts-steve-kerr-stephen-curry-draymond-green"
+      },
+      {
+        "date": "2026-04-05",
+        "text": "Pat Timlin: I asked Doc Rivers pregame about Lebron's comments about Memphis/Milwaukee and if MKE gets a bad rap. He joked around:\"Let's build a Four Seasons or a Ritz-Carlton I guess... We should trade for him, let him see Milwaukee. I'm going to get fined for saying that\"x.com",
+        "text_html": "Pat Timlin: I asked Doc Rivers pregame about Lebron's comments about Memphis/Milwaukee and if MKE gets a bad rap. He joked around: <a href=\"https://x.com/pat_timlin/status/2040887100069892352\" target=\"_blank\" style=\"color: #1a73e8;\">\"Let's build a Four Seasons or a Ritz-Carlton I guess... We should trade for him, let him see Milwaukee. I'm going to get fined for saying that\"</a>",
+        "outlet": "x.com",
+        "source_url": "https://x.com/pat_timlin/status/2040887100069892352"
+      }
+    ],
+    "Anthony Davis": [
+      {
+        "date": "2026-05-01",
+        "text": "NBA Courtside: Jeanie Buss on how the Luka Doncic trade went down: \u201cDallas wanted Anthony Davis and he was on our team. Conversations started but it was important they remained private\u2026.Those conversations started in the beginning of January\u2026Rob Pelinka was able to pull it off all without it leaking to the media because I think Mark Cuban would\u2019ve jumped in front of a train to keep it from happening. Nobody knew including Luka, Anthony Davis, and LeBron James. We had a game in New York that night, the coach knew this was going to happen but he still had to coach the game. It wasn\u2019t a distraction\u201d (Via https://youtu.be/gHPMuGZe3IE?si=gMgVyp6VAiYhwCrL\u2026)x.com",
+        "text_html": "NBA Courtside: Jeanie Buss on how the Luka Doncic trade went down: \u201cDallas wanted Anthony Davis and he was on our team. Conversations started but it was important they remained private\u2026. <a href=\"https://x.com/NBA__Courtside/status/2050308601793724717\" target=\"_blank\" style=\"color: #1a73e8;\">Those conversations started in the beginning of January\u2026</a> Rob Pelinka was able to pull it off all without it leaking to the media because I think Mark Cuban would\u2019ve jumped in front of a train to keep it from happening. Nobody knew including Luka, Anthony Davis, and LeBron James. We had a game in New York that night, the coach knew this was going to happen but he still had to coach the game. It wasn\u2019t a distraction\u201d (Via https://youtu.be/gHPMuGZe3IE?si=gMgVyp6VAiYhwCrL\u2026)",
+        "outlet": "x.com",
+        "source_url": "https://x.com/NBA__Courtside/status/2050308601793724717"
+      },
+      {
+        "date": "2026-04-30",
+        "text": "Knueppel helped the Hornets (44-38) finish with a winning record for just the second time in the past decade. Cooper Flagg\u2019s Mavericks (26-56) finished in 12th place in the Western Conference. The Mavericks entered the season with high hopes but had to adjust their expectations after star big man Anthony Davis dealt with calf and hand injuries and was traded to the Washington Wizards in February.\u201cComing into this year, we all had different expectations in how we thought the year would go,\u201d Flagg said. \u201cBut all of that is in the past. I think it\u2019s time to move forward. Continue to grow, continue to get better and have a high outlook on how next year can go.We are just going to put in the work all summer long. I think we\u2019re all excited for it.\u201dNew York Times",
+        "text_html": "Knueppel helped the Hornets (44-38) finish with a winning record for just the second time in the past decade. Cooper Flagg\u2019s Mavericks (26-56) finished in 12th place in the Western Conference. The Mavericks entered the season with high hopes but had to adjust their expectations after star big man Anthony Davis dealt with calf and hand injuries and was traded to the Washington Wizards in February. <a href=\"https://www.nytimes.com/athletic/7240582/2026/04/29/cooper-flagg-rookie-of-the-year-mavericks-nba/\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cComing into this year, we all had different expectations in how we thought the year would go,\u201d Flagg said. \u201cBut all of that is in the past. I think it\u2019s time to move forward. Continue to grow, continue to get better and have a high outlook on how next year can go.</a> We are just going to put in the work all summer long. I think we\u2019re all excited for it.\u201d",
+        "outlet": "New York Times",
+        "source_url": "https://www.nytimes.com/athletic/7240582/2026/04/29/cooper-flagg-rookie-of-the-year-mavericks-nba/"
+      },
+      {
+        "date": "2026-04-28",
+        "text": "Jeanie Buss: Those conversations started the beginning of January, right? I'll never forget that's when all of Los Angeles was on fire. In order to trade somebody like Anthony Davis, it would have to be with [my] approval and\u2026 certainly getting a player of Luka's caliber and him being at the beginning end of his career was just an extraordinary opportunity.But it required a lot of strategy and a lot of small steps in order to pull it off. And Rob Pelinka... was able to do that all with it out leaking to the media, because I think Mark Cuban might have jumped in front of a train to keep it from happening. Nobody knew, including Luka. And Anthony Davis. And we had a game in New York that night. And so the coach knew that this was gonna happen, but he still had to play the game. And we won the game that night... Then all the world turned upside down.Instagram",
+        "text_html": "Jeanie Buss: Those conversations started the beginning of January, right? I'll never forget that's when all of Los Angeles was on fire. In order to trade somebody like Anthony Davis, it would have to be with [my] approval and\u2026 certainly getting a player of Luka's caliber and him being at the beginning end of his career was just an extraordinary opportunity. <a href=\"https://www.instagram.com/reels/DXsALkkiW8p/\" target=\"_blank\" style=\"color: #1a73e8;\">But it required a lot of strategy and a lot of small steps in order to pull it off. And Rob Pelinka... was able to do that all with it out leaking to the media, because I think Mark Cuban might have jumped in front of a train to keep it from happening</a>. Nobody knew, including Luka. And Anthony Davis. And we had a game in New York that night. And so the coach knew that this was gonna happen, but he still had to play the game. And we won the game that night... Then all the world turned upside down.",
+        "outlet": "Instagram",
+        "source_url": "https://www.instagram.com/reels/DXsALkkiW8p/"
+      },
+      {
+        "date": "2026-04-20",
+        "text": "Jeanie Buss: \u201c[Redick] handles pressure really well.As a former NBA player, playing for Duke University, he's been through a lot and he brings that steadiness, that calmness, that desire to execute, the obsession about basketball. Last year we had a major trade when Anthony Davis left and Luka Doncic joined us, and he didn't miss a beat. He was able to reconfigure and get into a new direction, and I think a lot of rookie head coaches might have been thrown off a lot by that. But instead, JJ rose to the challenge and he continues to do that.\u201dSirius XM",
+        "text_html": "<a href=\"https://www.siriusxm.com/hosts/stephen-a-smith\" target=\"_blank\" style=\"color: #1a73e8;\">Jeanie Buss: \u201c[Redick] handles pressure really well.</a> As a former NBA player, playing for Duke University, he's been through a lot and he brings that steadiness, that calmness, that desire to execute, the obsession about basketball. Last year we had a major trade when Anthony Davis left and Luka Doncic joined us, and he didn't miss a beat. He was able to reconfigure and get into a new direction, and I think a lot of rookie head coaches might have been thrown off a lot by that. But instead, JJ rose to the challenge and he continues to do that.\u201d",
+        "outlet": "Sirius XM",
+        "source_url": "https://www.siriusxm.com/hosts/stephen-a-smith"
+      },
+      {
+        "date": "2026-04-14",
+        "text": "Anthony Davis is parting with more than just a mansion. The NBA star is shedding one of the last major pieces of his Los Angeles life. The Washington Wizards forward has found a buyer for his Bel Air estate, sources told The Post \u2014 the lavish hilltop property he bought in 2021 when he was still a centerpiece of the Los Angeles Lakers and fresh off the team\u2019s championship run.The home, which had been seeking close to $40 million, entered contract as Davis continues a dramatic professional reset that has taken him from LA to Dallas and now to Washington in a whirlwind stretch of trades,sources added.New York Post",
+        "text_html": "Anthony Davis is parting with more than just a mansion. The NBA star is shedding one of the last major pieces of his Los Angeles life. The Washington Wizards forward has found a buyer for his Bel Air estate, sources told The Post \u2014 the lavish hilltop property he bought in 2021 when he was still a centerpiece of the Los Angeles Lakers and fresh off the team\u2019s championship run. <a href=\"https://nypost.com/2026/04/14/real-estate/anthony-davis-in-contract-to-sell-40m-la-mansion/\" target=\"_blank\" style=\"color: #1a73e8;\">The home, which had been seeking close to $40 million, entered contract as Davis continues a dramatic professional reset that has taken him from LA to Dallas and now to Washington in a whirlwind stretch of trades,</a> sources added.",
+        "outlet": "New York Post",
+        "source_url": "https://nypost.com/2026/04/14/real-estate/anthony-davis-in-contract-to-sell-40m-la-mansion/"
+      },
+      {
+        "date": "2026-04-08",
+        "text": "Anthony Davis on trade to Lakers: It was tough though because when Rich Paul\u00a0was telling me like you got to go to the\u00a0media\u2026 and I never talked about this by\u00a0the way. You\u2019re getting the first\u00a0clues. I've never\u00a0spoken\u00a0to anybody\u00a0about this. Draymond Green: Appreciated. Davis: When Rich\u00a0told\u00a0me like you have to go and say I was like no, hell no.\u00a0Be a villain? man\u2026 change teams? I was scared. Like I didn't at first I didn't\u00a0want to be traded cuz I'm like change is\u00a0change is different man. Change is hard. I started doubting myself like\u00a0man I know I can do in New Orleans. I'm\u00a0going to get all the balls. I'm about to go\u00a0play with LeBron, spotlight. I\u2019m gonna play\u00a0with Rondo. Like I'm about to play with\u00a0all these players in LA\u2026 I'm about to go play with\u00a0some guys. And it's like I am I ready\u00a0for that? I wasn't sure, you\u00a0know, so I'm like, man, I don't know.\u00a0Let's figure this out over here, you\u00a0know? I hit Bron like, bro, you want to\u00a0come over here? Like everybody trying to\u00a0figure it out so I didn't have to leave.\u00a0So because I was comfortable, and I'm glad I did make the\u00a0make the change, but that sh*t was tough when\u00a0he was telling me what I had to do, and\u00a0I was like, man,\u00a0but at the day, I had to\u00a0grow up and do what's best for me and let the rest\u00a0take care ofitself.\u00a0Green: So Ja Morant gets drafted number one\u00a0instead of Zion and you're probably\u00a0still a New Orleans Pelican. Davis: I think. Yep. I\u2019d probably still be\u00a0in New Orleans. Green: And you asked David Griffin\u00a0to draft Ja Morant, and he didn\u2019t.YouTube",
+        "text_html": "Anthony Davis on trade to Lakers: It was tough though because when Rich Paul was telling me like you got to go to the media\u2026 and I never talked about this by the way. You\u2019re getting the first clues. I've never spoken to anybody about this. Draymond Green: Appreciated. Davis: When Rich told me like you have to go and say I was like no, hell no. Be a villain? man\u2026 change teams? I was scared. Like I didn't at first I didn't want to be traded cuz I'm like change is change is different man. Change is hard. I started doubting myself like man I know I can do in New Orleans. I'm going to get all the balls. I'm about to go play with LeBron, spotlight. I\u2019m gonna play with Rondo. Like I'm about to play with all these players in LA\u2026 I'm about to go play with some guys. And it's like I am I ready for that? I wasn't sure, you know, so I'm like, man, I don't know. Let's figure this out over here, you know? I hit Bron like, bro, you want to come over here? Like everybody trying to figure it out so I didn't have to leave. So because I was comfortable, and I'm glad I did make the make the change, but that sh*t was tough when he was telling me what I had to do, and I was like, man, but at the day, I had to grow up and do what's best for me and let the rest take care of <a href=\"https://www.youtube.com/watch?v=eESLCDwZLdo&t=2242s\" target=\"_blank\" style=\"color: #1a73e8;\">itself. Green: So Ja Morant gets drafted number one instead of Zion and you're probably still a New Orleans Pelican. Davis: I think. Yep. I\u2019d probably still be in New Orleans. Green: And you asked David Griffin to draft Ja Morant, and he didn\u2019t</a>.",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=eESLCDwZLdo&t=2242s"
+      },
+      {
+        "date": "2026-04-08",
+        "text": "Anthony Davis on being traded to Dallas: Look, from\u00a0the business standpoint I can't be\u00a0mad, but like why? I couldn't understand it. Nobody\u00a0told\u00a0menothing.\u00a0Nobody said a thing to me. So you\u00a0just catch me off guard like yeah you\u00a0traded to Dallas. That's what I couldn't\u00a0get over it, and I still can't get\u00a0over it, I think I deserve much more\u00a0respect than that. All the time I've been here, six years, all\u00a0the time I've been there, we won a championship, all\u00a0this stuff and I can't get a phone call\u00a0or a text to tell me like \u2018look, this is\u00a0what we're thinking.\u2019So all I'm saying,\u00a0all I know is that that Rob, what you\u00a0was calling me for was to tell me that I\u00a0was getting traded, but that was already\u00a010 minutes before the trade was before\u00a0about to be announced. So you already\u00a0knew this already, or you had\u00a0to at some point a conversation had to\u00a0start about me being traded for Luka,\u00a0right? And it never got to me or like,\u00a0hey, this is what we're thinking,\u00a0whatever, right? So I think that's the\u00a0biggest thing that kind of like f*ck with me this entire time.YouTube",
+        "text_html": "Anthony Davis on being traded to Dallas: Look, from the business standpoint I can't be mad, but like why? I couldn't understand it. Nobody told me <a href=\"https://www.youtube.com/watch?v=eESLCDwZLdo&t=2943s\" target=\"_blank\" style=\"color: #1a73e8;\">nothing. Nobody said a thing to me. So you just catch me off guard like yeah you traded to Dallas. That's what I couldn't get over it, and I still can't get over it, I think I deserve much more respect than that. All the time I've been here, six years, all the time I've been there, we won a championship, all this stuff and I can't get a phone call or a text to tell me like \u2018look, this is what we're thinking.\u2019</a> So all I'm saying, all I know is that that Rob, what you was calling me for was to tell me that I was getting traded, but that was already 10 minutes before the trade was before about to be announced. So you already knew this already, or you had to at some point a conversation had to start about me being traded for Luka, right? And it never got to me or like, hey, this is what we're thinking, whatever, right? So I think that's the biggest thing that kind of like f*ck with me this entire time.",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=eESLCDwZLdo&t=2943s"
+      },
+      {
+        "date": "2026-04-08",
+        "text": "Anthony Davis:So when Rich said I was traded to Dallas, I\u00a0was like\u00a0the f*ck out of here. I saidwho the f*ck they gonna trade me\u00a0for? Luka Doncic? I was just\u00a0saying like who else can you trade me\u00a0for on that team?\u00a0Mind\u00a0you, the Mavs just went to the finals.\u00a0And it was never no discussion\u00a0about like man, we might get AD out of\u00a0here or\u2026 it was nothing. And\u00a0he was like, \u201cThey traded you for Luka.\u201d I'm like\u00a0\"Rich, shut the hell up. What? Like,\u00a0shut what do you want?\" I'm\u00a0really thinking he's just\u00a0playing.And he was like, \"Man, I swear.\" \u00a0And at the time, like,\u00a0Nico Harrison is calling me. So, I'm like,\u00a0\"All right, Rich, I'mma call you back.\u00a0Let me see what Nico\u2026 And\u00a0I'm like, \"Rich, I'mma call you back.\"\u00a0Hello.\u00a0Yeah, \u2018I\u00a0told\u00a0you I was going to come get\u00a0you one day. I wanted you.\u2019\u00a0Huh? I'm still like, \"All right, I know\u00a0Rich and Nico like, y'all playing a joke.\" Like, this is foul\u00a0play.\u00a0Foul play. Got you. So,\u00a0I'm like,\u00a0\"Huh?\" So, I tell Nico, I didn't even\u00a0speak. I said, \"Yo, let me call you\u00a0back.\" So now I'm like, \"All right, I'm\u00a0about to call Rob Pelinka back.\" So I call\u00a0Rob back and I'm like, \"Hello.\" He\u2019s\u00a0telling me all this stuff and like, basically, that I got traded for Luka,\u00a0and some of the stuff he was\u00a0saying, I didn't understand. \u2018You know, when Bron's done, we want somebody to\u00a0take over, we want to go younger, rebuild all this\u2026\u2019 And I'm like,\u00a0\"Huh?\" I just didn't understand like\u00a0what he was saying. But also too, like\u00a0as I'm\u00a0hearing\u00a0this, I'm now like\u00a0checked out. Like I\u00a0hear\u00a0you, but I'm\u00a0not listening, right?\u00a0And hang up. And my chef is right there\u00a0in front of me. And I'm like, I\u00a0just got traded to the Mavs.\u00a0He starts laughing. \u2018Yeah, big dog.\u2019 So I'm\u00a0like, you know what? I know this true. I go to X and go straight to Sham Charania\u2019s page. Nothing, yeah they playing. So\u00a0I'm walking out the kitchen, turning the\u00a0corner to go up the stairs. Joel Embiid\u00a0calls me.\u00a0He\u2019s in Philly, 12 o\u2019clock. I don't answer, I\u2019m going upstairs,\u00a0then somebody else calls me, another\u00a0player and I'm like wait hold on. So, I\u00a0go back to Sham\u2019s page and then there it\u00a0is.\u00a0Breaking news: Dallas Mavericks trade\u00a0Luka Doncic. And I'm like, what?\u00a0Run upstairs,\u00a0say baby, I just got traded to Dallas. Shut\u00a0up.\u00a0But now this time I'm not\u00a0shaking, but my heart is in my stomach. I'm like, yo,\u00a0what the f*ck just happened? Right.\u00a0And I show her and she's like, \"What the\u00a0hell?\" But now I'm like, \"All right, I'm\u00a0running back outside. The first\u00a0person\u00a0I\u00a0call my pop like, \"Yo, pop, I just got\u00a0traded.\"YouTube",
+        "text_html": "Anthony Davis: <a href=\"https://www.youtube.com/watch?v=eESLCDwZLdo&t=2645s\" target=\"_blank\" style=\"color: #1a73e8;\">So when Rich said I was traded to Dallas, I was like the f*ck out of here. I saidwho the f*ck they gonna trade me for? Luka Doncic? I was just saying like who else can you trade me for on that team? Mind you, the Mavs just went to the finals. And it was never no discussion about like man, we might get AD out of here or\u2026 it was nothing. And he was like, \u201cThey traded you for Luka.\u201d I'm like \"Rich, shut the hell up. What? Like, shut what do you want?\" I'm really thinking he's just playing.</a> And he was like, \"Man, I swear.\" And at the time, like, Nico Harrison is calling me. So, I'm like, \"All right, Rich, I'mma call you back. Let me see what Nico\u2026 And I'm like, \"Rich, I'mma call you back.\" Hello. Yeah, \u2018I told you I was going to come get you one day. I wanted you.\u2019 Huh? I'm still like, \"All right, I know Rich and Nico like, y'all playing a joke.\" Like, this is foul play. Foul play. Got you. So, I'm like, \"Huh?\" So, I tell Nico, I didn't even speak. I said, \"Yo, let me call you back.\" So now I'm like, \"All right, I'm about to call Rob Pelinka back.\" So I call Rob back and I'm like, \"Hello.\" He\u2019s telling me all this stuff and like, basically, that I got traded for Luka, and some of the stuff he was saying, I didn't understand. \u2018You know, when Bron's done, we want somebody to take over, we want to go younger, rebuild all this\u2026\u2019 And I'm like, \"Huh?\" I just didn't understand like what he was saying. But also too, like as I'm hearing this, I'm now like checked out. Like I hear you, but I'm not listening, right? And hang up. And my chef is right there in front of me. And I'm like, I just got traded to the Mavs. He starts laughing. \u2018Yeah, big dog.\u2019 So I'm like, you know what? I know this true. I go to X and go straight to Sham Charania\u2019s page. Nothing, yeah they playing. So I'm walking out the kitchen, turning the corner to go up the stairs. Joel Embiid calls me. He\u2019s in Philly, 12 o\u2019clock. I don't answer, I\u2019m going upstairs, then somebody else calls me, another player and I'm like wait hold on. So, I go back to Sham\u2019s page and then there it is. Breaking news: Dallas Mavericks trade Luka Doncic. And I'm like, what? Run upstairs, say baby, I just got traded to Dallas. Shut up. But now this time I'm not shaking, but my heart is in my stomach. I'm like, yo, what the f*ck just happened? Right. And I show her and she's like, \"What the hell?\" But now I'm like, \"All right, I'm running back outside. The first person I call my pop like, \"Yo, pop, I just got traded.\"",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=eESLCDwZLdo&t=2645s"
+      },
+      {
+        "date": "2026-04-08",
+        "text": "Oh Giannis. Zach Lowe dedicated 230 minutes to Giannis Antetokounmpo on his podcast, more than 2x the minutes dedicated to the second most discussed player (Ja Morant) and more than 3x the third (Anthony Davis).Zach clearly loves prognosticating about trade candidates and where they\u2019ll end up, and you can see the discussion around all three players pick up ahead of the early February trade deadline.Charting Hoops",
+        "text_html": "<a href=\"https://chartinghoops.substack.com/p/the-zach-lowe-teams\" target=\"_blank\" style=\"color: #1a73e8;\">Oh Giannis. Zach Lowe dedicated 230 minutes to Giannis Antetokounmpo on his podcast, more than 2x the minutes dedicated to the second most discussed player (Ja Morant) and more than 3x the third (Anthony Davis).</a> Zach clearly loves prognosticating about trade candidates and where they\u2019ll end up, and you can see the discussion around all three players pick up ahead of the early February trade deadline.",
+        "outlet": "Charting Hoops",
+        "source_url": "https://chartinghoops.substack.com/p/the-zach-lowe-teams"
+      }
+    ],
+    "Luka Doncic": [
+      {
+        "date": "2026-05-01",
+        "text": "NBA Courtside: Jeanie Buss on how the Luka Doncic trade went down: \u201cDallas wanted Anthony Davis and he was on our team. Conversations started but it was important they remained private\u2026.Those conversations started in the beginning of January\u2026Rob Pelinka was able to pull it off all without it leaking to the media because I think Mark Cuban would\u2019ve jumped in front of a train to keep it from happening. Nobody knew including Luka, Anthony Davis, and LeBron James. We had a game in New York that night, the coach knew this was going to happen but he still had to coach the game. It wasn\u2019t a distraction\u201d (Via https://youtu.be/gHPMuGZe3IE?si=gMgVyp6VAiYhwCrL\u2026)x.com",
+        "text_html": "NBA Courtside: Jeanie Buss on how the Luka Doncic trade went down: \u201cDallas wanted Anthony Davis and he was on our team. Conversations started but it was important they remained private\u2026. <a href=\"https://x.com/NBA__Courtside/status/2050308601793724717\" target=\"_blank\" style=\"color: #1a73e8;\">Those conversations started in the beginning of January\u2026</a> Rob Pelinka was able to pull it off all without it leaking to the media because I think Mark Cuban would\u2019ve jumped in front of a train to keep it from happening. Nobody knew including Luka, Anthony Davis, and LeBron James. We had a game in New York that night, the coach knew this was going to happen but he still had to coach the game. It wasn\u2019t a distraction\u201d (Via https://youtu.be/gHPMuGZe3IE?si=gMgVyp6VAiYhwCrL\u2026)",
+        "outlet": "x.com",
+        "source_url": "https://x.com/NBA__Courtside/status/2050308601793724717"
+      },
+      {
+        "date": "2026-04-28",
+        "text": "Jeanie Buss: Those conversations started the beginning of January, right? I'll never forget that's when all of Los Angeles was on fire. In order to trade somebody like Anthony Davis, it would have to be with [my] approval and\u2026 certainly getting a player of Luka's caliber and him being at the beginning end of his career was just an extraordinary opportunity.But it required a lot of strategy and a lot of small steps in order to pull it off. And Rob Pelinka... was able to do that all with it out leaking to the media, because I think Mark Cuban might have jumped in front of a train to keep it from happening. Nobody knew, including Luka. And Anthony Davis. And we had a game in New York that night. And so the coach knew that this was gonna happen, but he still had to play the game. And we won the game that night... Then all the world turned upside down.Instagram",
+        "text_html": "Jeanie Buss: Those conversations started the beginning of January, right? I'll never forget that's when all of Los Angeles was on fire. In order to trade somebody like Anthony Davis, it would have to be with [my] approval and\u2026 certainly getting a player of Luka's caliber and him being at the beginning end of his career was just an extraordinary opportunity. <a href=\"https://www.instagram.com/reels/DXsALkkiW8p/\" target=\"_blank\" style=\"color: #1a73e8;\">But it required a lot of strategy and a lot of small steps in order to pull it off. And Rob Pelinka... was able to do that all with it out leaking to the media, because I think Mark Cuban might have jumped in front of a train to keep it from happening</a>. Nobody knew, including Luka. And Anthony Davis. And we had a game in New York that night. And so the coach knew that this was gonna happen, but he still had to play the game. And we won the game that night... Then all the world turned upside down.",
+        "outlet": "Instagram",
+        "source_url": "https://www.instagram.com/reels/DXsALkkiW8p/"
+      },
+      {
+        "date": "2026-04-27",
+        "text": "Q. I want to go back\u00a0when you were the GM in Sacramento. I don't remember the year, but you had a\u00a0chance to get Luka Doncic and you passed on him.\u00a0Do you want to talk about that? Because you\u00a0had drafted European players before.\u00a0Vlade Divac: I actually went\u00a0to Madrid to talk to Luka, a year before the draft.\u00a0So, he definitely top on the list. But,\u00a0obviously,it looks like I made mistake. Luka is an unbelievable uh talent, one of the top players in the league.\u00a0All of my assistants told\u00a0me that he can play small forward, and I said no, no, Luka is\u00a0a point guard. Luka is a coach on\u00a0the floor. And I felt that if I get Luka, I would have to trade De\u2019AaronFox,\u00a0and I already got a relationship with Fox, and I see he\u2019s a perfect fit\u00a0for us, a small market team, and Luka was a big market player.YouTube",
+        "text_html": "Q. I want to go back when you were the GM in Sacramento. I don't remember the year, but you had a chance to get Luka Doncic and you passed on him. Do you want to talk about that? Because you had drafted European players before. Vlade Divac: I actually went to Madrid to talk to Luka, a year before the draft. So, he definitely top on the list. But, obviously, <a href=\"https://www.youtube.com/watch?v=4HXV1R3JAlQ&t=2072s\" target=\"_blank\" style=\"color: #1a73e8;\">it looks like I made mistake. Luka is an unbelievable uh talent, one of the top players in the league. All of my assistants told me that he can play small forward, and I said no, no, Luka is a point guard. Luka is a coach on the floor. And I felt that if I get Luka, I would have to trade De\u2019Aaron</a> Fox, and I already got a relationship with Fox, and I see he\u2019s a perfect fit for us, a small market team, and Luka was a big market player.",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=4HXV1R3JAlQ&t=2072s"
+      },
+      {
+        "date": "2026-04-27",
+        "text": "Lou Williams: I want to put you on the hot seat. With all things considered, obviously AD is traded away now. Should the Mavs have kept Luka at this point? Devin Harris: That\u2019s such a hard question. I will say, even after the trade and everything went down, that game against Houston, for those first 15 minutes of that game, and watching everything go down, I\u2019m looking like, \u201cOh my God, we could win this championship.\u201d That\u2019s how dominant it looked. So at that point, I saw the vision that Nico had. In that moment, I was like, \u201cOkay, this could really work out really well for us.\u201d Obviously, he got hurt, I think, like two minutes later, and then we didn\u2019t see him again for another couple weeks. It just kind of went down from there. Butin hindsight, yes. If you\u2019re looking at it, we probably should have kept him, absolutely. I mean, we\u2019re talking about a top-five player.YouTube",
+        "text_html": "Lou Williams: I want to put you on the hot seat. With all things considered, obviously AD is traded away now. Should the Mavs have kept Luka at this point? Devin Harris: That\u2019s such a hard question. I will say, even after the trade and everything went down, that game against Houston, for those first 15 minutes of that game, and watching everything go down, I\u2019m looking like, \u201cOh my God, we could win this championship.\u201d That\u2019s how dominant it looked. So at that point, I saw the vision that Nico had. In that moment, I was like, \u201cOkay, this could really work out really well for us.\u201d Obviously, he got hurt, I think, like two minutes later, and then we didn\u2019t see him again for another couple weeks. It just kind of went down from there. But <a href=\"https://www.youtube.com/watch?v=f_5U-C4lihM\" target=\"_blank\" style=\"color: #1a73e8;\">in hindsight, yes. If you\u2019re looking at it, we probably should have kept him, absolutely. I mean, we\u2019re talking about a top-five player</a>.",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=f_5U-C4lihM"
+      },
+      {
+        "date": "2026-04-20",
+        "text": "Jeanie Buss: \u201c[Redick] handles pressure really well.As a former NBA player, playing for Duke University, he's been through a lot and he brings that steadiness, that calmness, that desire to execute, the obsession about basketball. Last year we had a major trade when Anthony Davis left and Luka Doncic joined us, and he didn't miss a beat. He was able to reconfigure and get into a new direction, and I think a lot of rookie head coaches might have been thrown off a lot by that. But instead, JJ rose to the challenge and he continues to do that.\u201dSirius XM",
+        "text_html": "<a href=\"https://www.siriusxm.com/hosts/stephen-a-smith\" target=\"_blank\" style=\"color: #1a73e8;\">Jeanie Buss: \u201c[Redick] handles pressure really well.</a> As a former NBA player, playing for Duke University, he's been through a lot and he brings that steadiness, that calmness, that desire to execute, the obsession about basketball. Last year we had a major trade when Anthony Davis left and Luka Doncic joined us, and he didn't miss a beat. He was able to reconfigure and get into a new direction, and I think a lot of rookie head coaches might have been thrown off a lot by that. But instead, JJ rose to the challenge and he continues to do that.\u201d",
+        "outlet": "Sirius XM",
+        "source_url": "https://www.siriusxm.com/hosts/stephen-a-smith"
+      },
+      {
+        "date": "2026-04-08",
+        "text": "Anthony Davis on being traded to Dallas: Look, from\u00a0the business standpoint I can't be\u00a0mad, but like why? I couldn't understand it. Nobody\u00a0told\u00a0menothing.\u00a0Nobody said a thing to me. So you\u00a0just catch me off guard like yeah you\u00a0traded to Dallas. That's what I couldn't\u00a0get over it, and I still can't get\u00a0over it, I think I deserve much more\u00a0respect than that. All the time I've been here, six years, all\u00a0the time I've been there, we won a championship, all\u00a0this stuff and I can't get a phone call\u00a0or a text to tell me like \u2018look, this is\u00a0what we're thinking.\u2019So all I'm saying,\u00a0all I know is that that Rob, what you\u00a0was calling me for was to tell me that I\u00a0was getting traded, but that was already\u00a010 minutes before the trade was before\u00a0about to be announced. So you already\u00a0knew this already, or you had\u00a0to at some point a conversation had to\u00a0start about me being traded for Luka,\u00a0right? And it never got to me or like,\u00a0hey, this is what we're thinking,\u00a0whatever, right? So I think that's the\u00a0biggest thing that kind of like f*ck with me this entire time.YouTube",
+        "text_html": "Anthony Davis on being traded to Dallas: Look, from the business standpoint I can't be mad, but like why? I couldn't understand it. Nobody told me <a href=\"https://www.youtube.com/watch?v=eESLCDwZLdo&t=2943s\" target=\"_blank\" style=\"color: #1a73e8;\">nothing. Nobody said a thing to me. So you just catch me off guard like yeah you traded to Dallas. That's what I couldn't get over it, and I still can't get over it, I think I deserve much more respect than that. All the time I've been here, six years, all the time I've been there, we won a championship, all this stuff and I can't get a phone call or a text to tell me like \u2018look, this is what we're thinking.\u2019</a> So all I'm saying, all I know is that that Rob, what you was calling me for was to tell me that I was getting traded, but that was already 10 minutes before the trade was before about to be announced. So you already knew this already, or you had to at some point a conversation had to start about me being traded for Luka, right? And it never got to me or like, hey, this is what we're thinking, whatever, right? So I think that's the biggest thing that kind of like f*ck with me this entire time.",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=eESLCDwZLdo&t=2943s"
+      },
+      {
+        "date": "2026-04-08",
+        "text": "Anthony Davis:So when Rich said I was traded to Dallas, I\u00a0was like\u00a0the f*ck out of here. I saidwho the f*ck they gonna trade me\u00a0for? Luka Doncic? I was just\u00a0saying like who else can you trade me\u00a0for on that team?\u00a0Mind\u00a0you, the Mavs just went to the finals.\u00a0And it was never no discussion\u00a0about like man, we might get AD out of\u00a0here or\u2026 it was nothing. And\u00a0he was like, \u201cThey traded you for Luka.\u201d I'm like\u00a0\"Rich, shut the hell up. What? Like,\u00a0shut what do you want?\" I'm\u00a0really thinking he's just\u00a0playing.And he was like, \"Man, I swear.\" \u00a0And at the time, like,\u00a0Nico Harrison is calling me. So, I'm like,\u00a0\"All right, Rich, I'mma call you back.\u00a0Let me see what Nico\u2026 And\u00a0I'm like, \"Rich, I'mma call you back.\"\u00a0Hello.\u00a0Yeah, \u2018I\u00a0told\u00a0you I was going to come get\u00a0you one day. I wanted you.\u2019\u00a0Huh? I'm still like, \"All right, I know\u00a0Rich and Nico like, y'all playing a joke.\" Like, this is foul\u00a0play.\u00a0Foul play. Got you. So,\u00a0I'm like,\u00a0\"Huh?\" So, I tell Nico, I didn't even\u00a0speak. I said, \"Yo, let me call you\u00a0back.\" So now I'm like, \"All right, I'm\u00a0about to call Rob Pelinka back.\" So I call\u00a0Rob back and I'm like, \"Hello.\" He\u2019s\u00a0telling me all this stuff and like, basically, that I got traded for Luka,\u00a0and some of the stuff he was\u00a0saying, I didn't understand. \u2018You know, when Bron's done, we want somebody to\u00a0take over, we want to go younger, rebuild all this\u2026\u2019 And I'm like,\u00a0\"Huh?\" I just didn't understand like\u00a0what he was saying. But also too, like\u00a0as I'm\u00a0hearing\u00a0this, I'm now like\u00a0checked out. Like I\u00a0hear\u00a0you, but I'm\u00a0not listening, right?\u00a0And hang up. And my chef is right there\u00a0in front of me. And I'm like, I\u00a0just got traded to the Mavs.\u00a0He starts laughing. \u2018Yeah, big dog.\u2019 So I'm\u00a0like, you know what? I know this true. I go to X and go straight to Sham Charania\u2019s page. Nothing, yeah they playing. So\u00a0I'm walking out the kitchen, turning the\u00a0corner to go up the stairs. Joel Embiid\u00a0calls me.\u00a0He\u2019s in Philly, 12 o\u2019clock. I don't answer, I\u2019m going upstairs,\u00a0then somebody else calls me, another\u00a0player and I'm like wait hold on. So, I\u00a0go back to Sham\u2019s page and then there it\u00a0is.\u00a0Breaking news: Dallas Mavericks trade\u00a0Luka Doncic. And I'm like, what?\u00a0Run upstairs,\u00a0say baby, I just got traded to Dallas. Shut\u00a0up.\u00a0But now this time I'm not\u00a0shaking, but my heart is in my stomach. I'm like, yo,\u00a0what the f*ck just happened? Right.\u00a0And I show her and she's like, \"What the\u00a0hell?\" But now I'm like, \"All right, I'm\u00a0running back outside. The first\u00a0person\u00a0I\u00a0call my pop like, \"Yo, pop, I just got\u00a0traded.\"YouTube",
+        "text_html": "Anthony Davis: <a href=\"https://www.youtube.com/watch?v=eESLCDwZLdo&t=2645s\" target=\"_blank\" style=\"color: #1a73e8;\">So when Rich said I was traded to Dallas, I was like the f*ck out of here. I saidwho the f*ck they gonna trade me for? Luka Doncic? I was just saying like who else can you trade me for on that team? Mind you, the Mavs just went to the finals. And it was never no discussion about like man, we might get AD out of here or\u2026 it was nothing. And he was like, \u201cThey traded you for Luka.\u201d I'm like \"Rich, shut the hell up. What? Like, shut what do you want?\" I'm really thinking he's just playing.</a> And he was like, \"Man, I swear.\" And at the time, like, Nico Harrison is calling me. So, I'm like, \"All right, Rich, I'mma call you back. Let me see what Nico\u2026 And I'm like, \"Rich, I'mma call you back.\" Hello. Yeah, \u2018I told you I was going to come get you one day. I wanted you.\u2019 Huh? I'm still like, \"All right, I know Rich and Nico like, y'all playing a joke.\" Like, this is foul play. Foul play. Got you. So, I'm like, \"Huh?\" So, I tell Nico, I didn't even speak. I said, \"Yo, let me call you back.\" So now I'm like, \"All right, I'm about to call Rob Pelinka back.\" So I call Rob back and I'm like, \"Hello.\" He\u2019s telling me all this stuff and like, basically, that I got traded for Luka, and some of the stuff he was saying, I didn't understand. \u2018You know, when Bron's done, we want somebody to take over, we want to go younger, rebuild all this\u2026\u2019 And I'm like, \"Huh?\" I just didn't understand like what he was saying. But also too, like as I'm hearing this, I'm now like checked out. Like I hear you, but I'm not listening, right? And hang up. And my chef is right there in front of me. And I'm like, I just got traded to the Mavs. He starts laughing. \u2018Yeah, big dog.\u2019 So I'm like, you know what? I know this true. I go to X and go straight to Sham Charania\u2019s page. Nothing, yeah they playing. So I'm walking out the kitchen, turning the corner to go up the stairs. Joel Embiid calls me. He\u2019s in Philly, 12 o\u2019clock. I don't answer, I\u2019m going upstairs, then somebody else calls me, another player and I'm like wait hold on. So, I go back to Sham\u2019s page and then there it is. Breaking news: Dallas Mavericks trade Luka Doncic. And I'm like, what? Run upstairs, say baby, I just got traded to Dallas. Shut up. But now this time I'm not shaking, but my heart is in my stomach. I'm like, yo, what the f*ck just happened? Right. And I show her and she's like, \"What the hell?\" But now I'm like, \"All right, I'm running back outside. The first person I call my pop like, \"Yo, pop, I just got traded.\"",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=eESLCDwZLdo&t=2645s"
+      }
+    ],
     "Zaccharie Risacher": [
       {
         "date": "2026-05-01",
@@ -769,64 +869,6 @@
         "text_html": "<a href=\"https://www.denverpost.com/2026/04/02/nuggets-aaron-gordon-trade-magic-nikola-jokic/\" target=\"_blank\" style=\"color: #1a73e8;\">The Nuggets\u2019 search for a glue guy who could raise their defensive ceiling dated back to the previous trade deadline, when they came close to acquiring Jrue Holiday from New Orleans,</a> according to league sources. Their interest in Holiday, a lockdown 6-foot-4 guard, was partially driven by the idea that Steph Curry was still the league\u2019s preeminent offensive threat. Even as Curry recovered from a broken hand during a gap year for Golden State, rival teams felt scarred by the dynasty that had dominated the last half-decade. If the Nuggets were going to take the throne out West, they wondered whether they would need to prioritize adding someone who could chase Curry around screens.",
         "outlet": "Denver Post",
         "source_url": "https://www.denverpost.com/2026/04/02/nuggets-aaron-gordon-trade-magic-nikola-jokic/"
-      }
-    ],
-    "Anthony Davis": [
-      {
-        "date": "2026-04-30",
-        "text": "Knueppel helped the Hornets (44-38) finish with a winning record for just the second time in the past decade. Cooper Flagg\u2019s Mavericks (26-56) finished in 12th place in the Western Conference. The Mavericks entered the season with high hopes but had to adjust their expectations after star big man Anthony Davis dealt with calf and hand injuries and was traded to the Washington Wizards in February.\u201cComing into this year, we all had different expectations in how we thought the year would go,\u201d Flagg said. \u201cBut all of that is in the past. I think it\u2019s time to move forward. Continue to grow, continue to get better and have a high outlook on how next year can go.We are just going to put in the work all summer long. I think we\u2019re all excited for it.\u201dNew York Times",
-        "text_html": "Knueppel helped the Hornets (44-38) finish with a winning record for just the second time in the past decade. Cooper Flagg\u2019s Mavericks (26-56) finished in 12th place in the Western Conference. The Mavericks entered the season with high hopes but had to adjust their expectations after star big man Anthony Davis dealt with calf and hand injuries and was traded to the Washington Wizards in February. <a href=\"https://www.nytimes.com/athletic/7240582/2026/04/29/cooper-flagg-rookie-of-the-year-mavericks-nba/\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cComing into this year, we all had different expectations in how we thought the year would go,\u201d Flagg said. \u201cBut all of that is in the past. I think it\u2019s time to move forward. Continue to grow, continue to get better and have a high outlook on how next year can go.</a> We are just going to put in the work all summer long. I think we\u2019re all excited for it.\u201d",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/7240582/2026/04/29/cooper-flagg-rookie-of-the-year-mavericks-nba/"
-      },
-      {
-        "date": "2026-04-28",
-        "text": "Jeanie Buss: Those conversations started the beginning of January, right? I'll never forget that's when all of Los Angeles was on fire. In order to trade somebody like Anthony Davis, it would have to be with [my] approval and\u2026 certainly getting a player of Luka's caliber and him being at the beginning end of his career was just an extraordinary opportunity.But it required a lot of strategy and a lot of small steps in order to pull it off. And Rob Pelinka... was able to do that all with it out leaking to the media, because I think Mark Cuban might have jumped in front of a train to keep it from happening. Nobody knew, including Luka. And Anthony Davis. And we had a game in New York that night. And so the coach knew that this was gonna happen, but he still had to play the game. And we won the game that night... Then all the world turned upside down.Instagram",
-        "text_html": "Jeanie Buss: Those conversations started the beginning of January, right? I'll never forget that's when all of Los Angeles was on fire. In order to trade somebody like Anthony Davis, it would have to be with [my] approval and\u2026 certainly getting a player of Luka's caliber and him being at the beginning end of his career was just an extraordinary opportunity. <a href=\"https://www.instagram.com/reels/DXsALkkiW8p/\" target=\"_blank\" style=\"color: #1a73e8;\">But it required a lot of strategy and a lot of small steps in order to pull it off. And Rob Pelinka... was able to do that all with it out leaking to the media, because I think Mark Cuban might have jumped in front of a train to keep it from happening</a>. Nobody knew, including Luka. And Anthony Davis. And we had a game in New York that night. And so the coach knew that this was gonna happen, but he still had to play the game. And we won the game that night... Then all the world turned upside down.",
-        "outlet": "Instagram",
-        "source_url": "https://www.instagram.com/reels/DXsALkkiW8p/"
-      },
-      {
-        "date": "2026-04-20",
-        "text": "Jeanie Buss: \u201c[Redick] handles pressure really well.As a former NBA player, playing for Duke University, he's been through a lot and he brings that steadiness, that calmness, that desire to execute, the obsession about basketball. Last year we had a major trade when Anthony Davis left and Luka Doncic joined us, and he didn't miss a beat. He was able to reconfigure and get into a new direction, and I think a lot of rookie head coaches might have been thrown off a lot by that. But instead, JJ rose to the challenge and he continues to do that.\u201dSirius XM",
-        "text_html": "<a href=\"https://www.siriusxm.com/hosts/stephen-a-smith\" target=\"_blank\" style=\"color: #1a73e8;\">Jeanie Buss: \u201c[Redick] handles pressure really well.</a> As a former NBA player, playing for Duke University, he's been through a lot and he brings that steadiness, that calmness, that desire to execute, the obsession about basketball. Last year we had a major trade when Anthony Davis left and Luka Doncic joined us, and he didn't miss a beat. He was able to reconfigure and get into a new direction, and I think a lot of rookie head coaches might have been thrown off a lot by that. But instead, JJ rose to the challenge and he continues to do that.\u201d",
-        "outlet": "Sirius XM",
-        "source_url": "https://www.siriusxm.com/hosts/stephen-a-smith"
-      },
-      {
-        "date": "2026-04-14",
-        "text": "Anthony Davis is parting with more than just a mansion. The NBA star is shedding one of the last major pieces of his Los Angeles life. The Washington Wizards forward has found a buyer for his Bel Air estate, sources told The Post \u2014 the lavish hilltop property he bought in 2021 when he was still a centerpiece of the Los Angeles Lakers and fresh off the team\u2019s championship run.The home, which had been seeking close to $40 million, entered contract as Davis continues a dramatic professional reset that has taken him from LA to Dallas and now to Washington in a whirlwind stretch of trades,sources added.New York Post",
-        "text_html": "Anthony Davis is parting with more than just a mansion. The NBA star is shedding one of the last major pieces of his Los Angeles life. The Washington Wizards forward has found a buyer for his Bel Air estate, sources told The Post \u2014 the lavish hilltop property he bought in 2021 when he was still a centerpiece of the Los Angeles Lakers and fresh off the team\u2019s championship run. <a href=\"https://nypost.com/2026/04/14/real-estate/anthony-davis-in-contract-to-sell-40m-la-mansion/\" target=\"_blank\" style=\"color: #1a73e8;\">The home, which had been seeking close to $40 million, entered contract as Davis continues a dramatic professional reset that has taken him from LA to Dallas and now to Washington in a whirlwind stretch of trades,</a> sources added.",
-        "outlet": "New York Post",
-        "source_url": "https://nypost.com/2026/04/14/real-estate/anthony-davis-in-contract-to-sell-40m-la-mansion/"
-      },
-      {
-        "date": "2026-04-08",
-        "text": "Anthony Davis on trade to Lakers: It was tough though because when Rich Paul\u00a0was telling me like you got to go to the\u00a0media\u2026 and I never talked about this by\u00a0the way. You\u2019re getting the first\u00a0clues. I've never\u00a0spoken\u00a0to anybody\u00a0about this. Draymond Green: Appreciated. Davis: When Rich\u00a0told\u00a0me like you have to go and say I was like no, hell no.\u00a0Be a villain? man\u2026 change teams? I was scared. Like I didn't at first I didn't\u00a0want to be traded cuz I'm like change is\u00a0change is different man. Change is hard. I started doubting myself like\u00a0man I know I can do in New Orleans. I'm\u00a0going to get all the balls. I'm about to go\u00a0play with LeBron, spotlight. I\u2019m gonna play\u00a0with Rondo. Like I'm about to play with\u00a0all these players in LA\u2026 I'm about to go play with\u00a0some guys. And it's like I am I ready\u00a0for that? I wasn't sure, you\u00a0know, so I'm like, man, I don't know.\u00a0Let's figure this out over here, you\u00a0know? I hit Bron like, bro, you want to\u00a0come over here? Like everybody trying to\u00a0figure it out so I didn't have to leave.\u00a0So because I was comfortable, and I'm glad I did make the\u00a0make the change, but that sh*t was tough when\u00a0he was telling me what I had to do, and\u00a0I was like, man,\u00a0but at the day, I had to\u00a0grow up and do what's best for me and let the rest\u00a0take care ofitself.\u00a0Green: So Ja Morant gets drafted number one\u00a0instead of Zion and you're probably\u00a0still a New Orleans Pelican. Davis: I think. Yep. I\u2019d probably still be\u00a0in New Orleans. Green: And you asked David Griffin\u00a0to draft Ja Morant, and he didn\u2019t.YouTube",
-        "text_html": "Anthony Davis on trade to Lakers: It was tough though because when Rich Paul was telling me like you got to go to the media\u2026 and I never talked about this by the way. You\u2019re getting the first clues. I've never spoken to anybody about this. Draymond Green: Appreciated. Davis: When Rich told me like you have to go and say I was like no, hell no. Be a villain? man\u2026 change teams? I was scared. Like I didn't at first I didn't want to be traded cuz I'm like change is change is different man. Change is hard. I started doubting myself like man I know I can do in New Orleans. I'm going to get all the balls. I'm about to go play with LeBron, spotlight. I\u2019m gonna play with Rondo. Like I'm about to play with all these players in LA\u2026 I'm about to go play with some guys. And it's like I am I ready for that? I wasn't sure, you know, so I'm like, man, I don't know. Let's figure this out over here, you know? I hit Bron like, bro, you want to come over here? Like everybody trying to figure it out so I didn't have to leave. So because I was comfortable, and I'm glad I did make the make the change, but that sh*t was tough when he was telling me what I had to do, and I was like, man, but at the day, I had to grow up and do what's best for me and let the rest take care of <a href=\"https://www.youtube.com/watch?v=eESLCDwZLdo&t=2242s\" target=\"_blank\" style=\"color: #1a73e8;\">itself. Green: So Ja Morant gets drafted number one instead of Zion and you're probably still a New Orleans Pelican. Davis: I think. Yep. I\u2019d probably still be in New Orleans. Green: And you asked David Griffin to draft Ja Morant, and he didn\u2019t</a>.",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=eESLCDwZLdo&t=2242s"
-      },
-      {
-        "date": "2026-04-08",
-        "text": "Anthony Davis on being traded to Dallas: Look, from\u00a0the business standpoint I can't be\u00a0mad, but like why? I couldn't understand it. Nobody\u00a0told\u00a0menothing.\u00a0Nobody said a thing to me. So you\u00a0just catch me off guard like yeah you\u00a0traded to Dallas. That's what I couldn't\u00a0get over it, and I still can't get\u00a0over it, I think I deserve much more\u00a0respect than that. All the time I've been here, six years, all\u00a0the time I've been there, we won a championship, all\u00a0this stuff and I can't get a phone call\u00a0or a text to tell me like \u2018look, this is\u00a0what we're thinking.\u2019So all I'm saying,\u00a0all I know is that that Rob, what you\u00a0was calling me for was to tell me that I\u00a0was getting traded, but that was already\u00a010 minutes before the trade was before\u00a0about to be announced. So you already\u00a0knew this already, or you had\u00a0to at some point a conversation had to\u00a0start about me being traded for Luka,\u00a0right? And it never got to me or like,\u00a0hey, this is what we're thinking,\u00a0whatever, right? So I think that's the\u00a0biggest thing that kind of like f*ck with me this entire time.YouTube",
-        "text_html": "Anthony Davis on being traded to Dallas: Look, from the business standpoint I can't be mad, but like why? I couldn't understand it. Nobody told me <a href=\"https://www.youtube.com/watch?v=eESLCDwZLdo&t=2943s\" target=\"_blank\" style=\"color: #1a73e8;\">nothing. Nobody said a thing to me. So you just catch me off guard like yeah you traded to Dallas. That's what I couldn't get over it, and I still can't get over it, I think I deserve much more respect than that. All the time I've been here, six years, all the time I've been there, we won a championship, all this stuff and I can't get a phone call or a text to tell me like \u2018look, this is what we're thinking.\u2019</a> So all I'm saying, all I know is that that Rob, what you was calling me for was to tell me that I was getting traded, but that was already 10 minutes before the trade was before about to be announced. So you already knew this already, or you had to at some point a conversation had to start about me being traded for Luka, right? And it never got to me or like, hey, this is what we're thinking, whatever, right? So I think that's the biggest thing that kind of like f*ck with me this entire time.",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=eESLCDwZLdo&t=2943s"
-      },
-      {
-        "date": "2026-04-08",
-        "text": "Anthony Davis:So when Rich said I was traded to Dallas, I\u00a0was like\u00a0the f*ck out of here. I saidwho the f*ck they gonna trade me\u00a0for? Luka Doncic? I was just\u00a0saying like who else can you trade me\u00a0for on that team?\u00a0Mind\u00a0you, the Mavs just went to the finals.\u00a0And it was never no discussion\u00a0about like man, we might get AD out of\u00a0here or\u2026 it was nothing. And\u00a0he was like, \u201cThey traded you for Luka.\u201d I'm like\u00a0\"Rich, shut the hell up. What? Like,\u00a0shut what do you want?\" I'm\u00a0really thinking he's just\u00a0playing.And he was like, \"Man, I swear.\" \u00a0And at the time, like,\u00a0Nico Harrison is calling me. So, I'm like,\u00a0\"All right, Rich, I'mma call you back.\u00a0Let me see what Nico\u2026 And\u00a0I'm like, \"Rich, I'mma call you back.\"\u00a0Hello.\u00a0Yeah, \u2018I\u00a0told\u00a0you I was going to come get\u00a0you one day. I wanted you.\u2019\u00a0Huh? I'm still like, \"All right, I know\u00a0Rich and Nico like, y'all playing a joke.\" Like, this is foul\u00a0play.\u00a0Foul play. Got you. So,\u00a0I'm like,\u00a0\"Huh?\" So, I tell Nico, I didn't even\u00a0speak. I said, \"Yo, let me call you\u00a0back.\" So now I'm like, \"All right, I'm\u00a0about to call Rob Pelinka back.\" So I call\u00a0Rob back and I'm like, \"Hello.\" He\u2019s\u00a0telling me all this stuff and like, basically, that I got traded for Luka,\u00a0and some of the stuff he was\u00a0saying, I didn't understand. \u2018You know, when Bron's done, we want somebody to\u00a0take over, we want to go younger, rebuild all this\u2026\u2019 And I'm like,\u00a0\"Huh?\" I just didn't understand like\u00a0what he was saying. But also too, like\u00a0as I'm\u00a0hearing\u00a0this, I'm now like\u00a0checked out. Like I\u00a0hear\u00a0you, but I'm\u00a0not listening, right?\u00a0And hang up. And my chef is right there\u00a0in front of me. And I'm like, I\u00a0just got traded to the Mavs.\u00a0He starts laughing. \u2018Yeah, big dog.\u2019 So I'm\u00a0like, you know what? I know this true. I go to X and go straight to Sham Charania\u2019s page. Nothing, yeah they playing. So\u00a0I'm walking out the kitchen, turning the\u00a0corner to go up the stairs. Joel Embiid\u00a0calls me.\u00a0He\u2019s in Philly, 12 o\u2019clock. I don't answer, I\u2019m going upstairs,\u00a0then somebody else calls me, another\u00a0player and I'm like wait hold on. So, I\u00a0go back to Sham\u2019s page and then there it\u00a0is.\u00a0Breaking news: Dallas Mavericks trade\u00a0Luka Doncic. And I'm like, what?\u00a0Run upstairs,\u00a0say baby, I just got traded to Dallas. Shut\u00a0up.\u00a0But now this time I'm not\u00a0shaking, but my heart is in my stomach. I'm like, yo,\u00a0what the f*ck just happened? Right.\u00a0And I show her and she's like, \"What the\u00a0hell?\" But now I'm like, \"All right, I'm\u00a0running back outside. The first\u00a0person\u00a0I\u00a0call my pop like, \"Yo, pop, I just got\u00a0traded.\"YouTube",
-        "text_html": "Anthony Davis: <a href=\"https://www.youtube.com/watch?v=eESLCDwZLdo&t=2645s\" target=\"_blank\" style=\"color: #1a73e8;\">So when Rich said I was traded to Dallas, I was like the f*ck out of here. I saidwho the f*ck they gonna trade me for? Luka Doncic? I was just saying like who else can you trade me for on that team? Mind you, the Mavs just went to the finals. And it was never no discussion about like man, we might get AD out of here or\u2026 it was nothing. And he was like, \u201cThey traded you for Luka.\u201d I'm like \"Rich, shut the hell up. What? Like, shut what do you want?\" I'm really thinking he's just playing.</a> And he was like, \"Man, I swear.\" And at the time, like, Nico Harrison is calling me. So, I'm like, \"All right, Rich, I'mma call you back. Let me see what Nico\u2026 And I'm like, \"Rich, I'mma call you back.\" Hello. Yeah, \u2018I told you I was going to come get you one day. I wanted you.\u2019 Huh? I'm still like, \"All right, I know Rich and Nico like, y'all playing a joke.\" Like, this is foul play. Foul play. Got you. So, I'm like, \"Huh?\" So, I tell Nico, I didn't even speak. I said, \"Yo, let me call you back.\" So now I'm like, \"All right, I'm about to call Rob Pelinka back.\" So I call Rob back and I'm like, \"Hello.\" He\u2019s telling me all this stuff and like, basically, that I got traded for Luka, and some of the stuff he was saying, I didn't understand. \u2018You know, when Bron's done, we want somebody to take over, we want to go younger, rebuild all this\u2026\u2019 And I'm like, \"Huh?\" I just didn't understand like what he was saying. But also too, like as I'm hearing this, I'm now like checked out. Like I hear you, but I'm not listening, right? And hang up. And my chef is right there in front of me. And I'm like, I just got traded to the Mavs. He starts laughing. \u2018Yeah, big dog.\u2019 So I'm like, you know what? I know this true. I go to X and go straight to Sham Charania\u2019s page. Nothing, yeah they playing. So I'm walking out the kitchen, turning the corner to go up the stairs. Joel Embiid calls me. He\u2019s in Philly, 12 o\u2019clock. I don't answer, I\u2019m going upstairs, then somebody else calls me, another player and I'm like wait hold on. So, I go back to Sham\u2019s page and then there it is. Breaking news: Dallas Mavericks trade Luka Doncic. And I'm like, what? Run upstairs, say baby, I just got traded to Dallas. Shut up. But now this time I'm not shaking, but my heart is in my stomach. I'm like, yo, what the f*ck just happened? Right. And I show her and she's like, \"What the hell?\" But now I'm like, \"All right, I'm running back outside. The first person I call my pop like, \"Yo, pop, I just got traded.\"",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=eESLCDwZLdo&t=2645s"
-      },
-      {
-        "date": "2026-04-08",
-        "text": "Oh Giannis. Zach Lowe dedicated 230 minutes to Giannis Antetokounmpo on his podcast, more than 2x the minutes dedicated to the second most discussed player (Ja Morant) and more than 3x the third (Anthony Davis).Zach clearly loves prognosticating about trade candidates and where they\u2019ll end up, and you can see the discussion around all three players pick up ahead of the early February trade deadline.Charting Hoops",
-        "text_html": "<a href=\"https://chartinghoops.substack.com/p/the-zach-lowe-teams\" target=\"_blank\" style=\"color: #1a73e8;\">Oh Giannis. Zach Lowe dedicated 230 minutes to Giannis Antetokounmpo on his podcast, more than 2x the minutes dedicated to the second most discussed player (Ja Morant) and more than 3x the third (Anthony Davis).</a> Zach clearly loves prognosticating about trade candidates and where they\u2019ll end up, and you can see the discussion around all three players pick up ahead of the early February trade deadline.",
-        "outlet": "Charting Hoops",
-        "source_url": "https://chartinghoops.substack.com/p/the-zach-lowe-teams"
       }
     ],
     "Giannis Antetokounmpo": [
@@ -1171,50 +1213,6 @@
         "source_url": "https://x.com/HeatCulture13/status/2048821278845395063?s=20"
       }
     ],
-    "Luka Doncic": [
-      {
-        "date": "2026-04-28",
-        "text": "Jeanie Buss: Those conversations started the beginning of January, right? I'll never forget that's when all of Los Angeles was on fire. In order to trade somebody like Anthony Davis, it would have to be with [my] approval and\u2026 certainly getting a player of Luka's caliber and him being at the beginning end of his career was just an extraordinary opportunity.But it required a lot of strategy and a lot of small steps in order to pull it off. And Rob Pelinka... was able to do that all with it out leaking to the media, because I think Mark Cuban might have jumped in front of a train to keep it from happening. Nobody knew, including Luka. And Anthony Davis. And we had a game in New York that night. And so the coach knew that this was gonna happen, but he still had to play the game. And we won the game that night... Then all the world turned upside down.Instagram",
-        "text_html": "Jeanie Buss: Those conversations started the beginning of January, right? I'll never forget that's when all of Los Angeles was on fire. In order to trade somebody like Anthony Davis, it would have to be with [my] approval and\u2026 certainly getting a player of Luka's caliber and him being at the beginning end of his career was just an extraordinary opportunity. <a href=\"https://www.instagram.com/reels/DXsALkkiW8p/\" target=\"_blank\" style=\"color: #1a73e8;\">But it required a lot of strategy and a lot of small steps in order to pull it off. And Rob Pelinka... was able to do that all with it out leaking to the media, because I think Mark Cuban might have jumped in front of a train to keep it from happening</a>. Nobody knew, including Luka. And Anthony Davis. And we had a game in New York that night. And so the coach knew that this was gonna happen, but he still had to play the game. And we won the game that night... Then all the world turned upside down.",
-        "outlet": "Instagram",
-        "source_url": "https://www.instagram.com/reels/DXsALkkiW8p/"
-      },
-      {
-        "date": "2026-04-27",
-        "text": "Q. I want to go back\u00a0when you were the GM in Sacramento. I don't remember the year, but you had a\u00a0chance to get Luka Doncic and you passed on him.\u00a0Do you want to talk about that? Because you\u00a0had drafted European players before.\u00a0Vlade Divac: I actually went\u00a0to Madrid to talk to Luka, a year before the draft.\u00a0So, he definitely top on the list. But,\u00a0obviously,it looks like I made mistake. Luka is an unbelievable uh talent, one of the top players in the league.\u00a0All of my assistants told\u00a0me that he can play small forward, and I said no, no, Luka is\u00a0a point guard. Luka is a coach on\u00a0the floor. And I felt that if I get Luka, I would have to trade De\u2019AaronFox,\u00a0and I already got a relationship with Fox, and I see he\u2019s a perfect fit\u00a0for us, a small market team, and Luka was a big market player.YouTube",
-        "text_html": "Q. I want to go back when you were the GM in Sacramento. I don't remember the year, but you had a chance to get Luka Doncic and you passed on him. Do you want to talk about that? Because you had drafted European players before. Vlade Divac: I actually went to Madrid to talk to Luka, a year before the draft. So, he definitely top on the list. But, obviously, <a href=\"https://www.youtube.com/watch?v=4HXV1R3JAlQ&t=2072s\" target=\"_blank\" style=\"color: #1a73e8;\">it looks like I made mistake. Luka is an unbelievable uh talent, one of the top players in the league. All of my assistants told me that he can play small forward, and I said no, no, Luka is a point guard. Luka is a coach on the floor. And I felt that if I get Luka, I would have to trade De\u2019Aaron</a> Fox, and I already got a relationship with Fox, and I see he\u2019s a perfect fit for us, a small market team, and Luka was a big market player.",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=4HXV1R3JAlQ&t=2072s"
-      },
-      {
-        "date": "2026-04-27",
-        "text": "Lou Williams: I want to put you on the hot seat. With all things considered, obviously AD is traded away now. Should the Mavs have kept Luka at this point? Devin Harris: That\u2019s such a hard question. I will say, even after the trade and everything went down, that game against Houston, for those first 15 minutes of that game, and watching everything go down, I\u2019m looking like, \u201cOh my God, we could win this championship.\u201d That\u2019s how dominant it looked. So at that point, I saw the vision that Nico had. In that moment, I was like, \u201cOkay, this could really work out really well for us.\u201d Obviously, he got hurt, I think, like two minutes later, and then we didn\u2019t see him again for another couple weeks. It just kind of went down from there. Butin hindsight, yes. If you\u2019re looking at it, we probably should have kept him, absolutely. I mean, we\u2019re talking about a top-five player.YouTube",
-        "text_html": "Lou Williams: I want to put you on the hot seat. With all things considered, obviously AD is traded away now. Should the Mavs have kept Luka at this point? Devin Harris: That\u2019s such a hard question. I will say, even after the trade and everything went down, that game against Houston, for those first 15 minutes of that game, and watching everything go down, I\u2019m looking like, \u201cOh my God, we could win this championship.\u201d That\u2019s how dominant it looked. So at that point, I saw the vision that Nico had. In that moment, I was like, \u201cOkay, this could really work out really well for us.\u201d Obviously, he got hurt, I think, like two minutes later, and then we didn\u2019t see him again for another couple weeks. It just kind of went down from there. But <a href=\"https://www.youtube.com/watch?v=f_5U-C4lihM\" target=\"_blank\" style=\"color: #1a73e8;\">in hindsight, yes. If you\u2019re looking at it, we probably should have kept him, absolutely. I mean, we\u2019re talking about a top-five player</a>.",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=f_5U-C4lihM"
-      },
-      {
-        "date": "2026-04-20",
-        "text": "Jeanie Buss: \u201c[Redick] handles pressure really well.As a former NBA player, playing for Duke University, he's been through a lot and he brings that steadiness, that calmness, that desire to execute, the obsession about basketball. Last year we had a major trade when Anthony Davis left and Luka Doncic joined us, and he didn't miss a beat. He was able to reconfigure and get into a new direction, and I think a lot of rookie head coaches might have been thrown off a lot by that. But instead, JJ rose to the challenge and he continues to do that.\u201dSirius XM",
-        "text_html": "<a href=\"https://www.siriusxm.com/hosts/stephen-a-smith\" target=\"_blank\" style=\"color: #1a73e8;\">Jeanie Buss: \u201c[Redick] handles pressure really well.</a> As a former NBA player, playing for Duke University, he's been through a lot and he brings that steadiness, that calmness, that desire to execute, the obsession about basketball. Last year we had a major trade when Anthony Davis left and Luka Doncic joined us, and he didn't miss a beat. He was able to reconfigure and get into a new direction, and I think a lot of rookie head coaches might have been thrown off a lot by that. But instead, JJ rose to the challenge and he continues to do that.\u201d",
-        "outlet": "Sirius XM",
-        "source_url": "https://www.siriusxm.com/hosts/stephen-a-smith"
-      },
-      {
-        "date": "2026-04-08",
-        "text": "Anthony Davis on being traded to Dallas: Look, from\u00a0the business standpoint I can't be\u00a0mad, but like why? I couldn't understand it. Nobody\u00a0told\u00a0menothing.\u00a0Nobody said a thing to me. So you\u00a0just catch me off guard like yeah you\u00a0traded to Dallas. That's what I couldn't\u00a0get over it, and I still can't get\u00a0over it, I think I deserve much more\u00a0respect than that. All the time I've been here, six years, all\u00a0the time I've been there, we won a championship, all\u00a0this stuff and I can't get a phone call\u00a0or a text to tell me like \u2018look, this is\u00a0what we're thinking.\u2019So all I'm saying,\u00a0all I know is that that Rob, what you\u00a0was calling me for was to tell me that I\u00a0was getting traded, but that was already\u00a010 minutes before the trade was before\u00a0about to be announced. So you already\u00a0knew this already, or you had\u00a0to at some point a conversation had to\u00a0start about me being traded for Luka,\u00a0right? And it never got to me or like,\u00a0hey, this is what we're thinking,\u00a0whatever, right? So I think that's the\u00a0biggest thing that kind of like f*ck with me this entire time.YouTube",
-        "text_html": "Anthony Davis on being traded to Dallas: Look, from the business standpoint I can't be mad, but like why? I couldn't understand it. Nobody told me <a href=\"https://www.youtube.com/watch?v=eESLCDwZLdo&t=2943s\" target=\"_blank\" style=\"color: #1a73e8;\">nothing. Nobody said a thing to me. So you just catch me off guard like yeah you traded to Dallas. That's what I couldn't get over it, and I still can't get over it, I think I deserve much more respect than that. All the time I've been here, six years, all the time I've been there, we won a championship, all this stuff and I can't get a phone call or a text to tell me like \u2018look, this is what we're thinking.\u2019</a> So all I'm saying, all I know is that that Rob, what you was calling me for was to tell me that I was getting traded, but that was already 10 minutes before the trade was before about to be announced. So you already knew this already, or you had to at some point a conversation had to start about me being traded for Luka, right? And it never got to me or like, hey, this is what we're thinking, whatever, right? So I think that's the biggest thing that kind of like f*ck with me this entire time.",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=eESLCDwZLdo&t=2943s"
-      },
-      {
-        "date": "2026-04-08",
-        "text": "Anthony Davis:So when Rich said I was traded to Dallas, I\u00a0was like\u00a0the f*ck out of here. I saidwho the f*ck they gonna trade me\u00a0for? Luka Doncic? I was just\u00a0saying like who else can you trade me\u00a0for on that team?\u00a0Mind\u00a0you, the Mavs just went to the finals.\u00a0And it was never no discussion\u00a0about like man, we might get AD out of\u00a0here or\u2026 it was nothing. And\u00a0he was like, \u201cThey traded you for Luka.\u201d I'm like\u00a0\"Rich, shut the hell up. What? Like,\u00a0shut what do you want?\" I'm\u00a0really thinking he's just\u00a0playing.And he was like, \"Man, I swear.\" \u00a0And at the time, like,\u00a0Nico Harrison is calling me. So, I'm like,\u00a0\"All right, Rich, I'mma call you back.\u00a0Let me see what Nico\u2026 And\u00a0I'm like, \"Rich, I'mma call you back.\"\u00a0Hello.\u00a0Yeah, \u2018I\u00a0told\u00a0you I was going to come get\u00a0you one day. I wanted you.\u2019\u00a0Huh? I'm still like, \"All right, I know\u00a0Rich and Nico like, y'all playing a joke.\" Like, this is foul\u00a0play.\u00a0Foul play. Got you. So,\u00a0I'm like,\u00a0\"Huh?\" So, I tell Nico, I didn't even\u00a0speak. I said, \"Yo, let me call you\u00a0back.\" So now I'm like, \"All right, I'm\u00a0about to call Rob Pelinka back.\" So I call\u00a0Rob back and I'm like, \"Hello.\" He\u2019s\u00a0telling me all this stuff and like, basically, that I got traded for Luka,\u00a0and some of the stuff he was\u00a0saying, I didn't understand. \u2018You know, when Bron's done, we want somebody to\u00a0take over, we want to go younger, rebuild all this\u2026\u2019 And I'm like,\u00a0\"Huh?\" I just didn't understand like\u00a0what he was saying. But also too, like\u00a0as I'm\u00a0hearing\u00a0this, I'm now like\u00a0checked out. Like I\u00a0hear\u00a0you, but I'm\u00a0not listening, right?\u00a0And hang up. And my chef is right there\u00a0in front of me. And I'm like, I\u00a0just got traded to the Mavs.\u00a0He starts laughing. \u2018Yeah, big dog.\u2019 So I'm\u00a0like, you know what? I know this true. I go to X and go straight to Sham Charania\u2019s page. Nothing, yeah they playing. So\u00a0I'm walking out the kitchen, turning the\u00a0corner to go up the stairs. Joel Embiid\u00a0calls me.\u00a0He\u2019s in Philly, 12 o\u2019clock. I don't answer, I\u2019m going upstairs,\u00a0then somebody else calls me, another\u00a0player and I'm like wait hold on. So, I\u00a0go back to Sham\u2019s page and then there it\u00a0is.\u00a0Breaking news: Dallas Mavericks trade\u00a0Luka Doncic. And I'm like, what?\u00a0Run upstairs,\u00a0say baby, I just got traded to Dallas. Shut\u00a0up.\u00a0But now this time I'm not\u00a0shaking, but my heart is in my stomach. I'm like, yo,\u00a0what the f*ck just happened? Right.\u00a0And I show her and she's like, \"What the\u00a0hell?\" But now I'm like, \"All right, I'm\u00a0running back outside. The first\u00a0person\u00a0I\u00a0call my pop like, \"Yo, pop, I just got\u00a0traded.\"YouTube",
-        "text_html": "Anthony Davis: <a href=\"https://www.youtube.com/watch?v=eESLCDwZLdo&t=2645s\" target=\"_blank\" style=\"color: #1a73e8;\">So when Rich said I was traded to Dallas, I was like the f*ck out of here. I saidwho the f*ck they gonna trade me for? Luka Doncic? I was just saying like who else can you trade me for on that team? Mind you, the Mavs just went to the finals. And it was never no discussion about like man, we might get AD out of here or\u2026 it was nothing. And he was like, \u201cThey traded you for Luka.\u201d I'm like \"Rich, shut the hell up. What? Like, shut what do you want?\" I'm really thinking he's just playing.</a> And he was like, \"Man, I swear.\" And at the time, like, Nico Harrison is calling me. So, I'm like, \"All right, Rich, I'mma call you back. Let me see what Nico\u2026 And I'm like, \"Rich, I'mma call you back.\" Hello. Yeah, \u2018I told you I was going to come get you one day. I wanted you.\u2019 Huh? I'm still like, \"All right, I know Rich and Nico like, y'all playing a joke.\" Like, this is foul play. Foul play. Got you. So, I'm like, \"Huh?\" So, I tell Nico, I didn't even speak. I said, \"Yo, let me call you back.\" So now I'm like, \"All right, I'm about to call Rob Pelinka back.\" So I call Rob back and I'm like, \"Hello.\" He\u2019s telling me all this stuff and like, basically, that I got traded for Luka, and some of the stuff he was saying, I didn't understand. \u2018You know, when Bron's done, we want somebody to take over, we want to go younger, rebuild all this\u2026\u2019 And I'm like, \"Huh?\" I just didn't understand like what he was saying. But also too, like as I'm hearing this, I'm now like checked out. Like I hear you, but I'm not listening, right? And hang up. And my chef is right there in front of me. And I'm like, I just got traded to the Mavs. He starts laughing. \u2018Yeah, big dog.\u2019 So I'm like, you know what? I know this true. I go to X and go straight to Sham Charania\u2019s page. Nothing, yeah they playing. So I'm walking out the kitchen, turning the corner to go up the stairs. Joel Embiid calls me. He\u2019s in Philly, 12 o\u2019clock. I don't answer, I\u2019m going upstairs, then somebody else calls me, another player and I'm like wait hold on. So, I go back to Sham\u2019s page and then there it is. Breaking news: Dallas Mavericks trade Luka Doncic. And I'm like, what? Run upstairs, say baby, I just got traded to Dallas. Shut up. But now this time I'm not shaking, but my heart is in my stomach. I'm like, yo, what the f*ck just happened? Right. And I show her and she's like, \"What the hell?\" But now I'm like, \"All right, I'm running back outside. The first person I call my pop like, \"Yo, pop, I just got traded.\"",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=eESLCDwZLdo&t=2645s"
-      }
-    ],
     "Kevin Durant": [
       {
         "date": "2026-04-28",
@@ -1343,13 +1341,6 @@
         "text_html": "There will be no shortage of fans and media who connect the dots and say Alperen Sengun could follow in Jalen Green\u2019s steps as a young piece that gets sent away because he wasn\u2019t ready to compete for a championship now. <a href=\"https://www.nytimes.com/athletic/7225104/2026/04/24/alperen-sengun-game-3-rockets-lakers-nba-playoffs/\" target=\"_blank\" style=\"color: #1a73e8;\">Giannis Antetokounmpo will be a name many connect to Houston as a potential superstar who could be acquired in a \u015eeng\u00fcn trade. Kawhi Leonard or Donovan Mitchell could also be possibilities.</a> If Houston makes \u015eeng\u00fcn available, along with some of the future draft picks they hold, it would put them squarely among the favorites to acquire any of the disgruntled superstars who may become available.",
         "outlet": "New York Times",
         "source_url": "https://www.nytimes.com/athletic/7225104/2026/04/24/alperen-sengun-game-3-rockets-lakers-nba-playoffs/"
-      },
-      {
-        "date": "2026-04-03",
-        "text": "The Cavs officially clinched a playoff spot with\u00a0a 118-111 win over the undermanned Golden State Warriors Thursday night. There was a brief celebration in the locker room. But nothing extravagant. Because Cleveland has bigger goals.This team \u2014 with the league\u2019s highest payroll, a ticking clock attached to Donovan Mitchell\u2019s\u00a0contract\u00a0status and a midseason trade that effectively shortened its title runway \u2014 wasn\u2019t assembled just to make the playoffs. \u201cIt\u2019s the bare minimum,\u201d Mitchell said.\u201cThis is what we expected. You\u2019re always grateful, always appreciative of the journey. You celebrate that small victory. But this is the bare minimum and now it\u2019s about how many games we can win, be healthy and go from there.\u201dCleveland Plain Dealer",
-        "text_html": "The Cavs officially clinched a playoff spot with a 118-111 win over the undermanned Golden State Warriors Thursday night. There was a brief celebration in the locker room. But nothing extravagant. Because Cleveland has bigger goals. <a href=\"https://www.cleveland.com/cavs/2026/04/cavs-consider-seeding-strategy-as-kenny-atkinson-weighs-optimal-playoff-path.html\" target=\"_blank\" style=\"color: #1a73e8;\">This team \u2014 with the league\u2019s highest payroll, a ticking clock attached to Donovan Mitchell\u2019s contract status and a midseason trade that effectively shortened its title runway \u2014 wasn\u2019t assembled just to make the playoffs. \u201cIt\u2019s the bare minimum,\u201d Mitchell said.</a> \u201cThis is what we expected. You\u2019re always grateful, always appreciative of the journey. You celebrate that small victory. But this is the bare minimum and now it\u2019s about how many games we can win, be healthy and go from there.\u201d",
-        "outlet": "Cleveland Plain Dealer",
-        "source_url": "https://www.cleveland.com/cavs/2026/04/cavs-consider-seeding-strategy-as-kenny-atkinson-weighs-optimal-playoff-path.html"
       }
     ],
     "Alperen Sengun": [
@@ -1494,22 +1485,6 @@
         "source_url": "https://www.youtube.com/watch?v=aittHaaZu-c&t=680s"
       }
     ],
-    "LeBron James": [
-      {
-        "date": "2026-04-20",
-        "text": "Some within the Warriors organization believe a Leonard trade was close. Others were skeptical. On the Clippers side, it was a steadfast no from Ballmer, who wields the ultimate hammer. Either way, sources saidthere's an expectation the Warriors could reengage the Clippers on Leonard's availability this offseason, compile another offer for Antetokounmpo and test the waters again on soon-to-be free agent LeBron James.They could also bring back Porzingis at a lower price than his $30.7 million expiring contract or negotiate a way to use him as a building block in a sign-and-trade for another big name.ESPN",
-        "text_html": "Some within the Warriors organization believe a Leonard trade was close. Others were skeptical. On the Clippers side, it was a steadfast no from Ballmer, who wields the ultimate hammer. Either way, sources said <a href=\"https://www.espn.com/nba/story/_/id/48526309/the-golden-state-warriors-summer-uncertainty-starts-steve-kerr-stephen-curry-draymond-green\" target=\"_blank\" style=\"color: #1a73e8;\">there's an expectation the Warriors could reengage the Clippers on Leonard's availability this offseason, compile another offer for Antetokounmpo and test the waters again on soon-to-be free agent LeBron James.</a> They could also bring back Porzingis at a lower price than his $30.7 million expiring contract or negotiate a way to use him as a building block in a sign-and-trade for another big name.",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/48526309/the-golden-state-warriors-summer-uncertainty-starts-steve-kerr-stephen-curry-draymond-green"
-      },
-      {
-        "date": "2026-04-05",
-        "text": "Pat Timlin: I asked Doc Rivers pregame about Lebron's comments about Memphis/Milwaukee and if MKE gets a bad rap. He joked around:\"Let's build a Four Seasons or a Ritz-Carlton I guess... We should trade for him, let him see Milwaukee. I'm going to get fined for saying that\"x.com",
-        "text_html": "Pat Timlin: I asked Doc Rivers pregame about Lebron's comments about Memphis/Milwaukee and if MKE gets a bad rap. He joked around: <a href=\"https://x.com/pat_timlin/status/2040887100069892352\" target=\"_blank\" style=\"color: #1a73e8;\">\"Let's build a Four Seasons or a Ritz-Carlton I guess... We should trade for him, let him see Milwaukee. I'm going to get fined for saying that\"</a>",
-        "outlet": "x.com",
-        "source_url": "https://x.com/pat_timlin/status/2040887100069892352"
-      }
-    ],
     "Myles Turner": [
       {
         "date": "2026-04-17",
@@ -1551,13 +1526,6 @@
         "text_html": "Despite the setback and persistent trade rumors, Sabonis, who is signed through the 2027-28 season, remains focused on his return to elite form. \u201cThere\u2019s a lot of uncertainty. I don\u2019t know what that feels like, but I can control what I control, and that is getting back to that All-NBA player that I know I can be,\u201d he noted. Addressing his future in Sacramento, he added, \u201cI always want to get better as a player, no matter where I am, but <a href=\"https://www.eurohoops.net/en/nba-news/1955837/domantas-sabonis-talks-injury-trade-rumors-maxime-raynaud-sacramento-kings-nba/\" target=\"_blank\" style=\"color: #1a73e8;\">I\u2019m very happy here, you all know that. In things like this, you just have to focus on my knee, my rehab, getting back to the player I am.\u201d</a>",
         "outlet": "EuroHoops.net",
         "source_url": "https://www.eurohoops.net/en/nba-news/1955837/domantas-sabonis-talks-injury-trade-rumors-maxime-raynaud-sacramento-kings-nba/"
-      },
-      {
-        "date": "2026-04-03",
-        "text": "Michael Scotto:Reporting on Sacramento Kings guard Zach LaVine, who sources say is expected to exercise his $49 million player option for the 2026-27 season, along with potential offseason trade candidates Domantas Sabonis, DeMar DeRozan, and Malik Monkwith host @ChrisShearnYES on @YESNetwork .Twitter @MikeAScotto",
-        "text_html": "Michael Scotto: <a href=\"https://hoopshype.com/social/\" target=\"_blank\" style=\"color: #1a73e8;\">Reporting on Sacramento Kings guard Zach LaVine, who sources say is expected to exercise his $49 million player option for the 2026-27 season, along with potential offseason trade candidates Domantas Sabonis, DeMar DeRozan, and Malik Monk</a> with host @ChrisShearnYES on @YESNetwork .",
-        "outlet": "Twitter @MikeAScotto",
-        "source_url": "https://hoopshype.com/social/"
       }
     ],
     "Zach LaVine": [
@@ -1567,13 +1535,6 @@
         "text_html": "Zach, you do have a little bit of control over your destiny this summer. Is this a place you want to stay at? Is this somewhere you can see yourself long-term, or is this one of those situations where you\u2019ve got to play it year by year? Zach LaVine: <a href=\"https://www.youtube.com/watch?v=vO_s9NV9t_Q\" target=\"_blank\" style=\"color: #1a73e8;\">I have a lot of control. I\u2019ll go back and talk to my representatives and figure out what the best course of action is.</a> I think that goes along with what he asked \u2014 what\u2019s most important to you right now, and what makes sense. Obviously, having a player option is a good thing for me and my camp. So we\u2019ll go back and look at everything, look at all the scenarios, watch the playoffs, and see what happens.",
         "outlet": "YouTube",
         "source_url": "https://www.youtube.com/watch?v=vO_s9NV9t_Q"
-      },
-      {
-        "date": "2026-04-03",
-        "text": "Michael Scotto:Reporting on Sacramento Kings guard Zach LaVine, who sources say is expected to exercise his $49 million player option for the 2026-27 season, along with potential offseason trade candidates Domantas Sabonis, DeMar DeRozan, and Malik Monkwith host @ChrisShearnYES on @YESNetwork .Twitter @MikeAScotto",
-        "text_html": "Michael Scotto: <a href=\"https://hoopshype.com/social/\" target=\"_blank\" style=\"color: #1a73e8;\">Reporting on Sacramento Kings guard Zach LaVine, who sources say is expected to exercise his $49 million player option for the 2026-27 season, along with potential offseason trade candidates Domantas Sabonis, DeMar DeRozan, and Malik Monk</a> with host @ChrisShearnYES on @YESNetwork .",
-        "outlet": "Twitter @MikeAScotto",
-        "source_url": "https://hoopshype.com/social/"
       }
     ],
     "Klay Thompson": [
@@ -1656,54 +1617,32 @@
         "outlet": "YouTube",
         "source_url": "https://www.youtube.com/watch?v=ttrWZHj6s6U&t=2329s"
       }
-    ],
-    "Cameron Johnson": [
-      {
-        "date": "2026-04-03",
-        "text": "Michael Scotto:Denver Nuggets forward Peyton Watson is having a breakout season and will be one of the top restricted free agents this summer. After rebuffing trade interest, the Nuggets want to re-sign him this summer.Why Cam Johnson could become a trade candidate as a result on @YESNetwork .Twitter @MikeAScotto",
-        "text_html": "Michael Scotto: <a href=\"https://hoopshype.com/social/\" target=\"_blank\" style=\"color: #1a73e8;\">Denver Nuggets forward Peyton Watson is having a breakout season and will be one of the top restricted free agents this summer. After rebuffing trade interest, the Nuggets want to re-sign him this summer.</a> Why Cam Johnson could become a trade candidate as a result on @YESNetwork .",
-        "outlet": "Twitter @MikeAScotto",
-        "source_url": "https://hoopshype.com/social/"
-      }
-    ],
-    "Peyton Watson": [
-      {
-        "date": "2026-04-03",
-        "text": "Michael Scotto:Denver Nuggets forward Peyton Watson is having a breakout season and will be one of the top restricted free agents this summer. After rebuffing trade interest, the Nuggets want to re-sign him this summer.Why Cam Johnson could become a trade candidate as a result on @YESNetwork .Twitter @MikeAScotto",
-        "text_html": "Michael Scotto: <a href=\"https://hoopshype.com/social/\" target=\"_blank\" style=\"color: #1a73e8;\">Denver Nuggets forward Peyton Watson is having a breakout season and will be one of the top restricted free agents this summer. After rebuffing trade interest, the Nuggets want to re-sign him this summer.</a> Why Cam Johnson could become a trade candidate as a result on @YESNetwork .",
-        "outlet": "Twitter @MikeAScotto",
-        "source_url": "https://hoopshype.com/social/"
-      }
-    ],
-    "DeMar DeRozan": [
-      {
-        "date": "2026-04-03",
-        "text": "Michael Scotto:Reporting on Sacramento Kings guard Zach LaVine, who sources say is expected to exercise his $49 million player option for the 2026-27 season, along with potential offseason trade candidates Domantas Sabonis, DeMar DeRozan, and Malik Monkwith host @ChrisShearnYES on @YESNetwork .Twitter @MikeAScotto",
-        "text_html": "Michael Scotto: <a href=\"https://hoopshype.com/social/\" target=\"_blank\" style=\"color: #1a73e8;\">Reporting on Sacramento Kings guard Zach LaVine, who sources say is expected to exercise his $49 million player option for the 2026-27 season, along with potential offseason trade candidates Domantas Sabonis, DeMar DeRozan, and Malik Monk</a> with host @ChrisShearnYES on @YESNetwork .",
-        "outlet": "Twitter @MikeAScotto",
-        "source_url": "https://hoopshype.com/social/"
-      }
-    ],
-    "Malik Monk": [
-      {
-        "date": "2026-04-03",
-        "text": "Michael Scotto:Reporting on Sacramento Kings guard Zach LaVine, who sources say is expected to exercise his $49 million player option for the 2026-27 season, along with potential offseason trade candidates Domantas Sabonis, DeMar DeRozan, and Malik Monkwith host @ChrisShearnYES on @YESNetwork .Twitter @MikeAScotto",
-        "text_html": "Michael Scotto: <a href=\"https://hoopshype.com/social/\" target=\"_blank\" style=\"color: #1a73e8;\">Reporting on Sacramento Kings guard Zach LaVine, who sources say is expected to exercise his $49 million player option for the 2026-27 season, along with potential offseason trade candidates Domantas Sabonis, DeMar DeRozan, and Malik Monk</a> with host @ChrisShearnYES on @YESNetwork .",
-        "outlet": "Twitter @MikeAScotto",
-        "source_url": "https://hoopshype.com/social/"
-      }
-    ],
-    "Mark Williams": [
-      {
-        "date": "2026-04-03",
-        "text": "Duane Rankin:Mark Williams \"mixed emotions\" watching tribute video during Suns loss in his 1st game vs Hornets since trade. \"A little bit of everything. I was here.Got traded. Twice. I just leave it at that.\" Trade to Lakers rescinded last season due to failing their team physical.Twitter @DuaneRankin",
-        "text_html": "Duane Rankin: <a href=\"https://hoopshype.com/social/\" target=\"_blank\" style=\"color: #1a73e8;\">Mark Williams \"mixed emotions\" watching tribute video during Suns loss in his 1st game vs Hornets since trade. \"A little bit of everything. I was here.</a> Got traded. Twice. I just leave it at that.\" Trade to Lakers rescinded last season due to failing their team physical.",
-        "outlet": "Twitter @DuaneRankin",
-        "source_url": "https://hoopshype.com/social/"
-      }
     ]
   },
   "daily_counts": {
+    "Michael Porter": {
+      "2026-05-01": 1
+    },
+    "LeBron James": {
+      "2026-05-01": 1,
+      "2026-04-20": 1,
+      "2026-04-05": 1
+    },
+    "Anthony Davis": {
+      "2026-05-01": 1,
+      "2026-04-30": 1,
+      "2026-04-28": 1,
+      "2026-04-20": 1,
+      "2026-04-14": 1,
+      "2026-04-08": 4
+    },
+    "Luka Doncic": {
+      "2026-05-01": 1,
+      "2026-04-28": 1,
+      "2026-04-27": 2,
+      "2026-04-20": 1,
+      "2026-04-08": 2
+    },
     "Zaccharie Risacher": {
       "2026-05-01": 1
     },
@@ -1734,13 +1673,6 @@
       "2026-04-30": 1,
       "2026-04-07": 1
     },
-    "Anthony Davis": {
-      "2026-04-30": 1,
-      "2026-04-28": 1,
-      "2026-04-20": 1,
-      "2026-04-14": 1,
-      "2026-04-08": 4
-    },
     "Giannis Antetokounmpo": {
       "2026-04-29": 2,
       "2026-04-24": 1,
@@ -1765,12 +1697,6 @@
     "Victor Wembanyama": {
       "2026-04-29": 1,
       "2026-04-27": 1
-    },
-    "Luka Doncic": {
-      "2026-04-28": 1,
-      "2026-04-27": 2,
-      "2026-04-20": 1,
-      "2026-04-08": 2
     },
     "Kevin Durant": {
       "2026-04-28": 2,
@@ -1802,8 +1728,7 @@
       "2026-04-17": 1
     },
     "Donovan Mitchell": {
-      "2026-04-24": 1,
-      "2026-04-03": 1
+      "2026-04-24": 1
     },
     "Alperen Sengun": {
       "2026-04-24": 1
@@ -1837,10 +1762,6 @@
       "2026-04-08": 1,
       "2026-04-07": 1
     },
-    "LeBron James": {
-      "2026-04-20": 1,
-      "2026-04-05": 1
-    },
     "Myles Turner": {
       "2026-04-17": 1
     },
@@ -1851,12 +1772,10 @@
       "2026-04-14": 1
     },
     "Domantas Sabonis": {
-      "2026-04-14": 1,
-      "2026-04-03": 1
+      "2026-04-14": 1
     },
     "Zach LaVine": {
-      "2026-04-14": 1,
-      "2026-04-03": 1
+      "2026-04-14": 1
     },
     "Klay Thompson": {
       "2026-04-13": 1
@@ -1884,21 +1803,6 @@
     },
     "Dalton Knecht": {
       "2026-04-05": 1
-    },
-    "Cameron Johnson": {
-      "2026-04-03": 1
-    },
-    "Peyton Watson": {
-      "2026-04-03": 1
-    },
-    "DeMar DeRozan": {
-      "2026-04-03": 1
-    },
-    "Malik Monk": {
-      "2026-04-03": 1
-    },
-    "Mark Williams": {
-      "2026-04-03": 1
     }
   }
 }
