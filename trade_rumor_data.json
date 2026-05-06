@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-05-05T20:07:28.137951",
+  "generated_at": "2026-05-06T04:33:08.964202",
   "scrape_window_days": 28,
-  "window_start": "2026-04-07",
-  "window_end": "2026-05-05",
-  "total_rumors": 167,
-  "total_players": 57,
+  "window_start": "2026-04-08",
+  "window_end": "2026-05-06",
+  "total_rumors": 151,
+  "total_players": 55,
   "rankings": [
     {
       "player": "Giannis Antetokounmpo",
-      "score": 18.0,
+      "score": 16.0,
       "mentions_week1": 7,
       "mentions_week2": 5,
-      "mentions_weeks3_4": 34,
-      "total_mentions": 46,
-      "first_mention": "2026-04-07",
+      "mentions_weeks3_4": 26,
+      "total_mentions": 38,
+      "first_mention": "2026-04-08",
       "last_mention": "2026-05-05",
       "team": "Milwaukee Bucks",
       "rank": 1
     },
     {
       "player": "Anthony Davis",
-      "score": 7.5,
-      "mentions_week1": 6,
-      "mentions_week2": 0,
+      "score": 7.0,
+      "mentions_week1": 5,
+      "mentions_week2": 1,
       "mentions_weeks3_4": 6,
       "total_mentions": 12,
       "first_mention": "2026-04-08",
@@ -32,9 +32,9 @@
     },
     {
       "player": "Luka Doncic",
-      "score": 4.75,
-      "mentions_week1": 3,
-      "mentions_week2": 2,
+      "score": 4.25,
+      "mentions_week1": 2,
+      "mentions_week2": 3,
       "mentions_weeks3_4": 3,
       "total_mentions": 8,
       "first_mention": "2026-04-08",
@@ -68,27 +68,15 @@
     },
     {
       "player": "Aaron Gordon",
-      "score": 3.25,
+      "score": 3.0,
       "mentions_week1": 3,
       "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 4,
-      "first_mention": "2026-04-07",
+      "mentions_weeks3_4": 0,
+      "total_mentions": 3,
+      "first_mention": "2026-05-01",
       "last_mention": "2026-05-02",
       "team": "Denver Nuggets",
       "rank": 6
-    },
-    {
-      "player": "Kevin Durant",
-      "score": 3.25,
-      "mentions_week1": 3,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 4,
-      "first_mention": "2026-04-07",
-      "last_mention": "2026-05-04",
-      "team": "Houston Rockets",
-      "rank": 7
     },
     {
       "player": "Alperen Sengun",
@@ -100,7 +88,7 @@
       "first_mention": "2026-04-24",
       "last_mention": "2026-05-04",
       "team": "Houston Rockets",
-      "rank": 8
+      "rank": 7
     },
     {
       "player": "Kawhi Leonard",
@@ -112,31 +100,19 @@
       "first_mention": "2026-04-17",
       "last_mention": "2026-05-02",
       "team": "Los Angeles Clippers",
-      "rank": 9
+      "rank": 8
     },
     {
-      "player": "Jrue Holiday",
-      "score": 2.25,
-      "mentions_week1": 2,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 3,
-      "first_mention": "2026-04-07",
-      "last_mention": "2026-05-03",
-      "team": "Portland Trail Blazers",
-      "rank": 10
-    },
-    {
-      "player": "Draymond Green",
+      "player": "Kevin Durant",
       "score": 2.0,
       "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 4,
-      "total_mentions": 5,
-      "first_mention": "2026-04-07",
-      "last_mention": "2026-05-05",
-      "team": "Golden State Warriors",
-      "rank": 11
+      "mentions_week2": 2,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 3,
+      "first_mention": "2026-04-28",
+      "last_mention": "2026-05-04",
+      "team": "Houston Rockets",
+      "rank": 9
     },
     {
       "player": "Devin Booker",
@@ -148,19 +124,31 @@
       "first_mention": "2026-04-30",
       "last_mention": "2026-04-30",
       "team": "Phoenix Suns",
-      "rank": 12
+      "rank": 10
     },
     {
-      "player": "Jalen Green",
+      "player": "Jrue Holiday",
+      "score": 2.0,
+      "mentions_week1": 2,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 2,
+      "first_mention": "2026-04-30",
+      "last_mention": "2026-05-03",
+      "team": "Portland Trail Blazers",
+      "rank": 11
+    },
+    {
+      "player": "Draymond Green",
       "score": 1.75,
       "mentions_week1": 1,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 3,
-      "first_mention": "2026-04-07",
-      "last_mention": "2026-04-28",
-      "team": "Phoenix Suns",
-      "rank": 13
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 3,
+      "total_mentions": 4,
+      "first_mention": "2026-04-08",
+      "last_mention": "2026-05-05",
+      "team": "Golden State Warriors",
+      "rank": 12
     },
     {
       "player": "Donovan Mitchell",
@@ -172,7 +160,7 @@
       "first_mention": "2026-04-24",
       "last_mention": "2026-05-02",
       "team": "Cleveland Cavaliers",
-      "rank": 14
+      "rank": 13
     },
     {
       "player": "Victor Wembanyama",
@@ -184,7 +172,7 @@
       "first_mention": "2026-04-27",
       "last_mention": "2026-04-29",
       "team": "San Antonio Spurs",
-      "rank": 15
+      "rank": 14
     },
     {
       "player": "Joel Embiid",
@@ -196,19 +184,7 @@
       "first_mention": "2026-04-08",
       "last_mention": "2026-05-02",
       "team": "Philadelphia 76ers",
-      "rank": 16
-    },
-    {
-      "player": "Jonathan Kuminga",
-      "score": 1.25,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 2,
-      "first_mention": "2026-04-07",
-      "last_mention": "2026-05-02",
-      "team": "Golden State Warriors",
-      "rank": 17
+      "rank": 15
     },
     {
       "player": "LeBron James",
@@ -220,7 +196,7 @@
       "first_mention": "2026-04-20",
       "last_mention": "2026-05-01",
       "team": "Los Angeles Lakers",
-      "rank": 18
+      "rank": 16
     },
     {
       "player": "Paolo Banchero",
@@ -232,7 +208,19 @@
       "first_mention": "2026-04-17",
       "last_mention": "2026-04-29",
       "team": "Orlando Magic",
-      "rank": 19
+      "rank": 17
+    },
+    {
+      "player": "Jalen Green",
+      "score": 1.0,
+      "mentions_week1": 0,
+      "mentions_week2": 2,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 2,
+      "first_mention": "2026-04-24",
+      "last_mention": "2026-04-28",
+      "team": "Phoenix Suns",
+      "rank": 18
     },
     {
       "player": "Karl-Anthony Towns",
@@ -244,7 +232,7 @@
       "first_mention": "2026-04-23",
       "last_mention": "2026-04-24",
       "team": "New York Knicks",
-      "rank": 20
+      "rank": 19
     },
     {
       "player": "Amen Thompson",
@@ -256,7 +244,7 @@
       "first_mention": "2026-05-04",
       "last_mention": "2026-05-04",
       "team": "Houston Rockets",
-      "rank": 21
+      "rank": 20
     },
     {
       "player": "Brandon Ingram",
@@ -268,7 +256,7 @@
       "first_mention": "2026-05-05",
       "last_mention": "2026-05-05",
       "team": "Toronto Raptors",
-      "rank": 22
+      "rank": 21
     },
     {
       "player": "CJ McCollum",
@@ -280,7 +268,7 @@
       "first_mention": "2026-05-02",
       "last_mention": "2026-05-02",
       "team": "Washington Wizards",
-      "rank": 23
+      "rank": 22
     },
     {
       "player": "Cameron Johnson",
@@ -292,7 +280,7 @@
       "first_mention": "2026-05-02",
       "last_mention": "2026-05-02",
       "team": "Denver Nuggets",
-      "rank": 24
+      "rank": 23
     },
     {
       "player": "Derrick White",
@@ -304,19 +292,7 @@
       "first_mention": "2026-05-03",
       "last_mention": "2026-05-03",
       "team": "Boston Celtics",
-      "rank": 25
-    },
-    {
-      "player": "Dillon Brooks",
-      "score": 1.0,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-04-28",
-      "last_mention": "2026-04-28",
-      "team": "Phoenix Suns",
-      "rank": 26
+      "rank": 24
     },
     {
       "player": "Gradey Dick",
@@ -328,7 +304,7 @@
       "first_mention": "2026-05-05",
       "last_mention": "2026-05-05",
       "team": "Toronto Raptors",
-      "rank": 27
+      "rank": 25
     },
     {
       "player": "Jakob Poeltl",
@@ -340,7 +316,7 @@
       "first_mention": "2026-05-05",
       "last_mention": "2026-05-05",
       "team": "Toronto Raptors",
-      "rank": 28
+      "rank": 26
     },
     {
       "player": "Jalen Suggs",
@@ -352,7 +328,7 @@
       "first_mention": "2026-05-04",
       "last_mention": "2026-05-04",
       "team": "Orlando Magic",
-      "rank": 29
+      "rank": 27
     },
     {
       "player": "Jamal Murray",
@@ -364,7 +340,7 @@
       "first_mention": "2026-05-01",
       "last_mention": "2026-05-01",
       "team": "Denver Nuggets",
-      "rank": 30
+      "rank": 28
     },
     {
       "player": "Jaren Jackson Jr",
@@ -376,7 +352,7 @@
       "first_mention": "2026-05-05",
       "last_mention": "2026-05-05",
       "team": "Memphis Grizzlies",
-      "rank": 31
+      "rank": 29
     },
     {
       "player": "Jaylen Brown",
@@ -388,7 +364,7 @@
       "first_mention": "2026-05-05",
       "last_mention": "2026-05-05",
       "team": "Boston Celtics",
-      "rank": 32
+      "rank": 30
     },
     {
       "player": "Jayson Tatum",
@@ -400,7 +376,7 @@
       "first_mention": "2026-05-05",
       "last_mention": "2026-05-05",
       "team": "Boston Celtics",
-      "rank": 33
+      "rank": 31
     },
     {
       "player": "Jerami Grant",
@@ -412,7 +388,19 @@
       "first_mention": "2026-05-02",
       "last_mention": "2026-05-02",
       "team": "Dallas Mavericks",
-      "rank": 34
+      "rank": 32
+    },
+    {
+      "player": "Jonathan Kuminga",
+      "score": 1.0,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-05-02",
+      "last_mention": "2026-05-02",
+      "team": "Golden State Warriors",
+      "rank": 33
     },
     {
       "player": "Keyonte George",
@@ -424,7 +412,7 @@
       "first_mention": "2026-04-30",
       "last_mention": "2026-04-30",
       "team": "Memphis Grizzlies",
-      "rank": 35
+      "rank": 34
     },
     {
       "player": "Luke Kennard",
@@ -436,7 +424,7 @@
       "first_mention": "2026-04-30",
       "last_mention": "2026-04-30",
       "team": "Los Angeles Lakers",
-      "rank": 36
+      "rank": 35
     },
     {
       "player": "Michael Porter",
@@ -448,7 +436,7 @@
       "first_mention": "2026-05-01",
       "last_mention": "2026-05-01",
       "team": "Denver Nuggets",
-      "rank": 37
+      "rank": 36
     },
     {
       "player": "Peyton Watson",
@@ -460,7 +448,7 @@
       "first_mention": "2026-05-02",
       "last_mention": "2026-05-02",
       "team": "Denver Nuggets",
-      "rank": 38
+      "rank": 37
     },
     {
       "player": "Reed Sheppard",
@@ -472,7 +460,7 @@
       "first_mention": "2026-05-04",
       "last_mention": "2026-05-04",
       "team": "Houston Rockets",
-      "rank": 39
+      "rank": 38
     },
     {
       "player": "Zaccharie Risacher",
@@ -484,7 +472,7 @@
       "first_mention": "2026-05-01",
       "last_mention": "2026-05-01",
       "team": "Atlanta Hawks",
-      "rank": 40
+      "rank": 39
     },
     {
       "player": "Ivica Zubac",
@@ -496,7 +484,7 @@
       "first_mention": "2026-04-09",
       "last_mention": "2026-04-20",
       "team": "Los Angeles Clippers",
-      "rank": 41
+      "rank": 40
     },
     {
       "player": "Zion Williamson",
@@ -508,7 +496,7 @@
       "first_mention": "2026-04-14",
       "last_mention": "2026-04-14",
       "team": "New Orleans Pelicans",
-      "rank": 42
+      "rank": 41
     },
     {
       "player": "Ayo Dosunmu",
@@ -520,7 +508,7 @@
       "first_mention": "2026-04-27",
       "last_mention": "2026-04-27",
       "team": "Chicago Bulls",
-      "rank": 43
+      "rank": 42
     },
     {
       "player": "Bam Adebayo",
@@ -532,7 +520,7 @@
       "first_mention": "2026-04-27",
       "last_mention": "2026-04-27",
       "team": "Miami Heat",
-      "rank": 44
+      "rank": 43
     },
     {
       "player": "De'Aaron Fox",
@@ -544,6 +532,18 @@
       "first_mention": "2026-04-27",
       "last_mention": "2026-04-27",
       "team": "San Antonio Spurs",
+      "rank": 44
+    },
+    {
+      "player": "Dillon Brooks",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-04-28",
+      "last_mention": "2026-04-28",
+      "team": "Phoenix Suns",
       "rank": 45
     },
     {
@@ -619,18 +619,6 @@
       "rank": 51
     },
     {
-      "player": "Kel'el Ware",
-      "score": 0.25,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 1,
-      "first_mention": "2026-04-07",
-      "last_mention": "2026-04-07",
-      "team": "Miami Heat",
-      "rank": 52
-    },
-    {
       "player": "Klay Thompson",
       "score": 0.25,
       "mentions_week1": 0,
@@ -640,7 +628,7 @@
       "first_mention": "2026-04-13",
       "last_mention": "2026-04-13",
       "team": "Dallas Mavericks",
-      "rank": 53
+      "rank": 52
     },
     {
       "player": "Mikal Bridges",
@@ -652,7 +640,7 @@
       "first_mention": "2026-04-08",
       "last_mention": "2026-04-08",
       "team": "New York Knicks",
-      "rank": 54
+      "rank": 53
     },
     {
       "player": "Myles Turner",
@@ -664,19 +652,7 @@
       "first_mention": "2026-04-17",
       "last_mention": "2026-04-17",
       "team": "Milwaukee Bucks",
-      "rank": 55
-    },
-    {
-      "player": "Tyler Herro",
-      "score": 0.25,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 1,
-      "first_mention": "2026-04-07",
-      "last_mention": "2026-04-07",
-      "team": "Miami Heat",
-      "rank": 56
+      "rank": 54
     },
     {
       "player": "Zach LaVine",
@@ -688,7 +664,7 @@
       "first_mention": "2026-04-14",
       "last_mention": "2026-04-14",
       "team": "Sacramento Kings",
-      "rank": 57
+      "rank": 55
     }
   ],
   "player_rumors": {
@@ -756,13 +732,6 @@
         "text_html": "Anthony Davis on trade to Lakers: It was tough though because when Rich Paul was telling me like you got to go to the media\u2026 and I never talked about this by the way. You\u2019re getting the first clues. I've never spoken to anybody about this. Draymond Green: Appreciated. Davis: When Rich told me like you have to go and say I was like no, hell no. Be a villain? man\u2026 change teams? I was scared. Like I didn't at first I didn't want to be traded cuz I'm like change is change is different man. Change is hard. I started doubting myself like man I know I can do in New Orleans. I'm going to get all the balls. I'm about to go play with LeBron, spotlight. I\u2019m gonna play with Rondo. Like I'm about to play with all these players in LA\u2026 I'm about to go play with some guys. And it's like I am I ready for that? I wasn't sure, you know, so I'm like, man, I don't know. Let's figure this out over here, you know? I hit Bron like, bro, you want to come over here? Like everybody trying to figure it out so I didn't have to leave. So because I was comfortable, and I'm glad I did make the make the change, but that sh*t was tough when he was telling me what I had to do, and I was like, man, but at the day, I had to grow up and do what's best for me and let the rest take care of <a href=\"https://www.youtube.com/watch?v=eESLCDwZLdo&t=2242s\" target=\"_blank\" style=\"color: #1a73e8;\">itself. Green: So Ja Morant gets drafted number one instead of Zion and you're probably still a New Orleans Pelican. Davis: I think. Yep. I\u2019d probably still be in New Orleans. Green: And you asked David Griffin to draft Ja Morant, and he didn\u2019t</a>.",
         "outlet": "YouTube",
         "source_url": "https://www.youtube.com/watch?v=eESLCDwZLdo&t=2242s"
-      },
-      {
-        "date": "2026-04-07",
-        "text": "Draymond Green on Giannis Antetokounmpo: It's the craziest thing I've\u00a0seen. He's on the sideline cheering and\u00a0happy for his brothers while meanwhile\u00a0sitting in the back with two fingers in\u00a0the air telling the Milwaukee Bucks to\u00a0get the hell out of his face and I'm\u00a0going to get y'all investigated. I think this thing could be headed for a nasty breakup if it doesn't happen soon. It's just getting worse and worse by the day. You have your franchise player kind of getting your organization investigated and saying, \u201cHey, by the way y'all go look.\" like this does is not gonna end well. It's funny how all the people want interviews and stuff with Giannis and y'all don't say nothing. But y'all act like Jonathan Kuminga having a problem with his team was the worst thing the NBA has ever seen.I'm so tired of all you hypocrites. I'm so tired of it. Everybody around y'all y'all just hypocrites. We act like Jonathan Kuminga being disgruntled with the Golden State Warriors was the biggest deal in the world. Meanwhile, we got Giannis Antetokounmpo calling for an investigation and we selectively speak on it.Y'all some interesting folks out there, media people.YouTube",
-        "text_html": "Draymond Green on Giannis Antetokounmpo: It's the craziest thing I've seen. He's on the sideline cheering and happy for his brothers while meanwhile sitting in the back with two fingers in the air telling the Milwaukee Bucks to get the hell out of his face and I'm going to get y'all investigated. I think this thing could be headed for a nasty breakup if it doesn't happen soon. It's just getting worse and worse by the day. You have your franchise player kind of getting your organization investigated and saying, \u201cHey, by the way y'all go look.\" like this does is not gonna end well. It's funny how all the people want interviews and stuff with Giannis and y'all don't say nothing. But y'all act like Jonathan Kuminga having a problem with his team was the worst thing the NBA has ever seen. <a href=\"https://www.youtube.com/watch?v=aittHaaZu-c&t=680s\" target=\"_blank\" style=\"color: #1a73e8;\">I'm so tired of all you hypocrites. I'm so tired of it. Everybody around y'all y'all just hypocrites. We act like Jonathan Kuminga being disgruntled with the Golden State Warriors was the biggest deal in the world. Meanwhile, we got Giannis Antetokounmpo calling for an investigation and we selectively speak on it.</a> Y'all some interesting folks out there, media people.",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=aittHaaZu-c&t=680s"
       }
     ],
     "Jaylen Brown": [
@@ -1049,62 +1018,6 @@
         "text_html": "<a href=\"https://nypost.com/2026/04/08/sports/nets-havent-given-up-on-trying-to-acquire-giannis-antetokounmpo/\" target=\"_blank\" style=\"color: #1a73e8;\">Despite a Bleacher Report story that claimed Brooklyn had called the Bucks about Antetokounmpo, sources told The Post that the Nets never did.</a> Having paid Houston dearly to reacquire their natural 2025 and \u201926 first-round picks \u2014 and now committed to building with those lottery picks \u2014 it was the worst possible timing.",
         "outlet": "New York Post",
         "source_url": "https://nypost.com/2026/04/08/sports/nets-havent-given-up-on-trying-to-acquire-giannis-antetokounmpo/"
-      },
-      {
-        "date": "2026-04-07",
-        "text": "Draymond Green on Giannis Antetokounmpo: It's the craziest thing I've\u00a0seen. He's on the sideline cheering and\u00a0happy for his brothers while meanwhile\u00a0sitting in the back with two fingers in\u00a0the air telling the Milwaukee Bucks to\u00a0get the hell out of his face and I'm\u00a0going to get y'all investigated. I think this thing could be headed for a nasty breakup if it doesn't happen soon. It's just getting worse and worse by the day. You have your franchise player kind of getting your organization investigated and saying, \u201cHey, by the way y'all go look.\" like this does is not gonna end well. It's funny how all the people want interviews and stuff with Giannis and y'all don't say nothing. But y'all act like Jonathan Kuminga having a problem with his team was the worst thing the NBA has ever seen.I'm so tired of all you hypocrites. I'm so tired of it. Everybody around y'all y'all just hypocrites. We act like Jonathan Kuminga being disgruntled with the Golden State Warriors was the biggest deal in the world. Meanwhile, we got Giannis Antetokounmpo calling for an investigation and we selectively speak on it.Y'all some interesting folks out there, media people.YouTube",
-        "text_html": "Draymond Green on Giannis Antetokounmpo: It's the craziest thing I've seen. He's on the sideline cheering and happy for his brothers while meanwhile sitting in the back with two fingers in the air telling the Milwaukee Bucks to get the hell out of his face and I'm going to get y'all investigated. I think this thing could be headed for a nasty breakup if it doesn't happen soon. It's just getting worse and worse by the day. You have your franchise player kind of getting your organization investigated and saying, \u201cHey, by the way y'all go look.\" like this does is not gonna end well. It's funny how all the people want interviews and stuff with Giannis and y'all don't say nothing. But y'all act like Jonathan Kuminga having a problem with his team was the worst thing the NBA has ever seen. <a href=\"https://www.youtube.com/watch?v=aittHaaZu-c&t=680s\" target=\"_blank\" style=\"color: #1a73e8;\">I'm so tired of all you hypocrites. I'm so tired of it. Everybody around y'all y'all just hypocrites. We act like Jonathan Kuminga being disgruntled with the Golden State Warriors was the biggest deal in the world. Meanwhile, we got Giannis Antetokounmpo calling for an investigation and we selectively speak on it.</a> Y'all some interesting folks out there, media people.",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=aittHaaZu-c&t=680s"
-      },
-      {
-        "date": "2026-04-07",
-        "text": "TheBucks will be open to trade talks regarding Giannis Antetokounmpo, and the highest levels of the organization have come to terms with the inevitability of a likely deal coming to fruition this offseason,\u00a0sources\u00a0told\u00a0ESPN. \"This is as toxic of a team situation as any in the league,\" one\u00a0source\u00a0close to the team said.\"They waited until the very end on Giannis, and now everyone knows.\"ESPN",
-        "text_html": "The <a href=\"https://www.espn.com/nba/story/_/id/48412620/inside-fractured-relationship-giannis-antetokounmpo-milwaukee-bucks\" target=\"_blank\" style=\"color: #1a73e8;\">Bucks will be open to trade talks regarding Giannis Antetokounmpo, and the highest levels of the organization have come to terms with the inevitability of a likely deal coming to fruition this offseason, sources told ESPN. \"This is as toxic of a team situation as any in the league,\" one source close to the team said.</a> \"They waited until the very end on Giannis, and now everyone knows.\"",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/48412620/inside-fractured-relationship-giannis-antetokounmpo-milwaukee-bucks"
-      },
-      {
-        "date": "2026-04-07",
-        "text": "Team\u00a0sources\u00a0said the Bucks seriously considered the Heat's offer, which centered on\u00a0Tyler Herro,\u00a0Kel'el Ware, other players and\u00a0multiple\u00a0draft picks and pick swaps.Milwaukee contemplated moving forward with Miami on Feb. 4. Ownership, however, believed the best move would be to hold on to Antetokounmpo and receive better offers in the summer. The Bucks informed the Heat on the morning of Feb. 5 that they would not accept a deal. The Bucks celebrated Antetokounmpo remaining with the team, even as they stood outside the play-in and had a player many inside the organization described as \"distant\" from the team at times. No one has questioned Antetokounmpo's on-court commitments. But management, coaches and players were exhausted by the discussion and dilemma regarding his future this season, creating a tense environment in the locker room, team\u00a0sources\u00a0said. \"The crux of the issue is feeling Giannis doesn't want to be here on any given day,\" one team\u00a0source\u00a0said.ESPN",
-        "text_html": "<a href=\"https://www.espn.com/nba/story/_/id/48412620/inside-fractured-relationship-giannis-antetokounmpo-milwaukee-bucks\" target=\"_blank\" style=\"color: #1a73e8;\">Team sources said the Bucks seriously considered the Heat's offer, which centered on Tyler Herro, Kel'el Ware, other players and multiple draft picks and pick swaps.</a> Milwaukee contemplated moving forward with Miami on Feb. 4. Ownership, however, believed the best move would be to hold on to Antetokounmpo and receive better offers in the summer. The Bucks informed the Heat on the morning of Feb. 5 that they would not accept a deal. The Bucks celebrated Antetokounmpo remaining with the team, even as they stood outside the play-in and had a player many inside the organization described as \"distant\" from the team at times. No one has questioned Antetokounmpo's on-court commitments. But management, coaches and players were exhausted by the discussion and dilemma regarding his future this season, creating a tense environment in the locker room, team sources said. \"The crux of the issue is feeling Giannis doesn't want to be here on any given day,\" one team source said.",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/48412620/inside-fractured-relationship-giannis-antetokounmpo-milwaukee-bucks"
-      },
-      {
-        "date": "2026-04-07",
-        "text": "Multiple\u00a0league\u00a0sources\u00a0said Giannis Antetokounmpo and Alex Saratsis took it a step further in pursuit of an amicable split.In late January, two weeks before the deadline, they met with team owners Jimmy Haslam and Wes Edens about how the Bucks should \"do right\" by Antetokounmpo.The player and agent recalled a handshake agreement that ownership and high-ranking officials made to trade him collaboratively should the time come, after Antetokounmpo signed\u00a0contract\u00a0extensions with the organization in 2020 and 2023.ESPN",
-        "text_html": "Multiple league sources said Giannis Antetokounmpo and Alex Saratsis took it a step further in pursuit of an amicable split. <a href=\"https://www.espn.com/nba/story/_/id/48412620/inside-fractured-relationship-giannis-antetokounmpo-milwaukee-bucks\" target=\"_blank\" style=\"color: #1a73e8;\">In late January, two weeks before the deadline, they met with team owners Jimmy Haslam and Wes Edens about how the Bucks should \"do right\" by Antetokounmpo.</a> The player and agent recalled a handshake agreement that ownership and high-ranking officials made to trade him collaboratively should the time come, after Antetokounmpo signed contract extensions with the organization in 2020 and 2023.",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/48412620/inside-fractured-relationship-giannis-antetokounmpo-milwaukee-bucks"
-      },
-      {
-        "date": "2026-04-07",
-        "text": "How bad is this rift between you and the team and you not playing down the stretch, being held out. Antetokounmpo: \u201cI get it. I've been hurt ... I was on a minutes restriction when I came back from being hurt. Butwhy don't I play now? To keep my value high so I can get traded?\"I don't care if it's the right thing. I don't care if it's smart thing. I don't. I just want to play. This is what I do. \u201cI play when I'm able to play. I didn't sit out my first season when we only won 15 games. Why, when it was the NBA Finals, did I come back six days [after a serious knee hyperextension]. Why? It doesn't change. This is who I am. And now you're telling me to go against my nature.\"Milwaukee Journal-Sentinel",
-        "text_html": "How bad is this rift between you and the team and you not playing down the stretch, being held out. Antetokounmpo: \u201cI get it. I've been hurt ... I was on a minutes restriction when I came back from being hurt. But <a href=\"https://eu.jsonline.com/story/sports/nba/bucks/2026/04/06/giannis-antetokounmpo-opens-up-about-his-future-with-milwaukee-bucks/89436276007/\" target=\"_blank\" style=\"color: #1a73e8;\">why don't I play now? To keep my value high so I can get traded?</a> \"I don't care if it's the right thing. I don't care if it's smart thing. I don't. I just want to play. This is what I do. \u201cI play when I'm able to play. I didn't sit out my first season when we only won 15 games. Why, when it was the NBA Finals, did I come back six days [after a serious knee hyperextension]. Why? It doesn't change. This is who I am. And now you're telling me to go against my nature.\"",
-        "outlet": "Milwaukee Journal-Sentinel",
-        "source_url": "https://eu.jsonline.com/story/sports/nba/bucks/2026/04/06/giannis-antetokounmpo-opens-up-about-his-future-with-milwaukee-bucks/89436276007/"
-      },
-      {
-        "date": "2026-04-07",
-        "text": "Do you see a path for you to come back and stay here? Antetokounmpo: \u201c100%. Yeah, yeah.\u201dMilwaukee Journal-Sentinel",
-        "text_html": "<a href=\"https://eu.jsonline.com/story/sports/nba/bucks/2026/04/06/giannis-antetokounmpo-opens-up-about-his-future-with-milwaukee-bucks/89436276007/\" target=\"_blank\" style=\"color: #1a73e8;\">Do you see a path for you to come back and stay here? Antetokounmpo: \u201c100%. Yeah, yeah.\u201d</a>",
-        "outlet": "Milwaukee Journal-Sentinel",
-        "source_url": "https://eu.jsonline.com/story/sports/nba/bucks/2026/04/06/giannis-antetokounmpo-opens-up-about-his-future-with-milwaukee-bucks/89436276007/"
-      },
-      {
-        "date": "2026-04-07",
-        "text": "You want to be put in a position to succeed. Antetokounmpo: \"Yeah. Exactly. Is it bad for me saying, I'm 31 years old, I won the championship when I was 26 years old. Then the question creeps in your head, like ...Did I wait too long? Did I do the right thing?\"Did you wait too long for what? Antetokounmpo: \"Being here. [Staying in Milwaukee.] \"But then I'm like, No, this is what I want. I want to be here. I want to be with my team. I want to win here again. This is my home. I've spent more years [that I can remember] here than in Greece. It's my home. I want to help the community with my wife and my brothers. \"Thanasis is loved here, my brother, my mother are loved here. My kids and I ... it's a normal life, I have a normal life. If you go somewhere else, all this switches. But I don't want to look back and be like ...\" (Antetokounmpo pauses. He's joined by his brothers Thanasis and Alex, who played together in the latest Bucks game, and he congratulates them, beaming with pride, but also looking worn out and tired.) Antetokounmpo: \u201cThis is why you have conversations with all-time greats like KG (Kevin Garnett). Dirk (Nowitzki) was in the same position, and chose to stay. We\u2019ll see. We\u2019ll see what\u2019s going to happen.\u201dMilwaukee Journal-Sentinel",
-        "text_html": "You want to be put in a position to succeed. Antetokounmpo: \"Yeah. Exactly. Is it bad for me saying, I'm 31 years old, I won the championship when I was 26 years old. Then the question creeps in your head, like ... <a href=\"https://eu.jsonline.com/story/sports/nba/bucks/2026/04/06/giannis-antetokounmpo-opens-up-about-his-future-with-milwaukee-bucks/89436276007/\" target=\"_blank\" style=\"color: #1a73e8;\">Did I wait too long? Did I do the right thing?\"</a> Did you wait too long for what? Antetokounmpo: \"Being here. [Staying in Milwaukee.] \"But then I'm like, No, this is what I want. I want to be here. I want to be with my team. I want to win here again. This is my home. I've spent more years [that I can remember] here than in Greece. It's my home. I want to help the community with my wife and my brothers. \"Thanasis is loved here, my brother, my mother are loved here. My kids and I ... it's a normal life, I have a normal life. If you go somewhere else, all this switches. But I don't want to look back and be like ...\" (Antetokounmpo pauses. He's joined by his brothers Thanasis and Alex, who played together in the latest Bucks game, and he congratulates them, beaming with pride, but also looking worn out and tired.) Antetokounmpo: \u201cThis is why you have conversations with all-time greats like KG (Kevin Garnett). Dirk (Nowitzki) was in the same position, and chose to stay. We\u2019ll see. We\u2019ll see what\u2019s going to happen.\u201d",
-        "outlet": "Milwaukee Journal-Sentinel",
-        "source_url": "https://eu.jsonline.com/story/sports/nba/bucks/2026/04/06/giannis-antetokounmpo-opens-up-about-his-future-with-milwaukee-bucks/89436276007/"
-      },
-      {
-        "date": "2026-04-07",
-        "text": "So then, to keep you here, is it about a system? Or is it about a coaching change? A management change?Antetokounmpo: \"I will never, ever be in a position to affect somebody's life. I can\u2019t do it. My heart doesn't go to that. Sometimes I say my opinion. But I would never push the button. That's not who I am.To me it's about winning, a good system, a system that I can thrive. But I don't care about 'be myself,' because sometimes in order for you to win, you don't win in your own terms. I just want to feel like I'm part of something bigger. Chasing something.\"Milwaukee Journal-Sentinel",
-        "text_html": "So then, to keep you here, is it about a system? Or is it about a coaching change? A management change? <a href=\"https://eu.jsonline.com/story/sports/nba/bucks/2026/04/06/giannis-antetokounmpo-opens-up-about-his-future-with-milwaukee-bucks/89436276007/\" target=\"_blank\" style=\"color: #1a73e8;\">Antetokounmpo: \"I will never, ever be in a position to affect somebody's life. I can\u2019t do it. My heart doesn't go to that. Sometimes I say my opinion. But I would never push the button. That's not who I am.</a> To me it's about winning, a good system, a system that I can thrive. But I don't care about 'be myself,' because sometimes in order for you to win, you don't win in your own terms. I just want to feel like I'm part of something bigger. Chasing something.\"",
-        "outlet": "Milwaukee Journal-Sentinel",
-        "source_url": "https://eu.jsonline.com/story/sports/nba/bucks/2026/04/06/giannis-antetokounmpo-opens-up-about-his-future-with-milwaukee-bucks/89436276007/"
       }
     ],
     "Jalen Suggs": [
@@ -1137,13 +1050,6 @@
         "text_html": "How you view their season depends on which expectations you adopt. Back in October, the basketball media-verse did not expect much from the Suns, a team that had overhauled its roster, trading star power for grit. <a href=\"https://www.nytimes.com/athletic/7236722/2026/04/28/phoenix-suns-devin-booker-jalen-green-playoffs-future/\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cWe were counted out,\u201d said Dillon Brooks, who came to Phoenix along with teammate Jalen Green in last summer\u2019s blockbuster Kevin Durant trade. \u201cWe were supposed to be a laughing-stock, losing team. And we proved a lot of people wrong.\u201d</a>",
         "outlet": "New York Times",
         "source_url": "https://www.nytimes.com/athletic/7236722/2026/04/28/phoenix-suns-devin-booker-jalen-green-playoffs-future/"
-      },
-      {
-        "date": "2026-04-07",
-        "text": "Duane Rankin: Kevin Durant on Phoenix Suns: \"They've been playing great ball. I played for JO (Jordan Ott) before in Brooklyn and I kind of understand his mentality and his mindset for the game of basketball and him being in Cleveland and bringing that mentality here. You can see it. They crash the glass hard, they shoot a lot of 3s. They cover for each other in the paint on the defensive end. They create turnovers. That's the sign of a team that's been coached every day to the point where they don't even have to talk about it or think about it. It's like breathing to them now.They know how they want to play. They did a great job putting the team together, putting the coaching staff together.\"#Suns #Rocketsx.com",
-        "text_html": "Duane Rankin: Kevin Durant on Phoenix Suns: \"They've been playing great ball. I played for JO (Jordan Ott) before in Brooklyn and I kind of understand his mentality and his mindset for the game of basketball and him being in Cleveland and bringing that mentality here. You can see it. They crash the glass hard, they shoot a lot of 3s. They cover for each other in the paint on the defensive end. They create turnovers. That's the sign of a team that's been coached every day to the point where they don't even have to talk about it or think about it. It's like breathing to them now. <a href=\"https://x.com/DuaneRankin/status/2041590197134238194\" target=\"_blank\" style=\"color: #1a73e8;\">They know how they want to play. They did a great job putting the team together, putting the coaching staff together.\"</a> #Suns #Rockets",
-        "outlet": "x.com",
-        "source_url": "https://x.com/DuaneRankin/status/2041590197134238194"
       }
     ],
     "James Harden": [
@@ -1261,13 +1167,6 @@
         "text_html": "Sean Highkin: Jrue Holiday, asked if he sees himself being here next year: <a href=\"https://x.com/highkin/status/2049899070630854902?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">\"I hope so. I don't like being traded and moved. I like being a part of something and building.\"</a>",
         "outlet": "x.com",
         "source_url": "https://x.com/highkin/status/2049899070630854902?s=20"
-      },
-      {
-        "date": "2026-04-07",
-        "text": "The Nuggets\u2019 search for a glue guy who could raise their defensive ceiling dated back to the previous trade deadline, when they came close to acquiring Jrue Holiday from New Orleans,according to league sources. Their interest in Holiday, a lockdown 6-foot-4 guard, was partially driven by the idea that Steph Curry was still the league\u2019s preeminent offensive threat. Even as Curry recovered from a broken hand during a gap year for Golden State, rival teams felt scarred by the dynasty that had dominated the last half-decade. If the Nuggets were going to take the throne out West, they wondered whether they would need to prioritize adding someone who could chase Curry around screens.Denver Post",
-        "text_html": "<a href=\"https://www.denverpost.com/2026/04/02/nuggets-aaron-gordon-trade-magic-nikola-jokic/\" target=\"_blank\" style=\"color: #1a73e8;\">The Nuggets\u2019 search for a glue guy who could raise their defensive ceiling dated back to the previous trade deadline, when they came close to acquiring Jrue Holiday from New Orleans,</a> according to league sources. Their interest in Holiday, a lockdown 6-foot-4 guard, was partially driven by the idea that Steph Curry was still the league\u2019s preeminent offensive threat. Even as Curry recovered from a broken hand during a gap year for Golden State, rival teams felt scarred by the dynasty that had dominated the last half-decade. If the Nuggets were going to take the throne out West, they wondered whether they would need to prioritize adding someone who could chase Curry around screens.",
-        "outlet": "Denver Post",
-        "source_url": "https://www.denverpost.com/2026/04/02/nuggets-aaron-gordon-trade-magic-nikola-jokic/"
       }
     ],
     "CJ McCollum": [
@@ -1286,13 +1185,6 @@
         "text_html": "Yet I've received no indication to this point that the Hawks have designs on pursuing Antetokounmpo via trade this summer. <a href=\"https://marcstein.substack.com/p/your-nba-weekend-three-game-7s-and\" target=\"_blank\" style=\"color: #1a73e8;\">Sources say that Atlanta is not eager to splurge for major roster additions, preferring to focus on internal improvement and addressing the futures of CJ McCollum and Jonathan Kuminga along with coach Quin Snyder</a> (who has only one season left on his current contract).",
         "outlet": "marcstein.substack.com",
         "source_url": "https://marcstein.substack.com/p/your-nba-weekend-three-game-7s-and"
-      },
-      {
-        "date": "2026-04-07",
-        "text": "Draymond Green on Giannis Antetokounmpo: It's the craziest thing I've\u00a0seen. He's on the sideline cheering and\u00a0happy for his brothers while meanwhile\u00a0sitting in the back with two fingers in\u00a0the air telling the Milwaukee Bucks to\u00a0get the hell out of his face and I'm\u00a0going to get y'all investigated. I think this thing could be headed for a nasty breakup if it doesn't happen soon. It's just getting worse and worse by the day. You have your franchise player kind of getting your organization investigated and saying, \u201cHey, by the way y'all go look.\" like this does is not gonna end well. It's funny how all the people want interviews and stuff with Giannis and y'all don't say nothing. But y'all act like Jonathan Kuminga having a problem with his team was the worst thing the NBA has ever seen.I'm so tired of all you hypocrites. I'm so tired of it. Everybody around y'all y'all just hypocrites. We act like Jonathan Kuminga being disgruntled with the Golden State Warriors was the biggest deal in the world. Meanwhile, we got Giannis Antetokounmpo calling for an investigation and we selectively speak on it.Y'all some interesting folks out there, media people.YouTube",
-        "text_html": "Draymond Green on Giannis Antetokounmpo: It's the craziest thing I've seen. He's on the sideline cheering and happy for his brothers while meanwhile sitting in the back with two fingers in the air telling the Milwaukee Bucks to get the hell out of his face and I'm going to get y'all investigated. I think this thing could be headed for a nasty breakup if it doesn't happen soon. It's just getting worse and worse by the day. You have your franchise player kind of getting your organization investigated and saying, \u201cHey, by the way y'all go look.\" like this does is not gonna end well. It's funny how all the people want interviews and stuff with Giannis and y'all don't say nothing. But y'all act like Jonathan Kuminga having a problem with his team was the worst thing the NBA has ever seen. <a href=\"https://www.youtube.com/watch?v=aittHaaZu-c&t=680s\" target=\"_blank\" style=\"color: #1a73e8;\">I'm so tired of all you hypocrites. I'm so tired of it. Everybody around y'all y'all just hypocrites. We act like Jonathan Kuminga being disgruntled with the Golden State Warriors was the biggest deal in the world. Meanwhile, we got Giannis Antetokounmpo calling for an investigation and we selectively speak on it.</a> Y'all some interesting folks out there, media people.",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=aittHaaZu-c&t=680s"
       }
     ],
     "Anthony Davis": [
@@ -1411,13 +1303,6 @@
         "text_html": "Some relief can be created by offloading forward Nnaji, but the demand is low to non-existent for a guy who made $8 million while playing 12 minutes a game this season. <a href=\"https://www.nytimes.com/athletic/7235368/2026/05/01/nuggets-playoff-loss-future-peyton-watson-aaron-gordon-nikola-jokic/\" target=\"_blank\" style=\"color: #1a73e8;\">That leads to the uncomfortable conversation of trading the beloved Aaron Gordon, who is nicknamed Mr. Nugget.</a> Gordon has three years and $103 million left on his deal, and while it\u2019s hard to imagine Gordon playing anywhere else, it\u2019s getting harder to justify keeping him on the roster if he is continually unable to perform when it matters most.",
         "outlet": "New York Times",
         "source_url": "https://www.nytimes.com/athletic/7235368/2026/05/01/nuggets-playoff-loss-future-peyton-watson-aaron-gordon-nikola-jokic/"
-      },
-      {
-        "date": "2026-04-07",
-        "text": "Meanwhile, as Gordon weighed whether or not he wanted to request a trade, he told his agent that he felt like the prime of his career was slipping away in Orlando. That was the red flag to Andrews that it was time for Gordon to go.\u201cIt wasn\u2019t about, \u2018Can I score 20 points a game?\u2019 We tried that, and that didn\u2019t work,\u201d Andrews said. \u201cAnd he was tired of kind of being a hamster, you know? And just spinning and spinning and trying to make things work, and it\u2019s just not working. So maybe we\u2019ve gotta do something a little different. Maybe you\u2019ve gotta play a little differently.\u201dDenver Post",
-        "text_html": "Meanwhile, as Gordon weighed whether or not he wanted to request a trade, he told his agent that he felt like the prime of his career was slipping away in Orlando. That was the red flag to Andrews that it was time for Gordon to go. <a href=\"https://www.denverpost.com/2026/04/02/nuggets-aaron-gordon-trade-magic-nikola-jokic/\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cIt wasn\u2019t about, \u2018Can I score 20 points a game?\u2019 We tried that, and that didn\u2019t work,\u201d Andrews said. \u201cAnd he was tired of kind of being a hamster, you know? And just spinning and spinning and trying to make things work, and it\u2019s just not working. So maybe we\u2019ve gotta do something a little different. Maybe you\u2019ve gotta play a little differently.\u201d</a>",
-        "outlet": "Denver Post",
-        "source_url": "https://www.denverpost.com/2026/04/02/nuggets-aaron-gordon-trade-magic-nikola-jokic/"
       }
     ],
     "Cameron Johnson": [
@@ -1776,13 +1661,6 @@
         "text_html": "There will be no shortage of fans and media who connect the dots and say Alperen Sengun could follow in Jalen Green\u2019s steps as a young piece that gets sent away because he wasn\u2019t ready to compete for a championship now. <a href=\"https://www.nytimes.com/athletic/7225104/2026/04/24/alperen-sengun-game-3-rockets-lakers-nba-playoffs/\" target=\"_blank\" style=\"color: #1a73e8;\">Giannis Antetokounmpo will be a name many connect to Houston as a potential superstar who could be acquired in a \u015eeng\u00fcn trade. Kawhi Leonard or Donovan Mitchell could also be possibilities.</a> If Houston makes \u015eeng\u00fcn available, along with some of the future draft picks they hold, it would put them squarely among the favorites to acquire any of the disgruntled superstars who may become available.",
         "outlet": "New York Times",
         "source_url": "https://www.nytimes.com/athletic/7225104/2026/04/24/alperen-sengun-game-3-rockets-lakers-nba-playoffs/"
-      },
-      {
-        "date": "2026-04-07",
-        "text": "Duane Rankin: \u201cDuring my injury, for sure I thought about it. Like damn, I'm not going to be able to play against them.\" Jalen Green facing Rockets for 1st time since trade in last matchup vs. former team this season.On trade: \"I'm happy where I'm at.\"On any hard feeling: \"Something like that for sure stays in the back of your head. That's done and over with now. It's been a whole season damn near. It's still in the back of my head for sure, but it's time to hoop.\" #Suns #RocketsTwitter @DuaneRankin",
-        "text_html": "Duane Rankin: \u201cDuring my injury, for sure I thought about it. Like damn, I'm not going to be able to play against them.\" Jalen Green facing Rockets for 1st time since trade in last matchup vs. former team this season. <a href=\"https://hoopshype.com/social/\" target=\"_blank\" style=\"color: #1a73e8;\">On trade: \"I'm happy where I'm at.\"</a> On any hard feeling: \"Something like that for sure stays in the back of your head. That's done and over with now. It's been a whole season damn near. It's still in the back of my head for sure, but it's time to hoop.\" #Suns #Rockets",
-        "outlet": "Twitter @DuaneRankin",
-        "source_url": "https://hoopshype.com/social/"
       }
     ],
     "Bam Adebayo": [
@@ -1956,24 +1834,6 @@
         "outlet": "New York Post",
         "source_url": "https://nypost.com/2026/04/08/sports/nets-havent-given-up-on-trying-to-acquire-giannis-antetokounmpo/"
       }
-    ],
-    "Tyler Herro": [
-      {
-        "date": "2026-04-07",
-        "text": "Team\u00a0sources\u00a0said the Bucks seriously considered the Heat's offer, which centered on\u00a0Tyler Herro,\u00a0Kel'el Ware, other players and\u00a0multiple\u00a0draft picks and pick swaps.Milwaukee contemplated moving forward with Miami on Feb. 4. Ownership, however, believed the best move would be to hold on to Antetokounmpo and receive better offers in the summer. The Bucks informed the Heat on the morning of Feb. 5 that they would not accept a deal. The Bucks celebrated Antetokounmpo remaining with the team, even as they stood outside the play-in and had a player many inside the organization described as \"distant\" from the team at times. No one has questioned Antetokounmpo's on-court commitments. But management, coaches and players were exhausted by the discussion and dilemma regarding his future this season, creating a tense environment in the locker room, team\u00a0sources\u00a0said. \"The crux of the issue is feeling Giannis doesn't want to be here on any given day,\" one team\u00a0source\u00a0said.ESPN",
-        "text_html": "<a href=\"https://www.espn.com/nba/story/_/id/48412620/inside-fractured-relationship-giannis-antetokounmpo-milwaukee-bucks\" target=\"_blank\" style=\"color: #1a73e8;\">Team sources said the Bucks seriously considered the Heat's offer, which centered on Tyler Herro, Kel'el Ware, other players and multiple draft picks and pick swaps.</a> Milwaukee contemplated moving forward with Miami on Feb. 4. Ownership, however, believed the best move would be to hold on to Antetokounmpo and receive better offers in the summer. The Bucks informed the Heat on the morning of Feb. 5 that they would not accept a deal. The Bucks celebrated Antetokounmpo remaining with the team, even as they stood outside the play-in and had a player many inside the organization described as \"distant\" from the team at times. No one has questioned Antetokounmpo's on-court commitments. But management, coaches and players were exhausted by the discussion and dilemma regarding his future this season, creating a tense environment in the locker room, team sources said. \"The crux of the issue is feeling Giannis doesn't want to be here on any given day,\" one team source said.",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/48412620/inside-fractured-relationship-giannis-antetokounmpo-milwaukee-bucks"
-      }
-    ],
-    "Kel'el Ware": [
-      {
-        "date": "2026-04-07",
-        "text": "Team\u00a0sources\u00a0said the Bucks seriously considered the Heat's offer, which centered on\u00a0Tyler Herro,\u00a0Kel'el Ware, other players and\u00a0multiple\u00a0draft picks and pick swaps.Milwaukee contemplated moving forward with Miami on Feb. 4. Ownership, however, believed the best move would be to hold on to Antetokounmpo and receive better offers in the summer. The Bucks informed the Heat on the morning of Feb. 5 that they would not accept a deal. The Bucks celebrated Antetokounmpo remaining with the team, even as they stood outside the play-in and had a player many inside the organization described as \"distant\" from the team at times. No one has questioned Antetokounmpo's on-court commitments. But management, coaches and players were exhausted by the discussion and dilemma regarding his future this season, creating a tense environment in the locker room, team\u00a0sources\u00a0said. \"The crux of the issue is feeling Giannis doesn't want to be here on any given day,\" one team\u00a0source\u00a0said.ESPN",
-        "text_html": "<a href=\"https://www.espn.com/nba/story/_/id/48412620/inside-fractured-relationship-giannis-antetokounmpo-milwaukee-bucks\" target=\"_blank\" style=\"color: #1a73e8;\">Team sources said the Bucks seriously considered the Heat's offer, which centered on Tyler Herro, Kel'el Ware, other players and multiple draft picks and pick swaps.</a> Milwaukee contemplated moving forward with Miami on Feb. 4. Ownership, however, believed the best move would be to hold on to Antetokounmpo and receive better offers in the summer. The Bucks informed the Heat on the morning of Feb. 5 that they would not accept a deal. The Bucks celebrated Antetokounmpo remaining with the team, even as they stood outside the play-in and had a player many inside the organization described as \"distant\" from the team at times. No one has questioned Antetokounmpo's on-court commitments. But management, coaches and players were exhausted by the discussion and dilemma regarding his future this season, creating a tense environment in the locker room, team sources said. \"The crux of the issue is feeling Giannis doesn't want to be here on any given day,\" one team source said.",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/48412620/inside-fractured-relationship-giannis-antetokounmpo-milwaukee-bucks"
-      }
     ]
   },
   "daily_counts": {
@@ -1992,8 +1852,7 @@
     "Draymond Green": {
       "2026-05-05": 1,
       "2026-04-20": 2,
-      "2026-04-08": 1,
-      "2026-04-07": 1
+      "2026-04-08": 1
     },
     "Jaylen Brown": {
       "2026-05-05": 1
@@ -2015,16 +1874,14 @@
       "2026-04-12": 1,
       "2026-04-10": 2,
       "2026-04-09": 1,
-      "2026-04-08": 8,
-      "2026-04-07": 8
+      "2026-04-08": 8
     },
     "Jalen Suggs": {
       "2026-05-04": 1
     },
     "Kevin Durant": {
       "2026-05-04": 1,
-      "2026-04-28": 2,
-      "2026-04-07": 1
+      "2026-04-28": 2
     },
     "James Harden": {
       "2026-05-04": 2,
@@ -2049,15 +1906,13 @@
     },
     "Jrue Holiday": {
       "2026-05-03": 1,
-      "2026-04-30": 1,
-      "2026-04-07": 1
+      "2026-04-30": 1
     },
     "CJ McCollum": {
       "2026-05-02": 1
     },
     "Jonathan Kuminga": {
-      "2026-05-02": 1,
-      "2026-04-07": 1
+      "2026-05-02": 1
     },
     "Anthony Davis": {
       "2026-05-02": 3,
@@ -2073,8 +1928,7 @@
     },
     "Aaron Gordon": {
       "2026-05-02": 2,
-      "2026-05-01": 1,
-      "2026-04-07": 1
+      "2026-05-01": 1
     },
     "Cameron Johnson": {
       "2026-05-02": 1
@@ -2146,8 +2000,7 @@
     },
     "Jalen Green": {
       "2026-04-28": 1,
-      "2026-04-24": 1,
-      "2026-04-07": 1
+      "2026-04-24": 1
     },
     "Bam Adebayo": {
       "2026-04-27": 1
@@ -2199,12 +2052,6 @@
     },
     "Mikal Bridges": {
       "2026-04-08": 1
-    },
-    "Tyler Herro": {
-      "2026-04-07": 1
-    },
-    "Kel'el Ware": {
-      "2026-04-07": 1
     }
   }
 }
