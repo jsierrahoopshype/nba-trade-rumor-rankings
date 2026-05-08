@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-05-07T20:14:17.189988",
+  "generated_at": "2026-05-08T04:15:31.803468",
   "scrape_window_days": 28,
-  "window_start": "2026-04-09",
-  "window_end": "2026-05-07",
-  "total_rumors": 143,
+  "window_start": "2026-04-10",
+  "window_end": "2026-05-08",
+  "total_rumors": 137,
   "total_players": 56,
   "rankings": [
     {
       "player": "Giannis Antetokounmpo",
-      "score": 16.0,
+      "score": 14.75,
       "mentions_week1": 8,
-      "mentions_week2": 7,
-      "mentions_weeks3_4": 18,
-      "total_mentions": 33,
-      "first_mention": "2026-04-09",
+      "mentions_week2": 3,
+      "mentions_weeks3_4": 21,
+      "total_mentions": 32,
+      "first_mention": "2026-04-10",
       "last_mention": "2026-05-07",
       "team": "Milwaukee Bucks",
       "rank": 1
     },
     {
       "player": "Anthony Davis",
-      "score": 7.0,
-      "mentions_week1": 6,
-      "mentions_week2": 1,
+      "score": 6.5,
+      "mentions_week1": 5,
+      "mentions_week2": 2,
       "mentions_weeks3_4": 2,
       "total_mentions": 9,
       "first_mention": "2026-04-14",
@@ -44,27 +44,15 @@
     },
     {
       "player": "James Harden",
-      "score": 3.25,
+      "score": 3.0,
       "mentions_week1": 2,
       "mentions_week2": 0,
-      "mentions_weeks3_4": 5,
-      "total_mentions": 7,
-      "first_mention": "2026-04-09",
+      "mentions_weeks3_4": 4,
+      "total_mentions": 6,
+      "first_mention": "2026-04-13",
       "last_mention": "2026-05-04",
       "team": "Los Angeles Clippers",
       "rank": 4
-    },
-    {
-      "player": "Ja Morant",
-      "score": 3.0,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 8,
-      "total_mentions": 9,
-      "first_mention": "2026-04-09",
-      "last_mention": "2026-04-30",
-      "team": "Memphis Grizzlies",
-      "rank": 5
     },
     {
       "player": "Aaron Gordon",
@@ -76,7 +64,7 @@
       "first_mention": "2026-05-01",
       "last_mention": "2026-05-02",
       "team": "Denver Nuggets",
-      "rank": 6
+      "rank": 5
     },
     {
       "player": "Jaylen Brown",
@@ -88,7 +76,7 @@
       "first_mention": "2026-05-05",
       "last_mention": "2026-05-07",
       "team": "Boston Celtics",
-      "rank": 7
+      "rank": 6
     },
     {
       "player": "Jayson Tatum",
@@ -100,7 +88,7 @@
       "first_mention": "2026-05-05",
       "last_mention": "2026-05-07",
       "team": "Boston Celtics",
-      "rank": 8
+      "rank": 7
     },
     {
       "player": "Alperen Sengun",
@@ -112,7 +100,7 @@
       "first_mention": "2026-04-24",
       "last_mention": "2026-05-04",
       "team": "Houston Rockets",
-      "rank": 9
+      "rank": 8
     },
     {
       "player": "Kawhi Leonard",
@@ -124,7 +112,7 @@
       "first_mention": "2026-04-17",
       "last_mention": "2026-05-02",
       "team": "Los Angeles Clippers",
-      "rank": 10
+      "rank": 9
     },
     {
       "player": "Kevin Durant",
@@ -136,31 +124,19 @@
       "first_mention": "2026-04-28",
       "last_mention": "2026-05-04",
       "team": "Houston Rockets",
-      "rank": 11
+      "rank": 10
     },
     {
-      "player": "Devin Booker",
-      "score": 2.0,
-      "mentions_week1": 2,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 2,
-      "first_mention": "2026-04-30",
+      "player": "Ja Morant",
+      "score": 1.75,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 5,
+      "total_mentions": 6,
+      "first_mention": "2026-04-16",
       "last_mention": "2026-04-30",
-      "team": "Phoenix Suns",
-      "rank": 12
-    },
-    {
-      "player": "Jrue Holiday",
-      "score": 2.0,
-      "mentions_week1": 2,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 2,
-      "first_mention": "2026-04-30",
-      "last_mention": "2026-05-03",
-      "team": "Portland Trail Blazers",
-      "rank": 13
+      "team": "Memphis Grizzlies",
+      "rank": 11
     },
     {
       "player": "Draymond Green",
@@ -172,7 +148,7 @@
       "first_mention": "2026-04-20",
       "last_mention": "2026-05-05",
       "team": "Golden State Warriors",
-      "rank": 14
+      "rank": 12
     },
     {
       "player": "Donovan Mitchell",
@@ -184,7 +160,19 @@
       "first_mention": "2026-04-24",
       "last_mention": "2026-05-02",
       "team": "Cleveland Cavaliers",
-      "rank": 15
+      "rank": 13
+    },
+    {
+      "player": "Jrue Holiday",
+      "score": 1.5,
+      "mentions_week1": 1,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 2,
+      "first_mention": "2026-04-30",
+      "last_mention": "2026-05-03",
+      "team": "Portland Trail Blazers",
+      "rank": 14
     },
     {
       "player": "LeBron James",
@@ -196,6 +184,18 @@
       "first_mention": "2026-04-20",
       "last_mention": "2026-05-01",
       "team": "Los Angeles Lakers",
+      "rank": 15
+    },
+    {
+      "player": "Devin Booker",
+      "score": 1.0,
+      "mentions_week1": 0,
+      "mentions_week2": 2,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 2,
+      "first_mention": "2026-04-30",
+      "last_mention": "2026-04-30",
+      "team": "Phoenix Suns",
       "rank": 16
     },
     {
@@ -211,18 +211,6 @@
       "rank": 17
     },
     {
-      "player": "Karl-Anthony Towns",
-      "score": 1.0,
-      "mentions_week1": 0,
-      "mentions_week2": 2,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 2,
-      "first_mention": "2026-04-23",
-      "last_mention": "2026-04-24",
-      "team": "New York Knicks",
-      "rank": 18
-    },
-    {
       "player": "Victor Wembanyama",
       "score": 1.0,
       "mentions_week1": 0,
@@ -232,7 +220,7 @@
       "first_mention": "2026-04-27",
       "last_mention": "2026-04-29",
       "team": "San Antonio Spurs",
-      "rank": 19
+      "rank": 18
     },
     {
       "player": "Amen Thompson",
@@ -244,7 +232,7 @@
       "first_mention": "2026-05-04",
       "last_mention": "2026-05-04",
       "team": "Houston Rockets",
-      "rank": 20
+      "rank": 19
     },
     {
       "player": "Brandon Ingram",
@@ -256,7 +244,7 @@
       "first_mention": "2026-05-05",
       "last_mention": "2026-05-05",
       "team": "Toronto Raptors",
-      "rank": 21
+      "rank": 20
     },
     {
       "player": "CJ McCollum",
@@ -268,7 +256,7 @@
       "first_mention": "2026-05-02",
       "last_mention": "2026-05-02",
       "team": "Washington Wizards",
-      "rank": 22
+      "rank": 21
     },
     {
       "player": "Cameron Johnson",
@@ -280,7 +268,7 @@
       "first_mention": "2026-05-02",
       "last_mention": "2026-05-02",
       "team": "Denver Nuggets",
-      "rank": 23
+      "rank": 22
     },
     {
       "player": "Derrick White",
@@ -292,7 +280,7 @@
       "first_mention": "2026-05-03",
       "last_mention": "2026-05-03",
       "team": "Boston Celtics",
-      "rank": 24
+      "rank": 23
     },
     {
       "player": "Evan Mobley",
@@ -304,7 +292,7 @@
       "first_mention": "2026-05-07",
       "last_mention": "2026-05-07",
       "team": "Cleveland Cavaliers",
-      "rank": 25
+      "rank": 24
     },
     {
       "player": "Gradey Dick",
@@ -316,7 +304,7 @@
       "first_mention": "2026-05-05",
       "last_mention": "2026-05-05",
       "team": "Toronto Raptors",
-      "rank": 26
+      "rank": 25
     },
     {
       "player": "Jakob Poeltl",
@@ -328,7 +316,7 @@
       "first_mention": "2026-05-05",
       "last_mention": "2026-05-05",
       "team": "Toronto Raptors",
-      "rank": 27
+      "rank": 26
     },
     {
       "player": "Jalen Suggs",
@@ -340,7 +328,7 @@
       "first_mention": "2026-05-04",
       "last_mention": "2026-05-04",
       "team": "Orlando Magic",
-      "rank": 28
+      "rank": 27
     },
     {
       "player": "Jamal Murray",
@@ -352,7 +340,7 @@
       "first_mention": "2026-05-01",
       "last_mention": "2026-05-01",
       "team": "Denver Nuggets",
-      "rank": 29
+      "rank": 28
     },
     {
       "player": "Jaren Jackson Jr",
@@ -364,7 +352,7 @@
       "first_mention": "2026-05-05",
       "last_mention": "2026-05-05",
       "team": "Memphis Grizzlies",
-      "rank": 30
+      "rank": 29
     },
     {
       "player": "Jerami Grant",
@@ -376,7 +364,7 @@
       "first_mention": "2026-05-02",
       "last_mention": "2026-05-02",
       "team": "Dallas Mavericks",
-      "rank": 31
+      "rank": 30
     },
     {
       "player": "Joel Embiid",
@@ -388,7 +376,7 @@
       "first_mention": "2026-05-02",
       "last_mention": "2026-05-02",
       "team": "Philadelphia 76ers",
-      "rank": 32
+      "rank": 31
     },
     {
       "player": "Jonathan Kuminga",
@@ -400,31 +388,7 @@
       "first_mention": "2026-05-02",
       "last_mention": "2026-05-02",
       "team": "Golden State Warriors",
-      "rank": 33
-    },
-    {
-      "player": "Keyonte George",
-      "score": 1.0,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-04-30",
-      "last_mention": "2026-04-30",
-      "team": "Memphis Grizzlies",
-      "rank": 34
-    },
-    {
-      "player": "Luke Kennard",
-      "score": 1.0,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-04-30",
-      "last_mention": "2026-04-30",
-      "team": "Los Angeles Lakers",
-      "rank": 35
+      "rank": 32
     },
     {
       "player": "Michael Porter",
@@ -436,7 +400,7 @@
       "first_mention": "2026-05-01",
       "last_mention": "2026-05-01",
       "team": "Denver Nuggets",
-      "rank": 36
+      "rank": 33
     },
     {
       "player": "Peyton Watson",
@@ -448,7 +412,7 @@
       "first_mention": "2026-05-02",
       "last_mention": "2026-05-02",
       "team": "Denver Nuggets",
-      "rank": 37
+      "rank": 34
     },
     {
       "player": "Reed Sheppard",
@@ -460,7 +424,7 @@
       "first_mention": "2026-05-04",
       "last_mention": "2026-05-04",
       "team": "Houston Rockets",
-      "rank": 38
+      "rank": 35
     },
     {
       "player": "Trae Young",
@@ -472,7 +436,7 @@
       "first_mention": "2026-05-07",
       "last_mention": "2026-05-07",
       "team": "Atlanta Hawks",
-      "rank": 39
+      "rank": 36
     },
     {
       "player": "Zaccharie Risacher",
@@ -484,19 +448,19 @@
       "first_mention": "2026-05-01",
       "last_mention": "2026-05-01",
       "team": "Atlanta Hawks",
-      "rank": 40
+      "rank": 37
     },
     {
-      "player": "Ivica Zubac",
+      "player": "Karl-Anthony Towns",
       "score": 0.75,
       "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 3,
-      "total_mentions": 3,
-      "first_mention": "2026-04-09",
-      "last_mention": "2026-04-20",
-      "team": "Los Angeles Clippers",
-      "rank": 41
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 2,
+      "first_mention": "2026-04-23",
+      "last_mention": "2026-04-24",
+      "team": "New York Knicks",
+      "rank": 38
     },
     {
       "player": "Paolo Banchero",
@@ -508,7 +472,19 @@
       "first_mention": "2026-04-17",
       "last_mention": "2026-04-29",
       "team": "Orlando Magic",
-      "rank": 42
+      "rank": 39
+    },
+    {
+      "player": "Ivica Zubac",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 2,
+      "total_mentions": 2,
+      "first_mention": "2026-04-17",
+      "last_mention": "2026-04-20",
+      "team": "Los Angeles Clippers",
+      "rank": 40
     },
     {
       "player": "Zion Williamson",
@@ -520,7 +496,7 @@
       "first_mention": "2026-04-14",
       "last_mention": "2026-04-14",
       "team": "New Orleans Pelicans",
-      "rank": 43
+      "rank": 41
     },
     {
       "player": "Ayo Dosunmu",
@@ -532,7 +508,7 @@
       "first_mention": "2026-04-27",
       "last_mention": "2026-04-27",
       "team": "Chicago Bulls",
-      "rank": 44
+      "rank": 42
     },
     {
       "player": "Bam Adebayo",
@@ -544,7 +520,7 @@
       "first_mention": "2026-04-27",
       "last_mention": "2026-04-27",
       "team": "Miami Heat",
-      "rank": 45
+      "rank": 43
     },
     {
       "player": "De'Aaron Fox",
@@ -556,7 +532,7 @@
       "first_mention": "2026-04-27",
       "last_mention": "2026-04-27",
       "team": "San Antonio Spurs",
-      "rank": 46
+      "rank": 44
     },
     {
       "player": "Dillon Brooks",
@@ -568,7 +544,7 @@
       "first_mention": "2026-04-28",
       "last_mention": "2026-04-28",
       "team": "Phoenix Suns",
-      "rank": 47
+      "rank": 45
     },
     {
       "player": "Donte DiVincenzo",
@@ -580,7 +556,7 @@
       "first_mention": "2026-04-24",
       "last_mention": "2026-04-24",
       "team": "Minnesota Timberwolves",
-      "rank": 48
+      "rank": 46
     },
     {
       "player": "Jimmy Butler",
@@ -592,7 +568,7 @@
       "first_mention": "2026-04-24",
       "last_mention": "2026-04-24",
       "team": "Golden State Warriors",
-      "rank": 49
+      "rank": 47
     },
     {
       "player": "Julius Randle",
@@ -604,6 +580,30 @@
       "first_mention": "2026-04-24",
       "last_mention": "2026-04-24",
       "team": "Minnesota Timberwolves",
+      "rank": 48
+    },
+    {
+      "player": "Keyonte George",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-04-30",
+      "last_mention": "2026-04-30",
+      "team": "Memphis Grizzlies",
+      "rank": 49
+    },
+    {
+      "player": "Luke Kennard",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-04-30",
+      "last_mention": "2026-04-30",
+      "team": "Los Angeles Lakers",
       "rank": 50
     },
     {
@@ -904,13 +904,6 @@
         "text_html": "Doc Rivers says this has been one of the most frustrating coaching seasons in his career dealing with the Giannis rumors: <a href=\"https://x.com/NBA__Courtside/status/2042611972168876462\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cIt started early. All the rumors of \u2018is Giannis going to stay or not stay.\u2019 Then the injuries. Trying to keep this locker room together has been very difficult. When you can\u2019t get everyone to buy in it\u2019s hard.</a> To make an excuse for them, I get it too. One of the areas I didn\u2019t see as much as I should have is all the rumors asking if your best player is here or not. It affected our locker room\u201d",
         "outlet": "x.com",
         "source_url": "https://x.com/NBA__Courtside/status/2042611972168876462"
-      },
-      {
-        "date": "2026-04-09",
-        "text": "But on SiriusXM NBA Radio, NBA insider Chris Haynes claimed that there aren't any credible notes from his sources that the Celtics will be a team to watch for Antetokounmpo.\"I haven't heard Boston in the mix as far as being a team that he might be interested in. Maybe that's something that could change. I've just never heard that,\" Haynes said. \"I've known, like I don't want to say it now, but I've known of some teams that was intriguing. I've never heard Boston mentioned.\"BasketNews",
-        "text_html": "But on SiriusXM NBA Radio, NBA insider Chris Haynes claimed that there aren't any credible notes from his sources that the Celtics will be a team to watch for Antetokounmpo. <a href=\"https://basketnews.com/news-244710-nba-insider-drops-bombshell-on-celtics-giannis-rumors.html\" target=\"_blank\" style=\"color: #1a73e8;\">\"I haven't heard Boston in the mix as far as being a team that he might be interested in. Maybe that's something that could change. I've just never heard that,\" Haynes said</a>. \"I've known, like I don't want to say it now, but I've known of some teams that was intriguing. I've never heard Boston mentioned.\"",
-        "outlet": "BasketNews",
-        "source_url": "https://basketnews.com/news-244710-nba-insider-drops-bombshell-on-celtics-giannis-rumors.html"
       }
     ],
     "Jaylen Brown": [
@@ -1226,13 +1219,6 @@
         "text_html": "James Harden made one request upon joining the Cleveland Cavaliers after the big trade in February. It was something off the court, a practice he\u2019d engaged in for most of his 17 storied NBA seasons, where tape ends up on the floor. The kind of thing a few of his new, younger Cavaliers teammates had never done before, while even some veterans had only dabbled in it here or there, but certainly not in Cleveland. <a href=\"https://www.nytimes.com/athletic/7175875/2026/04/07/james-harden-cavs-nba-request/\" target=\"_blank\" style=\"color: #1a73e8;\">When Harden\u2019s new coach, Kenny Atkinson, heard Harden make the request, he scrunched his eyes and shook his head. \u201cI\u2019m like, eh, this isn\u2019t my thing,\u201d Atkinson recalled as his initial response</a>. There are other teams in the NBA that would simply refuse to partake in such behavior. But Harden was coming from L.A., where this sort of thing was common.",
         "outlet": "New York Times",
         "source_url": "https://www.nytimes.com/athletic/7175875/2026/04/07/james-harden-cavs-nba-request/"
-      },
-      {
-        "date": "2026-04-09",
-        "text": "For slower teams, meanwhile, a more deliberate pace often arises because of their superior personnel. \"A lot of the better teams, they do have a slower pace,\"\u00a0LA Clippers\u00a0coach Tyronn Lue said in late January, just before his team traded\u00a0James Harden\u00a0and\u00a0Ivica Zubac.\"I think because you're playing with stars or guys that are max players, they're going to slow the offense down because you want to play through them and get the ball in their hands.\"ESPN",
-        "text_html": "<a href=\"https://www.espn.com/nba/story/_/id/48414857/nba-fast-pace-slow-pace-offensive-efficiency-playoff-implications\" target=\"_blank\" style=\"color: #1a73e8;\">For slower teams, meanwhile, a more deliberate pace often arises because of their superior personnel. \"A lot of the better teams, they do have a slower pace,\" LA Clippers coach Tyronn Lue said in late January, just before his team traded James Harden and Ivica Zubac.</a> \"I think because you're playing with stars or guys that are max players, they're going to slow the offense down because you want to play through them and get the ball in their hands.\"",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/48414857/nba-fast-pace-slow-pace-offensive-efficiency-playoff-implications"
       }
     ],
     "Alperen Sengun": [
@@ -1516,27 +1502,6 @@
         "text_html": "The Grizzlies, after years of unsuccessfully trying to build around and manage Morant, need high-value and desired players to trade to continue their rebuild. Their problem, now, is Morant is neither one. <a href=\"https://www.espn.com/nba/story/_/id/48477422/inside-end-ja-morant-era-memphis\" target=\"_blank\" style=\"color: #1a73e8;\">\"There's certainly going to be hesitation,\" a Western Conference director of pro personnel told ESPN of Morant's value, \"but there's going to be several desperate teams.\"</a>",
         "outlet": "ESPN",
         "source_url": "https://www.espn.com/nba/story/_/id/48477422/inside-end-ja-morant-era-memphis"
-      },
-      {
-        "date": "2026-04-09",
-        "text": "Signs of a fracture appeared during the Grizzlies\u2019 final regular-season home game against the Cleveland Cavaliers last Monday. During the team\u2019s \u201cFan Appreciation Night,\u201d every active player reportedly gave their jersey to a fan as a gesture of gratitude\u2014except for Morant. \u201cHe just stood there and watched his teammates give away their jerseys,\u201d an unnamed Grizzlies source shared. \u201cWho does that? The writing is on the wall.\u201dHowever, a separate team source indicated that the friction might be a two-way street. Ja Morant was reportedly notified just one hour before tip-off that he would not be participating in the giveaway, leaving him without a jersey to provide. \u201cHe\u2019s unhappy with how he\u2019s being treated,\u201d a source close to the situation claimed. \u201cHe feels alienated by the organization.\u201dScoopB.com",
-        "text_html": "<a href=\"https://scoopb.com/2026/04/grizzlies-offseason-of-uncertainty-is-ja-morants-departure-inevitable/\" target=\"_blank\" style=\"color: #1a73e8;\">Signs of a fracture appeared during the Grizzlies\u2019 final regular-season home game against the Cleveland Cavaliers last Monday. During the team\u2019s \u201cFan Appreciation Night,\u201d every active player reportedly gave their jersey to a fan as a gesture of gratitude\u2014except for Morant. \u201cHe just stood there and watched his teammates give away their jerseys,\u201d an unnamed Grizzlies source shared. \u201cWho does that? The writing is on the wall.\u201d</a> However, a separate team source indicated that the friction might be a two-way street. Ja Morant was reportedly notified just one hour before tip-off that he would not be participating in the giveaway, leaving him without a jersey to provide. \u201cHe\u2019s unhappy with how he\u2019s being treated,\u201d a source close to the situation claimed. \u201cHe feels alienated by the organization.\u201d",
-        "outlet": "ScoopB.com",
-        "source_url": "https://scoopb.com/2026/04/grizzlies-offseason-of-uncertainty-is-ja-morants-departure-inevitable/"
-      },
-      {
-        "date": "2026-04-09",
-        "text": "According to a source close to Morant, the All-Star was largely kept in the dark regarding the interest from other teams. \u201cJa didn\u2019t know who was coming at him until after the deadline,\u201d the source said. \u201cIt was painted as if nobody wanted him, but that wasn\u2019t the reality.\u201dWhile a move to a team of his choice remains the goal, indications suggest that if a trade occurs this offseason, Morant may be less focused on a specific city and more on a fresh start. \u201cHe wants to go somewhere he can prove his worth,\u201d the source added. \u201cSomeone who actually wants him and where he can just play basketball.\u201dScoopB.com",
-        "text_html": "<a href=\"https://scoopb.com/2026/04/grizzlies-offseason-of-uncertainty-is-ja-morants-departure-inevitable/\" target=\"_blank\" style=\"color: #1a73e8;\">According to a source close to Morant, the All-Star was largely kept in the dark regarding the interest from other teams. \u201cJa didn\u2019t know who was coming at him until after the deadline,\u201d the source said. \u201cIt was painted as if nobody wanted him, but that wasn\u2019t the reality.\u201d</a> While a move to a team of his choice remains the goal, indications suggest that if a trade occurs this offseason, Morant may be less focused on a specific city and more on a fresh start. \u201cHe wants to go somewhere he can prove his worth,\u201d the source added. \u201cSomeone who actually wants him and where he can just play basketball.\u201d",
-        "outlet": "ScoopB.com",
-        "source_url": "https://scoopb.com/2026/04/grizzlies-offseason-of-uncertainty-is-ja-morants-departure-inevitable/"
-      },
-      {
-        "date": "2026-04-09",
-        "text": "Speculation reached a fever pitch recently when Morant\u2019s Memphis-area home was listed for sale at $3.5 million. While fans viewed this as a definitive \u201cgoodbye,\u201d those within Morant\u2019s inner circle are downplaying the move.\u201cHe still has two other houses,\u201d a source rebuffed, suggesting the sale might be a simple real estate correction rather than a suitcase packed for Miami. Whether it is a change of address or a change of scenery, the next few months will determine if the Ja Morant era in Memphis has truly run its course.ScoopB.com",
-        "text_html": "Speculation reached a fever pitch recently when Morant\u2019s Memphis-area home was listed for sale at $3.5 million. While fans viewed this as a definitive \u201cgoodbye,\u201d those within Morant\u2019s inner circle are downplaying the move. <a href=\"https://scoopb.com/2026/04/grizzlies-offseason-of-uncertainty-is-ja-morants-departure-inevitable/\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cHe still has two other houses,\u201d a source rebuffed, suggesting the sale might be a simple real estate correction rather than a suitcase packed for Miami. Whether it is a change of address or a change of scenery, the next few months will determine if the Ja Morant era in Memphis has truly run its course</a>.",
-        "outlet": "ScoopB.com",
-        "source_url": "https://scoopb.com/2026/04/grizzlies-offseason-of-uncertainty-is-ja-morants-departure-inevitable/"
       }
     ],
     "Keyonte George": [
@@ -1723,13 +1688,6 @@
         "text_html": "<a href=\"https://www.nytimes.com/athletic/7205699/2026/04/17/clippers-tyronn-lue-future-kawhi-leonard-nba/\" target=\"_blank\" style=\"color: #1a73e8;\">Frank signaled that the Clippers would like to extend Leonard, who on Wednesday night requested he be given time to \u201ccry about this loss a little bit more\u201d before talking about his future.</a> Frank acknowledged that questions about trading Leonard came once the Clippers traded James Harden and Ivica Zubac the week of the NBA trade deadline. But the franchise is focused on getting back to contender status with Leonard in the fold. \u201cAt the appropriate time, we\u2019ll sit down with Kawhi, and very similar to 2024, lay out our plan,\u201d Frank said. \u201cAnd if our goals are aligned, then we\u2019d like to win with Kawhi.\u201d",
         "outlet": "New York Times",
         "source_url": "https://www.nytimes.com/athletic/7205699/2026/04/17/clippers-tyronn-lue-future-kawhi-leonard-nba/"
-      },
-      {
-        "date": "2026-04-09",
-        "text": "For slower teams, meanwhile, a more deliberate pace often arises because of their superior personnel. \"A lot of the better teams, they do have a slower pace,\"\u00a0LA Clippers\u00a0coach Tyronn Lue said in late January, just before his team traded\u00a0James Harden\u00a0and\u00a0Ivica Zubac.\"I think because you're playing with stars or guys that are max players, they're going to slow the offense down because you want to play through them and get the ball in their hands.\"ESPN",
-        "text_html": "<a href=\"https://www.espn.com/nba/story/_/id/48414857/nba-fast-pace-slow-pace-offensive-efficiency-playoff-implications\" target=\"_blank\" style=\"color: #1a73e8;\">For slower teams, meanwhile, a more deliberate pace often arises because of their superior personnel. \"A lot of the better teams, they do have a slower pace,\" LA Clippers coach Tyronn Lue said in late January, just before his team traded James Harden and Ivica Zubac.</a> \"I think because you're playing with stars or guys that are max players, they're going to slow the offense down because you want to play through them and get the ball in their hands.\"",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/48414857/nba-fast-pace-slow-pace-offensive-efficiency-playoff-implications"
       }
     ],
     "Myles Turner": [
@@ -1808,8 +1766,7 @@
       "2026-04-14": 2,
       "2026-04-13": 3,
       "2026-04-12": 1,
-      "2026-04-10": 2,
-      "2026-04-09": 1
+      "2026-04-10": 2
     },
     "Jaylen Brown": {
       "2026-05-07": 2,
@@ -1869,8 +1826,7 @@
       "2026-05-04": 2,
       "2026-04-20": 1,
       "2026-04-17": 2,
-      "2026-04-13": 1,
-      "2026-04-09": 1
+      "2026-04-13": 1
     },
     "Alperen Sengun": {
       "2026-05-04": 1,
@@ -1938,8 +1894,7 @@
     "Ja Morant": {
       "2026-04-30": 1,
       "2026-04-17": 2,
-      "2026-04-16": 3,
-      "2026-04-09": 3
+      "2026-04-16": 3
     },
     "Keyonte George": {
       "2026-04-30": 1
@@ -1992,8 +1947,7 @@
     },
     "Ivica Zubac": {
       "2026-04-20": 1,
-      "2026-04-17": 1,
-      "2026-04-09": 1
+      "2026-04-17": 1
     },
     "Myles Turner": {
       "2026-04-17": 1
