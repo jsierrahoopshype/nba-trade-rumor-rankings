@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-05-13T20:45:35.905294",
+  "generated_at": "2026-05-14T04:42:24.775753",
   "scrape_window_days": 28,
-  "window_start": "2026-04-15",
-  "window_end": "2026-05-13",
-  "total_rumors": 171,
-  "total_players": 58,
+  "window_start": "2026-04-16",
+  "window_end": "2026-05-14",
+  "total_rumors": 179,
+  "total_players": 64,
   "rankings": [
     {
       "player": "Giannis Antetokounmpo",
-      "score": 28.0,
+      "score": 27.5,
       "mentions_week1": 21,
-      "mentions_week2": 7,
-      "mentions_weeks3_4": 14,
+      "mentions_week2": 5,
+      "mentions_weeks3_4": 16,
       "total_mentions": 42,
       "first_mention": "2026-04-17",
       "last_mention": "2026-05-13",
@@ -20,11 +20,11 @@
     },
     {
       "player": "Jaylen Brown",
-      "score": 6.5,
-      "mentions_week1": 6,
+      "score": 7.5,
+      "mentions_week1": 7,
       "mentions_week2": 1,
       "mentions_weeks3_4": 0,
-      "total_mentions": 7,
+      "total_mentions": 8,
       "first_mention": "2026-05-05",
       "last_mention": "2026-05-13",
       "team": "Boston Celtics",
@@ -79,18 +79,6 @@
       "rank": 6
     },
     {
-      "player": "Luka Doncic",
-      "score": 3.0,
-      "mentions_week1": 1,
-      "mentions_week2": 2,
-      "mentions_weeks3_4": 4,
-      "total_mentions": 7,
-      "first_mention": "2026-04-20",
-      "last_mention": "2026-05-06",
-      "team": "Los Angeles Lakers",
-      "rank": 7
-    },
-    {
       "player": "Draymond Green",
       "score": 3.0,
       "mentions_week1": 2,
@@ -100,7 +88,7 @@
       "first_mention": "2026-04-20",
       "last_mention": "2026-05-12",
       "team": "Golden State Warriors",
-      "rank": 8
+      "rank": 7
     },
     {
       "player": "Austin Reaves",
@@ -112,7 +100,7 @@
       "first_mention": "2026-05-12",
       "last_mention": "2026-05-12",
       "team": "Los Angeles Lakers",
-      "rank": 9
+      "rank": 8
     },
     {
       "player": "Jared McCain",
@@ -124,6 +112,18 @@
       "first_mention": "2026-05-08",
       "last_mention": "2026-05-13",
       "team": "Philadelphia 76ers",
+      "rank": 9
+    },
+    {
+      "player": "Luka Doncic",
+      "score": 2.5,
+      "mentions_week1": 0,
+      "mentions_week2": 3,
+      "mentions_weeks3_4": 4,
+      "total_mentions": 7,
+      "first_mention": "2026-04-20",
+      "last_mention": "2026-05-06",
+      "team": "Los Angeles Lakers",
       "rank": 10
     },
     {
@@ -247,6 +247,18 @@
       "rank": 20
     },
     {
+      "player": "Donte DiVincenzo",
+      "score": 1.25,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 2,
+      "first_mention": "2026-04-24",
+      "last_mention": "2026-05-13",
+      "team": "Minnesota Timberwolves",
+      "rank": 21
+    },
+    {
       "player": "Devin Booker",
       "score": 1.0,
       "mentions_week1": 0,
@@ -256,7 +268,7 @@
       "first_mention": "2026-04-30",
       "last_mention": "2026-04-30",
       "team": "Phoenix Suns",
-      "rank": 21
+      "rank": 22
     },
     {
       "player": "Jrue Holiday",
@@ -268,7 +280,19 @@
       "first_mention": "2026-04-30",
       "last_mention": "2026-05-03",
       "team": "Portland Trail Blazers",
-      "rank": 22
+      "rank": 23
+    },
+    {
+      "player": "Aaron Wiggins",
+      "score": 1.0,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-05-13",
+      "last_mention": "2026-05-13",
+      "team": "Chicago Bulls",
+      "rank": 24
     },
     {
       "player": "Bobby Portis",
@@ -280,7 +304,19 @@
       "first_mention": "2026-05-11",
       "last_mention": "2026-05-11",
       "team": "Milwaukee Bucks",
-      "rank": 23
+      "rank": 25
+    },
+    {
+      "player": "Brandin Podziemski",
+      "score": 1.0,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-05-13",
+      "last_mention": "2026-05-13",
+      "team": "Golden State Warriors",
+      "rank": 26
     },
     {
       "player": "Evan Mobley",
@@ -292,7 +328,19 @@
       "first_mention": "2026-05-07",
       "last_mention": "2026-05-07",
       "team": "Cleveland Cavaliers",
-      "rank": 24
+      "rank": 27
+    },
+    {
+      "player": "Jalen Smith",
+      "score": 1.0,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-05-13",
+      "last_mention": "2026-05-13",
+      "team": "Chicago Bulls",
+      "rank": 28
     },
     {
       "player": "Kyle Kuzma",
@@ -304,7 +352,19 @@
       "first_mention": "2026-05-11",
       "last_mention": "2026-05-11",
       "team": "Milwaukee Bucks",
-      "rank": 25
+      "rank": 29
+    },
+    {
+      "player": "Naji Marshall",
+      "score": 1.0,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-05-13",
+      "last_mention": "2026-05-13",
+      "team": "Dallas Mavericks",
+      "rank": 30
     },
     {
       "player": "Nikola Jokic",
@@ -316,7 +376,7 @@
       "first_mention": "2026-05-08",
       "last_mention": "2026-05-08",
       "team": "Denver Nuggets",
-      "rank": 26
+      "rank": 31
     },
     {
       "player": "Paul George",
@@ -328,7 +388,19 @@
       "first_mention": "2026-05-11",
       "last_mention": "2026-05-11",
       "team": "Philadelphia 76ers",
-      "rank": 27
+      "rank": 32
+    },
+    {
+      "player": "Ryan Dunn",
+      "score": 1.0,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-05-13",
+      "last_mention": "2026-05-13",
+      "team": "Dallas Mavericks",
+      "rank": 33
     },
     {
       "player": "Trae Young",
@@ -340,7 +412,19 @@
       "first_mention": "2026-05-07",
       "last_mention": "2026-05-07",
       "team": "Atlanta Hawks",
-      "rank": 28
+      "rank": 34
+    },
+    {
+      "player": "Vit Krejci",
+      "score": 1.0,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-05-13",
+      "last_mention": "2026-05-13",
+      "team": "Philadelphia 76ers",
+      "rank": 35
     },
     {
       "player": "Donovan Mitchell",
@@ -352,31 +436,7 @@
       "first_mention": "2026-04-24",
       "last_mention": "2026-05-02",
       "team": "Cleveland Cavaliers",
-      "rank": 29
-    },
-    {
-      "player": "Paolo Banchero",
-      "score": 0.75,
-      "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 2,
-      "first_mention": "2026-04-17",
-      "last_mention": "2026-04-29",
-      "team": "Orlando Magic",
-      "rank": 30
-    },
-    {
-      "player": "Victor Wembanyama",
-      "score": 0.75,
-      "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 2,
-      "first_mention": "2026-04-27",
-      "last_mention": "2026-04-29",
-      "team": "San Antonio Spurs",
-      "rank": 31
+      "rank": 36
     },
     {
       "player": "Karl-Anthony Towns",
@@ -388,7 +448,31 @@
       "first_mention": "2026-04-23",
       "last_mention": "2026-04-24",
       "team": "New York Knicks",
-      "rank": 32
+      "rank": 37
+    },
+    {
+      "player": "Paolo Banchero",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 2,
+      "total_mentions": 2,
+      "first_mention": "2026-04-17",
+      "last_mention": "2026-04-29",
+      "team": "Orlando Magic",
+      "rank": 38
+    },
+    {
+      "player": "Victor Wembanyama",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 2,
+      "total_mentions": 2,
+      "first_mention": "2026-04-27",
+      "last_mention": "2026-04-29",
+      "team": "San Antonio Spurs",
+      "rank": 39
     },
     {
       "player": "Amen Thompson",
@@ -400,7 +484,7 @@
       "first_mention": "2026-05-04",
       "last_mention": "2026-05-04",
       "team": "Houston Rockets",
-      "rank": 33
+      "rank": 40
     },
     {
       "player": "Brandon Ingram",
@@ -412,7 +496,7 @@
       "first_mention": "2026-05-05",
       "last_mention": "2026-05-05",
       "team": "Toronto Raptors",
-      "rank": 34
+      "rank": 41
     },
     {
       "player": "CJ McCollum",
@@ -424,7 +508,7 @@
       "first_mention": "2026-05-02",
       "last_mention": "2026-05-02",
       "team": "Washington Wizards",
-      "rank": 35
+      "rank": 42
     },
     {
       "player": "Cameron Johnson",
@@ -436,7 +520,7 @@
       "first_mention": "2026-05-02",
       "last_mention": "2026-05-02",
       "team": "Denver Nuggets",
-      "rank": 36
+      "rank": 43
     },
     {
       "player": "Derrick White",
@@ -448,7 +532,7 @@
       "first_mention": "2026-05-03",
       "last_mention": "2026-05-03",
       "team": "Boston Celtics",
-      "rank": 37
+      "rank": 44
     },
     {
       "player": "Gradey Dick",
@@ -460,7 +544,7 @@
       "first_mention": "2026-05-05",
       "last_mention": "2026-05-05",
       "team": "Toronto Raptors",
-      "rank": 38
+      "rank": 45
     },
     {
       "player": "Jakob Poeltl",
@@ -472,7 +556,7 @@
       "first_mention": "2026-05-05",
       "last_mention": "2026-05-05",
       "team": "Toronto Raptors",
-      "rank": 39
+      "rank": 46
     },
     {
       "player": "Jalen Suggs",
@@ -484,7 +568,7 @@
       "first_mention": "2026-05-04",
       "last_mention": "2026-05-04",
       "team": "Orlando Magic",
-      "rank": 40
+      "rank": 47
     },
     {
       "player": "Jamal Murray",
@@ -496,7 +580,7 @@
       "first_mention": "2026-05-01",
       "last_mention": "2026-05-01",
       "team": "Denver Nuggets",
-      "rank": 41
+      "rank": 48
     },
     {
       "player": "Jaren Jackson Jr",
@@ -508,7 +592,7 @@
       "first_mention": "2026-05-05",
       "last_mention": "2026-05-05",
       "team": "Memphis Grizzlies",
-      "rank": 42
+      "rank": 49
     },
     {
       "player": "Jerami Grant",
@@ -520,7 +604,7 @@
       "first_mention": "2026-05-02",
       "last_mention": "2026-05-02",
       "team": "Dallas Mavericks",
-      "rank": 43
+      "rank": 50
     },
     {
       "player": "Jonathan Kuminga",
@@ -532,7 +616,7 @@
       "first_mention": "2026-05-02",
       "last_mention": "2026-05-02",
       "team": "Golden State Warriors",
-      "rank": 44
+      "rank": 51
     },
     {
       "player": "Keyonte George",
@@ -544,7 +628,7 @@
       "first_mention": "2026-04-30",
       "last_mention": "2026-04-30",
       "team": "Memphis Grizzlies",
-      "rank": 45
+      "rank": 52
     },
     {
       "player": "Luke Kennard",
@@ -556,7 +640,7 @@
       "first_mention": "2026-04-30",
       "last_mention": "2026-04-30",
       "team": "Los Angeles Lakers",
-      "rank": 46
+      "rank": 53
     },
     {
       "player": "Michael Porter",
@@ -568,7 +652,7 @@
       "first_mention": "2026-05-01",
       "last_mention": "2026-05-01",
       "team": "Denver Nuggets",
-      "rank": 47
+      "rank": 54
     },
     {
       "player": "Peyton Watson",
@@ -580,7 +664,7 @@
       "first_mention": "2026-05-02",
       "last_mention": "2026-05-02",
       "team": "Denver Nuggets",
-      "rank": 48
+      "rank": 55
     },
     {
       "player": "Reed Sheppard",
@@ -592,7 +676,7 @@
       "first_mention": "2026-05-04",
       "last_mention": "2026-05-04",
       "team": "Houston Rockets",
-      "rank": 49
+      "rank": 56
     },
     {
       "player": "Zaccharie Risacher",
@@ -604,7 +688,7 @@
       "first_mention": "2026-05-01",
       "last_mention": "2026-05-01",
       "team": "Atlanta Hawks",
-      "rank": 50
+      "rank": 57
     },
     {
       "player": "Ayo Dosunmu",
@@ -616,7 +700,7 @@
       "first_mention": "2026-04-27",
       "last_mention": "2026-04-27",
       "team": "Chicago Bulls",
-      "rank": 51
+      "rank": 58
     },
     {
       "player": "Bam Adebayo",
@@ -628,7 +712,7 @@
       "first_mention": "2026-04-27",
       "last_mention": "2026-04-27",
       "team": "Miami Heat",
-      "rank": 52
+      "rank": 59
     },
     {
       "player": "De'Aaron Fox",
@@ -640,19 +724,7 @@
       "first_mention": "2026-04-27",
       "last_mention": "2026-04-27",
       "team": "San Antonio Spurs",
-      "rank": 53
-    },
-    {
-      "player": "Donte DiVincenzo",
-      "score": 0.25,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 1,
-      "first_mention": "2026-04-24",
-      "last_mention": "2026-04-24",
-      "team": "Minnesota Timberwolves",
-      "rank": 54
+      "rank": 60
     },
     {
       "player": "Jimmy Butler",
@@ -664,7 +736,7 @@
       "first_mention": "2026-04-24",
       "last_mention": "2026-04-24",
       "team": "Golden State Warriors",
-      "rank": 55
+      "rank": 61
     },
     {
       "player": "Julius Randle",
@@ -676,7 +748,7 @@
       "first_mention": "2026-04-24",
       "last_mention": "2026-04-24",
       "team": "Minnesota Timberwolves",
-      "rank": 56
+      "rank": 62
     },
     {
       "player": "Myles Turner",
@@ -688,7 +760,7 @@
       "first_mention": "2026-04-17",
       "last_mention": "2026-04-17",
       "team": "Milwaukee Bucks",
-      "rank": 57
+      "rank": 63
     },
     {
       "player": "Rudy Gobert",
@@ -700,10 +772,138 @@
       "first_mention": "2026-04-27",
       "last_mention": "2026-04-27",
       "team": "Minnesota Timberwolves",
-      "rank": 58
+      "rank": 64
     }
   ],
   "player_rumors": {
+    "Jaylen Brown": [
+      {
+        "date": "2026-05-13",
+        "text": "Jaylen Brown: We all have different views of ourselves, different views from our parents, different views from people back home, different views from the organization, and it all might not be the reality of where you\u2019re at right now. So the problem, I think, sometimes is that patience and a plan or a strategy doesn\u2019t come into effect. It just thinks, \u2018I\u2019m supposed to get this right now.\u2019And at some point, maybe you make that decision where it\u2019s not going to work out here. Maybe I need to go somewhere else. Or maybe my reality in my brain is not the reality that I\u2019m living. But at some point, those decisions have to get made. For me, how I looked at it was: I\u2019m going to accept the role that they are offering me while knowing the role that I have for myself. I\u2019m going to do your role to perfection, but I\u2019m going to sneak my little one-two in there every chance I get. Basically, my strategy is: I\u2019m going to show the people.\u201dYouTube",
+        "text_html": "Jaylen Brown: We all have different views of ourselves, different views from our parents, different views from people back home, different views from the organization, and it all might not be the reality of where you\u2019re at right now. So the problem, I think, sometimes is that patience and a plan or a strategy doesn\u2019t come into effect. It just thinks, \u2018I\u2019m supposed to get this right now.\u2019 <a href=\"https://www.youtube.com/watch?v=LRdMWYEjfEA\" target=\"_blank\" style=\"color: #1a73e8;\">And at some point, maybe you make that decision where it\u2019s not going to work out here. Maybe I need to go somewhere else. Or maybe my reality in my brain is not the reality that I\u2019m living</a>. But at some point, those decisions have to get made. For me, how I looked at it was: I\u2019m going to accept the role that they are offering me while knowing the role that I have for myself. I\u2019m going to do your role to perfection, but I\u2019m going to sneak my little one-two in there every chance I get. Basically, my strategy is: I\u2019m going to show the people.\u201d",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=LRdMWYEjfEA"
+      },
+      {
+        "date": "2026-05-13",
+        "text": "Jake Fischer on Giannis Antetokounmpo: \u2018The Celtics have come out and said that they love Jaylen Brown and that they feel good about him. I do know that Boston made a call to the Bucks before February's trade deadline, butI do not think Boston ever loomed as a very serious suitor, and until I\u00a0hear\u00a0otherwise, I don't think they're necessarily going to be either.\u2019Bleacher Report",
+        "text_html": "Jake Fischer on Giannis Antetokounmpo: \u2018The Celtics have come out and said that they love Jaylen Brown and that they feel good about him. I do know that Boston made a call to the Bucks before February's trade deadline, but <a href=\"https://bleacherreport.com/videos/46c18aaf-3d22-44d7-bb36-c87e4dd001b4-new-post-lottery-nba-rumors\" target=\"_blank\" style=\"color: #1a73e8;\">I do not think Boston ever loomed as a very serious suitor, and until I hear otherwise, I don't think they're necessarily going to be either.\u2019</a>",
+        "outlet": "Bleacher Report",
+        "source_url": "https://bleacherreport.com/videos/46c18aaf-3d22-44d7-bb36-c87e4dd001b4-new-post-lottery-nba-rumors"
+      },
+      {
+        "date": "2026-05-10",
+        "text": "Chris Mannix: I wrote this week about the Atlanta Hawks. Jaylen is a Georgia native. Last offseason, the Celtics and Hawks did have a brief conversation about Jaylen Brown. It didn\u2019t really go anywhere.The Hawks were leery about the size of Brown\u2019s contract, which at the time was, I believe, the richest contract in NBA history. And they weren\u2019t really in a position to go all in. The Celtics were not looking to give Jaylen Brown away, either. So, it didn\u2019t go anywhere. But that\u2019s a team, given what happened this season, that I could see getting interested in Jaylen Brown. Again, the Miamis, the Houstons, Golden State \u2014 teams that are theoretically going to be in the mix for Giannis Antetokounmpo \u2014 could turn around and make a run at Jaylen Brown. So, I think that situation bears watching.YouTube",
+        "text_html": "Chris Mannix: I wrote this week about the Atlanta Hawks. Jaylen is a Georgia native. Last offseason, the Celtics and Hawks did have a brief conversation about Jaylen Brown. It didn\u2019t really go anywhere. <a href=\"https://www.youtube.com/watch?v=MR9h-MQlwOQ\" target=\"_blank\" style=\"color: #1a73e8;\">The Hawks were leery about the size of Brown\u2019s contract, which at the time was, I believe, the richest contract in NBA history. And they weren\u2019t really in a position to go all in. The Celtics were not looking to give Jaylen Brown away, either. So, it didn\u2019t go anywhere</a>. But that\u2019s a team, given what happened this season, that I could see getting interested in Jaylen Brown. Again, the Miamis, the Houstons, Golden State \u2014 teams that are theoretically going to be in the mix for Giannis Antetokounmpo \u2014 could turn around and make a run at Jaylen Brown. So, I think that situation bears watching.",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=MR9h-MQlwOQ"
+      },
+      {
+        "date": "2026-05-09",
+        "text": "Even before\u00a0Jaylen Brown sparked a conversation\u00a0about whether he still wants to be in Boston this week, when his online comments about this season being the \u201cfavorite season of his career\u201d were confusing at best and controversial at worst,league\u00a0sources\u00a0had pegged the Celtics as a team to watch on the Giannis Antetokounmpo front.New York Times",
+        "text_html": "Even before Jaylen Brown sparked a conversation about whether he still wants to be in Boston this week, when his online comments about this season being the \u201cfavorite season of his career\u201d were confusing at best and controversial at worst, <a href=\"https://www.nytimes.com/athletic/7265340/2026/05/09/giannis-antetokounmpo-trade-rumors-market-bucks-nba-offseason/\" target=\"_blank\" style=\"color: #1a73e8;\">league sources had pegged the Celtics as a team to watch on the Giannis Antetokounmpo front</a>.",
+        "outlet": "New York Times",
+        "source_url": "https://www.nytimes.com/athletic/7265340/2026/05/09/giannis-antetokounmpo-trade-rumors-market-bucks-nba-offseason/"
+      },
+      {
+        "date": "2026-05-09",
+        "text": "Yet there has been\u00a0significant pushback on this\u00a0growing\u00a0narrative\u00a0ever since, with Celtics president of basketball operations Brad Stevens telling reporters on Wednesday that he has no\u00a0knowledge\u00a0of Jaylen Brown being frustrated and Brown saying, \u201cIf it was up to me, I could play in Boston the next 10 years.\u201dA team\u00a0source\u00a0reiterated as much, indicating that there were no internal issues between the two sides. A league\u00a0source\u00a0close to Brown shared a similar message.New York Times",
+        "text_html": "Yet there has been significant pushback on this growing narrative ever since, with Celtics president of basketball operations Brad Stevens telling reporters on Wednesday that he has no knowledge of Jaylen Brown being frustrated and Brown saying, \u201cIf it was up to me, I could play in Boston the next 10 years.\u201d <a href=\"https://www.nytimes.com/athletic/7265340/2026/05/09/giannis-antetokounmpo-trade-rumors-market-bucks-nba-offseason/\" target=\"_blank\" style=\"color: #1a73e8;\">A team source reiterated as much, indicating that there were no internal issues between the two sides. A league source close to Brown shared a similar message</a>.",
+        "outlet": "New York Times",
+        "source_url": "https://www.nytimes.com/athletic/7265340/2026/05/09/giannis-antetokounmpo-trade-rumors-market-bucks-nba-offseason/"
+      },
+      {
+        "date": "2026-05-07",
+        "text": "If \u2014 and I want to stress that this is a hypothetical \u2014 any Brown-for-Antetokounmpo conversation actually does materialize in the future, multiple rival team strategists this week suggested that the likely appeal for Milwaukee, in addition to draft capital from the Celtics, would be to move Brown on or expand such a deal into a multi-team transaction.There certainly isn't much logic, when you think about it, for Milwaukee to try to build around Brown as he nears 30 if the Celtics have just paired Antetokounmpo with Tatum. You wouldn't part with the greatest player in franchise history not named Kareem Abdul-Jabbar just to try to be a mere playoff team.marcstein.substack.com",
+        "text_html": "<a href=\"https://marcstein.substack.com/p/the-nbas-latest-trade-rumbles-coaching?utm_campaign=email-post&r=3shtjf&token=eyJ1c2VyX2lkIjoyMjkyNTkyMTEsInBvc3RfaWQiOjE5Njc4OTc3NCwiaWF0IjoxNzc4MTcyMzYxLCJleHAiOjE3ODA3NjQzNjEsImlzcyI6InB1Yi0zOTIyMDUiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.rs2f008Ps-oy-aDawZnlkPp69amVJ9-Rm1gSK8NtZ_M&utm_source=substack&utm_medium=email\" target=\"_blank\" style=\"color: #1a73e8;\">If \u2014 and I want to stress that this is a hypothetical \u2014 any Brown-for-Antetokounmpo conversation actually does materialize in the future, multiple rival team strategists this week suggested that the likely appeal for Milwaukee, in addition to draft capital from the Celtics, would be to move Brown on or expand such a deal into a multi-team transaction.</a> There certainly isn't much logic, when you think about it, for Milwaukee to try to build around Brown as he nears 30 if the Celtics have just paired Antetokounmpo with Tatum. You wouldn't part with the greatest player in franchise history not named Kareem Abdul-Jabbar just to try to be a mere playoff team.",
+        "outlet": "marcstein.substack.com",
+        "source_url": "https://marcstein.substack.com/p/the-nbas-latest-trade-rumbles-coaching?utm_campaign=email-post&r=3shtjf&token=eyJ1c2VyX2lkIjoyMjkyNTkyMTEsInBvc3RfaWQiOjE5Njc4OTc3NCwiaWF0IjoxNzc4MTcyMzYxLCJleHAiOjE3ODA3NjQzNjEsImlzcyI6InB1Yi0zOTIyMDUiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.rs2f008Ps-oy-aDawZnlkPp69amVJ9-Rm1gSK8NtZ_M&utm_source=substack&utm_medium=email"
+      },
+      {
+        "date": "2026-05-07",
+        "text": "\u201cHe has not expressed those frustrations to me,\u201d Stevens said of Jaylen Brown. \u201cWe\u2019ve been here 10 years together, and I do think that, obviously, I love JB, and everybody around here loves JB, and I think just like any of our other guys, as we get to the end of the season, I\u2019ll be here, and my door is always open. And if anybody ever wants to come in and talk about it, and talk about their team, their place, whatever the case may be, I\u2019m all ears. \u201cI think it\u2019s really important to be available,\u201d Stevens said. \u201cSo I certainly am, and none of that has been expressed to me.\u201d In this case, it\u2019s possible Stevens is doing some dancing.But if Brown hasn\u2019t\u00a0spoken\u00a0directly to Stevens \u2014 or if he\u2019s using his representation to do the talking \u2014 then, well, the door is open. There\u2019s lots that can be read into that comment, such as: Brown has no\u00a0interest\u00a0in sharing another Celtics season as part of a 1-2 punch alongside Jayson Tatum.New York Times",
+        "text_html": "\u201cHe has not expressed those frustrations to me,\u201d Stevens said of Jaylen Brown. \u201cWe\u2019ve been here 10 years together, and I do think that, obviously, I love JB, and everybody around here loves JB, and I think just like any of our other guys, as we get to the end of the season, I\u2019ll be here, and my door is always open. And if anybody ever wants to come in and talk about it, and talk about their team, their place, whatever the case may be, I\u2019m all ears. \u201cI think it\u2019s really important to be available,\u201d Stevens said. \u201cSo I certainly am, and none of that has been expressed to me.\u201d In this case, it\u2019s possible Stevens is doing some dancing. <a href=\"https://www.nytimes.com/athletic/7259362/2026/05/07/celtics-nba-offseason-brad-stevens/\" target=\"_blank\" style=\"color: #1a73e8;\">But if Brown hasn\u2019t spoken directly to Stevens \u2014 or if he\u2019s using his representation to do the talking \u2014 then, well, the door is open. There\u2019s lots that can be read into that comment, such as: Brown has no interest in sharing another Celtics season as part of a 1-2 punch alongside Jayson Tatum</a>.",
+        "outlet": "New York Times",
+        "source_url": "https://www.nytimes.com/athletic/7259362/2026/05/07/celtics-nba-offseason-brad-stevens/"
+      },
+      {
+        "date": "2026-05-05",
+        "text": "Draymond Green:\u201cThe big question is: what\u2019s next for this Boston team? Is it the end of the Jaylen Brown\u2013Jayson Tatum era? I would say no. I don\u2019t think it\u2019s the end of their era. Look at the success they had this year with Jayson Tatum out most of the year, and then with Jayson Tatum coming back and them having success, ultimately getting ahead to a 3-1 lead. Obviously, they squandered the lead away, but you got right where you wanted to be.YouTube",
+        "text_html": "Draymond Green: <a href=\"https://www.youtube.com/watch?v=_bL2_x04_DM\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cThe big question is: what\u2019s next for this Boston team? Is it the end of the Jaylen Brown\u2013Jayson Tatum era? I would say no. I don\u2019t think it\u2019s the end of their era</a>. Look at the success they had this year with Jayson Tatum out most of the year, and then with Jayson Tatum coming back and them having success, ultimately getting ahead to a 3-1 lead. Obviously, they squandered the lead away, but you got right where you wanted to be.",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=_bL2_x04_DM"
+      }
+    ],
+    "Donte DiVincenzo": [
+      {
+        "date": "2026-05-13",
+        "text": "Among other players the source said the Sixers made runs at, unsuccessfully:Naji Marshall of the Dallas Mavericks, Donte DiVincenzo of the Minnesota Timberwolves, Brandin Podziemski of the Golden State Warriors and Ryan Dunn of the Phoenix Suns.None of those players were moved.Philly Voice",
+        "text_html": "Among other players the source said the Sixers made runs at, unsuccessfully: <a href=\"https://www.phillyvoice.com/sixers-news-analysis-daryl-morey-jared-mccain-trade-deadline-results-nba-rumors-joel-embiid-contract-paul-george-nba/\" target=\"_blank\" style=\"color: #1a73e8;\">Naji Marshall of the Dallas Mavericks, Donte DiVincenzo of the Minnesota Timberwolves, Brandin Podziemski of the Golden State Warriors and Ryan Dunn of the Phoenix Suns.</a> None of those players were moved.",
+        "outlet": "Philly Voice",
+        "source_url": "https://www.phillyvoice.com/sixers-news-analysis-daryl-morey-jared-mccain-trade-deadline-results-nba-rumors-joel-embiid-contract-paul-george-nba/"
+      },
+      {
+        "date": "2026-04-24",
+        "text": "I spoke about all this with Donte DiVincenzo earlier this season and he\u00a0told\u00a0me that his move to Sacramento was considered such a certainty that he and his girlfriend had already begun receiving videos of Sacramento-area homes from a realtor in the name of \"trying to get acclimated.\" He had also learned at the time that Antetokounmpo's brother Thanasis was heading a backchannel recruiting effort to convince Bogdanovi\u0107 that playing in Milwaukee with Giannis was the optimal next step in his career.\"I was the first domino,\" DiVicenzo\u00a0told\u00a0The Stein Line.marcstein.substack.com",
+        "text_html": "I spoke about all this with Donte DiVincenzo earlier this season and he told me that his move to Sacramento was considered such a certainty that he and his girlfriend had already begun receiving videos of Sacramento-area homes from a realtor in the name of \"trying to get acclimated.\" He had also learned at the time that Antetokounmpo's brother Thanasis was heading a backchannel recruiting effort to convince Bogdanovi\u0107 that playing in Milwaukee with Giannis was the optimal next step in his career. <a href=\"https://marcstein.substack.com/p/nickeil-alexander-walker-donte-divincenzo\" target=\"_blank\" style=\"color: #1a73e8;\">\"I was the first domino,\" DiVicenzo told The Stein Line</a>.",
+        "outlet": "marcstein.substack.com",
+        "source_url": "https://marcstein.substack.com/p/nickeil-alexander-walker-donte-divincenzo"
+      }
+    ],
+    "Naji Marshall": [
+      {
+        "date": "2026-05-13",
+        "text": "Among other players the source said the Sixers made runs at, unsuccessfully:Naji Marshall of the Dallas Mavericks, Donte DiVincenzo of the Minnesota Timberwolves, Brandin Podziemski of the Golden State Warriors and Ryan Dunn of the Phoenix Suns.None of those players were moved.Philly Voice",
+        "text_html": "Among other players the source said the Sixers made runs at, unsuccessfully: <a href=\"https://www.phillyvoice.com/sixers-news-analysis-daryl-morey-jared-mccain-trade-deadline-results-nba-rumors-joel-embiid-contract-paul-george-nba/\" target=\"_blank\" style=\"color: #1a73e8;\">Naji Marshall of the Dallas Mavericks, Donte DiVincenzo of the Minnesota Timberwolves, Brandin Podziemski of the Golden State Warriors and Ryan Dunn of the Phoenix Suns.</a> None of those players were moved.",
+        "outlet": "Philly Voice",
+        "source_url": "https://www.phillyvoice.com/sixers-news-analysis-daryl-morey-jared-mccain-trade-deadline-results-nba-rumors-joel-embiid-contract-paul-george-nba/"
+      }
+    ],
+    "Brandin Podziemski": [
+      {
+        "date": "2026-05-13",
+        "text": "Among other players the source said the Sixers made runs at, unsuccessfully:Naji Marshall of the Dallas Mavericks, Donte DiVincenzo of the Minnesota Timberwolves, Brandin Podziemski of the Golden State Warriors and Ryan Dunn of the Phoenix Suns.None of those players were moved.Philly Voice",
+        "text_html": "Among other players the source said the Sixers made runs at, unsuccessfully: <a href=\"https://www.phillyvoice.com/sixers-news-analysis-daryl-morey-jared-mccain-trade-deadline-results-nba-rumors-joel-embiid-contract-paul-george-nba/\" target=\"_blank\" style=\"color: #1a73e8;\">Naji Marshall of the Dallas Mavericks, Donte DiVincenzo of the Minnesota Timberwolves, Brandin Podziemski of the Golden State Warriors and Ryan Dunn of the Phoenix Suns.</a> None of those players were moved.",
+        "outlet": "Philly Voice",
+        "source_url": "https://www.phillyvoice.com/sixers-news-analysis-daryl-morey-jared-mccain-trade-deadline-results-nba-rumors-joel-embiid-contract-paul-george-nba/"
+      }
+    ],
+    "Ryan Dunn": [
+      {
+        "date": "2026-05-13",
+        "text": "Among other players the source said the Sixers made runs at, unsuccessfully:Naji Marshall of the Dallas Mavericks, Donte DiVincenzo of the Minnesota Timberwolves, Brandin Podziemski of the Golden State Warriors and Ryan Dunn of the Phoenix Suns.None of those players were moved.Philly Voice",
+        "text_html": "Among other players the source said the Sixers made runs at, unsuccessfully: <a href=\"https://www.phillyvoice.com/sixers-news-analysis-daryl-morey-jared-mccain-trade-deadline-results-nba-rumors-joel-embiid-contract-paul-george-nba/\" target=\"_blank\" style=\"color: #1a73e8;\">Naji Marshall of the Dallas Mavericks, Donte DiVincenzo of the Minnesota Timberwolves, Brandin Podziemski of the Golden State Warriors and Ryan Dunn of the Phoenix Suns.</a> None of those players were moved.",
+        "outlet": "Philly Voice",
+        "source_url": "https://www.phillyvoice.com/sixers-news-analysis-daryl-morey-jared-mccain-trade-deadline-results-nba-rumors-joel-embiid-contract-paul-george-nba/"
+      }
+    ],
+    "Jalen Smith": [
+      {
+        "date": "2026-05-13",
+        "text": "The Sixers, the source said, offered the Chicago Bulls multiple second-round picks for reserve big man Jalen Smith; Chicago held onto him. Their primary target, PhillyVoice learned, was Aaron Wiggins, one of Oklahoma City's many trusted reserves.There was hope that the talks with the Thunder about McCain could lead to a deal also involving Wiggins \u2013 the Sixers would have needed to send out multiple other players in the process \u2013 but ultimately the deal ended up centering around McCain, with Wiggins staying put in Oklahoma City, where he has recently fallen out of the rotation thanks in part to McCain's arrival.Philly Voice",
+        "text_html": "<a href=\"https://www.phillyvoice.com/sixers-news-analysis-daryl-morey-jared-mccain-trade-deadline-results-nba-rumors-joel-embiid-contract-paul-george-nba/\" target=\"_blank\" style=\"color: #1a73e8;\">The Sixers, the source said, offered the Chicago Bulls multiple second-round picks for reserve big man Jalen Smith; Chicago held onto him. Their primary target, PhillyVoice learned, was Aaron Wiggins, one of Oklahoma City's many trusted reserves.</a> There was hope that the talks with the Thunder about McCain could lead to a deal also involving Wiggins \u2013 the Sixers would have needed to send out multiple other players in the process \u2013 but ultimately the deal ended up centering around McCain, with Wiggins staying put in Oklahoma City, where he has recently fallen out of the rotation thanks in part to McCain's arrival.",
+        "outlet": "Philly Voice",
+        "source_url": "https://www.phillyvoice.com/sixers-news-analysis-daryl-morey-jared-mccain-trade-deadline-results-nba-rumors-joel-embiid-contract-paul-george-nba/"
+      }
+    ],
+    "Aaron Wiggins": [
+      {
+        "date": "2026-05-13",
+        "text": "The Sixers, the source said, offered the Chicago Bulls multiple second-round picks for reserve big man Jalen Smith; Chicago held onto him. Their primary target, PhillyVoice learned, was Aaron Wiggins, one of Oklahoma City's many trusted reserves.There was hope that the talks with the Thunder about McCain could lead to a deal also involving Wiggins \u2013 the Sixers would have needed to send out multiple other players in the process \u2013 but ultimately the deal ended up centering around McCain, with Wiggins staying put in Oklahoma City, where he has recently fallen out of the rotation thanks in part to McCain's arrival.Philly Voice",
+        "text_html": "<a href=\"https://www.phillyvoice.com/sixers-news-analysis-daryl-morey-jared-mccain-trade-deadline-results-nba-rumors-joel-embiid-contract-paul-george-nba/\" target=\"_blank\" style=\"color: #1a73e8;\">The Sixers, the source said, offered the Chicago Bulls multiple second-round picks for reserve big man Jalen Smith; Chicago held onto him. Their primary target, PhillyVoice learned, was Aaron Wiggins, one of Oklahoma City's many trusted reserves.</a> There was hope that the talks with the Thunder about McCain could lead to a deal also involving Wiggins \u2013 the Sixers would have needed to send out multiple other players in the process \u2013 but ultimately the deal ended up centering around McCain, with Wiggins staying put in Oklahoma City, where he has recently fallen out of the rotation thanks in part to McCain's arrival.",
+        "outlet": "Philly Voice",
+        "source_url": "https://www.phillyvoice.com/sixers-news-analysis-daryl-morey-jared-mccain-trade-deadline-results-nba-rumors-joel-embiid-contract-paul-george-nba/"
+      }
+    ],
+    "Vit Krejci": [
+      {
+        "date": "2026-05-13",
+        "text": "Krej\u010d\u00ed would certainly not have been a \"needle-mover\" \u2013 he was not a playoff rotation player for Portland \u2013 but he would have represented a new lever Nurse could pull.He would have given the Sixers a bit more optionality on the wing and some much-needed three-point shooting. But the Sixers misread Krej\u010d\u00ed's market and, in turn, mistimed their efforts to acquire him, the source said. When the deadline came and went without the Sixers adding a single player to their roster, that relatively minor miscue probably stung more than it typically might.Philly Voice",
+        "text_html": "<a href=\"https://www.phillyvoice.com/sixers-news-analysis-daryl-morey-jared-mccain-trade-deadline-results-nba-rumors-joel-embiid-contract-paul-george-nba/\" target=\"_blank\" style=\"color: #1a73e8;\">Krej\u010d\u00ed would certainly not have been a \"needle-mover\" \u2013 he was not a playoff rotation player for Portland \u2013 but he would have represented a new lever Nurse could pull.</a> He would have given the Sixers a bit more optionality on the wing and some much-needed three-point shooting. But the Sixers misread Krej\u010d\u00ed's market and, in turn, mistimed their efforts to acquire him, the source said. When the deadline came and went without the Sixers adding a single player to their roster, that relatively minor miscue probably stung more than it typically might.",
+        "outlet": "Philly Voice",
+        "source_url": "https://www.phillyvoice.com/sixers-news-analysis-daryl-morey-jared-mccain-trade-deadline-results-nba-rumors-joel-embiid-contract-paul-george-nba/"
+      }
+    ],
     "Kevin Durant": [
       {
         "date": "2026-05-13",
@@ -1067,57 +1267,6 @@
         "text_html": "Myles Turner: So, it\u2019ll be a very interesting offseason. I don\u2019t have any idea what\u2019s going to happen. These exit meetings are going to be interesting. <a href=\"https://www.youtube.com/watch?v=MQ74bssZBvM\" target=\"_blank\" style=\"color: #1a73e8;\">I literally have no idea the direction of our team \u2014 even if Doc will be here next year, if Giannis will be here next year, what our ownership is doing. So, I\u2019m literally just kind of floating right now.\u201d</a>",
         "outlet": "YouTube",
         "source_url": "https://www.youtube.com/watch?v=MQ74bssZBvM"
-      }
-    ],
-    "Jaylen Brown": [
-      {
-        "date": "2026-05-13",
-        "text": "Jake Fischer on Giannis Antetokounmpo: \u2018The Celtics have come out and said that they love Jaylen Brown and that they feel good about him. I do know that Boston made a call to the Bucks before February's trade deadline, butI do not think Boston ever loomed as a very serious suitor, and until I\u00a0hear\u00a0otherwise, I don't think they're necessarily going to be either.\u2019Bleacher Report",
-        "text_html": "Jake Fischer on Giannis Antetokounmpo: \u2018The Celtics have come out and said that they love Jaylen Brown and that they feel good about him. I do know that Boston made a call to the Bucks before February's trade deadline, but <a href=\"https://bleacherreport.com/videos/46c18aaf-3d22-44d7-bb36-c87e4dd001b4-new-post-lottery-nba-rumors\" target=\"_blank\" style=\"color: #1a73e8;\">I do not think Boston ever loomed as a very serious suitor, and until I hear otherwise, I don't think they're necessarily going to be either.\u2019</a>",
-        "outlet": "Bleacher Report",
-        "source_url": "https://bleacherreport.com/videos/46c18aaf-3d22-44d7-bb36-c87e4dd001b4-new-post-lottery-nba-rumors"
-      },
-      {
-        "date": "2026-05-10",
-        "text": "Chris Mannix: I wrote this week about the Atlanta Hawks. Jaylen is a Georgia native. Last offseason, the Celtics and Hawks did have a brief conversation about Jaylen Brown. It didn\u2019t really go anywhere.The Hawks were leery about the size of Brown\u2019s contract, which at the time was, I believe, the richest contract in NBA history. And they weren\u2019t really in a position to go all in. The Celtics were not looking to give Jaylen Brown away, either. So, it didn\u2019t go anywhere. But that\u2019s a team, given what happened this season, that I could see getting interested in Jaylen Brown. Again, the Miamis, the Houstons, Golden State \u2014 teams that are theoretically going to be in the mix for Giannis Antetokounmpo \u2014 could turn around and make a run at Jaylen Brown. So, I think that situation bears watching.YouTube",
-        "text_html": "Chris Mannix: I wrote this week about the Atlanta Hawks. Jaylen is a Georgia native. Last offseason, the Celtics and Hawks did have a brief conversation about Jaylen Brown. It didn\u2019t really go anywhere. <a href=\"https://www.youtube.com/watch?v=MR9h-MQlwOQ\" target=\"_blank\" style=\"color: #1a73e8;\">The Hawks were leery about the size of Brown\u2019s contract, which at the time was, I believe, the richest contract in NBA history. And they weren\u2019t really in a position to go all in. The Celtics were not looking to give Jaylen Brown away, either. So, it didn\u2019t go anywhere</a>. But that\u2019s a team, given what happened this season, that I could see getting interested in Jaylen Brown. Again, the Miamis, the Houstons, Golden State \u2014 teams that are theoretically going to be in the mix for Giannis Antetokounmpo \u2014 could turn around and make a run at Jaylen Brown. So, I think that situation bears watching.",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=MR9h-MQlwOQ"
-      },
-      {
-        "date": "2026-05-09",
-        "text": "Even before\u00a0Jaylen Brown sparked a conversation\u00a0about whether he still wants to be in Boston this week, when his online comments about this season being the \u201cfavorite season of his career\u201d were confusing at best and controversial at worst,league\u00a0sources\u00a0had pegged the Celtics as a team to watch on the Giannis Antetokounmpo front.New York Times",
-        "text_html": "Even before Jaylen Brown sparked a conversation about whether he still wants to be in Boston this week, when his online comments about this season being the \u201cfavorite season of his career\u201d were confusing at best and controversial at worst, <a href=\"https://www.nytimes.com/athletic/7265340/2026/05/09/giannis-antetokounmpo-trade-rumors-market-bucks-nba-offseason/\" target=\"_blank\" style=\"color: #1a73e8;\">league sources had pegged the Celtics as a team to watch on the Giannis Antetokounmpo front</a>.",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/7265340/2026/05/09/giannis-antetokounmpo-trade-rumors-market-bucks-nba-offseason/"
-      },
-      {
-        "date": "2026-05-09",
-        "text": "Yet there has been\u00a0significant pushback on this\u00a0growing\u00a0narrative\u00a0ever since, with Celtics president of basketball operations Brad Stevens telling reporters on Wednesday that he has no\u00a0knowledge\u00a0of Jaylen Brown being frustrated and Brown saying, \u201cIf it was up to me, I could play in Boston the next 10 years.\u201dA team\u00a0source\u00a0reiterated as much, indicating that there were no internal issues between the two sides. A league\u00a0source\u00a0close to Brown shared a similar message.New York Times",
-        "text_html": "Yet there has been significant pushback on this growing narrative ever since, with Celtics president of basketball operations Brad Stevens telling reporters on Wednesday that he has no knowledge of Jaylen Brown being frustrated and Brown saying, \u201cIf it was up to me, I could play in Boston the next 10 years.\u201d <a href=\"https://www.nytimes.com/athletic/7265340/2026/05/09/giannis-antetokounmpo-trade-rumors-market-bucks-nba-offseason/\" target=\"_blank\" style=\"color: #1a73e8;\">A team source reiterated as much, indicating that there were no internal issues between the two sides. A league source close to Brown shared a similar message</a>.",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/7265340/2026/05/09/giannis-antetokounmpo-trade-rumors-market-bucks-nba-offseason/"
-      },
-      {
-        "date": "2026-05-07",
-        "text": "If \u2014 and I want to stress that this is a hypothetical \u2014 any Brown-for-Antetokounmpo conversation actually does materialize in the future, multiple rival team strategists this week suggested that the likely appeal for Milwaukee, in addition to draft capital from the Celtics, would be to move Brown on or expand such a deal into a multi-team transaction.There certainly isn't much logic, when you think about it, for Milwaukee to try to build around Brown as he nears 30 if the Celtics have just paired Antetokounmpo with Tatum. You wouldn't part with the greatest player in franchise history not named Kareem Abdul-Jabbar just to try to be a mere playoff team.marcstein.substack.com",
-        "text_html": "<a href=\"https://marcstein.substack.com/p/the-nbas-latest-trade-rumbles-coaching?utm_campaign=email-post&r=3shtjf&token=eyJ1c2VyX2lkIjoyMjkyNTkyMTEsInBvc3RfaWQiOjE5Njc4OTc3NCwiaWF0IjoxNzc4MTcyMzYxLCJleHAiOjE3ODA3NjQzNjEsImlzcyI6InB1Yi0zOTIyMDUiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.rs2f008Ps-oy-aDawZnlkPp69amVJ9-Rm1gSK8NtZ_M&utm_source=substack&utm_medium=email\" target=\"_blank\" style=\"color: #1a73e8;\">If \u2014 and I want to stress that this is a hypothetical \u2014 any Brown-for-Antetokounmpo conversation actually does materialize in the future, multiple rival team strategists this week suggested that the likely appeal for Milwaukee, in addition to draft capital from the Celtics, would be to move Brown on or expand such a deal into a multi-team transaction.</a> There certainly isn't much logic, when you think about it, for Milwaukee to try to build around Brown as he nears 30 if the Celtics have just paired Antetokounmpo with Tatum. You wouldn't part with the greatest player in franchise history not named Kareem Abdul-Jabbar just to try to be a mere playoff team.",
-        "outlet": "marcstein.substack.com",
-        "source_url": "https://marcstein.substack.com/p/the-nbas-latest-trade-rumbles-coaching?utm_campaign=email-post&r=3shtjf&token=eyJ1c2VyX2lkIjoyMjkyNTkyMTEsInBvc3RfaWQiOjE5Njc4OTc3NCwiaWF0IjoxNzc4MTcyMzYxLCJleHAiOjE3ODA3NjQzNjEsImlzcyI6InB1Yi0zOTIyMDUiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.rs2f008Ps-oy-aDawZnlkPp69amVJ9-Rm1gSK8NtZ_M&utm_source=substack&utm_medium=email"
-      },
-      {
-        "date": "2026-05-07",
-        "text": "\u201cHe has not expressed those frustrations to me,\u201d Stevens said of Jaylen Brown. \u201cWe\u2019ve been here 10 years together, and I do think that, obviously, I love JB, and everybody around here loves JB, and I think just like any of our other guys, as we get to the end of the season, I\u2019ll be here, and my door is always open. And if anybody ever wants to come in and talk about it, and talk about their team, their place, whatever the case may be, I\u2019m all ears. \u201cI think it\u2019s really important to be available,\u201d Stevens said. \u201cSo I certainly am, and none of that has been expressed to me.\u201d In this case, it\u2019s possible Stevens is doing some dancing.But if Brown hasn\u2019t\u00a0spoken\u00a0directly to Stevens \u2014 or if he\u2019s using his representation to do the talking \u2014 then, well, the door is open. There\u2019s lots that can be read into that comment, such as: Brown has no\u00a0interest\u00a0in sharing another Celtics season as part of a 1-2 punch alongside Jayson Tatum.New York Times",
-        "text_html": "\u201cHe has not expressed those frustrations to me,\u201d Stevens said of Jaylen Brown. \u201cWe\u2019ve been here 10 years together, and I do think that, obviously, I love JB, and everybody around here loves JB, and I think just like any of our other guys, as we get to the end of the season, I\u2019ll be here, and my door is always open. And if anybody ever wants to come in and talk about it, and talk about their team, their place, whatever the case may be, I\u2019m all ears. \u201cI think it\u2019s really important to be available,\u201d Stevens said. \u201cSo I certainly am, and none of that has been expressed to me.\u201d In this case, it\u2019s possible Stevens is doing some dancing. <a href=\"https://www.nytimes.com/athletic/7259362/2026/05/07/celtics-nba-offseason-brad-stevens/\" target=\"_blank\" style=\"color: #1a73e8;\">But if Brown hasn\u2019t spoken directly to Stevens \u2014 or if he\u2019s using his representation to do the talking \u2014 then, well, the door is open. There\u2019s lots that can be read into that comment, such as: Brown has no interest in sharing another Celtics season as part of a 1-2 punch alongside Jayson Tatum</a>.",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/7259362/2026/05/07/celtics-nba-offseason-brad-stevens/"
-      },
-      {
-        "date": "2026-05-05",
-        "text": "Draymond Green:\u201cThe big question is: what\u2019s next for this Boston team? Is it the end of the Jaylen Brown\u2013Jayson Tatum era? I would say no. I don\u2019t think it\u2019s the end of their era. Look at the success they had this year with Jayson Tatum out most of the year, and then with Jayson Tatum coming back and them having success, ultimately getting ahead to a 3-1 lead. Obviously, they squandered the lead away, but you got right where you wanted to be.YouTube",
-        "text_html": "Draymond Green: <a href=\"https://www.youtube.com/watch?v=_bL2_x04_DM\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cThe big question is: what\u2019s next for this Boston team? Is it the end of the Jaylen Brown\u2013Jayson Tatum era? I would say no. I don\u2019t think it\u2019s the end of their era</a>. Look at the success they had this year with Jayson Tatum out most of the year, and then with Jayson Tatum coming back and them having success, ultimately getting ahead to a 3-1 lead. Obviously, they squandered the lead away, but you got right where you wanted to be.",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=_bL2_x04_DM"
       }
     ],
     "Ivica Zubac": [
@@ -1999,15 +2148,6 @@
         "source_url": "https://www.espn.com/nba/story/_/id/48552647/nba-playoffs-2026-karl-anthony-towns-knicks-stakes-heading-game-3-hawks"
       }
     ],
-    "Donte DiVincenzo": [
-      {
-        "date": "2026-04-24",
-        "text": "I spoke about all this with Donte DiVincenzo earlier this season and he\u00a0told\u00a0me that his move to Sacramento was considered such a certainty that he and his girlfriend had already begun receiving videos of Sacramento-area homes from a realtor in the name of \"trying to get acclimated.\" He had also learned at the time that Antetokounmpo's brother Thanasis was heading a backchannel recruiting effort to convince Bogdanovi\u0107 that playing in Milwaukee with Giannis was the optimal next step in his career.\"I was the first domino,\" DiVicenzo\u00a0told\u00a0The Stein Line.marcstein.substack.com",
-        "text_html": "I spoke about all this with Donte DiVincenzo earlier this season and he told me that his move to Sacramento was considered such a certainty that he and his girlfriend had already begun receiving videos of Sacramento-area homes from a realtor in the name of \"trying to get acclimated.\" He had also learned at the time that Antetokounmpo's brother Thanasis was heading a backchannel recruiting effort to convince Bogdanovi\u0107 that playing in Milwaukee with Giannis was the optimal next step in his career. <a href=\"https://marcstein.substack.com/p/nickeil-alexander-walker-donte-divincenzo\" target=\"_blank\" style=\"color: #1a73e8;\">\"I was the first domino,\" DiVicenzo told The Stein Line</a>.",
-        "outlet": "marcstein.substack.com",
-        "source_url": "https://marcstein.substack.com/p/nickeil-alexander-walker-donte-divincenzo"
-      }
-    ],
     "Myles Turner": [
       {
         "date": "2026-04-17",
@@ -2019,6 +2159,35 @@
     ]
   },
   "daily_counts": {
+    "Jaylen Brown": {
+      "2026-05-13": 2,
+      "2026-05-10": 1,
+      "2026-05-09": 2,
+      "2026-05-07": 2,
+      "2026-05-05": 1
+    },
+    "Donte DiVincenzo": {
+      "2026-05-13": 1,
+      "2026-04-24": 1
+    },
+    "Naji Marshall": {
+      "2026-05-13": 1
+    },
+    "Brandin Podziemski": {
+      "2026-05-13": 1
+    },
+    "Ryan Dunn": {
+      "2026-05-13": 1
+    },
+    "Jalen Smith": {
+      "2026-05-13": 1
+    },
+    "Aaron Wiggins": {
+      "2026-05-13": 1
+    },
+    "Vit Krejci": {
+      "2026-05-13": 1
+    },
     "Kevin Durant": {
       "2026-05-13": 1,
       "2026-05-04": 1,
@@ -2048,13 +2217,6 @@
       "2026-04-20": 2,
       "2026-04-18": 4,
       "2026-04-17": 3
-    },
-    "Jaylen Brown": {
-      "2026-05-13": 1,
-      "2026-05-10": 1,
-      "2026-05-09": 2,
-      "2026-05-07": 2,
-      "2026-05-05": 1
     },
     "Ivica Zubac": {
       "2026-05-13": 1,
@@ -2249,9 +2411,6 @@
     "Karl-Anthony Towns": {
       "2026-04-24": 1,
       "2026-04-23": 1
-    },
-    "Donte DiVincenzo": {
-      "2026-04-24": 1
     },
     "Myles Turner": {
       "2026-04-17": 1
