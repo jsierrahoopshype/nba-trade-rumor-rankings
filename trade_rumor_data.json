@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-14T04:42:24.775753",
+  "generated_at": "2026-05-14T15:11:59.575419",
   "scrape_window_days": 28,
   "window_start": "2026-04-16",
   "window_end": "2026-05-14",
-  "total_rumors": 179,
+  "total_rumors": 183,
   "total_players": 64,
   "rankings": [
     {
@@ -31,6 +31,18 @@
       "rank": 2
     },
     {
+      "player": "Kawhi Leonard",
+      "score": 4.5,
+      "mentions_week1": 3,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 4,
+      "total_mentions": 8,
+      "first_mention": "2026-04-17",
+      "last_mention": "2026-05-14",
+      "team": "Los Angeles Clippers",
+      "rank": 3
+    },
+    {
       "player": "Anthony Davis",
       "score": 4.0,
       "mentions_week1": 1,
@@ -40,7 +52,19 @@
       "first_mention": "2026-04-20",
       "last_mention": "2026-05-07",
       "team": "Dallas Mavericks",
-      "rank": 3
+      "rank": 4
+    },
+    {
+      "player": "Draymond Green",
+      "score": 4.0,
+      "mentions_week1": 3,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 2,
+      "total_mentions": 6,
+      "first_mention": "2026-04-20",
+      "last_mention": "2026-05-14",
+      "team": "Golden State Warriors",
+      "rank": 5
     },
     {
       "player": "Ja Morant",
@@ -52,7 +76,7 @@
       "first_mention": "2026-04-16",
       "last_mention": "2026-05-11",
       "team": "Memphis Grizzlies",
-      "rank": 4
+      "rank": 6
     },
     {
       "player": "LeBron James",
@@ -64,30 +88,6 @@
       "first_mention": "2026-04-20",
       "last_mention": "2026-05-12",
       "team": "Los Angeles Lakers",
-      "rank": 5
-    },
-    {
-      "player": "Kawhi Leonard",
-      "score": 3.5,
-      "mentions_week1": 2,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 4,
-      "total_mentions": 7,
-      "first_mention": "2026-04-17",
-      "last_mention": "2026-05-12",
-      "team": "Los Angeles Clippers",
-      "rank": 6
-    },
-    {
-      "player": "Draymond Green",
-      "score": 3.0,
-      "mentions_week1": 2,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 5,
-      "first_mention": "2026-04-20",
-      "last_mention": "2026-05-12",
-      "team": "Golden State Warriors",
       "rank": 7
     },
     {
@@ -187,6 +187,18 @@
       "rank": 15
     },
     {
+      "player": "Trae Young",
+      "score": 2.0,
+      "mentions_week1": 2,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 2,
+      "first_mention": "2026-05-07",
+      "last_mention": "2026-05-14",
+      "team": "Atlanta Hawks",
+      "rank": 16
+    },
+    {
       "player": "James Harden",
       "score": 1.75,
       "mentions_week1": 0,
@@ -196,7 +208,7 @@
       "first_mention": "2026-04-17",
       "last_mention": "2026-05-04",
       "team": "Los Angeles Clippers",
-      "rank": 16
+      "rank": 17
     },
     {
       "player": "Aaron Gordon",
@@ -208,7 +220,7 @@
       "first_mention": "2026-05-01",
       "last_mention": "2026-05-02",
       "team": "Denver Nuggets",
-      "rank": 17
+      "rank": 18
     },
     {
       "player": "Jalen Green",
@@ -220,7 +232,19 @@
       "first_mention": "2026-04-24",
       "last_mention": "2026-05-13",
       "team": "Phoenix Suns",
-      "rank": 18
+      "rank": 19
+    },
+    {
+      "player": "CJ McCollum",
+      "score": 1.5,
+      "mentions_week1": 1,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 2,
+      "first_mention": "2026-05-02",
+      "last_mention": "2026-05-14",
+      "team": "Washington Wizards",
+      "rank": 20
     },
     {
       "player": "Alperen Sengun",
@@ -232,7 +256,7 @@
       "first_mention": "2026-04-24",
       "last_mention": "2026-05-04",
       "team": "Houston Rockets",
-      "rank": 19
+      "rank": 21
     },
     {
       "player": "Dillon Brooks",
@@ -244,7 +268,7 @@
       "first_mention": "2026-04-28",
       "last_mention": "2026-05-13",
       "team": "Phoenix Suns",
-      "rank": 20
+      "rank": 22
     },
     {
       "player": "Donte DiVincenzo",
@@ -256,7 +280,7 @@
       "first_mention": "2026-04-24",
       "last_mention": "2026-05-13",
       "team": "Minnesota Timberwolves",
-      "rank": 21
+      "rank": 23
     },
     {
       "player": "Devin Booker",
@@ -268,7 +292,7 @@
       "first_mention": "2026-04-30",
       "last_mention": "2026-04-30",
       "team": "Phoenix Suns",
-      "rank": 22
+      "rank": 24
     },
     {
       "player": "Jrue Holiday",
@@ -280,7 +304,7 @@
       "first_mention": "2026-04-30",
       "last_mention": "2026-05-03",
       "team": "Portland Trail Blazers",
-      "rank": 23
+      "rank": 25
     },
     {
       "player": "Aaron Wiggins",
@@ -292,7 +316,7 @@
       "first_mention": "2026-05-13",
       "last_mention": "2026-05-13",
       "team": "Chicago Bulls",
-      "rank": 24
+      "rank": 26
     },
     {
       "player": "Bobby Portis",
@@ -304,7 +328,7 @@
       "first_mention": "2026-05-11",
       "last_mention": "2026-05-11",
       "team": "Milwaukee Bucks",
-      "rank": 25
+      "rank": 27
     },
     {
       "player": "Brandin Podziemski",
@@ -316,7 +340,7 @@
       "first_mention": "2026-05-13",
       "last_mention": "2026-05-13",
       "team": "Golden State Warriors",
-      "rank": 26
+      "rank": 28
     },
     {
       "player": "Evan Mobley",
@@ -328,7 +352,7 @@
       "first_mention": "2026-05-07",
       "last_mention": "2026-05-07",
       "team": "Cleveland Cavaliers",
-      "rank": 27
+      "rank": 29
     },
     {
       "player": "Jalen Smith",
@@ -340,7 +364,7 @@
       "first_mention": "2026-05-13",
       "last_mention": "2026-05-13",
       "team": "Chicago Bulls",
-      "rank": 28
+      "rank": 30
     },
     {
       "player": "Kyle Kuzma",
@@ -352,7 +376,7 @@
       "first_mention": "2026-05-11",
       "last_mention": "2026-05-11",
       "team": "Milwaukee Bucks",
-      "rank": 29
+      "rank": 31
     },
     {
       "player": "Naji Marshall",
@@ -364,7 +388,7 @@
       "first_mention": "2026-05-13",
       "last_mention": "2026-05-13",
       "team": "Dallas Mavericks",
-      "rank": 30
+      "rank": 32
     },
     {
       "player": "Nikola Jokic",
@@ -376,7 +400,7 @@
       "first_mention": "2026-05-08",
       "last_mention": "2026-05-08",
       "team": "Denver Nuggets",
-      "rank": 31
+      "rank": 33
     },
     {
       "player": "Paul George",
@@ -388,7 +412,7 @@
       "first_mention": "2026-05-11",
       "last_mention": "2026-05-11",
       "team": "Philadelphia 76ers",
-      "rank": 32
+      "rank": 34
     },
     {
       "player": "Ryan Dunn",
@@ -400,19 +424,7 @@
       "first_mention": "2026-05-13",
       "last_mention": "2026-05-13",
       "team": "Dallas Mavericks",
-      "rank": 33
-    },
-    {
-      "player": "Trae Young",
-      "score": 1.0,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-05-07",
-      "last_mention": "2026-05-07",
-      "team": "Atlanta Hawks",
-      "rank": 34
+      "rank": 35
     },
     {
       "player": "Vit Krejci",
@@ -424,7 +436,7 @@
       "first_mention": "2026-05-13",
       "last_mention": "2026-05-13",
       "team": "Philadelphia 76ers",
-      "rank": 35
+      "rank": 36
     },
     {
       "player": "Donovan Mitchell",
@@ -436,7 +448,7 @@
       "first_mention": "2026-04-24",
       "last_mention": "2026-05-02",
       "team": "Cleveland Cavaliers",
-      "rank": 36
+      "rank": 37
     },
     {
       "player": "Karl-Anthony Towns",
@@ -448,7 +460,7 @@
       "first_mention": "2026-04-23",
       "last_mention": "2026-04-24",
       "team": "New York Knicks",
-      "rank": 37
+      "rank": 38
     },
     {
       "player": "Paolo Banchero",
@@ -460,7 +472,7 @@
       "first_mention": "2026-04-17",
       "last_mention": "2026-04-29",
       "team": "Orlando Magic",
-      "rank": 38
+      "rank": 39
     },
     {
       "player": "Victor Wembanyama",
@@ -472,7 +484,7 @@
       "first_mention": "2026-04-27",
       "last_mention": "2026-04-29",
       "team": "San Antonio Spurs",
-      "rank": 39
+      "rank": 40
     },
     {
       "player": "Amen Thompson",
@@ -484,7 +496,7 @@
       "first_mention": "2026-05-04",
       "last_mention": "2026-05-04",
       "team": "Houston Rockets",
-      "rank": 40
+      "rank": 41
     },
     {
       "player": "Brandon Ingram",
@@ -496,18 +508,6 @@
       "first_mention": "2026-05-05",
       "last_mention": "2026-05-05",
       "team": "Toronto Raptors",
-      "rank": 41
-    },
-    {
-      "player": "CJ McCollum",
-      "score": 0.5,
-      "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-05-02",
-      "last_mention": "2026-05-02",
-      "team": "Washington Wizards",
       "rank": 42
     },
     {
@@ -776,6 +776,140 @@
     }
   ],
   "player_rumors": {
+    "Kawhi Leonard": [
+      {
+        "date": "2026-05-14",
+        "text": "With a talented prospect about to arrive in LA, Draymond Green had plenty of interesting words about the Clippers' commitment to Kawhi Leonard. In the latest episode of The Draymond Green Show, the Golden State Warriors star appears to be urging the Clippers to deal the superstar forward on their side. The full statement of Green can be viewed below:\"You talk about the Golden State Warriors, who have won championships, you have to look at the Los Angeles Clippers in the fifth spot and say: 'Huh, what are they gonna do?' Are they going to draft the fifth pick and put him next to Kawhi Leonard or are they going to move Kawhi Leonard, try to get more draft assets, and start a rebuild?\" Green claimed.BasketNews",
+        "text_html": "With a talented prospect about to arrive in LA, Draymond Green had plenty of interesting words about the Clippers' commitment to Kawhi Leonard. In the latest episode of The Draymond Green Show, the Golden State Warriors star appears to be urging the Clippers to deal the superstar forward on their side. The full statement of Green can be viewed below: <a href=\"https://basketnews.com/news-247370-draymond-green-teases-kawhi-trade-to-warriors-after-clippers-draft-win.html\" target=\"_blank\" style=\"color: #1a73e8;\">\"You talk about the Golden State Warriors, who have won championships, you have to look at the Los Angeles Clippers in the fifth spot and say: 'Huh, what are they gonna do?' Are they going to draft the fifth pick and put him next to Kawhi Leonard or are they going to move Kawhi Leonard, try to get more draft assets, and start a rebuild?\" Green claimed</a>.",
+        "outlet": "BasketNews",
+        "source_url": "https://basketnews.com/news-247370-draymond-green-teases-kawhi-trade-to-warriors-after-clippers-draft-win.html"
+      },
+      {
+        "date": "2026-05-12",
+        "text": "How do you make the Clippers again as relevant as you guys did? Darius Miles: I think that you just have to kind of clean slate, make some moves.I love Kawhi Leonard. I love Kawhi Leonard as a Clipper. I don\u2019t want to let him go, but he\u2019s probably the only one that you have to have some leverage to get out there and get some more picks or get some more players. I think it\u2019s time for them probably to let Kawhi go, which I hate to say, but I think they need to clean slate it. They got a young Darius Garland. They got Bennett. They\u2019re just going in a new direction. So I think this pick and them using Kawhi Leonard can make enough moves to kind of give them a nice young team that can play.YouTube",
+        "text_html": "How do you make the Clippers again as relevant as you guys did? Darius Miles: I think that you just have to kind of clean slate, make some moves. <a href=\"https://www.youtube.com/watch?v=nj7gk2sA03E\" target=\"_blank\" style=\"color: #1a73e8;\">I love Kawhi Leonard. I love Kawhi Leonard as a Clipper. I don\u2019t want to let him go, but he\u2019s probably the only one that you have to have some leverage to get out there and get some more picks or get some more players</a>. I think it\u2019s time for them probably to let Kawhi go, which I hate to say, but I think they need to clean slate it. They got a young Darius Garland. They got Bennett. They\u2019re just going in a new direction. So I think this pick and them using Kawhi Leonard can make enough moves to kind of give them a nice young team that can play.",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=nj7gk2sA03E"
+      },
+      {
+        "date": "2026-05-11",
+        "text": "Tim MacMahon: \u201cWell, and then there\u2019s also, like, we\u2019ll see what happens with Aspiration. Assuming they are allowed to attempt to negotiate an extension, I believe the intention is to try to negotiate an extension with Kawhi Leonard. But \u2018negotiate\u2019 is a key word there. It\u2019s not just like, \u2018Hey, can you take just a little slight haircut from maxes?\u2019 Andso, depending on how that goes, there\u2019s a world where Kawhi could be on the block this summer, too.So, we shall see.\u201dYouTube",
+        "text_html": "Tim MacMahon: \u201cWell, and then there\u2019s also, like, we\u2019ll see what happens with Aspiration. Assuming they are allowed to attempt to negotiate an extension, I believe the intention is to try to negotiate an extension with Kawhi Leonard. But \u2018negotiate\u2019 is a key word there. It\u2019s not just like, \u2018Hey, can you take just a little slight haircut from maxes?\u2019 And <a href=\"https://www.youtube.com/watch?v=EMFamyEZk-A\" target=\"_blank\" style=\"color: #1a73e8;\">so, depending on how that goes, there\u2019s a world where Kawhi could be on the block this summer, too.</a> So, we shall see.\u201d",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=EMFamyEZk-A"
+      },
+      {
+        "date": "2026-05-02",
+        "text": "Similar to Durant, the Rockets won\u2019t necessarily pigeonhole or wed themselves to one type of star, but desired additions such as theClippers\u2019 Kawhi Leonard, the Cavaliers\u2019 Donovan Mitchell, the Bucks\u2019 Giannis Antetokounmpo and the 76ers\u2019 Joel Embiid,among others, will be discussed, sources said, but fit, opportunity cost and price go hand in hand.Yahoo! Sports",
+        "text_html": "Similar to Durant, the Rockets won\u2019t necessarily pigeonhole or wed themselves to one type of star, but desired additions such as the <a href=\"https://sports.yahoo.com/nba/article/after-dreadful-season-ending-loss-at-home-the-rockets-have-no-shortage-of-questions-about-their-future-131435317.html\" target=\"_blank\" style=\"color: #1a73e8;\">Clippers\u2019 Kawhi Leonard, the Cavaliers\u2019 Donovan Mitchell, the Bucks\u2019 Giannis Antetokounmpo and the 76ers\u2019 Joel Embiid,</a> among others, will be discussed, sources said, but fit, opportunity cost and price go hand in hand.",
+        "outlet": "Yahoo! Sports",
+        "source_url": "https://sports.yahoo.com/nba/article/after-dreadful-season-ending-loss-at-home-the-rockets-have-no-shortage-of-questions-about-their-future-131435317.html"
+      },
+      {
+        "date": "2026-04-24",
+        "text": "There will be no shortage of fans and media who connect the dots and say Alperen Sengun could follow in Jalen Green\u2019s steps as a young piece that gets sent away because he wasn\u2019t ready to compete for a championship now.Giannis Antetokounmpo will be a name many connect to Houston as a potential superstar who could be acquired in a \u015eeng\u00fcn trade. Kawhi Leonard or Donovan Mitchell could also be possibilities.If Houston makes \u015eeng\u00fcn available, along with some of the future draft picks they hold, it would put them squarely among the favorites to acquire any of the disgruntled superstars who may become available.New York Times",
+        "text_html": "There will be no shortage of fans and media who connect the dots and say Alperen Sengun could follow in Jalen Green\u2019s steps as a young piece that gets sent away because he wasn\u2019t ready to compete for a championship now. <a href=\"https://www.nytimes.com/athletic/7225104/2026/04/24/alperen-sengun-game-3-rockets-lakers-nba-playoffs/\" target=\"_blank\" style=\"color: #1a73e8;\">Giannis Antetokounmpo will be a name many connect to Houston as a potential superstar who could be acquired in a \u015eeng\u00fcn trade. Kawhi Leonard or Donovan Mitchell could also be possibilities.</a> If Houston makes \u015eeng\u00fcn available, along with some of the future draft picks they hold, it would put them squarely among the favorites to acquire any of the disgruntled superstars who may become available.",
+        "outlet": "New York Times",
+        "source_url": "https://www.nytimes.com/athletic/7225104/2026/04/24/alperen-sengun-game-3-rockets-lakers-nba-playoffs/"
+      },
+      {
+        "date": "2026-04-20",
+        "text": "League sources say that the Warriors were the team that most aggressively pursued a trade for the Clippers' Leonard in the final stages before the league's Feb. 5 trade deadline after the Clippers had already traded away James Harden and Ivica Zubac that same week.marcstein.substack.com",
+        "text_html": "<a href=\"https://marcstein.substack.com/p/monday-best-lots-of-the-latest-around\" target=\"_blank\" style=\"color: #1a73e8;\">League sources say that the Warriors were the team that most aggressively pursued a trade for the Clippers' Leonard in the final stages before the league's Feb. 5 trade deadline after the Clippers had already traded away James Harden and Ivica Zubac that same week</a>.",
+        "outlet": "marcstein.substack.com",
+        "source_url": "https://marcstein.substack.com/p/monday-best-lots-of-the-latest-around"
+      },
+      {
+        "date": "2026-04-20",
+        "text": "Some within the Warriors organization believe a Leonard trade was close. Others were skeptical. On the Clippers side, it was a steadfast no from Ballmer, who wields the ultimate hammer. Either way, sources saidthere's an expectation the Warriors could reengage the Clippers on Leonard's availability this offseason, compile another offer for Antetokounmpo and test the waters again on soon-to-be free agent LeBron James.They could also bring back Porzingis at a lower price than his $30.7 million expiring contract or negotiate a way to use him as a building block in a sign-and-trade for another big name.ESPN",
+        "text_html": "Some within the Warriors organization believe a Leonard trade was close. Others were skeptical. On the Clippers side, it was a steadfast no from Ballmer, who wields the ultimate hammer. Either way, sources said <a href=\"https://www.espn.com/nba/story/_/id/48526309/the-golden-state-warriors-summer-uncertainty-starts-steve-kerr-stephen-curry-draymond-green\" target=\"_blank\" style=\"color: #1a73e8;\">there's an expectation the Warriors could reengage the Clippers on Leonard's availability this offseason, compile another offer for Antetokounmpo and test the waters again on soon-to-be free agent LeBron James.</a> They could also bring back Porzingis at a lower price than his $30.7 million expiring contract or negotiate a way to use him as a building block in a sign-and-trade for another big name.",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/48526309/the-golden-state-warriors-summer-uncertainty-starts-steve-kerr-stephen-curry-draymond-green"
+      },
+      {
+        "date": "2026-04-17",
+        "text": "Joey Linn:Lawrence Frank says the Clippers\u2019 plan is to win with Kawhi Leonard.x.com",
+        "text_html": "Joey Linn: <a href=\"https://x.com/joeylinn_/status/2045203340490080687?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">Lawrence Frank says the Clippers\u2019 plan is to win with Kawhi Leonard</a>.",
+        "outlet": "x.com",
+        "source_url": "https://x.com/joeylinn_/status/2045203340490080687?s=20"
+      }
+    ],
+    "Draymond Green": [
+      {
+        "date": "2026-05-14",
+        "text": "With a talented prospect about to arrive in LA, Draymond Green had plenty of interesting words about the Clippers' commitment to Kawhi Leonard. In the latest episode of The Draymond Green Show, the Golden State Warriors star appears to be urging the Clippers to deal the superstar forward on their side. The full statement of Green can be viewed below:\"You talk about the Golden State Warriors, who have won championships, you have to look at the Los Angeles Clippers in the fifth spot and say: 'Huh, what are they gonna do?' Are they going to draft the fifth pick and put him next to Kawhi Leonard or are they going to move Kawhi Leonard, try to get more draft assets, and start a rebuild?\" Green claimed.BasketNews",
+        "text_html": "With a talented prospect about to arrive in LA, Draymond Green had plenty of interesting words about the Clippers' commitment to Kawhi Leonard. In the latest episode of The Draymond Green Show, the Golden State Warriors star appears to be urging the Clippers to deal the superstar forward on their side. The full statement of Green can be viewed below: <a href=\"https://basketnews.com/news-247370-draymond-green-teases-kawhi-trade-to-warriors-after-clippers-draft-win.html\" target=\"_blank\" style=\"color: #1a73e8;\">\"You talk about the Golden State Warriors, who have won championships, you have to look at the Los Angeles Clippers in the fifth spot and say: 'Huh, what are they gonna do?' Are they going to draft the fifth pick and put him next to Kawhi Leonard or are they going to move Kawhi Leonard, try to get more draft assets, and start a rebuild?\" Green claimed</a>.",
+        "outlet": "BasketNews",
+        "source_url": "https://basketnews.com/news-247370-draymond-green-teases-kawhi-trade-to-warriors-after-clippers-draft-win.html"
+      },
+      {
+        "date": "2026-05-12",
+        "text": "Draymond Green: \u201cListen,I think after making a trade like that, you\u2019ve got to put out a statement like this. This is one of those save-my-ass statements. But I will say, tough luck, man. Very tough luck. You did get your starting center, but if that comes at the heels of a perennial All-Star, unless the Pacers go win a championship, this could be viewed as a top-five worst trade ever. Now, like he said, a little unlucky, but if it does not pan out the right way, this could go bad. And meanwhile, Lawrence Frank looks like a genius. Looks like a complete genius. But sometimes it\u2019s the luck of the draw, and it just happens to go that way.\u201dYouTube",
+        "text_html": "Draymond Green: \u201cListen, <a href=\"https://www.youtube.com/watch?v=2Q2xCzLsUOo\" target=\"_blank\" style=\"color: #1a73e8;\">I think after making a trade like that, you\u2019ve got to put out a statement like this. This is one of those save-my-ass statements</a>. But I will say, tough luck, man. Very tough luck. You did get your starting center, but if that comes at the heels of a perennial All-Star, unless the Pacers go win a championship, this could be viewed as a top-five worst trade ever. Now, like he said, a little unlucky, but if it does not pan out the right way, this could go bad. And meanwhile, Lawrence Frank looks like a genius. Looks like a complete genius. But sometimes it\u2019s the luck of the draw, and it just happens to go that way.\u201d",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=2Q2xCzLsUOo"
+      },
+      {
+        "date": "2026-05-10",
+        "text": "But Kerr's return is at least a pledge from the organization to value the present even while planning for the future. In that vein,team sources have indicated that they have no intention to shop Green or push him out.On the court, they still view him as an additive winner with an elite defensive skill set that plays up when the stakes rise. Off the court, the organization felt he had a positive season as a leader while his acumen and voice essentially make him another assistant coach.ESPN.com",
+        "text_html": "But Kerr's return is at least a pledge from the organization to value the present even while planning for the future. In that vein, <a href=\"https://www.espn.com.sg/nba/story/_/id/48565081/steve-kerr-returning-golden-state-warriors-coach-answering-questions-next-offseason-moves\" target=\"_blank\" style=\"color: #1a73e8;\">team sources have indicated that they have no intention to shop Green or push him out.</a> On the court, they still view him as an additive winner with an elite defensive skill set that plays up when the stakes rise. Off the court, the organization felt he had a positive season as a leader while his acumen and voice essentially make him another assistant coach.",
+        "outlet": "ESPN.com",
+        "source_url": "https://www.espn.com.sg/nba/story/_/id/48565081/steve-kerr-returning-golden-state-warriors-coach-answering-questions-next-offseason-moves"
+      },
+      {
+        "date": "2026-05-05",
+        "text": "Draymond Green:\u201cThe big question is: what\u2019s next for this Boston team? Is it the end of the Jaylen Brown\u2013Jayson Tatum era? I would say no. I don\u2019t think it\u2019s the end of their era. Look at the success they had this year with Jayson Tatum out most of the year, and then with Jayson Tatum coming back and them having success, ultimately getting ahead to a 3-1 lead. Obviously, they squandered the lead away, but you got right where you wanted to be.YouTube",
+        "text_html": "Draymond Green: <a href=\"https://www.youtube.com/watch?v=_bL2_x04_DM\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cThe big question is: what\u2019s next for this Boston team? Is it the end of the Jaylen Brown\u2013Jayson Tatum era? I would say no. I don\u2019t think it\u2019s the end of their era</a>. Look at the success they had this year with Jayson Tatum out most of the year, and then with Jayson Tatum coming back and them having success, ultimately getting ahead to a 3-1 lead. Obviously, they squandered the lead away, but you got right where you wanted to be.",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=_bL2_x04_DM"
+      },
+      {
+        "date": "2026-04-20",
+        "text": "Draymond Green:I hope it\u2019s not the end\u2026 I have a player option coming up this summer and I don\u2019t know what\u2019s going to happen\u2026 this year was a little bit different from me even going through the trade talks at the deadline.Not quite knowing whether I\u2019ll get traded or not. I\u2019ve never gone through that before\u2026. Going into the summer, I don\u2019t know. We\u2019ll see. Ultimately I think I\u2019d love to finish in the place I started, but there must be things held up on both endsYouTube",
+        "text_html": "Draymond Green: <a href=\"https://www.youtube.com/watch?v=GmAgCC4Wm8c\" target=\"_blank\" style=\"color: #1a73e8;\">I hope it\u2019s not the end\u2026 I have a player option coming up this summer and I don\u2019t know what\u2019s going to happen\u2026 this year was a little bit different from me even going through the trade talks at the deadline.</a> Not quite knowing whether I\u2019ll get traded or not. I\u2019ve never gone through that before\u2026. Going into the summer, I don\u2019t know. We\u2019ll see. Ultimately I think I\u2019d love to finish in the place I started, but there must be things held up on both ends",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=GmAgCC4Wm8c"
+      },
+      {
+        "date": "2026-04-20",
+        "text": "Green was in trade talks at the deadline for Giannis Antetokounmpo and could be again this summer for salary matching purposes. Still,team sources insist there is no desire or mandate to trade Green and, if a decline-and-extend helps the front office add to the roster in a useful way, it is something they'd discuss.ESPN",
+        "text_html": "Green was in trade talks at the deadline for Giannis Antetokounmpo and could be again this summer for salary matching purposes. Still, <a href=\"https://www.espn.com/nba/story/_/id/48526309/the-golden-state-warriors-summer-uncertainty-starts-steve-kerr-stephen-curry-draymond-green\" target=\"_blank\" style=\"color: #1a73e8;\">team sources insist there is no desire or mandate to trade Green and, if a decline-and-extend helps the front office add to the roster in a useful way, it is something they'd discuss</a>.",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/48526309/the-golden-state-warriors-summer-uncertainty-starts-steve-kerr-stephen-curry-draymond-green"
+      }
+    ],
+    "Trae Young": [
+      {
+        "date": "2026-05-14",
+        "text": "Wizards Film Room: MoreMichael Winger on why they traded for Trae Young: \u201cHe\u2019s an absolute genius. He\u2019s a savant with the basketball in his hands..up until that point, other players on the floor have had to create for themselves and others and we don\u2019t have a pure natural playmaker.We struggle offensively to create because we don\u2019t have someone as naturally gifted as he is at creating something. He\u2019s an offensive engine, we lacked an offensive engine. We have great play finishers, we have great athletes but we didn\u2019t have an offensive engine.\u201dx.com",
+        "text_html": "Wizards Film Room: More <a href=\"https://x.com/KevinFolliNBA/status/2054786443050893463\" target=\"_blank\" style=\"color: #1a73e8;\">Michael Winger on why they traded for Trae Young: \u201cHe\u2019s an absolute genius. He\u2019s a savant with the basketball in his hands..up until that point, other players on the floor have had to create for themselves and others and we don\u2019t have a pure natural playmaker.</a> We struggle offensively to create because we don\u2019t have someone as naturally gifted as he is at creating something. He\u2019s an offensive engine, we lacked an offensive engine. We have great play finishers, we have great athletes but we didn\u2019t have an offensive engine.\u201d",
+        "outlet": "x.com",
+        "source_url": "https://x.com/KevinFolliNBA/status/2054786443050893463"
+      },
+      {
+        "date": "2026-05-07",
+        "text": "What I'm\u00a0hearing\u00a0on the Wizards:\u00a0The team has been mired in a protracted rebuild that has spanned\u00a0multiple\u00a0front offices and head coaches, and Washington hasn't finished above .500 since 2017-18.While the Wizards appear positioned for a short-term step forward, they still have to determine whether they want to make a long-term commitment to Young, who holds a player option for next season, and Davis, who has one next summer.ESPN",
+        "text_html": "What I'm hearing on the Wizards: The team has been mired in a protracted rebuild that has spanned multiple front offices and head coaches, and Washington hasn't finished above .500 since 2017-18. <a href=\"https://www.espn.com/nba/story/_/id/48686847/2026-nba-draft-lottery-odds-every-team-potential-picks-wizards-pacers-nets-kings-grizzlies\" target=\"_blank\" style=\"color: #1a73e8;\">While the Wizards appear positioned for a short-term step forward, they still have to determine whether they want to make a long-term commitment to Young, who holds a player option for next season, and Davis, who has one next summer</a>.",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/48686847/2026-nba-draft-lottery-odds-every-team-potential-picks-wizards-pacers-nets-kings-grizzlies"
+      }
+    ],
+    "CJ McCollum": [
+      {
+        "date": "2026-05-14",
+        "text": "Wizards Film Room: Michael Winger and @ryenarussillo talking about CJ McCollum:Russillo: \u201cIf you don\u2019t trade him, I don\u2019t think you end up with the #1 pick.\u201d Winger: \u201cNo comment.\u201d????x.com",
+        "text_html": "Wizards Film Room: Michael Winger and @ryenarussillo talking about CJ McCollum: <a href=\"https://x.com/KevinFolliNBA/status/2054791941645090879\" target=\"_blank\" style=\"color: #1a73e8;\">Russillo: \u201cIf you don\u2019t trade him, I don\u2019t think you end up with the #1 pick.\u201d Winger: \u201cNo comment.\u201d</a> ????",
+        "outlet": "x.com",
+        "source_url": "https://x.com/KevinFolliNBA/status/2054791941645090879"
+      },
+      {
+        "date": "2026-05-02",
+        "text": "Yet I've received no indication to this point that the Hawks have designs on pursuing Antetokounmpo via trade this summer.Sources say that Atlanta is not eager to splurge for major roster additions, preferring to focus on internal improvement and addressing the futures of CJ McCollum and Jonathan Kuminga along with coach Quin Snyder(who has only one season left on his current contract).marcstein.substack.com",
+        "text_html": "Yet I've received no indication to this point that the Hawks have designs on pursuing Antetokounmpo via trade this summer. <a href=\"https://marcstein.substack.com/p/your-nba-weekend-three-game-7s-and\" target=\"_blank\" style=\"color: #1a73e8;\">Sources say that Atlanta is not eager to splurge for major roster additions, preferring to focus on internal improvement and addressing the futures of CJ McCollum and Jonathan Kuminga along with coach Quin Snyder</a> (who has only one season left on his current contract).",
+        "outlet": "marcstein.substack.com",
+        "source_url": "https://marcstein.substack.com/p/your-nba-weekend-three-game-7s-and"
+      }
+    ],
     "Jaylen Brown": [
       {
         "date": "2026-05-13",
@@ -1382,94 +1516,6 @@
         "source_url": "https://x.com/LawMurrayTheNU/status/2054247860049527066?s=20"
       }
     ],
-    "Kawhi Leonard": [
-      {
-        "date": "2026-05-12",
-        "text": "How do you make the Clippers again as relevant as you guys did? Darius Miles: I think that you just have to kind of clean slate, make some moves.I love Kawhi Leonard. I love Kawhi Leonard as a Clipper. I don\u2019t want to let him go, but he\u2019s probably the only one that you have to have some leverage to get out there and get some more picks or get some more players. I think it\u2019s time for them probably to let Kawhi go, which I hate to say, but I think they need to clean slate it. They got a young Darius Garland. They got Bennett. They\u2019re just going in a new direction. So I think this pick and them using Kawhi Leonard can make enough moves to kind of give them a nice young team that can play.YouTube",
-        "text_html": "How do you make the Clippers again as relevant as you guys did? Darius Miles: I think that you just have to kind of clean slate, make some moves. <a href=\"https://www.youtube.com/watch?v=nj7gk2sA03E\" target=\"_blank\" style=\"color: #1a73e8;\">I love Kawhi Leonard. I love Kawhi Leonard as a Clipper. I don\u2019t want to let him go, but he\u2019s probably the only one that you have to have some leverage to get out there and get some more picks or get some more players</a>. I think it\u2019s time for them probably to let Kawhi go, which I hate to say, but I think they need to clean slate it. They got a young Darius Garland. They got Bennett. They\u2019re just going in a new direction. So I think this pick and them using Kawhi Leonard can make enough moves to kind of give them a nice young team that can play.",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=nj7gk2sA03E"
-      },
-      {
-        "date": "2026-05-11",
-        "text": "Tim MacMahon: \u201cWell, and then there\u2019s also, like, we\u2019ll see what happens with Aspiration. Assuming they are allowed to attempt to negotiate an extension, I believe the intention is to try to negotiate an extension with Kawhi Leonard. But \u2018negotiate\u2019 is a key word there. It\u2019s not just like, \u2018Hey, can you take just a little slight haircut from maxes?\u2019 Andso, depending on how that goes, there\u2019s a world where Kawhi could be on the block this summer, too.So, we shall see.\u201dYouTube",
-        "text_html": "Tim MacMahon: \u201cWell, and then there\u2019s also, like, we\u2019ll see what happens with Aspiration. Assuming they are allowed to attempt to negotiate an extension, I believe the intention is to try to negotiate an extension with Kawhi Leonard. But \u2018negotiate\u2019 is a key word there. It\u2019s not just like, \u2018Hey, can you take just a little slight haircut from maxes?\u2019 And <a href=\"https://www.youtube.com/watch?v=EMFamyEZk-A\" target=\"_blank\" style=\"color: #1a73e8;\">so, depending on how that goes, there\u2019s a world where Kawhi could be on the block this summer, too.</a> So, we shall see.\u201d",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=EMFamyEZk-A"
-      },
-      {
-        "date": "2026-05-02",
-        "text": "Similar to Durant, the Rockets won\u2019t necessarily pigeonhole or wed themselves to one type of star, but desired additions such as theClippers\u2019 Kawhi Leonard, the Cavaliers\u2019 Donovan Mitchell, the Bucks\u2019 Giannis Antetokounmpo and the 76ers\u2019 Joel Embiid,among others, will be discussed, sources said, but fit, opportunity cost and price go hand in hand.Yahoo! Sports",
-        "text_html": "Similar to Durant, the Rockets won\u2019t necessarily pigeonhole or wed themselves to one type of star, but desired additions such as the <a href=\"https://sports.yahoo.com/nba/article/after-dreadful-season-ending-loss-at-home-the-rockets-have-no-shortage-of-questions-about-their-future-131435317.html\" target=\"_blank\" style=\"color: #1a73e8;\">Clippers\u2019 Kawhi Leonard, the Cavaliers\u2019 Donovan Mitchell, the Bucks\u2019 Giannis Antetokounmpo and the 76ers\u2019 Joel Embiid,</a> among others, will be discussed, sources said, but fit, opportunity cost and price go hand in hand.",
-        "outlet": "Yahoo! Sports",
-        "source_url": "https://sports.yahoo.com/nba/article/after-dreadful-season-ending-loss-at-home-the-rockets-have-no-shortage-of-questions-about-their-future-131435317.html"
-      },
-      {
-        "date": "2026-04-24",
-        "text": "There will be no shortage of fans and media who connect the dots and say Alperen Sengun could follow in Jalen Green\u2019s steps as a young piece that gets sent away because he wasn\u2019t ready to compete for a championship now.Giannis Antetokounmpo will be a name many connect to Houston as a potential superstar who could be acquired in a \u015eeng\u00fcn trade. Kawhi Leonard or Donovan Mitchell could also be possibilities.If Houston makes \u015eeng\u00fcn available, along with some of the future draft picks they hold, it would put them squarely among the favorites to acquire any of the disgruntled superstars who may become available.New York Times",
-        "text_html": "There will be no shortage of fans and media who connect the dots and say Alperen Sengun could follow in Jalen Green\u2019s steps as a young piece that gets sent away because he wasn\u2019t ready to compete for a championship now. <a href=\"https://www.nytimes.com/athletic/7225104/2026/04/24/alperen-sengun-game-3-rockets-lakers-nba-playoffs/\" target=\"_blank\" style=\"color: #1a73e8;\">Giannis Antetokounmpo will be a name many connect to Houston as a potential superstar who could be acquired in a \u015eeng\u00fcn trade. Kawhi Leonard or Donovan Mitchell could also be possibilities.</a> If Houston makes \u015eeng\u00fcn available, along with some of the future draft picks they hold, it would put them squarely among the favorites to acquire any of the disgruntled superstars who may become available.",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/7225104/2026/04/24/alperen-sengun-game-3-rockets-lakers-nba-playoffs/"
-      },
-      {
-        "date": "2026-04-20",
-        "text": "League sources say that the Warriors were the team that most aggressively pursued a trade for the Clippers' Leonard in the final stages before the league's Feb. 5 trade deadline after the Clippers had already traded away James Harden and Ivica Zubac that same week.marcstein.substack.com",
-        "text_html": "<a href=\"https://marcstein.substack.com/p/monday-best-lots-of-the-latest-around\" target=\"_blank\" style=\"color: #1a73e8;\">League sources say that the Warriors were the team that most aggressively pursued a trade for the Clippers' Leonard in the final stages before the league's Feb. 5 trade deadline after the Clippers had already traded away James Harden and Ivica Zubac that same week</a>.",
-        "outlet": "marcstein.substack.com",
-        "source_url": "https://marcstein.substack.com/p/monday-best-lots-of-the-latest-around"
-      },
-      {
-        "date": "2026-04-20",
-        "text": "Some within the Warriors organization believe a Leonard trade was close. Others were skeptical. On the Clippers side, it was a steadfast no from Ballmer, who wields the ultimate hammer. Either way, sources saidthere's an expectation the Warriors could reengage the Clippers on Leonard's availability this offseason, compile another offer for Antetokounmpo and test the waters again on soon-to-be free agent LeBron James.They could also bring back Porzingis at a lower price than his $30.7 million expiring contract or negotiate a way to use him as a building block in a sign-and-trade for another big name.ESPN",
-        "text_html": "Some within the Warriors organization believe a Leonard trade was close. Others were skeptical. On the Clippers side, it was a steadfast no from Ballmer, who wields the ultimate hammer. Either way, sources said <a href=\"https://www.espn.com/nba/story/_/id/48526309/the-golden-state-warriors-summer-uncertainty-starts-steve-kerr-stephen-curry-draymond-green\" target=\"_blank\" style=\"color: #1a73e8;\">there's an expectation the Warriors could reengage the Clippers on Leonard's availability this offseason, compile another offer for Antetokounmpo and test the waters again on soon-to-be free agent LeBron James.</a> They could also bring back Porzingis at a lower price than his $30.7 million expiring contract or negotiate a way to use him as a building block in a sign-and-trade for another big name.",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/48526309/the-golden-state-warriors-summer-uncertainty-starts-steve-kerr-stephen-curry-draymond-green"
-      },
-      {
-        "date": "2026-04-17",
-        "text": "Joey Linn:Lawrence Frank says the Clippers\u2019 plan is to win with Kawhi Leonard.x.com",
-        "text_html": "Joey Linn: <a href=\"https://x.com/joeylinn_/status/2045203340490080687?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">Lawrence Frank says the Clippers\u2019 plan is to win with Kawhi Leonard</a>.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/joeylinn_/status/2045203340490080687?s=20"
-      }
-    ],
-    "Draymond Green": [
-      {
-        "date": "2026-05-12",
-        "text": "Draymond Green: \u201cListen,I think after making a trade like that, you\u2019ve got to put out a statement like this. This is one of those save-my-ass statements. But I will say, tough luck, man. Very tough luck. You did get your starting center, but if that comes at the heels of a perennial All-Star, unless the Pacers go win a championship, this could be viewed as a top-five worst trade ever. Now, like he said, a little unlucky, but if it does not pan out the right way, this could go bad. And meanwhile, Lawrence Frank looks like a genius. Looks like a complete genius. But sometimes it\u2019s the luck of the draw, and it just happens to go that way.\u201dYouTube",
-        "text_html": "Draymond Green: \u201cListen, <a href=\"https://www.youtube.com/watch?v=2Q2xCzLsUOo\" target=\"_blank\" style=\"color: #1a73e8;\">I think after making a trade like that, you\u2019ve got to put out a statement like this. This is one of those save-my-ass statements</a>. But I will say, tough luck, man. Very tough luck. You did get your starting center, but if that comes at the heels of a perennial All-Star, unless the Pacers go win a championship, this could be viewed as a top-five worst trade ever. Now, like he said, a little unlucky, but if it does not pan out the right way, this could go bad. And meanwhile, Lawrence Frank looks like a genius. Looks like a complete genius. But sometimes it\u2019s the luck of the draw, and it just happens to go that way.\u201d",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=2Q2xCzLsUOo"
-      },
-      {
-        "date": "2026-05-10",
-        "text": "But Kerr's return is at least a pledge from the organization to value the present even while planning for the future. In that vein,team sources have indicated that they have no intention to shop Green or push him out.On the court, they still view him as an additive winner with an elite defensive skill set that plays up when the stakes rise. Off the court, the organization felt he had a positive season as a leader while his acumen and voice essentially make him another assistant coach.ESPN.com",
-        "text_html": "But Kerr's return is at least a pledge from the organization to value the present even while planning for the future. In that vein, <a href=\"https://www.espn.com.sg/nba/story/_/id/48565081/steve-kerr-returning-golden-state-warriors-coach-answering-questions-next-offseason-moves\" target=\"_blank\" style=\"color: #1a73e8;\">team sources have indicated that they have no intention to shop Green or push him out.</a> On the court, they still view him as an additive winner with an elite defensive skill set that plays up when the stakes rise. Off the court, the organization felt he had a positive season as a leader while his acumen and voice essentially make him another assistant coach.",
-        "outlet": "ESPN.com",
-        "source_url": "https://www.espn.com.sg/nba/story/_/id/48565081/steve-kerr-returning-golden-state-warriors-coach-answering-questions-next-offseason-moves"
-      },
-      {
-        "date": "2026-05-05",
-        "text": "Draymond Green:\u201cThe big question is: what\u2019s next for this Boston team? Is it the end of the Jaylen Brown\u2013Jayson Tatum era? I would say no. I don\u2019t think it\u2019s the end of their era. Look at the success they had this year with Jayson Tatum out most of the year, and then with Jayson Tatum coming back and them having success, ultimately getting ahead to a 3-1 lead. Obviously, they squandered the lead away, but you got right where you wanted to be.YouTube",
-        "text_html": "Draymond Green: <a href=\"https://www.youtube.com/watch?v=_bL2_x04_DM\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cThe big question is: what\u2019s next for this Boston team? Is it the end of the Jaylen Brown\u2013Jayson Tatum era? I would say no. I don\u2019t think it\u2019s the end of their era</a>. Look at the success they had this year with Jayson Tatum out most of the year, and then with Jayson Tatum coming back and them having success, ultimately getting ahead to a 3-1 lead. Obviously, they squandered the lead away, but you got right where you wanted to be.",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=_bL2_x04_DM"
-      },
-      {
-        "date": "2026-04-20",
-        "text": "Draymond Green:I hope it\u2019s not the end\u2026 I have a player option coming up this summer and I don\u2019t know what\u2019s going to happen\u2026 this year was a little bit different from me even going through the trade talks at the deadline.Not quite knowing whether I\u2019ll get traded or not. I\u2019ve never gone through that before\u2026. Going into the summer, I don\u2019t know. We\u2019ll see. Ultimately I think I\u2019d love to finish in the place I started, but there must be things held up on both endsYouTube",
-        "text_html": "Draymond Green: <a href=\"https://www.youtube.com/watch?v=GmAgCC4Wm8c\" target=\"_blank\" style=\"color: #1a73e8;\">I hope it\u2019s not the end\u2026 I have a player option coming up this summer and I don\u2019t know what\u2019s going to happen\u2026 this year was a little bit different from me even going through the trade talks at the deadline.</a> Not quite knowing whether I\u2019ll get traded or not. I\u2019ve never gone through that before\u2026. Going into the summer, I don\u2019t know. We\u2019ll see. Ultimately I think I\u2019d love to finish in the place I started, but there must be things held up on both ends",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=GmAgCC4Wm8c"
-      },
-      {
-        "date": "2026-04-20",
-        "text": "Green was in trade talks at the deadline for Giannis Antetokounmpo and could be again this summer for salary matching purposes. Still,team sources insist there is no desire or mandate to trade Green and, if a decline-and-extend helps the front office add to the roster in a useful way, it is something they'd discuss.ESPN",
-        "text_html": "Green was in trade talks at the deadline for Giannis Antetokounmpo and could be again this summer for salary matching purposes. Still, <a href=\"https://www.espn.com/nba/story/_/id/48526309/the-golden-state-warriors-summer-uncertainty-starts-steve-kerr-stephen-curry-draymond-green\" target=\"_blank\" style=\"color: #1a73e8;\">team sources insist there is no desire or mandate to trade Green and, if a decline-and-extend helps the front office add to the roster in a useful way, it is something they'd discuss</a>.",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/48526309/the-golden-state-warriors-summer-uncertainty-starts-steve-kerr-stephen-curry-draymond-green"
-      }
-    ],
     "Bobby Portis": [
       {
         "date": "2026-05-11",
@@ -1693,15 +1739,6 @@
         "source_url": "https://www.siriusxm.com/hosts/stephen-a-smith"
       }
     ],
-    "Trae Young": [
-      {
-        "date": "2026-05-07",
-        "text": "What I'm\u00a0hearing\u00a0on the Wizards:\u00a0The team has been mired in a protracted rebuild that has spanned\u00a0multiple\u00a0front offices and head coaches, and Washington hasn't finished above .500 since 2017-18.While the Wizards appear positioned for a short-term step forward, they still have to determine whether they want to make a long-term commitment to Young, who holds a player option for next season, and Davis, who has one next summer.ESPN",
-        "text_html": "What I'm hearing on the Wizards: The team has been mired in a protracted rebuild that has spanned multiple front offices and head coaches, and Washington hasn't finished above .500 since 2017-18. <a href=\"https://www.espn.com/nba/story/_/id/48686847/2026-nba-draft-lottery-odds-every-team-potential-picks-wizards-pacers-nets-kings-grizzlies\" target=\"_blank\" style=\"color: #1a73e8;\">While the Wizards appear positioned for a short-term step forward, they still have to determine whether they want to make a long-term commitment to Young, who holds a player option for next season, and Davis, who has one next summer</a>.",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/48686847/2026-nba-draft-lottery-odds-every-team-potential-picks-wizards-pacers-nets-kings-grizzlies"
-      }
-    ],
     "Luka Doncic": [
       {
         "date": "2026-05-06",
@@ -1899,15 +1936,6 @@
         "text_html": "Sean Highkin: Jrue Holiday, asked if he sees himself being here next year: <a href=\"https://x.com/highkin/status/2049899070630854902?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">\"I hope so. I don't like being traded and moved. I like being a part of something and building.\"</a>",
         "outlet": "x.com",
         "source_url": "https://x.com/highkin/status/2049899070630854902?s=20"
-      }
-    ],
-    "CJ McCollum": [
-      {
-        "date": "2026-05-02",
-        "text": "Yet I've received no indication to this point that the Hawks have designs on pursuing Antetokounmpo via trade this summer.Sources say that Atlanta is not eager to splurge for major roster additions, preferring to focus on internal improvement and addressing the futures of CJ McCollum and Jonathan Kuminga along with coach Quin Snyder(who has only one season left on his current contract).marcstein.substack.com",
-        "text_html": "Yet I've received no indication to this point that the Hawks have designs on pursuing Antetokounmpo via trade this summer. <a href=\"https://marcstein.substack.com/p/your-nba-weekend-three-game-7s-and\" target=\"_blank\" style=\"color: #1a73e8;\">Sources say that Atlanta is not eager to splurge for major roster additions, preferring to focus on internal improvement and addressing the futures of CJ McCollum and Jonathan Kuminga along with coach Quin Snyder</a> (who has only one season left on his current contract).",
-        "outlet": "marcstein.substack.com",
-        "source_url": "https://marcstein.substack.com/p/your-nba-weekend-three-game-7s-and"
       }
     ],
     "Jonathan Kuminga": [
@@ -2159,6 +2187,30 @@
     ]
   },
   "daily_counts": {
+    "Kawhi Leonard": {
+      "2026-05-14": 1,
+      "2026-05-12": 1,
+      "2026-05-11": 1,
+      "2026-05-02": 1,
+      "2026-04-24": 1,
+      "2026-04-20": 2,
+      "2026-04-17": 1
+    },
+    "Draymond Green": {
+      "2026-05-14": 1,
+      "2026-05-12": 1,
+      "2026-05-10": 1,
+      "2026-05-05": 1,
+      "2026-04-20": 2
+    },
+    "Trae Young": {
+      "2026-05-14": 1,
+      "2026-05-07": 1
+    },
+    "CJ McCollum": {
+      "2026-05-14": 1,
+      "2026-05-02": 1
+    },
     "Jaylen Brown": {
       "2026-05-13": 2,
       "2026-05-10": 1,
@@ -2237,20 +2289,6 @@
     "Austin Reaves": {
       "2026-05-12": 3
     },
-    "Kawhi Leonard": {
-      "2026-05-12": 1,
-      "2026-05-11": 1,
-      "2026-05-02": 1,
-      "2026-04-24": 1,
-      "2026-04-20": 2,
-      "2026-04-17": 1
-    },
-    "Draymond Green": {
-      "2026-05-12": 1,
-      "2026-05-10": 1,
-      "2026-05-05": 1,
-      "2026-04-20": 2
-    },
     "Bobby Portis": {
       "2026-05-11": 1
     },
@@ -2291,9 +2329,6 @@
       "2026-04-30": 1,
       "2026-04-28": 1,
       "2026-04-20": 1
-    },
-    "Trae Young": {
-      "2026-05-07": 1
     },
     "Luka Doncic": {
       "2026-05-06": 1,
@@ -2340,9 +2375,6 @@
     "Jrue Holiday": {
       "2026-05-03": 1,
       "2026-04-30": 1
-    },
-    "CJ McCollum": {
-      "2026-05-02": 1
     },
     "Jonathan Kuminga": {
       "2026-05-02": 1
