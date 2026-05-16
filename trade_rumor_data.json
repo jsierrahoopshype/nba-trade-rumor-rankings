@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-05-15T20:16:30.304442",
+  "generated_at": "2026-05-16T04:28:20.891968",
   "scrape_window_days": 28,
-  "window_start": "2026-04-17",
-  "window_end": "2026-05-15",
-  "total_rumors": 186,
-  "total_players": 64,
+  "window_start": "2026-04-18",
+  "window_end": "2026-05-16",
+  "total_rumors": 175,
+  "total_players": 63,
   "rankings": [
     {
       "player": "Giannis Antetokounmpo",
-      "score": 31.0,
+      "score": 30.25,
       "mentions_week1": 23,
       "mentions_week2": 8,
-      "mentions_weeks3_4": 16,
-      "total_mentions": 47,
-      "first_mention": "2026-04-17",
+      "mentions_weeks3_4": 13,
+      "total_mentions": 44,
+      "first_mention": "2026-04-18",
       "last_mention": "2026-05-15",
       "team": "Milwaukee Bucks",
       "rank": 1
@@ -32,12 +32,12 @@
     },
     {
       "player": "Kawhi Leonard",
-      "score": 5.5,
+      "score": 5.25,
       "mentions_week1": 4,
       "mentions_week2": 1,
-      "mentions_weeks3_4": 4,
-      "total_mentions": 9,
-      "first_mention": "2026-04-17",
+      "mentions_weeks3_4": 3,
+      "total_mentions": 8,
+      "first_mention": "2026-04-20",
       "last_mention": "2026-05-15",
       "team": "Los Angeles Clippers",
       "rank": 3
@@ -56,10 +56,10 @@
     },
     {
       "player": "LeBron James",
-      "score": 3.75,
+      "score": 3.5,
       "mentions_week1": 3,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 2,
       "total_mentions": 5,
       "first_mention": "2026-04-20",
       "last_mention": "2026-05-12",
@@ -68,10 +68,10 @@
     },
     {
       "player": "Anthony Davis",
-      "score": 3.25,
+      "score": 3.0,
       "mentions_week1": 0,
-      "mentions_week2": 5,
-      "mentions_weeks3_4": 3,
+      "mentions_week2": 4,
+      "mentions_weeks3_4": 4,
       "total_mentions": 8,
       "first_mention": "2026-04-20",
       "last_mention": "2026-05-07",
@@ -92,51 +92,15 @@
     },
     {
       "player": "Jared McCain",
-      "score": 3.0,
-      "mentions_week1": 3,
-      "mentions_week2": 0,
+      "score": 2.5,
+      "mentions_week1": 2,
+      "mentions_week2": 1,
       "mentions_weeks3_4": 0,
       "total_mentions": 3,
       "first_mention": "2026-05-08",
       "last_mention": "2026-05-13",
       "team": "Philadelphia 76ers",
       "rank": 8
-    },
-    {
-      "player": "Ja Morant",
-      "score": 2.75,
-      "mentions_week1": 2,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 3,
-      "total_mentions": 5,
-      "first_mention": "2026-04-17",
-      "last_mention": "2026-05-11",
-      "team": "Memphis Grizzlies",
-      "rank": 9
-    },
-    {
-      "player": "Luka Doncic",
-      "score": 2.5,
-      "mentions_week1": 0,
-      "mentions_week2": 3,
-      "mentions_weeks3_4": 4,
-      "total_mentions": 7,
-      "first_mention": "2026-04-20",
-      "last_mention": "2026-05-06",
-      "team": "Los Angeles Lakers",
-      "rank": 10
-    },
-    {
-      "player": "Ivica Zubac",
-      "score": 2.5,
-      "mentions_week1": 2,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 4,
-      "first_mention": "2026-04-17",
-      "last_mention": "2026-05-13",
-      "team": "Los Angeles Clippers",
-      "rank": 11
     },
     {
       "player": "Joel Embiid",
@@ -148,6 +112,42 @@
       "first_mention": "2026-05-02",
       "last_mention": "2026-05-11",
       "team": "Philadelphia 76ers",
+      "rank": 9
+    },
+    {
+      "player": "Luka Doncic",
+      "score": 2.25,
+      "mentions_week1": 0,
+      "mentions_week2": 2,
+      "mentions_weeks3_4": 5,
+      "total_mentions": 7,
+      "first_mention": "2026-04-20",
+      "last_mention": "2026-05-06",
+      "team": "Los Angeles Lakers",
+      "rank": 10
+    },
+    {
+      "player": "Ivica Zubac",
+      "score": 2.25,
+      "mentions_week1": 2,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 3,
+      "first_mention": "2026-04-20",
+      "last_mention": "2026-05-13",
+      "team": "Los Angeles Clippers",
+      "rank": 11
+    },
+    {
+      "player": "Ja Morant",
+      "score": 2.25,
+      "mentions_week1": 2,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 3,
+      "first_mention": "2026-04-30",
+      "last_mention": "2026-05-11",
+      "team": "Memphis Grizzlies",
       "rank": 12
     },
     {
@@ -175,30 +175,6 @@
       "rank": 14
     },
     {
-      "player": "James Harden",
-      "score": 1.75,
-      "mentions_week1": 0,
-      "mentions_week2": 2,
-      "mentions_weeks3_4": 3,
-      "total_mentions": 5,
-      "first_mention": "2026-04-17",
-      "last_mention": "2026-05-04",
-      "team": "Los Angeles Clippers",
-      "rank": 15
-    },
-    {
-      "player": "Aaron Gordon",
-      "score": 1.5,
-      "mentions_week1": 0,
-      "mentions_week2": 3,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 3,
-      "first_mention": "2026-05-01",
-      "last_mention": "2026-05-02",
-      "team": "Denver Nuggets",
-      "rank": 16
-    },
-    {
       "player": "Jalen Green",
       "score": 1.5,
       "mentions_week1": 1,
@@ -208,7 +184,7 @@
       "first_mention": "2026-04-24",
       "last_mention": "2026-05-13",
       "team": "Phoenix Suns",
-      "rank": 17
+      "rank": 15
     },
     {
       "player": "Jayson Tatum",
@@ -220,7 +196,7 @@
       "first_mention": "2026-05-05",
       "last_mention": "2026-05-07",
       "team": "Boston Celtics",
-      "rank": 18
+      "rank": 16
     },
     {
       "player": "CJ McCollum",
@@ -232,7 +208,7 @@
       "first_mention": "2026-05-02",
       "last_mention": "2026-05-14",
       "team": "Washington Wizards",
-      "rank": 19
+      "rank": 17
     },
     {
       "player": "Trae Young",
@@ -244,7 +220,19 @@
       "first_mention": "2026-05-07",
       "last_mention": "2026-05-14",
       "team": "Atlanta Hawks",
-      "rank": 20
+      "rank": 18
+    },
+    {
+      "player": "Aaron Gordon",
+      "score": 1.25,
+      "mentions_week1": 0,
+      "mentions_week2": 2,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 3,
+      "first_mention": "2026-05-01",
+      "last_mention": "2026-05-02",
+      "team": "Denver Nuggets",
+      "rank": 19
     },
     {
       "player": "Alperen Sengun",
@@ -256,6 +244,18 @@
       "first_mention": "2026-04-24",
       "last_mention": "2026-05-04",
       "team": "Houston Rockets",
+      "rank": 20
+    },
+    {
+      "player": "James Harden",
+      "score": 1.25,
+      "mentions_week1": 0,
+      "mentions_week2": 2,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 3,
+      "first_mention": "2026-04-20",
+      "last_mention": "2026-05-04",
+      "team": "Los Angeles Clippers",
       "rank": 21
     },
     {
@@ -355,18 +355,6 @@
       "rank": 29
     },
     {
-      "player": "Nikola Jokic",
-      "score": 1.0,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-05-08",
-      "last_mention": "2026-05-08",
-      "team": "Denver Nuggets",
-      "rank": 30
-    },
-    {
       "player": "Paul George",
       "score": 1.0,
       "mentions_week1": 1,
@@ -376,7 +364,7 @@
       "first_mention": "2026-05-11",
       "last_mention": "2026-05-11",
       "team": "Philadelphia 76ers",
-      "rank": 31
+      "rank": 30
     },
     {
       "player": "Ryan Dunn",
@@ -388,7 +376,7 @@
       "first_mention": "2026-05-13",
       "last_mention": "2026-05-13",
       "team": "Dallas Mavericks",
-      "rank": 32
+      "rank": 31
     },
     {
       "player": "Vit Krejci",
@@ -400,7 +388,7 @@
       "first_mention": "2026-05-13",
       "last_mention": "2026-05-13",
       "team": "Philadelphia 76ers",
-      "rank": 33
+      "rank": 32
     },
     {
       "player": "Donovan Mitchell",
@@ -412,7 +400,7 @@
       "first_mention": "2026-04-24",
       "last_mention": "2026-05-02",
       "team": "Cleveland Cavaliers",
-      "rank": 34
+      "rank": 33
     },
     {
       "player": "Jrue Holiday",
@@ -424,7 +412,7 @@
       "first_mention": "2026-04-30",
       "last_mention": "2026-05-03",
       "team": "Portland Trail Blazers",
-      "rank": 35
+      "rank": 34
     },
     {
       "player": "Devin Booker",
@@ -436,7 +424,7 @@
       "first_mention": "2026-04-30",
       "last_mention": "2026-04-30",
       "team": "Phoenix Suns",
-      "rank": 36
+      "rank": 35
     },
     {
       "player": "Karl-Anthony Towns",
@@ -448,19 +436,7 @@
       "first_mention": "2026-04-23",
       "last_mention": "2026-04-24",
       "team": "New York Knicks",
-      "rank": 37
-    },
-    {
-      "player": "Paolo Banchero",
-      "score": 0.5,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 2,
-      "first_mention": "2026-04-17",
-      "last_mention": "2026-04-29",
-      "team": "Orlando Magic",
-      "rank": 38
+      "rank": 36
     },
     {
       "player": "Victor Wembanyama",
@@ -472,7 +448,7 @@
       "first_mention": "2026-04-27",
       "last_mention": "2026-04-29",
       "team": "San Antonio Spurs",
-      "rank": 39
+      "rank": 37
     },
     {
       "player": "Amen Thompson",
@@ -484,7 +460,7 @@
       "first_mention": "2026-05-04",
       "last_mention": "2026-05-04",
       "team": "Houston Rockets",
-      "rank": 40
+      "rank": 38
     },
     {
       "player": "Brandon Ingram",
@@ -496,7 +472,7 @@
       "first_mention": "2026-05-05",
       "last_mention": "2026-05-05",
       "team": "Toronto Raptors",
-      "rank": 41
+      "rank": 39
     },
     {
       "player": "Cameron Johnson",
@@ -508,7 +484,7 @@
       "first_mention": "2026-05-02",
       "last_mention": "2026-05-02",
       "team": "Denver Nuggets",
-      "rank": 42
+      "rank": 40
     },
     {
       "player": "Derrick White",
@@ -520,7 +496,7 @@
       "first_mention": "2026-05-03",
       "last_mention": "2026-05-03",
       "team": "Boston Celtics",
-      "rank": 43
+      "rank": 41
     },
     {
       "player": "Evan Mobley",
@@ -532,7 +508,7 @@
       "first_mention": "2026-05-07",
       "last_mention": "2026-05-07",
       "team": "Cleveland Cavaliers",
-      "rank": 44
+      "rank": 42
     },
     {
       "player": "Gradey Dick",
@@ -544,7 +520,7 @@
       "first_mention": "2026-05-05",
       "last_mention": "2026-05-05",
       "team": "Toronto Raptors",
-      "rank": 45
+      "rank": 43
     },
     {
       "player": "Jakob Poeltl",
@@ -556,7 +532,7 @@
       "first_mention": "2026-05-05",
       "last_mention": "2026-05-05",
       "team": "Toronto Raptors",
-      "rank": 46
+      "rank": 44
     },
     {
       "player": "Jalen Suggs",
@@ -568,19 +544,7 @@
       "first_mention": "2026-05-04",
       "last_mention": "2026-05-04",
       "team": "Orlando Magic",
-      "rank": 47
-    },
-    {
-      "player": "Jamal Murray",
-      "score": 0.5,
-      "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-05-01",
-      "last_mention": "2026-05-01",
-      "team": "Denver Nuggets",
-      "rank": 48
+      "rank": 45
     },
     {
       "player": "Jaren Jackson Jr",
@@ -592,7 +556,7 @@
       "first_mention": "2026-05-05",
       "last_mention": "2026-05-05",
       "team": "Memphis Grizzlies",
-      "rank": 49
+      "rank": 46
     },
     {
       "player": "Jerami Grant",
@@ -604,7 +568,7 @@
       "first_mention": "2026-05-02",
       "last_mention": "2026-05-02",
       "team": "Dallas Mavericks",
-      "rank": 50
+      "rank": 47
     },
     {
       "player": "Jonathan Kuminga",
@@ -616,19 +580,19 @@
       "first_mention": "2026-05-02",
       "last_mention": "2026-05-02",
       "team": "Golden State Warriors",
-      "rank": 51
+      "rank": 48
     },
     {
-      "player": "Michael Porter",
+      "player": "Nikola Jokic",
       "score": 0.5,
       "mentions_week1": 0,
       "mentions_week2": 1,
       "mentions_weeks3_4": 0,
       "total_mentions": 1,
-      "first_mention": "2026-05-01",
-      "last_mention": "2026-05-01",
+      "first_mention": "2026-05-08",
+      "last_mention": "2026-05-08",
       "team": "Denver Nuggets",
-      "rank": 52
+      "rank": 49
     },
     {
       "player": "Peyton Watson",
@@ -640,7 +604,7 @@
       "first_mention": "2026-05-02",
       "last_mention": "2026-05-02",
       "team": "Denver Nuggets",
-      "rank": 53
+      "rank": 50
     },
     {
       "player": "Reed Sheppard",
@@ -652,19 +616,7 @@
       "first_mention": "2026-05-04",
       "last_mention": "2026-05-04",
       "team": "Houston Rockets",
-      "rank": 54
-    },
-    {
-      "player": "Zaccharie Risacher",
-      "score": 0.5,
-      "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-05-01",
-      "last_mention": "2026-05-01",
-      "team": "Atlanta Hawks",
-      "rank": 55
+      "rank": 51
     },
     {
       "player": "Ayo Dosunmu",
@@ -676,7 +628,7 @@
       "first_mention": "2026-04-27",
       "last_mention": "2026-04-27",
       "team": "Chicago Bulls",
-      "rank": 56
+      "rank": 52
     },
     {
       "player": "Bam Adebayo",
@@ -688,7 +640,7 @@
       "first_mention": "2026-04-27",
       "last_mention": "2026-04-27",
       "team": "Miami Heat",
-      "rank": 57
+      "rank": 53
     },
     {
       "player": "De'Aaron Fox",
@@ -700,7 +652,19 @@
       "first_mention": "2026-04-27",
       "last_mention": "2026-04-27",
       "team": "San Antonio Spurs",
-      "rank": 58
+      "rank": 54
+    },
+    {
+      "player": "Jamal Murray",
+      "score": 0.25,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 1,
+      "first_mention": "2026-05-01",
+      "last_mention": "2026-05-01",
+      "team": "Denver Nuggets",
+      "rank": 55
     },
     {
       "player": "Jimmy Butler",
@@ -712,7 +676,7 @@
       "first_mention": "2026-04-24",
       "last_mention": "2026-04-24",
       "team": "Golden State Warriors",
-      "rank": 59
+      "rank": 56
     },
     {
       "player": "Julius Randle",
@@ -724,7 +688,7 @@
       "first_mention": "2026-04-24",
       "last_mention": "2026-04-24",
       "team": "Minnesota Timberwolves",
-      "rank": 60
+      "rank": 57
     },
     {
       "player": "Keyonte George",
@@ -736,7 +700,7 @@
       "first_mention": "2026-04-30",
       "last_mention": "2026-04-30",
       "team": "Memphis Grizzlies",
-      "rank": 61
+      "rank": 58
     },
     {
       "player": "Luke Kennard",
@@ -748,19 +712,31 @@
       "first_mention": "2026-04-30",
       "last_mention": "2026-04-30",
       "team": "Los Angeles Lakers",
-      "rank": 62
+      "rank": 59
     },
     {
-      "player": "Myles Turner",
+      "player": "Michael Porter",
       "score": 0.25,
       "mentions_week1": 0,
       "mentions_week2": 0,
       "mentions_weeks3_4": 1,
       "total_mentions": 1,
-      "first_mention": "2026-04-17",
-      "last_mention": "2026-04-17",
-      "team": "Milwaukee Bucks",
-      "rank": 63
+      "first_mention": "2026-05-01",
+      "last_mention": "2026-05-01",
+      "team": "Denver Nuggets",
+      "rank": 60
+    },
+    {
+      "player": "Paolo Banchero",
+      "score": 0.25,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 1,
+      "first_mention": "2026-04-29",
+      "last_mention": "2026-04-29",
+      "team": "Orlando Magic",
+      "rank": 61
     },
     {
       "player": "Rudy Gobert",
@@ -772,7 +748,19 @@
       "first_mention": "2026-04-27",
       "last_mention": "2026-04-27",
       "team": "Minnesota Timberwolves",
-      "rank": 64
+      "rank": 62
+    },
+    {
+      "player": "Zaccharie Risacher",
+      "score": 0.25,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 1,
+      "first_mention": "2026-05-01",
+      "last_mention": "2026-05-01",
+      "team": "Atlanta Hawks",
+      "rank": 63
     }
   ],
   "player_rumors": {
@@ -832,13 +820,6 @@
         "text_html": "Some within the Warriors organization believe a Leonard trade was close. Others were skeptical. On the Clippers side, it was a steadfast no from Ballmer, who wields the ultimate hammer. Either way, sources said <a href=\"https://www.espn.com/nba/story/_/id/48526309/the-golden-state-warriors-summer-uncertainty-starts-steve-kerr-stephen-curry-draymond-green\" target=\"_blank\" style=\"color: #1a73e8;\">there's an expectation the Warriors could reengage the Clippers on Leonard's availability this offseason, compile another offer for Antetokounmpo and test the waters again on soon-to-be free agent LeBron James.</a> They could also bring back Porzingis at a lower price than his $30.7 million expiring contract or negotiate a way to use him as a building block in a sign-and-trade for another big name.",
         "outlet": "ESPN",
         "source_url": "https://www.espn.com/nba/story/_/id/48526309/the-golden-state-warriors-summer-uncertainty-starts-steve-kerr-stephen-curry-draymond-green"
-      },
-      {
-        "date": "2026-04-17",
-        "text": "Joey Linn:Lawrence Frank says the Clippers\u2019 plan is to win with Kawhi Leonard.x.com",
-        "text_html": "Joey Linn: <a href=\"https://x.com/joeylinn_/status/2045203340490080687?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">Lawrence Frank says the Clippers\u2019 plan is to win with Kawhi Leonard</a>.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/joeylinn_/status/2045203340490080687?s=20"
       }
     ],
     "Giannis Antetokounmpo": [
@@ -1149,27 +1130,6 @@
         "text_html": "Goran Dragic: \u201cYeah. Can I say something? You\u2019re 31 years old, so you need to think about your knees, you know, keep them loose. So you need a warm climate, man.\u201d <a href=\"https://www.youtube.com/watch?v=M8cLtweBwQs\" target=\"_blank\" style=\"color: #1a73e8;\">Giannis Antetokounmpo: \u201cHey, Miami is not a bad place, man. Beautiful, beautiful city.\u201d</a> Host: \u201cBeautiful city. We\u2019ll leave it at that. We\u2019ll leave it at that.",
         "outlet": "YouTube",
         "source_url": "https://www.youtube.com/watch?v=M8cLtweBwQs"
-      },
-      {
-        "date": "2026-04-17",
-        "text": "Doc Rivers on Giannis Antetokounmpo trade rumors:The whole Giannis stuff, it just wasn\u2019t a whole lot of fun. It just wasn\u2019t. When you\u2019re around Giannis, and then what you hear out the outside, it was two different worlds\u2026. I don\u2019t think Giannis knows if he wants to stay or not. I also don\u2019t know if the organization knows one way or not either.The Ringer",
-        "text_html": "Doc Rivers on Giannis Antetokounmpo trade rumors: <a href=\"https://www.theringer.com/podcasts/the-bill-simmons-podcast\" target=\"_blank\" style=\"color: #1a73e8;\">The whole Giannis stuff, it just wasn\u2019t a whole lot of fun. It just wasn\u2019t. When you\u2019re around Giannis, and then what you hear out the outside, it was two different worlds\u2026. I don\u2019t think Giannis knows if he wants to stay or not. I also don\u2019t know if the organization knows one way or not either</a>.",
-        "outlet": "The Ringer",
-        "source_url": "https://www.theringer.com/podcasts/the-bill-simmons-podcast"
-      },
-      {
-        "date": "2026-04-17",
-        "text": "During the To the Baha podcast, Villanueva stated that Giannis will be a part of the Orlando Magic next season, while in return the Bucks will receive Orlando\u2019s All-Star forward.\"You know I'm involved in the Milwaukee Bucks situation, I'm involved with organization somehow, someway. You know where he's going? Orlando Magic. Remember I said that. Giannis is going to the Orlando Magic. Paolo (Banchero), have a good night,\" Villanueva stated.BasketNews",
-        "text_html": "During the To the Baha podcast, Villanueva stated that Giannis will be a part of the Orlando Magic next season, while in return the Bucks will receive Orlando\u2019s All-Star forward. <a href=\"https://basketnews.com/news-245273-giannis-antetokounmpo-trade-orlando-magic-paolo-banchero.html\" target=\"_blank\" style=\"color: #1a73e8;\">\"You know I'm involved in the Milwaukee Bucks situation, I'm involved with organization somehow, someway. You know where he's going? Orlando Magic. Remember I said that. Giannis is going to the Orlando Magic. Paolo (Banchero), have a good night,\" Villanueva stated</a>.",
-        "outlet": "BasketNews",
-        "source_url": "https://basketnews.com/news-245273-giannis-antetokounmpo-trade-orlando-magic-paolo-banchero.html"
-      },
-      {
-        "date": "2026-04-17",
-        "text": "Myles Turner: So, it\u2019ll be a very interesting offseason. I don\u2019t have any idea what\u2019s going to happen. These exit meetings are going to be interesting.I literally have no idea the direction of our team \u2014 even if Doc will be here next year, if Giannis will be here next year, what our ownership is doing. So, I\u2019m literally just kind of floating right now.\u201dYouTube",
-        "text_html": "Myles Turner: So, it\u2019ll be a very interesting offseason. I don\u2019t have any idea what\u2019s going to happen. These exit meetings are going to be interesting. <a href=\"https://www.youtube.com/watch?v=MQ74bssZBvM\" target=\"_blank\" style=\"color: #1a73e8;\">I literally have no idea the direction of our team \u2014 even if Doc will be here next year, if Giannis will be here next year, what our ownership is doing. So, I\u2019m literally just kind of floating right now.\u201d</a>",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=MQ74bssZBvM"
       }
     ],
     "Draymond Green": [
@@ -1466,13 +1426,6 @@
         "text_html": "<a href=\"https://marcstein.substack.com/p/monday-best-lots-of-the-latest-around\" target=\"_blank\" style=\"color: #1a73e8;\">League sources say that the Warriors were the team that most aggressively pursued a trade for the Clippers' Leonard in the final stages before the league's Feb. 5 trade deadline after the Clippers had already traded away James Harden and Ivica Zubac that same week</a>.",
         "outlet": "marcstein.substack.com",
         "source_url": "https://marcstein.substack.com/p/monday-best-lots-of-the-latest-around"
-      },
-      {
-        "date": "2026-04-17",
-        "text": "Frank signaled that the Clippers would like to extend Leonard, who on Wednesday night requested he be given time to \u201ccry about this loss a little bit more\u201d before talking about his future.Frank acknowledged that questions about trading Leonard came once the Clippers traded James Harden and Ivica Zubac the week of the NBA trade deadline. But the franchise is focused on getting back to contender status with Leonard in the fold. \u201cAt the appropriate time, we\u2019ll sit down with Kawhi, and very similar to 2024, lay out our plan,\u201d Frank said. \u201cAnd if our goals are aligned, then we\u2019d like to win with Kawhi.\u201dNew York Times",
-        "text_html": "<a href=\"https://www.nytimes.com/athletic/7205699/2026/04/17/clippers-tyronn-lue-future-kawhi-leonard-nba/\" target=\"_blank\" style=\"color: #1a73e8;\">Frank signaled that the Clippers would like to extend Leonard, who on Wednesday night requested he be given time to \u201ccry about this loss a little bit more\u201d before talking about his future.</a> Frank acknowledged that questions about trading Leonard came once the Clippers traded James Harden and Ivica Zubac the week of the NBA trade deadline. But the franchise is focused on getting back to contender status with Leonard in the fold. \u201cAt the appropriate time, we\u2019ll sit down with Kawhi, and very similar to 2024, lay out our plan,\u201d Frank said. \u201cAnd if our goals are aligned, then we\u2019d like to win with Kawhi.\u201d",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/7205699/2026/04/17/clippers-tyronn-lue-future-kawhi-leonard-nba/"
       }
     ],
     "Jared McCain": [
@@ -1597,20 +1550,6 @@
         "text_html": "Sources say that the Jazz, who have the emerging Keyonte George at the forefront of their backcourt, are not currently regarded as a possible landing spot for Morant with Memphis widely expected to resume its efforts to trade him in the coming weeks. However \u2026 I <a href=\"https://marcstein.substack.com/p/contracts-aplenty-are-covered-in\" target=\"_blank\" style=\"color: #1a73e8;\">am starting to hear predictive murmurs that the Grizzlies will find a wider trade market for Morant than they did in February when external interest was extremely minimal</a>.",
         "outlet": "marcstein.substack.com",
         "source_url": "https://marcstein.substack.com/p/contracts-aplenty-are-covered-in"
-      },
-      {
-        "date": "2026-04-17",
-        "text": "As the NBA offseason looms, the future of Memphis Grizzlies star Ja Morant has become the league\u2019s most watched storyline. After a turbulent 2025-26 campaign defined by injury and organizational shifts,the trade winds are swirling with two Western Conference contenders emerging as serious suitors: the Phoenix Suns and the Sacramento Kings.ScoopB.com",
-        "text_html": "As the NBA offseason looms, the future of Memphis Grizzlies star Ja Morant has become the league\u2019s most watched storyline. After a turbulent 2025-26 campaign defined by injury and organizational shifts, <a href=\"https://scoopb.com/2026/04/the-ja-morant-sweepstakes-suns-and-kings-eyeing-the-all-star-guard-as-memphis-era-hits-crossroads/\" target=\"_blank\" style=\"color: #1a73e8;\">the trade winds are swirling with two Western Conference contenders emerging as serious suitors: the Phoenix Suns and the Sacramento Kings</a>.",
-        "outlet": "ScoopB.com",
-        "source_url": "https://scoopb.com/2026/04/the-ja-morant-sweepstakes-suns-and-kings-eyeing-the-all-star-guard-as-memphis-era-hits-crossroads/"
-      },
-      {
-        "date": "2026-04-17",
-        "text": "Despite the noise, sources familiar with Ja Morant\u2019s thinking share that he has not yet expressed a specific destination of interest. Morant has been notably quiet in recent days as he navigates the uncertainty of his future. He has contended that he was \u201cleft in the dark\u201d regarding who he might have been traded to at the NBA\u2019s deadline back in February. Credible league sources have shared with ScoopB.com that Morant has expressed that he still has love for the city of Memphis and the Grizzlies\u2019 loyal fanbase, and he is honestly just trusting the process on what is to come. Privately, Morant still does not have a wish list of teams he\u2019d like to play with.ScoopB.com",
-        "text_html": "<a href=\"https://scoopb.com/2026/04/the-ja-morant-sweepstakes-suns-and-kings-eyeing-the-all-star-guard-as-memphis-era-hits-crossroads/\" target=\"_blank\" style=\"color: #1a73e8;\">Despite the noise, sources familiar with Ja Morant\u2019s thinking share that he has not yet expressed a specific destination of interest. Morant has been notably quiet in recent days as he navigates the uncertainty of his future. He has contended that he was \u201cleft in the dark\u201d regarding who he might have been traded to at the NBA\u2019s deadline back in February</a>. Credible league sources have shared with ScoopB.com that Morant has expressed that he still has love for the city of Memphis and the Grizzlies\u2019 loyal fanbase, and he is honestly just trusting the process on what is to come. Privately, Morant still does not have a wish list of teams he\u2019d like to play with.",
-        "outlet": "ScoopB.com",
-        "source_url": "https://scoopb.com/2026/04/the-ja-morant-sweepstakes-suns-and-kings-eyeing-the-all-star-guard-as-memphis-era-hits-crossroads/"
       }
     ],
     "Joel Embiid": [
@@ -1877,20 +1816,6 @@
         "text_html": "<a href=\"https://marcstein.substack.com/p/monday-best-lots-of-the-latest-around\" target=\"_blank\" style=\"color: #1a73e8;\">League sources say that the Warriors were the team that most aggressively pursued a trade for the Clippers' Leonard in the final stages before the league's Feb. 5 trade deadline after the Clippers had already traded away James Harden and Ivica Zubac that same week</a>.",
         "outlet": "marcstein.substack.com",
         "source_url": "https://marcstein.substack.com/p/monday-best-lots-of-the-latest-around"
-      },
-      {
-        "date": "2026-04-17",
-        "text": "Frank signaled that the Clippers would like to extend Leonard, who on Wednesday night requested he be given time to \u201ccry about this loss a little bit more\u201d before talking about his future.Frank acknowledged that questions about trading Leonard came once the Clippers traded James Harden and Ivica Zubac the week of the NBA trade deadline. But the franchise is focused on getting back to contender status with Leonard in the fold. \u201cAt the appropriate time, we\u2019ll sit down with Kawhi, and very similar to 2024, lay out our plan,\u201d Frank said. \u201cAnd if our goals are aligned, then we\u2019d like to win with Kawhi.\u201dNew York Times",
-        "text_html": "<a href=\"https://www.nytimes.com/athletic/7205699/2026/04/17/clippers-tyronn-lue-future-kawhi-leonard-nba/\" target=\"_blank\" style=\"color: #1a73e8;\">Frank signaled that the Clippers would like to extend Leonard, who on Wednesday night requested he be given time to \u201ccry about this loss a little bit more\u201d before talking about his future.</a> Frank acknowledged that questions about trading Leonard came once the Clippers traded James Harden and Ivica Zubac the week of the NBA trade deadline. But the franchise is focused on getting back to contender status with Leonard in the fold. \u201cAt the appropriate time, we\u2019ll sit down with Kawhi, and very similar to 2024, lay out our plan,\u201d Frank said. \u201cAnd if our goals are aligned, then we\u2019d like to win with Kawhi.\u201d",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/7205699/2026/04/17/clippers-tyronn-lue-future-kawhi-leonard-nba/"
-      },
-      {
-        "date": "2026-04-17",
-        "text": "Harden has a $42 million player option for next season that he\u2019s likely to decline, a league source said. But a longer-term deal at a lesser number still would not be cheap. With today\u2019s rules, with the way high payrolls chip away at resources and wallets, teams can\u2019t stay so expensive while continuing to lose in the second round. Meanwhile, Mitchell, who can hit free agency in 2027, becomes eligible for an extension this summer.If he signs it, the Cavs can move forward with him at their core. If he doesn\u2019t, the organization will discuss the possibility of moving him,league sources said.New York Times",
-        "text_html": "Harden has a $42 million player option for next season that he\u2019s likely to decline, a league source said. But a longer-term deal at a lesser number still would not be cheap. With today\u2019s rules, with the way high payrolls chip away at resources and wallets, teams can\u2019t stay so expensive while continuing to lose in the second round. Meanwhile, Mitchell, who can hit free agency in 2027, becomes eligible for an extension this summer. <a href=\"https://www.nytimes.com/athletic/7199232/2026/04/17/james-harden-cavaliers-nba-playoffs-expectations/\" target=\"_blank\" style=\"color: #1a73e8;\">If he signs it, the Cavs can move forward with him at their core. If he doesn\u2019t, the organization will discuss the possibility of moving him,</a> league sources said.",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/7199232/2026/04/17/james-harden-cavaliers-nba-playoffs-expectations/"
       }
     ],
     "Alperen Sengun": [
@@ -2102,13 +2027,6 @@
         "text_html": "Despite not having significant draft capital to acquire Antetokounmpo after making the Bane trade, <a href=\"https://www.hoopshype.com/story/sports/nba/2026/04/29/nba-intel-giannis-antetokounmpo-lakers-bulls-timberwolves-magic/89850375007/\" target=\"_blank\" style=\"color: #1a73e8;\">Orlando has talented young players in former No. 1 pick Paolo Banchero and Wagner. Black also took a step in his development this season. Each player could have appealed to Milwaukee on paper, but it\u2019s unclear how far the talks progressed between both sides.</a> Ultimately, the Bucks kept Antetokounmpo despite various interest in him from across the league. They\u2019ve since hired Taylor Jenkins, who was an assistant coach under Mike Budenholzer when the Bucks won 60 games and advanced to the 2019 Eastern Conference Finals. It\u2019s worth noting that Antetokounmpo and Jenkins are said to have a good relationship, according to league sources.",
         "outlet": "HoopsHype",
         "source_url": "https://www.hoopshype.com/story/sports/nba/2026/04/29/nba-intel-giannis-antetokounmpo-lakers-bulls-timberwolves-magic/89850375007/"
-      },
-      {
-        "date": "2026-04-17",
-        "text": "During the To the Baha podcast, Villanueva stated that Giannis will be a part of the Orlando Magic next season, while in return the Bucks will receive Orlando\u2019s All-Star forward.\"You know I'm involved in the Milwaukee Bucks situation, I'm involved with organization somehow, someway. You know where he's going? Orlando Magic. Remember I said that. Giannis is going to the Orlando Magic. Paolo (Banchero), have a good night,\" Villanueva stated.BasketNews",
-        "text_html": "During the To the Baha podcast, Villanueva stated that Giannis will be a part of the Orlando Magic next season, while in return the Bucks will receive Orlando\u2019s All-Star forward. <a href=\"https://basketnews.com/news-245273-giannis-antetokounmpo-trade-orlando-magic-paolo-banchero.html\" target=\"_blank\" style=\"color: #1a73e8;\">\"You know I'm involved in the Milwaukee Bucks situation, I'm involved with organization somehow, someway. You know where he's going? Orlando Magic. Remember I said that. Giannis is going to the Orlando Magic. Paolo (Banchero), have a good night,\" Villanueva stated</a>.",
-        "outlet": "BasketNews",
-        "source_url": "https://basketnews.com/news-245273-giannis-antetokounmpo-trade-orlando-magic-paolo-banchero.html"
       }
     ],
     "Victor Wembanyama": [
@@ -2196,15 +2114,6 @@
         "outlet": "ESPN",
         "source_url": "https://www.espn.com/nba/story/_/id/48552647/nba-playoffs-2026-karl-anthony-towns-knicks-stakes-heading-game-3-hawks"
       }
-    ],
-    "Myles Turner": [
-      {
-        "date": "2026-04-17",
-        "text": "Myles Turner: So, it\u2019ll be a very interesting offseason. I don\u2019t have any idea what\u2019s going to happen. These exit meetings are going to be interesting.I literally have no idea the direction of our team \u2014 even if Doc will be here next year, if Giannis will be here next year, what our ownership is doing. So, I\u2019m literally just kind of floating right now.\u201dYouTube",
-        "text_html": "Myles Turner: So, it\u2019ll be a very interesting offseason. I don\u2019t have any idea what\u2019s going to happen. These exit meetings are going to be interesting. <a href=\"https://www.youtube.com/watch?v=MQ74bssZBvM\" target=\"_blank\" style=\"color: #1a73e8;\">I literally have no idea the direction of our team \u2014 even if Doc will be here next year, if Giannis will be here next year, what our ownership is doing. So, I\u2019m literally just kind of floating right now.\u201d</a>",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=MQ74bssZBvM"
-      }
     ]
   },
   "daily_counts": {
@@ -2215,8 +2124,7 @@
       "2026-05-11": 1,
       "2026-05-02": 1,
       "2026-04-24": 1,
-      "2026-04-20": 2,
-      "2026-04-17": 1
+      "2026-04-20": 2
     },
     "Giannis Antetokounmpo": {
       "2026-05-15": 3,
@@ -2233,8 +2141,7 @@
       "2026-04-24": 1,
       "2026-04-23": 4,
       "2026-04-20": 2,
-      "2026-04-18": 4,
-      "2026-04-17": 3
+      "2026-04-18": 4
     },
     "Draymond Green": {
       "2026-05-14": 1,
@@ -2297,8 +2204,7 @@
     "Ivica Zubac": {
       "2026-05-13": 1,
       "2026-05-11": 1,
-      "2026-04-20": 1,
-      "2026-04-17": 1
+      "2026-04-20": 1
     },
     "Jared McCain": {
       "2026-05-13": 1,
@@ -2321,8 +2227,7 @@
     },
     "Ja Morant": {
       "2026-05-11": 2,
-      "2026-04-30": 1,
-      "2026-04-17": 2
+      "2026-04-30": 1
     },
     "Joel Embiid": {
       "2026-05-11": 2,
@@ -2378,8 +2283,7 @@
     },
     "James Harden": {
       "2026-05-04": 2,
-      "2026-04-20": 1,
-      "2026-04-17": 2
+      "2026-04-20": 1
     },
     "Alperen Sengun": {
       "2026-05-04": 1,
@@ -2438,8 +2342,7 @@
       "2026-04-30": 2
     },
     "Paolo Banchero": {
-      "2026-04-29": 1,
-      "2026-04-17": 1
+      "2026-04-29": 1
     },
     "Victor Wembanyama": {
       "2026-04-29": 1,
@@ -2466,9 +2369,6 @@
     "Karl-Anthony Towns": {
       "2026-04-24": 1,
       "2026-04-23": 1
-    },
-    "Myles Turner": {
-      "2026-04-17": 1
     }
   }
 }
