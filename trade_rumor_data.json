@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-05-31T20:07:48.752956",
+  "generated_at": "2026-06-01T06:01:59.858738",
   "scrape_window_days": 28,
-  "window_start": "2026-05-03",
-  "window_end": "2026-05-31",
-  "total_rumors": 194,
-  "total_players": 74,
+  "window_start": "2026-05-04",
+  "window_end": "2026-06-01",
+  "total_rumors": 191,
+  "total_players": 73,
   "rankings": [
     {
       "player": "Giannis Antetokounmpo",
-      "score": 31.5,
-      "mentions_week1": 20,
-      "mentions_week2": 9,
+      "score": 29.0,
+      "mentions_week1": 15,
+      "mentions_week2": 14,
       "mentions_weeks3_4": 28,
       "total_mentions": 57,
       "first_mention": "2026-05-05",
@@ -20,9 +20,9 @@
     },
     {
       "player": "Evan Mobley",
-      "score": 4.25,
-      "mentions_week1": 4,
-      "mentions_week2": 0,
+      "score": 3.75,
+      "mentions_week1": 3,
+      "mentions_week2": 1,
       "mentions_weeks3_4": 1,
       "total_mentions": 5,
       "first_mention": "2026-05-07",
@@ -55,18 +55,6 @@
       "rank": 4
     },
     {
-      "player": "LeBron James",
-      "score": 2.75,
-      "mentions_week1": 2,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 3,
-      "total_mentions": 5,
-      "first_mention": "2026-05-12",
-      "last_mention": "2026-05-24",
-      "team": "Los Angeles Lakers",
-      "rank": 5
-    },
-    {
       "player": "Draymond Green",
       "score": 2.25,
       "mentions_week1": 1,
@@ -76,7 +64,7 @@
       "first_mention": "2026-05-05",
       "last_mention": "2026-05-31",
       "team": "Golden State Warriors",
-      "rank": 6
+      "rank": 5
     },
     {
       "player": "Victor Wembanyama",
@@ -88,6 +76,18 @@
       "first_mention": "2026-05-29",
       "last_mention": "2026-05-30",
       "team": "San Antonio Spurs",
+      "rank": 6
+    },
+    {
+      "player": "LeBron James",
+      "score": 1.75,
+      "mentions_week1": 0,
+      "mentions_week2": 2,
+      "mentions_weeks3_4": 3,
+      "total_mentions": 5,
+      "first_mention": "2026-05-12",
+      "last_mention": "2026-05-24",
+      "team": "Los Angeles Lakers",
       "rank": 7
     },
     {
@@ -127,18 +127,6 @@
       "rank": 10
     },
     {
-      "player": "Donovan Mitchell",
-      "score": 1.5,
-      "mentions_week1": 1,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 2,
-      "first_mention": "2026-05-17",
-      "last_mention": "2026-05-26",
-      "team": "Cleveland Cavaliers",
-      "rank": 11
-    },
-    {
       "player": "Lauri Markkanen",
       "score": 1.5,
       "mentions_week1": 1,
@@ -148,7 +136,7 @@
       "first_mention": "2026-05-18",
       "last_mention": "2026-05-29",
       "team": "Utah Jazz",
-      "rank": 12
+      "rank": 11
     },
     {
       "player": "Austin Reaves",
@@ -160,19 +148,7 @@
       "first_mention": "2026-05-12",
       "last_mention": "2026-05-19",
       "team": "Los Angeles Lakers",
-      "rank": 13
-    },
-    {
-      "player": "James Harden",
-      "score": 1.25,
-      "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 3,
-      "total_mentions": 4,
-      "first_mention": "2026-05-04",
-      "last_mention": "2026-05-17",
-      "team": "Los Angeles Clippers",
-      "rank": 14
+      "rank": 12
     },
     {
       "player": "Jared McCain",
@@ -184,7 +160,7 @@
       "first_mention": "2026-05-08",
       "last_mention": "2026-05-23",
       "team": "Philadelphia 76ers",
-      "rank": 15
+      "rank": 13
     },
     {
       "player": "Kevin Durant",
@@ -196,7 +172,7 @@
       "first_mention": "2026-05-04",
       "last_mention": "2026-05-20",
       "team": "Houston Rockets",
-      "rank": 16
+      "rank": 14
     },
     {
       "player": "Luka Doncic",
@@ -208,7 +184,19 @@
       "first_mention": "2026-05-06",
       "last_mention": "2026-05-19",
       "team": "Los Angeles Lakers",
-      "rank": 17
+      "rank": 15
+    },
+    {
+      "player": "Donovan Mitchell",
+      "score": 1.25,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 2,
+      "first_mention": "2026-05-17",
+      "last_mention": "2026-05-26",
+      "team": "Cleveland Cavaliers",
+      "rank": 16
     },
     {
       "player": "Donte DiVincenzo",
@@ -220,6 +208,18 @@
       "first_mention": "2026-05-13",
       "last_mention": "2026-05-26",
       "team": "Minnesota Timberwolves",
+      "rank": 17
+    },
+    {
+      "player": "James Harden",
+      "score": 1.0,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 4,
+      "total_mentions": 4,
+      "first_mention": "2026-05-04",
+      "last_mention": "2026-05-17",
+      "team": "Los Angeles Clippers",
       "rank": 18
     },
     {
@@ -295,30 +295,6 @@
       "rank": 24
     },
     {
-      "player": "De'Aaron Fox",
-      "score": 1.0,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-05-24",
-      "last_mention": "2026-05-24",
-      "team": "San Antonio Spurs",
-      "rank": 25
-    },
-    {
-      "player": "Dylan Harper",
-      "score": 1.0,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-05-24",
-      "last_mention": "2026-05-24",
-      "team": "San Antonio Spurs",
-      "rank": 26
-    },
-    {
       "player": "Jaime Jaquez",
       "score": 1.0,
       "mentions_week1": 1,
@@ -328,7 +304,7 @@
       "first_mention": "2026-05-25",
       "last_mention": "2026-05-25",
       "team": "Boston Celtics",
-      "rank": 27
+      "rank": 25
     },
     {
       "player": "John Collins",
@@ -340,7 +316,7 @@
       "first_mention": "2026-05-26",
       "last_mention": "2026-05-26",
       "team": "Los Angeles Clippers",
-      "rank": 28
+      "rank": 26
     },
     {
       "player": "Jonas Valanciunas",
@@ -352,7 +328,7 @@
       "first_mention": "2026-05-26",
       "last_mention": "2026-05-26",
       "team": "Denver Nuggets",
-      "rank": 29
+      "rank": 27
     },
     {
       "player": "Kasparas Jakucionis",
@@ -364,7 +340,7 @@
       "first_mention": "2026-05-30",
       "last_mention": "2026-05-30",
       "team": "Miami Heat",
-      "rank": 30
+      "rank": 28
     },
     {
       "player": "Kel'el Ware",
@@ -376,7 +352,7 @@
       "first_mention": "2026-05-25",
       "last_mention": "2026-05-25",
       "team": "Miami Heat",
-      "rank": 31
+      "rank": 29
     },
     {
       "player": "Nikola Jovic",
@@ -388,7 +364,7 @@
       "first_mention": "2026-05-30",
       "last_mention": "2026-05-30",
       "team": "Miami Heat",
-      "rank": 32
+      "rank": 30
     },
     {
       "player": "Pelle Larsson",
@@ -400,7 +376,7 @@
       "first_mention": "2026-05-30",
       "last_mention": "2026-05-30",
       "team": "Miami Heat",
-      "rank": 33
+      "rank": 31
     },
     {
       "player": "Peyton Watson",
@@ -412,19 +388,7 @@
       "first_mention": "2026-05-29",
       "last_mention": "2026-05-29",
       "team": "Denver Nuggets",
-      "rank": 34
-    },
-    {
-      "player": "Stephon Castle",
-      "score": 1.0,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-05-24",
-      "last_mention": "2026-05-24",
-      "team": "San Antonio Spurs",
-      "rank": 35
+      "rank": 32
     },
     {
       "player": "Trey Murphy",
@@ -436,7 +400,7 @@
       "first_mention": "2026-05-31",
       "last_mention": "2026-05-31",
       "team": "New Orleans Pelicans",
-      "rank": 36
+      "rank": 33
     },
     {
       "player": "Tyler Herro",
@@ -448,7 +412,7 @@
       "first_mention": "2026-05-25",
       "last_mention": "2026-05-25",
       "team": "Miami Heat",
-      "rank": 37
+      "rank": 34
     },
     {
       "player": "Walker Kessler",
@@ -460,7 +424,7 @@
       "first_mention": "2026-05-29",
       "last_mention": "2026-05-29",
       "team": "Utah Jazz",
-      "rank": 38
+      "rank": 35
     },
     {
       "player": "Jayson Tatum",
@@ -472,19 +436,7 @@
       "first_mention": "2026-05-05",
       "last_mention": "2026-05-07",
       "team": "Boston Celtics",
-      "rank": 39
-    },
-    {
-      "player": "Jrue Holiday",
-      "score": 0.75,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 3,
-      "total_mentions": 3,
-      "first_mention": "2026-05-03",
-      "last_mention": "2026-05-16",
-      "team": "Portland Trail Blazers",
-      "rank": 40
+      "rank": 36
     },
     {
       "player": "Jakob Poeltl",
@@ -496,7 +448,7 @@
       "first_mention": "2026-05-05",
       "last_mention": "2026-05-20",
       "team": "Toronto Raptors",
-      "rank": 41
+      "rank": 37
     },
     {
       "player": "Rudy Gobert",
@@ -508,19 +460,7 @@
       "first_mention": "2026-05-16",
       "last_mention": "2026-05-20",
       "team": "Minnesota Timberwolves",
-      "rank": 42
-    },
-    {
-      "player": "Alperen Sengun",
-      "score": 0.5,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 2,
-      "first_mention": "2026-05-03",
-      "last_mention": "2026-05-04",
-      "team": "Houston Rockets",
-      "rank": 43
+      "rank": 38
     },
     {
       "player": "Ivica Zubac",
@@ -532,7 +472,7 @@
       "first_mention": "2026-05-11",
       "last_mention": "2026-05-13",
       "team": "Los Angeles Clippers",
-      "rank": 44
+      "rank": 39
     },
     {
       "player": "Joel Embiid",
@@ -544,7 +484,19 @@
       "first_mention": "2026-05-11",
       "last_mention": "2026-05-11",
       "team": "Philadelphia 76ers",
-      "rank": 45
+      "rank": 40
+    },
+    {
+      "player": "Jrue Holiday",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 2,
+      "total_mentions": 2,
+      "first_mention": "2026-05-16",
+      "last_mention": "2026-05-16",
+      "team": "Portland Trail Blazers",
+      "rank": 41
     },
     {
       "player": "Stephen Curry",
@@ -556,7 +508,7 @@
       "first_mention": "2026-05-09",
       "last_mention": "2026-05-10",
       "team": "Golden State Warriors",
-      "rank": 46
+      "rank": 42
     },
     {
       "player": "Trae Young",
@@ -568,19 +520,7 @@
       "first_mention": "2026-05-07",
       "last_mention": "2026-05-14",
       "team": "Atlanta Hawks",
-      "rank": 47
-    },
-    {
-      "player": "Ayo Dosunmu",
-      "score": 0.5,
-      "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-05-17",
-      "last_mention": "2026-05-17",
-      "team": "Chicago Bulls",
-      "rank": 48
+      "rank": 43
     },
     {
       "player": "Cooper Flagg",
@@ -592,7 +532,31 @@
       "first_mention": "2026-05-23",
       "last_mention": "2026-05-23",
       "team": "Dallas Mavericks",
-      "rank": 49
+      "rank": 44
+    },
+    {
+      "player": "De'Aaron Fox",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-05-24",
+      "last_mention": "2026-05-24",
+      "team": "San Antonio Spurs",
+      "rank": 45
+    },
+    {
+      "player": "Dylan Harper",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-05-24",
+      "last_mention": "2026-05-24",
+      "team": "San Antonio Spurs",
+      "rank": 46
     },
     {
       "player": "Scoot Henderson",
@@ -604,7 +568,19 @@
       "first_mention": "2026-05-20",
       "last_mention": "2026-05-20",
       "team": "Milwaukee Bucks",
-      "rank": 50
+      "rank": 47
+    },
+    {
+      "player": "Stephon Castle",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-05-24",
+      "last_mention": "2026-05-24",
+      "team": "San Antonio Spurs",
+      "rank": 48
     },
     {
       "player": "Zion Williamson",
@@ -616,7 +592,7 @@
       "first_mention": "2026-05-20",
       "last_mention": "2026-05-20",
       "team": "New Orleans Pelicans",
-      "rank": 51
+      "rank": 49
     },
     {
       "player": "Aaron Wiggins",
@@ -628,7 +604,19 @@
       "first_mention": "2026-05-13",
       "last_mention": "2026-05-13",
       "team": "Chicago Bulls",
-      "rank": 52
+      "rank": 50
+    },
+    {
+      "player": "Alperen Sengun",
+      "score": 0.25,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 1,
+      "first_mention": "2026-05-04",
+      "last_mention": "2026-05-04",
+      "team": "Houston Rockets",
+      "rank": 51
     },
     {
       "player": "Amen Thompson",
@@ -640,7 +628,7 @@
       "first_mention": "2026-05-04",
       "last_mention": "2026-05-04",
       "team": "Houston Rockets",
-      "rank": 53
+      "rank": 52
     },
     {
       "player": "Anthony Davis",
@@ -652,6 +640,18 @@
       "first_mention": "2026-05-07",
       "last_mention": "2026-05-07",
       "team": "Dallas Mavericks",
+      "rank": 53
+    },
+    {
+      "player": "Ayo Dosunmu",
+      "score": 0.25,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 1,
+      "first_mention": "2026-05-17",
+      "last_mention": "2026-05-17",
+      "team": "Chicago Bulls",
       "rank": 54
     },
     {
@@ -703,18 +703,6 @@
       "rank": 58
     },
     {
-      "player": "Derrick White",
-      "score": 0.25,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 1,
-      "first_mention": "2026-05-03",
-      "last_mention": "2026-05-03",
-      "team": "Boston Celtics",
-      "rank": 59
-    },
-    {
       "player": "Dillon Brooks",
       "score": 0.25,
       "mentions_week1": 0,
@@ -724,7 +712,7 @@
       "first_mention": "2026-05-13",
       "last_mention": "2026-05-13",
       "team": "Phoenix Suns",
-      "rank": 60
+      "rank": 59
     },
     {
       "player": "Gradey Dick",
@@ -736,7 +724,7 @@
       "first_mention": "2026-05-05",
       "last_mention": "2026-05-05",
       "team": "Toronto Raptors",
-      "rank": 61
+      "rank": 60
     },
     {
       "player": "Jalen Green",
@@ -748,7 +736,7 @@
       "first_mention": "2026-05-13",
       "last_mention": "2026-05-13",
       "team": "Phoenix Suns",
-      "rank": 62
+      "rank": 61
     },
     {
       "player": "Jalen Smith",
@@ -760,7 +748,7 @@
       "first_mention": "2026-05-13",
       "last_mention": "2026-05-13",
       "team": "Chicago Bulls",
-      "rank": 63
+      "rank": 62
     },
     {
       "player": "Jalen Suggs",
@@ -772,7 +760,7 @@
       "first_mention": "2026-05-04",
       "last_mention": "2026-05-04",
       "team": "Orlando Magic",
-      "rank": 64
+      "rank": 63
     },
     {
       "player": "Julius Randle",
@@ -784,7 +772,7 @@
       "first_mention": "2026-05-16",
       "last_mention": "2026-05-16",
       "team": "Minnesota Timberwolves",
-      "rank": 65
+      "rank": 64
     },
     {
       "player": "Kyle Kuzma",
@@ -796,7 +784,7 @@
       "first_mention": "2026-05-11",
       "last_mention": "2026-05-11",
       "team": "Milwaukee Bucks",
-      "rank": 66
+      "rank": 65
     },
     {
       "player": "Naji Marshall",
@@ -808,7 +796,7 @@
       "first_mention": "2026-05-13",
       "last_mention": "2026-05-13",
       "team": "Dallas Mavericks",
-      "rank": 67
+      "rank": 66
     },
     {
       "player": "Naz Reid",
@@ -820,7 +808,7 @@
       "first_mention": "2026-05-16",
       "last_mention": "2026-05-16",
       "team": "Minnesota Timberwolves",
-      "rank": 68
+      "rank": 67
     },
     {
       "player": "Nikola Jokic",
@@ -832,7 +820,7 @@
       "first_mention": "2026-05-08",
       "last_mention": "2026-05-08",
       "team": "Denver Nuggets",
-      "rank": 69
+      "rank": 68
     },
     {
       "player": "Paul George",
@@ -844,7 +832,7 @@
       "first_mention": "2026-05-11",
       "last_mention": "2026-05-11",
       "team": "Philadelphia 76ers",
-      "rank": 70
+      "rank": 69
     },
     {
       "player": "Reed Sheppard",
@@ -856,7 +844,7 @@
       "first_mention": "2026-05-04",
       "last_mention": "2026-05-04",
       "team": "Houston Rockets",
-      "rank": 71
+      "rank": 70
     },
     {
       "player": "Ryan Dunn",
@@ -868,7 +856,7 @@
       "first_mention": "2026-05-13",
       "last_mention": "2026-05-13",
       "team": "Dallas Mavericks",
-      "rank": 72
+      "rank": 71
     },
     {
       "player": "Tyrese Maxey",
@@ -880,7 +868,7 @@
       "first_mention": "2026-05-16",
       "last_mention": "2026-05-16",
       "team": "Philadelphia 76ers",
-      "rank": 73
+      "rank": 72
     },
     {
       "player": "Vit Krejci",
@@ -892,7 +880,7 @@
       "first_mention": "2026-05-13",
       "last_mention": "2026-05-13",
       "team": "Philadelphia 76ers",
-      "rank": 74
+      "rank": 73
     }
   ],
   "player_rumors": {
@@ -2110,13 +2098,6 @@
         "text_html": "Anonymous NBA scout on Holiday\u2019s <a href=\"https://www.oregonlive.com/blazers/2026/05/jrue-holiday-a-glue-guy-who-would-love-stay-in-portland-trail-blazers-season-review.html\" target=\"_blank\" style=\"color: #1a73e8;\">season: \u201cJrue is just the ultimate glue guy, a true professional on both sides of the floor. When they traded for him, it was like, \u201cWhy are they doing this? Let him go somewhere he can compete for a championship.\u201d</a> But Jrue is going to play hard every night, do what\u2019s needed to be done to win games, whether that\u2019s play on the ball, off the ball, whatever. And he was good for them. I love Jrue and the way he complements Toumani (Camara) defensively. That\u2019s two good perimeter defenders.\u201d",
         "outlet": "Oregonian",
         "source_url": "https://www.oregonlive.com/blazers/2026/05/jrue-holiday-a-glue-guy-who-would-love-stay-in-portland-trail-blazers-season-review.html"
-      },
-      {
-        "date": "2026-05-03",
-        "text": "Word is that Portland fully expects Lillard to return next season from the Achilles tear he sustained in April 2025 to potentially join Jrue Holiday in its starting backcourt... With Henderson in the mix as well. How all the pieces fit together remains to be seen, butit's likewise expected that the Blazers will field plenty of external trade\u00a0interest\u00a0in Holiday in coming weeks and months.marcstein.substack.com",
-        "text_html": "Word is that Portland fully expects Lillard to return next season from the Achilles tear he sustained in April 2025 to potentially join Jrue Holiday in its starting backcourt... With Henderson in the mix as well. How all the pieces fit together remains to be seen, but <a href=\"https://marcstein.substack.com/p/your-nba-weekend-three-game-7s-and\" target=\"_blank\" style=\"color: #1a73e8;\">it's likewise expected that the Blazers will field plenty of external trade interest in Holiday in coming weeks and months</a>.",
-        "outlet": "marcstein.substack.com",
-        "source_url": "https://marcstein.substack.com/p/your-nba-weekend-three-game-7s-and"
       }
     ],
     "Trae Young": [
@@ -2366,13 +2347,6 @@
         "text_html": "<a href=\"https://www.espn.com/nba/story/_/id/48620723/injuries-kevin-durant-burner-phones-massive-leadership-void-why-houston-rockets-season-ended-thud\" target=\"_blank\" style=\"color: #1a73e8;\">As fondly as they still regarded Harden, there was a wariness about how he would affect the development of Sengun, Sheppard and Thompson</a>. \"We're not really looking for a heliocentric player, as great as James still is,\" one team source said. \"We want to develop Reed, we want to develop Amen and we want the ball in Alpy's hands.\" As another said, \"We weren't going to put the ball in [Harden's] hands, so why would you trade for James if you're not going to give him the ball?\"",
         "outlet": "ESPN",
         "source_url": "https://www.espn.com/nba/story/_/id/48620723/injuries-kevin-durant-burner-phones-massive-leadership-void-why-houston-rockets-season-ended-thud"
-      },
-      {
-        "date": "2026-05-03",
-        "text": "Alperen Sengun, who entered the season with\u00a0high expectations, had an inconsistent fifth season. His efficiency wasn\u2019t where it needs to be for a big man who commands so much of the offense and his defense was middling. In Game 6, Los Angeles didn\u2019t send help and let\u00a0\u015eeng\u00fcn attack one-on-one with Ayton. The Rockets big man finished 5-for-12 with four turnovers.Media and fans have floated his name around as a potential centerpiece if the Rockets go star-hunting. His reaction to that? \u201cI cannot do anything about those conversations. It is what it is,\u201d he said.\"\u2026 Wherever I go or\u2026 if I stay here, I\u2019m just going to stay with it. I\u2019m going to do what I\u2019m doing. Same goals. Same everything.\u201dHouston Chronicle",
-        "text_html": "Alperen Sengun, who entered the season with high expectations, had an inconsistent fifth season. His efficiency wasn\u2019t where it needs to be for a big man who commands so much of the offense and his defense was middling. In Game 6, Los Angeles didn\u2019t send help and let \u015eeng\u00fcn attack one-on-one with Ayton. The Rockets big man finished 5-for-12 with four turnovers. <a href=\"https://www.houstonchronicle.com/sports/rockets/article/houston-playoff-exit-next-moves-22235870.php\" target=\"_blank\" style=\"color: #1a73e8;\">Media and fans have floated his name around as a potential centerpiece if the Rockets go star-hunting. His reaction to that? \u201cI cannot do anything about those conversations. It is what it is,\u201d he said.</a> \"\u2026 Wherever I go or\u2026 if I stay here, I\u2019m just going to stay with it. I\u2019m going to do what I\u2019m doing. Same goals. Same everything.\u201d",
-        "outlet": "Houston Chronicle",
-        "source_url": "https://www.houstonchronicle.com/sports/rockets/article/houston-playoff-exit-next-moves-22235870.php"
       }
     ],
     "Amen Thompson": [
@@ -2391,15 +2365,6 @@
         "text_html": "<a href=\"https://www.espn.com/nba/story/_/id/48620723/injuries-kevin-durant-burner-phones-massive-leadership-void-why-houston-rockets-season-ended-thud\" target=\"_blank\" style=\"color: #1a73e8;\">As fondly as they still regarded Harden, there was a wariness about how he would affect the development of Sengun, Sheppard and Thompson</a>. \"We're not really looking for a heliocentric player, as great as James still is,\" one team source said. \"We want to develop Reed, we want to develop Amen and we want the ball in Alpy's hands.\" As another said, \"We weren't going to put the ball in [Harden's] hands, so why would you trade for James if you're not going to give him the ball?\"",
         "outlet": "ESPN",
         "source_url": "https://www.espn.com/nba/story/_/id/48620723/injuries-kevin-durant-burner-phones-massive-leadership-void-why-houston-rockets-season-ended-thud"
-      }
-    ],
-    "Derrick White": [
-      {
-        "date": "2026-05-03",
-        "text": "Looking at Boston\u2019s highest-paid players, Brown and Tatum won\u2019t be going anywhere,which leaves Derrick White as the only player making a considerable salary next year that the Celtics\u00a0could\u00a0move.White, 31, will make $30.3 million next year and two years from now, he has a $34.8 million player option for the 2028\u201329 season when he will be 34 years old. White has been a huge part of the Celtics\u2019 success since his arrival in 2022 and he played a big part in Boston\u2019s title run in \u201824.Sports Illustrated",
-        "text_html": "Looking at Boston\u2019s highest-paid players, Brown and Tatum won\u2019t be going anywhere, <a href=\"https://www.si.com/nba/playoffs/celtics-offseason-preview-how-boston-can-bounce-back-after-shocking-first-round-exit--76ers\" target=\"_blank\" style=\"color: #1a73e8;\">which leaves Derrick White as the only player making a considerable salary next year that the Celtics could move.</a> White, 31, will make $30.3 million next year and two years from now, he has a $34.8 million player option for the 2028\u201329 season when he will be 34 years old. White has been a huge part of the Celtics\u2019 success since his arrival in 2022 and he played a big part in Boston\u2019s title run in \u201824.",
-        "outlet": "Sports Illustrated",
-        "source_url": "https://www.si.com/nba/playoffs/celtics-offseason-preview-how-boston-can-bounce-back-after-shocking-first-round-exit--76ers"
       }
     ]
   },
@@ -2608,8 +2573,7 @@
       "2026-05-16": 1
     },
     "Jrue Holiday": {
-      "2026-05-16": 2,
-      "2026-05-03": 1
+      "2026-05-16": 2
     },
     "Trae Young": {
       "2026-05-14": 1,
@@ -2682,17 +2646,13 @@
       "2026-05-04": 1
     },
     "Alperen Sengun": {
-      "2026-05-04": 1,
-      "2026-05-03": 1
+      "2026-05-04": 1
     },
     "Amen Thompson": {
       "2026-05-04": 1
     },
     "Reed Sheppard": {
       "2026-05-04": 1
-    },
-    "Derrick White": {
-      "2026-05-03": 1
     }
   }
 }
