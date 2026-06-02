@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-06-01T22:09:51.510605",
+  "generated_at": "2026-06-02T05:48:17.136639",
   "scrape_window_days": 28,
-  "window_start": "2026-05-04",
-  "window_end": "2026-06-01",
-  "total_rumors": 198,
-  "total_players": 75,
+  "window_start": "2026-05-05",
+  "window_end": "2026-06-02",
+  "total_rumors": 194,
+  "total_players": 73,
   "rankings": [
     {
       "player": "Giannis Antetokounmpo",
-      "score": 29.0,
-      "mentions_week1": 15,
-      "mentions_week2": 14,
-      "mentions_weeks3_4": 28,
+      "score": 26.0,
+      "mentions_week1": 10,
+      "mentions_week2": 17,
+      "mentions_weeks3_4": 30,
       "total_mentions": 57,
       "first_mention": "2026-05-05",
       "last_mention": "2026-05-31",
@@ -32,10 +32,10 @@
     },
     {
       "player": "Jaylen Brown",
-      "score": 3.5,
-      "mentions_week1": 1,
+      "score": 2.75,
+      "mentions_week1": 0,
       "mentions_week2": 1,
-      "mentions_weeks3_4": 8,
+      "mentions_weeks3_4": 9,
       "total_mentions": 10,
       "first_mention": "2026-05-05",
       "last_mention": "2026-05-25",
@@ -44,10 +44,10 @@
     },
     {
       "player": "Kawhi Leonard",
-      "score": 3.0,
+      "score": 2.75,
       "mentions_week1": 1,
-      "mentions_week2": 2,
-      "mentions_weeks3_4": 4,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 5,
       "total_mentions": 7,
       "first_mention": "2026-05-11",
       "last_mention": "2026-05-30",
@@ -127,6 +127,18 @@
       "rank": 10
     },
     {
+      "player": "Trey Murphy",
+      "score": 2.0,
+      "mentions_week1": 2,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 2,
+      "first_mention": "2026-05-31",
+      "last_mention": "2026-06-01",
+      "team": "New Orleans Pelicans",
+      "rank": 11
+    },
+    {
       "player": "Victor Wembanyama",
       "score": 2.0,
       "mentions_week1": 2,
@@ -136,7 +148,7 @@
       "first_mention": "2026-05-29",
       "last_mention": "2026-05-30",
       "team": "San Antonio Spurs",
-      "rank": 11
+      "rank": 12
     },
     {
       "player": "LeBron James",
@@ -148,18 +160,6 @@
       "first_mention": "2026-05-12",
       "last_mention": "2026-05-24",
       "team": "Los Angeles Lakers",
-      "rank": 12
-    },
-    {
-      "player": "Jaren Jackson Jr",
-      "score": 1.75,
-      "mentions_week1": 1,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 3,
-      "first_mention": "2026-05-05",
-      "last_mention": "2026-05-29",
-      "team": "Oklahoma City Thunder",
       "rank": 13
     },
     {
@@ -175,6 +175,18 @@
       "rank": 14
     },
     {
+      "player": "Jaren Jackson Jr",
+      "score": 1.5,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 2,
+      "total_mentions": 3,
+      "first_mention": "2026-05-05",
+      "last_mention": "2026-05-29",
+      "team": "Oklahoma City Thunder",
+      "rank": 15
+    },
+    {
       "player": "Kyrie Irving",
       "score": 1.5,
       "mentions_week1": 0,
@@ -184,18 +196,6 @@
       "first_mention": "2026-05-20",
       "last_mention": "2026-05-23",
       "team": "Dallas Mavericks",
-      "rank": 15
-    },
-    {
-      "player": "Lauri Markkanen",
-      "score": 1.5,
-      "mentions_week1": 1,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 2,
-      "first_mention": "2026-05-18",
-      "last_mention": "2026-05-29",
-      "team": "Utah Jazz",
       "rank": 16
     },
     {
@@ -223,18 +223,6 @@
       "rank": 18
     },
     {
-      "player": "Kevin Durant",
-      "score": 1.25,
-      "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 3,
-      "total_mentions": 4,
-      "first_mention": "2026-05-04",
-      "last_mention": "2026-05-20",
-      "team": "Houston Rockets",
-      "rank": 19
-    },
-    {
       "player": "Donte DiVincenzo",
       "score": 1.25,
       "mentions_week1": 1,
@@ -244,18 +232,30 @@
       "first_mention": "2026-05-13",
       "last_mention": "2026-05-26",
       "team": "Minnesota Timberwolves",
+      "rank": 19
+    },
+    {
+      "player": "Lauri Markkanen",
+      "score": 1.25,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 2,
+      "first_mention": "2026-05-18",
+      "last_mention": "2026-05-29",
+      "team": "Utah Jazz",
       "rank": 20
     },
     {
-      "player": "James Harden",
+      "player": "Kevin Durant",
       "score": 1.0,
       "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 4,
-      "total_mentions": 4,
-      "first_mention": "2026-05-04",
-      "last_mention": "2026-05-17",
-      "team": "Los Angeles Clippers",
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 2,
+      "total_mentions": 3,
+      "first_mention": "2026-05-13",
+      "last_mention": "2026-05-20",
+      "team": "Houston Rockets",
       "rank": 21
     },
     {
@@ -295,6 +295,18 @@
       "rank": 24
     },
     {
+      "player": "Damian Lillard",
+      "score": 1.0,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-06-01",
+      "last_mention": "2026-06-01",
+      "team": "Portland Trail Blazers",
+      "rank": 25
+    },
+    {
       "player": "Darius Garland",
       "score": 1.0,
       "mentions_week1": 1,
@@ -304,7 +316,7 @@
       "first_mention": "2026-05-26",
       "last_mention": "2026-05-26",
       "team": "Cleveland Cavaliers",
-      "rank": 25
+      "rank": 26
     },
     {
       "player": "Harrison Barnes",
@@ -316,18 +328,6 @@
       "first_mention": "2026-06-01",
       "last_mention": "2026-06-01",
       "team": "San Antonio Spurs",
-      "rank": 26
-    },
-    {
-      "player": "Jaime Jaquez",
-      "score": 1.0,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-05-25",
-      "last_mention": "2026-05-25",
-      "team": "Boston Celtics",
       "rank": 27
     },
     {
@@ -355,6 +355,18 @@
       "rank": 29
     },
     {
+      "player": "Jusuf Nurkic",
+      "score": 1.0,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-06-01",
+      "last_mention": "2026-06-01",
+      "team": "Portland Trail Blazers",
+      "rank": 30
+    },
+    {
       "player": "Kasparas Jakucionis",
       "score": 1.0,
       "mentions_week1": 1,
@@ -363,18 +375,6 @@
       "total_mentions": 1,
       "first_mention": "2026-05-30",
       "last_mention": "2026-05-30",
-      "team": "Miami Heat",
-      "rank": 30
-    },
-    {
-      "player": "Kel'el Ware",
-      "score": 1.0,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-05-25",
-      "last_mention": "2026-05-25",
       "team": "Miami Heat",
       "rank": 31
     },
@@ -415,30 +415,6 @@
       "rank": 34
     },
     {
-      "player": "Trey Murphy",
-      "score": 1.0,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-05-31",
-      "last_mention": "2026-05-31",
-      "team": "New Orleans Pelicans",
-      "rank": 35
-    },
-    {
-      "player": "Tyler Herro",
-      "score": 1.0,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-05-25",
-      "last_mention": "2026-05-25",
-      "team": "Miami Heat",
-      "rank": 36
-    },
-    {
       "player": "Walker Kessler",
       "score": 1.0,
       "mentions_week1": 1,
@@ -448,7 +424,7 @@
       "first_mention": "2026-05-29",
       "last_mention": "2026-05-29",
       "team": "Utah Jazz",
-      "rank": 37
+      "rank": 35
     },
     {
       "player": "Jayson Tatum",
@@ -460,7 +436,7 @@
       "first_mention": "2026-05-05",
       "last_mention": "2026-05-07",
       "team": "Boston Celtics",
-      "rank": 38
+      "rank": 36
     },
     {
       "player": "Jakob Poeltl",
@@ -472,7 +448,7 @@
       "first_mention": "2026-05-05",
       "last_mention": "2026-05-20",
       "team": "Toronto Raptors",
-      "rank": 39
+      "rank": 37
     },
     {
       "player": "Rudy Gobert",
@@ -484,7 +460,7 @@
       "first_mention": "2026-05-16",
       "last_mention": "2026-05-20",
       "team": "Minnesota Timberwolves",
-      "rank": 40
+      "rank": 38
     },
     {
       "player": "Ivica Zubac",
@@ -496,7 +472,19 @@
       "first_mention": "2026-05-11",
       "last_mention": "2026-05-13",
       "team": "Los Angeles Clippers",
-      "rank": 41
+      "rank": 39
+    },
+    {
+      "player": "James Harden",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 2,
+      "total_mentions": 2,
+      "first_mention": "2026-05-16",
+      "last_mention": "2026-05-17",
+      "team": "Los Angeles Clippers",
+      "rank": 40
     },
     {
       "player": "Joel Embiid",
@@ -508,7 +496,7 @@
       "first_mention": "2026-05-11",
       "last_mention": "2026-05-11",
       "team": "Philadelphia 76ers",
-      "rank": 42
+      "rank": 41
     },
     {
       "player": "Jrue Holiday",
@@ -520,7 +508,7 @@
       "first_mention": "2026-05-16",
       "last_mention": "2026-05-16",
       "team": "Portland Trail Blazers",
-      "rank": 43
+      "rank": 42
     },
     {
       "player": "Stephen Curry",
@@ -532,7 +520,7 @@
       "first_mention": "2026-05-09",
       "last_mention": "2026-05-10",
       "team": "Golden State Warriors",
-      "rank": 44
+      "rank": 43
     },
     {
       "player": "Trae Young",
@@ -544,7 +532,7 @@
       "first_mention": "2026-05-07",
       "last_mention": "2026-05-14",
       "team": "Atlanta Hawks",
-      "rank": 45
+      "rank": 44
     },
     {
       "player": "Cooper Flagg",
@@ -556,7 +544,7 @@
       "first_mention": "2026-05-23",
       "last_mention": "2026-05-23",
       "team": "Dallas Mavericks",
-      "rank": 46
+      "rank": 45
     },
     {
       "player": "De'Aaron Fox",
@@ -568,7 +556,7 @@
       "first_mention": "2026-05-24",
       "last_mention": "2026-05-24",
       "team": "San Antonio Spurs",
-      "rank": 47
+      "rank": 46
     },
     {
       "player": "Dylan Harper",
@@ -580,7 +568,31 @@
       "first_mention": "2026-05-24",
       "last_mention": "2026-05-24",
       "team": "San Antonio Spurs",
+      "rank": 47
+    },
+    {
+      "player": "Jaime Jaquez",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-05-25",
+      "last_mention": "2026-05-25",
+      "team": "Boston Celtics",
       "rank": 48
+    },
+    {
+      "player": "Kel'el Ware",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-05-25",
+      "last_mention": "2026-05-25",
+      "team": "Miami Heat",
+      "rank": 49
     },
     {
       "player": "Scoot Henderson",
@@ -592,7 +604,7 @@
       "first_mention": "2026-05-20",
       "last_mention": "2026-05-20",
       "team": "Milwaukee Bucks",
-      "rank": 49
+      "rank": 50
     },
     {
       "player": "Stephon Castle",
@@ -604,7 +616,19 @@
       "first_mention": "2026-05-24",
       "last_mention": "2026-05-24",
       "team": "San Antonio Spurs",
-      "rank": 50
+      "rank": 51
+    },
+    {
+      "player": "Tyler Herro",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-05-25",
+      "last_mention": "2026-05-25",
+      "team": "Miami Heat",
+      "rank": 52
     },
     {
       "player": "Zion Williamson",
@@ -616,7 +640,7 @@
       "first_mention": "2026-05-20",
       "last_mention": "2026-05-20",
       "team": "New Orleans Pelicans",
-      "rank": 51
+      "rank": 53
     },
     {
       "player": "Aaron Wiggins",
@@ -628,30 +652,6 @@
       "first_mention": "2026-05-13",
       "last_mention": "2026-05-13",
       "team": "Chicago Bulls",
-      "rank": 52
-    },
-    {
-      "player": "Alperen Sengun",
-      "score": 0.25,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 1,
-      "first_mention": "2026-05-04",
-      "last_mention": "2026-05-04",
-      "team": "Houston Rockets",
-      "rank": 53
-    },
-    {
-      "player": "Amen Thompson",
-      "score": 0.25,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 1,
-      "first_mention": "2026-05-04",
-      "last_mention": "2026-05-04",
-      "team": "Houston Rockets",
       "rank": 54
     },
     {
@@ -775,18 +775,6 @@
       "rank": 64
     },
     {
-      "player": "Jalen Suggs",
-      "score": 0.25,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 1,
-      "first_mention": "2026-05-04",
-      "last_mention": "2026-05-04",
-      "team": "Orlando Magic",
-      "rank": 65
-    },
-    {
       "player": "Julius Randle",
       "score": 0.25,
       "mentions_week1": 0,
@@ -796,7 +784,7 @@
       "first_mention": "2026-05-16",
       "last_mention": "2026-05-16",
       "team": "Minnesota Timberwolves",
-      "rank": 66
+      "rank": 65
     },
     {
       "player": "Kyle Kuzma",
@@ -808,7 +796,7 @@
       "first_mention": "2026-05-11",
       "last_mention": "2026-05-11",
       "team": "Milwaukee Bucks",
-      "rank": 67
+      "rank": 66
     },
     {
       "player": "Naji Marshall",
@@ -820,7 +808,7 @@
       "first_mention": "2026-05-13",
       "last_mention": "2026-05-13",
       "team": "Dallas Mavericks",
-      "rank": 68
+      "rank": 67
     },
     {
       "player": "Naz Reid",
@@ -832,7 +820,7 @@
       "first_mention": "2026-05-16",
       "last_mention": "2026-05-16",
       "team": "Minnesota Timberwolves",
-      "rank": 69
+      "rank": 68
     },
     {
       "player": "Nikola Jokic",
@@ -844,7 +832,7 @@
       "first_mention": "2026-05-08",
       "last_mention": "2026-05-08",
       "team": "Denver Nuggets",
-      "rank": 70
+      "rank": 69
     },
     {
       "player": "Paul George",
@@ -856,19 +844,7 @@
       "first_mention": "2026-05-11",
       "last_mention": "2026-05-11",
       "team": "Philadelphia 76ers",
-      "rank": 71
-    },
-    {
-      "player": "Reed Sheppard",
-      "score": 0.25,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 1,
-      "first_mention": "2026-05-04",
-      "last_mention": "2026-05-04",
-      "team": "Houston Rockets",
-      "rank": 72
+      "rank": 70
     },
     {
       "player": "Ryan Dunn",
@@ -880,7 +856,7 @@
       "first_mention": "2026-05-13",
       "last_mention": "2026-05-13",
       "team": "Dallas Mavericks",
-      "rank": 73
+      "rank": 71
     },
     {
       "player": "Tyrese Maxey",
@@ -892,7 +868,7 @@
       "first_mention": "2026-05-16",
       "last_mention": "2026-05-16",
       "team": "Philadelphia 76ers",
-      "rank": 74
+      "rank": 72
     },
     {
       "player": "Vit Krejci",
@@ -904,10 +880,44 @@
       "first_mention": "2026-05-13",
       "last_mention": "2026-05-13",
       "team": "Philadelphia 76ers",
-      "rank": 75
+      "rank": 73
     }
   ],
   "player_rumors": {
+    "Trey Murphy": [
+      {
+        "date": "2026-06-01",
+        "text": "Will Guillory:Just want to make sure I'm on record saying any talk of trading Trey Murphy is absolute insanityx.com",
+        "text_html": "Will Guillory: <a href=\"https://x.com/WillGuillory/status/2061471829336715724\" target=\"_blank\" style=\"color: #1a73e8;\">Just want to make sure I'm on record saying any talk of trading Trey Murphy is absolute insanity</a>",
+        "outlet": "x.com",
+        "source_url": "https://x.com/WillGuillory/status/2061471829336715724"
+      },
+      {
+        "date": "2026-05-31",
+        "text": "Garland Gillen: BillSimmons on the Pelicans trading Trey Murphy: \u201cWe assume he\u2019s probably going to get traded over the next three weeks. I think Boston is a possibility.We thought whoever lost this matchup (Spurs and Thunder) is a possibility. You have two to three weeks to trade for someone like that.\u201dx.com",
+        "text_html": "Garland Gillen: Bill <a href=\"https://x.com/garlandgillen/status/2061097988257120448\" target=\"_blank\" style=\"color: #1a73e8;\">Simmons on the Pelicans trading Trey Murphy: \u201cWe assume he\u2019s probably going to get traded over the next three weeks. I think Boston is a possibility.</a> We thought whoever lost this matchup (Spurs and Thunder) is a possibility. You have two to three weeks to trade for someone like that.\u201d",
+        "outlet": "x.com",
+        "source_url": "https://x.com/garlandgillen/status/2061097988257120448"
+      }
+    ],
+    "Damian Lillard": [
+      {
+        "date": "2026-06-01",
+        "text": "Jusuf Nurkic: \u201cWe had that great mindset, starting with Damian Lillard, who was a real leader. He led by example. I don\u2019t know how to explain it in the best way, but whatever he wanted others to do, that\u2019s how it was. He could be loud, but he always led by example, whether in practice or on the plane \u2014 the guy was never late.We never had any problems in the locker room. Whoever came in through trades had to fit into that system. Until Carmelo (laughs). He kind of stepped outside the system because he was always late, he missed almost every meeting.The coach was traumatized by that and didn\u2019t want anyone to be late, and he didn\u2019t have many rules, but he stuck to that one.\"Basketball Sphere",
+        "text_html": "Jusuf Nurkic: \u201cWe had that great mindset, starting with Damian Lillard, who was a real leader. He led by example. I don\u2019t know how to explain it in the best way, but whatever he wanted others to do, that\u2019s how it was. He could be loud, but he always led by example, whether in practice or on the plane \u2014 the guy was never late. <a href=\"https://basketballsphere.com/en/jusuf-nurkic-opens-up-about-carmelo-anthony-and-blazers-chemistry/\" target=\"_blank\" style=\"color: #1a73e8;\">We never had any problems in the locker room. Whoever came in through trades had to fit into that system. Until Carmelo (laughs). He kind of stepped outside the system because he was always late, he missed almost every meeting.</a> The coach was traumatized by that and didn\u2019t want anyone to be late, and he didn\u2019t have many rules, but he stuck to that one.\"",
+        "outlet": "Basketball Sphere",
+        "source_url": "https://basketballsphere.com/en/jusuf-nurkic-opens-up-about-carmelo-anthony-and-blazers-chemistry/"
+      }
+    ],
+    "Jusuf Nurkic": [
+      {
+        "date": "2026-06-01",
+        "text": "Jusuf Nurkic: \u201cWe had that great mindset, starting with Damian Lillard, who was a real leader. He led by example. I don\u2019t know how to explain it in the best way, but whatever he wanted others to do, that\u2019s how it was. He could be loud, but he always led by example, whether in practice or on the plane \u2014 the guy was never late.We never had any problems in the locker room. Whoever came in through trades had to fit into that system. Until Carmelo (laughs). He kind of stepped outside the system because he was always late, he missed almost every meeting.The coach was traumatized by that and didn\u2019t want anyone to be late, and he didn\u2019t have many rules, but he stuck to that one.\"Basketball Sphere",
+        "text_html": "Jusuf Nurkic: \u201cWe had that great mindset, starting with Damian Lillard, who was a real leader. He led by example. I don\u2019t know how to explain it in the best way, but whatever he wanted others to do, that\u2019s how it was. He could be loud, but he always led by example, whether in practice or on the plane \u2014 the guy was never late. <a href=\"https://basketballsphere.com/en/jusuf-nurkic-opens-up-about-carmelo-anthony-and-blazers-chemistry/\" target=\"_blank\" style=\"color: #1a73e8;\">We never had any problems in the locker room. Whoever came in through trades had to fit into that system. Until Carmelo (laughs). He kind of stepped outside the system because he was always late, he missed almost every meeting.</a> The coach was traumatized by that and didn\u2019t want anyone to be late, and he didn\u2019t have many rules, but he stuck to that one.\"",
+        "outlet": "Basketball Sphere",
+        "source_url": "https://basketballsphere.com/en/jusuf-nurkic-opens-up-about-carmelo-anthony-and-blazers-chemistry/"
+      }
+    ],
     "Peyton Watson": [
       {
         "date": "2026-06-01",
@@ -1025,15 +1035,6 @@
         "text_html": "<a href=\"https://www.espn.com/nba/story/_/id/48791313/why-fallout-cleveland-cavaliers-detroit-pistons-game-7-massive-nba-offseason\" target=\"_blank\" style=\"color: #1a73e8;\">The Cavs will likely want to replace Donovan Mitchell's option season with a new contract in July, when they can add four years and up to $272 million. But Mitchell can, and probably should, wait until 2027 to sign a new contract</a>. Then, with 10 years of service time, he can sign for five years and about $350 million, plus get some perks, such as a no-trade clause. That is a massive difference in guaranteed money for a player who would be in his mid-30s by the time the extra season kicked in.",
         "outlet": "ESPN",
         "source_url": "https://www.espn.com/nba/story/_/id/48791313/why-fallout-cleveland-cavaliers-detroit-pistons-game-7-massive-nba-offseason"
-      }
-    ],
-    "Trey Murphy": [
-      {
-        "date": "2026-05-31",
-        "text": "Garland Gillen: BillSimmons on the Pelicans trading Trey Murphy: \u201cWe assume he\u2019s probably going to get traded over the next three weeks. I think Boston is a possibility.We thought whoever lost this matchup (Spurs and Thunder) is a possibility. You have two to three weeks to trade for someone like that.\u201dx.com",
-        "text_html": "Garland Gillen: Bill <a href=\"https://x.com/garlandgillen/status/2061097988257120448\" target=\"_blank\" style=\"color: #1a73e8;\">Simmons on the Pelicans trading Trey Murphy: \u201cWe assume he\u2019s probably going to get traded over the next three weeks. I think Boston is a possibility.</a> We thought whoever lost this matchup (Spurs and Thunder) is a possibility. You have two to three weeks to trade for someone like that.\u201d",
-        "outlet": "x.com",
-        "source_url": "https://x.com/garlandgillen/status/2061097988257120448"
       }
     ],
     "Draymond Green": [
@@ -2015,13 +2016,6 @@
         "text_html": "How do you think the Kevin Durant trade played out for the Rockets? Was it worth losing players such as Jalen Green and Dillon Brooks? Metta World Peace: I think it\u2019s played out the same way for both the Rockets and the Phoenix Suns. It was quite an even trade. It\u2019s tough for the Rockets because Durant missed Game 1 with a knee injury, then injured his ankle in Game 2, causing him to miss more time. That hurt them a lot. I\u2019ve been injured in the playoffs, so I know how it feels. I was supposed to be out for six weeks with a meniscus tear, but I came back and played the San Antonio Spurs within two weeks. I wasn\u2019t the same and couldn\u2019t move. <a href=\"https://www.hardrock.bet/news/metta-world-peace-exclusive-interview/\" target=\"_blank\" style=\"color: #1a73e8;\">It\u2019s hard to gauge whether the Rockets got the better of the trade because, while Durant is great, he\u2019s a little older now</a>. Meanwhile, the Suns got Jalen Green. Dillon Brooks is also showing he can play offense now and not just be a tough defender and enforcer. He is showing that he can score now. They both had tough situations in the playoffs. Houston had to face the Lakers, and Durant was hurt. The Suns went up against OKC, which is far from easy.",
         "outlet": "Hard Rock Bet",
         "source_url": "https://www.hardrock.bet/news/metta-world-peace-exclusive-interview/"
-      },
-      {
-        "date": "2026-05-04",
-        "text": "Despite the loss, multiple high-level team sources still believe their young core can contend for the next decade.Those same sources said Udoka will remain an essential part of the team's future. Durant too.ESPN",
-        "text_html": "Despite the loss, multiple high-level team sources still believe their young core can contend for the next decade. <a href=\"https://www.espn.com/nba/story/_/id/48620723/injuries-kevin-durant-burner-phones-massive-leadership-void-why-houston-rockets-season-ended-thud\" target=\"_blank\" style=\"color: #1a73e8;\">Those same sources said Udoka will remain an essential part of the team's future. Durant too</a>.",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/48620723/injuries-kevin-durant-burner-phones-massive-leadership-void-why-houston-rockets-season-ended-thud"
       }
     ],
     "Scoot Henderson": [
@@ -2109,20 +2103,6 @@
         "text_html": "<a href=\"https://www.youtube.com/watch?v=kCV0wnjjsHk\" target=\"_blank\" style=\"color: #1a73e8;\">Draymond Green: \u201cBob Myers has been to Daryl Morey almost what Michael Jordan was to Stockton and Malone.</a> You\u2019ve done great work. I mean, I\u2019m not saying Daryl Morey is Stockton or Malone, but you\u2019ll get the reference in a second. You\u2019ve done some great work, right? You traded for James Harden when nobody believed, gave him a max contract, and then James Harden proceeded to become who he became. You built a team with the Houston Rockets that was a very good roster, built to beat the Golden State Warriors. It didn\u2019t quite happen, but you built a good team. You go to Philly and sign Tyrese Maxey to a max deal, right? He\u2019s done some good things in Philly, just can\u2019t quite get over the hump. And Bob Myers \u2014 Daryl Morey couldn\u2019t get over the hump due to teams that Bob Myers was putting together. And now Daryl Morey is going to lose his role as the president of basketball operations due to Bob Myers making the basketball decisions in Philly. He\u2019s more than capable, well-deserved, and should be making basketball decisions anywhere. But Daryl Morey just kind of keeps running into Bob Myers, and it\u2019s unfortunate.\u201d",
         "outlet": "YouTube",
         "source_url": "https://www.youtube.com/watch?v=kCV0wnjjsHk"
-      },
-      {
-        "date": "2026-05-04",
-        "text": "Over the past several years, according to team sources and those close to Harden,there has been mutual interest in a reunion.ESPN",
-        "text_html": "Over the past several years, according to team sources and those close to Harden, <a href=\"https://www.espn.com/nba/story/_/id/48620723/injuries-kevin-durant-burner-phones-massive-leadership-void-why-houston-rockets-season-ended-thud\" target=\"_blank\" style=\"color: #1a73e8;\">there has been mutual interest in a reunion</a>.",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/48620723/injuries-kevin-durant-burner-phones-massive-leadership-void-why-houston-rockets-season-ended-thud"
-      },
-      {
-        "date": "2026-05-04",
-        "text": "As fondly as they still regarded Harden, there was a wariness about how he would affect the development of Sengun, Sheppard and Thompson. \"We're not really looking for a heliocentric player, as great as James still is,\" one team source said. \"We want to develop Reed, we want to develop Amen and we want the ball in Alpy's hands.\" As another said, \"We weren't going to put the ball in [Harden's] hands, so why would you trade for James if you're not going to give him the ball?\"ESPN",
-        "text_html": "<a href=\"https://www.espn.com/nba/story/_/id/48620723/injuries-kevin-durant-burner-phones-massive-leadership-void-why-houston-rockets-season-ended-thud\" target=\"_blank\" style=\"color: #1a73e8;\">As fondly as they still regarded Harden, there was a wariness about how he would affect the development of Sengun, Sheppard and Thompson</a>. \"We're not really looking for a heliocentric player, as great as James still is,\" one team source said. \"We want to develop Reed, we want to develop Amen and we want the ball in Alpy's hands.\" As another said, \"We weren't going to put the ball in [Harden's] hands, so why would you trade for James if you're not going to give him the ball?\"",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/48620723/injuries-kevin-durant-burner-phones-massive-leadership-void-why-houston-rockets-season-ended-thud"
       }
     ],
     "Ayo Dosunmu": [
@@ -2407,45 +2387,19 @@
         "outlet": "SportsNet",
         "source_url": "https://www.sportsnet.ca/nba/article/raptors-face-several-challenges-in-bid-to-maintain-momentum-in-off-season/"
       }
-    ],
-    "Jalen Suggs": [
-      {
-        "date": "2026-05-04",
-        "text": "Suggs, who has four guaranteed years remaining on his contract at descending salaries, could be a trade candidate as Orlando seeks to address its roster deficiencies and clean up its long-term cap sheet.But despite his rugged defense, his injury history might limit his attractiveness to potential trade suitors.New York Times",
-        "text_html": "<a href=\"https://www.nytimes.com/athletic/7251029/2026/05/04/magic-season-playoff-exit-banchero-mosley-wagner/?unlocked_article_code=1.f1A.wutW.Gl3hpV91f8vU&source=athletic_user_shared_gift_article_copylink&smid=url-share-ta\" target=\"_blank\" style=\"color: #1a73e8;\">Suggs, who has four guaranteed years remaining on his contract at descending salaries, could be a trade candidate as Orlando seeks to address its roster deficiencies and clean up its long-term cap sheet.</a> But despite his rugged defense, his injury history might limit his attractiveness to potential trade suitors.",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/7251029/2026/05/04/magic-season-playoff-exit-banchero-mosley-wagner/?unlocked_article_code=1.f1A.wutW.Gl3hpV91f8vU&source=athletic_user_shared_gift_article_copylink&smid=url-share-ta"
-      }
-    ],
-    "Alperen Sengun": [
-      {
-        "date": "2026-05-04",
-        "text": "As fondly as they still regarded Harden, there was a wariness about how he would affect the development of Sengun, Sheppard and Thompson. \"We're not really looking for a heliocentric player, as great as James still is,\" one team source said. \"We want to develop Reed, we want to develop Amen and we want the ball in Alpy's hands.\" As another said, \"We weren't going to put the ball in [Harden's] hands, so why would you trade for James if you're not going to give him the ball?\"ESPN",
-        "text_html": "<a href=\"https://www.espn.com/nba/story/_/id/48620723/injuries-kevin-durant-burner-phones-massive-leadership-void-why-houston-rockets-season-ended-thud\" target=\"_blank\" style=\"color: #1a73e8;\">As fondly as they still regarded Harden, there was a wariness about how he would affect the development of Sengun, Sheppard and Thompson</a>. \"We're not really looking for a heliocentric player, as great as James still is,\" one team source said. \"We want to develop Reed, we want to develop Amen and we want the ball in Alpy's hands.\" As another said, \"We weren't going to put the ball in [Harden's] hands, so why would you trade for James if you're not going to give him the ball?\"",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/48620723/injuries-kevin-durant-burner-phones-massive-leadership-void-why-houston-rockets-season-ended-thud"
-      }
-    ],
-    "Amen Thompson": [
-      {
-        "date": "2026-05-04",
-        "text": "As fondly as they still regarded Harden, there was a wariness about how he would affect the development of Sengun, Sheppard and Thompson. \"We're not really looking for a heliocentric player, as great as James still is,\" one team source said. \"We want to develop Reed, we want to develop Amen and we want the ball in Alpy's hands.\" As another said, \"We weren't going to put the ball in [Harden's] hands, so why would you trade for James if you're not going to give him the ball?\"ESPN",
-        "text_html": "<a href=\"https://www.espn.com/nba/story/_/id/48620723/injuries-kevin-durant-burner-phones-massive-leadership-void-why-houston-rockets-season-ended-thud\" target=\"_blank\" style=\"color: #1a73e8;\">As fondly as they still regarded Harden, there was a wariness about how he would affect the development of Sengun, Sheppard and Thompson</a>. \"We're not really looking for a heliocentric player, as great as James still is,\" one team source said. \"We want to develop Reed, we want to develop Amen and we want the ball in Alpy's hands.\" As another said, \"We weren't going to put the ball in [Harden's] hands, so why would you trade for James if you're not going to give him the ball?\"",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/48620723/injuries-kevin-durant-burner-phones-massive-leadership-void-why-houston-rockets-season-ended-thud"
-      }
-    ],
-    "Reed Sheppard": [
-      {
-        "date": "2026-05-04",
-        "text": "As fondly as they still regarded Harden, there was a wariness about how he would affect the development of Sengun, Sheppard and Thompson. \"We're not really looking for a heliocentric player, as great as James still is,\" one team source said. \"We want to develop Reed, we want to develop Amen and we want the ball in Alpy's hands.\" As another said, \"We weren't going to put the ball in [Harden's] hands, so why would you trade for James if you're not going to give him the ball?\"ESPN",
-        "text_html": "<a href=\"https://www.espn.com/nba/story/_/id/48620723/injuries-kevin-durant-burner-phones-massive-leadership-void-why-houston-rockets-season-ended-thud\" target=\"_blank\" style=\"color: #1a73e8;\">As fondly as they still regarded Harden, there was a wariness about how he would affect the development of Sengun, Sheppard and Thompson</a>. \"We're not really looking for a heliocentric player, as great as James still is,\" one team source said. \"We want to develop Reed, we want to develop Amen and we want the ball in Alpy's hands.\" As another said, \"We weren't going to put the ball in [Harden's] hands, so why would you trade for James if you're not going to give him the ball?\"",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/48620723/injuries-kevin-durant-burner-phones-massive-leadership-void-why-houston-rockets-season-ended-thud"
-      }
     ]
   },
   "daily_counts": {
+    "Trey Murphy": {
+      "2026-06-01": 1,
+      "2026-05-31": 1
+    },
+    "Damian Lillard": {
+      "2026-06-01": 1
+    },
+    "Jusuf Nurkic": {
+      "2026-06-01": 1
+    },
     "Peyton Watson": {
       "2026-06-01": 1,
       "2026-05-29": 1
@@ -2473,9 +2427,6 @@
       "2026-06-01": 1,
       "2026-05-26": 1,
       "2026-05-17": 1
-    },
-    "Trey Murphy": {
-      "2026-05-31": 1
     },
     "Draymond Green": {
       "2026-05-31": 1,
@@ -2625,8 +2576,7 @@
     "Kevin Durant": {
       "2026-05-20": 1,
       "2026-05-16": 1,
-      "2026-05-13": 1,
-      "2026-05-04": 1
+      "2026-05-13": 1
     },
     "Scoot Henderson": {
       "2026-05-20": 1
@@ -2645,8 +2595,7 @@
     },
     "James Harden": {
       "2026-05-17": 1,
-      "2026-05-16": 1,
-      "2026-05-04": 2
+      "2026-05-16": 1
     },
     "Ayo Dosunmu": {
       "2026-05-17": 1
@@ -2729,18 +2678,6 @@
     },
     "Brandon Ingram": {
       "2026-05-05": 1
-    },
-    "Jalen Suggs": {
-      "2026-05-04": 1
-    },
-    "Alperen Sengun": {
-      "2026-05-04": 1
-    },
-    "Amen Thompson": {
-      "2026-05-04": 1
-    },
-    "Reed Sheppard": {
-      "2026-05-04": 1
     }
   }
 }
