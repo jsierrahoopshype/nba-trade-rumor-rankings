@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-06-06T20:08:50.692033",
+  "generated_at": "2026-06-07T05:21:16.065091",
   "scrape_window_days": 28,
-  "window_start": "2026-05-09",
-  "window_end": "2026-06-06",
-  "total_rumors": 241,
-  "total_players": 83,
+  "window_start": "2026-05-10",
+  "window_end": "2026-06-07",
+  "total_rumors": 235,
+  "total_players": 84,
   "rankings": [
     {
       "player": "Giannis Antetokounmpo",
-      "score": 40.5,
-      "mentions_week1": 24,
-      "mentions_week2": 17,
-      "mentions_weeks3_4": 32,
-      "total_mentions": 73,
-      "first_mention": "2026-05-09",
+      "score": 38.25,
+      "mentions_week1": 22,
+      "mentions_week2": 19,
+      "mentions_weeks3_4": 27,
+      "total_mentions": 68,
+      "first_mention": "2026-05-10",
       "last_mention": "2026-06-06",
       "team": "Milwaukee Bucks",
       "rank": 1
     },
     {
       "player": "Jaylen Brown",
-      "score": 5.0,
+      "score": 4.5,
       "mentions_week1": 3,
       "mentions_week2": 1,
-      "mentions_weeks3_4": 6,
-      "total_mentions": 10,
-      "first_mention": "2026-05-09",
+      "mentions_weeks3_4": 4,
+      "total_mentions": 8,
+      "first_mention": "2026-05-10",
       "last_mention": "2026-06-03",
       "team": "Boston Celtics",
       "rank": 2
@@ -55,18 +55,6 @@
       "rank": 4
     },
     {
-      "player": "Kawhi Leonard",
-      "score": 3.75,
-      "mentions_week1": 2,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 5,
-      "total_mentions": 8,
-      "first_mention": "2026-05-11",
-      "last_mention": "2026-06-03",
-      "team": "Los Angeles Clippers",
-      "rank": 5
-    },
-    {
       "player": "Jaime Jaquez",
       "score": 3.5,
       "mentions_week1": 3,
@@ -76,6 +64,18 @@
       "first_mention": "2026-05-25",
       "last_mention": "2026-06-05",
       "team": "Miami Heat",
+      "rank": 5
+    },
+    {
+      "player": "Kawhi Leonard",
+      "score": 3.0,
+      "mentions_week1": 1,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 6,
+      "total_mentions": 8,
+      "first_mention": "2026-05-11",
+      "last_mention": "2026-06-03",
+      "team": "Los Angeles Clippers",
       "rank": 6
     },
     {
@@ -91,18 +91,6 @@
       "rank": 7
     },
     {
-      "player": "Kyrie Irving",
-      "score": 3.0,
-      "mentions_week1": 2,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 5,
-      "first_mention": "2026-05-20",
-      "last_mention": "2026-06-03",
-      "team": "Dallas Mavericks",
-      "rank": 8
-    },
-    {
       "player": "Bam Adebayo",
       "score": 3.0,
       "mentions_week1": 3,
@@ -112,7 +100,7 @@
       "first_mention": "2026-06-03",
       "last_mention": "2026-06-03",
       "team": "Miami Heat",
-      "rank": 9
+      "rank": 8
     },
     {
       "player": "LeBron James",
@@ -124,6 +112,18 @@
       "first_mention": "2026-05-12",
       "last_mention": "2026-06-05",
       "team": "Los Angeles Lakers",
+      "rank": 9
+    },
+    {
+      "player": "Kyrie Irving",
+      "score": 2.75,
+      "mentions_week1": 2,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 3,
+      "total_mentions": 5,
+      "first_mention": "2026-05-20",
+      "last_mention": "2026-06-03",
+      "team": "Dallas Mavericks",
       "rank": 10
     },
     {
@@ -139,18 +139,6 @@
       "rank": 11
     },
     {
-      "player": "Ja Morant",
-      "score": 2.5,
-      "mentions_week1": 2,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 4,
-      "first_mention": "2026-05-11",
-      "last_mention": "2026-06-06",
-      "team": "Memphis Grizzlies",
-      "rank": 12
-    },
-    {
       "player": "Luka Doncic",
       "score": 2.5,
       "mentions_week1": 2,
@@ -160,7 +148,7 @@
       "first_mention": "2026-05-19",
       "last_mention": "2026-06-03",
       "team": "Los Angeles Lakers",
-      "rank": 13
+      "rank": 12
     },
     {
       "player": "Aaron Wiggins",
@@ -172,6 +160,18 @@
       "first_mention": "2026-05-13",
       "last_mention": "2026-06-03",
       "team": "Golden State Warriors",
+      "rank": 13
+    },
+    {
+      "player": "Ja Morant",
+      "score": 2.0,
+      "mentions_week1": 1,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 2,
+      "total_mentions": 4,
+      "first_mention": "2026-05-11",
+      "last_mention": "2026-06-06",
+      "team": "Memphis Grizzlies",
       "rank": 14
     },
     {
@@ -235,6 +235,18 @@
       "rank": 19
     },
     {
+      "player": "Anthony Edwards",
+      "score": 1.5,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 2,
+      "total_mentions": 3,
+      "first_mention": "2026-05-20",
+      "last_mention": "2026-06-06",
+      "team": "Minnesota Timberwolves",
+      "rank": 20
+    },
+    {
       "player": "James Harden",
       "score": 1.5,
       "mentions_week1": 1,
@@ -244,18 +256,6 @@
       "first_mention": "2026-05-16",
       "last_mention": "2026-06-03",
       "team": "Los Angeles Clippers",
-      "rank": 20
-    },
-    {
-      "player": "Stephen Curry",
-      "score": 1.5,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 3,
-      "first_mention": "2026-05-09",
-      "last_mention": "2026-06-03",
-      "team": "Golden State Warriors",
       "rank": 21
     },
     {
@@ -331,18 +331,6 @@
       "rank": 27
     },
     {
-      "player": "Victor Wembanyama",
-      "score": 1.5,
-      "mentions_week1": 1,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 2,
-      "first_mention": "2026-05-29",
-      "last_mention": "2026-05-30",
-      "team": "San Antonio Spurs",
-      "rank": 28
-    },
-    {
       "player": "Paul George",
       "score": 1.25,
       "mentions_week1": 1,
@@ -352,6 +340,18 @@
       "first_mention": "2026-05-11",
       "last_mention": "2026-06-06",
       "team": "Philadelphia 76ers",
+      "rank": 28
+    },
+    {
+      "player": "Stephen Curry",
+      "score": 1.25,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 2,
+      "first_mention": "2026-05-10",
+      "last_mention": "2026-06-03",
+      "team": "Golden State Warriors",
       "rank": 29
     },
     {
@@ -367,15 +367,15 @@
       "rank": 30
     },
     {
-      "player": "Jared McCain",
+      "player": "Victor Wembanyama",
       "score": 1.0,
       "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 3,
-      "first_mention": "2026-05-11",
-      "last_mention": "2026-05-23",
-      "team": "Philadelphia 76ers",
+      "mentions_week2": 2,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 2,
+      "first_mention": "2026-05-29",
+      "last_mention": "2026-05-30",
+      "team": "San Antonio Spurs",
       "rank": 31
     },
     {
@@ -487,15 +487,15 @@
       "rank": 40
     },
     {
-      "player": "Kasparas Jakucionis",
+      "player": "Karl-Anthony Towns",
       "score": 1.0,
       "mentions_week1": 1,
       "mentions_week2": 0,
       "mentions_weeks3_4": 0,
       "total_mentions": 1,
-      "first_mention": "2026-05-30",
-      "last_mention": "2026-05-30",
-      "team": "Miami Heat",
+      "first_mention": "2026-06-06",
+      "last_mention": "2026-06-06",
+      "team": "New York Knicks",
       "rank": 41
     },
     {
@@ -547,30 +547,6 @@
       "rank": 45
     },
     {
-      "player": "Nikola Jovic",
-      "score": 1.0,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-05-30",
-      "last_mention": "2026-05-30",
-      "team": "Miami Heat",
-      "rank": 46
-    },
-    {
-      "player": "Pelle Larsson",
-      "score": 1.0,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-05-30",
-      "last_mention": "2026-05-30",
-      "team": "Miami Heat",
-      "rank": 47
-    },
-    {
       "player": "Rob Dillingham",
       "score": 1.0,
       "mentions_week1": 1,
@@ -580,7 +556,19 @@
       "first_mention": "2026-06-03",
       "last_mention": "2026-06-03",
       "team": "Chicago Bulls",
-      "rank": 48
+      "rank": 46
+    },
+    {
+      "player": "Jared McCain",
+      "score": 0.75,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 3,
+      "total_mentions": 3,
+      "first_mention": "2026-05-11",
+      "last_mention": "2026-05-23",
+      "team": "Philadelphia 76ers",
+      "rank": 47
     },
     {
       "player": "Kevin Durant",
@@ -592,7 +580,7 @@
       "first_mention": "2026-05-13",
       "last_mention": "2026-05-20",
       "team": "Houston Rockets",
-      "rank": 49
+      "rank": 48
     },
     {
       "player": "Donte DiVincenzo",
@@ -604,7 +592,7 @@
       "first_mention": "2026-05-13",
       "last_mention": "2026-05-26",
       "team": "Minnesota Timberwolves",
-      "rank": 50
+      "rank": 49
     },
     {
       "player": "Jaren Jackson Jr",
@@ -616,7 +604,7 @@
       "first_mention": "2026-05-18",
       "last_mention": "2026-05-29",
       "team": "Oklahoma City Thunder",
-      "rank": 51
+      "rank": 50
     },
     {
       "player": "Lauri Markkanen",
@@ -628,19 +616,7 @@
       "first_mention": "2026-05-18",
       "last_mention": "2026-05-29",
       "team": "Utah Jazz",
-      "rank": 52
-    },
-    {
-      "player": "Anthony Edwards",
-      "score": 0.5,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 2,
-      "first_mention": "2026-05-20",
-      "last_mention": "2026-05-20",
-      "team": "Minnesota Timberwolves",
-      "rank": 53
+      "rank": 51
     },
     {
       "player": "Ivica Zubac",
@@ -652,7 +628,7 @@
       "first_mention": "2026-05-11",
       "last_mention": "2026-05-13",
       "team": "Los Angeles Clippers",
-      "rank": 54
+      "rank": 52
     },
     {
       "player": "Joel Embiid",
@@ -664,7 +640,7 @@
       "first_mention": "2026-05-11",
       "last_mention": "2026-05-11",
       "team": "Philadelphia 76ers",
-      "rank": 55
+      "rank": 53
     },
     {
       "player": "Jrue Holiday",
@@ -676,7 +652,7 @@
       "first_mention": "2026-05-16",
       "last_mention": "2026-05-16",
       "team": "Portland Trail Blazers",
-      "rank": 56
+      "rank": 54
     },
     {
       "player": "Rudy Gobert",
@@ -688,7 +664,7 @@
       "first_mention": "2026-05-16",
       "last_mention": "2026-05-20",
       "team": "Minnesota Timberwolves",
-      "rank": 57
+      "rank": 55
     },
     {
       "player": "Bennedict Mathurin",
@@ -700,7 +676,7 @@
       "first_mention": "2026-05-26",
       "last_mention": "2026-05-26",
       "team": "Indiana Pacers",
-      "rank": 58
+      "rank": 56
     },
     {
       "player": "Cameron Johnson",
@@ -712,19 +688,7 @@
       "first_mention": "2026-05-29",
       "last_mention": "2026-05-29",
       "team": "Denver Nuggets",
-      "rank": 59
-    },
-    {
-      "player": "Cooper Flagg",
-      "score": 0.5,
-      "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-05-23",
-      "last_mention": "2026-05-23",
-      "team": "Dallas Mavericks",
-      "rank": 60
+      "rank": 57
     },
     {
       "player": "De'Aaron Fox",
@@ -736,7 +700,7 @@
       "first_mention": "2026-05-24",
       "last_mention": "2026-05-24",
       "team": "San Antonio Spurs",
-      "rank": 61
+      "rank": 58
     },
     {
       "player": "John Collins",
@@ -748,7 +712,7 @@
       "first_mention": "2026-05-26",
       "last_mention": "2026-05-26",
       "team": "Los Angeles Clippers",
-      "rank": 62
+      "rank": 59
     },
     {
       "player": "Jonas Valanciunas",
@@ -760,6 +724,42 @@
       "first_mention": "2026-05-26",
       "last_mention": "2026-05-26",
       "team": "Denver Nuggets",
+      "rank": 60
+    },
+    {
+      "player": "Kasparas Jakucionis",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-05-30",
+      "last_mention": "2026-05-30",
+      "team": "Miami Heat",
+      "rank": 61
+    },
+    {
+      "player": "Nikola Jovic",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-05-30",
+      "last_mention": "2026-05-30",
+      "team": "Miami Heat",
+      "rank": 62
+    },
+    {
+      "player": "Pelle Larsson",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-05-30",
+      "last_mention": "2026-05-30",
+      "team": "Miami Heat",
       "rank": 63
     },
     {
@@ -835,6 +835,18 @@
       "rank": 69
     },
     {
+      "player": "Cooper Flagg",
+      "score": 0.25,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 1,
+      "first_mention": "2026-05-23",
+      "last_mention": "2026-05-23",
+      "team": "Dallas Mavericks",
+      "rank": 70
+    },
+    {
       "player": "Dillon Brooks",
       "score": 0.25,
       "mentions_week1": 0,
@@ -844,7 +856,7 @@
       "first_mention": "2026-05-13",
       "last_mention": "2026-05-13",
       "team": "Phoenix Suns",
-      "rank": 70
+      "rank": 71
     },
     {
       "player": "Jakob Poeltl",
@@ -856,7 +868,7 @@
       "first_mention": "2026-05-20",
       "last_mention": "2026-05-20",
       "team": "Toronto Raptors",
-      "rank": 71
+      "rank": 72
     },
     {
       "player": "Jalen Green",
@@ -868,7 +880,7 @@
       "first_mention": "2026-05-13",
       "last_mention": "2026-05-13",
       "team": "Phoenix Suns",
-      "rank": 72
+      "rank": 73
     },
     {
       "player": "Jalen Smith",
@@ -880,7 +892,7 @@
       "first_mention": "2026-05-13",
       "last_mention": "2026-05-13",
       "team": "Chicago Bulls",
-      "rank": 73
+      "rank": 74
     },
     {
       "player": "Julius Randle",
@@ -892,7 +904,7 @@
       "first_mention": "2026-05-16",
       "last_mention": "2026-05-16",
       "team": "Minnesota Timberwolves",
-      "rank": 74
+      "rank": 75
     },
     {
       "player": "Kyle Kuzma",
@@ -904,7 +916,7 @@
       "first_mention": "2026-05-11",
       "last_mention": "2026-05-11",
       "team": "Milwaukee Bucks",
-      "rank": 75
+      "rank": 76
     },
     {
       "player": "Naji Marshall",
@@ -916,7 +928,7 @@
       "first_mention": "2026-05-13",
       "last_mention": "2026-05-13",
       "team": "Dallas Mavericks",
-      "rank": 76
+      "rank": 77
     },
     {
       "player": "Naz Reid",
@@ -928,7 +940,7 @@
       "first_mention": "2026-05-16",
       "last_mention": "2026-05-16",
       "team": "Minnesota Timberwolves",
-      "rank": 77
+      "rank": 78
     },
     {
       "player": "Ryan Dunn",
@@ -940,7 +952,7 @@
       "first_mention": "2026-05-13",
       "last_mention": "2026-05-13",
       "team": "Dallas Mavericks",
-      "rank": 78
+      "rank": 79
     },
     {
       "player": "Scoot Henderson",
@@ -952,7 +964,7 @@
       "first_mention": "2026-05-20",
       "last_mention": "2026-05-20",
       "team": "Milwaukee Bucks",
-      "rank": 79
+      "rank": 80
     },
     {
       "player": "Trae Young",
@@ -964,7 +976,7 @@
       "first_mention": "2026-05-14",
       "last_mention": "2026-05-14",
       "team": "Atlanta Hawks",
-      "rank": 80
+      "rank": 81
     },
     {
       "player": "Tyrese Maxey",
@@ -976,7 +988,7 @@
       "first_mention": "2026-05-16",
       "last_mention": "2026-05-16",
       "team": "Philadelphia 76ers",
-      "rank": 81
+      "rank": 82
     },
     {
       "player": "Vit Krejci",
@@ -988,7 +1000,7 @@
       "first_mention": "2026-05-13",
       "last_mention": "2026-05-13",
       "team": "Philadelphia 76ers",
-      "rank": 82
+      "rank": 83
     },
     {
       "player": "Zion Williamson",
@@ -1000,11 +1012,50 @@
       "first_mention": "2026-05-20",
       "last_mention": "2026-05-20",
       "team": "New Orleans Pelicans",
-      "rank": 83
+      "rank": 84
     }
   ],
   "player_rumors": {
+    "Karl-Anthony Towns": [
+      {
+        "date": "2026-06-06",
+        "text": "Brian Windhorst:Going forward after this series, the Minnesota Timberwolves future is in question. Somewhat because of what Anthony Edwards feels about the roster, and I wonder if KAT was still there, if he did.x.com",
+        "text_html": "Brian Windhorst: <a href=\"https://x.com/HeatCulture13/status/2062915432986599770\" target=\"_blank\" style=\"color: #1a73e8;\">Going forward after this series, the Minnesota Timberwolves future is in question. Somewhat because of what Anthony Edwards feels about the roster, and I wonder if KAT was still there, if he did</a>.",
+        "outlet": "x.com",
+        "source_url": "https://x.com/HeatCulture13/status/2062915432986599770"
+      }
+    ],
+    "Anthony Edwards": [
+      {
+        "date": "2026-06-06",
+        "text": "Brian Windhorst:Going forward after this series, the Minnesota Timberwolves future is in question. Somewhat because of what Anthony Edwards feels about the roster, and I wonder if KAT was still there, if he did.x.com",
+        "text_html": "Brian Windhorst: <a href=\"https://x.com/HeatCulture13/status/2062915432986599770\" target=\"_blank\" style=\"color: #1a73e8;\">Going forward after this series, the Minnesota Timberwolves future is in question. Somewhat because of what Anthony Edwards feels about the roster, and I wonder if KAT was still there, if he did</a>.",
+        "outlet": "x.com",
+        "source_url": "https://x.com/HeatCulture13/status/2062915432986599770"
+      },
+      {
+        "date": "2026-05-20",
+        "text": "Darren Wolfson: \"But it's about satisfying Ant. The fear is, Judd, that at some point, does Ant through his representation, Bill Duffy and others, signal a desire to be elsewhere?We are nowhere near that point, but the fear is there. So Ant, I'm sure deep down knows that he can't get to where he wants to get to with this roster.\"YouTube",
+        "text_html": "Darren Wolfson: \"But it's about satisfying Ant. The fear is, Judd, that at some point, does Ant through his representation, Bill Duffy and others, signal a desire to be elsewhere? <a href=\"https://www.youtube.com/watch?v=vBKtrOK7x88&t=209s\" target=\"_blank\" style=\"color: #1a73e8;\">We are nowhere near that point, but the fear is there. So Ant, I'm sure deep down knows that he can't get to where he wants to get to with this roster.\"</a>",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=vBKtrOK7x88&t=209s"
+      },
+      {
+        "date": "2026-05-20",
+        "text": "Darren Wolfson: \"Let's not forget, Phil, Giannis has the hammer because he's essentially in a contract year. There's that player option, but wherever he goes, he's signing an extension. I could certainly concoct a great package that the Portland Trail Blazers could put together for Giannis. But if Giannis through his representation signals to the Blazers, I'm not signing a contract extension, you're not giving up Scoot Henderson and a million draft picks. You're just not doing that. The word is, going back to February,Giannis has interest in a few places. I was told, I was led to believe that Minnesota is one of those places, that there is enough intrigue, Giannis teaming up with Anthony Edwards. So yes, I absolutely foresee Tim Connelly re-engaging the Bucks, maybe already has.\"YouTube",
+        "text_html": "Darren Wolfson: \"Let's not forget, Phil, Giannis has the hammer because he's essentially in a contract year. There's that player option, but wherever he goes, he's signing an extension. I could certainly concoct a great package that the Portland Trail Blazers could put together for Giannis. But if Giannis through his representation signals to the Blazers, I'm not signing a contract extension, you're not giving up Scoot Henderson and a million draft picks. You're just not doing that. The word is, going back to February, <a href=\"https://www.youtube.com/watch?v=vBKtrOK7x88&t=209s\" target=\"_blank\" style=\"color: #1a73e8;\">Giannis has interest in a few places. I was told, I was led to believe that Minnesota is one of those places, that there is enough intrigue, Giannis teaming up with Anthony Edwards. So yes, I absolutely foresee Tim Connelly re-engaging the Bucks, maybe already has.\"</a>",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=vBKtrOK7x88&t=209s"
+      }
+    ],
     "Giannis Antetokounmpo": [
+      {
+        "date": "2026-06-06",
+        "text": "Heat Central: Chris Haynes on Giannis: \u201cI think this is the closest he\u2019s come to saying he wants to be moved without saying he wants to be moved. I think signs are pointing to that\u2026.This game (finals) is going to have some implications as well. If the Knicks were to falter to the Spurs, they might be in play for Giannis.\u201dx.com",
+        "text_html": "Heat Central: Chris Haynes on Giannis: \u201cI think this is the closest he\u2019s come to saying he wants to be moved without saying he wants to be moved. I think signs are pointing to that\u2026. <a href=\"https://x.com/HeatCulture13/status/2063319280267980822?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">This game (finals) is going to have some implications as well. If the Knicks were to falter to the Spurs, they might be in play for Giannis.\u201d</a>",
+        "outlet": "x.com",
+        "source_url": "https://x.com/HeatCulture13/status/2063319280267980822?s=20"
+      },
       {
         "date": "2026-06-06",
         "text": "Ira Winderman:Interesting...amid uncertainly of whether the Heat will keep or trade No. 13 (in a possible Giannis Antetokounmpo deal), the Heat have announced a draft party June 23 at Kaseya Center, with the announcement saying,\" Watch as Miami\u2019s draft pick takes the stage\"Details:x.com",
@@ -1473,48 +1524,6 @@
         "text_html": "Chris Mannix: I wrote this week about the Atlanta Hawks. Jaylen is a Georgia native. Last offseason, the Celtics and Hawks did have a brief conversation about Jaylen Brown. It didn\u2019t really go anywhere. <a href=\"https://www.youtube.com/watch?v=MR9h-MQlwOQ\" target=\"_blank\" style=\"color: #1a73e8;\">The Hawks were leery about the size of Brown\u2019s contract, which at the time was, I believe, the richest contract in NBA history. And they weren\u2019t really in a position to go all in. The Celtics were not looking to give Jaylen Brown away, either. So, it didn\u2019t go anywhere</a>. But that\u2019s a team, given what happened this season, that I could see getting interested in Jaylen Brown. Again, the Miamis, the Houstons, Golden State \u2014 teams that are theoretically going to be in the mix for Giannis Antetokounmpo \u2014 could turn around and make a run at Jaylen Brown. So, I think that situation bears watching.",
         "outlet": "YouTube",
         "source_url": "https://www.youtube.com/watch?v=MR9h-MQlwOQ"
-      },
-      {
-        "date": "2026-05-09",
-        "text": "Therein lies the irony of their possible Giannis Antetokounmpo\u00a0interest. The shooting woes wouldn\u2019t be fixed if they found a way to land him, but he would provide an upgrade in every other department.Per a team\u00a0source, there have been no\u00a0discussions\u00a0at this point about pursuing Antetokounmpo this summer. It is worth noting, however, that the Magic inquired about the possibility heading into the February trade deadline (a team\u00a0source\u00a0confirmed a\u00a0Hoopshype report from late April\u00a0indicating as much).New York Times",
-        "text_html": "Therein lies the irony of their possible Giannis Antetokounmpo interest. The shooting woes wouldn\u2019t be fixed if they found a way to land him, but he would provide an upgrade in every other department. <a href=\"https://www.nytimes.com/athletic/7265340/2026/05/09/giannis-antetokounmpo-trade-rumors-market-bucks-nba-offseason/\" target=\"_blank\" style=\"color: #1a73e8;\">Per a team source, there have been no discussions at this point about pursuing Antetokounmpo this summer. It is worth noting, however, that the Magic inquired about the possibility heading into the February trade deadline (a team source confirmed a Hoopshype report from late April indicating as much)</a>.",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/7265340/2026/05/09/giannis-antetokounmpo-trade-rumors-market-bucks-nba-offseason/"
-      },
-      {
-        "date": "2026-05-09",
-        "text": "There was a time when the Hawks were seen as a likely Antetokounmpo suitor, but those times appear to have changed. As general manager Onsi Saleh seemed to signal during his end-of-season press conference, andteam\u00a0sources\u00a0confirmed to\u00a0The Athletic, the Hawks plan to be very patient with their young core and do not appear likely to pursue Giannis Antetokounmpo or any other superstar.New York Times",
-        "text_html": "There was a time when the Hawks were seen as a likely Antetokounmpo suitor, but those times appear to have changed. As general manager Onsi Saleh seemed to signal during his end-of-season press conference, and <a href=\"https://www.nytimes.com/athletic/7265340/2026/05/09/giannis-antetokounmpo-trade-rumors-market-bucks-nba-offseason/\" target=\"_blank\" style=\"color: #1a73e8;\">team sources confirmed to The Athletic, the Hawks plan to be very patient with their young core and do not appear likely to pursue Giannis Antetokounmpo or any other superstar</a>.",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/7265340/2026/05/09/giannis-antetokounmpo-trade-rumors-market-bucks-nba-offseason/"
-      },
-      {
-        "date": "2026-05-09",
-        "text": "Yet there is significant skepticism among rival\u00a0executives\u00a0that Giannis Antetokounmpo would welcome this option, as he is believed to be\u00a0interested\u00a0in joining a true title-contender. The Trail Blazers, even with him, would likely struggle to reach that tier.As these playoffs have shown so far, joining a top-tier team in the East would be the wiser way to reach that goal. That sentiment comes up frequently in\u00a0leaguewide\u00a0discussions\u00a0about what Antetokounmpo might want, as it\u2019s widely believed he\u2019d prefer to play for an Eastern Conference team.New York Times",
-        "text_html": "<a href=\"https://www.nytimes.com/athletic/7265340/2026/05/09/giannis-antetokounmpo-trade-rumors-market-bucks-nba-offseason/\" target=\"_blank\" style=\"color: #1a73e8;\">Yet there is significant skepticism among rival executives that Giannis Antetokounmpo would welcome this option, as he is believed to be interested in joining a true title-contender. The Trail Blazers, even with him, would likely struggle to reach that tier.</a> As these playoffs have shown so far, joining a top-tier team in the East would be the wiser way to reach that goal. That sentiment comes up frequently in leaguewide discussions about what Antetokounmpo might want, as it\u2019s widely believed he\u2019d prefer to play for an Eastern Conference team.",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/7265340/2026/05/09/giannis-antetokounmpo-trade-rumors-market-bucks-nba-offseason/"
-      },
-      {
-        "date": "2026-05-09",
-        "text": "Even before\u00a0Jaylen Brown sparked a conversation\u00a0about whether he still wants to be in Boston this week, when his online comments about this season being the \u201cfavorite season of his career\u201d were confusing at best and controversial at worst,league\u00a0sources\u00a0had pegged the Celtics as a team to watch on the Giannis Antetokounmpo front.New York Times",
-        "text_html": "Even before Jaylen Brown sparked a conversation about whether he still wants to be in Boston this week, when his online comments about this season being the \u201cfavorite season of his career\u201d were confusing at best and controversial at worst, <a href=\"https://www.nytimes.com/athletic/7265340/2026/05/09/giannis-antetokounmpo-trade-rumors-market-bucks-nba-offseason/\" target=\"_blank\" style=\"color: #1a73e8;\">league sources had pegged the Celtics as a team to watch on the Giannis Antetokounmpo front</a>.",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/7265340/2026/05/09/giannis-antetokounmpo-trade-rumors-market-bucks-nba-offseason/"
-      },
-      {
-        "date": "2026-05-09",
-        "text": "Yet there has been\u00a0significant pushback on this\u00a0growing\u00a0narrative\u00a0ever since, with Celtics president of basketball operations Brad Stevens telling reporters on Wednesday that he has no\u00a0knowledge\u00a0of Jaylen Brown being frustrated and Brown saying, \u201cIf it was up to me, I could play in Boston the next 10 years.\u201dA team\u00a0source\u00a0reiterated as much, indicating that there were no internal issues between the two sides. A league\u00a0source\u00a0close to Brown shared a similar message.New York Times",
-        "text_html": "Yet there has been significant pushback on this growing narrative ever since, with Celtics president of basketball operations Brad Stevens telling reporters on Wednesday that he has no knowledge of Jaylen Brown being frustrated and Brown saying, \u201cIf it was up to me, I could play in Boston the next 10 years.\u201d <a href=\"https://www.nytimes.com/athletic/7265340/2026/05/09/giannis-antetokounmpo-trade-rumors-market-bucks-nba-offseason/\" target=\"_blank\" style=\"color: #1a73e8;\">A team source reiterated as much, indicating that there were no internal issues between the two sides. A league source close to Brown shared a similar message</a>.",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/7265340/2026/05/09/giannis-antetokounmpo-trade-rumors-market-bucks-nba-offseason/"
-      },
-      {
-        "date": "2026-05-09",
-        "text": "Sam Amick: Giannis Antetokounmpo maybe it gets them\u00a0the kind of package where they can\u00a0really turn the corner and build with\u00a0some good young pieces, or maybe even some stars. So,\u00a0we'll see.And then the other thought\u00a0real quick is Giannis is\u00a0going to have his say here. He's going\u00a0to put his foot on the scale and I think\u00a0at some point in terms of\u00a0pushing towards a team that he wants to\u00a0play for and that\u00a0part is is going to be a big factor as\u00a0well.YouTube",
-        "text_html": "Sam Amick: Giannis Antetokounmpo maybe it gets them the kind of package where they can really turn the corner and build with some good young pieces, or maybe even some stars. So, we'll see. <a href=\"https://www.youtube.com/watch?v=kyyzNBuPkgU&t=3182s\" target=\"_blank\" style=\"color: #1a73e8;\">And then the other thought real quick is Giannis is going to have his say here. He's going to put his foot on the scale and I think at some point in terms of pushing towards a team that he wants to play for and that part is is going to be a big factor as well.</a>",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=kyyzNBuPkgU&t=3182s"
       }
     ],
     "Chet Holmgren": [
@@ -2033,20 +2042,6 @@
         "text_html": "Chris Mannix: I wrote this week about the Atlanta Hawks. Jaylen is a Georgia native. Last offseason, the Celtics and Hawks did have a brief conversation about Jaylen Brown. It didn\u2019t really go anywhere. <a href=\"https://www.youtube.com/watch?v=MR9h-MQlwOQ\" target=\"_blank\" style=\"color: #1a73e8;\">The Hawks were leery about the size of Brown\u2019s contract, which at the time was, I believe, the richest contract in NBA history. And they weren\u2019t really in a position to go all in. The Celtics were not looking to give Jaylen Brown away, either. So, it didn\u2019t go anywhere</a>. But that\u2019s a team, given what happened this season, that I could see getting interested in Jaylen Brown. Again, the Miamis, the Houstons, Golden State \u2014 teams that are theoretically going to be in the mix for Giannis Antetokounmpo \u2014 could turn around and make a run at Jaylen Brown. So, I think that situation bears watching.",
         "outlet": "YouTube",
         "source_url": "https://www.youtube.com/watch?v=MR9h-MQlwOQ"
-      },
-      {
-        "date": "2026-05-09",
-        "text": "Even before\u00a0Jaylen Brown sparked a conversation\u00a0about whether he still wants to be in Boston this week, when his online comments about this season being the \u201cfavorite season of his career\u201d were confusing at best and controversial at worst,league\u00a0sources\u00a0had pegged the Celtics as a team to watch on the Giannis Antetokounmpo front.New York Times",
-        "text_html": "Even before Jaylen Brown sparked a conversation about whether he still wants to be in Boston this week, when his online comments about this season being the \u201cfavorite season of his career\u201d were confusing at best and controversial at worst, <a href=\"https://www.nytimes.com/athletic/7265340/2026/05/09/giannis-antetokounmpo-trade-rumors-market-bucks-nba-offseason/\" target=\"_blank\" style=\"color: #1a73e8;\">league sources had pegged the Celtics as a team to watch on the Giannis Antetokounmpo front</a>.",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/7265340/2026/05/09/giannis-antetokounmpo-trade-rumors-market-bucks-nba-offseason/"
-      },
-      {
-        "date": "2026-05-09",
-        "text": "Yet there has been\u00a0significant pushback on this\u00a0growing\u00a0narrative\u00a0ever since, with Celtics president of basketball operations Brad Stevens telling reporters on Wednesday that he has no\u00a0knowledge\u00a0of Jaylen Brown being frustrated and Brown saying, \u201cIf it was up to me, I could play in Boston the next 10 years.\u201dA team\u00a0source\u00a0reiterated as much, indicating that there were no internal issues between the two sides. A league\u00a0source\u00a0close to Brown shared a similar message.New York Times",
-        "text_html": "Yet there has been significant pushback on this growing narrative ever since, with Celtics president of basketball operations Brad Stevens telling reporters on Wednesday that he has no knowledge of Jaylen Brown being frustrated and Brown saying, \u201cIf it was up to me, I could play in Boston the next 10 years.\u201d <a href=\"https://www.nytimes.com/athletic/7265340/2026/05/09/giannis-antetokounmpo-trade-rumors-market-bucks-nba-offseason/\" target=\"_blank\" style=\"color: #1a73e8;\">A team source reiterated as much, indicating that there were no internal issues between the two sides. A league source close to Brown shared a similar message</a>.",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/7265340/2026/05/09/giannis-antetokounmpo-trade-rumors-market-bucks-nba-offseason/"
       }
     ],
     "Kawhi Leonard": [
@@ -2157,13 +2152,6 @@
         "text_html": "Shams Charania: Joining @SportsCenter to discuss the significance of Steve Kerr's new deal to return to the Warriors as the highest paid NBA head coach: <a href=\"https://hoopshype.com/social/\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cThey\u2019re gonna be out there in the marketplace looking for a star-caliber player to pair with Stephen Curry.\u201d</a>",
         "outlet": "Twitter @ShamsCharania",
         "source_url": "https://hoopshype.com/social/"
-      },
-      {
-        "date": "2026-05-09",
-        "text": "Lou Williams:Do you think there is a world\u00a0where Steph possibly leaves and\u00a0chases rings or do we reset in Golden\u00a0State and bring some big name guys? Which one do you think is more likely?\u00a0Sam Amick: I still don't see it, Lou.Never say\u00a0never, we've seen stranger\u00a0things in the league. I do always think\u00a0back to there was that funny moment\u00a0a couple months ago\u00a0where Steph did an interview in\u00a0Charlotte as part of his dad having his jersey retired in\u00a0Charlotte. And he had this funny\u00a0comment to a local reporter about how he thinks if he ever came back\u00a0that his dad would probably let him\u00a0you know, wear his number. And it was\u00a0just a joke, but it was enough to go,\u00a0\"Dang, okay.\"YouTube",
-        "text_html": "Lou Williams: <a href=\"https://www.youtube.com/watch?v=HEfmWVBtuVo&t=180s\" target=\"_blank\" style=\"color: #1a73e8;\">Do you think there is a world where Steph possibly leaves and chases rings or do we reset in Golden State and bring some big name guys? Which one do you think is more likely? Sam Amick: I still don't see it, Lou.</a> Never say never, we've seen stranger things in the league. I do always think back to there was that funny moment a couple months ago where Steph did an interview in Charlotte as part of his dad having his jersey retired in Charlotte. And he had this funny comment to a local reporter about how he thinks if he ever came back that his dad would probably let him you know, wear his number. And it was just a joke, but it was enough to go, \"Dang, okay.\"",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=HEfmWVBtuVo&t=180s"
       }
     ],
     "James Harden": [
@@ -2571,22 +2559,6 @@
         "source_url": "https://www.youtube.com/watch?v=GKxI_WN3hww&t=60s"
       }
     ],
-    "Anthony Edwards": [
-      {
-        "date": "2026-05-20",
-        "text": "Darren Wolfson: \"But it's about satisfying Ant. The fear is, Judd, that at some point, does Ant through his representation, Bill Duffy and others, signal a desire to be elsewhere?We are nowhere near that point, but the fear is there. So Ant, I'm sure deep down knows that he can't get to where he wants to get to with this roster.\"YouTube",
-        "text_html": "Darren Wolfson: \"But it's about satisfying Ant. The fear is, Judd, that at some point, does Ant through his representation, Bill Duffy and others, signal a desire to be elsewhere? <a href=\"https://www.youtube.com/watch?v=vBKtrOK7x88&t=209s\" target=\"_blank\" style=\"color: #1a73e8;\">We are nowhere near that point, but the fear is there. So Ant, I'm sure deep down knows that he can't get to where he wants to get to with this roster.\"</a>",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=vBKtrOK7x88&t=209s"
-      },
-      {
-        "date": "2026-05-20",
-        "text": "Darren Wolfson: \"Let's not forget, Phil, Giannis has the hammer because he's essentially in a contract year. There's that player option, but wherever he goes, he's signing an extension. I could certainly concoct a great package that the Portland Trail Blazers could put together for Giannis. But if Giannis through his representation signals to the Blazers, I'm not signing a contract extension, you're not giving up Scoot Henderson and a million draft picks. You're just not doing that. The word is, going back to February,Giannis has interest in a few places. I was told, I was led to believe that Minnesota is one of those places, that there is enough intrigue, Giannis teaming up with Anthony Edwards. So yes, I absolutely foresee Tim Connelly re-engaging the Bucks, maybe already has.\"YouTube",
-        "text_html": "Darren Wolfson: \"Let's not forget, Phil, Giannis has the hammer because he's essentially in a contract year. There's that player option, but wherever he goes, he's signing an extension. I could certainly concoct a great package that the Portland Trail Blazers could put together for Giannis. But if Giannis through his representation signals to the Blazers, I'm not signing a contract extension, you're not giving up Scoot Henderson and a million draft picks. You're just not doing that. The word is, going back to February, <a href=\"https://www.youtube.com/watch?v=vBKtrOK7x88&t=209s\" target=\"_blank\" style=\"color: #1a73e8;\">Giannis has interest in a few places. I was told, I was led to believe that Minnesota is one of those places, that there is enough intrigue, Giannis teaming up with Anthony Edwards. So yes, I absolutely foresee Tim Connelly re-engaging the Bucks, maybe already has.\"</a>",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=vBKtrOK7x88&t=209s"
-      }
-    ],
     "Kevin Durant": [
       {
         "date": "2026-05-20",
@@ -2859,8 +2831,15 @@
     ]
   },
   "daily_counts": {
+    "Karl-Anthony Towns": {
+      "2026-06-06": 1
+    },
+    "Anthony Edwards": {
+      "2026-06-06": 1,
+      "2026-05-20": 2
+    },
     "Giannis Antetokounmpo": {
-      "2026-06-06": 3,
+      "2026-06-06": 4,
       "2026-06-05": 4,
       "2026-06-04": 1,
       "2026-06-03": 11,
@@ -2883,8 +2862,7 @@
       "2026-05-13": 1,
       "2026-05-12": 1,
       "2026-05-11": 9,
-      "2026-05-10": 1,
-      "2026-05-09": 6
+      "2026-05-10": 1
     },
     "Chet Holmgren": {
       "2026-06-06": 2,
@@ -2976,8 +2954,7 @@
       "2026-05-25": 1,
       "2026-05-18": 1,
       "2026-05-13": 2,
-      "2026-05-10": 1,
-      "2026-05-09": 2
+      "2026-05-10": 1
     },
     "Kawhi Leonard": {
       "2026-06-03": 1,
@@ -3003,8 +2980,7 @@
     },
     "Stephen Curry": {
       "2026-06-03": 1,
-      "2026-05-10": 1,
-      "2026-05-09": 1
+      "2026-05-10": 1
     },
     "James Harden": {
       "2026-06-03": 1,
@@ -3115,9 +3091,6 @@
     },
     "Zion Williamson": {
       "2026-05-20": 1
-    },
-    "Anthony Edwards": {
-      "2026-05-20": 2
     },
     "Kevin Durant": {
       "2026-05-20": 1,
