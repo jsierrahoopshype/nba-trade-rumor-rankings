@@ -1,58 +1,46 @@
 {
-  "generated_at": "2026-06-12T21:01:35.670863",
+  "generated_at": "2026-06-13T05:20:33.399143",
   "scrape_window_days": 28,
-  "window_start": "2026-05-15",
-  "window_end": "2026-06-12",
-  "total_rumors": 262,
+  "window_start": "2026-05-16",
+  "window_end": "2026-06-13",
+  "total_rumors": 264,
   "total_players": 94,
   "rankings": [
     {
       "player": "Giannis Antetokounmpo",
-      "score": 49.75,
-      "mentions_week1": 34,
-      "mentions_week2": 17,
-      "mentions_weeks3_4": 29,
+      "score": 50.0,
+      "mentions_week1": 33,
+      "mentions_week2": 21,
+      "mentions_weeks3_4": 26,
       "total_mentions": 80,
-      "first_mention": "2026-05-15",
+      "first_mention": "2026-05-16",
       "last_mention": "2026-06-12",
       "team": "Milwaukee Bucks",
       "rank": 1
     },
     {
       "player": "Jaylen Brown",
-      "score": 8.0,
-      "mentions_week1": 6,
+      "score": 9.0,
+      "mentions_week1": 7,
       "mentions_week2": 3,
       "mentions_weeks3_4": 2,
-      "total_mentions": 11,
+      "total_mentions": 12,
       "first_mention": "2026-05-18",
-      "last_mention": "2026-06-11",
+      "last_mention": "2026-06-12",
       "team": "Boston Celtics",
       "rank": 2
     },
     {
       "player": "Domantas Sabonis",
-      "score": 7.0,
-      "mentions_week1": 7,
-      "mentions_week2": 0,
+      "score": 6.0,
+      "mentions_week1": 5,
+      "mentions_week2": 2,
       "mentions_weeks3_4": 0,
       "total_mentions": 7,
       "first_mention": "2026-06-05",
       "last_mention": "2026-06-11",
       "team": "Sacramento Kings",
       "rank": 3
-    },
-    {
-      "player": "Jaime Jaquez",
-      "score": 4.25,
-      "mentions_week1": 4,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 5,
-      "first_mention": "2026-05-25",
-      "last_mention": "2026-06-12",
-      "team": "Miami Heat",
-      "rank": 4
     },
     {
       "player": "Tyler Herro",
@@ -64,31 +52,55 @@
       "first_mention": "2026-05-25",
       "last_mention": "2026-06-12",
       "team": "Miami Heat",
-      "rank": 5
+      "rank": 4
     },
     {
       "player": "Chet Holmgren",
-      "score": 3.5,
+      "score": 3.25,
       "mentions_week1": 2,
-      "mentions_week2": 3,
-      "mentions_weeks3_4": 0,
+      "mentions_week2": 2,
+      "mentions_weeks3_4": 1,
       "total_mentions": 5,
       "first_mention": "2026-05-29",
       "last_mention": "2026-06-06",
       "team": "Oklahoma City Thunder",
+      "rank": 5
+    },
+    {
+      "player": "Trey Murphy",
+      "score": 3.0,
+      "mentions_week1": 2,
+      "mentions_week2": 2,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 4,
+      "first_mention": "2026-05-31",
+      "last_mention": "2026-06-12",
+      "team": "New Orleans Pelicans",
       "rank": 6
     },
     {
-      "player": "Kawhi Leonard",
+      "player": "Kyrie Irving",
       "score": 2.75,
       "mentions_week1": 1,
       "mentions_week2": 2,
       "mentions_weeks3_4": 3,
       "total_mentions": 6,
-      "first_mention": "2026-05-15",
+      "first_mention": "2026-05-20",
       "last_mention": "2026-06-12",
-      "team": "Los Angeles Clippers",
+      "team": "Dallas Mavericks",
       "rank": 7
+    },
+    {
+      "player": "Jaime Jaquez",
+      "score": 2.75,
+      "mentions_week1": 1,
+      "mentions_week2": 3,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 5,
+      "first_mention": "2026-05-25",
+      "last_mention": "2026-06-12",
+      "team": "Miami Heat",
+      "rank": 8
     },
     {
       "player": "Kel'el Ware",
@@ -100,7 +112,19 @@
       "first_mention": "2026-05-25",
       "last_mention": "2026-06-10",
       "team": "Miami Heat",
-      "rank": 8
+      "rank": 9
+    },
+    {
+      "player": "Kawhi Leonard",
+      "score": 2.5,
+      "mentions_week1": 1,
+      "mentions_week2": 2,
+      "mentions_weeks3_4": 2,
+      "total_mentions": 5,
+      "first_mention": "2026-05-18",
+      "last_mention": "2026-06-12",
+      "team": "Los Angeles Clippers",
+      "rank": 10
     },
     {
       "player": "Bam Adebayo",
@@ -112,19 +136,7 @@
       "first_mention": "2026-06-03",
       "last_mention": "2026-06-12",
       "team": "Miami Heat",
-      "rank": 9
-    },
-    {
-      "player": "LeBron James",
-      "score": 2.5,
-      "mentions_week1": 2,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 4,
-      "first_mention": "2026-05-24",
-      "last_mention": "2026-06-12",
-      "team": "Los Angeles Lakers",
-      "rank": 10
+      "rank": 11
     },
     {
       "player": "Damian Lillard",
@@ -136,7 +148,7 @@
       "first_mention": "2026-06-01",
       "last_mention": "2026-06-12",
       "team": "Boston Celtics",
-      "rank": 11
+      "rank": 12
     },
     {
       "player": "Jayson Tatum",
@@ -148,7 +160,7 @@
       "first_mention": "2026-06-03",
       "last_mention": "2026-06-11",
       "team": "Boston Celtics",
-      "rank": 12
+      "rank": 13
     },
     {
       "player": "Evan Mobley",
@@ -160,55 +172,19 @@
       "first_mention": "2026-05-24",
       "last_mention": "2026-06-12",
       "team": "Cleveland Cavaliers",
-      "rank": 13
-    },
-    {
-      "player": "Christian Braun",
-      "score": 2.0,
-      "mentions_week1": 1,
-      "mentions_week2": 2,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 3,
-      "first_mention": "2026-05-29",
-      "last_mention": "2026-06-10",
-      "team": "Denver Nuggets",
       "rank": 14
     },
     {
-      "player": "Peyton Watson",
+      "player": "LeBron James",
       "score": 2.0,
       "mentions_week1": 1,
-      "mentions_week2": 2,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 3,
-      "first_mention": "2026-05-29",
-      "last_mention": "2026-06-10",
-      "team": "Denver Nuggets",
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 2,
+      "total_mentions": 4,
+      "first_mention": "2026-05-24",
+      "last_mention": "2026-06-12",
+      "team": "Los Angeles Lakers",
       "rank": 15
-    },
-    {
-      "player": "Trey Murphy",
-      "score": 2.0,
-      "mentions_week1": 1,
-      "mentions_week2": 2,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 3,
-      "first_mention": "2026-05-31",
-      "last_mention": "2026-06-10",
-      "team": "New Orleans Pelicans",
-      "rank": 16
-    },
-    {
-      "player": "Victor Wembanyama",
-      "score": 2.0,
-      "mentions_week1": 1,
-      "mentions_week2": 2,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 3,
-      "first_mention": "2026-05-29",
-      "last_mention": "2026-06-07",
-      "team": "San Antonio Spurs",
-      "rank": 17
     },
     {
       "player": "Miles Bridges",
@@ -220,7 +196,7 @@
       "first_mention": "2026-06-09",
       "last_mention": "2026-06-10",
       "team": "Charlotte Hornets",
-      "rank": 18
+      "rank": 16
     },
     {
       "player": "Paul George",
@@ -232,31 +208,43 @@
       "first_mention": "2026-06-06",
       "last_mention": "2026-06-07",
       "team": "Philadelphia 76ers",
+      "rank": 17
+    },
+    {
+      "player": "Christian Braun",
+      "score": 1.75,
+      "mentions_week1": 1,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 3,
+      "first_mention": "2026-05-29",
+      "last_mention": "2026-06-10",
+      "team": "Denver Nuggets",
+      "rank": 18
+    },
+    {
+      "player": "Peyton Watson",
+      "score": 1.75,
+      "mentions_week1": 1,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 3,
+      "first_mention": "2026-05-29",
+      "last_mention": "2026-06-10",
+      "team": "Denver Nuggets",
       "rank": 19
     },
     {
-      "player": "Zach LaVine",
-      "score": 2.0,
-      "mentions_week1": 2,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 2,
-      "first_mention": "2026-06-05",
-      "last_mention": "2026-06-05",
-      "team": "Sacramento Kings",
-      "rank": 20
-    },
-    {
-      "player": "Kyrie Irving",
+      "player": "Victor Wembanyama",
       "score": 1.75,
-      "mentions_week1": 0,
-      "mentions_week2": 2,
-      "mentions_weeks3_4": 3,
-      "total_mentions": 5,
-      "first_mention": "2026-05-20",
-      "last_mention": "2026-06-03",
-      "team": "Dallas Mavericks",
-      "rank": 21
+      "mentions_week1": 1,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 3,
+      "first_mention": "2026-05-29",
+      "last_mention": "2026-06-07",
+      "team": "San Antonio Spurs",
+      "rank": 20
     },
     {
       "player": "Luka Doncic",
@@ -268,7 +256,7 @@
       "first_mention": "2026-05-19",
       "last_mention": "2026-06-03",
       "team": "Los Angeles Lakers",
-      "rank": 22
+      "rank": 21
     },
     {
       "player": "Anthony Edwards",
@@ -280,7 +268,7 @@
       "first_mention": "2026-05-20",
       "last_mention": "2026-06-06",
       "team": "Minnesota Timberwolves",
-      "rank": 23
+      "rank": 22
     },
     {
       "player": "Ja Morant",
@@ -292,19 +280,7 @@
       "first_mention": "2026-05-30",
       "last_mention": "2026-06-06",
       "team": "Memphis Grizzlies",
-      "rank": 24
-    },
-    {
-      "player": "Jusuf Nurkic",
-      "score": 1.5,
-      "mentions_week1": 1,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 2,
-      "first_mention": "2026-06-01",
-      "last_mention": "2026-06-05",
-      "team": "Denver Nuggets",
-      "rank": 25
+      "rank": 23
     },
     {
       "player": "Pelle Larsson",
@@ -316,7 +292,7 @@
       "first_mention": "2026-05-30",
       "last_mention": "2026-06-12",
       "team": "Miami Heat",
-      "rank": 26
+      "rank": 24
     },
     {
       "player": "Draymond Green",
@@ -328,7 +304,7 @@
       "first_mention": "2026-05-16",
       "last_mention": "2026-06-03",
       "team": "Golden State Warriors",
-      "rank": 27
+      "rank": 25
     },
     {
       "player": "Naz Reid",
@@ -340,7 +316,7 @@
       "first_mention": "2026-05-16",
       "last_mention": "2026-06-12",
       "team": "Minnesota Timberwolves",
-      "rank": 28
+      "rank": 26
     },
     {
       "player": "Donovan Mitchell",
@@ -352,7 +328,7 @@
       "first_mention": "2026-05-17",
       "last_mention": "2026-06-01",
       "team": "Cleveland Cavaliers",
-      "rank": 29
+      "rank": 27
     },
     {
       "player": "James Harden",
@@ -364,7 +340,7 @@
       "first_mention": "2026-05-16",
       "last_mention": "2026-06-03",
       "team": "Los Angeles Clippers",
-      "rank": 30
+      "rank": 28
     },
     {
       "player": "Aaron Wiggins",
@@ -376,7 +352,7 @@
       "first_mention": "2026-06-02",
       "last_mention": "2026-06-03",
       "team": "Golden State Warriors",
-      "rank": 31
+      "rank": 29
     },
     {
       "player": "Isaiah Joe",
@@ -388,6 +364,30 @@
       "first_mention": "2026-06-02",
       "last_mention": "2026-06-03",
       "team": "Golden State Warriors",
+      "rank": 30
+    },
+    {
+      "player": "Jusuf Nurkic",
+      "score": 1.0,
+      "mentions_week1": 0,
+      "mentions_week2": 2,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 2,
+      "first_mention": "2026-06-01",
+      "last_mention": "2026-06-05",
+      "team": "Denver Nuggets",
+      "rank": 31
+    },
+    {
+      "player": "Zach LaVine",
+      "score": 1.0,
+      "mentions_week1": 0,
+      "mentions_week2": 2,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 2,
+      "first_mention": "2026-06-05",
+      "last_mention": "2026-06-05",
+      "team": "Sacramento Kings",
       "rank": 32
     },
     {
@@ -415,30 +415,6 @@
       "rank": 34
     },
     {
-      "player": "De'Andre Hunter",
-      "score": 1.0,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-06-05",
-      "last_mention": "2026-06-05",
-      "team": "Sacramento Kings",
-      "rank": 35
-    },
-    {
-      "player": "DeMar DeRozan",
-      "score": 1.0,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-06-05",
-      "last_mention": "2026-06-05",
-      "team": "Sacramento Kings",
-      "rank": 36
-    },
-    {
       "player": "Dereck Lively",
       "score": 1.0,
       "mentions_week1": 1,
@@ -448,7 +424,7 @@
       "first_mention": "2026-06-10",
       "last_mention": "2026-06-10",
       "team": "Dallas Mavericks",
-      "rank": 37
+      "rank": 35
     },
     {
       "player": "Derik Queen",
@@ -460,7 +436,7 @@
       "first_mention": "2026-06-10",
       "last_mention": "2026-06-10",
       "team": "New Orleans Pelicans",
-      "rank": 38
+      "rank": 36
     },
     {
       "player": "Derrick White",
@@ -472,7 +448,7 @@
       "first_mention": "2026-06-08",
       "last_mention": "2026-06-08",
       "team": "Boston Celtics",
-      "rank": 39
+      "rank": 37
     },
     {
       "player": "Eric Gordon",
@@ -484,7 +460,7 @@
       "first_mention": "2026-06-07",
       "last_mention": "2026-06-07",
       "team": "Philadelphia 76ers",
-      "rank": 40
+      "rank": 38
     },
     {
       "player": "Isaac Okoro",
@@ -496,7 +472,7 @@
       "first_mention": "2026-06-08",
       "last_mention": "2026-06-08",
       "team": "Chicago Bulls",
-      "rank": 41
+      "rank": 39
     },
     {
       "player": "Isaiah Stewart",
@@ -508,7 +484,7 @@
       "first_mention": "2026-06-07",
       "last_mention": "2026-06-07",
       "team": "Detroit Pistons",
-      "rank": 42
+      "rank": 40
     },
     {
       "player": "Jaden McDaniels",
@@ -520,7 +496,7 @@
       "first_mention": "2026-06-12",
       "last_mention": "2026-06-12",
       "team": "Minnesota Timberwolves",
-      "rank": 43
+      "rank": 41
     },
     {
       "player": "Jamal Murray",
@@ -532,7 +508,7 @@
       "first_mention": "2026-06-10",
       "last_mention": "2026-06-10",
       "team": "Denver Nuggets",
-      "rank": 44
+      "rank": 42
     },
     {
       "player": "Jarrett Allen",
@@ -544,7 +520,7 @@
       "first_mention": "2026-06-12",
       "last_mention": "2026-06-12",
       "team": "Cleveland Cavaliers",
-      "rank": 45
+      "rank": 43
     },
     {
       "player": "Joan Beringer",
@@ -556,7 +532,7 @@
       "first_mention": "2026-06-12",
       "last_mention": "2026-06-12",
       "team": "Milwaukee Bucks",
-      "rank": 46
+      "rank": 44
     },
     {
       "player": "Jose Alvarado",
@@ -568,7 +544,7 @@
       "first_mention": "2026-06-07",
       "last_mention": "2026-06-07",
       "team": "New York Knicks",
-      "rank": 47
+      "rank": 45
     },
     {
       "player": "Josh Green",
@@ -580,7 +556,7 @@
       "first_mention": "2026-06-10",
       "last_mention": "2026-06-10",
       "team": "Charlotte Hornets",
-      "rank": 48
+      "rank": 46
     },
     {
       "player": "Karl-Anthony Towns",
@@ -592,7 +568,7 @@
       "first_mention": "2026-06-06",
       "last_mention": "2026-06-06",
       "team": "New York Knicks",
-      "rank": 49
+      "rank": 47
     },
     {
       "player": "Kyle Lowry",
@@ -604,19 +580,7 @@
       "first_mention": "2026-06-07",
       "last_mention": "2026-06-07",
       "team": "Philadelphia 76ers",
-      "rank": 50
-    },
-    {
-      "player": "Malik Monk",
-      "score": 1.0,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-06-05",
-      "last_mention": "2026-06-05",
-      "team": "Sacramento Kings",
-      "rank": 51
+      "rank": 48
     },
     {
       "player": "Michael Porter",
@@ -628,7 +592,7 @@
       "first_mention": "2026-06-10",
       "last_mention": "2026-06-10",
       "team": "Golden State Warriors",
-      "rank": 52
+      "rank": 49
     },
     {
       "player": "Miles McBride",
@@ -640,7 +604,7 @@
       "first_mention": "2026-06-07",
       "last_mention": "2026-06-07",
       "team": "New York Knicks",
-      "rank": 53
+      "rank": 50
     },
     {
       "player": "Mitchell Robinson",
@@ -652,7 +616,7 @@
       "first_mention": "2026-06-07",
       "last_mention": "2026-06-07",
       "team": "New York Knicks",
-      "rank": 54
+      "rank": 51
     },
     {
       "player": "Nikola Jokic",
@@ -664,7 +628,7 @@
       "first_mention": "2026-06-10",
       "last_mention": "2026-06-10",
       "team": "Denver Nuggets",
-      "rank": 55
+      "rank": 52
     },
     {
       "player": "Terance Mann",
@@ -676,7 +640,7 @@
       "first_mention": "2026-06-10",
       "last_mention": "2026-06-10",
       "team": "Brooklyn Nets",
-      "rank": 56
+      "rank": 53
     },
     {
       "player": "Terrence Shannon",
@@ -688,7 +652,7 @@
       "first_mention": "2026-06-12",
       "last_mention": "2026-06-12",
       "team": "Milwaukee Bucks",
-      "rank": 57
+      "rank": 54
     },
     {
       "player": "VJ Edgecombe",
@@ -700,7 +664,7 @@
       "first_mention": "2026-06-07",
       "last_mention": "2026-06-07",
       "team": "Philadelphia 76ers",
-      "rank": 58
+      "rank": 55
     },
     {
       "player": "Darius Garland",
@@ -712,7 +676,7 @@
       "first_mention": "2026-05-26",
       "last_mention": "2026-06-03",
       "team": "Cleveland Cavaliers",
-      "rank": 59
+      "rank": 56
     },
     {
       "player": "Dylan Harper",
@@ -724,31 +688,19 @@
       "first_mention": "2026-05-24",
       "last_mention": "2026-06-02",
       "team": "San Antonio Spurs",
-      "rank": 60
+      "rank": 57
     },
     {
       "player": "Jaren Jackson Jr",
-      "score": 0.75,
+      "score": 0.5,
       "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 2,
       "total_mentions": 2,
       "first_mention": "2026-05-18",
       "last_mention": "2026-05-29",
       "team": "Oklahoma City Thunder",
-      "rank": 61
-    },
-    {
-      "player": "Lauri Markkanen",
-      "score": 0.75,
-      "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 2,
-      "first_mention": "2026-05-18",
-      "last_mention": "2026-05-29",
-      "team": "Utah Jazz",
-      "rank": 62
+      "rank": 58
     },
     {
       "player": "Jrue Holiday",
@@ -760,7 +712,7 @@
       "first_mention": "2026-05-16",
       "last_mention": "2026-05-16",
       "team": "Portland Trail Blazers",
-      "rank": 63
+      "rank": 59
     },
     {
       "player": "Kevin Durant",
@@ -772,7 +724,19 @@
       "first_mention": "2026-05-16",
       "last_mention": "2026-05-20",
       "team": "Houston Rockets",
-      "rank": 64
+      "rank": 60
+    },
+    {
+      "player": "Lauri Markkanen",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 2,
+      "total_mentions": 2,
+      "first_mention": "2026-05-18",
+      "last_mention": "2026-05-29",
+      "team": "Utah Jazz",
+      "rank": 61
     },
     {
       "player": "Rudy Gobert",
@@ -784,7 +748,7 @@
       "first_mention": "2026-05-16",
       "last_mention": "2026-05-20",
       "team": "Minnesota Timberwolves",
-      "rank": 65
+      "rank": 62
     },
     {
       "player": "Alex Caruso",
@@ -796,7 +760,7 @@
       "first_mention": "2026-06-02",
       "last_mention": "2026-06-02",
       "team": "Oklahoma City Thunder",
-      "rank": 66
+      "rank": 63
     },
     {
       "player": "Andre Drummond",
@@ -808,19 +772,31 @@
       "first_mention": "2026-06-02",
       "last_mention": "2026-06-02",
       "team": "Cleveland Cavaliers",
-      "rank": 67
+      "rank": 64
     },
     {
-      "player": "Cameron Johnson",
+      "player": "De'Andre Hunter",
       "score": 0.5,
       "mentions_week1": 0,
       "mentions_week2": 1,
       "mentions_weeks3_4": 0,
       "total_mentions": 1,
-      "first_mention": "2026-05-29",
-      "last_mention": "2026-05-29",
-      "team": "Denver Nuggets",
-      "rank": 68
+      "first_mention": "2026-06-05",
+      "last_mention": "2026-06-05",
+      "team": "Sacramento Kings",
+      "rank": 65
+    },
+    {
+      "player": "DeMar DeRozan",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-06-05",
+      "last_mention": "2026-06-05",
+      "team": "Sacramento Kings",
+      "rank": 66
     },
     {
       "player": "Harrison Barnes",
@@ -832,7 +808,7 @@
       "first_mention": "2026-06-01",
       "last_mention": "2026-06-01",
       "team": "San Antonio Spurs",
-      "rank": 69
+      "rank": 67
     },
     {
       "player": "Isaiah Hartenstein",
@@ -844,7 +820,7 @@
       "first_mention": "2026-06-03",
       "last_mention": "2026-06-03",
       "team": "Oklahoma City Thunder",
-      "rank": 70
+      "rank": 68
     },
     {
       "player": "Julian Phillips",
@@ -856,7 +832,7 @@
       "first_mention": "2026-06-03",
       "last_mention": "2026-06-03",
       "team": "Chicago Bulls",
-      "rank": 71
+      "rank": 69
     },
     {
       "player": "Kasparas Jakucionis",
@@ -868,7 +844,7 @@
       "first_mention": "2026-05-30",
       "last_mention": "2026-05-30",
       "team": "Miami Heat",
-      "rank": 72
+      "rank": 70
     },
     {
       "player": "Leonard Miller",
@@ -880,7 +856,7 @@
       "first_mention": "2026-06-03",
       "last_mention": "2026-06-03",
       "team": "Chicago Bulls",
-      "rank": 73
+      "rank": 71
     },
     {
       "player": "Lonzo Ball",
@@ -892,7 +868,7 @@
       "first_mention": "2026-06-03",
       "last_mention": "2026-06-03",
       "team": "Cleveland Cavaliers",
-      "rank": 74
+      "rank": 72
     },
     {
       "player": "Luguentz Dort",
@@ -904,7 +880,19 @@
       "first_mention": "2026-06-01",
       "last_mention": "2026-06-01",
       "team": "Oklahoma City Thunder",
-      "rank": 75
+      "rank": 73
+    },
+    {
+      "player": "Malik Monk",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-06-05",
+      "last_mention": "2026-06-05",
+      "team": "Sacramento Kings",
+      "rank": 74
     },
     {
       "player": "Nikola Jovic",
@@ -916,7 +904,7 @@
       "first_mention": "2026-05-30",
       "last_mention": "2026-05-30",
       "team": "Miami Heat",
-      "rank": 76
+      "rank": 75
     },
     {
       "player": "Rob Dillingham",
@@ -928,7 +916,7 @@
       "first_mention": "2026-06-03",
       "last_mention": "2026-06-03",
       "team": "Chicago Bulls",
-      "rank": 77
+      "rank": 76
     },
     {
       "player": "Stephen Curry",
@@ -940,19 +928,7 @@
       "first_mention": "2026-06-03",
       "last_mention": "2026-06-03",
       "team": "Golden State Warriors",
-      "rank": 78
-    },
-    {
-      "player": "Walker Kessler",
-      "score": 0.5,
-      "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-05-29",
-      "last_mention": "2026-05-29",
-      "team": "Utah Jazz",
-      "rank": 79
+      "rank": 77
     },
     {
       "player": "Austin Reaves",
@@ -964,7 +940,7 @@
       "first_mention": "2026-05-19",
       "last_mention": "2026-05-19",
       "team": "Los Angeles Lakers",
-      "rank": 80
+      "rank": 78
     },
     {
       "player": "Ayo Dosunmu",
@@ -976,7 +952,7 @@
       "first_mention": "2026-05-17",
       "last_mention": "2026-05-17",
       "team": "Chicago Bulls",
-      "rank": 81
+      "rank": 79
     },
     {
       "player": "Bennedict Mathurin",
@@ -988,7 +964,19 @@
       "first_mention": "2026-05-26",
       "last_mention": "2026-05-26",
       "team": "Indiana Pacers",
-      "rank": 82
+      "rank": 80
+    },
+    {
+      "player": "Cameron Johnson",
+      "score": 0.25,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 1,
+      "first_mention": "2026-05-29",
+      "last_mention": "2026-05-29",
+      "team": "Denver Nuggets",
+      "rank": 81
     },
     {
       "player": "Cooper Flagg",
@@ -1000,7 +988,7 @@
       "first_mention": "2026-05-23",
       "last_mention": "2026-05-23",
       "team": "Dallas Mavericks",
-      "rank": 83
+      "rank": 82
     },
     {
       "player": "De'Aaron Fox",
@@ -1012,7 +1000,7 @@
       "first_mention": "2026-05-24",
       "last_mention": "2026-05-24",
       "team": "San Antonio Spurs",
-      "rank": 84
+      "rank": 83
     },
     {
       "player": "Donte DiVincenzo",
@@ -1024,7 +1012,7 @@
       "first_mention": "2026-05-26",
       "last_mention": "2026-05-26",
       "team": "Minnesota Timberwolves",
-      "rank": 85
+      "rank": 84
     },
     {
       "player": "Jakob Poeltl",
@@ -1036,7 +1024,7 @@
       "first_mention": "2026-05-20",
       "last_mention": "2026-05-20",
       "team": "Toronto Raptors",
-      "rank": 86
+      "rank": 85
     },
     {
       "player": "Jared McCain",
@@ -1048,7 +1036,7 @@
       "first_mention": "2026-05-23",
       "last_mention": "2026-05-23",
       "team": "Philadelphia 76ers",
-      "rank": 87
+      "rank": 86
     },
     {
       "player": "John Collins",
@@ -1060,7 +1048,7 @@
       "first_mention": "2026-05-26",
       "last_mention": "2026-05-26",
       "team": "Los Angeles Clippers",
-      "rank": 88
+      "rank": 87
     },
     {
       "player": "Jonas Valanciunas",
@@ -1072,7 +1060,7 @@
       "first_mention": "2026-05-26",
       "last_mention": "2026-05-26",
       "team": "Denver Nuggets",
-      "rank": 89
+      "rank": 88
     },
     {
       "player": "Julius Randle",
@@ -1084,7 +1072,7 @@
       "first_mention": "2026-05-16",
       "last_mention": "2026-05-16",
       "team": "Minnesota Timberwolves",
-      "rank": 90
+      "rank": 89
     },
     {
       "player": "Scoot Henderson",
@@ -1096,7 +1084,7 @@
       "first_mention": "2026-05-20",
       "last_mention": "2026-05-20",
       "team": "Milwaukee Bucks",
-      "rank": 91
+      "rank": 90
     },
     {
       "player": "Stephon Castle",
@@ -1108,7 +1096,7 @@
       "first_mention": "2026-05-24",
       "last_mention": "2026-05-24",
       "team": "San Antonio Spurs",
-      "rank": 92
+      "rank": 91
     },
     {
       "player": "Tyrese Maxey",
@@ -1120,6 +1108,18 @@
       "first_mention": "2026-05-16",
       "last_mention": "2026-05-16",
       "team": "Philadelphia 76ers",
+      "rank": 92
+    },
+    {
+      "player": "Walker Kessler",
+      "score": 0.25,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 1,
+      "first_mention": "2026-05-29",
+      "last_mention": "2026-05-29",
+      "team": "Utah Jazz",
       "rank": 93
     },
     {
@@ -1136,37 +1136,28 @@
     }
   ],
   "player_rumors": {
-    "LeBron James": [
+    "Giannis Antetokounmpo": [
       {
         "date": "2026-06-12",
-        "text": "NBA on ESPN: Despite rumors circulating, Rich Paul tells @PatMcAfeeshow that he hasn't had a conversation with LeBron James about next season, but has received calls from \"about 10-12 teams\" interested ?\"Believe nothing that's out there because I haven't had one conversation with him.\"x.com",
-        "text_html": "NBA on ESPN: Despite rumors circulating, Rich Paul tells @PatMcAfeeshow that he hasn't had a conversation with LeBron James about next season, but has received calls from \"about 10-12 teams\" interested ? <a href=\"https://x.com/ESPNNBA/status/2065485731347255564?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">\"Believe nothing that's out there because I haven't had one conversation with him.\"</a>",
+        "text": "Portland, Houston and Atlanta are teams routinely mentioned as suitors with Jaylen Brown interest, butthe sheer salary numbers do add a layer of complexity to any talks. Brown, who turns 30 in October, just assembled a career season but also has three years and $183 million left on his current contract.marcstein.substack.com",
+        "text_html": "<a href=\"https://marcstein.substack.com/\" target=\"_blank\" style=\"color: #1a73e8;\">Portland, Houston and Atlanta are teams routinely mentioned as suitors with Jaylen Brown interest, but</a> the sheer salary numbers do add a layer of complexity to any talks. Brown, who turns 30 in October, just assembled a career season but also has three years and $183 million left on his current contract.",
+        "outlet": "marcstein.substack.com",
+        "source_url": "https://marcstein.substack.com/"
+      },
+      {
+        "date": "2026-06-12",
+        "text": "One of the loudest questions circulating throughout the league at the moment:Miami might still be widely regarded as the most likely destination for Antetokounmpo.marcstein.substack.com",
+        "text_html": "One of the loudest questions circulating throughout the league at the moment: <a href=\"https://marcstein.substack.com/\" target=\"_blank\" style=\"color: #1a73e8;\">Miami might still be widely regarded as the most likely destination for Antetokounmpo</a>.",
+        "outlet": "marcstein.substack.com",
+        "source_url": "https://marcstein.substack.com/"
+      },
+      {
+        "date": "2026-06-12",
+        "text": "Jake Fischer:If Milwaukee does move forward with trading Giannis to Miami, the Bucks will assuredly receive the Heat\u2019s No. 13 pick along with other draft capital. League sources say Milwaukee is also calling rival teams in search of a third top-20 pick, and potentially another pick in the top-10 ahead of the Bucks\u2019 current 10th selection.x.com",
+        "text_html": "Jake Fischer: <a href=\"https://x.com/JakeLFischer/status/2065544607094468911\" target=\"_blank\" style=\"color: #1a73e8;\">If Milwaukee does move forward with trading Giannis to Miami, the Bucks will assuredly receive the Heat\u2019s No. 13 pick along with other draft capital</a>. League sources say Milwaukee is also calling rival teams in search of a third top-20 pick, and potentially another pick in the top-10 ahead of the Bucks\u2019 current 10th selection.",
         "outlet": "x.com",
-        "source_url": "https://x.com/ESPNNBA/status/2065485731347255564?s=20"
+        "source_url": "https://x.com/JakeLFischer/status/2065544607094468911"
       },
-      {
-        "date": "2026-06-05",
-        "text": "Oh No He Didn't:\"I'm gonna throw this out there: LeBron James comes back on a two-year deal at $25 million per season with a player option and a no-trade clause.\u201d- @BA_Turnerx.com",
-        "text_html": "Oh No He Didn't: <a href=\"https://x.com/ohnohedidnt24/status/2062727804219773100\" target=\"_blank\" style=\"color: #1a73e8;\">\"I'm gonna throw this out there: LeBron James comes back on a two-year deal at $25 million per season with a player option and a no-trade clause.\u201d</a> - @BA_Turner",
-        "outlet": "x.com",
-        "source_url": "https://x.com/ohnohedidnt24/status/2062727804219773100"
-      },
-      {
-        "date": "2026-05-24",
-        "text": "Making it to the conference finals was a breakthrough for this organization and worth celebrating, but the players\u2019 energy and effort since they got here leave plenty to be desired.An important offseason awaits, with\u00a0contract\u00a0decisions to make on Mitchell and Harden and the inevitable debate on whether to pursue Giannis Antetokounmpo. LeBron James looms over all of this, too.New York Times",
-        "text_html": "Making it to the conference finals was a breakthrough for this organization and worth celebrating, but the players\u2019 energy and effort since they got here leave plenty to be desired. <a href=\"https://www.nytimes.com/athletic/7304037/2026/05/24/cavaliers-knicks-nba-playoffs-game-3-donovan-mitchell/\" target=\"_blank\" style=\"color: #1a73e8;\">An important offseason awaits, with contract decisions to make on Mitchell and Harden and the inevitable debate on whether to pursue Giannis Antetokounmpo. LeBron James looms over all of this, too</a>.",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/7304037/2026/05/24/cavaliers-knicks-nba-playoffs-game-3-donovan-mitchell/"
-      },
-      {
-        "date": "2026-05-24",
-        "text": "So, effectively, Heat management is putting all their eggs in the Giannis Antetokounmpo basket up until draft night, when Bucks management has thankfully set a deadline for Giannis deal or no deal? Then if it\u2019s no Giannis for whatever reason, the Heat have lots of time to go after others by trade or free agency. \u2013 Morgan, New Orleans. Ira Winderman: Exactly. Or to go with a Plan C, and wait for the 2027 offseason, when ample cap space can be created. And that makes sense, since the last thing the Heat can afford is to move a potential Giannis Antetokounmpo trade asset elsewhere and then find out they would not have enough to close a Giannis deal.All of that said, it also would not be the first time a team has set a somewhat artificial deadline and then walked back that timetable. Basically, it will be up to the Heat to either blow away the Bucks with an offer, or to turn to alternative plans, as you mention. The problem would be the Heat then losing the option of utilizing the No. 13 pick next month to select for the Bucks.What the Heat can\u2019t afford is to draft a player they believe the Bucks eventually would want, only to see the Bucks move on to an alternative trade package elsewhere down the road. In other words, no repeat of selecting Shabazz Napier in the 2014 first round to appease LeBron James, only to have LeBron walk in free agency weeks later.South Florida Sun-Sentinel",
-        "text_html": "So, effectively, Heat management is putting all their eggs in the Giannis Antetokounmpo basket up until draft night, when Bucks management has thankfully set a deadline for Giannis deal or no deal? Then if it\u2019s no Giannis for whatever reason, the Heat have lots of time to go after others by trade or free agency. \u2013 Morgan, New Orleans. Ira Winderman: Exactly. Or to go with a Plan C, and wait for the 2027 offseason, when ample cap space can be created. And that makes sense, since the last thing the Heat can afford is to move a potential Giannis Antetokounmpo trade asset elsewhere and then find out they would not have enough to close a Giannis deal. <a href=\"https://www.sun-sentinel.com/2026/05/24/ask-ira-are-the-heat-now-solely-on-giannis-timetable/\" target=\"_blank\" style=\"color: #1a73e8;\">All of that said, it also would not be the first time a team has set a somewhat artificial deadline and then walked back that timetable. Basically, it will be up to the Heat to either blow away the Bucks with an offer, or to turn to alternative plans, as you mention. The problem would be the Heat then losing the option of utilizing the No. 13 pick next month to select for the Bucks.</a> What the Heat can\u2019t afford is to draft a player they believe the Bucks eventually would want, only to see the Bucks move on to an alternative trade package elsewhere down the road. In other words, no repeat of selecting Shabazz Napier in the 2014 first round to appease LeBron James, only to have LeBron walk in free agency weeks later.",
-        "outlet": "South Florida Sun-Sentinel",
-        "source_url": "https://www.sun-sentinel.com/2026/05/24/ask-ira-are-the-heat-now-solely-on-giannis-timetable/"
-      }
-    ],
-    "Giannis Antetokounmpo": [
       {
         "date": "2026-06-12",
         "text": "Sam Amick on Giannis Antetokounmpo:I think the theme with Boston and Miami is, Giannis is ready for a really serious organization. I think he wants to be coached hard right now. \u2014 I do wonder how he feels about joining a Celtics organization that already has 17 banners. In Miami you\u2019d maybe get a little more celebrated if you get them another one.YouTube",
@@ -1705,27 +1696,196 @@
         "text_html": "This season, Connelly was working on another groundbreaking maneuver. With speculation swirling about Giannis Antetokounmpo\u2019s future in Milwaukee, the Timberwolves were one of several teams trying to trade for the Bucks star. Their efforts were well known throughout the league and in their own locker room. It did seem to have an adverse effect on the existing roster around the trade deadline. <a href=\"https://www.nytimes.com/athletic/7280040/2026/05/16/minnesota-timberwolves-nba-playoffs-2026-offseason-future/\" target=\"_blank\" style=\"color: #1a73e8;\">Randle, in particular, went through a rough stretch of performances that coaches and teammates believed were directly connected to his name being bandied about in trade rumors</a>.",
         "outlet": "New York Times",
         "source_url": "https://www.nytimes.com/athletic/7280040/2026/05/16/minnesota-timberwolves-nba-playoffs-2026-offseason-future/"
+      }
+    ],
+    "Jaylen Brown": [
+      {
+        "date": "2026-06-12",
+        "text": "Portland, Houston and Atlanta are teams routinely mentioned as suitors with Jaylen Brown interest, butthe sheer salary numbers do add a layer of complexity to any talks. Brown, who turns 30 in October, just assembled a career season but also has three years and $183 million left on his current contract.marcstein.substack.com",
+        "text_html": "<a href=\"https://marcstein.substack.com/\" target=\"_blank\" style=\"color: #1a73e8;\">Portland, Houston and Atlanta are teams routinely mentioned as suitors with Jaylen Brown interest, but</a> the sheer salary numbers do add a layer of complexity to any talks. Brown, who turns 30 in October, just assembled a career season but also has three years and $183 million left on his current contract.",
+        "outlet": "marcstein.substack.com",
+        "source_url": "https://marcstein.substack.com/"
       },
       {
-        "date": "2026-05-15",
-        "text": "Sam Amick: For the Clippers, I'm very curious to see how it changes things for them.I don't know specifics, but like a lot of people were talking about Kawhi Leonard quite a bit out here. And so when you get the number five pick, does that compel you to rebuild quicker and get off a guy like Kawhi?Any chance you would trade that pick to go get a guy like Giannis and add to Kawhi? I don't know what their game plan is, but when you have the stuff like the fifth pick and you didn't plan on being in the top 10, that's a big deal.YouTube",
-        "text_html": "Sam Amick: For the Clippers, I'm very curious to see how it changes things for them. <a href=\"https://www.youtube.com/watch?v=Bu_o9fTpASQ&t=652s\" target=\"_blank\" style=\"color: #1a73e8;\">I don't know specifics, but like a lot of people were talking about Kawhi Leonard quite a bit out here. And so when you get the number five pick, does that compel you to rebuild quicker and get off a guy like Kawhi?</a> Any chance you would trade that pick to go get a guy like Giannis and add to Kawhi? I don't know what their game plan is, but when you have the stuff like the fifth pick and you didn't plan on being in the top 10, that's a big deal.",
+        "date": "2026-06-11",
+        "text": "Heat Central:\u201cI don\u2019t think the Bucks want Jaylen Brown\u2026. I think a Giannis deal is probably a lot simpler to Miami. The conversations I\u2019ve had is it seems like it would probably just be Milwaukee and Miami. It seems a more simple deal. Boston I think it would be a bit more complex\u201d\u2014 @KevinOConnor on Giannis being linked to Miami and Bostonx.com",
+        "text_html": "Heat Central: <a href=\"https://x.com/HeatCulture13/status/2065204318341620015?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cI don\u2019t think the Bucks want Jaylen Brown\u2026. I think a Giannis deal is probably a lot simpler to Miami. The conversations I\u2019ve had is it seems like it would probably just be Milwaukee and Miami. It seems a more simple deal. Boston I think it would be a bit more complex\u201d</a> \u2014 @KevinOConnor on Giannis being linked to Miami and Boston",
+        "outlet": "x.com",
+        "source_url": "https://x.com/HeatCulture13/status/2065204318341620015?s=20"
+      },
+      {
+        "date": "2026-06-11",
+        "text": "Fullcourtpass:The Boston Celtics \u201cwithout a doubt\u201d would trade Jaylen Brown to acquire Giannis Antetokounmpo,per @KevinOConnor \u201cThe Celtics are making lots of calls and shopping all players except for Jayson Tatum\u201dx.com",
+        "text_html": "Fullcourtpass: <a href=\"https://x.com/Fullcourtpass/status/2065185024366845984?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">The Boston Celtics \u201cwithout a doubt\u201d would trade Jaylen Brown to acquire Giannis Antetokounmpo,</a> per @KevinOConnor \u201cThe Celtics are making lots of calls and shopping all players except for Jayson Tatum\u201d",
+        "outlet": "x.com",
+        "source_url": "https://x.com/Fullcourtpass/status/2065185024366845984?s=20"
+      },
+      {
+        "date": "2026-06-11",
+        "text": "Savage: WowThe Boston Celtics are in on Giannis Antetokounmpo. They are making lots of calls and shopping all players except for Jayson Tatum. Per: @KevinOConnorx.com",
+        "text_html": "Savage: Wow <a href=\"https://x.com/Savageboston/status/2065166154000216528?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">The Boston Celtics are in on Giannis Antetokounmpo</a>. They are making lots of calls and shopping all players except for Jayson Tatum. Per: @KevinOConnor",
+        "outlet": "x.com",
+        "source_url": "https://x.com/Savageboston/status/2065166154000216528?s=20"
+      },
+      {
+        "date": "2026-06-10",
+        "text": "Arguably, the largest pushback on this possibility came from ESPN's Brian Windhorst, who spoke recently on ESPN's Get Up. Not only did Windhorst argue that the Celtics aren't ready to trade Brown, but he also said he thinks Giannis wants to join the Miami Heat.\u201cThe team to watch here is Miami. Miami would say \u2018we've got Tyler Herro, who is a young player and been an All-Star,\" Windhorst said. \"We got draft picks, including the 13th pick in this draft\u2026 And Giannis I think wants to be in Miami. There are more check marks on Miami. I\u2019m not sure Boston is ready to trade Jaylen Brown.\"USA Today",
+        "text_html": "Arguably, the largest pushback on this possibility came from ESPN's Brian Windhorst, who spoke recently on ESPN's Get Up. Not only did Windhorst argue that the Celtics aren't ready to trade Brown, but he also said he thinks Giannis wants to join the Miami Heat. <a href=\"https://ftw-eu.usatoday.com/story/sports/nba/2026/06/09/jaylen-brown-trade-rumors-giannis-antetokounmpo-celtics-bucks/90472363007/\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cThe team to watch here is Miami. Miami would say \u2018we've got Tyler Herro, who is a young player and been an All-Star,\" Windhorst said. \"We got draft picks, including the 13th pick in this draft\u2026 And Giannis I think wants to be in Miami. There are more check marks on Miami. I\u2019m not sure Boston is ready to trade Jaylen Brown.\"</a>",
+        "outlet": "USA Today",
+        "source_url": "https://ftw-eu.usatoday.com/story/sports/nba/2026/06/09/jaylen-brown-trade-rumors-giannis-antetokounmpo-celtics-bucks/90472363007/"
+      },
+      {
+        "date": "2026-06-10",
+        "text": "Sam Amick of The Athletic spoke to CLNS Media's Bobby Manning and made it clear that the Celtics are still firm on their partnership with the superstar wing.\"There's no sign that they're putting Jaylen out there at all.In fact, they've gone to great lengths after he made those comments after the season to make sure that they were good with him,\" Amick claimed. \"All the messaging from the organization and from Jaylen's camp was that there's nothing to see here, just media talk.\"BasketNews",
+        "text_html": "Sam Amick of The Athletic spoke to CLNS Media's Bobby Manning and made it clear that the Celtics are still firm on their partnership with the superstar wing. <a href=\"https://basketnews.com/news-249368-celtics-trade-stance-on-jaylen-brown-finally-revealed-by-nba-insider.html\" target=\"_blank\" style=\"color: #1a73e8;\">\"There's no sign that they're putting Jaylen out there at all.</a> In fact, they've gone to great lengths after he made those comments after the season to make sure that they were good with him,\" Amick claimed. \"All the messaging from the organization and from Jaylen's camp was that there's nothing to see here, just media talk.\"",
+        "outlet": "BasketNews",
+        "source_url": "https://basketnews.com/news-249368-celtics-trade-stance-on-jaylen-brown-finally-revealed-by-nba-insider.html"
+      },
+      {
+        "date": "2026-06-08",
+        "text": "Brian Windhorst: \"I'm going to tell you I have not actually heard any material, true discussions. I'm certain maybe someone has called on Jaylen Brown maybe, butI have not heard one iota of Jaylen Brown truly being available or Derrick White being available.It is a proven commodity that Jaylen and Jayson and Derrick White are a championship trio. They're under contract, and it's big contracts, absolutely. It's a lot of money and their flexibility is impacted by that, but Brad Stevens has shown very good player personnel. He's repeatedly made very good player personnel moves, and I'm sure there's a list of things that they're looking at. When they emerge from this summer, they need to have more guys in their rotation that they can trust, especially the big man positions.\"YouTube",
+        "text_html": "Brian Windhorst: \"I'm going to tell you I have not actually heard any material, true discussions. I'm certain maybe someone has called on Jaylen Brown maybe, but <a href=\"https://www.youtube.com/watch?v=IiwvM_RZ7mU&t=6s\" target=\"_blank\" style=\"color: #1a73e8;\">I have not heard one iota of Jaylen Brown truly being available or Derrick White being available.</a> It is a proven commodity that Jaylen and Jayson and Derrick White are a championship trio. They're under contract, and it's big contracts, absolutely. It's a lot of money and their flexibility is impacted by that, but Brad Stevens has shown very good player personnel. He's repeatedly made very good player personnel moves, and I'm sure there's a list of things that they're looking at. When they emerge from this summer, they need to have more guys in their rotation that they can trust, especially the big man positions.\"",
         "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=Bu_o9fTpASQ&t=652s"
+        "source_url": "https://www.youtube.com/watch?v=IiwvM_RZ7mU&t=6s"
       },
       {
-        "date": "2026-05-15",
-        "text": "Tim Bontemps:\u00a0In the wake of\u00a0Milwaukee Bucks\u00a0co-owner\u00a0Jimmy Haslam's comments\u00a0at coach Taylor Jenkins' introductory news conference earlier this month, it seems like the Giannis Antetokounmpo saga could finally get some clarity between now and the draft. And, after years of \"will they, won't they,\"the\u00a0growing\u00a0belief around the league is that this time\u00a0an Antetokoumpo trade\u00a0will actually happen. \"It just feels like they're done with the circus, more than anything,\" an East\u00a0executive\u00a0said.\"They seem to want a clean break and to move on.\"ESPN",
-        "text_html": "Tim Bontemps: In the wake of Milwaukee Bucks co-owner Jimmy Haslam's comments at coach Taylor Jenkins' introductory news conference earlier this month, it seems like the Giannis Antetokounmpo saga could finally get some clarity between now and the draft. And, after years of \"will they, won't they,\" <a href=\"https://www.espn.com/nba/story/_/id/48773488/nba-playoffs-offseason-intel-lebron-giannis-pistons-76ers-clippers-summer\" target=\"_blank\" style=\"color: #1a73e8;\">the growing belief around the league is that this time an Antetokoumpo trade will actually happen. \"It just feels like they're done with the circus, more than anything,\" an East executive said.</a> \"They seem to want a clean break and to move on.\"",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/48773488/nba-playoffs-offseason-intel-lebron-giannis-pistons-76ers-clippers-summer"
+        "date": "2026-06-03",
+        "text": "Shamit Dua:To my understanding there has been no discussion between Boston and New Orleans on Jaylen Brown as of this moment.I do believe the Pelicans will be aggressive in reshaping their roster this summer and it's possible that Brown is name they check in on. But I don't believe the Pelicans have plans to mortgage their future in terms of significant draft capital in any moves.x.com",
+        "text_html": "Shamit Dua: <a href=\"https://x.com/FearTheBrown/status/2062211839086284851?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">To my understanding there has been no discussion between Boston and New Orleans on Jaylen Brown as of this moment.</a> I do believe the Pelicans will be aggressive in reshaping their roster this summer and it's possible that Brown is name they check in on. But I don't believe the Pelicans have plans to mortgage their future in terms of significant draft capital in any moves.",
+        "outlet": "x.com",
+        "source_url": "https://x.com/FearTheBrown/status/2062211839086284851?s=20"
       },
       {
-        "date": "2026-05-15",
-        "text": "Zach Lowe:I had breakfast with an agent, a very high-powered agent the other day, and he was like \u2018I\u2019m still betting no trade\u2019.And I said really? And he said \u2018just go through the exercise. Who has enough stuff and would be good enough with Giannis Antetokounmpo to contend right away?\u2019Spotify",
-        "text_html": "Zach Lowe: <a href=\"https://open.spotify.com/episode/1mT95PRH9GztvOLpU04RIM\" target=\"_blank\" style=\"color: #1a73e8;\">I had breakfast with an agent, a very high-powered agent the other day, and he was like \u2018I\u2019m still betting no trade\u2019.</a> And I said really? And he said \u2018just go through the exercise. Who has enough stuff and would be good enough with Giannis Antetokounmpo to contend right away?\u2019",
-        "outlet": "Spotify",
-        "source_url": "https://open.spotify.com/episode/1mT95PRH9GztvOLpU04RIM"
+        "date": "2026-06-03",
+        "text": "For starters, the rumors surrounding Jaylen Brown\u2019s alleged discontent have quieted down for the past few weeks. The 29-year-old sparked all sorts of speculation about his future in early May, when he declared this his \u201cmost fun season\u201d yet on a livestream just one day after Boston was bounced by the Philadelphia 76ers in the first round. Beyond the strangeness of that comment coming after such a bad postseason finish, it was the fact that he spent the vast majority of this season without longtime co-star, Jayson Tatum (who was recovering from his Achilles tendon tear) that made the optics even worse. Butthe Celtics took measures, both publicly and privately, to insist that this storyline was overblown. As such, any exploration of the Antetokounmpo possibility \u2014 if there is one this time around \u2014 would likely be discreet. Still, the Bucks would be well served to flesh out the Celtics possibilities.New York Times",
+        "text_html": "For starters, the rumors surrounding Jaylen Brown\u2019s alleged discontent have quieted down for the past few weeks. The 29-year-old sparked all sorts of speculation about his future in early May, when he declared this his \u201cmost fun season\u201d yet on a livestream just one day after Boston was bounced by the Philadelphia 76ers in the first round. Beyond the strangeness of that comment coming after such a bad postseason finish, it was the fact that he spent the vast majority of this season without longtime co-star, Jayson Tatum (who was recovering from his Achilles tendon tear) that made the optics even worse. But <a href=\"https://www.nytimes.com/athletic/7328530/2026/06/03/giannis-antetokounmpo-bucks-trade-market-destination/\" target=\"_blank\" style=\"color: #1a73e8;\">the Celtics took measures, both publicly and privately, to insist that this storyline was overblown. As such, any exploration of the Antetokounmpo possibility \u2014 if there is one this time around \u2014 would likely be discreet. Still, the Bucks would be well served to flesh out the Celtics possibilities</a>.",
+        "outlet": "New York Times",
+        "source_url": "https://www.nytimes.com/athletic/7328530/2026/06/03/giannis-antetokounmpo-bucks-trade-market-destination/"
+      },
+      {
+        "date": "2026-06-03",
+        "text": "The Atlanta Hawks may have emerged as one of the most intriguing potential destinations for Boston Celtics star Jaylen Brown should the Celtics ever decide to explore trade possibilities this offseason. While NBA insider Jake Fischer stressed Tuesday that Boston has not shown any indication it is actively shopping Brown,the longtime league reporter identified Atlanta as one of several teams keeping a close eye on the situation. \u201cAtlanta is Jaylen Brown\u2019s hometown,\u201d Fischer said on Bleacher Report\u2019s NBA Insider Notebook livestream. \u201cI think that\u2019s a spot that he would potentially have interest in going to.\u201dHeavy.com",
+        "text_html": "The Atlanta Hawks may have emerged as one of the most intriguing potential destinations for Boston Celtics star Jaylen Brown should the Celtics ever decide to explore trade possibilities this offseason. While NBA insider Jake Fischer stressed Tuesday that Boston has not shown any indication it is actively shopping Brown, <a href=\"https://heavy.com/sports/nba/atlanta-hawks/hawks-hometown-all-star-trade-rumors/\" target=\"_blank\" style=\"color: #1a73e8;\">the longtime league reporter identified Atlanta as one of several teams keeping a close eye on the situation. \u201cAtlanta is Jaylen Brown\u2019s hometown,\u201d Fischer said on Bleacher Report\u2019s NBA Insider Notebook livestream. \u201cI think that\u2019s a spot that he would potentially have interest in going to.\u201d</a>",
+        "outlet": "Heavy.com",
+        "source_url": "https://heavy.com/sports/nba/atlanta-hawks/hawks-hometown-all-star-trade-rumors/"
+      },
+      {
+        "date": "2026-05-25",
+        "text": "There is a belief in some corners of the league that Atlanta, Houston and Portland all have legitimate trade\u00a0interest\u00a0in Jaylen Brown. Which is something to file away if you're looking for participants that might be\u00a0interested\u00a0in joining an eventual multi-team Antetokounmpo trade construction.marcstein.substack.com",
+        "text_html": "<a href=\"https://marcstein.substack.com/p/monday-best-the-latest-around-the-5e7\" target=\"_blank\" style=\"color: #1a73e8;\">There is a belief in some corners of the league that Atlanta, Houston and Portland all have legitimate trade interest in Jaylen Brown</a>. Which is something to file away if you're looking for participants that might be interested in joining an eventual multi-team Antetokounmpo trade construction.",
+        "outlet": "marcstein.substack.com",
+        "source_url": "https://marcstein.substack.com/p/monday-best-the-latest-around-the-5e7"
+      },
+      {
+        "date": "2026-05-18",
+        "text": "Brad Stevens is no stranger to extensions but giving out that type of money to a 33-year-old is far from a no brainer. Adding that type of long-term commitment is more likely to hurt than help Brown\u2019s trade value in the present even after his standout regular season in 2025-26.Quite simply, there\u2019s no sense of urgency here from a Celtics standpoint to do an extension now beyond just appeasing Brown.That\u2019s not going to be the impetus for Stevens\u2019 next big deal. He\u2019s got bigger decisions to make for the present and making a decision on Brown\u2019s long-term future doesn\u2019t help him on that front. For that reason, don\u2019t expect an extension to be among Stevens\u2019 priorities this summer.Booth Newspapers",
+        "text_html": "Brad Stevens is no stranger to extensions but giving out that type of money to a 33-year-old is far from a no brainer. Adding that type of long-term commitment is more likely to hurt than help Brown\u2019s trade value in the present even after his standout regular season in 2025-26. <a href=\"https://www.masslive.com/celtics/2026/05/the-intriguing-contract-decision-facing-the-celtics-this-summer-could-reshape-jaylen-browns-future.html\" target=\"_blank\" style=\"color: #1a73e8;\">Quite simply, there\u2019s no sense of urgency here from a Celtics standpoint to do an extension now beyond just appeasing Brown.</a> That\u2019s not going to be the impetus for Stevens\u2019 next big deal. He\u2019s got bigger decisions to make for the present and making a decision on Brown\u2019s long-term future doesn\u2019t help him on that front. For that reason, don\u2019t expect an extension to be among Stevens\u2019 priorities this summer.",
+        "outlet": "Booth Newspapers",
+        "source_url": "https://www.masslive.com/celtics/2026/05/the-intriguing-contract-decision-facing-the-celtics-this-summer-could-reshape-jaylen-browns-future.html"
+      }
+    ],
+    "Kyrie Irving": [
+      {
+        "date": "2026-06-12",
+        "text": "The Mavericks, as we've been forecasting for some time in various appearances on the DLLS Mavs podcast, have indeed received trade inquiries for star guard Kyrie Irving, league sources say. However ...Sources tell The Stein Line that the Mavericks, thus far this offseason, have been messaging to teams that Irving is not available. Detroit and Minnesota are known to have Irving interest, but The Stein Line has learned that Houston \u2014 oft-mentioned as a potential suitor \u2014 has yet to make any overtures to the Mavericks regarding the 34-year-old's availability.marcstein.substack.com",
+        "text_html": "The Mavericks, as we've been forecasting for some time in various appearances on the DLLS Mavs podcast, have indeed received trade inquiries for star guard Kyrie Irving, league sources say. However ... <a href=\"https://marcstein.substack.com/\" target=\"_blank\" style=\"color: #1a73e8;\">Sources tell The Stein Line that the Mavericks, thus far this offseason, have been messaging to teams that Irving is not available. Detroit and Minnesota are known to have Irving interest, but The Stein Line has learned that Houston \u2014 oft-mentioned as a potential suitor \u2014 has yet to make any overtures to the Mavericks regarding the 34-year-old's availability</a>.",
+        "outlet": "marcstein.substack.com",
+        "source_url": "https://marcstein.substack.com/"
+      },
+      {
+        "date": "2026-06-03",
+        "text": "Interviewer: \u201cSo, when you say \u2018talking trash behind the scenes,\u2019 like politically maneuvering? Going to maybe Patrick and saying, \u2018Hey, I\u2019m the guy doing this, not Mark\u2019?\u201d Mark Cuban: \u201cAbsolutely.\u201d Interviewer:\u201cWhat is he doing to you? What is he saying? How do you find out about\u2014\u201d Mark Cuban: \u201cLike, \u2018Oh, I did the Kyrie deal. He didn\u2019t do the Kyrie deal.\u2019 \u201cRight. Yeah, he might have talked to the general manager, but I\u2019m the one that made the decision. I talked to the agent. I talked to the other players. I was there to meet him, right?\"YouTube",
+        "text_html": "Interviewer: \u201cSo, when you say \u2018talking trash behind the scenes,\u2019 like politically maneuvering? Going to maybe Patrick and saying, \u2018Hey, I\u2019m the guy doing this, not Mark\u2019?\u201d Mark Cuban: \u201cAbsolutely.\u201d Interviewer: <a href=\"https://www.youtube.com/watch?v=eNn7iTZWPbc&t=4s\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cWhat is he doing to you? What is he saying? How do you find out about\u2014\u201d Mark Cuban: \u201cLike, \u2018Oh, I did the Kyrie deal. He didn\u2019t do the Kyrie deal.\u2019 \u201cRight. Yeah, he might have talked to the general manager, but I\u2019m the one that made the decision. I talked to the agent. I talked to the other players. I was there to meet him, right?\"</a>",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=eNn7iTZWPbc&t=4s"
+      },
+      {
+        "date": "2026-06-03",
+        "text": "In his latest Bleacher Report livestream, NBA insider Jake Fischer argued that he does not fully expect the star point guard to remain in Dallas into the next 2026-27 season.\u201cI don\u2019t necessarily believe that Kyrie Irving will be on the Mavericks roster come opening night,\" Fischer said. \"There will be contending teams that would make trade calls to Dallas.\u201dBasketNews",
+        "text_html": "In his latest Bleacher Report livestream, NBA insider Jake Fischer argued that he does not fully expect the star point guard to remain in Dallas into the next 2026-27 season. <a href=\"https://basketnews.com/news-248839-kyrie-irving-not-expected-to-remain-with-mavericks-per-nba-insider.html\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cI don\u2019t necessarily believe that Kyrie Irving will be on the Mavericks roster come opening night,\" Fischer said. \"There will be contending teams that would make trade calls to Dallas.\u201d</a>",
+        "outlet": "BasketNews",
+        "source_url": "https://basketnews.com/news-248839-kyrie-irving-not-expected-to-remain-with-mavericks-per-nba-insider.html"
+      },
+      {
+        "date": "2026-05-23",
+        "text": "\u201cDurant once told me that there\u2019s only one Kyrie Irving walking around in the world,\u201d Ujiri said most recently. \u201cYeah, I think we have to figure out a way how Kyrie fits with our program. I\u2019ve had those conversations with Kyrie. I think Kyrie will fit. There\u2019s a huge curiosity in our minds to see how Kyrie fits playing with Cooper Flagg. He\u2019s just that kind of like an incredible talent and player. I think we owe this organization that.\u201dYet, Ujiri\u2019s adjoining stance that Flagg and Irving can form an effective duo has left rival executives around the league wondering how long Irving, a nine-time All-Star who\u2019s coming off a torn left ACL and just turned 34, can co-exist with Flaggwhen the two players are on different career timelines?HoopsHype",
+        "text_html": "\u201cDurant once told me that there\u2019s only one Kyrie Irving walking around in the world,\u201d Ujiri said most recently. \u201cYeah, I think we have to figure out a way how Kyrie fits with our program. I\u2019ve had those conversations with Kyrie. I think Kyrie will fit. There\u2019s a huge curiosity in our minds to see how Kyrie fits playing with Cooper Flagg. He\u2019s just that kind of like an incredible talent and player. I think we owe this organization that.\u201d <a href=\"https://hoopshype.com/story/sports/nba/2026/05/23/nba-intel-kyrie-irving-kawhi-leonard-nba-draft-lakers-76ers-hawks-bulls-blazers-pelicans-kings-jazz/90230954007/\" target=\"_blank\" style=\"color: #1a73e8;\">Yet, Ujiri\u2019s adjoining stance that Flagg and Irving can form an effective duo has left rival executives around the league wondering how long Irving, a nine-time All-Star who\u2019s coming off a torn left ACL and just turned 34, can co-exist with Flagg</a> when the two players are on different career timelines?",
+        "outlet": "HoopsHype",
+        "source_url": "https://hoopshype.com/story/sports/nba/2026/05/23/nba-intel-kyrie-irving-kawhi-leonard-nba-draft-lakers-76ers-hawks-bulls-blazers-pelicans-kings-jazz/90230954007/"
+      },
+      {
+        "date": "2026-05-20",
+        "text": "Pat McAffee:\"The only Mark Cuban guy left on the Mavericks is Kyrie Irving.. There's multiple contenders around the NBA that are very much monitoring what happens with Kyrie Irving in Dallas\" ~ @ShamsCharaniax.com",
+        "text_html": "Pat McAffee: <a href=\"https://x.com/PatMcAfeeShow/status/2057143372087714051?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">\"The only Mark Cuban guy left on the Mavericks is Kyrie Irving.</a>. There's multiple contenders around the NBA that are very much monitoring what happens with Kyrie Irving in Dallas\" ~ @ShamsCharania",
+        "outlet": "x.com",
+        "source_url": "https://x.com/PatMcAfeeShow/status/2057143372087714051?s=20"
+      },
+      {
+        "date": "2026-05-20",
+        "text": "Yet there is an anticipation leaguewide thatthe Mavericks are likely to receive trade interest in Irving this offseason whether they want it or not ... even after the 34-year-old's full season of inactivity.marcstein.substack.com",
+        "text_html": "Yet there is an anticipation leaguewide that <a href=\"https://marcstein.substack.com/p/an-inside-look-at-the-latest-major\" target=\"_blank\" style=\"color: #1a73e8;\">the Mavericks are likely to receive trade interest in Irving this offseason whether they want it or not ... even after the 34-year-old's full season of inactivity</a>.",
+        "outlet": "marcstein.substack.com",
+        "source_url": "https://marcstein.substack.com/p/an-inside-look-at-the-latest-major"
+      }
+    ],
+    "Trey Murphy": [
+      {
+        "date": "2026-06-12",
+        "text": "External trade interest in New Orleans' Trey Murphy III remains intense, league sources say. Yet I was told this week that the inquiries have all been of an inbound nature. League sources say that the Pelicans have not offered Murphy anywhere and that this is the first time their new front office regime headed by Joe Dumars has been truly willing to field offers for Murphy. As one team interested in Murphy put it to me this week: \"They want a lot.\"Two teams known to have expressed interest in the 25-year-old sharpshooter, I'm told, are Detroit and Indiana.marcstein.substack.com",
+        "text_html": "External trade interest in New Orleans' Trey Murphy III remains intense, league sources say. Yet I was told this week that the inquiries have all been of an inbound nature. League sources say that the Pelicans have not offered Murphy anywhere and that this is the first time their new front office regime headed by Joe Dumars has been truly willing to field offers for Murphy. As one team interested in Murphy put it to me this week: \"They want a lot.\" <a href=\"https://marcstein.substack.com/\" target=\"_blank\" style=\"color: #1a73e8;\">Two teams known to have expressed interest in the 25-year-old sharpshooter, I'm told, are Detroit and Indiana</a>.",
+        "outlet": "marcstein.substack.com",
+        "source_url": "https://marcstein.substack.com/"
+      },
+      {
+        "date": "2026-06-10",
+        "text": "Jake Fischer revealed the latest revelation around the highly sought Pelicans wing on his Tuesday Bleacher Report livestream.\"Trey Murphy\u2019s still going to be a name that we\u2019re going to talk about and write about on the Stein Line, because other teams absolutely want him. The New Orleans Pelicans, though, of course, shut down pretty much all interest in him in February, and they didn\u2019t really want a picks-laden package,\" Fischer bared. \"I think if the Pelicans were to move Trey Murphy III, it would be for more of a buy-now, get-better type of acquisition.\"BasketNews",
+        "text_html": "Jake Fischer revealed the latest revelation around the highly sought Pelicans wing on his Tuesday Bleacher Report livestream. <a href=\"https://basketnews.com/news-249372-pelicans-latest-trade-demand-on-trey-murphy-iii-revealed.html\" target=\"_blank\" style=\"color: #1a73e8;\">\"Trey Murphy\u2019s still going to be a name that we\u2019re going to talk about and write about on the Stein Line, because other teams absolutely want him. The New Orleans Pelicans, though, of course, shut down pretty much all interest in him in February, and they didn\u2019t really want a picks-laden package,\" Fischer bared</a>. \"I think if the Pelicans were to move Trey Murphy III, it would be for more of a buy-now, get-better type of acquisition.\"",
+        "outlet": "BasketNews",
+        "source_url": "https://basketnews.com/news-249372-pelicans-latest-trade-demand-on-trey-murphy-iii-revealed.html"
+      },
+      {
+        "date": "2026-06-01",
+        "text": "Will Guillory:Just want to make sure I'm on record saying any talk of trading Trey Murphy is absolute insanityx.com",
+        "text_html": "Will Guillory: <a href=\"https://x.com/WillGuillory/status/2061471829336715724\" target=\"_blank\" style=\"color: #1a73e8;\">Just want to make sure I'm on record saying any talk of trading Trey Murphy is absolute insanity</a>",
+        "outlet": "x.com",
+        "source_url": "https://x.com/WillGuillory/status/2061471829336715724"
+      },
+      {
+        "date": "2026-05-31",
+        "text": "Garland Gillen: BillSimmons on the Pelicans trading Trey Murphy: \u201cWe assume he\u2019s probably going to get traded over the next three weeks. I think Boston is a possibility.We thought whoever lost this matchup (Spurs and Thunder) is a possibility. You have two to three weeks to trade for someone like that.\u201dx.com",
+        "text_html": "Garland Gillen: Bill <a href=\"https://x.com/garlandgillen/status/2061097988257120448\" target=\"_blank\" style=\"color: #1a73e8;\">Simmons on the Pelicans trading Trey Murphy: \u201cWe assume he\u2019s probably going to get traded over the next three weeks. I think Boston is a possibility.</a> We thought whoever lost this matchup (Spurs and Thunder) is a possibility. You have two to three weeks to trade for someone like that.\u201d",
+        "outlet": "x.com",
+        "source_url": "https://x.com/garlandgillen/status/2061097988257120448"
+      }
+    ],
+    "LeBron James": [
+      {
+        "date": "2026-06-12",
+        "text": "NBA on ESPN: Despite rumors circulating, Rich Paul tells @PatMcAfeeshow that he hasn't had a conversation with LeBron James about next season, but has received calls from \"about 10-12 teams\" interested ?\"Believe nothing that's out there because I haven't had one conversation with him.\"x.com",
+        "text_html": "NBA on ESPN: Despite rumors circulating, Rich Paul tells @PatMcAfeeshow that he hasn't had a conversation with LeBron James about next season, but has received calls from \"about 10-12 teams\" interested ? <a href=\"https://x.com/ESPNNBA/status/2065485731347255564?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">\"Believe nothing that's out there because I haven't had one conversation with him.\"</a>",
+        "outlet": "x.com",
+        "source_url": "https://x.com/ESPNNBA/status/2065485731347255564?s=20"
+      },
+      {
+        "date": "2026-06-05",
+        "text": "Oh No He Didn't:\"I'm gonna throw this out there: LeBron James comes back on a two-year deal at $25 million per season with a player option and a no-trade clause.\u201d- @BA_Turnerx.com",
+        "text_html": "Oh No He Didn't: <a href=\"https://x.com/ohnohedidnt24/status/2062727804219773100\" target=\"_blank\" style=\"color: #1a73e8;\">\"I'm gonna throw this out there: LeBron James comes back on a two-year deal at $25 million per season with a player option and a no-trade clause.\u201d</a> - @BA_Turner",
+        "outlet": "x.com",
+        "source_url": "https://x.com/ohnohedidnt24/status/2062727804219773100"
+      },
+      {
+        "date": "2026-05-24",
+        "text": "Making it to the conference finals was a breakthrough for this organization and worth celebrating, but the players\u2019 energy and effort since they got here leave plenty to be desired.An important offseason awaits, with\u00a0contract\u00a0decisions to make on Mitchell and Harden and the inevitable debate on whether to pursue Giannis Antetokounmpo. LeBron James looms over all of this, too.New York Times",
+        "text_html": "Making it to the conference finals was a breakthrough for this organization and worth celebrating, but the players\u2019 energy and effort since they got here leave plenty to be desired. <a href=\"https://www.nytimes.com/athletic/7304037/2026/05/24/cavaliers-knicks-nba-playoffs-game-3-donovan-mitchell/\" target=\"_blank\" style=\"color: #1a73e8;\">An important offseason awaits, with contract decisions to make on Mitchell and Harden and the inevitable debate on whether to pursue Giannis Antetokounmpo. LeBron James looms over all of this, too</a>.",
+        "outlet": "New York Times",
+        "source_url": "https://www.nytimes.com/athletic/7304037/2026/05/24/cavaliers-knicks-nba-playoffs-game-3-donovan-mitchell/"
+      },
+      {
+        "date": "2026-05-24",
+        "text": "So, effectively, Heat management is putting all their eggs in the Giannis Antetokounmpo basket up until draft night, when Bucks management has thankfully set a deadline for Giannis deal or no deal? Then if it\u2019s no Giannis for whatever reason, the Heat have lots of time to go after others by trade or free agency. \u2013 Morgan, New Orleans. Ira Winderman: Exactly. Or to go with a Plan C, and wait for the 2027 offseason, when ample cap space can be created. And that makes sense, since the last thing the Heat can afford is to move a potential Giannis Antetokounmpo trade asset elsewhere and then find out they would not have enough to close a Giannis deal.All of that said, it also would not be the first time a team has set a somewhat artificial deadline and then walked back that timetable. Basically, it will be up to the Heat to either blow away the Bucks with an offer, or to turn to alternative plans, as you mention. The problem would be the Heat then losing the option of utilizing the No. 13 pick next month to select for the Bucks.What the Heat can\u2019t afford is to draft a player they believe the Bucks eventually would want, only to see the Bucks move on to an alternative trade package elsewhere down the road. In other words, no repeat of selecting Shabazz Napier in the 2014 first round to appease LeBron James, only to have LeBron walk in free agency weeks later.South Florida Sun-Sentinel",
+        "text_html": "So, effectively, Heat management is putting all their eggs in the Giannis Antetokounmpo basket up until draft night, when Bucks management has thankfully set a deadline for Giannis deal or no deal? Then if it\u2019s no Giannis for whatever reason, the Heat have lots of time to go after others by trade or free agency. \u2013 Morgan, New Orleans. Ira Winderman: Exactly. Or to go with a Plan C, and wait for the 2027 offseason, when ample cap space can be created. And that makes sense, since the last thing the Heat can afford is to move a potential Giannis Antetokounmpo trade asset elsewhere and then find out they would not have enough to close a Giannis deal. <a href=\"https://www.sun-sentinel.com/2026/05/24/ask-ira-are-the-heat-now-solely-on-giannis-timetable/\" target=\"_blank\" style=\"color: #1a73e8;\">All of that said, it also would not be the first time a team has set a somewhat artificial deadline and then walked back that timetable. Basically, it will be up to the Heat to either blow away the Bucks with an offer, or to turn to alternative plans, as you mention. The problem would be the Heat then losing the option of utilizing the No. 13 pick next month to select for the Bucks.</a> What the Heat can\u2019t afford is to draft a player they believe the Bucks eventually would want, only to see the Bucks move on to an alternative trade package elsewhere down the road. In other words, no repeat of selecting Shabazz Napier in the 2014 first round to appease LeBron James, only to have LeBron walk in free agency weeks later.",
+        "outlet": "South Florida Sun-Sentinel",
+        "source_url": "https://www.sun-sentinel.com/2026/05/24/ask-ira-are-the-heat-now-solely-on-giannis-timetable/"
       }
     ],
     "Tyler Herro": [
@@ -1965,13 +2125,6 @@
         "text_html": "<a href=\"https://www.freep.com/story/sports/nba/pistons/2026/05/18/pistons-nba-free-agency-jalen-duren-contract/89864573007/\" target=\"_blank\" style=\"color: #1a73e8;\">They likely will be connected to big names around the league, such as Utah Jazz forward Lauri Markkanen \u2212 though Utah just traded for Jaren Jackson Jr. to pair with Markkanen \u2212 and Los Angeles Clippers superstar Kawhi Leonard, who will be entering the final year of his deal and will make $50.3 million in 2026-27 at age 35.</a> The Pistons have all of their first-round picks, including the 21st overall pick in the 2026 NBA Draft and a trove of second-round picks down the road to include in deals.",
         "outlet": "Detroit Free Press",
         "source_url": "https://www.freep.com/story/sports/nba/pistons/2026/05/18/pistons-nba-free-agency-jalen-duren-contract/89864573007/"
-      },
-      {
-        "date": "2026-05-15",
-        "text": "Sam Amick: For the Clippers, I'm very curious to see how it changes things for them.I don't know specifics, but like a lot of people were talking about Kawhi Leonard quite a bit out here. And so when you get the number five pick, does that compel you to rebuild quicker and get off a guy like Kawhi?Any chance you would trade that pick to go get a guy like Giannis and add to Kawhi? I don't know what their game plan is, but when you have the stuff like the fifth pick and you didn't plan on being in the top 10, that's a big deal.YouTube",
-        "text_html": "Sam Amick: For the Clippers, I'm very curious to see how it changes things for them. <a href=\"https://www.youtube.com/watch?v=Bu_o9fTpASQ&t=652s\" target=\"_blank\" style=\"color: #1a73e8;\">I don't know specifics, but like a lot of people were talking about Kawhi Leonard quite a bit out here. And so when you get the number five pick, does that compel you to rebuild quicker and get off a guy like Kawhi?</a> Any chance you would trade that pick to go get a guy like Giannis and add to Kawhi? I don't know what their game plan is, but when you have the stuff like the fifth pick and you didn't plan on being in the top 10, that's a big deal.",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=Bu_o9fTpASQ&t=652s"
       }
     ],
     "Bam Adebayo": [
@@ -2002,85 +2155,6 @@
         "text_html": "<a href=\"https://www.miamiherald.com/sports/nba/miami-heat/article315967055.html?taid=6a206e581738220001a202d2&utm_campaign=trueanthem&utm_medium=social&utm_source=twitter\" target=\"_blank\" style=\"color: #1a73e8;\">The Heat is willing to negotiate, and Miami already has an understanding of which players the Bucks covet from their extensive negotiations before the Feb. 5 trade deadline. It\u2019s doubtful the Heat would draw the line on a particular role player.</a> The Bucks appear to be waiting until the conclusion of the playoffs to see if any of the NBA finalists wish to bid, or if any other suitors emerge. A trade is not expected until closer to the draft. The Heat isn\u2019t concerned with any offensive clunkiness of an Antetokounmpo/Adebayo pairing.",
         "outlet": "Miami Herald",
         "source_url": "https://www.miamiherald.com/sports/nba/miami-heat/article315967055.html?taid=6a206e581738220001a202d2&utm_campaign=trueanthem&utm_medium=social&utm_source=twitter"
-      }
-    ],
-    "Jaylen Brown": [
-      {
-        "date": "2026-06-11",
-        "text": "Heat Central:\u201cI don\u2019t think the Bucks want Jaylen Brown\u2026. I think a Giannis deal is probably a lot simpler to Miami. The conversations I\u2019ve had is it seems like it would probably just be Milwaukee and Miami. It seems a more simple deal. Boston I think it would be a bit more complex\u201d\u2014 @KevinOConnor on Giannis being linked to Miami and Bostonx.com",
-        "text_html": "Heat Central: <a href=\"https://x.com/HeatCulture13/status/2065204318341620015?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cI don\u2019t think the Bucks want Jaylen Brown\u2026. I think a Giannis deal is probably a lot simpler to Miami. The conversations I\u2019ve had is it seems like it would probably just be Milwaukee and Miami. It seems a more simple deal. Boston I think it would be a bit more complex\u201d</a> \u2014 @KevinOConnor on Giannis being linked to Miami and Boston",
-        "outlet": "x.com",
-        "source_url": "https://x.com/HeatCulture13/status/2065204318341620015?s=20"
-      },
-      {
-        "date": "2026-06-11",
-        "text": "Fullcourtpass:The Boston Celtics \u201cwithout a doubt\u201d would trade Jaylen Brown to acquire Giannis Antetokounmpo,per @KevinOConnor \u201cThe Celtics are making lots of calls and shopping all players except for Jayson Tatum\u201dx.com",
-        "text_html": "Fullcourtpass: <a href=\"https://x.com/Fullcourtpass/status/2065185024366845984?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">The Boston Celtics \u201cwithout a doubt\u201d would trade Jaylen Brown to acquire Giannis Antetokounmpo,</a> per @KevinOConnor \u201cThe Celtics are making lots of calls and shopping all players except for Jayson Tatum\u201d",
-        "outlet": "x.com",
-        "source_url": "https://x.com/Fullcourtpass/status/2065185024366845984?s=20"
-      },
-      {
-        "date": "2026-06-11",
-        "text": "Savage: WowThe Boston Celtics are in on Giannis Antetokounmpo. They are making lots of calls and shopping all players except for Jayson Tatum. Per: @KevinOConnorx.com",
-        "text_html": "Savage: Wow <a href=\"https://x.com/Savageboston/status/2065166154000216528?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">The Boston Celtics are in on Giannis Antetokounmpo</a>. They are making lots of calls and shopping all players except for Jayson Tatum. Per: @KevinOConnor",
-        "outlet": "x.com",
-        "source_url": "https://x.com/Savageboston/status/2065166154000216528?s=20"
-      },
-      {
-        "date": "2026-06-10",
-        "text": "Arguably, the largest pushback on this possibility came from ESPN's Brian Windhorst, who spoke recently on ESPN's Get Up. Not only did Windhorst argue that the Celtics aren't ready to trade Brown, but he also said he thinks Giannis wants to join the Miami Heat.\u201cThe team to watch here is Miami. Miami would say \u2018we've got Tyler Herro, who is a young player and been an All-Star,\" Windhorst said. \"We got draft picks, including the 13th pick in this draft\u2026 And Giannis I think wants to be in Miami. There are more check marks on Miami. I\u2019m not sure Boston is ready to trade Jaylen Brown.\"USA Today",
-        "text_html": "Arguably, the largest pushback on this possibility came from ESPN's Brian Windhorst, who spoke recently on ESPN's Get Up. Not only did Windhorst argue that the Celtics aren't ready to trade Brown, but he also said he thinks Giannis wants to join the Miami Heat. <a href=\"https://ftw-eu.usatoday.com/story/sports/nba/2026/06/09/jaylen-brown-trade-rumors-giannis-antetokounmpo-celtics-bucks/90472363007/\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cThe team to watch here is Miami. Miami would say \u2018we've got Tyler Herro, who is a young player and been an All-Star,\" Windhorst said. \"We got draft picks, including the 13th pick in this draft\u2026 And Giannis I think wants to be in Miami. There are more check marks on Miami. I\u2019m not sure Boston is ready to trade Jaylen Brown.\"</a>",
-        "outlet": "USA Today",
-        "source_url": "https://ftw-eu.usatoday.com/story/sports/nba/2026/06/09/jaylen-brown-trade-rumors-giannis-antetokounmpo-celtics-bucks/90472363007/"
-      },
-      {
-        "date": "2026-06-10",
-        "text": "Sam Amick of The Athletic spoke to CLNS Media's Bobby Manning and made it clear that the Celtics are still firm on their partnership with the superstar wing.\"There's no sign that they're putting Jaylen out there at all.In fact, they've gone to great lengths after he made those comments after the season to make sure that they were good with him,\" Amick claimed. \"All the messaging from the organization and from Jaylen's camp was that there's nothing to see here, just media talk.\"BasketNews",
-        "text_html": "Sam Amick of The Athletic spoke to CLNS Media's Bobby Manning and made it clear that the Celtics are still firm on their partnership with the superstar wing. <a href=\"https://basketnews.com/news-249368-celtics-trade-stance-on-jaylen-brown-finally-revealed-by-nba-insider.html\" target=\"_blank\" style=\"color: #1a73e8;\">\"There's no sign that they're putting Jaylen out there at all.</a> In fact, they've gone to great lengths after he made those comments after the season to make sure that they were good with him,\" Amick claimed. \"All the messaging from the organization and from Jaylen's camp was that there's nothing to see here, just media talk.\"",
-        "outlet": "BasketNews",
-        "source_url": "https://basketnews.com/news-249368-celtics-trade-stance-on-jaylen-brown-finally-revealed-by-nba-insider.html"
-      },
-      {
-        "date": "2026-06-08",
-        "text": "Brian Windhorst: \"I'm going to tell you I have not actually heard any material, true discussions. I'm certain maybe someone has called on Jaylen Brown maybe, butI have not heard one iota of Jaylen Brown truly being available or Derrick White being available.It is a proven commodity that Jaylen and Jayson and Derrick White are a championship trio. They're under contract, and it's big contracts, absolutely. It's a lot of money and their flexibility is impacted by that, but Brad Stevens has shown very good player personnel. He's repeatedly made very good player personnel moves, and I'm sure there's a list of things that they're looking at. When they emerge from this summer, they need to have more guys in their rotation that they can trust, especially the big man positions.\"YouTube",
-        "text_html": "Brian Windhorst: \"I'm going to tell you I have not actually heard any material, true discussions. I'm certain maybe someone has called on Jaylen Brown maybe, but <a href=\"https://www.youtube.com/watch?v=IiwvM_RZ7mU&t=6s\" target=\"_blank\" style=\"color: #1a73e8;\">I have not heard one iota of Jaylen Brown truly being available or Derrick White being available.</a> It is a proven commodity that Jaylen and Jayson and Derrick White are a championship trio. They're under contract, and it's big contracts, absolutely. It's a lot of money and their flexibility is impacted by that, but Brad Stevens has shown very good player personnel. He's repeatedly made very good player personnel moves, and I'm sure there's a list of things that they're looking at. When they emerge from this summer, they need to have more guys in their rotation that they can trust, especially the big man positions.\"",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=IiwvM_RZ7mU&t=6s"
-      },
-      {
-        "date": "2026-06-03",
-        "text": "Shamit Dua:To my understanding there has been no discussion between Boston and New Orleans on Jaylen Brown as of this moment.I do believe the Pelicans will be aggressive in reshaping their roster this summer and it's possible that Brown is name they check in on. But I don't believe the Pelicans have plans to mortgage their future in terms of significant draft capital in any moves.x.com",
-        "text_html": "Shamit Dua: <a href=\"https://x.com/FearTheBrown/status/2062211839086284851?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">To my understanding there has been no discussion between Boston and New Orleans on Jaylen Brown as of this moment.</a> I do believe the Pelicans will be aggressive in reshaping their roster this summer and it's possible that Brown is name they check in on. But I don't believe the Pelicans have plans to mortgage their future in terms of significant draft capital in any moves.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/FearTheBrown/status/2062211839086284851?s=20"
-      },
-      {
-        "date": "2026-06-03",
-        "text": "For starters, the rumors surrounding Jaylen Brown\u2019s alleged discontent have quieted down for the past few weeks. The 29-year-old sparked all sorts of speculation about his future in early May, when he declared this his \u201cmost fun season\u201d yet on a livestream just one day after Boston was bounced by the Philadelphia 76ers in the first round. Beyond the strangeness of that comment coming after such a bad postseason finish, it was the fact that he spent the vast majority of this season without longtime co-star, Jayson Tatum (who was recovering from his Achilles tendon tear) that made the optics even worse. Butthe Celtics took measures, both publicly and privately, to insist that this storyline was overblown. As such, any exploration of the Antetokounmpo possibility \u2014 if there is one this time around \u2014 would likely be discreet. Still, the Bucks would be well served to flesh out the Celtics possibilities.New York Times",
-        "text_html": "For starters, the rumors surrounding Jaylen Brown\u2019s alleged discontent have quieted down for the past few weeks. The 29-year-old sparked all sorts of speculation about his future in early May, when he declared this his \u201cmost fun season\u201d yet on a livestream just one day after Boston was bounced by the Philadelphia 76ers in the first round. Beyond the strangeness of that comment coming after such a bad postseason finish, it was the fact that he spent the vast majority of this season without longtime co-star, Jayson Tatum (who was recovering from his Achilles tendon tear) that made the optics even worse. But <a href=\"https://www.nytimes.com/athletic/7328530/2026/06/03/giannis-antetokounmpo-bucks-trade-market-destination/\" target=\"_blank\" style=\"color: #1a73e8;\">the Celtics took measures, both publicly and privately, to insist that this storyline was overblown. As such, any exploration of the Antetokounmpo possibility \u2014 if there is one this time around \u2014 would likely be discreet. Still, the Bucks would be well served to flesh out the Celtics possibilities</a>.",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/7328530/2026/06/03/giannis-antetokounmpo-bucks-trade-market-destination/"
-      },
-      {
-        "date": "2026-06-03",
-        "text": "The Atlanta Hawks may have emerged as one of the most intriguing potential destinations for Boston Celtics star Jaylen Brown should the Celtics ever decide to explore trade possibilities this offseason. While NBA insider Jake Fischer stressed Tuesday that Boston has not shown any indication it is actively shopping Brown,the longtime league reporter identified Atlanta as one of several teams keeping a close eye on the situation. \u201cAtlanta is Jaylen Brown\u2019s hometown,\u201d Fischer said on Bleacher Report\u2019s NBA Insider Notebook livestream. \u201cI think that\u2019s a spot that he would potentially have interest in going to.\u201dHeavy.com",
-        "text_html": "The Atlanta Hawks may have emerged as one of the most intriguing potential destinations for Boston Celtics star Jaylen Brown should the Celtics ever decide to explore trade possibilities this offseason. While NBA insider Jake Fischer stressed Tuesday that Boston has not shown any indication it is actively shopping Brown, <a href=\"https://heavy.com/sports/nba/atlanta-hawks/hawks-hometown-all-star-trade-rumors/\" target=\"_blank\" style=\"color: #1a73e8;\">the longtime league reporter identified Atlanta as one of several teams keeping a close eye on the situation. \u201cAtlanta is Jaylen Brown\u2019s hometown,\u201d Fischer said on Bleacher Report\u2019s NBA Insider Notebook livestream. \u201cI think that\u2019s a spot that he would potentially have interest in going to.\u201d</a>",
-        "outlet": "Heavy.com",
-        "source_url": "https://heavy.com/sports/nba/atlanta-hawks/hawks-hometown-all-star-trade-rumors/"
-      },
-      {
-        "date": "2026-05-25",
-        "text": "There is a belief in some corners of the league that Atlanta, Houston and Portland all have legitimate trade\u00a0interest\u00a0in Jaylen Brown. Which is something to file away if you're looking for participants that might be\u00a0interested\u00a0in joining an eventual multi-team Antetokounmpo trade construction.marcstein.substack.com",
-        "text_html": "<a href=\"https://marcstein.substack.com/p/monday-best-the-latest-around-the-5e7\" target=\"_blank\" style=\"color: #1a73e8;\">There is a belief in some corners of the league that Atlanta, Houston and Portland all have legitimate trade interest in Jaylen Brown</a>. Which is something to file away if you're looking for participants that might be interested in joining an eventual multi-team Antetokounmpo trade construction.",
-        "outlet": "marcstein.substack.com",
-        "source_url": "https://marcstein.substack.com/p/monday-best-the-latest-around-the-5e7"
-      },
-      {
-        "date": "2026-05-18",
-        "text": "Brad Stevens is no stranger to extensions but giving out that type of money to a 33-year-old is far from a no brainer. Adding that type of long-term commitment is more likely to hurt than help Brown\u2019s trade value in the present even after his standout regular season in 2025-26.Quite simply, there\u2019s no sense of urgency here from a Celtics standpoint to do an extension now beyond just appeasing Brown.That\u2019s not going to be the impetus for Stevens\u2019 next big deal. He\u2019s got bigger decisions to make for the present and making a decision on Brown\u2019s long-term future doesn\u2019t help him on that front. For that reason, don\u2019t expect an extension to be among Stevens\u2019 priorities this summer.Booth Newspapers",
-        "text_html": "Brad Stevens is no stranger to extensions but giving out that type of money to a 33-year-old is far from a no brainer. Adding that type of long-term commitment is more likely to hurt than help Brown\u2019s trade value in the present even after his standout regular season in 2025-26. <a href=\"https://www.masslive.com/celtics/2026/05/the-intriguing-contract-decision-facing-the-celtics-this-summer-could-reshape-jaylen-browns-future.html\" target=\"_blank\" style=\"color: #1a73e8;\">Quite simply, there\u2019s no sense of urgency here from a Celtics standpoint to do an extension now beyond just appeasing Brown.</a> That\u2019s not going to be the impetus for Stevens\u2019 next big deal. He\u2019s got bigger decisions to make for the present and making a decision on Brown\u2019s long-term future doesn\u2019t help him on that front. For that reason, don\u2019t expect an extension to be among Stevens\u2019 priorities this summer.",
-        "outlet": "Booth Newspapers",
-        "source_url": "https://www.masslive.com/celtics/2026/05/the-intriguing-contract-decision-facing-the-celtics-this-summer-could-reshape-jaylen-browns-future.html"
       }
     ],
     "Jayson Tatum": [
@@ -2255,29 +2329,6 @@
         "text_html": "Brian Windhorst: <a href=\"https://www.youtube.com/watch?v=MLkOJWMZp3I&t=174s\" target=\"_blank\" style=\"color: #1a73e8;\">There'd be quite a few teams that would be interested in Kel'el Ware</a> if he got shipped to Milwaukee and they were willing to flip him. Tim MacMahon: He's a rim-running floor stretching big. Windhorst: If I were the Lakers and Kel'el Ware got shipped to Milwaukee, I would be on the phone because Kel'el Ware package of talent is not that different from Dereck Lively.",
         "outlet": "YouTube",
         "source_url": "https://www.youtube.com/watch?v=MLkOJWMZp3I&t=174s"
-      }
-    ],
-    "Trey Murphy": [
-      {
-        "date": "2026-06-10",
-        "text": "Jake Fischer revealed the latest revelation around the highly sought Pelicans wing on his Tuesday Bleacher Report livestream.\"Trey Murphy\u2019s still going to be a name that we\u2019re going to talk about and write about on the Stein Line, because other teams absolutely want him. The New Orleans Pelicans, though, of course, shut down pretty much all interest in him in February, and they didn\u2019t really want a picks-laden package,\" Fischer bared. \"I think if the Pelicans were to move Trey Murphy III, it would be for more of a buy-now, get-better type of acquisition.\"BasketNews",
-        "text_html": "Jake Fischer revealed the latest revelation around the highly sought Pelicans wing on his Tuesday Bleacher Report livestream. <a href=\"https://basketnews.com/news-249372-pelicans-latest-trade-demand-on-trey-murphy-iii-revealed.html\" target=\"_blank\" style=\"color: #1a73e8;\">\"Trey Murphy\u2019s still going to be a name that we\u2019re going to talk about and write about on the Stein Line, because other teams absolutely want him. The New Orleans Pelicans, though, of course, shut down pretty much all interest in him in February, and they didn\u2019t really want a picks-laden package,\" Fischer bared</a>. \"I think if the Pelicans were to move Trey Murphy III, it would be for more of a buy-now, get-better type of acquisition.\"",
-        "outlet": "BasketNews",
-        "source_url": "https://basketnews.com/news-249372-pelicans-latest-trade-demand-on-trey-murphy-iii-revealed.html"
-      },
-      {
-        "date": "2026-06-01",
-        "text": "Will Guillory:Just want to make sure I'm on record saying any talk of trading Trey Murphy is absolute insanityx.com",
-        "text_html": "Will Guillory: <a href=\"https://x.com/WillGuillory/status/2061471829336715724\" target=\"_blank\" style=\"color: #1a73e8;\">Just want to make sure I'm on record saying any talk of trading Trey Murphy is absolute insanity</a>",
-        "outlet": "x.com",
-        "source_url": "https://x.com/WillGuillory/status/2061471829336715724"
-      },
-      {
-        "date": "2026-05-31",
-        "text": "Garland Gillen: BillSimmons on the Pelicans trading Trey Murphy: \u201cWe assume he\u2019s probably going to get traded over the next three weeks. I think Boston is a possibility.We thought whoever lost this matchup (Spurs and Thunder) is a possibility. You have two to three weeks to trade for someone like that.\u201dx.com",
-        "text_html": "Garland Gillen: Bill <a href=\"https://x.com/garlandgillen/status/2061097988257120448\" target=\"_blank\" style=\"color: #1a73e8;\">Simmons on the Pelicans trading Trey Murphy: \u201cWe assume he\u2019s probably going to get traded over the next three weeks. I think Boston is a possibility.</a> We thought whoever lost this matchup (Spurs and Thunder) is a possibility. You have two to three weeks to trade for someone like that.\u201d",
-        "outlet": "x.com",
-        "source_url": "https://x.com/garlandgillen/status/2061097988257120448"
       }
     ],
     "Aaron Gordon": [
@@ -2645,43 +2696,6 @@
         "text_html": "As one Western Conference executive said of the Lakers, the plan is to build around Luka Doncic as the start with Austin Reaves (also a potential free agent this summer) as the franchise focal points. They could bring back Giannis Antetokounmpo, but other than an exception for him, the Lakers want to get younger and better suited to a Doncic-Reaves core. <a href=\"https://heavy.com/sports/nba/los-angeles-lakers/giannis-antetokounmpo-trade-luka-doncic-problem/\" target=\"_blank\" style=\"color: #1a73e8;\">The exec said: \u201cLuka Doncic is 27, he just turned 27. Austin Reaves is 27. That\u2019s what they\u2019re looking for, guy in their early prime who can grow alongside those two. You get the sense they\u2019re tired of constantly cycling the roster and they\u2019re looking for the right role players to emphasize those guys. That\u2019s not Giannis, who is in his early 30s (he turns 32 in December) and just is not on that timeline.\u201d</a>",
         "outlet": "Heavy.com",
         "source_url": "https://heavy.com/sports/nba/los-angeles-lakers/giannis-antetokounmpo-trade-luka-doncic-problem/"
-      }
-    ],
-    "Kyrie Irving": [
-      {
-        "date": "2026-06-03",
-        "text": "Interviewer: \u201cSo, when you say \u2018talking trash behind the scenes,\u2019 like politically maneuvering? Going to maybe Patrick and saying, \u2018Hey, I\u2019m the guy doing this, not Mark\u2019?\u201d Mark Cuban: \u201cAbsolutely.\u201d Interviewer:\u201cWhat is he doing to you? What is he saying? How do you find out about\u2014\u201d Mark Cuban: \u201cLike, \u2018Oh, I did the Kyrie deal. He didn\u2019t do the Kyrie deal.\u2019 \u201cRight. Yeah, he might have talked to the general manager, but I\u2019m the one that made the decision. I talked to the agent. I talked to the other players. I was there to meet him, right?\"YouTube",
-        "text_html": "Interviewer: \u201cSo, when you say \u2018talking trash behind the scenes,\u2019 like politically maneuvering? Going to maybe Patrick and saying, \u2018Hey, I\u2019m the guy doing this, not Mark\u2019?\u201d Mark Cuban: \u201cAbsolutely.\u201d Interviewer: <a href=\"https://www.youtube.com/watch?v=eNn7iTZWPbc&t=4s\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cWhat is he doing to you? What is he saying? How do you find out about\u2014\u201d Mark Cuban: \u201cLike, \u2018Oh, I did the Kyrie deal. He didn\u2019t do the Kyrie deal.\u2019 \u201cRight. Yeah, he might have talked to the general manager, but I\u2019m the one that made the decision. I talked to the agent. I talked to the other players. I was there to meet him, right?\"</a>",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=eNn7iTZWPbc&t=4s"
-      },
-      {
-        "date": "2026-06-03",
-        "text": "In his latest Bleacher Report livestream, NBA insider Jake Fischer argued that he does not fully expect the star point guard to remain in Dallas into the next 2026-27 season.\u201cI don\u2019t necessarily believe that Kyrie Irving will be on the Mavericks roster come opening night,\" Fischer said. \"There will be contending teams that would make trade calls to Dallas.\u201dBasketNews",
-        "text_html": "In his latest Bleacher Report livestream, NBA insider Jake Fischer argued that he does not fully expect the star point guard to remain in Dallas into the next 2026-27 season. <a href=\"https://basketnews.com/news-248839-kyrie-irving-not-expected-to-remain-with-mavericks-per-nba-insider.html\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cI don\u2019t necessarily believe that Kyrie Irving will be on the Mavericks roster come opening night,\" Fischer said. \"There will be contending teams that would make trade calls to Dallas.\u201d</a>",
-        "outlet": "BasketNews",
-        "source_url": "https://basketnews.com/news-248839-kyrie-irving-not-expected-to-remain-with-mavericks-per-nba-insider.html"
-      },
-      {
-        "date": "2026-05-23",
-        "text": "\u201cDurant once told me that there\u2019s only one Kyrie Irving walking around in the world,\u201d Ujiri said most recently. \u201cYeah, I think we have to figure out a way how Kyrie fits with our program. I\u2019ve had those conversations with Kyrie. I think Kyrie will fit. There\u2019s a huge curiosity in our minds to see how Kyrie fits playing with Cooper Flagg. He\u2019s just that kind of like an incredible talent and player. I think we owe this organization that.\u201dYet, Ujiri\u2019s adjoining stance that Flagg and Irving can form an effective duo has left rival executives around the league wondering how long Irving, a nine-time All-Star who\u2019s coming off a torn left ACL and just turned 34, can co-exist with Flaggwhen the two players are on different career timelines?HoopsHype",
-        "text_html": "\u201cDurant once told me that there\u2019s only one Kyrie Irving walking around in the world,\u201d Ujiri said most recently. \u201cYeah, I think we have to figure out a way how Kyrie fits with our program. I\u2019ve had those conversations with Kyrie. I think Kyrie will fit. There\u2019s a huge curiosity in our minds to see how Kyrie fits playing with Cooper Flagg. He\u2019s just that kind of like an incredible talent and player. I think we owe this organization that.\u201d <a href=\"https://hoopshype.com/story/sports/nba/2026/05/23/nba-intel-kyrie-irving-kawhi-leonard-nba-draft-lakers-76ers-hawks-bulls-blazers-pelicans-kings-jazz/90230954007/\" target=\"_blank\" style=\"color: #1a73e8;\">Yet, Ujiri\u2019s adjoining stance that Flagg and Irving can form an effective duo has left rival executives around the league wondering how long Irving, a nine-time All-Star who\u2019s coming off a torn left ACL and just turned 34, can co-exist with Flagg</a> when the two players are on different career timelines?",
-        "outlet": "HoopsHype",
-        "source_url": "https://hoopshype.com/story/sports/nba/2026/05/23/nba-intel-kyrie-irving-kawhi-leonard-nba-draft-lakers-76ers-hawks-bulls-blazers-pelicans-kings-jazz/90230954007/"
-      },
-      {
-        "date": "2026-05-20",
-        "text": "Pat McAffee:\"The only Mark Cuban guy left on the Mavericks is Kyrie Irving.. There's multiple contenders around the NBA that are very much monitoring what happens with Kyrie Irving in Dallas\" ~ @ShamsCharaniax.com",
-        "text_html": "Pat McAffee: <a href=\"https://x.com/PatMcAfeeShow/status/2057143372087714051?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">\"The only Mark Cuban guy left on the Mavericks is Kyrie Irving.</a>. There's multiple contenders around the NBA that are very much monitoring what happens with Kyrie Irving in Dallas\" ~ @ShamsCharania",
-        "outlet": "x.com",
-        "source_url": "https://x.com/PatMcAfeeShow/status/2057143372087714051?s=20"
-      },
-      {
-        "date": "2026-05-20",
-        "text": "Yet there is an anticipation leaguewide thatthe Mavericks are likely to receive trade interest in Irving this offseason whether they want it or not ... even after the 34-year-old's full season of inactivity.marcstein.substack.com",
-        "text_html": "Yet there is an anticipation leaguewide that <a href=\"https://marcstein.substack.com/p/an-inside-look-at-the-latest-major\" target=\"_blank\" style=\"color: #1a73e8;\">the Mavericks are likely to receive trade interest in Irving this offseason whether they want it or not ... even after the 34-year-old's full season of inactivity</a>.",
-        "outlet": "marcstein.substack.com",
-        "source_url": "https://marcstein.substack.com/p/an-inside-look-at-the-latest-major"
       }
     ],
     "Draymond Green": [
@@ -3160,13 +3174,8 @@
     ]
   },
   "daily_counts": {
-    "LeBron James": {
-      "2026-06-12": 1,
-      "2026-06-05": 1,
-      "2026-05-24": 2
-    },
     "Giannis Antetokounmpo": {
-      "2026-06-12": 8,
+      "2026-06-12": 11,
       "2026-06-11": 9,
       "2026-06-10": 3,
       "2026-06-09": 5,
@@ -3188,8 +3197,33 @@
       "2026-05-20": 2,
       "2026-05-19": 2,
       "2026-05-18": 2,
-      "2026-05-16": 1,
-      "2026-05-15": 3
+      "2026-05-16": 1
+    },
+    "Jaylen Brown": {
+      "2026-06-12": 1,
+      "2026-06-11": 3,
+      "2026-06-10": 2,
+      "2026-06-08": 1,
+      "2026-06-03": 3,
+      "2026-05-25": 1,
+      "2026-05-18": 1
+    },
+    "Kyrie Irving": {
+      "2026-06-12": 1,
+      "2026-06-03": 2,
+      "2026-05-23": 1,
+      "2026-05-20": 2
+    },
+    "Trey Murphy": {
+      "2026-06-12": 1,
+      "2026-06-10": 1,
+      "2026-06-01": 1,
+      "2026-05-31": 1
+    },
+    "LeBron James": {
+      "2026-06-12": 1,
+      "2026-06-05": 1,
+      "2026-05-24": 2
     },
     "Tyler Herro": {
       "2026-06-12": 1,
@@ -3239,20 +3273,11 @@
       "2026-06-03": 1,
       "2026-05-30": 1,
       "2026-05-23": 1,
-      "2026-05-18": 1,
-      "2026-05-15": 1
+      "2026-05-18": 1
     },
     "Bam Adebayo": {
       "2026-06-12": 1,
       "2026-06-03": 3
-    },
-    "Jaylen Brown": {
-      "2026-06-11": 3,
-      "2026-06-10": 2,
-      "2026-06-08": 1,
-      "2026-06-03": 3,
-      "2026-05-25": 1,
-      "2026-05-18": 1
     },
     "Jayson Tatum": {
       "2026-06-11": 2,
@@ -3290,11 +3315,6 @@
     },
     "Dereck Lively": {
       "2026-06-10": 1
-    },
-    "Trey Murphy": {
-      "2026-06-10": 1,
-      "2026-06-01": 1,
-      "2026-05-31": 1
     },
     "Aaron Gordon": {
       "2026-06-10": 1
@@ -3388,11 +3408,6 @@
       "2026-06-03": 1,
       "2026-06-01": 1,
       "2026-05-19": 2
-    },
-    "Kyrie Irving": {
-      "2026-06-03": 2,
-      "2026-05-23": 1,
-      "2026-05-20": 2
     },
     "Draymond Green": {
       "2026-06-03": 1,
