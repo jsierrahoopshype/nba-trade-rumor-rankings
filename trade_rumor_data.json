@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-07-19T20:06:59.496669",
+  "generated_at": "2026-07-20T04:34:56.475622",
   "scrape_window_days": 28,
-  "window_start": "2026-06-21",
-  "window_end": "2026-07-19",
-  "total_rumors": 883,
+  "window_start": "2026-06-22",
+  "window_end": "2026-07-20",
+  "total_rumors": 885,
   "total_players": 166,
   "rankings": [
     {
       "player": "Jaylen Brown",
-      "score": 46.0,
-      "mentions_week1": 8,
-      "mentions_week2": 20,
+      "score": 44.0,
+      "mentions_week1": 4,
+      "mentions_week2": 24,
       "mentions_weeks3_4": 112,
       "total_mentions": 140,
       "first_mention": "2026-06-22",
@@ -32,15 +32,27 @@
     },
     {
       "player": "Giannis Antetokounmpo",
-      "score": 15.75,
-      "mentions_week1": 4,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 47,
-      "total_mentions": 51,
-      "first_mention": "2026-06-21",
+      "score": 15.0,
+      "mentions_week1": 3,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 46,
+      "total_mentions": 50,
+      "first_mention": "2026-06-22",
       "last_mention": "2026-07-17",
       "team": "Milwaukee Bucks",
       "rank": 3
+    },
+    {
+      "player": "Anthony Davis",
+      "score": 10.0,
+      "mentions_week1": 3,
+      "mentions_week2": 4,
+      "mentions_weeks3_4": 20,
+      "total_mentions": 27,
+      "first_mention": "2026-06-22",
+      "last_mention": "2026-07-19",
+      "team": "Dallas Mavericks",
+      "rank": 4
     },
     {
       "player": "LaMelo Ball",
@@ -52,7 +64,7 @@
       "first_mention": "2026-06-23",
       "last_mention": "2026-07-10",
       "team": "Charlotte Hornets",
-      "rank": 4
+      "rank": 5
     },
     {
       "player": "LeBron James",
@@ -64,31 +76,7 @@
       "first_mention": "2026-06-22",
       "last_mention": "2026-07-16",
       "team": "Los Angeles Lakers",
-      "rank": 5
-    },
-    {
-      "player": "Anthony Davis",
-      "score": 9.0,
-      "mentions_week1": 2,
-      "mentions_week2": 4,
-      "mentions_weeks3_4": 20,
-      "total_mentions": 26,
-      "first_mention": "2026-06-22",
-      "last_mention": "2026-07-16",
-      "team": "Dallas Mavericks",
       "rank": 6
-    },
-    {
-      "player": "Tyler Herro",
-      "score": 7.0,
-      "mentions_week1": 3,
-      "mentions_week2": 3,
-      "mentions_weeks3_4": 10,
-      "total_mentions": 16,
-      "first_mention": "2026-06-22",
-      "last_mention": "2026-07-14",
-      "team": "Miami Heat",
-      "rank": 7
     },
     {
       "player": "Klay Thompson",
@@ -100,19 +88,19 @@
       "first_mention": "2026-06-28",
       "last_mention": "2026-07-19",
       "team": "Dallas Mavericks",
-      "rank": 8
+      "rank": 7
     },
     {
-      "player": "Peyton Watson",
-      "score": 6.0,
-      "mentions_week1": 3,
-      "mentions_week2": 6,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 9,
-      "first_mention": "2026-07-05",
-      "last_mention": "2026-07-17",
-      "team": "Denver Nuggets",
-      "rank": 9
+      "player": "Tyler Herro",
+      "score": 6.5,
+      "mentions_week1": 2,
+      "mentions_week2": 4,
+      "mentions_weeks3_4": 10,
+      "total_mentions": 16,
+      "first_mention": "2026-06-22",
+      "last_mention": "2026-07-14",
+      "team": "Miami Heat",
+      "rank": 8
     },
     {
       "player": "Ja Morant",
@@ -124,13 +112,25 @@
       "first_mention": "2026-06-23",
       "last_mention": "2026-07-11",
       "team": "Memphis Grizzlies",
+      "rank": 9
+    },
+    {
+      "player": "Peyton Watson",
+      "score": 5.5,
+      "mentions_week1": 3,
+      "mentions_week2": 4,
+      "mentions_weeks3_4": 2,
+      "total_mentions": 9,
+      "first_mention": "2026-07-05",
+      "last_mention": "2026-07-17",
+      "team": "Denver Nuggets",
       "rank": 10
     },
     {
       "player": "Paul George",
-      "score": 5.25,
-      "mentions_week1": 1,
-      "mentions_week2": 2,
+      "score": 4.75,
+      "mentions_week1": 0,
+      "mentions_week2": 3,
       "mentions_weeks3_4": 13,
       "total_mentions": 16,
       "first_mention": "2026-07-01",
@@ -224,10 +224,10 @@
     },
     {
       "player": "Trey Murphy",
-      "score": 3.25,
+      "score": 3.0,
       "mentions_week1": 0,
-      "mentions_week2": 2,
-      "mentions_weeks3_4": 9,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 10,
       "total_mentions": 11,
       "first_mention": "2026-06-22",
       "last_mention": "2026-07-06",
@@ -247,6 +247,18 @@
       "rank": 20
     },
     {
+      "player": "Zaccharie Risacher",
+      "score": 3.0,
+      "mentions_week1": 3,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 3,
+      "first_mention": "2026-07-19",
+      "last_mention": "2026-07-19",
+      "team": "Atlanta Hawks",
+      "rank": 21
+    },
+    {
       "player": "Marcus Sasser",
       "score": 2.75,
       "mentions_week1": 0,
@@ -256,7 +268,7 @@
       "first_mention": "2026-06-28",
       "last_mention": "2026-07-08",
       "team": "Dallas Mavericks",
-      "rank": 21
+      "rank": 22
     },
     {
       "player": "AJ Johnson",
@@ -268,18 +280,6 @@
       "first_mention": "2026-07-01",
       "last_mention": "2026-07-10",
       "team": "Dallas Mavericks",
-      "rank": 22
-    },
-    {
-      "player": "Kel'el Ware",
-      "score": 2.75,
-      "mentions_week1": 2,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 3,
-      "total_mentions": 5,
-      "first_mention": "2026-06-22",
-      "last_mention": "2026-07-12",
-      "team": "Miami Heat",
       "rank": 23
     },
     {
@@ -295,18 +295,6 @@
       "rank": 24
     },
     {
-      "player": "Brandon Ingram",
-      "score": 2.5,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 6,
-      "total_mentions": 7,
-      "first_mention": "2026-06-28",
-      "last_mention": "2026-07-12",
-      "team": "Toronto Raptors",
-      "rank": 25
-    },
-    {
       "player": "Nikola Jovic",
       "score": 2.5,
       "mentions_week1": 1,
@@ -316,7 +304,7 @@
       "first_mention": "2026-06-23",
       "last_mention": "2026-07-15",
       "team": "Dallas Mavericks",
-      "rank": 26
+      "rank": 25
     },
     {
       "player": "Caris LeVert",
@@ -328,19 +316,7 @@
       "first_mention": "2026-07-07",
       "last_mention": "2026-07-08",
       "team": "Dallas Mavericks",
-      "rank": 27
-    },
-    {
-      "player": "Derrick White",
-      "score": 2.5,
-      "mentions_week1": 1,
-      "mentions_week2": 2,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 5,
-      "first_mention": "2026-06-22",
-      "last_mention": "2026-07-12",
-      "team": "Boston Celtics",
-      "rank": 28
+      "rank": 26
     },
     {
       "player": "Gary Harris",
@@ -352,7 +328,7 @@
       "first_mention": "2026-07-07",
       "last_mention": "2026-07-08",
       "team": "Detroit Pistons",
-      "rank": 29
+      "rank": 27
     },
     {
       "player": "Taurean Prince",
@@ -364,7 +340,7 @@
       "first_mention": "2026-07-07",
       "last_mention": "2026-07-08",
       "team": "Detroit Pistons",
-      "rank": 30
+      "rank": 28
     },
     {
       "player": "Bam Adebayo",
@@ -376,7 +352,7 @@
       "first_mention": "2026-06-25",
       "last_mention": "2026-07-14",
       "team": "Miami Heat",
-      "rank": 31
+      "rank": 29
     },
     {
       "player": "Draymond Green",
@@ -388,19 +364,7 @@
       "first_mention": "2026-06-23",
       "last_mention": "2026-07-08",
       "team": "Golden State Warriors",
-      "rank": 32
-    },
-    {
-      "player": "Gradey Dick",
-      "score": 2.25,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 5,
-      "total_mentions": 6,
-      "first_mention": "2026-06-22",
-      "last_mention": "2026-07-12",
-      "team": "Toronto Raptors",
-      "rank": 33
+      "rank": 30
     },
     {
       "player": "Kyrie Irving",
@@ -412,19 +376,7 @@
       "first_mention": "2026-06-22",
       "last_mention": "2026-07-19",
       "team": "Dallas Mavericks",
-      "rank": 34
-    },
-    {
-      "player": "Bobby Portis",
-      "score": 2.25,
-      "mentions_week1": 1,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 3,
-      "total_mentions": 5,
-      "first_mention": "2026-06-22",
-      "last_mention": "2026-07-12",
-      "team": "Milwaukee Bucks",
-      "rank": 35
+      "rank": 31
     },
     {
       "player": "Norman Powell",
@@ -436,7 +388,19 @@
       "first_mention": "2026-06-23",
       "last_mention": "2026-07-03",
       "team": "Miami Heat",
-      "rank": 36
+      "rank": 32
+    },
+    {
+      "player": "Brandon Ingram",
+      "score": 2.0,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 6,
+      "total_mentions": 7,
+      "first_mention": "2026-06-28",
+      "last_mention": "2026-07-12",
+      "team": "Toronto Raptors",
+      "rank": 33
     },
     {
       "player": "Walker Kessler",
@@ -448,7 +412,19 @@
       "first_mention": "2026-07-01",
       "last_mention": "2026-07-10",
       "team": "Utah Jazz",
-      "rank": 37
+      "rank": 34
+    },
+    {
+      "player": "Derrick White",
+      "score": 2.0,
+      "mentions_week1": 0,
+      "mentions_week2": 3,
+      "mentions_weeks3_4": 2,
+      "total_mentions": 5,
+      "first_mention": "2026-06-22",
+      "last_mention": "2026-07-12",
+      "team": "Boston Celtics",
+      "rank": 35
     },
     {
       "player": "John Collins",
@@ -460,19 +436,7 @@
       "first_mention": "2026-07-01",
       "last_mention": "2026-07-08",
       "team": "Los Angeles Clippers",
-      "rank": 38
-    },
-    {
-      "player": "Kasparas Jakucionis",
-      "score": 2.0,
-      "mentions_week1": 1,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 4,
-      "first_mention": "2026-06-22",
-      "last_mention": "2026-07-12",
-      "team": "Miami Heat",
-      "rank": 39
+      "rank": 36
     },
     {
       "player": "Daniel Gafford",
@@ -484,7 +448,19 @@
       "first_mention": "2026-07-19",
       "last_mention": "2026-07-19",
       "team": "Dallas Mavericks",
-      "rank": 40
+      "rank": 37
+    },
+    {
+      "player": "Luguentz Dort",
+      "score": 2.0,
+      "mentions_week1": 2,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 2,
+      "first_mention": "2026-07-19",
+      "last_mention": "2026-07-19",
+      "team": "Atlanta Hawks",
+      "rank": 38
     },
     {
       "player": "Dorian Finney-Smith",
@@ -496,43 +472,43 @@
       "first_mention": "2026-06-30",
       "last_mention": "2026-07-06",
       "team": "Los Angeles Lakers",
+      "rank": 39
+    },
+    {
+      "player": "Gradey Dick",
+      "score": 1.75,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 5,
+      "total_mentions": 6,
+      "first_mention": "2026-06-22",
+      "last_mention": "2026-07-12",
+      "team": "Toronto Raptors",
+      "rank": 40
+    },
+    {
+      "player": "Bobby Portis",
+      "score": 1.75,
+      "mentions_week1": 0,
+      "mentions_week2": 2,
+      "mentions_weeks3_4": 3,
+      "total_mentions": 5,
+      "first_mention": "2026-06-22",
+      "last_mention": "2026-07-12",
+      "team": "Milwaukee Bucks",
       "rank": 41
     },
     {
-      "player": "Mitchell Robinson",
+      "player": "Kel'el Ware",
       "score": 1.75,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
+      "mentions_week1": 0,
+      "mentions_week2": 2,
       "mentions_weeks3_4": 3,
-      "total_mentions": 4,
-      "first_mention": "2026-06-24",
-      "last_mention": "2026-07-12",
-      "team": "Boston Celtics",
-      "rank": 42
-    },
-    {
-      "player": "Jaime Jaquez",
-      "score": 1.75,
-      "mentions_week1": 1,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 3,
+      "total_mentions": 5,
       "first_mention": "2026-06-22",
       "last_mention": "2026-07-12",
       "team": "Miami Heat",
-      "rank": 43
-    },
-    {
-      "player": "Jarred Vanderbilt",
-      "score": 1.75,
-      "mentions_week1": 1,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 3,
-      "first_mention": "2026-07-02",
-      "last_mention": "2026-07-13",
-      "team": "Atlanta Hawks",
-      "rank": 44
+      "rank": 42
     },
     {
       "player": "Jerami Grant",
@@ -544,7 +520,7 @@
       "first_mention": "2026-06-27",
       "last_mention": "2026-06-30",
       "team": "Memphis Grizzlies",
-      "rank": 45
+      "rank": 43
     },
     {
       "player": "Deandre Ayton",
@@ -556,7 +532,19 @@
       "first_mention": "2026-07-02",
       "last_mention": "2026-07-08",
       "team": "Los Angeles Lakers",
-      "rank": 46
+      "rank": 44
+    },
+    {
+      "player": "Kasparas Jakucionis",
+      "score": 1.5,
+      "mentions_week1": 0,
+      "mentions_week2": 2,
+      "mentions_weeks3_4": 2,
+      "total_mentions": 4,
+      "first_mention": "2026-06-22",
+      "last_mention": "2026-07-12",
+      "team": "Miami Heat",
+      "rank": 45
     },
     {
       "player": "D'Angelo Russell",
@@ -568,7 +556,7 @@
       "first_mention": "2026-07-07",
       "last_mention": "2026-07-08",
       "team": "Dallas Mavericks",
-      "rank": 47
+      "rank": 46
     },
     {
       "player": "De'Aaron Fox",
@@ -580,6 +568,18 @@
       "first_mention": "2026-06-24",
       "last_mention": "2026-07-17",
       "team": "San Antonio Spurs",
+      "rank": 47
+    },
+    {
+      "player": "Jarred Vanderbilt",
+      "score": 1.5,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 2,
+      "total_mentions": 3,
+      "first_mention": "2026-07-02",
+      "last_mention": "2026-07-13",
+      "team": "Atlanta Hawks",
       "rank": 48
     },
     {
@@ -667,16 +667,28 @@
       "rank": 55
     },
     {
-      "player": "Jordan Walsh",
+      "player": "Mitchell Robinson",
       "score": 1.25,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 2,
-      "first_mention": "2026-06-23",
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 3,
+      "total_mentions": 4,
+      "first_mention": "2026-06-24",
       "last_mention": "2026-07-12",
       "team": "Boston Celtics",
       "rank": 56
+    },
+    {
+      "player": "Jaime Jaquez",
+      "score": 1.25,
+      "mentions_week1": 0,
+      "mentions_week2": 2,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 3,
+      "first_mention": "2026-06-22",
+      "last_mention": "2026-07-12",
+      "team": "Miami Heat",
+      "rank": 57
     },
     {
       "player": "Austin Reaves",
@@ -688,7 +700,7 @@
       "first_mention": "2026-06-24",
       "last_mention": "2026-07-01",
       "team": "Los Angeles Lakers",
-      "rank": 57
+      "rank": 58
     },
     {
       "player": "Damian Lillard",
@@ -700,7 +712,7 @@
       "first_mention": "2026-06-24",
       "last_mention": "2026-06-30",
       "team": "Memphis Grizzlies",
-      "rank": 58
+      "rank": 59
     },
     {
       "player": "Hugo Gonzalez",
@@ -712,7 +724,7 @@
       "first_mention": "2026-06-22",
       "last_mention": "2026-06-26",
       "team": "Boston Celtics",
-      "rank": 59
+      "rank": 60
     },
     {
       "player": "Isaiah Joe",
@@ -724,7 +736,7 @@
       "first_mention": "2026-06-22",
       "last_mention": "2026-07-01",
       "team": "Dallas Mavericks",
-      "rank": 60
+      "rank": 61
     },
     {
       "player": "Miles Bridges",
@@ -736,7 +748,7 @@
       "first_mention": "2026-06-28",
       "last_mention": "2026-06-29",
       "team": "Charlotte Hornets",
-      "rank": 61
+      "rank": 62
     },
     {
       "player": "Myles Turner",
@@ -748,7 +760,7 @@
       "first_mention": "2026-06-22",
       "last_mention": "2026-06-27",
       "team": "Milwaukee Bucks",
-      "rank": 62
+      "rank": 63
     },
     {
       "player": "Scoot Henderson",
@@ -760,7 +772,7 @@
       "first_mention": "2026-06-27",
       "last_mention": "2026-06-30",
       "team": "Portland Trail Blazers",
-      "rank": 63
+      "rank": 64
     },
     {
       "player": "Jaden Hardy",
@@ -772,7 +784,7 @@
       "first_mention": "2026-06-30",
       "last_mention": "2026-07-07",
       "team": "Los Angeles Lakers",
-      "rank": 64
+      "rank": 65
     },
     {
       "player": "Ousmane Dieng",
@@ -784,18 +796,6 @@
       "first_mention": "2026-06-30",
       "last_mention": "2026-07-10",
       "team": "Milwaukee Bucks",
-      "rank": 65
-    },
-    {
-      "player": "RJ Barrett",
-      "score": 1.0,
-      "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 3,
-      "first_mention": "2026-06-28",
-      "last_mention": "2026-07-05",
-      "team": "Toronto Raptors",
       "rank": 66
     },
     {
@@ -811,18 +811,6 @@
       "rank": 67
     },
     {
-      "player": "Bennedict Mathurin",
-      "score": 1.0,
-      "mentions_week1": 0,
-      "mentions_week2": 2,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 2,
-      "first_mention": "2026-07-05",
-      "last_mention": "2026-07-10",
-      "team": "Indiana Pacers",
-      "rank": 68
-    },
-    {
       "player": "Joel Embiid",
       "score": 1.0,
       "mentions_week1": 0,
@@ -832,7 +820,7 @@
       "first_mention": "2026-07-09",
       "last_mention": "2026-07-10",
       "team": "Philadelphia 76ers",
-      "rank": 69
+      "rank": 68
     },
     {
       "player": "Michael Porter",
@@ -844,7 +832,7 @@
       "first_mention": "2026-07-10",
       "last_mention": "2026-07-10",
       "team": "Brooklyn Nets",
-      "rank": 70
+      "rank": 69
     },
     {
       "player": "Moses Moody",
@@ -856,19 +844,7 @@
       "first_mention": "2026-07-11",
       "last_mention": "2026-07-11",
       "team": "Golden State Warriors",
-      "rank": 71
-    },
-    {
-      "player": "Mike Conley",
-      "score": 1.0,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-07-12",
-      "last_mention": "2026-07-12",
-      "team": "Boston Celtics",
-      "rank": 72
+      "rank": 70
     },
     {
       "player": "Spencer Jones",
@@ -880,7 +856,7 @@
       "first_mention": "2026-07-14",
       "last_mention": "2026-07-14",
       "team": "Atlanta Hawks",
-      "rank": 73
+      "rank": 71
     },
     {
       "player": "Thanasis Antetokounmpo",
@@ -892,7 +868,7 @@
       "first_mention": "2026-07-17",
       "last_mention": "2026-07-17",
       "team": "Miami Heat",
-      "rank": 74
+      "rank": 72
     },
     {
       "player": "Ayo Dosunmu",
@@ -904,7 +880,7 @@
       "first_mention": "2026-06-22",
       "last_mention": "2026-06-26",
       "team": "Chicago Bulls",
-      "rank": 75
+      "rank": 73
     },
     {
       "player": "Deni Avdija",
@@ -916,7 +892,7 @@
       "first_mention": "2026-06-28",
       "last_mention": "2026-06-30",
       "team": "Portland Trail Blazers",
-      "rank": 76
+      "rank": 74
     },
     {
       "player": "Domantas Sabonis",
@@ -928,7 +904,7 @@
       "first_mention": "2026-06-24",
       "last_mention": "2026-06-30",
       "team": "Sacramento Kings",
-      "rank": 77
+      "rank": 75
     },
     {
       "player": "Ja'Kobe Walter",
@@ -940,7 +916,7 @@
       "first_mention": "2026-06-22",
       "last_mention": "2026-07-01",
       "team": "Los Angeles Clippers",
-      "rank": 78
+      "rank": 76
     },
     {
       "player": "Jarrett Allen",
@@ -952,7 +928,7 @@
       "first_mention": "2026-06-24",
       "last_mention": "2026-06-26",
       "team": "Cleveland Cavaliers",
-      "rank": 79
+      "rank": 77
     },
     {
       "player": "Kam Jones",
@@ -964,7 +940,7 @@
       "first_mention": "2026-06-24",
       "last_mention": "2026-06-30",
       "team": "Chicago Bulls",
-      "rank": 80
+      "rank": 78
     },
     {
       "player": "Lonzo Ball",
@@ -976,7 +952,19 @@
       "first_mention": "2026-07-02",
       "last_mention": "2026-07-02",
       "team": "Cleveland Cavaliers",
-      "rank": 81
+      "rank": 79
+    },
+    {
+      "player": "RJ Barrett",
+      "score": 0.75,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 3,
+      "total_mentions": 3,
+      "first_mention": "2026-06-28",
+      "last_mention": "2026-07-05",
+      "team": "Toronto Raptors",
+      "rank": 80
     },
     {
       "player": "Tobias Harris",
@@ -988,6 +976,18 @@
       "first_mention": "2026-07-01",
       "last_mention": "2026-07-02",
       "team": "Detroit Pistons",
+      "rank": 81
+    },
+    {
+      "player": "Bennedict Mathurin",
+      "score": 0.75,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 2,
+      "first_mention": "2026-07-05",
+      "last_mention": "2026-07-10",
+      "team": "Indiana Pacers",
       "rank": 82
     },
     {
@@ -1003,18 +1003,6 @@
       "rank": 83
     },
     {
-      "player": "Jakob Poeltl",
-      "score": 0.75,
-      "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 2,
-      "first_mention": "2026-06-24",
-      "last_mention": "2026-07-05",
-      "team": "Toronto Raptors",
-      "rank": 84
-    },
-    {
       "player": "Jaren Jackson Jr",
       "score": 0.75,
       "mentions_week1": 0,
@@ -1024,19 +1012,19 @@
       "first_mention": "2026-07-01",
       "last_mention": "2026-07-07",
       "team": "Memphis Grizzlies",
-      "rank": 85
+      "rank": 84
     },
     {
-      "player": "Onyeka Okongwu",
+      "player": "Jordan Walsh",
       "score": 0.75,
       "mentions_week1": 0,
       "mentions_week2": 1,
       "mentions_weeks3_4": 1,
       "total_mentions": 2,
       "first_mention": "2026-06-23",
-      "last_mention": "2026-07-05",
-      "team": "Atlanta Hawks",
-      "rank": 86
+      "last_mention": "2026-07-12",
+      "team": "Boston Celtics",
+      "rank": 85
     },
     {
       "player": "Tari Eason",
@@ -1048,7 +1036,7 @@
       "first_mention": "2026-06-30",
       "last_mention": "2026-07-09",
       "team": "Houston Rockets",
-      "rank": 87
+      "rank": 86
     },
     {
       "player": "Aaron Gordon",
@@ -1060,7 +1048,7 @@
       "first_mention": "2026-06-28",
       "last_mention": "2026-06-28",
       "team": "Denver Nuggets",
-      "rank": 88
+      "rank": 87
     },
     {
       "player": "Andrew Wiggins",
@@ -1072,7 +1060,7 @@
       "first_mention": "2026-06-29",
       "last_mention": "2026-06-29",
       "team": "Miami Heat",
-      "rank": 89
+      "rank": 88
     },
     {
       "player": "Bogdan Bogdanovic",
@@ -1084,7 +1072,7 @@
       "first_mention": "2026-06-26",
       "last_mention": "2026-07-03",
       "team": "Charlotte Hornets",
-      "rank": 90
+      "rank": 89
     },
     {
       "player": "Buddy Hield",
@@ -1096,19 +1084,7 @@
       "first_mention": "2026-06-28",
       "last_mention": "2026-07-02",
       "team": "Golden State Warriors",
-      "rank": 91
-    },
-    {
-      "player": "CJ McCollum",
-      "score": 0.5,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 2,
-      "first_mention": "2026-06-21",
-      "last_mention": "2026-06-21",
-      "team": "Washington Wizards",
-      "rank": 92
+      "rank": 90
     },
     {
       "player": "DeMar DeRozan",
@@ -1120,7 +1096,7 @@
       "first_mention": "2026-06-24",
       "last_mention": "2026-07-02",
       "team": "Sacramento Kings",
-      "rank": 93
+      "rank": 91
     },
     {
       "player": "Devin Carter",
@@ -1132,7 +1108,7 @@
       "first_mention": "2026-06-29",
       "last_mention": "2026-06-29",
       "team": "Atlanta Hawks",
-      "rank": 94
+      "rank": 92
     },
     {
       "player": "Donovan Clingan",
@@ -1144,7 +1120,7 @@
       "first_mention": "2026-06-28",
       "last_mention": "2026-06-30",
       "team": "Memphis Grizzlies",
-      "rank": 95
+      "rank": 93
     },
     {
       "player": "Donte DiVincenzo",
@@ -1156,7 +1132,7 @@
       "first_mention": "2026-06-24",
       "last_mention": "2026-06-25",
       "team": "Minnesota Timberwolves",
-      "rank": 96
+      "rank": 94
     },
     {
       "player": "Duncan Robinson",
@@ -1168,7 +1144,7 @@
       "first_mention": "2026-06-23",
       "last_mention": "2026-06-24",
       "team": "Detroit Pistons",
-      "rank": 97
+      "rank": 95
     },
     {
       "player": "Franz Wagner",
@@ -1180,7 +1156,7 @@
       "first_mention": "2026-06-23",
       "last_mention": "2026-06-29",
       "team": "Orlando Magic",
-      "rank": 98
+      "rank": 96
     },
     {
       "player": "Goga Bitadze",
@@ -1192,7 +1168,7 @@
       "first_mention": "2026-06-29",
       "last_mention": "2026-06-29",
       "team": "Atlanta Hawks",
-      "rank": 99
+      "rank": 97
     },
     {
       "player": "Herb Jones",
@@ -1204,7 +1180,19 @@
       "first_mention": "2026-06-22",
       "last_mention": "2026-06-23",
       "team": "New Orleans Pelicans",
-      "rank": 100
+      "rank": 98
+    },
+    {
+      "player": "Jakob Poeltl",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 2,
+      "total_mentions": 2,
+      "first_mention": "2026-06-24",
+      "last_mention": "2026-07-05",
+      "team": "Toronto Raptors",
+      "rank": 99
     },
     {
       "player": "James Harden",
@@ -1216,7 +1204,7 @@
       "first_mention": "2026-06-26",
       "last_mention": "2026-06-28",
       "team": "Los Angeles Clippers",
-      "rank": 101
+      "rank": 100
     },
     {
       "player": "Jimmy Butler",
@@ -1228,7 +1216,7 @@
       "first_mention": "2026-06-30",
       "last_mention": "2026-06-30",
       "team": "Golden State Warriors",
-      "rank": 102
+      "rank": 101
     },
     {
       "player": "Jose Alvarado",
@@ -1240,7 +1228,7 @@
       "first_mention": "2026-06-22",
       "last_mention": "2026-06-26",
       "team": "New York Knicks",
-      "rank": 103
+      "rank": 102
     },
     {
       "player": "Jrue Holiday",
@@ -1252,7 +1240,7 @@
       "first_mention": "2026-06-30",
       "last_mention": "2026-06-30",
       "team": "Portland Trail Blazers",
-      "rank": 104
+      "rank": 103
     },
     {
       "player": "Kristaps Porzingis",
@@ -1264,7 +1252,7 @@
       "first_mention": "2026-06-30",
       "last_mention": "2026-06-30",
       "team": "Golden State Warriors",
-      "rank": 105
+      "rank": 104
     },
     {
       "player": "Kyle Kuzma",
@@ -1276,7 +1264,7 @@
       "first_mention": "2026-06-22",
       "last_mention": "2026-06-22",
       "team": "Milwaukee Bucks",
-      "rank": 106
+      "rank": 105
     },
     {
       "player": "Marcus Smart",
@@ -1288,7 +1276,7 @@
       "first_mention": "2026-06-30",
       "last_mention": "2026-07-03",
       "team": "Los Angeles Lakers",
-      "rank": 107
+      "rank": 106
     },
     {
       "player": "Nicolas Claxton",
@@ -1300,6 +1288,18 @@
       "first_mention": "2026-06-26",
       "last_mention": "2026-06-26",
       "team": "Chicago Bulls",
+      "rank": 107
+    },
+    {
+      "player": "Onyeka Okongwu",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 2,
+      "total_mentions": 2,
+      "first_mention": "2026-06-23",
+      "last_mention": "2026-07-05",
+      "team": "Atlanta Hawks",
       "rank": 108
     },
     {
@@ -1375,6 +1375,18 @@
       "rank": 114
     },
     {
+      "player": "Mike Conley",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-07-12",
+      "last_mention": "2026-07-12",
+      "team": "Boston Celtics",
+      "rank": 115
+    },
+    {
       "player": "Neemias Queta",
       "score": 0.5,
       "mentions_week1": 0,
@@ -1384,18 +1396,6 @@
       "first_mention": "2026-07-11",
       "last_mention": "2026-07-11",
       "team": "Boston Celtics",
-      "rank": 115
-    },
-    {
-      "player": "Nickeil Alexander-Walker",
-      "score": 0.5,
-      "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-07-05",
-      "last_mention": "2026-07-05",
-      "team": "Atlanta Hawks",
       "rank": 116
     },
     {
@@ -1627,18 +1627,6 @@
       "rank": 135
     },
     {
-      "player": "Ivica Zubac",
-      "score": 0.25,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 1,
-      "first_mention": "2026-06-21",
-      "last_mention": "2026-06-21",
-      "team": "Los Angeles Clippers",
-      "rank": 136
-    },
-    {
       "player": "Jamal Shead",
       "score": 0.25,
       "mentions_week1": 0,
@@ -1648,7 +1636,7 @@
       "first_mention": "2026-07-01",
       "last_mention": "2026-07-01",
       "team": "Los Angeles Clippers",
-      "rank": 137
+      "rank": 136
     },
     {
       "player": "Jamison Battle",
@@ -1660,7 +1648,7 @@
       "first_mention": "2026-06-22",
       "last_mention": "2026-06-22",
       "team": "Toronto Raptors",
-      "rank": 138
+      "rank": 137
     },
     {
       "player": "Jeremiah Fears",
@@ -1672,7 +1660,7 @@
       "first_mention": "2026-06-23",
       "last_mention": "2026-06-23",
       "team": "Memphis Grizzlies",
-      "rank": 139
+      "rank": 138
     },
     {
       "player": "Joan Beringer",
@@ -1684,7 +1672,7 @@
       "first_mention": "2026-06-26",
       "last_mention": "2026-06-26",
       "team": "Charlotte Hornets",
-      "rank": 140
+      "rank": 139
     },
     {
       "player": "Jonas Valanciunas",
@@ -1696,7 +1684,7 @@
       "first_mention": "2026-07-04",
       "last_mention": "2026-07-04",
       "team": "Denver Nuggets",
-      "rank": 141
+      "rank": 140
     },
     {
       "player": "Karl-Anthony Towns",
@@ -1708,7 +1696,7 @@
       "first_mention": "2026-06-24",
       "last_mention": "2026-06-24",
       "team": "New York Knicks",
-      "rank": 142
+      "rank": 141
     },
     {
       "player": "Keon Ellis",
@@ -1720,7 +1708,7 @@
       "first_mention": "2026-06-27",
       "last_mention": "2026-06-27",
       "team": "Sacramento Kings",
-      "rank": 143
+      "rank": 142
     },
     {
       "player": "Kevon Looney",
@@ -1732,7 +1720,7 @@
       "first_mention": "2026-07-02",
       "last_mention": "2026-07-02",
       "team": "Chicago Bulls",
-      "rank": 144
+      "rank": 143
     },
     {
       "player": "Landry Shamet",
@@ -1744,7 +1732,7 @@
       "first_mention": "2026-06-24",
       "last_mention": "2026-06-24",
       "team": "New York Knicks",
-      "rank": 145
+      "rank": 144
     },
     {
       "player": "Mark Williams",
@@ -1756,7 +1744,7 @@
       "first_mention": "2026-06-26",
       "last_mention": "2026-06-26",
       "team": "Phoenix Suns",
-      "rank": 146
+      "rank": 145
     },
     {
       "player": "Marvin Bagley",
@@ -1768,7 +1756,7 @@
       "first_mention": "2026-07-02",
       "last_mention": "2026-07-02",
       "team": "Chicago Bulls",
-      "rank": 147
+      "rank": 146
     },
     {
       "player": "Moritz Wagner",
@@ -1780,7 +1768,7 @@
       "first_mention": "2026-06-29",
       "last_mention": "2026-06-29",
       "team": "Los Angeles Clippers",
-      "rank": 148
+      "rank": 147
     },
     {
       "player": "Mouhamed Gueye",
@@ -1792,7 +1780,7 @@
       "first_mention": "2026-06-22",
       "last_mention": "2026-06-22",
       "team": "Chicago Bulls",
-      "rank": 149
+      "rank": 148
     },
     {
       "player": "Nick Richards",
@@ -1804,6 +1792,18 @@
       "first_mention": "2026-07-02",
       "last_mention": "2026-07-02",
       "team": "Phoenix Suns",
+      "rank": 149
+    },
+    {
+      "player": "Nickeil Alexander-Walker",
+      "score": 0.25,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 1,
+      "first_mention": "2026-07-05",
+      "last_mention": "2026-07-05",
+      "team": "Atlanta Hawks",
       "rank": 150
     },
     {
@@ -2000,6 +2000,236 @@
     }
   ],
   "player_rumors": {
+    "Luguentz Dort": [
+      {
+        "date": "2026-07-19",
+        "text": "Justin Martinez:OKC has officially announced its three-team trade that sent Lu Dort to Atlantax.com",
+        "text_html": "Justin Martinez: <a href=\"https://x.com/Justintohoops/status/2078950371821600779\" target=\"_blank\" style=\"color: #1a73e8;\">OKC has officially announced its three-team trade that sent Lu Dort to Atlanta</a>",
+        "outlet": "x.com",
+        "source_url": "https://x.com/Justintohoops/status/2078950371821600779"
+      },
+      {
+        "date": "2026-07-19",
+        "text": "Mavs PR: TheDallas Mavericks announced today that they have acquired former No. 1 overall pick Zaccharie Risacher and a top-55 protected 2027 second-round pick from the Atlanta Hawks as part of a three-team trade also involving Oklahoma City. Full release: nba.com/mavs/news/mavex.com",
+        "text_html": "Mavs PR: The <a href=\"https://x.com/MavsPR/status/2078948052962799839\" target=\"_blank\" style=\"color: #1a73e8;\">Dallas Mavericks announced today that they have acquired former No. 1 overall pick Zaccharie Risacher and a top-55 protected 2027 second-round pick from the Atlanta Hawks as part of a three-team trade also involving Oklahoma City</a>. Full release: nba.com/mavs/news/mave",
+        "outlet": "x.com",
+        "source_url": "https://x.com/MavsPR/status/2078948052962799839"
+      }
+    ],
+    "Zaccharie Risacher": [
+      {
+        "date": "2026-07-19",
+        "text": "Justin Martinez:OKC has officially announced its three-team trade that sent Lu Dort to Atlantax.com",
+        "text_html": "Justin Martinez: <a href=\"https://x.com/Justintohoops/status/2078950371821600779\" target=\"_blank\" style=\"color: #1a73e8;\">OKC has officially announced its three-team trade that sent Lu Dort to Atlanta</a>",
+        "outlet": "x.com",
+        "source_url": "https://x.com/Justintohoops/status/2078950371821600779"
+      },
+      {
+        "date": "2026-07-19",
+        "text": "Mavs PR: TheDallas Mavericks announced today that they have acquired former No. 1 overall pick Zaccharie Risacher and a top-55 protected 2027 second-round pick from the Atlanta Hawks as part of a three-team trade also involving Oklahoma City. Full release: nba.com/mavs/news/mavex.com",
+        "text_html": "Mavs PR: The <a href=\"https://x.com/MavsPR/status/2078948052962799839\" target=\"_blank\" style=\"color: #1a73e8;\">Dallas Mavericks announced today that they have acquired former No. 1 overall pick Zaccharie Risacher and a top-55 protected 2027 second-round pick from the Atlanta Hawks as part of a three-team trade also involving Oklahoma City</a>. Full release: nba.com/mavs/news/mave",
+        "outlet": "x.com",
+        "source_url": "https://x.com/MavsPR/status/2078948052962799839"
+      },
+      {
+        "date": "2026-07-19",
+        "text": "Yossi Gozlan: Dallas Mavericks after trading for Zaccharie Risacher.He's a little more likely to get his $17.4 million team option for 2027-28 picked up with this trade. They still have $7 million remaining of their Anthony Davis trade exception. They're out of second-round picks to trade.x.com",
+        "text_html": "Yossi Gozlan: Dallas Mavericks after trading for Zaccharie Risacher. <a href=\"https://x.com/YossiGozlan/status/2078937682072240240\" target=\"_blank\" style=\"color: #1a73e8;\">He's a little more likely to get his $17.4 million team option for 2027-28 picked up with this trade</a>. They still have $7 million remaining of their Anthony Davis trade exception. They're out of second-round picks to trade.",
+        "outlet": "x.com",
+        "source_url": "https://x.com/YossiGozlan/status/2078937682072240240"
+      }
+    ],
+    "Anthony Davis": [
+      {
+        "date": "2026-07-19",
+        "text": "Yossi Gozlan: Dallas Mavericks after trading for Zaccharie Risacher.He's a little more likely to get his $17.4 million team option for 2027-28 picked up with this trade. They still have $7 million remaining of their Anthony Davis trade exception. They're out of second-round picks to trade.x.com",
+        "text_html": "Yossi Gozlan: Dallas Mavericks after trading for Zaccharie Risacher. <a href=\"https://x.com/YossiGozlan/status/2078937682072240240\" target=\"_blank\" style=\"color: #1a73e8;\">He's a little more likely to get his $17.4 million team option for 2027-28 picked up with this trade</a>. They still have $7 million remaining of their Anthony Davis trade exception. They're out of second-round picks to trade.",
+        "outlet": "x.com",
+        "source_url": "https://x.com/YossiGozlan/status/2078937682072240240"
+      },
+      {
+        "date": "2026-07-16",
+        "text": "Heat Central:\u201cHeat, complete contender the moment he gets there. The Warriors would need a little work still. The big thing with the Warriors was packaging LeBron James with another star player\u2026. There\u2019s been no real traction on the Warriors and AD\u2026 They are to my knowledge behind other teams such as a Miami, CLE, PHI.\u201dShams also mentioned the Sixers didn\u2019t even get on his list until they got Jaylen Brown.x.com",
+        "text_html": "Heat Central: <a href=\"https://x.com/TheHeatCentral/status/2077819394848157916?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cHeat, complete contender the moment he gets there. The Warriors would need a little work still. The big thing with the Warriors was packaging LeBron James with another star player\u2026. There\u2019s been no real traction on the Warriors and AD\u2026 They are to my knowledge behind other teams such as a Miami, CLE, PHI.\u201d</a> Shams also mentioned the Sixers didn\u2019t even get on his list until they got Jaylen Brown.",
+        "outlet": "x.com",
+        "source_url": "https://x.com/TheHeatCentral/status/2077819394848157916?s=20"
+      },
+      {
+        "date": "2026-07-15",
+        "text": "Appearing on SiriusXM NBA Radio, franchise general manager Will Dawkins reiterated that both sides are fully committed to moving along despite trade chatter and speculation.\"We kind of don't worry too much about that stuff. Like, AD wants to be in DC,\" Dawkins said. \"We're going to keep him there. I think the important thing for us is just building on the summer and making sure we're ready to go at the beginning of the year. \"He was out here with all of our guys. We had every single one of our team members here for Game 1, so we had all 17 guys on the roster here, and he was a big part of what we had going on, working out and leading the group workouts for our veteran players. That'll be a fun summer. Obviously, we'll have a conversation when we're officially allowed to have one, but the plan is to be big, strong, and skilled.\"BasketNews",
+        "text_html": "Appearing on SiriusXM NBA Radio, franchise general manager Will Dawkins reiterated that both sides are fully committed to moving along despite trade chatter and speculation. <a href=\"https://basketnews.com/news-252019-anthony-davis-wizards-commitment-despite-trade-rumors-revealed.html\" target=\"_blank\" style=\"color: #1a73e8;\">\"We kind of don't worry too much about that stuff. Like, AD wants to be in DC,\" Dawkins said. \"We're going to keep him there. I think the important thing for us is just building on the summer and making sure we're ready to go at the beginning of the year</a>. \"He was out here with all of our guys. We had every single one of our team members here for Game 1, so we had all 17 guys on the roster here, and he was a big part of what we had going on, working out and leading the group workouts for our veteran players. That'll be a fun summer. Obviously, we'll have a conversation when we're officially allowed to have one, but the plan is to be big, strong, and skilled.\"",
+        "outlet": "BasketNews",
+        "source_url": "https://basketnews.com/news-252019-anthony-davis-wizards-commitment-despite-trade-rumors-revealed.html"
+      },
+      {
+        "date": "2026-07-08",
+        "text": "Part of LeBron\u2019s appeal to the Warriors is the low risk. It would be a short-term signing without the loss of a draft pick to acquire him.Despite some league sources believing that an asset-dependent trade for Anthony Davis might be necessary to lure James, the Warriors haven\u2019t been told that directly and haven\u2019t been engaging Washington on it,team sources said.TSN",
+        "text_html": "Part of LeBron\u2019s appeal to the Warriors is the low risk. It would be a short-term signing without the loss of a draft pick to acquire him. <a href=\"https://www.tsn.ca/nba/article/nba-free-agency-intel-where-is-lebron-going-whats-next-for-lakers-n1-49287883/\" target=\"_blank\" style=\"color: #1a73e8;\">Despite some league sources believing that an asset-dependent trade for Anthony Davis might be necessary to lure James, the Warriors haven\u2019t been told that directly and haven\u2019t been engaging Washington on it,</a> team sources said.",
+        "outlet": "TSN",
+        "source_url": "https://www.tsn.ca/nba/article/nba-free-agency-intel-where-is-lebron-going-whats-next-for-lakers-n1-49287883/"
+      },
+      {
+        "date": "2026-07-08",
+        "text": "\"I think LeBron's been open-minded, but the Warriors' whole plan going into free agency was, 'Okay, let's see if we can get Stephen Curry, Draymond Green, LeBron James, and Anthony Davis,'\" said ESPN's Shams Charania on Stephen A. Smith's radio show. \"I think the big draw for LeBron with the Warriors would be seeing if there's an avenue to be a package deal with Davis,\" added Charania. \"Short of that,I don't think the Warriors are high on his list, and I think the Warriors themselves believe they're not on that list unless they're able to trade for Anthony Davis.\"RealGM",
+        "text_html": "\"I think LeBron's been open-minded, but the Warriors' whole plan going into free agency was, 'Okay, let's see if we can get Stephen Curry, Draymond Green, LeBron James, and Anthony Davis,'\" said ESPN's Shams Charania on Stephen A. Smith's radio show. \"I think the big draw for LeBron with the Warriors would be seeing if there's an avenue to be a package deal with Davis,\" added Charania. \"Short of that, <a href=\"https://basketball.realgm.com/wiretap/286605/Warriors-Dont-Believe-Theyll-Sign-LeBron-James-Unless-They-Trade-For-Anthony-Davis\" target=\"_blank\" style=\"color: #1a73e8;\">I don't think the Warriors are high on his list, and I think the Warriors themselves believe they're not on that list unless they're able to trade for Anthony Davis.\"</a>",
+        "outlet": "RealGM",
+        "source_url": "https://basketball.realgm.com/wiretap/286605/Warriors-Dont-Believe-Theyll-Sign-LeBron-James-Unless-They-Trade-For-Anthony-Davis"
+      },
+      {
+        "date": "2026-07-07",
+        "text": "Marc Stein:By helping Khris Middleton get to Washington via sign-and-trade, Dallas can acquire Santi Aldama and Marcus Sasser without touching its $20.3M TPE from the Anthony Davis trade or its $15M MLE. The Mavs can then formally sign Tarik Biberovi\u0107 after the six-team trade is official.x.com",
+        "text_html": "Marc Stein: <a href=\"https://x.com/TheSteinLine/status/2074670438077133196\" target=\"_blank\" style=\"color: #1a73e8;\">By helping Khris Middleton get to Washington via sign-and-trade, Dallas can acquire Santi Aldama and Marcus Sasser without touching its $20.3M TPE from the Anthony Davis trade or its $15M MLE</a>. The Mavs can then formally sign Tarik Biberovi\u0107 after the six-team trade is official.",
+        "outlet": "x.com",
+        "source_url": "https://x.com/TheSteinLine/status/2074670438077133196"
+      },
+      {
+        "date": "2026-07-07",
+        "text": "Bobby Marks: A nice job by the Mavericks front office on this deal.Because of the Khris Middleton sign-and-trade, Dallas will preserve the big $20.8M Anthony Davis trade exception. To break it down on a smaller scale: Middleton/AJ Johnson for Santi Aldamax.com",
+        "text_html": "Bobby Marks: A nice job by the Mavericks front office on this deal. <a href=\"https://x.com/BobbyMarks42/status/2074659554147656100\" target=\"_blank\" style=\"color: #1a73e8;\">Because of the Khris Middleton sign-and-trade, Dallas will preserve the big $20.8M Anthony Davis trade exception</a>. To break it down on a smaller scale: Middleton/AJ Johnson for Santi Aldama",
+        "outlet": "x.com",
+        "source_url": "https://x.com/BobbyMarks42/status/2074659554147656100"
+      },
+      {
+        "date": "2026-07-01",
+        "text": "Bobby Marks:The $17M salary of Aldama goes into the $20.8M exception created from the Anthony Davis trade in February. Aldama has 2 years left: $17M and $17M (T) Johnson has 2 years left: $3.2M and $5.4M (T)x.com",
+        "text_html": "Bobby Marks: <a href=\"https://x.com/BobbyMarks42/status/2072454441530511709\" target=\"_blank\" style=\"color: #1a73e8;\">The $17M salary of Aldama goes into the $20.8M exception created from the Anthony Davis trade in February</a>. Aldama has 2 years left: $17M and $17M (T) Johnson has 2 years left: $3.2M and $5.4M (T)",
+        "outlet": "x.com",
+        "source_url": "https://x.com/BobbyMarks42/status/2072454441530511709"
+      },
+      {
+        "date": "2026-06-30",
+        "text": "League sources told Sharania and ESPN's Anthony Slater that a Warriors pursuit of Davis could be used as a motivational tactic to lure James to Golden State.The two won a championship together in 2020 with the Lakers and have remained close friends. However, there has yet to be tangible movement on the Davis front, league sources said.ESPN",
+        "text_html": "<a href=\"https://www.espn.com/nba/story/_/id/49230637/source-wizards-intent-shunning-trade-offers-anthony-davis\" target=\"_blank\" style=\"color: #1a73e8;\">League sources told Sharania and ESPN's Anthony Slater that a Warriors pursuit of Davis could be used as a motivational tactic to lure James to Golden State.</a> The two won a championship together in 2020 with the Lakers and have remained close friends. However, there has yet to be tangible movement on the Davis front, league sources said.",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/49230637/source-wizards-intent-shunning-trade-offers-anthony-davis"
+      },
+      {
+        "date": "2026-06-30",
+        "text": "Is LeBron\u2019s interest contingent on the Warriors acquiring his old Lakers teammate and fellow Paul client Anthony Davis, which would take the Warriors putting Jimmy Butler into any offer with the Wizards for salary-matching purposes? And would the Warriors have to commit to a long-term extension with Davis as part of this mammoth undertaking?All of that, according to multiple NBA sources, is mostly being assumed but has not been explicitly demanded by LeBron or Paul.And the Davis/Butler part of it, NBA sources underline, is currently more of a hypothetical idea than serious trade negotiations between the Wizards and Warriors.San Francisco Standard",
+        "text_html": "Is LeBron\u2019s interest contingent on the Warriors acquiring his old Lakers teammate and fellow Paul client Anthony Davis, which would take the Warriors putting Jimmy Butler into any offer with the Wizards for salary-matching purposes? And would the Warriors have to commit to a long-term extension with Davis as part of this mammoth undertaking? <a href=\"https://sfstandard.com/2026/06/29/lebron-james-warriors-free-agent-target/\" target=\"_blank\" style=\"color: #1a73e8;\">All of that, according to multiple NBA sources, is mostly being assumed but has not been explicitly demanded by LeBron or Paul.</a> And the Davis/Butler part of it, NBA sources underline, is currently more of a hypothetical idea than serious trade negotiations between the Wizards and Warriors.",
+        "outlet": "San Francisco Standard",
+        "source_url": "https://sfstandard.com/2026/06/29/lebron-james-warriors-free-agent-target/"
+      },
+      {
+        "date": "2026-06-30",
+        "text": "The Warriors are now signaling that Davis isn't in their plans, according to league sources who spoke on condition of anonymity to describe ongoing deliberations.Conversely, the Washington Wizards, the club that employs Davis, is very against the prospect of trading him to the Warriors (or, for now, anywhere), those sources said.New York Times",
+        "text_html": "<a href=\"https://www.nytimes.com/athletic/live-blogs/nba-free-agency-2026-live-updates-reaction-news-rumors/cFmfEjapdzzC/\" target=\"_blank\" style=\"color: #1a73e8;\">The Warriors are now signaling that Davis isn't in their plans, according to league sources who spoke on condition of anonymity to describe ongoing deliberations.</a> Conversely, the Washington Wizards, the club that employs Davis, is very against the prospect of trading him to the Warriors (or, for now, anywhere), those sources said.",
+        "outlet": "New York Times",
+        "source_url": "https://www.nytimes.com/athletic/live-blogs/nba-free-agency-2026-live-updates-reaction-news-rumors/cFmfEjapdzzC/"
+      },
+      {
+        "date": "2026-06-30",
+        "text": "Marc J. Spears: TheWashington Wizards are not interested in trading 10-time NBA All-Star forward Anthony Davis and are not listening to trade offers for him,a source told @espn @andscape. Another NBA team exec says Wizards GM Will Dawkins is a huge fan of AD.x.com",
+        "text_html": "Marc J. Spears: The <a href=\"https://x.com/MarcJSpears/status/2072061795293110451\" target=\"_blank\" style=\"color: #1a73e8;\">Washington Wizards are not interested in trading 10-time NBA All-Star forward Anthony Davis and are not listening to trade offers for him,</a> a source told @espn @andscape. Another NBA team exec says Wizards GM Will Dawkins is a huge fan of AD.",
+        "outlet": "x.com",
+        "source_url": "https://x.com/MarcJSpears/status/2072061795293110451"
+      },
+      {
+        "date": "2026-06-30",
+        "text": "Marc Stein:The Warriors are at the front of the line in pursuit of LeBron James in free agencyand league sources tell @TheSteinLine that Golden State is not operating as though it has a mandate to also pursue an Anthony Davis trade.x.com",
+        "text_html": "Marc Stein: <a href=\"https://x.com/TheSteinLine/status/2071990632747282690?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">The Warriors are at the front of the line in pursuit of LeBron James in free agency</a> and league sources tell @TheSteinLine that Golden State is not operating as though it has a mandate to also pursue an Anthony Davis trade.",
+        "outlet": "x.com",
+        "source_url": "https://x.com/TheSteinLine/status/2071990632747282690?s=20"
+      },
+      {
+        "date": "2026-06-30",
+        "text": "Brian Windhorst:\"It is possible that the Warriors could call the Wizards and make an offer and say we would love to trade for Anthony Davis, and that Anthony Davis could be traded and LeBron could come in free agency and those things could happen. Yes, it is possible... and then Draymond could then resign for a lower number and then add years onto the back to make himself whole. All of those things are possible.I will also tell you that the Warriors routinely, every transaction window, and what I mean by transaction windows, there is two basically per year, there is the summer and there is the trade deadline, every transaction window basically the Warriors try some gigantic home run swing.\"YouTube",
+        "text_html": "Brian Windhorst: <a href=\"https://www.youtube.com/watch?v=MUk0WRSEVGs&t=316s\" target=\"_blank\" style=\"color: #1a73e8;\">\"It is possible that the Warriors could call the Wizards and make an offer and say we would love to trade for Anthony Davis, and that Anthony Davis could be traded and LeBron could come in free agency and those things could happen. Yes, it is possible... and then Draymond could then resign for a lower number and then add years onto the back to make himself whole. All of those things are possible.</a> I will also tell you that the Warriors routinely, every transaction window, and what I mean by transaction windows, there is two basically per year, there is the summer and there is the trade deadline, every transaction window basically the Warriors try some gigantic home run swing.\"",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=MUk0WRSEVGs&t=316s"
+      },
+      {
+        "date": "2026-06-30",
+        "text": "Bobby Marks: \"I think what Mike (Dunleavy) and the group don't want to do is trade for Anthony Davis and give up a ton and then don't have LeBron coming. So like, that would be probably the worst-case scenario to think, right? Because it's going to, because here's the thing, and I said this on TV today, it's like, everybody's making it, we're talking about this and it's great. Andthe Wizards are over here saying like, what about us? You know, like, what is the incentive for the Wizards to trade Anthony Davis right now?And if I were them, and no offense to the Warriors, I would squeeze them out of everything possible because there is no incentive to do a deal with Golden State unless I'm getting three picks and a swap.\"YouTube",
+        "text_html": "Bobby Marks: \"I think what Mike (Dunleavy) and the group don't want to do is trade for Anthony Davis and give up a ton and then don't have LeBron coming. So like, that would be probably the worst-case scenario to think, right? Because it's going to, because here's the thing, and I said this on TV today, it's like, everybody's making it, we're talking about this and it's great. And <a href=\"https://www.youtube.com/watch?v=QLkDNmERGsc&t=276s\" target=\"_blank\" style=\"color: #1a73e8;\">the Wizards are over here saying like, what about us? You know, like, what is the incentive for the Wizards to trade Anthony Davis right now?</a> And if I were them, and no offense to the Warriors, I would squeeze them out of everything possible because there is no incentive to do a deal with Golden State unless I'm getting three picks and a swap.\"",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=QLkDNmERGsc&t=276s"
+      },
+      {
+        "date": "2026-06-30",
+        "text": "[Windhorst] \"The people on the league I'm talking to today are giving me the side eye and they're going,this is going end up with Draymond getting a new contract in GS, LeBron getting a new contract in LA and AD getting a new contract in Washington.\"reddit",
+        "text_html": "[Windhorst] \"The people on the league I'm talking to today are giving me the side eye and they're going, <a href=\"https://www.reddit.com/r/nba/comments/1uj0z9g/windhorst_the_people_on_the_league_im_talking_to/\" target=\"_blank\" style=\"color: #1a73e8;\">this is going end up with Draymond getting a new contract in GS, LeBron getting a new contract in LA and AD getting a new contract in Washington.\"</a>",
+        "outlet": "reddit",
+        "source_url": "https://www.reddit.com/r/nba/comments/1uj0z9g/windhorst_the_people_on_the_league_im_talking_to/"
+      },
+      {
+        "date": "2026-06-29",
+        "text": "That could also mean exploring a trade for Washington center Anthony Davis to help lure James, though there has yet to be tangible movement on that front,league sources said.ESPN",
+        "text_html": "<a href=\"https://www.espn.com/nba/story/_/id/49220120/kristaps-porzingis-agrees-2-year-40m-deal-warriors\" target=\"_blank\" style=\"color: #1a73e8;\">That could also mean exploring a trade for Washington center Anthony Davis to help lure James, though there has yet to be tangible movement on that front,</a> league sources said.",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/49220120/kristaps-porzingis-agrees-2-year-40m-deal-warriors"
+      },
+      {
+        "date": "2026-06-29",
+        "text": "Anthony Davis' agent, Rich Paul, met with the Washington Wizards on Sunday to discuss his future with the franchise.Davis is eligible this offseason for a four-year extension worth up to $275 million this offseason with the Wizards. As the Wizards recently signed Trae Young to a four-year, $212 million contract, Davis is clearly gauging whether he could receive a similar commitment from the franchise. Davis has also been the subject of trade rumors involving the Golden State Warriors with a potential reunion with LeBron James on the table.RealGM",
+        "text_html": "<a href=\"https://basketball.realgm.com/wiretap/286370/Rich-Paul-Met-With-Wizards-On-Sunday-To-Discuss-Future-Of-Anthony-Davis\" target=\"_blank\" style=\"color: #1a73e8;\">Anthony Davis' agent, Rich Paul, met with the Washington Wizards on Sunday to discuss his future with the franchise.</a> Davis is eligible this offseason for a four-year extension worth up to $275 million this offseason with the Wizards. As the Wizards recently signed Trae Young to a four-year, $212 million contract, Davis is clearly gauging whether he could receive a similar commitment from the franchise. Davis has also been the subject of trade rumors involving the Golden State Warriors with a potential reunion with LeBron James on the table.",
+        "outlet": "RealGM",
+        "source_url": "https://basketball.realgm.com/wiretap/286370/Rich-Paul-Met-With-Wizards-On-Sunday-To-Discuss-Future-Of-Anthony-Davis"
+      },
+      {
+        "date": "2026-06-29",
+        "text": "\"Anthony Davis just saw Trae Young get a $200 million new contract with the Wizards,\" said ESPN's Brian Windhorst on Monday's episode of Get Up. \"Yesterday, Rich Paul, who represents Draymond Green and LeBron and Anthony Davis met with the Wizards to discuss the future.\"I'm sure that Anthony Davis could be given a contract that would make him very happy to be in Washington. Maybe the Wizards are prepared to do that. The Wizards want to win immediately. \"If not, the Warriors could potentially come in there and make an offer. The Warriors were willing to trade four first round picks to get Giannis Antetokounmpo. Would they be willing to put that type of offer available for Anthony Davis?\"RealGM",
+        "text_html": "\"Anthony Davis just saw Trae Young get a $200 million new contract with the Wizards,\" said ESPN's Brian Windhorst on Monday's episode of Get Up. \"Yesterday, Rich Paul, who represents Draymond Green and LeBron and Anthony Davis met with the Wizards to discuss the future. <a href=\"https://basketball.realgm.com/wiretap/286370/Rich-Paul-Met-With-Wizards-On-Sunday-To-Discuss-Future-Of-Anthony-Davis\" target=\"_blank\" style=\"color: #1a73e8;\">\"I'm sure that Anthony Davis could be given a contract that would make him very happy to be in Washington. Maybe the Wizards are prepared to do that. The Wizards want to win immediately</a>. \"If not, the Warriors could potentially come in there and make an offer. The Warriors were willing to trade four first round picks to get Giannis Antetokounmpo. Would they be willing to put that type of offer available for Anthony Davis?\"",
+        "outlet": "RealGM",
+        "source_url": "https://basketball.realgm.com/wiretap/286370/Rich-Paul-Met-With-Wizards-On-Sunday-To-Discuss-Future-Of-Anthony-Davis"
+      },
+      {
+        "date": "2026-06-29",
+        "text": "Shams Charania: Golden State Warriors forwardDraymond Green is declining his $27.7 million player option to become a free agent,sources tell ESPN. This move gives the Warriors flexibility to pursue LeBron James in free agency and Anthony Davis via trade to form a Big 4.Bluesky",
+        "text_html": "Shams Charania: Golden State Warriors forward <a href=\"https://bsky.app/profile/shamsbot.bsky.social/post/3mpgnswdfps2l\" target=\"_blank\" style=\"color: #1a73e8;\">Draymond Green is declining his $27.7 million player option to become a free agent,</a> sources tell ESPN. This move gives the Warriors flexibility to pursue LeBron James in free agency and Anthony Davis via trade to form a Big 4.",
+        "outlet": "Bluesky",
+        "source_url": "https://bsky.app/profile/shamsbot.bsky.social/post/3mpgnswdfps2l"
+      },
+      {
+        "date": "2026-06-29",
+        "text": "Kevin O'Connor: This is a huge development.The Warriors have A LOT more flexibility now for pursuing LeBron James AND Anthony Davis, which as I reported last night is their plan.x.com",
+        "text_html": "Kevin O'Connor: This is a huge development. <a href=\"https://x.com/KevinOConnor/status/2071596819587453030\" target=\"_blank\" style=\"color: #1a73e8;\">The Warriors have A LOT more flexibility now for pursuing LeBron James AND Anthony Davis, which as I reported last night is their plan</a>.",
+        "outlet": "x.com",
+        "source_url": "https://x.com/KevinOConnor/status/2071596819587453030"
+      },
+      {
+        "date": "2026-06-29",
+        "text": "To sweeten the deal, journalist Kevin O\u2019Connor reported that Davis could also be lured to Dub Nation. However, NBA insider Marc Stein was quick to pump the brakes on those reports, explaining why such a blockbuster move is far from materializing. \u201cBased on everything I was told tonight, I don\u2019t think there is anything active there,\u201d Marc Stein stated on The All-NBA Podcast.\u201cThe notion of them trying to trade for AD first as a lure for LeBron, hard to see that happening in that sequence\u2026 I think we do know that there is a certain variable; the Warriors would love LeBron James. They\u2019re going to have maybe not quite $15 million.\u201dsportsnaut.com",
+        "text_html": "To sweeten the deal, journalist Kevin O\u2019Connor reported that Davis could also be lured to Dub Nation. However, NBA insider Marc Stein was quick to pump the brakes on those reports, explaining why such a blockbuster move is far from materializing. \u201cBased on everything I was told tonight, I don\u2019t think there is anything active there,\u201d Marc Stein stated on The All-NBA Podcast. <a href=\"https://sportsnaut.com/nba/warriors-alleged-plan-to-lure-lebron-james-with-anthony-davis-addressed-by-nba-insider\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cThe notion of them trying to trade for AD first as a lure for LeBron, hard to see that happening in that sequence\u2026 I think we do know that there is a certain variable; the Warriors would love LeBron James. They\u2019re going to have maybe not quite $15 million.\u201d</a>",
+        "outlet": "sportsnaut.com",
+        "source_url": "https://sportsnaut.com/nba/warriors-alleged-plan-to-lure-lebron-james-with-anthony-davis-addressed-by-nba-insider"
+      },
+      {
+        "date": "2026-06-28",
+        "text": "The Warriors are attempting to trade for Wizards big Anthony Davis and then sign Lakers free agent forward LeBron James,according to multiple league sources.Yahoo! Sports",
+        "text_html": "<a href=\"https://sports.yahoo.com/nba/article/warriors-pursuing-lebron-james-and-anthony-davis-kawhi-leonard-on-the-move-heres-the-latest-trade-chatter-013856863.html\" target=\"_blank\" style=\"color: #1a73e8;\">The Warriors are attempting to trade for Wizards big Anthony Davis and then sign Lakers free agent forward LeBron James,</a> according to multiple league sources.",
+        "outlet": "Yahoo! Sports",
+        "source_url": "https://sports.yahoo.com/nba/article/warriors-pursuing-lebron-james-and-anthony-davis-kawhi-leonard-on-the-move-heres-the-latest-trade-chatter-013856863.html"
+      },
+      {
+        "date": "2026-06-28",
+        "text": "Sources say the Warriors hope adding Davis would help lure LeBron from Los Angeles to the Bay Area once free agency officially opens on June 30.The pitch would be simple: reunite with AD, team up with Steph Curry and Draymond Green, play for Steve Kerr, and chase one more championship with a roster of legends.Yahoo! Sports",
+        "text_html": "<a href=\"https://sports.yahoo.com/nba/article/warriors-pursuing-lebron-james-and-anthony-davis-kawhi-leonard-on-the-move-heres-the-latest-trade-chatter-013856863.html\" target=\"_blank\" style=\"color: #1a73e8;\">Sources say the Warriors hope adding Davis would help lure LeBron from Los Angeles to the Bay Area once free agency officially opens on June 30.</a> The pitch would be simple: reunite with AD, team up with Steph Curry and Draymond Green, play for Steve Kerr, and chase one more championship with a roster of legends.",
+        "outlet": "Yahoo! Sports",
+        "source_url": "https://sports.yahoo.com/nba/article/warriors-pursuing-lebron-james-and-anthony-davis-kawhi-leonard-on-the-move-heres-the-latest-trade-chatter-013856863.html"
+      },
+      {
+        "date": "2026-06-27",
+        "text": "Portland previously attempted to trade for Giannis Antetokounmpo this offseason, but he communicated that he didn't have interest in signing long-term with the franchise.The Blazers could also pursue a trade for Anthony Davis this offseason as the Washington Wizards consider their options. The Blazers could offer a combination of draft capital, Jerami Grant's expiring contract as salary ballast, and young players such as Scoot Henderson and Sharron Sharpe.RealGM",
+        "text_html": "Portland previously attempted to trade for Giannis Antetokounmpo this offseason, but he communicated that he didn't have interest in signing long-term with the franchise. <a href=\"https://basketball.realgm.com/wiretap/286322/Blazers-Have-Trade-Interest-In-Jaylen-Brown-Anthony-Davis\" target=\"_blank\" style=\"color: #1a73e8;\">The Blazers could also pursue a trade for Anthony Davis this offseason as the Washington Wizards consider their options</a>. The Blazers could offer a combination of draft capital, Jerami Grant's expiring contract as salary ballast, and young players such as Scoot Henderson and Sharron Sharpe.",
+        "outlet": "RealGM",
+        "source_url": "https://basketball.realgm.com/wiretap/286322/Blazers-Have-Trade-Interest-In-Jaylen-Brown-Anthony-Davis"
+      },
+      {
+        "date": "2026-06-22",
+        "text": "In his latest NBA insider report for Bleacher Report, Jake Fischer announced that the Blazers are open to the possibility of trading for the star big man should the Washington Wizards like to entertain a trade. \"Portland, to our understanding, as they have been floating around and poking around in Giannis trade conversations, we've been told that they would look to pivot to Anthony Davis on the trade market,\" Fischer said. \"They obviously have Jaylen Brown interest as well.\"We've been told that Portland will be waiting there, with open arms, potentially, to trade for Anthony Davis in that event [that he becomes available].\"BasketNews",
+        "text_html": "In his latest NBA insider report for Bleacher Report, Jake Fischer announced that the Blazers are open to the possibility of trading for the star big man should the Washington Wizards like to entertain a trade. \"Portland, to our understanding, as they have been floating around and poking around in Giannis trade conversations, we've been told that they would look to pivot to Anthony Davis on the trade market,\" Fischer said. \"They obviously have Jaylen Brown interest as well. <a href=\"https://basketnews.com/news-250325-blazers-pursuing-potential-major-trade-with-former-lakers-superstar.html?mrfcid=202606236a39cfb64046352370ebdc77\" target=\"_blank\" style=\"color: #1a73e8;\">\"We've been told that Portland will be waiting there, with open arms, potentially, to trade for Anthony Davis in that event [that he becomes available].\"</a>",
+        "outlet": "BasketNews",
+        "source_url": "https://basketnews.com/news-250325-blazers-pursuing-potential-major-trade-with-former-lakers-superstar.html?mrfcid=202606236a39cfb64046352370ebdc77"
+      },
+      {
+        "date": "2026-06-22",
+        "text": "Fullcourtpass:Anthony Davis and his camp have been seeking a max extension, and it\u2019s plausible to consider him a potential trade candidate out of Washington,per @JakeLFischer (h/t @TheDunkCentral)x.com",
+        "text_html": "Fullcourtpass: <a href=\"https://x.com/Fullcourtpass/status/2069174924187517120\" target=\"_blank\" style=\"color: #1a73e8;\">Anthony Davis and his camp have been seeking a max extension, and it\u2019s plausible to consider him a potential trade candidate out of Washington,</a> per @JakeLFischer (h/t @TheDunkCentral)",
+        "outlet": "x.com",
+        "source_url": "https://x.com/Fullcourtpass/status/2069174924187517120"
+      }
+    ],
     "Klay Thompson": [
       {
         "date": "2026-07-19",
@@ -2491,13 +2721,6 @@
         "text_html": "Contrary to recent reports and speculation, the Los Angeles Lakers appear not to be in any potential trade frameworks that would help complete the Giannis Antetokounmpo blockbuster trade. Appearing on ALL NBA Podcast, seasoned NBA insider <a href=\"https://basketnews.com/news-250225-lakers-get-devastating-bad-news-from-nba-insider-on-giannis-trade-inclusion.html\" target=\"_blank\" style=\"color: #1a73e8;\">Marc Stein has dismissed the Lakers' inclusion in the ongoing Giannis trade sweepstakes</a>. \"I have to be honest based on what I\u2019ve heard. I haven\u2019t heard that,\" Stein revealed about LA potentially being involved. \"I know there was all kinds of speculation yesterday\u2014deal is closed, deal is happening tonight\u2014but I have not heard that the Lakers would be part of a Giannis multi-team construction. \"So yeah, maybe it could happen, I\u2019m not going to say no because I haven\u2019t heard everything, but I just have to be candid with you\u2014that one has not crossed my desk.\"",
         "outlet": "BasketNews",
         "source_url": "https://basketnews.com/news-250225-lakers-get-devastating-bad-news-from-nba-insider-on-giannis-trade-inclusion.html"
-      },
-      {
-        "date": "2026-06-21",
-        "text": "Barry Jackson:The Bucks, incidentally, are VERY much aware of how much Giannis wants to play in Miami.They seem determined to leave the Heat in a compromised roster position so that the Heat also has a hard time doing what the Bucks couldn't do the past 5 years (build a championship team around him). That's the reason I've been saying that it serves Giannis' interest to make clear to the world that he will sign an extension only with Miami, thus dissuading other potential bidders. That could allow Heat to keep another asset (Kas? Pelle?) It helps both Giannis and Heat, but Giannis camp has not yet been inclined to go that far yet.... Meanwhile, ProBasketballTalk reporting today that Orlando isn't involved with Giannis and plans to 'run it back.'x.com",
-        "text_html": "Barry Jackson: <a href=\"https://x.com/flasportsbuzz/status/2068399488360915033?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">The Bucks, incidentally, are VERY much aware of how much Giannis wants to play in Miami.</a> They seem determined to leave the Heat in a compromised roster position so that the Heat also has a hard time doing what the Bucks couldn't do the past 5 years (build a championship team around him). That's the reason I've been saying that it serves Giannis' interest to make clear to the world that he will sign an extension only with Miami, thus dissuading other potential bidders. That could allow Heat to keep another asset (Kas? Pelle?) It helps both Giannis and Heat, but Giannis camp has not yet been inclined to go that far yet.... Meanwhile, ProBasketballTalk reporting today that Orlando isn't involved with Giannis and plans to 'run it back.'",
-        "outlet": "x.com",
-        "source_url": "https://x.com/flasportsbuzz/status/2068399488360915033?s=20"
       }
     ],
     "Thanasis Antetokounmpo": [
@@ -3238,190 +3461,6 @@
         "text_html": "Boston Celtics All-Star Jaylen Brown has been the subject of rumors since his season ended, which could split as one half of the 2024 champion All-NBA tandem alongside Jayson Tatum, of which Rich Paul is warning the front office. While looking back on his client LeBron James' final season with the Cleveland Cavs, Paul, James' agent, reflected on how the loss of Kyrie Irving humbled LeBron. For Paul, it was a split between two All-Stars that could have been avoided if the two had spoken to one another beforehand. As for the Celtics, Paul believes Brown and Tatum should be having a serious talk ahead of the 2026-27 season, he said, per Game Over podcast. <a href=\"https://clutchpoints.com/nba/boston-celtics/celtics-news-rich-paul-cautiously-warns-splitting-jayson-tatum-jaylen-brown-tandem\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cI seen the effect that it had on LeBron when Kyrie was traded,\u201d Paul said. \u201cIt's only a problem because you don't sit down and communicate,\u201d Paul said. \u201cHow can it be a problem when you making $300 million, and I'm making $300 million. What's the problem? What color is your AMEX? Same color as mine. How the hell can it be a problem?\u201d</a>",
         "outlet": "Clutch Points",
         "source_url": "https://clutchpoints.com/nba/boston-celtics/celtics-news-rich-paul-cautiously-warns-splitting-jayson-tatum-jaylen-brown-tandem"
-      }
-    ],
-    "Anthony Davis": [
-      {
-        "date": "2026-07-16",
-        "text": "Heat Central:\u201cHeat, complete contender the moment he gets there. The Warriors would need a little work still. The big thing with the Warriors was packaging LeBron James with another star player\u2026. There\u2019s been no real traction on the Warriors and AD\u2026 They are to my knowledge behind other teams such as a Miami, CLE, PHI.\u201dShams also mentioned the Sixers didn\u2019t even get on his list until they got Jaylen Brown.x.com",
-        "text_html": "Heat Central: <a href=\"https://x.com/TheHeatCentral/status/2077819394848157916?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cHeat, complete contender the moment he gets there. The Warriors would need a little work still. The big thing with the Warriors was packaging LeBron James with another star player\u2026. There\u2019s been no real traction on the Warriors and AD\u2026 They are to my knowledge behind other teams such as a Miami, CLE, PHI.\u201d</a> Shams also mentioned the Sixers didn\u2019t even get on his list until they got Jaylen Brown.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/TheHeatCentral/status/2077819394848157916?s=20"
-      },
-      {
-        "date": "2026-07-15",
-        "text": "Appearing on SiriusXM NBA Radio, franchise general manager Will Dawkins reiterated that both sides are fully committed to moving along despite trade chatter and speculation.\"We kind of don't worry too much about that stuff. Like, AD wants to be in DC,\" Dawkins said. \"We're going to keep him there. I think the important thing for us is just building on the summer and making sure we're ready to go at the beginning of the year. \"He was out here with all of our guys. We had every single one of our team members here for Game 1, so we had all 17 guys on the roster here, and he was a big part of what we had going on, working out and leading the group workouts for our veteran players. That'll be a fun summer. Obviously, we'll have a conversation when we're officially allowed to have one, but the plan is to be big, strong, and skilled.\"BasketNews",
-        "text_html": "Appearing on SiriusXM NBA Radio, franchise general manager Will Dawkins reiterated that both sides are fully committed to moving along despite trade chatter and speculation. <a href=\"https://basketnews.com/news-252019-anthony-davis-wizards-commitment-despite-trade-rumors-revealed.html\" target=\"_blank\" style=\"color: #1a73e8;\">\"We kind of don't worry too much about that stuff. Like, AD wants to be in DC,\" Dawkins said. \"We're going to keep him there. I think the important thing for us is just building on the summer and making sure we're ready to go at the beginning of the year</a>. \"He was out here with all of our guys. We had every single one of our team members here for Game 1, so we had all 17 guys on the roster here, and he was a big part of what we had going on, working out and leading the group workouts for our veteran players. That'll be a fun summer. Obviously, we'll have a conversation when we're officially allowed to have one, but the plan is to be big, strong, and skilled.\"",
-        "outlet": "BasketNews",
-        "source_url": "https://basketnews.com/news-252019-anthony-davis-wizards-commitment-despite-trade-rumors-revealed.html"
-      },
-      {
-        "date": "2026-07-08",
-        "text": "Part of LeBron\u2019s appeal to the Warriors is the low risk. It would be a short-term signing without the loss of a draft pick to acquire him.Despite some league sources believing that an asset-dependent trade for Anthony Davis might be necessary to lure James, the Warriors haven\u2019t been told that directly and haven\u2019t been engaging Washington on it,team sources said.TSN",
-        "text_html": "Part of LeBron\u2019s appeal to the Warriors is the low risk. It would be a short-term signing without the loss of a draft pick to acquire him. <a href=\"https://www.tsn.ca/nba/article/nba-free-agency-intel-where-is-lebron-going-whats-next-for-lakers-n1-49287883/\" target=\"_blank\" style=\"color: #1a73e8;\">Despite some league sources believing that an asset-dependent trade for Anthony Davis might be necessary to lure James, the Warriors haven\u2019t been told that directly and haven\u2019t been engaging Washington on it,</a> team sources said.",
-        "outlet": "TSN",
-        "source_url": "https://www.tsn.ca/nba/article/nba-free-agency-intel-where-is-lebron-going-whats-next-for-lakers-n1-49287883/"
-      },
-      {
-        "date": "2026-07-08",
-        "text": "\"I think LeBron's been open-minded, but the Warriors' whole plan going into free agency was, 'Okay, let's see if we can get Stephen Curry, Draymond Green, LeBron James, and Anthony Davis,'\" said ESPN's Shams Charania on Stephen A. Smith's radio show. \"I think the big draw for LeBron with the Warriors would be seeing if there's an avenue to be a package deal with Davis,\" added Charania. \"Short of that,I don't think the Warriors are high on his list, and I think the Warriors themselves believe they're not on that list unless they're able to trade for Anthony Davis.\"RealGM",
-        "text_html": "\"I think LeBron's been open-minded, but the Warriors' whole plan going into free agency was, 'Okay, let's see if we can get Stephen Curry, Draymond Green, LeBron James, and Anthony Davis,'\" said ESPN's Shams Charania on Stephen A. Smith's radio show. \"I think the big draw for LeBron with the Warriors would be seeing if there's an avenue to be a package deal with Davis,\" added Charania. \"Short of that, <a href=\"https://basketball.realgm.com/wiretap/286605/Warriors-Dont-Believe-Theyll-Sign-LeBron-James-Unless-They-Trade-For-Anthony-Davis\" target=\"_blank\" style=\"color: #1a73e8;\">I don't think the Warriors are high on his list, and I think the Warriors themselves believe they're not on that list unless they're able to trade for Anthony Davis.\"</a>",
-        "outlet": "RealGM",
-        "source_url": "https://basketball.realgm.com/wiretap/286605/Warriors-Dont-Believe-Theyll-Sign-LeBron-James-Unless-They-Trade-For-Anthony-Davis"
-      },
-      {
-        "date": "2026-07-07",
-        "text": "Marc Stein:By helping Khris Middleton get to Washington via sign-and-trade, Dallas can acquire Santi Aldama and Marcus Sasser without touching its $20.3M TPE from the Anthony Davis trade or its $15M MLE. The Mavs can then formally sign Tarik Biberovi\u0107 after the six-team trade is official.x.com",
-        "text_html": "Marc Stein: <a href=\"https://x.com/TheSteinLine/status/2074670438077133196\" target=\"_blank\" style=\"color: #1a73e8;\">By helping Khris Middleton get to Washington via sign-and-trade, Dallas can acquire Santi Aldama and Marcus Sasser without touching its $20.3M TPE from the Anthony Davis trade or its $15M MLE</a>. The Mavs can then formally sign Tarik Biberovi\u0107 after the six-team trade is official.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/TheSteinLine/status/2074670438077133196"
-      },
-      {
-        "date": "2026-07-07",
-        "text": "Bobby Marks: A nice job by the Mavericks front office on this deal.Because of the Khris Middleton sign-and-trade, Dallas will preserve the big $20.8M Anthony Davis trade exception. To break it down on a smaller scale: Middleton/AJ Johnson for Santi Aldamax.com",
-        "text_html": "Bobby Marks: A nice job by the Mavericks front office on this deal. <a href=\"https://x.com/BobbyMarks42/status/2074659554147656100\" target=\"_blank\" style=\"color: #1a73e8;\">Because of the Khris Middleton sign-and-trade, Dallas will preserve the big $20.8M Anthony Davis trade exception</a>. To break it down on a smaller scale: Middleton/AJ Johnson for Santi Aldama",
-        "outlet": "x.com",
-        "source_url": "https://x.com/BobbyMarks42/status/2074659554147656100"
-      },
-      {
-        "date": "2026-07-01",
-        "text": "Bobby Marks:The $17M salary of Aldama goes into the $20.8M exception created from the Anthony Davis trade in February. Aldama has 2 years left: $17M and $17M (T) Johnson has 2 years left: $3.2M and $5.4M (T)x.com",
-        "text_html": "Bobby Marks: <a href=\"https://x.com/BobbyMarks42/status/2072454441530511709\" target=\"_blank\" style=\"color: #1a73e8;\">The $17M salary of Aldama goes into the $20.8M exception created from the Anthony Davis trade in February</a>. Aldama has 2 years left: $17M and $17M (T) Johnson has 2 years left: $3.2M and $5.4M (T)",
-        "outlet": "x.com",
-        "source_url": "https://x.com/BobbyMarks42/status/2072454441530511709"
-      },
-      {
-        "date": "2026-06-30",
-        "text": "League sources told Sharania and ESPN's Anthony Slater that a Warriors pursuit of Davis could be used as a motivational tactic to lure James to Golden State.The two won a championship together in 2020 with the Lakers and have remained close friends. However, there has yet to be tangible movement on the Davis front, league sources said.ESPN",
-        "text_html": "<a href=\"https://www.espn.com/nba/story/_/id/49230637/source-wizards-intent-shunning-trade-offers-anthony-davis\" target=\"_blank\" style=\"color: #1a73e8;\">League sources told Sharania and ESPN's Anthony Slater that a Warriors pursuit of Davis could be used as a motivational tactic to lure James to Golden State.</a> The two won a championship together in 2020 with the Lakers and have remained close friends. However, there has yet to be tangible movement on the Davis front, league sources said.",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/49230637/source-wizards-intent-shunning-trade-offers-anthony-davis"
-      },
-      {
-        "date": "2026-06-30",
-        "text": "Is LeBron\u2019s interest contingent on the Warriors acquiring his old Lakers teammate and fellow Paul client Anthony Davis, which would take the Warriors putting Jimmy Butler into any offer with the Wizards for salary-matching purposes? And would the Warriors have to commit to a long-term extension with Davis as part of this mammoth undertaking?All of that, according to multiple NBA sources, is mostly being assumed but has not been explicitly demanded by LeBron or Paul.And the Davis/Butler part of it, NBA sources underline, is currently more of a hypothetical idea than serious trade negotiations between the Wizards and Warriors.San Francisco Standard",
-        "text_html": "Is LeBron\u2019s interest contingent on the Warriors acquiring his old Lakers teammate and fellow Paul client Anthony Davis, which would take the Warriors putting Jimmy Butler into any offer with the Wizards for salary-matching purposes? And would the Warriors have to commit to a long-term extension with Davis as part of this mammoth undertaking? <a href=\"https://sfstandard.com/2026/06/29/lebron-james-warriors-free-agent-target/\" target=\"_blank\" style=\"color: #1a73e8;\">All of that, according to multiple NBA sources, is mostly being assumed but has not been explicitly demanded by LeBron or Paul.</a> And the Davis/Butler part of it, NBA sources underline, is currently more of a hypothetical idea than serious trade negotiations between the Wizards and Warriors.",
-        "outlet": "San Francisco Standard",
-        "source_url": "https://sfstandard.com/2026/06/29/lebron-james-warriors-free-agent-target/"
-      },
-      {
-        "date": "2026-06-30",
-        "text": "The Warriors are now signaling that Davis isn't in their plans, according to league sources who spoke on condition of anonymity to describe ongoing deliberations.Conversely, the Washington Wizards, the club that employs Davis, is very against the prospect of trading him to the Warriors (or, for now, anywhere), those sources said.New York Times",
-        "text_html": "<a href=\"https://www.nytimes.com/athletic/live-blogs/nba-free-agency-2026-live-updates-reaction-news-rumors/cFmfEjapdzzC/\" target=\"_blank\" style=\"color: #1a73e8;\">The Warriors are now signaling that Davis isn't in their plans, according to league sources who spoke on condition of anonymity to describe ongoing deliberations.</a> Conversely, the Washington Wizards, the club that employs Davis, is very against the prospect of trading him to the Warriors (or, for now, anywhere), those sources said.",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/live-blogs/nba-free-agency-2026-live-updates-reaction-news-rumors/cFmfEjapdzzC/"
-      },
-      {
-        "date": "2026-06-30",
-        "text": "Marc J. Spears: TheWashington Wizards are not interested in trading 10-time NBA All-Star forward Anthony Davis and are not listening to trade offers for him,a source told @espn @andscape. Another NBA team exec says Wizards GM Will Dawkins is a huge fan of AD.x.com",
-        "text_html": "Marc J. Spears: The <a href=\"https://x.com/MarcJSpears/status/2072061795293110451\" target=\"_blank\" style=\"color: #1a73e8;\">Washington Wizards are not interested in trading 10-time NBA All-Star forward Anthony Davis and are not listening to trade offers for him,</a> a source told @espn @andscape. Another NBA team exec says Wizards GM Will Dawkins is a huge fan of AD.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/MarcJSpears/status/2072061795293110451"
-      },
-      {
-        "date": "2026-06-30",
-        "text": "Marc Stein:The Warriors are at the front of the line in pursuit of LeBron James in free agencyand league sources tell @TheSteinLine that Golden State is not operating as though it has a mandate to also pursue an Anthony Davis trade.x.com",
-        "text_html": "Marc Stein: <a href=\"https://x.com/TheSteinLine/status/2071990632747282690?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">The Warriors are at the front of the line in pursuit of LeBron James in free agency</a> and league sources tell @TheSteinLine that Golden State is not operating as though it has a mandate to also pursue an Anthony Davis trade.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/TheSteinLine/status/2071990632747282690?s=20"
-      },
-      {
-        "date": "2026-06-30",
-        "text": "Brian Windhorst:\"It is possible that the Warriors could call the Wizards and make an offer and say we would love to trade for Anthony Davis, and that Anthony Davis could be traded and LeBron could come in free agency and those things could happen. Yes, it is possible... and then Draymond could then resign for a lower number and then add years onto the back to make himself whole. All of those things are possible.I will also tell you that the Warriors routinely, every transaction window, and what I mean by transaction windows, there is two basically per year, there is the summer and there is the trade deadline, every transaction window basically the Warriors try some gigantic home run swing.\"YouTube",
-        "text_html": "Brian Windhorst: <a href=\"https://www.youtube.com/watch?v=MUk0WRSEVGs&t=316s\" target=\"_blank\" style=\"color: #1a73e8;\">\"It is possible that the Warriors could call the Wizards and make an offer and say we would love to trade for Anthony Davis, and that Anthony Davis could be traded and LeBron could come in free agency and those things could happen. Yes, it is possible... and then Draymond could then resign for a lower number and then add years onto the back to make himself whole. All of those things are possible.</a> I will also tell you that the Warriors routinely, every transaction window, and what I mean by transaction windows, there is two basically per year, there is the summer and there is the trade deadline, every transaction window basically the Warriors try some gigantic home run swing.\"",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=MUk0WRSEVGs&t=316s"
-      },
-      {
-        "date": "2026-06-30",
-        "text": "Bobby Marks: \"I think what Mike (Dunleavy) and the group don't want to do is trade for Anthony Davis and give up a ton and then don't have LeBron coming. So like, that would be probably the worst-case scenario to think, right? Because it's going to, because here's the thing, and I said this on TV today, it's like, everybody's making it, we're talking about this and it's great. Andthe Wizards are over here saying like, what about us? You know, like, what is the incentive for the Wizards to trade Anthony Davis right now?And if I were them, and no offense to the Warriors, I would squeeze them out of everything possible because there is no incentive to do a deal with Golden State unless I'm getting three picks and a swap.\"YouTube",
-        "text_html": "Bobby Marks: \"I think what Mike (Dunleavy) and the group don't want to do is trade for Anthony Davis and give up a ton and then don't have LeBron coming. So like, that would be probably the worst-case scenario to think, right? Because it's going to, because here's the thing, and I said this on TV today, it's like, everybody's making it, we're talking about this and it's great. And <a href=\"https://www.youtube.com/watch?v=QLkDNmERGsc&t=276s\" target=\"_blank\" style=\"color: #1a73e8;\">the Wizards are over here saying like, what about us? You know, like, what is the incentive for the Wizards to trade Anthony Davis right now?</a> And if I were them, and no offense to the Warriors, I would squeeze them out of everything possible because there is no incentive to do a deal with Golden State unless I'm getting three picks and a swap.\"",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=QLkDNmERGsc&t=276s"
-      },
-      {
-        "date": "2026-06-30",
-        "text": "[Windhorst] \"The people on the league I'm talking to today are giving me the side eye and they're going,this is going end up with Draymond getting a new contract in GS, LeBron getting a new contract in LA and AD getting a new contract in Washington.\"reddit",
-        "text_html": "[Windhorst] \"The people on the league I'm talking to today are giving me the side eye and they're going, <a href=\"https://www.reddit.com/r/nba/comments/1uj0z9g/windhorst_the_people_on_the_league_im_talking_to/\" target=\"_blank\" style=\"color: #1a73e8;\">this is going end up with Draymond getting a new contract in GS, LeBron getting a new contract in LA and AD getting a new contract in Washington.\"</a>",
-        "outlet": "reddit",
-        "source_url": "https://www.reddit.com/r/nba/comments/1uj0z9g/windhorst_the_people_on_the_league_im_talking_to/"
-      },
-      {
-        "date": "2026-06-29",
-        "text": "That could also mean exploring a trade for Washington center Anthony Davis to help lure James, though there has yet to be tangible movement on that front,league sources said.ESPN",
-        "text_html": "<a href=\"https://www.espn.com/nba/story/_/id/49220120/kristaps-porzingis-agrees-2-year-40m-deal-warriors\" target=\"_blank\" style=\"color: #1a73e8;\">That could also mean exploring a trade for Washington center Anthony Davis to help lure James, though there has yet to be tangible movement on that front,</a> league sources said.",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/49220120/kristaps-porzingis-agrees-2-year-40m-deal-warriors"
-      },
-      {
-        "date": "2026-06-29",
-        "text": "Anthony Davis' agent, Rich Paul, met with the Washington Wizards on Sunday to discuss his future with the franchise.Davis is eligible this offseason for a four-year extension worth up to $275 million this offseason with the Wizards. As the Wizards recently signed Trae Young to a four-year, $212 million contract, Davis is clearly gauging whether he could receive a similar commitment from the franchise. Davis has also been the subject of trade rumors involving the Golden State Warriors with a potential reunion with LeBron James on the table.RealGM",
-        "text_html": "<a href=\"https://basketball.realgm.com/wiretap/286370/Rich-Paul-Met-With-Wizards-On-Sunday-To-Discuss-Future-Of-Anthony-Davis\" target=\"_blank\" style=\"color: #1a73e8;\">Anthony Davis' agent, Rich Paul, met with the Washington Wizards on Sunday to discuss his future with the franchise.</a> Davis is eligible this offseason for a four-year extension worth up to $275 million this offseason with the Wizards. As the Wizards recently signed Trae Young to a four-year, $212 million contract, Davis is clearly gauging whether he could receive a similar commitment from the franchise. Davis has also been the subject of trade rumors involving the Golden State Warriors with a potential reunion with LeBron James on the table.",
-        "outlet": "RealGM",
-        "source_url": "https://basketball.realgm.com/wiretap/286370/Rich-Paul-Met-With-Wizards-On-Sunday-To-Discuss-Future-Of-Anthony-Davis"
-      },
-      {
-        "date": "2026-06-29",
-        "text": "\"Anthony Davis just saw Trae Young get a $200 million new contract with the Wizards,\" said ESPN's Brian Windhorst on Monday's episode of Get Up. \"Yesterday, Rich Paul, who represents Draymond Green and LeBron and Anthony Davis met with the Wizards to discuss the future.\"I'm sure that Anthony Davis could be given a contract that would make him very happy to be in Washington. Maybe the Wizards are prepared to do that. The Wizards want to win immediately. \"If not, the Warriors could potentially come in there and make an offer. The Warriors were willing to trade four first round picks to get Giannis Antetokounmpo. Would they be willing to put that type of offer available for Anthony Davis?\"RealGM",
-        "text_html": "\"Anthony Davis just saw Trae Young get a $200 million new contract with the Wizards,\" said ESPN's Brian Windhorst on Monday's episode of Get Up. \"Yesterday, Rich Paul, who represents Draymond Green and LeBron and Anthony Davis met with the Wizards to discuss the future. <a href=\"https://basketball.realgm.com/wiretap/286370/Rich-Paul-Met-With-Wizards-On-Sunday-To-Discuss-Future-Of-Anthony-Davis\" target=\"_blank\" style=\"color: #1a73e8;\">\"I'm sure that Anthony Davis could be given a contract that would make him very happy to be in Washington. Maybe the Wizards are prepared to do that. The Wizards want to win immediately</a>. \"If not, the Warriors could potentially come in there and make an offer. The Warriors were willing to trade four first round picks to get Giannis Antetokounmpo. Would they be willing to put that type of offer available for Anthony Davis?\"",
-        "outlet": "RealGM",
-        "source_url": "https://basketball.realgm.com/wiretap/286370/Rich-Paul-Met-With-Wizards-On-Sunday-To-Discuss-Future-Of-Anthony-Davis"
-      },
-      {
-        "date": "2026-06-29",
-        "text": "Shams Charania: Golden State Warriors forwardDraymond Green is declining his $27.7 million player option to become a free agent,sources tell ESPN. This move gives the Warriors flexibility to pursue LeBron James in free agency and Anthony Davis via trade to form a Big 4.Bluesky",
-        "text_html": "Shams Charania: Golden State Warriors forward <a href=\"https://bsky.app/profile/shamsbot.bsky.social/post/3mpgnswdfps2l\" target=\"_blank\" style=\"color: #1a73e8;\">Draymond Green is declining his $27.7 million player option to become a free agent,</a> sources tell ESPN. This move gives the Warriors flexibility to pursue LeBron James in free agency and Anthony Davis via trade to form a Big 4.",
-        "outlet": "Bluesky",
-        "source_url": "https://bsky.app/profile/shamsbot.bsky.social/post/3mpgnswdfps2l"
-      },
-      {
-        "date": "2026-06-29",
-        "text": "Kevin O'Connor: This is a huge development.The Warriors have A LOT more flexibility now for pursuing LeBron James AND Anthony Davis, which as I reported last night is their plan.x.com",
-        "text_html": "Kevin O'Connor: This is a huge development. <a href=\"https://x.com/KevinOConnor/status/2071596819587453030\" target=\"_blank\" style=\"color: #1a73e8;\">The Warriors have A LOT more flexibility now for pursuing LeBron James AND Anthony Davis, which as I reported last night is their plan</a>.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/KevinOConnor/status/2071596819587453030"
-      },
-      {
-        "date": "2026-06-29",
-        "text": "To sweeten the deal, journalist Kevin O\u2019Connor reported that Davis could also be lured to Dub Nation. However, NBA insider Marc Stein was quick to pump the brakes on those reports, explaining why such a blockbuster move is far from materializing. \u201cBased on everything I was told tonight, I don\u2019t think there is anything active there,\u201d Marc Stein stated on The All-NBA Podcast.\u201cThe notion of them trying to trade for AD first as a lure for LeBron, hard to see that happening in that sequence\u2026 I think we do know that there is a certain variable; the Warriors would love LeBron James. They\u2019re going to have maybe not quite $15 million.\u201dsportsnaut.com",
-        "text_html": "To sweeten the deal, journalist Kevin O\u2019Connor reported that Davis could also be lured to Dub Nation. However, NBA insider Marc Stein was quick to pump the brakes on those reports, explaining why such a blockbuster move is far from materializing. \u201cBased on everything I was told tonight, I don\u2019t think there is anything active there,\u201d Marc Stein stated on The All-NBA Podcast. <a href=\"https://sportsnaut.com/nba/warriors-alleged-plan-to-lure-lebron-james-with-anthony-davis-addressed-by-nba-insider\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cThe notion of them trying to trade for AD first as a lure for LeBron, hard to see that happening in that sequence\u2026 I think we do know that there is a certain variable; the Warriors would love LeBron James. They\u2019re going to have maybe not quite $15 million.\u201d</a>",
-        "outlet": "sportsnaut.com",
-        "source_url": "https://sportsnaut.com/nba/warriors-alleged-plan-to-lure-lebron-james-with-anthony-davis-addressed-by-nba-insider"
-      },
-      {
-        "date": "2026-06-28",
-        "text": "The Warriors are attempting to trade for Wizards big Anthony Davis and then sign Lakers free agent forward LeBron James,according to multiple league sources.Yahoo! Sports",
-        "text_html": "<a href=\"https://sports.yahoo.com/nba/article/warriors-pursuing-lebron-james-and-anthony-davis-kawhi-leonard-on-the-move-heres-the-latest-trade-chatter-013856863.html\" target=\"_blank\" style=\"color: #1a73e8;\">The Warriors are attempting to trade for Wizards big Anthony Davis and then sign Lakers free agent forward LeBron James,</a> according to multiple league sources.",
-        "outlet": "Yahoo! Sports",
-        "source_url": "https://sports.yahoo.com/nba/article/warriors-pursuing-lebron-james-and-anthony-davis-kawhi-leonard-on-the-move-heres-the-latest-trade-chatter-013856863.html"
-      },
-      {
-        "date": "2026-06-28",
-        "text": "Sources say the Warriors hope adding Davis would help lure LeBron from Los Angeles to the Bay Area once free agency officially opens on June 30.The pitch would be simple: reunite with AD, team up with Steph Curry and Draymond Green, play for Steve Kerr, and chase one more championship with a roster of legends.Yahoo! Sports",
-        "text_html": "<a href=\"https://sports.yahoo.com/nba/article/warriors-pursuing-lebron-james-and-anthony-davis-kawhi-leonard-on-the-move-heres-the-latest-trade-chatter-013856863.html\" target=\"_blank\" style=\"color: #1a73e8;\">Sources say the Warriors hope adding Davis would help lure LeBron from Los Angeles to the Bay Area once free agency officially opens on June 30.</a> The pitch would be simple: reunite with AD, team up with Steph Curry and Draymond Green, play for Steve Kerr, and chase one more championship with a roster of legends.",
-        "outlet": "Yahoo! Sports",
-        "source_url": "https://sports.yahoo.com/nba/article/warriors-pursuing-lebron-james-and-anthony-davis-kawhi-leonard-on-the-move-heres-the-latest-trade-chatter-013856863.html"
-      },
-      {
-        "date": "2026-06-27",
-        "text": "Portland previously attempted to trade for Giannis Antetokounmpo this offseason, but he communicated that he didn't have interest in signing long-term with the franchise.The Blazers could also pursue a trade for Anthony Davis this offseason as the Washington Wizards consider their options. The Blazers could offer a combination of draft capital, Jerami Grant's expiring contract as salary ballast, and young players such as Scoot Henderson and Sharron Sharpe.RealGM",
-        "text_html": "Portland previously attempted to trade for Giannis Antetokounmpo this offseason, but he communicated that he didn't have interest in signing long-term with the franchise. <a href=\"https://basketball.realgm.com/wiretap/286322/Blazers-Have-Trade-Interest-In-Jaylen-Brown-Anthony-Davis\" target=\"_blank\" style=\"color: #1a73e8;\">The Blazers could also pursue a trade for Anthony Davis this offseason as the Washington Wizards consider their options</a>. The Blazers could offer a combination of draft capital, Jerami Grant's expiring contract as salary ballast, and young players such as Scoot Henderson and Sharron Sharpe.",
-        "outlet": "RealGM",
-        "source_url": "https://basketball.realgm.com/wiretap/286322/Blazers-Have-Trade-Interest-In-Jaylen-Brown-Anthony-Davis"
-      },
-      {
-        "date": "2026-06-22",
-        "text": "In his latest NBA insider report for Bleacher Report, Jake Fischer announced that the Blazers are open to the possibility of trading for the star big man should the Washington Wizards like to entertain a trade. \"Portland, to our understanding, as they have been floating around and poking around in Giannis trade conversations, we've been told that they would look to pivot to Anthony Davis on the trade market,\" Fischer said. \"They obviously have Jaylen Brown interest as well.\"We've been told that Portland will be waiting there, with open arms, potentially, to trade for Anthony Davis in that event [that he becomes available].\"BasketNews",
-        "text_html": "In his latest NBA insider report for Bleacher Report, Jake Fischer announced that the Blazers are open to the possibility of trading for the star big man should the Washington Wizards like to entertain a trade. \"Portland, to our understanding, as they have been floating around and poking around in Giannis trade conversations, we've been told that they would look to pivot to Anthony Davis on the trade market,\" Fischer said. \"They obviously have Jaylen Brown interest as well. <a href=\"https://basketnews.com/news-250325-blazers-pursuing-potential-major-trade-with-former-lakers-superstar.html?mrfcid=202606236a39cfb64046352370ebdc77\" target=\"_blank\" style=\"color: #1a73e8;\">\"We've been told that Portland will be waiting there, with open arms, potentially, to trade for Anthony Davis in that event [that he becomes available].\"</a>",
-        "outlet": "BasketNews",
-        "source_url": "https://basketnews.com/news-250325-blazers-pursuing-potential-major-trade-with-former-lakers-superstar.html?mrfcid=202606236a39cfb64046352370ebdc77"
-      },
-      {
-        "date": "2026-06-22",
-        "text": "Fullcourtpass:Anthony Davis and his camp have been seeking a max extension, and it\u2019s plausible to consider him a potential trade candidate out of Washington,per @JakeLFischer (h/t @TheDunkCentral)x.com",
-        "text_html": "Fullcourtpass: <a href=\"https://x.com/Fullcourtpass/status/2069174924187517120\" target=\"_blank\" style=\"color: #1a73e8;\">Anthony Davis and his camp have been seeking a max extension, and it\u2019s plausible to consider him a potential trade candidate out of Washington,</a> per @JakeLFischer (h/t @TheDunkCentral)",
-        "outlet": "x.com",
-        "source_url": "https://x.com/Fullcourtpass/status/2069174924187517120"
       }
     ],
     "Jaylen Brown": [
@@ -8480,34 +8519,28 @@
         "outlet": "x.com",
         "source_url": "https://x.com/YossiGozlan/status/2068884639822098934"
       }
-    ],
-    "CJ McCollum": [
-      {
-        "date": "2026-06-21",
-        "text": "Keith Smith: One note (that likely will not matter) on CJ McCollum's contract being an extension vs a new deal:He's immediately trade-eligible with no waiting period once he's signed. A new contract signed in July would have come with a December 15 trade restriction.x.com",
-        "text_html": "Keith Smith: One note (that likely will not matter) on CJ McCollum's contract being an extension vs a new deal: <a href=\"https://x.com/KeithSmithNBA/status/2068765993766150443\" target=\"_blank\" style=\"color: #1a73e8;\">He's immediately trade-eligible with no waiting period once he's signed. A new contract signed in July would have come with a December 15 trade restriction</a>.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/KeithSmithNBA/status/2068765993766150443"
-      },
-      {
-        "date": "2026-06-21",
-        "text": "Jake Fischer: CJMcCollum has a 7.5% trade kicker in his one-year, $21 million extension to stay with Atlanta, per source.x.com",
-        "text_html": "Jake Fischer: CJ <a href=\"https://x.com/JakeLFischer/status/2068743286026580087\" target=\"_blank\" style=\"color: #1a73e8;\">McCollum has a 7.5% trade kicker in his one-year, $21 million extension to stay with Atlanta, per source</a>.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/JakeLFischer/status/2068743286026580087"
-      }
-    ],
-    "Ivica Zubac": [
-      {
-        "date": "2026-06-21",
-        "text": "Ivica Zubac won't be flying completely blind in 2026-27, but he'll still be adjusting along the way. His offseason will be important, as will training camp. That's one advantage of getting the trade done in February, Zubac is a member of the Pacers for the entire offseason. Some of the team's assistant coaches, including Jenny Bouckey and Jim Boylen, have been with Zubac in Europe this summer.\"Definitely helped with [getting] a feel for how this team wants to play, about the pace, about defensive coverages, the defensive rotations,\" Zubac said of what he got out of his abbreviated Pacers season. \"Offensively, where they want me to be, what they want me to do.So it definitely helped. I wish [there] were more games to get a better feel for it. But I kind of understood what they want from me, and (I've) got the whole summer to get in the best shape of my life and get ready for the next year.\"Circle City Spin",
-        "text_html": "Ivica Zubac won't be flying completely blind in 2026-27, but he'll still be adjusting along the way. His offseason will be important, as will training camp. That's one advantage of getting the trade done in February, Zubac is a member of the Pacers for the entire offseason. Some of the team's assistant coaches, including Jenny Bouckey and Jim Boylen, have been with Zubac in Europe this summer. <a href=\"https://www.circlecityspin.com/debrief-ivica-zubac-hardly-played-what-can-he-take-from-this-pacers-season/\" target=\"_blank\" style=\"color: #1a73e8;\">\"Definitely helped with [getting] a feel for how this team wants to play, about the pace, about defensive coverages, the defensive rotations,\" Zubac said of what he got out of his abbreviated Pacers season. \"Offensively, where they want me to be, what they want me to do.</a> So it definitely helped. I wish [there] were more games to get a better feel for it. But I kind of understood what they want from me, and (I've) got the whole summer to get in the best shape of my life and get ready for the next year.\"",
-        "outlet": "Circle City Spin",
-        "source_url": "https://www.circlecityspin.com/debrief-ivica-zubac-hardly-played-what-can-he-take-from-this-pacers-season/"
-      }
     ]
   },
   "daily_counts": {
+    "Luguentz Dort": {
+      "2026-07-19": 2
+    },
+    "Zaccharie Risacher": {
+      "2026-07-19": 3
+    },
+    "Anthony Davis": {
+      "2026-07-19": 1,
+      "2026-07-16": 1,
+      "2026-07-15": 1,
+      "2026-07-08": 2,
+      "2026-07-07": 2,
+      "2026-07-01": 1,
+      "2026-06-30": 8,
+      "2026-06-29": 6,
+      "2026-06-28": 2,
+      "2026-06-27": 1,
+      "2026-06-22": 2
+    },
     "Klay Thompson": {
       "2026-07-19": 3,
       "2026-07-15": 1,
@@ -8541,8 +8574,7 @@
       "2026-06-25": 2,
       "2026-06-24": 7,
       "2026-06-23": 6,
-      "2026-06-22": 24,
-      "2026-06-21": 1
+      "2026-06-22": 24
     },
     "Thanasis Antetokounmpo": {
       "2026-07-17": 1
@@ -8596,18 +8628,6 @@
       "2026-06-25": 1,
       "2026-06-24": 2,
       "2026-06-22": 1
-    },
-    "Anthony Davis": {
-      "2026-07-16": 1,
-      "2026-07-15": 1,
-      "2026-07-08": 2,
-      "2026-07-07": 2,
-      "2026-07-01": 1,
-      "2026-06-30": 8,
-      "2026-06-29": 6,
-      "2026-06-28": 2,
-      "2026-06-27": 1,
-      "2026-06-22": 2
     },
     "Jaylen Brown": {
       "2026-07-16": 2,
@@ -9276,12 +9296,6 @@
     },
     "Aaron Wiggins": {
       "2026-06-22": 1
-    },
-    "CJ McCollum": {
-      "2026-06-21": 2
-    },
-    "Ivica Zubac": {
-      "2026-06-21": 1
     }
   }
 }
