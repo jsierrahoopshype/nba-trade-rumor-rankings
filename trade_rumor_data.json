@@ -1,34 +1,46 @@
 {
-  "generated_at": "2026-07-24T20:19:17.735375",
+  "generated_at": "2026-07-25T04:09:40.258186",
   "scrape_window_days": 28,
-  "window_start": "2026-06-26",
-  "window_end": "2026-07-24",
-  "total_rumors": 694,
-  "total_players": 157,
+  "window_start": "2026-06-27",
+  "window_end": "2026-07-25",
+  "total_rumors": 647,
+  "total_players": 143,
   "rankings": [
     {
       "player": "Jaylen Brown",
-      "score": 29.25,
+      "score": 27.0,
       "mentions_week1": 0,
-      "mentions_week2": 12,
-      "mentions_weeks3_4": 93,
-      "total_mentions": 105,
-      "first_mention": "2026-06-26",
+      "mentions_week2": 11,
+      "mentions_weeks3_4": 86,
+      "total_mentions": 97,
+      "first_mention": "2026-06-27",
       "last_mention": "2026-07-16",
       "team": "Boston Celtics",
       "rank": 1
     },
     {
       "player": "Kawhi Leonard",
-      "score": 18.0,
-      "mentions_week1": 2,
-      "mentions_week2": 12,
-      "mentions_weeks3_4": 40,
-      "total_mentions": 54,
-      "first_mention": "2026-06-26",
+      "score": 16.75,
+      "mentions_week1": 1,
+      "mentions_week2": 11,
+      "mentions_weeks3_4": 41,
+      "total_mentions": 53,
+      "first_mention": "2026-06-27",
       "last_mention": "2026-07-22",
       "team": "Los Angeles Clippers",
       "rank": 2
+    },
+    {
+      "player": "LeBron James",
+      "score": 14.75,
+      "mentions_week1": 9,
+      "mentions_week2": 2,
+      "mentions_weeks3_4": 19,
+      "total_mentions": 30,
+      "first_mention": "2026-06-28",
+      "last_mention": "2026-07-24",
+      "team": "Los Angeles Lakers",
+      "rank": 3
     },
     {
       "player": "Anthony Davis",
@@ -40,27 +52,15 @@
       "first_mention": "2026-06-27",
       "last_mention": "2026-07-24",
       "team": "Dallas Mavericks",
-      "rank": 3
-    },
-    {
-      "player": "LeBron James",
-      "score": 14.5,
-      "mentions_week1": 8,
-      "mentions_week2": 3,
-      "mentions_weeks3_4": 20,
-      "total_mentions": 31,
-      "first_mention": "2026-06-26",
-      "last_mention": "2026-07-24",
-      "team": "Los Angeles Lakers",
       "rank": 4
     },
     {
       "player": "Klay Thompson",
-      "score": 7.25,
-      "mentions_week1": 5,
-      "mentions_week2": 3,
-      "mentions_weeks3_4": 3,
-      "total_mentions": 11,
+      "score": 8.0,
+      "mentions_week1": 6,
+      "mentions_week2": 2,
+      "mentions_weeks3_4": 4,
+      "total_mentions": 12,
       "first_mention": "2026-06-28",
       "last_mention": "2026-07-24",
       "team": "Dallas Mavericks",
@@ -68,21 +68,21 @@
     },
     {
       "player": "Giannis Antetokounmpo",
-      "score": 6.75,
-      "mentions_week1": 4,
-      "mentions_week2": 2,
-      "mentions_weeks3_4": 7,
-      "total_mentions": 13,
-      "first_mention": "2026-06-26",
+      "score": 5.5,
+      "mentions_week1": 2,
+      "mentions_week2": 4,
+      "mentions_weeks3_4": 6,
+      "total_mentions": 12,
+      "first_mention": "2026-06-27",
       "last_mention": "2026-07-23",
       "team": "Milwaukee Bucks",
       "rank": 6
     },
     {
       "player": "Jonathan Kuminga",
-      "score": 6.0,
-      "mentions_week1": 5,
-      "mentions_week2": 2,
+      "score": 5.5,
+      "mentions_week1": 4,
+      "mentions_week2": 3,
       "mentions_weeks3_4": 0,
       "total_mentions": 7,
       "first_mention": "2026-07-13",
@@ -92,39 +92,15 @@
     },
     {
       "player": "Jalen Duren",
-      "score": 5.75,
+      "score": 4.75,
       "mentions_week1": 2,
       "mentions_week2": 0,
-      "mentions_weeks3_4": 15,
-      "total_mentions": 17,
-      "first_mention": "2026-06-26",
+      "mentions_weeks3_4": 11,
+      "total_mentions": 13,
+      "first_mention": "2026-06-29",
       "last_mention": "2026-07-22",
       "team": "Detroit Pistons",
       "rank": 8
-    },
-    {
-      "player": "Tyler Herro",
-      "score": 4.5,
-      "mentions_week1": 1,
-      "mentions_week2": 6,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 9,
-      "first_mention": "2026-06-28",
-      "last_mention": "2026-07-20",
-      "team": "Miami Heat",
-      "rank": 9
-    },
-    {
-      "player": "Ja Morant",
-      "score": 4.25,
-      "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 15,
-      "total_mentions": 16,
-      "first_mention": "2026-06-26",
-      "last_mention": "2026-07-11",
-      "team": "Memphis Grizzlies",
-      "rank": 10
     },
     {
       "player": "Paul George",
@@ -136,31 +112,31 @@
       "first_mention": "2026-07-01",
       "last_mention": "2026-07-12",
       "team": "Philadelphia 76ers",
-      "rank": 11
+      "rank": 9
     },
     {
-      "player": "LaMelo Ball",
-      "score": 4.0,
+      "player": "Tyler Herro",
+      "score": 4.25,
       "mentions_week1": 1,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 10,
-      "total_mentions": 12,
-      "first_mention": "2026-06-26",
-      "last_mention": "2026-07-24",
-      "team": "Charlotte Hornets",
-      "rank": 12
-    },
-    {
-      "player": "Peyton Watson",
-      "score": 4.0,
-      "mentions_week1": 1,
-      "mentions_week2": 4,
-      "mentions_weeks3_4": 4,
+      "mentions_week2": 5,
+      "mentions_weeks3_4": 3,
       "total_mentions": 9,
-      "first_mention": "2026-07-05",
-      "last_mention": "2026-07-17",
-      "team": "Denver Nuggets",
-      "rank": 13
+      "first_mention": "2026-06-28",
+      "last_mention": "2026-07-20",
+      "team": "Miami Heat",
+      "rank": 10
+    },
+    {
+      "player": "Ja Morant",
+      "score": 4.0,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 14,
+      "total_mentions": 15,
+      "first_mention": "2026-06-28",
+      "last_mention": "2026-07-11",
+      "team": "Memphis Grizzlies",
+      "rank": 11
     },
     {
       "player": "Buddy Hield",
@@ -172,7 +148,7 @@
       "first_mention": "2026-06-28",
       "last_mention": "2026-07-22",
       "team": "Golden State Warriors",
-      "rank": 14
+      "rank": 12
     },
     {
       "player": "Devin Carter",
@@ -184,7 +160,7 @@
       "first_mention": "2026-06-29",
       "last_mention": "2026-07-22",
       "team": "Atlanta Hawks",
-      "rank": 15
+      "rank": 13
     },
     {
       "player": "Trey Murphy",
@@ -196,7 +172,7 @@
       "first_mention": "2026-06-28",
       "last_mention": "2026-07-22",
       "team": "New Orleans Pelicans",
-      "rank": 16
+      "rank": 14
     },
     {
       "player": "Khris Middleton",
@@ -208,7 +184,19 @@
       "first_mention": "2026-07-07",
       "last_mention": "2026-07-22",
       "team": "Sacramento Kings",
-      "rank": 17
+      "rank": 15
+    },
+    {
+      "player": "Peyton Watson",
+      "score": 3.0,
+      "mentions_week1": 0,
+      "mentions_week2": 3,
+      "mentions_weeks3_4": 6,
+      "total_mentions": 9,
+      "first_mention": "2026-07-05",
+      "last_mention": "2026-07-17",
+      "team": "Denver Nuggets",
+      "rank": 16
     },
     {
       "player": "Brandon Ingram",
@@ -220,7 +208,7 @@
       "first_mention": "2026-06-28",
       "last_mention": "2026-07-20",
       "team": "Toronto Raptors",
-      "rank": 18
+      "rank": 17
     },
     {
       "player": "Miles Bridges",
@@ -232,7 +220,7 @@
       "first_mention": "2026-06-28",
       "last_mention": "2026-07-22",
       "team": "Charlotte Hornets",
-      "rank": 19
+      "rank": 18
     },
     {
       "player": "Jarred Vanderbilt",
@@ -244,7 +232,7 @@
       "first_mention": "2026-07-02",
       "last_mention": "2026-07-24",
       "team": "Los Angeles Lakers",
-      "rank": 20
+      "rank": 19
     },
     {
       "player": "Daniel Gafford",
@@ -256,7 +244,7 @@
       "first_mention": "2026-07-19",
       "last_mention": "2026-07-22",
       "team": "Dallas Mavericks",
-      "rank": 21
+      "rank": 20
     },
     {
       "player": "Zaccharie Risacher",
@@ -268,7 +256,7 @@
       "first_mention": "2026-07-19",
       "last_mention": "2026-07-19",
       "team": "Atlanta Hawks",
-      "rank": 22
+      "rank": 21
     },
     {
       "player": "Jaden Hardy",
@@ -280,31 +268,31 @@
       "first_mention": "2026-06-30",
       "last_mention": "2026-07-24",
       "team": "Los Angeles Lakers",
+      "rank": 22
+    },
+    {
+      "player": "LaMelo Ball",
+      "score": 2.5,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 6,
+      "total_mentions": 7,
+      "first_mention": "2026-06-27",
+      "last_mention": "2026-07-24",
+      "team": "Charlotte Hornets",
       "rank": 23
     },
     {
       "player": "Bennedict Mathurin",
-      "score": 2.75,
+      "score": 2.5,
       "mentions_week1": 2,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 2,
       "total_mentions": 4,
       "first_mention": "2026-07-05",
       "last_mention": "2026-07-23",
       "team": "Indiana Pacers",
       "rank": 24
-    },
-    {
-      "player": "Bronny James",
-      "score": 2.75,
-      "mentions_week1": 2,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 4,
-      "first_mention": "2026-06-26",
-      "last_mention": "2026-07-24",
-      "team": "Los Angeles Lakers",
-      "rank": 25
     },
     {
       "player": "PJ Washington",
@@ -316,7 +304,7 @@
       "first_mention": "2026-07-11",
       "last_mention": "2026-07-22",
       "team": "Dallas Mavericks",
-      "rank": 26
+      "rank": 25
     },
     {
       "player": "Jayson Tatum",
@@ -328,7 +316,7 @@
       "first_mention": "2026-06-30",
       "last_mention": "2026-07-16",
       "team": "Boston Celtics",
-      "rank": 27
+      "rank": 26
     },
     {
       "player": "Gradey Dick",
@@ -340,19 +328,19 @@
       "first_mention": "2026-06-29",
       "last_mention": "2026-07-20",
       "team": "Toronto Raptors",
-      "rank": 28
+      "rank": 27
     },
     {
-      "player": "Bam Adebayo",
+      "player": "Bronny James",
       "score": 2.25,
-      "mentions_week1": 1,
-      "mentions_week2": 2,
+      "mentions_week1": 2,
+      "mentions_week2": 0,
       "mentions_weeks3_4": 1,
-      "total_mentions": 4,
-      "first_mention": "2026-06-26",
-      "last_mention": "2026-07-20",
-      "team": "Miami Heat",
-      "rank": 29
+      "total_mentions": 3,
+      "first_mention": "2026-07-10",
+      "last_mention": "2026-07-24",
+      "team": "Los Angeles Lakers",
+      "rank": 28
     },
     {
       "player": "Kyrie Irving",
@@ -364,7 +352,7 @@
       "first_mention": "2026-06-28",
       "last_mention": "2026-07-24",
       "team": "Dallas Mavericks",
-      "rank": 30
+      "rank": 29
     },
     {
       "player": "Marcus Sasser",
@@ -376,31 +364,7 @@
       "first_mention": "2026-06-28",
       "last_mention": "2026-07-08",
       "team": "Dallas Mavericks",
-      "rank": 31
-    },
-    {
-      "player": "AJ Johnson",
-      "score": 2.0,
-      "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 6,
-      "total_mentions": 7,
-      "first_mention": "2026-07-01",
-      "last_mention": "2026-07-10",
-      "team": "Dallas Mavericks",
-      "rank": 32
-    },
-    {
-      "player": "Walker Kessler",
-      "score": 2.0,
-      "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 6,
-      "total_mentions": 7,
-      "first_mention": "2026-07-01",
-      "last_mention": "2026-07-10",
-      "team": "Utah Jazz",
-      "rank": 33
+      "rank": 30
     },
     {
       "player": "Luka Doncic",
@@ -412,31 +376,31 @@
       "first_mention": "2026-07-01",
       "last_mention": "2026-07-22",
       "team": "Los Angeles Lakers",
-      "rank": 34
+      "rank": 31
     },
     {
-      "player": "Bobby Portis",
+      "player": "Bam Adebayo",
       "score": 2.0,
       "mentions_week1": 1,
       "mentions_week2": 2,
       "mentions_weeks3_4": 0,
       "total_mentions": 3,
-      "first_mention": "2026-07-10",
-      "last_mention": "2026-07-23",
-      "team": "Milwaukee Bucks",
-      "rank": 35
-    },
-    {
-      "player": "Kasparas Jakucionis",
-      "score": 2.0,
-      "mentions_week1": 1,
-      "mentions_week2": 2,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 3,
-      "first_mention": "2026-07-10",
-      "last_mention": "2026-07-24",
+      "first_mention": "2026-07-14",
+      "last_mention": "2026-07-20",
       "team": "Miami Heat",
-      "rank": 36
+      "rank": 32
+    },
+    {
+      "player": "Bradley Beal",
+      "score": 2.0,
+      "mentions_week1": 2,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 2,
+      "first_mention": "2026-07-24",
+      "last_mention": "2026-07-24",
+      "team": "Los Angeles Clippers",
+      "rank": 33
     },
     {
       "player": "Dalton Knecht",
@@ -448,7 +412,7 @@
       "first_mention": "2026-07-22",
       "last_mention": "2026-07-24",
       "team": "Los Angeles Lakers",
-      "rank": 37
+      "rank": 34
     },
     {
       "player": "Luguentz Dort",
@@ -460,7 +424,7 @@
       "first_mention": "2026-07-19",
       "last_mention": "2026-07-19",
       "team": "Atlanta Hawks",
-      "rank": 38
+      "rank": 35
     },
     {
       "player": "Ryan Nembhard",
@@ -472,7 +436,19 @@
       "first_mention": "2026-07-22",
       "last_mention": "2026-07-22",
       "team": "Atlanta Hawks",
-      "rank": 39
+      "rank": 36
+    },
+    {
+      "player": "AJ Johnson",
+      "score": 1.75,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 7,
+      "total_mentions": 7,
+      "first_mention": "2026-07-01",
+      "last_mention": "2026-07-10",
+      "team": "Dallas Mavericks",
+      "rank": 37
     },
     {
       "player": "Draymond Green",
@@ -484,7 +460,7 @@
       "first_mention": "2026-06-28",
       "last_mention": "2026-07-08",
       "team": "Golden State Warriors",
-      "rank": 40
+      "rank": 38
     },
     {
       "player": "Norman Powell",
@@ -496,7 +472,19 @@
       "first_mention": "2026-06-28",
       "last_mention": "2026-07-03",
       "team": "Miami Heat",
-      "rank": 41
+      "rank": 39
+    },
+    {
+      "player": "Walker Kessler",
+      "score": 1.75,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 7,
+      "total_mentions": 7,
+      "first_mention": "2026-07-01",
+      "last_mention": "2026-07-10",
+      "team": "Utah Jazz",
+      "rank": 40
     },
     {
       "player": "D'Angelo Russell",
@@ -508,7 +496,31 @@
       "first_mention": "2026-07-07",
       "last_mention": "2026-07-22",
       "team": "Dallas Mavericks",
+      "rank": 41
+    },
+    {
+      "player": "Bobby Portis",
+      "score": 1.75,
+      "mentions_week1": 1,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 3,
+      "first_mention": "2026-07-10",
+      "last_mention": "2026-07-23",
+      "team": "Milwaukee Bucks",
       "rank": 42
+    },
+    {
+      "player": "Kasparas Jakucionis",
+      "score": 1.75,
+      "mentions_week1": 1,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 3,
+      "first_mention": "2026-07-10",
+      "last_mention": "2026-07-24",
+      "team": "Miami Heat",
+      "rank": 43
     },
     {
       "player": "Dorian Finney-Smith",
@@ -520,7 +532,7 @@
       "first_mention": "2026-06-30",
       "last_mention": "2026-07-06",
       "team": "Los Angeles Lakers",
-      "rank": 43
+      "rank": 44
     },
     {
       "player": "Jerami Grant",
@@ -532,7 +544,7 @@
       "first_mention": "2026-06-27",
       "last_mention": "2026-06-30",
       "team": "Memphis Grizzlies",
-      "rank": 44
+      "rank": 45
     },
     {
       "player": "Nikola Jovic",
@@ -544,18 +556,6 @@
       "first_mention": "2026-06-28",
       "last_mention": "2026-07-15",
       "team": "Dallas Mavericks",
-      "rank": 45
-    },
-    {
-      "player": "Naz Reid",
-      "score": 1.5,
-      "mentions_week1": 0,
-      "mentions_week2": 2,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 4,
-      "first_mention": "2026-06-26",
-      "last_mention": "2026-07-14",
-      "team": "Minnesota Timberwolves",
       "rank": 46
     },
     {
@@ -667,6 +667,18 @@
       "rank": 55
     },
     {
+      "player": "DeMar DeRozan",
+      "score": 1.25,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 2,
+      "first_mention": "2026-07-02",
+      "last_mention": "2026-07-24",
+      "team": "Sacramento Kings",
+      "rank": 56
+    },
+    {
       "player": "Deandre Ayton",
       "score": 1.0,
       "mentions_week1": 0,
@@ -676,7 +688,7 @@
       "first_mention": "2026-07-02",
       "last_mention": "2026-07-08",
       "team": "Los Angeles Lakers",
-      "rank": 56
+      "rank": 57
     },
     {
       "player": "Scoot Henderson",
@@ -688,7 +700,7 @@
       "first_mention": "2026-06-27",
       "last_mention": "2026-06-30",
       "team": "Portland Trail Blazers",
-      "rank": 57
+      "rank": 58
     },
     {
       "player": "Mitchell Robinson",
@@ -700,30 +712,18 @@
       "first_mention": "2026-07-01",
       "last_mention": "2026-07-12",
       "team": "Boston Celtics",
-      "rank": 58
+      "rank": 59
     },
     {
-      "player": "Ousmane Dieng",
+      "player": "Naz Reid",
       "score": 1.0,
       "mentions_week1": 0,
       "mentions_week2": 1,
       "mentions_weeks3_4": 2,
       "total_mentions": 3,
-      "first_mention": "2026-06-30",
-      "last_mention": "2026-07-10",
-      "team": "Milwaukee Bucks",
-      "rank": 59
-    },
-    {
-      "player": "Jaime Jaquez",
-      "score": 1.0,
-      "mentions_week1": 0,
-      "mentions_week2": 2,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 2,
-      "first_mention": "2026-07-10",
-      "last_mention": "2026-07-12",
-      "team": "Miami Heat",
+      "first_mention": "2026-07-03",
+      "last_mention": "2026-07-14",
+      "team": "Minnesota Timberwolves",
       "rank": 60
     },
     {
@@ -739,18 +739,6 @@
       "rank": 61
     },
     {
-      "player": "Michael Porter",
-      "score": 1.0,
-      "mentions_week1": 0,
-      "mentions_week2": 2,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 2,
-      "first_mention": "2026-07-10",
-      "last_mention": "2026-07-10",
-      "team": "Brooklyn Nets",
-      "rank": 62
-    },
-    {
       "player": "Moses Moody",
       "score": 1.0,
       "mentions_week1": 0,
@@ -760,19 +748,7 @@
       "first_mention": "2026-07-11",
       "last_mention": "2026-07-11",
       "team": "Golden State Warriors",
-      "rank": 63
-    },
-    {
-      "player": "Bradley Beal",
-      "score": 1.0,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-07-24",
-      "last_mention": "2026-07-24",
-      "team": "Los Angeles Clippers",
-      "rank": 64
+      "rank": 62
     },
     {
       "player": "Cameron Johnson",
@@ -784,7 +760,7 @@
       "first_mention": "2026-07-22",
       "last_mention": "2026-07-22",
       "team": "Denver Nuggets",
-      "rank": 65
+      "rank": 63
     },
     {
       "player": "Davion Mitchell",
@@ -796,19 +772,7 @@
       "first_mention": "2026-07-23",
       "last_mention": "2026-07-23",
       "team": "Cleveland Cavaliers",
-      "rank": 66
-    },
-    {
-      "player": "De'Aaron Fox",
-      "score": 1.0,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-07-17",
-      "last_mention": "2026-07-17",
-      "team": "San Antonio Spurs",
-      "rank": 67
+      "rank": 64
     },
     {
       "player": "Jordan Hawkins",
@@ -820,7 +784,7 @@
       "first_mention": "2026-07-23",
       "last_mention": "2026-07-23",
       "team": "Memphis Grizzlies",
-      "rank": 68
+      "rank": 65
     },
     {
       "player": "Kon Knueppel",
@@ -832,7 +796,7 @@
       "first_mention": "2026-07-24",
       "last_mention": "2026-07-24",
       "team": "Charlotte Hornets",
-      "rank": 69
+      "rank": 66
     },
     {
       "player": "Mouhamed Gueye",
@@ -844,7 +808,7 @@
       "first_mention": "2026-07-20",
       "last_mention": "2026-07-20",
       "team": "Atlanta Hawks",
-      "rank": 70
+      "rank": 67
     },
     {
       "player": "Russell Westbrook",
@@ -856,19 +820,7 @@
       "first_mention": "2026-07-22",
       "last_mention": "2026-07-22",
       "team": "Sacramento Kings",
-      "rank": 71
-    },
-    {
-      "player": "Thanasis Antetokounmpo",
-      "score": 1.0,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-07-17",
-      "last_mention": "2026-07-17",
-      "team": "Miami Heat",
-      "rank": 72
+      "rank": 68
     },
     {
       "player": "Tim Hardaway Jr",
@@ -880,19 +832,7 @@
       "first_mention": "2026-07-23",
       "last_mention": "2026-07-23",
       "team": "Cleveland Cavaliers",
-      "rank": 73
-    },
-    {
-      "player": "Anthony Edwards",
-      "score": 0.75,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 3,
-      "total_mentions": 3,
-      "first_mention": "2026-06-26",
-      "last_mention": "2026-07-03",
-      "team": "Minnesota Timberwolves",
-      "rank": 74
+      "rank": 69
     },
     {
       "player": "Damian Lillard",
@@ -904,7 +844,7 @@
       "first_mention": "2026-06-28",
       "last_mention": "2026-06-30",
       "team": "Memphis Grizzlies",
-      "rank": 75
+      "rank": 70
     },
     {
       "player": "Deni Avdija",
@@ -916,19 +856,7 @@
       "first_mention": "2026-06-28",
       "last_mention": "2026-06-30",
       "team": "Portland Trail Blazers",
-      "rank": 76
-    },
-    {
-      "player": "Isaiah Joe",
-      "score": 0.75,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 3,
-      "total_mentions": 3,
-      "first_mention": "2026-06-26",
-      "last_mention": "2026-07-01",
-      "team": "Dallas Mavericks",
-      "rank": 77
+      "rank": 71
     },
     {
       "player": "Kevin Durant",
@@ -940,7 +868,7 @@
       "first_mention": "2026-06-28",
       "last_mention": "2026-07-09",
       "team": "Houston Rockets",
-      "rank": 78
+      "rank": 72
     },
     {
       "player": "Lonzo Ball",
@@ -952,7 +880,19 @@
       "first_mention": "2026-07-02",
       "last_mention": "2026-07-02",
       "team": "Cleveland Cavaliers",
-      "rank": 79
+      "rank": 73
+    },
+    {
+      "player": "Ousmane Dieng",
+      "score": 0.75,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 3,
+      "total_mentions": 3,
+      "first_mention": "2026-06-30",
+      "last_mention": "2026-07-10",
+      "team": "Milwaukee Bucks",
+      "rank": 74
     },
     {
       "player": "RJ Barrett",
@@ -964,7 +904,7 @@
       "first_mention": "2026-06-28",
       "last_mention": "2026-07-05",
       "team": "Toronto Raptors",
-      "rank": 80
+      "rank": 75
     },
     {
       "player": "Rui Hachimura",
@@ -976,7 +916,7 @@
       "first_mention": "2026-07-01",
       "last_mention": "2026-07-06",
       "team": "Los Angeles Lakers",
-      "rank": 81
+      "rank": 76
     },
     {
       "player": "Tobias Harris",
@@ -988,55 +928,19 @@
       "first_mention": "2026-07-01",
       "last_mention": "2026-07-02",
       "team": "Detroit Pistons",
-      "rank": 82
+      "rank": 77
     },
     {
-      "player": "Joel Embiid",
+      "player": "Jaime Jaquez",
       "score": 0.75,
       "mentions_week1": 0,
       "mentions_week2": 1,
       "mentions_weeks3_4": 1,
       "total_mentions": 2,
-      "first_mention": "2026-07-09",
-      "last_mention": "2026-07-10",
-      "team": "Philadelphia 76ers",
-      "rank": 83
-    },
-    {
-      "player": "Josh Giddey",
-      "score": 0.75,
-      "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 2,
-      "first_mention": "2026-06-26",
-      "last_mention": "2026-07-15",
-      "team": "Boston Celtics",
-      "rank": 84
-    },
-    {
-      "player": "Josh Green",
-      "score": 0.75,
-      "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 2,
-      "first_mention": "2026-07-01",
-      "last_mention": "2026-07-10",
-      "team": "Charlotte Hornets",
-      "rank": 85
-    },
-    {
-      "player": "Julius Randle",
-      "score": 0.75,
-      "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 2,
-      "first_mention": "2026-06-26",
-      "last_mention": "2026-07-10",
-      "team": "Minnesota Timberwolves",
-      "rank": 86
+      "first_mention": "2026-07-10",
+      "last_mention": "2026-07-12",
+      "team": "Miami Heat",
+      "rank": 78
     },
     {
       "player": "Aaron Gordon",
@@ -1048,7 +952,7 @@
       "first_mention": "2026-06-28",
       "last_mention": "2026-06-28",
       "team": "Denver Nuggets",
-      "rank": 87
+      "rank": 79
     },
     {
       "player": "Austin Reaves",
@@ -1060,31 +964,7 @@
       "first_mention": "2026-06-28",
       "last_mention": "2026-07-01",
       "team": "Los Angeles Lakers",
-      "rank": 88
-    },
-    {
-      "player": "Ayo Dosunmu",
-      "score": 0.5,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 2,
-      "first_mention": "2026-06-26",
-      "last_mention": "2026-06-26",
-      "team": "Chicago Bulls",
-      "rank": 89
-    },
-    {
-      "player": "Bogdan Bogdanovic",
-      "score": 0.5,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 2,
-      "first_mention": "2026-06-26",
-      "last_mention": "2026-07-03",
-      "team": "Charlotte Hornets",
-      "rank": 90
+      "rank": 80
     },
     {
       "player": "Domantas Sabonis",
@@ -1096,7 +976,7 @@
       "first_mention": "2026-06-29",
       "last_mention": "2026-06-30",
       "team": "Sacramento Kings",
-      "rank": 91
+      "rank": 81
     },
     {
       "player": "Donovan Clingan",
@@ -1108,7 +988,7 @@
       "first_mention": "2026-06-28",
       "last_mention": "2026-06-30",
       "team": "Memphis Grizzlies",
-      "rank": 92
+      "rank": 82
     },
     {
       "player": "Goga Bitadze",
@@ -1120,7 +1000,7 @@
       "first_mention": "2026-06-29",
       "last_mention": "2026-06-29",
       "team": "Atlanta Hawks",
-      "rank": 93
+      "rank": 83
     },
     {
       "player": "Ja'Kobe Walter",
@@ -1132,31 +1012,7 @@
       "first_mention": "2026-06-30",
       "last_mention": "2026-07-01",
       "team": "Los Angeles Clippers",
-      "rank": 94
-    },
-    {
-      "player": "Jaden McDaniels",
-      "score": 0.5,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 2,
-      "first_mention": "2026-06-26",
-      "last_mention": "2026-06-26",
-      "team": "Minnesota Timberwolves",
-      "rank": 95
-    },
-    {
-      "player": "James Harden",
-      "score": 0.5,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 2,
-      "first_mention": "2026-06-26",
-      "last_mention": "2026-06-28",
-      "team": "Los Angeles Clippers",
-      "rank": 96
+      "rank": 84
     },
     {
       "player": "Jaren Jackson Jr",
@@ -1168,7 +1024,7 @@
       "first_mention": "2026-07-01",
       "last_mention": "2026-07-07",
       "team": "Memphis Grizzlies",
-      "rank": 97
+      "rank": 85
     },
     {
       "player": "Jimmy Butler",
@@ -1180,7 +1036,31 @@
       "first_mention": "2026-06-30",
       "last_mention": "2026-06-30",
       "team": "Golden State Warriors",
-      "rank": 98
+      "rank": 86
+    },
+    {
+      "player": "Joel Embiid",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 2,
+      "total_mentions": 2,
+      "first_mention": "2026-07-09",
+      "last_mention": "2026-07-10",
+      "team": "Philadelphia 76ers",
+      "rank": 87
+    },
+    {
+      "player": "Josh Green",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 2,
+      "total_mentions": 2,
+      "first_mention": "2026-07-01",
+      "last_mention": "2026-07-10",
+      "team": "Charlotte Hornets",
+      "rank": 88
     },
     {
       "player": "Jrue Holiday",
@@ -1192,7 +1072,7 @@
       "first_mention": "2026-06-30",
       "last_mention": "2026-06-30",
       "team": "Portland Trail Blazers",
-      "rank": 99
+      "rank": 89
     },
     {
       "player": "Kristaps Porzingis",
@@ -1204,7 +1084,7 @@
       "first_mention": "2026-06-30",
       "last_mention": "2026-06-30",
       "team": "Golden State Warriors",
-      "rank": 100
+      "rank": 90
     },
     {
       "player": "Marcus Smart",
@@ -1216,19 +1096,19 @@
       "first_mention": "2026-06-30",
       "last_mention": "2026-07-03",
       "team": "Los Angeles Lakers",
-      "rank": 101
+      "rank": 91
     },
     {
-      "player": "Nicolas Claxton",
+      "player": "Michael Porter",
       "score": 0.5,
       "mentions_week1": 0,
       "mentions_week2": 0,
       "mentions_weeks3_4": 2,
       "total_mentions": 2,
-      "first_mention": "2026-06-26",
-      "last_mention": "2026-06-26",
-      "team": "Chicago Bulls",
-      "rank": 102
+      "first_mention": "2026-07-10",
+      "last_mention": "2026-07-10",
+      "team": "Brooklyn Nets",
+      "rank": 92
     },
     {
       "player": "Tari Eason",
@@ -1240,7 +1120,7 @@
       "first_mention": "2026-06-30",
       "last_mention": "2026-07-09",
       "team": "Houston Rockets",
-      "rank": 103
+      "rank": 93
     },
     {
       "player": "Trae Young",
@@ -1252,19 +1132,19 @@
       "first_mention": "2026-06-29",
       "last_mention": "2026-06-29",
       "team": "Atlanta Hawks",
-      "rank": 104
+      "rank": 94
     },
     {
-      "player": "Zach LaVine",
+      "player": "De'Aaron Fox",
       "score": 0.5,
       "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 2,
-      "first_mention": "2026-06-26",
-      "last_mention": "2026-06-29",
-      "team": "Sacramento Kings",
-      "rank": 105
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-07-17",
+      "last_mention": "2026-07-17",
+      "team": "San Antonio Spurs",
+      "rank": 95
     },
     {
       "player": "Jordan Walsh",
@@ -1276,7 +1156,19 @@
       "first_mention": "2026-07-12",
       "last_mention": "2026-07-12",
       "team": "Boston Celtics",
-      "rank": 106
+      "rank": 96
+    },
+    {
+      "player": "Josh Giddey",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-07-15",
+      "last_mention": "2026-07-15",
+      "team": "Boston Celtics",
+      "rank": 97
     },
     {
       "player": "Mike Conley",
@@ -1288,7 +1180,7 @@
       "first_mention": "2026-07-12",
       "last_mention": "2026-07-12",
       "team": "Boston Celtics",
-      "rank": 107
+      "rank": 98
     },
     {
       "player": "Neemias Queta",
@@ -1300,7 +1192,7 @@
       "first_mention": "2026-07-11",
       "last_mention": "2026-07-11",
       "team": "Boston Celtics",
-      "rank": 108
+      "rank": 99
     },
     {
       "player": "Spencer Jones",
@@ -1312,7 +1204,19 @@
       "first_mention": "2026-07-14",
       "last_mention": "2026-07-14",
       "team": "Atlanta Hawks",
-      "rank": 109
+      "rank": 100
+    },
+    {
+      "player": "Thanasis Antetokounmpo",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-07-17",
+      "last_mention": "2026-07-17",
+      "team": "Miami Heat",
+      "rank": 101
     },
     {
       "player": "Andre Drummond",
@@ -1324,19 +1228,31 @@
       "first_mention": "2026-07-02",
       "last_mention": "2026-07-02",
       "team": "Chicago Bulls",
-      "rank": 110
+      "rank": 102
     },
     {
-      "player": "Baylor Scheierman",
+      "player": "Anthony Edwards",
       "score": 0.25,
       "mentions_week1": 0,
       "mentions_week2": 0,
       "mentions_weeks3_4": 1,
       "total_mentions": 1,
-      "first_mention": "2026-06-26",
-      "last_mention": "2026-06-26",
-      "team": "Boston Celtics",
-      "rank": 111
+      "first_mention": "2026-07-03",
+      "last_mention": "2026-07-03",
+      "team": "Minnesota Timberwolves",
+      "rank": 103
+    },
+    {
+      "player": "Bogdan Bogdanovic",
+      "score": 0.25,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 1,
+      "first_mention": "2026-07-03",
+      "last_mention": "2026-07-03",
+      "team": "Charlotte Hornets",
+      "rank": 104
     },
     {
       "player": "Bones Hyland",
@@ -1348,7 +1264,7 @@
       "first_mention": "2026-07-01",
       "last_mention": "2026-07-01",
       "team": "Charlotte Hornets",
-      "rank": 112
+      "rank": 105
     },
     {
       "player": "Cason Wallace",
@@ -1360,7 +1276,7 @@
       "first_mention": "2026-06-30",
       "last_mention": "2026-06-30",
       "team": "Brooklyn Nets",
-      "rank": 113
+      "rank": 106
     },
     {
       "player": "Collin Murray-Boyles",
@@ -1372,19 +1288,7 @@
       "first_mention": "2026-07-01",
       "last_mention": "2026-07-01",
       "team": "Los Angeles Clippers",
-      "rank": 114
-    },
-    {
-      "player": "DeMar DeRozan",
-      "score": 0.25,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 1,
-      "first_mention": "2026-07-02",
-      "last_mention": "2026-07-02",
-      "team": "Sacramento Kings",
-      "rank": 115
+      "rank": 107
     },
     {
       "player": "Dean Wade",
@@ -1396,7 +1300,7 @@
       "first_mention": "2026-06-27",
       "last_mention": "2026-06-27",
       "team": "Cleveland Cavaliers",
-      "rank": 116
+      "rank": 108
     },
     {
       "player": "Dennis Schroeder",
@@ -1408,7 +1312,7 @@
       "first_mention": "2026-06-28",
       "last_mention": "2026-06-28",
       "team": "Cleveland Cavaliers",
-      "rank": 117
+      "rank": 109
     },
     {
       "player": "Donovan Mitchell",
@@ -1420,7 +1324,7 @@
       "first_mention": "2026-07-07",
       "last_mention": "2026-07-07",
       "team": "Cleveland Cavaliers",
-      "rank": 118
+      "rank": 110
     },
     {
       "player": "Dwight Powell",
@@ -1432,7 +1336,7 @@
       "first_mention": "2026-07-02",
       "last_mention": "2026-07-02",
       "team": "Dallas Mavericks",
-      "rank": 119
+      "rank": 111
     },
     {
       "player": "Franz Wagner",
@@ -1444,7 +1348,7 @@
       "first_mention": "2026-06-29",
       "last_mention": "2026-06-29",
       "team": "Orlando Magic",
-      "rank": 120
+      "rank": 112
     },
     {
       "player": "Grayson Allen",
@@ -1456,19 +1360,7 @@
       "first_mention": "2026-06-28",
       "last_mention": "2026-06-28",
       "team": "Phoenix Suns",
-      "rank": 121
-    },
-    {
-      "player": "Hugo Gonzalez",
-      "score": 0.25,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 1,
-      "first_mention": "2026-06-26",
-      "last_mention": "2026-06-26",
-      "team": "Boston Celtics",
-      "rank": 122
+      "rank": 113
     },
     {
       "player": "Immanuel Quickley",
@@ -1480,19 +1372,19 @@
       "first_mention": "2026-07-02",
       "last_mention": "2026-07-02",
       "team": "Toronto Raptors",
-      "rank": 123
+      "rank": 114
     },
     {
-      "player": "Isaiah Hartenstein",
+      "player": "Isaiah Joe",
       "score": 0.25,
       "mentions_week1": 0,
       "mentions_week2": 0,
       "mentions_weeks3_4": 1,
       "total_mentions": 1,
-      "first_mention": "2026-06-26",
-      "last_mention": "2026-06-26",
-      "team": "Oklahoma City Thunder",
-      "rank": 124
+      "first_mention": "2026-07-01",
+      "last_mention": "2026-07-01",
+      "team": "Dallas Mavericks",
+      "rank": 115
     },
     {
       "player": "Jakob Poeltl",
@@ -1504,7 +1396,7 @@
       "first_mention": "2026-07-05",
       "last_mention": "2026-07-05",
       "team": "Toronto Raptors",
-      "rank": 125
+      "rank": 116
     },
     {
       "player": "Jamal Shead",
@@ -1516,31 +1408,19 @@
       "first_mention": "2026-07-01",
       "last_mention": "2026-07-01",
       "team": "Los Angeles Clippers",
-      "rank": 126
+      "rank": 117
     },
     {
-      "player": "Jarrett Allen",
+      "player": "James Harden",
       "score": 0.25,
       "mentions_week1": 0,
       "mentions_week2": 0,
       "mentions_weeks3_4": 1,
       "total_mentions": 1,
-      "first_mention": "2026-06-26",
-      "last_mention": "2026-06-26",
-      "team": "Cleveland Cavaliers",
-      "rank": 127
-    },
-    {
-      "player": "Joan Beringer",
-      "score": 0.25,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 1,
-      "first_mention": "2026-06-26",
-      "last_mention": "2026-06-26",
-      "team": "Charlotte Hornets",
-      "rank": 128
+      "first_mention": "2026-06-28",
+      "last_mention": "2026-06-28",
+      "team": "Los Angeles Clippers",
+      "rank": 118
     },
     {
       "player": "Jonas Valanciunas",
@@ -1552,19 +1432,19 @@
       "first_mention": "2026-07-04",
       "last_mention": "2026-07-04",
       "team": "Denver Nuggets",
-      "rank": 129
+      "rank": 119
     },
     {
-      "player": "Jose Alvarado",
+      "player": "Julius Randle",
       "score": 0.25,
       "mentions_week1": 0,
       "mentions_week2": 0,
       "mentions_weeks3_4": 1,
       "total_mentions": 1,
-      "first_mention": "2026-06-26",
-      "last_mention": "2026-06-26",
-      "team": "New York Knicks",
-      "rank": 130
+      "first_mention": "2026-07-10",
+      "last_mention": "2026-07-10",
+      "team": "Minnesota Timberwolves",
+      "rank": 120
     },
     {
       "player": "Kam Jones",
@@ -1576,7 +1456,7 @@
       "first_mention": "2026-06-30",
       "last_mention": "2026-06-30",
       "team": "Chicago Bulls",
-      "rank": 131
+      "rank": 121
     },
     {
       "player": "Kelly Olynyk",
@@ -1588,7 +1468,7 @@
       "first_mention": "2026-07-07",
       "last_mention": "2026-07-07",
       "team": "Dallas Mavericks",
-      "rank": 132
+      "rank": 122
     },
     {
       "player": "Keon Ellis",
@@ -1600,7 +1480,7 @@
       "first_mention": "2026-06-27",
       "last_mention": "2026-06-27",
       "team": "Sacramento Kings",
-      "rank": 133
+      "rank": 123
     },
     {
       "player": "Kevon Looney",
@@ -1612,7 +1492,7 @@
       "first_mention": "2026-07-02",
       "last_mention": "2026-07-02",
       "team": "Chicago Bulls",
-      "rank": 134
+      "rank": 124
     },
     {
       "player": "Kyle Lowry",
@@ -1624,19 +1504,7 @@
       "first_mention": "2026-07-07",
       "last_mention": "2026-07-07",
       "team": "Toronto Raptors",
-      "rank": 135
-    },
-    {
-      "player": "Mark Williams",
-      "score": 0.25,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 1,
-      "first_mention": "2026-06-26",
-      "last_mention": "2026-06-26",
-      "team": "Phoenix Suns",
-      "rank": 136
+      "rank": 125
     },
     {
       "player": "Marvin Bagley",
@@ -1648,7 +1516,7 @@
       "first_mention": "2026-07-02",
       "last_mention": "2026-07-02",
       "team": "Chicago Bulls",
-      "rank": 137
+      "rank": 126
     },
     {
       "player": "Moritz Wagner",
@@ -1660,7 +1528,7 @@
       "first_mention": "2026-06-29",
       "last_mention": "2026-06-29",
       "team": "Los Angeles Clippers",
-      "rank": 138
+      "rank": 127
     },
     {
       "player": "Myles Turner",
@@ -1672,7 +1540,7 @@
       "first_mention": "2026-06-27",
       "last_mention": "2026-06-27",
       "team": "Milwaukee Bucks",
-      "rank": 139
+      "rank": 128
     },
     {
       "player": "Nick Richards",
@@ -1684,7 +1552,7 @@
       "first_mention": "2026-07-02",
       "last_mention": "2026-07-02",
       "team": "Phoenix Suns",
-      "rank": 140
+      "rank": 129
     },
     {
       "player": "Nickeil Alexander-Walker",
@@ -1696,7 +1564,7 @@
       "first_mention": "2026-07-05",
       "last_mention": "2026-07-05",
       "team": "Atlanta Hawks",
-      "rank": 141
+      "rank": 130
     },
     {
       "player": "Nikola Jokic",
@@ -1708,19 +1576,7 @@
       "first_mention": "2026-06-28",
       "last_mention": "2026-06-28",
       "team": "Denver Nuggets",
-      "rank": 142
-    },
-    {
-      "player": "Nikola Vucevic",
-      "score": 0.25,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 1,
-      "first_mention": "2026-06-26",
-      "last_mention": "2026-06-26",
-      "team": "Chicago Bulls",
-      "rank": 143
+      "rank": 131
     },
     {
       "player": "Onyeka Okongwu",
@@ -1732,7 +1588,7 @@
       "first_mention": "2026-07-05",
       "last_mention": "2026-07-05",
       "team": "Atlanta Hawks",
-      "rank": 144
+      "rank": 132
     },
     {
       "player": "Quentin Grimes",
@@ -1744,7 +1600,7 @@
       "first_mention": "2026-06-30",
       "last_mention": "2026-06-30",
       "team": "Los Angeles Lakers",
-      "rank": 145
+      "rank": 133
     },
     {
       "player": "Quinten Post",
@@ -1756,7 +1612,7 @@
       "first_mention": "2026-07-01",
       "last_mention": "2026-07-01",
       "team": "Golden State Warriors",
-      "rank": 146
+      "rank": 134
     },
     {
       "player": "Royce O'Neale",
@@ -1768,19 +1624,7 @@
       "first_mention": "2026-06-28",
       "last_mention": "2026-06-28",
       "team": "Charlotte Hornets",
-      "rank": 147
-    },
-    {
-      "player": "Rudy Gobert",
-      "score": 0.25,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 1,
-      "first_mention": "2026-06-26",
-      "last_mention": "2026-06-26",
-      "team": "Minnesota Timberwolves",
-      "rank": 148
+      "rank": 135
     },
     {
       "player": "Saddiq Bey",
@@ -1792,7 +1636,7 @@
       "first_mention": "2026-06-28",
       "last_mention": "2026-06-28",
       "team": "Detroit Pistons",
-      "rank": 149
+      "rank": 136
     },
     {
       "player": "Sandro Mamukelashvili",
@@ -1804,7 +1648,7 @@
       "first_mention": "2026-06-30",
       "last_mention": "2026-06-30",
       "team": "Los Angeles Lakers",
-      "rank": 150
+      "rank": 137
     },
     {
       "player": "Santiago Aldama",
@@ -1816,19 +1660,7 @@
       "first_mention": "2026-07-08",
       "last_mention": "2026-07-08",
       "team": "Dallas Mavericks",
-      "rank": 151
-    },
-    {
-      "player": "Scottie Barnes",
-      "score": 0.25,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 1,
-      "first_mention": "2026-06-26",
-      "last_mention": "2026-06-26",
-      "team": "Toronto Raptors",
-      "rank": 152
+      "rank": 138
     },
     {
       "player": "Shaedon Sharpe",
@@ -1840,7 +1672,7 @@
       "first_mention": "2026-06-28",
       "last_mention": "2026-06-28",
       "team": "Boston Celtics",
-      "rank": 153
+      "rank": 139
     },
     {
       "player": "Stephen Curry",
@@ -1852,19 +1684,7 @@
       "first_mention": "2026-07-08",
       "last_mention": "2026-07-08",
       "team": "Golden State Warriors",
-      "rank": 154
-    },
-    {
-      "player": "Terrence Shannon",
-      "score": 0.25,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 1,
-      "first_mention": "2026-06-26",
-      "last_mention": "2026-06-26",
-      "team": "Charlotte Hornets",
-      "rank": 155
+      "rank": 140
     },
     {
       "player": "Toumani Camara",
@@ -1876,7 +1696,7 @@
       "first_mention": "2026-06-28",
       "last_mention": "2026-06-28",
       "team": "Boston Celtics",
-      "rank": 156
+      "rank": 141
     },
     {
       "player": "VJ Edgecombe",
@@ -1888,11 +1708,30 @@
       "first_mention": "2026-07-02",
       "last_mention": "2026-07-02",
       "team": "Boston Celtics",
-      "rank": 157
+      "rank": 142
+    },
+    {
+      "player": "Zach LaVine",
+      "score": 0.25,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 1,
+      "first_mention": "2026-06-29",
+      "last_mention": "2026-06-29",
+      "team": "Sacramento Kings",
+      "rank": 143
     }
   ],
   "player_rumors": {
     "LeBron James": [
+      {
+        "date": "2026-07-24",
+        "text": "Heat Central: The Miami Heat will shift their focus to DeMar DeRozan, Bradley Beal, and Klay Thompson after missing out on LeBron James, per @ShamsCharania\u201cThey had a very compelling pitch\u2026. Now they\u2019ll shift their focus to players like DeMar DeRozan, Bradley Beal, and could you find a player like Klay Thompson on the buyout market\u201dx.com",
+        "text_html": "Heat Central: The Miami Heat will shift their focus to DeMar DeRozan, Bradley Beal, and Klay Thompson after missing out on LeBron James, per @ShamsCharania <a href=\"https://x.com/TheHeatCentral/status/2080749421357306105?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cThey had a very compelling pitch\u2026. Now they\u2019ll shift their focus to players like DeMar DeRozan, Bradley Beal, and could you find a player like Klay Thompson on the buyout market\u201d</a>",
+        "outlet": "x.com",
+        "source_url": "https://x.com/TheHeatCentral/status/2080749421357306105?s=20"
+      },
       {
         "date": "2026-07-24",
         "text": "Ramona Shelburne: As for the impact of LeBron James\u2019 decision on his son Bronny James, Rich Paul,the agent for both tells ESPN that \"they are not a package deal\" and there's no current plan or request for Bronny Janes to join his father in Philly. Bronny James recently had his contract guaranteed by the Lakers, whose staff has a fondness for him, according to sources.x.com",
@@ -2095,53 +1934,32 @@
         "text_html": "<a href=\"https://sports.yahoo.com/nba/article/warriors-pursuing-lebron-james-and-anthony-davis-kawhi-leonard-on-the-move-heres-the-latest-trade-chatter-013856863.html\" target=\"_blank\" style=\"color: #1a73e8;\">Sources say the Warriors hope adding Davis would help lure LeBron from Los Angeles to the Bay Area once free agency officially opens on June 30.</a> The pitch would be simple: reunite with AD, team up with Steph Curry and Draymond Green, play for Steve Kerr, and chase one more championship with a roster of legends.",
         "outlet": "Yahoo! Sports",
         "source_url": "https://sports.yahoo.com/nba/article/warriors-pursuing-lebron-james-and-anthony-davis-kawhi-leonard-on-the-move-heres-the-latest-trade-chatter-013856863.html"
-      },
-      {
-        "date": "2026-06-26",
-        "text": "Chalmers implied that Bronny would be part of this potential move. He went on to highlight how the infrastructure in Miami would serve as the perfect environment to nurture Bronny\u2019s development.\u201cYou could actually get Bronny some real minutes at PG and keep developing him and let him learn from other guys, so I think it\u2019s a great move.\u201dEssentially Sports",
-        "text_html": "Chalmers implied that Bronny would be part of this potential move. He went on to highlight how the infrastructure in Miami would serve as the perfect environment to nurture Bronny\u2019s development. <a href=\"https://www.essentiallysports.com/nba-active-basketball-news-ex-heat-star-mario-chalmers-says-lebron-and-bronny-james-will-join-miami-after-lack-of-communication-from-lakers-per-reports/\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cYou could actually get Bronny some real minutes at PG and keep developing him and let him learn from other guys, so I think it\u2019s a great move.\u201d</a>",
-        "outlet": "Essentially Sports",
-        "source_url": "https://www.essentiallysports.com/nba-active-basketball-news-ex-heat-star-mario-chalmers-says-lebron-and-bronny-james-will-join-miami-after-lack-of-communication-from-lakers-per-reports/"
-      },
-      {
-        "date": "2026-06-26",
-        "text": "Windhorst added, \u201cHe is still a max-level player. \u2026The only real way that I can see that the Cavs could get LeBron the money would be to do a trade with Jarrett Allen. \u2026 But I don\u2019t think that would improve the Cavs. \u2026 I don\u2019t see the pathway.\u201dPro Football Network",
-        "text_html": "Windhorst added, \u201cHe is still a max-level player. \u2026 <a href=\"https://www.profootballnetwork.com/nba/dont-see-pathway-nba-insider-pours-cold-water-lebron-james-cavaliers-rumors-major-obstacle-june-2026/\" target=\"_blank\" style=\"color: #1a73e8;\">The only real way that I can see that the Cavs could get LeBron the money would be to do a trade with Jarrett Allen. \u2026 But I don\u2019t think that would improve the Cavs. \u2026 I don\u2019t see the pathway.\u201d</a>",
-        "outlet": "Pro Football Network",
-        "source_url": "https://www.profootballnetwork.com/nba/dont-see-pathway-nba-insider-pours-cold-water-lebron-james-cavaliers-rumors-major-obstacle-june-2026/"
       }
     ],
-    "Bronny James": [
+    "DeMar DeRozan": [
       {
         "date": "2026-07-24",
-        "text": "Ramona Shelburne: As for the impact of LeBron James\u2019 decision on his son Bronny James, Rich Paul,the agent for both tells ESPN that \"they are not a package deal\" and there's no current plan or request for Bronny Janes to join his father in Philly. Bronny James recently had his contract guaranteed by the Lakers, whose staff has a fondness for him, according to sources.x.com",
-        "text_html": "Ramona Shelburne: As for the impact of LeBron James\u2019 decision on his son Bronny James, Rich Paul, <a href=\"https://x.com/ramonashelburne/status/2080724717162639462?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">the agent for both tells ESPN that \"they are not a package deal\" and there's no current plan or request for Bronny Janes to join his father in Philly</a>. Bronny James recently had his contract guaranteed by the Lakers, whose staff has a fondness for him, according to sources.",
+        "text": "Heat Central: The Miami Heat will shift their focus to DeMar DeRozan, Bradley Beal, and Klay Thompson after missing out on LeBron James, per @ShamsCharania\u201cThey had a very compelling pitch\u2026. Now they\u2019ll shift their focus to players like DeMar DeRozan, Bradley Beal, and could you find a player like Klay Thompson on the buyout market\u201dx.com",
+        "text_html": "Heat Central: The Miami Heat will shift their focus to DeMar DeRozan, Bradley Beal, and Klay Thompson after missing out on LeBron James, per @ShamsCharania <a href=\"https://x.com/TheHeatCentral/status/2080749421357306105?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cThey had a very compelling pitch\u2026. Now they\u2019ll shift their focus to players like DeMar DeRozan, Bradley Beal, and could you find a player like Klay Thompson on the buyout market\u201d</a>",
         "outlet": "x.com",
-        "source_url": "https://x.com/ramonashelburne/status/2080724717162639462?s=20"
+        "source_url": "https://x.com/TheHeatCentral/status/2080749421357306105?s=20"
       },
       {
-        "date": "2026-07-22",
-        "text": "Khobi Price:What I want to make\u00a0clear is that the Lakers are more than\u00a0happy to keep Bronny James. Like they've\u00a0they've drafted him in the second round\u00a0two years ago. They developed him.\u00a0They're a fan of him.They're he has a\u00a0lot of people who like him within the\u00a0building so it's not going to be one of\u00a0those situations where \u2018oh yeah, they're\u00a0just going to send Bronny to wherever\u00a0LeBron goes.\u2019 Like, it would take\u00a0something real for the Lakers to want to\u00a0trade him.\u00a0Outside of Bronny, I would look at\u00a0Dalton Knecht and Jaden Hardy as guys\u00a0who are more likely to be moved just\u00a0because\u00a0of their\u00a0contract\u00a0situations. Jaden\u00a0Hardy has a team option for 2027-28.\u00a0Dalton Knecht has another also a team option for the\u00a0following season.YouTube",
-        "text_html": "Khobi Price: <a href=\"https://www.youtube.com/watch?v=2zKzmtze6u0&t=785s\" target=\"_blank\" style=\"color: #1a73e8;\">What I want to make clear is that the Lakers are more than happy to keep Bronny James. Like they've they've drafted him in the second round two years ago. They developed him. They're a fan of him.</a> They're he has a lot of people who like him within the building so it's not going to be one of those situations where \u2018oh yeah, they're just going to send Bronny to wherever LeBron goes.\u2019 Like, it would take something real for the Lakers to want to trade him. Outside of Bronny, I would look at Dalton Knecht and Jaden Hardy as guys who are more likely to be moved just because of their contract situations. Jaden Hardy has a team option for 2027-28. Dalton Knecht has another also a team option for the following season.",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=2zKzmtze6u0&t=785s"
-      },
-      {
-        "date": "2026-07-10",
-        "text": "[ESPN Cleveland] Emmett Golden saysThe streets are talking and they're telling him that LeBron and Bronny are coming home: \"Someone who reached out to me in the past and was right... reached out to me yesterday, late last night... Bron and Bronny back to Cleveland\"reddit",
-        "text_html": "[ESPN Cleveland] Emmett Golden says <a href=\"https://www.reddit.com/r/nba/comments/1urwth4/espn_cleveland_emmett_golden_says_the_streets_are/\" target=\"_blank\" style=\"color: #1a73e8;\">The streets are talking and they're telling him that LeBron and Bronny are coming home: \"Someone who reached out to me in the past and was right... reached out to me yesterday, late last night... Bron and Bronny back to Cleveland\"</a>",
-        "outlet": "reddit",
-        "source_url": "https://www.reddit.com/r/nba/comments/1urwth4/espn_cleveland_emmett_golden_says_the_streets_are/"
-      },
-      {
-        "date": "2026-06-26",
-        "text": "Chalmers implied that Bronny would be part of this potential move. He went on to highlight how the infrastructure in Miami would serve as the perfect environment to nurture Bronny\u2019s development.\u201cYou could actually get Bronny some real minutes at PG and keep developing him and let him learn from other guys, so I think it\u2019s a great move.\u201dEssentially Sports",
-        "text_html": "Chalmers implied that Bronny would be part of this potential move. He went on to highlight how the infrastructure in Miami would serve as the perfect environment to nurture Bronny\u2019s development. <a href=\"https://www.essentiallysports.com/nba-active-basketball-news-ex-heat-star-mario-chalmers-says-lebron-and-bronny-james-will-join-miami-after-lack-of-communication-from-lakers-per-reports/\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cYou could actually get Bronny some real minutes at PG and keep developing him and let him learn from other guys, so I think it\u2019s a great move.\u201d</a>",
-        "outlet": "Essentially Sports",
-        "source_url": "https://www.essentiallysports.com/nba-active-basketball-news-ex-heat-star-mario-chalmers-says-lebron-and-bronny-james-will-join-miami-after-lack-of-communication-from-lakers-per-reports/"
+        "date": "2026-07-02",
+        "text": "Kings wing DeMar DeRozan, who is owed $25 million for the upcoming season \u2014 with only $10 million guaranteed \u2014 is hoping to accelerate his exit, either by being waived and testing the open market or being traded sooner rather than later,sources say. The 37-year-old is expecting to be waived and stretched by the franchise, a similar sentiment shared by rival executives, sources say. Late last month, HoopsHype reported on Sacramento's and DeRozan's looming divorce.Yahoo! Sports",
+        "text_html": "<a href=\"https://sports.yahoo.com/nba/article/jaylen-brown-blockbuster-lakers-makeover-and-a-wild-day-2-of-nba-free-agency-233200215.html\" target=\"_blank\" style=\"color: #1a73e8;\">Kings wing DeMar DeRozan, who is owed $25 million for the upcoming season \u2014 with only $10 million guaranteed \u2014 is hoping to accelerate his exit, either by being waived and testing the open market or being traded sooner rather than later,</a> sources say. The 37-year-old is expecting to be waived and stretched by the franchise, a similar sentiment shared by rival executives, sources say. Late last month, HoopsHype reported on Sacramento's and DeRozan's looming divorce.",
+        "outlet": "Yahoo! Sports",
+        "source_url": "https://sports.yahoo.com/nba/article/jaylen-brown-blockbuster-lakers-makeover-and-a-wild-day-2-of-nba-free-agency-233200215.html"
       }
     ],
     "Klay Thompson": [
+      {
+        "date": "2026-07-24",
+        "text": "Heat Central: The Miami Heat will shift their focus to DeMar DeRozan, Bradley Beal, and Klay Thompson after missing out on LeBron James, per @ShamsCharania\u201cThey had a very compelling pitch\u2026. Now they\u2019ll shift their focus to players like DeMar DeRozan, Bradley Beal, and could you find a player like Klay Thompson on the buyout market\u201dx.com",
+        "text_html": "Heat Central: The Miami Heat will shift their focus to DeMar DeRozan, Bradley Beal, and Klay Thompson after missing out on LeBron James, per @ShamsCharania <a href=\"https://x.com/TheHeatCentral/status/2080749421357306105?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cThey had a very compelling pitch\u2026. Now they\u2019ll shift their focus to players like DeMar DeRozan, Bradley Beal, and could you find a player like Klay Thompson on the buyout market\u201d</a>",
+        "outlet": "x.com",
+        "source_url": "https://x.com/TheHeatCentral/status/2080749421357306105?s=20"
+      },
       {
         "date": "2026-07-24",
         "text": "If the Heat concludes that waiting on Thompson isn\u2019t realistic,Miami could consider free agent Bradley Beal, who would welcome Heat interest after opting out of a Clippers contract that would have paid him $5.5 million. Beal\u2019s camp and the Heat spoke earlier this offseason.Miami Herald",
@@ -2223,10 +2041,40 @@
     "Bradley Beal": [
       {
         "date": "2026-07-24",
+        "text": "Heat Central: The Miami Heat will shift their focus to DeMar DeRozan, Bradley Beal, and Klay Thompson after missing out on LeBron James, per @ShamsCharania\u201cThey had a very compelling pitch\u2026. Now they\u2019ll shift their focus to players like DeMar DeRozan, Bradley Beal, and could you find a player like Klay Thompson on the buyout market\u201dx.com",
+        "text_html": "Heat Central: The Miami Heat will shift their focus to DeMar DeRozan, Bradley Beal, and Klay Thompson after missing out on LeBron James, per @ShamsCharania <a href=\"https://x.com/TheHeatCentral/status/2080749421357306105?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cThey had a very compelling pitch\u2026. Now they\u2019ll shift their focus to players like DeMar DeRozan, Bradley Beal, and could you find a player like Klay Thompson on the buyout market\u201d</a>",
+        "outlet": "x.com",
+        "source_url": "https://x.com/TheHeatCentral/status/2080749421357306105?s=20"
+      },
+      {
+        "date": "2026-07-24",
         "text": "If the Heat concludes that waiting on Thompson isn\u2019t realistic,Miami could consider free agent Bradley Beal, who would welcome Heat interest after opting out of a Clippers contract that would have paid him $5.5 million. Beal\u2019s camp and the Heat spoke earlier this offseason.Miami Herald",
         "text_html": "If the Heat concludes that waiting on Thompson isn\u2019t realistic, <a href=\"https://www.miamiherald.com/sports/nba/miami-heat/article316539164.html\" target=\"_blank\" style=\"color: #1a73e8;\">Miami could consider free agent Bradley Beal, who would welcome Heat interest after opting out of a Clippers contract that would have paid him $5.5 million. Beal\u2019s camp and the Heat spoke earlier this offseason</a>.",
         "outlet": "Miami Herald",
         "source_url": "https://www.miamiherald.com/sports/nba/miami-heat/article316539164.html"
+      }
+    ],
+    "Bronny James": [
+      {
+        "date": "2026-07-24",
+        "text": "Ramona Shelburne: As for the impact of LeBron James\u2019 decision on his son Bronny James, Rich Paul,the agent for both tells ESPN that \"they are not a package deal\" and there's no current plan or request for Bronny Janes to join his father in Philly. Bronny James recently had his contract guaranteed by the Lakers, whose staff has a fondness for him, according to sources.x.com",
+        "text_html": "Ramona Shelburne: As for the impact of LeBron James\u2019 decision on his son Bronny James, Rich Paul, <a href=\"https://x.com/ramonashelburne/status/2080724717162639462?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">the agent for both tells ESPN that \"they are not a package deal\" and there's no current plan or request for Bronny Janes to join his father in Philly</a>. Bronny James recently had his contract guaranteed by the Lakers, whose staff has a fondness for him, according to sources.",
+        "outlet": "x.com",
+        "source_url": "https://x.com/ramonashelburne/status/2080724717162639462?s=20"
+      },
+      {
+        "date": "2026-07-22",
+        "text": "Khobi Price:What I want to make\u00a0clear is that the Lakers are more than\u00a0happy to keep Bronny James. Like they've\u00a0they've drafted him in the second round\u00a0two years ago. They developed him.\u00a0They're a fan of him.They're he has a\u00a0lot of people who like him within the\u00a0building so it's not going to be one of\u00a0those situations where \u2018oh yeah, they're\u00a0just going to send Bronny to wherever\u00a0LeBron goes.\u2019 Like, it would take\u00a0something real for the Lakers to want to\u00a0trade him.\u00a0Outside of Bronny, I would look at\u00a0Dalton Knecht and Jaden Hardy as guys\u00a0who are more likely to be moved just\u00a0because\u00a0of their\u00a0contract\u00a0situations. Jaden\u00a0Hardy has a team option for 2027-28.\u00a0Dalton Knecht has another also a team option for the\u00a0following season.YouTube",
+        "text_html": "Khobi Price: <a href=\"https://www.youtube.com/watch?v=2zKzmtze6u0&t=785s\" target=\"_blank\" style=\"color: #1a73e8;\">What I want to make clear is that the Lakers are more than happy to keep Bronny James. Like they've they've drafted him in the second round two years ago. They developed him. They're a fan of him.</a> They're he has a lot of people who like him within the building so it's not going to be one of those situations where \u2018oh yeah, they're just going to send Bronny to wherever LeBron goes.\u2019 Like, it would take something real for the Lakers to want to trade him. Outside of Bronny, I would look at Dalton Knecht and Jaden Hardy as guys who are more likely to be moved just because of their contract situations. Jaden Hardy has a team option for 2027-28. Dalton Knecht has another also a team option for the following season.",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=2zKzmtze6u0&t=785s"
+      },
+      {
+        "date": "2026-07-10",
+        "text": "[ESPN Cleveland] Emmett Golden saysThe streets are talking and they're telling him that LeBron and Bronny are coming home: \"Someone who reached out to me in the past and was right... reached out to me yesterday, late last night... Bron and Bronny back to Cleveland\"reddit",
+        "text_html": "[ESPN Cleveland] Emmett Golden says <a href=\"https://www.reddit.com/r/nba/comments/1urwth4/espn_cleveland_emmett_golden_says_the_streets_are/\" target=\"_blank\" style=\"color: #1a73e8;\">The streets are talking and they're telling him that LeBron and Bronny are coming home: \"Someone who reached out to me in the past and was right... reached out to me yesterday, late last night... Bron and Bronny back to Cleveland\"</a>",
+        "outlet": "reddit",
+        "source_url": "https://www.reddit.com/r/nba/comments/1urwth4/espn_cleveland_emmett_golden_says_the_streets_are/"
       }
     ],
     "Anthony Davis": [
@@ -2668,41 +2516,6 @@
         "text_html": "That doesn\u2019t mean that they weren\u2019t or won\u2019t be in the mix for other players. <a href=\"https://www.sportsnet.ca/nba/article/how-much-are-raptors-willing-to-gamble-in-websters-first-solo-off-season/\" target=\"_blank\" style=\"color: #1a73e8;\">A couple league sources confirmed that the Raptors were interested in getting involved in talks with the Charlotte Hornets for mercurial point guard LaMelo Ball, a player Webster has always liked, which is one of the reasons he was intrigued by the Hornets' top job before current Charlotte GM Jeff Peterson was hired in 2024</a>.",
         "outlet": "SportsNet",
         "source_url": "https://www.sportsnet.ca/nba/article/how-much-are-raptors-willing-to-gamble-in-websters-first-solo-off-season/"
-      },
-      {
-        "date": "2026-06-26",
-        "text": "This trade, which can\u2019t be official until July 6 since the Bulls required cap space to acquire Nic Claxton, will be expanded to include the Wolves\u2019 acquisition of Ball for several reasons. The first is that Reid\u2019s $23.3 million salary isn\u2019t enough to match Ball\u2019s $41.25 million individually. Randle\u2019s $33.3 million salary is ($9,098,000 trade exception). Then they could simply trade Reid for Green and create a trade exception worth the difference in their salaries.However, the Wolves can no longer function as a below-apron team. Ball\u2019s $41.25 million salary is too high for them to field a roster below the first apron while factoring in Ayo Dosunmu\u2019s new five-year, $112 million contract. It is expected to start at $19.3 million, the lowest it could be with standard raises. They now must operate as an above-apron team so they can fill the rest of the roster, meaning they must do a 100 percent salary match.Third Apron",
-        "text_html": "This trade, which can\u2019t be official until July 6 since the Bulls required cap space to acquire Nic Claxton, will be expanded to include the Wolves\u2019 acquisition of Ball for several reasons. The first is that Reid\u2019s $23.3 million salary isn\u2019t enough to match Ball\u2019s $41.25 million individually. Randle\u2019s $33.3 million salary is ($9,098,000 trade exception). Then they could simply trade Reid for Green and create a trade exception worth the difference in their salaries. <a href=\"https://www.thirdapron.com/p/lamelo-ball-trade-wolves-anthony-edwards\" target=\"_blank\" style=\"color: #1a73e8;\">However, the Wolves can no longer function as a below-apron team. Ball\u2019s $41.25 million salary is too high for them to field a roster below the first apron while factoring in Ayo Dosunmu\u2019s new five-year, $112 million contract. It is expected to start at $19.3 million, the lowest it could be with standard raises. They now must operate as an above-apron team so they can fill the rest of the roster, meaning they must do a 100 percent salary match</a>.",
-        "outlet": "Third Apron",
-        "source_url": "https://www.thirdapron.com/p/lamelo-ball-trade-wolves-anthony-edwards"
-      },
-      {
-        "date": "2026-06-26",
-        "text": "The once supersized Wolves are now looking very thin in the frontline. They will have a difficult time finding an upgrade with no draft picks left to trade. They might need to part with one of Terrence Shannon Jr. or Joan Beringer to get a team interested. Otherwise, they\u2019re looking at starting a lineup featuring LaMelo Ball, Ayo Dosunmu, Anthony Edwards, Jaden McDaniels, and Rudy Gobert. The Wolves would have limited options for upgrading the frontcourt. They will no longer create a $33 million trade exception and lose access to all trade exceptions created last season, including the $10.8 million one. They also lose the $5.5 million bi-annual exception and get the reduced $6 million taxpayer mid-level exception instead of the $15.5 million one. They are highly unlikely to get a starter with that amount.Third Apron",
-        "text_html": "<a href=\"https://www.thirdapron.com/p/lamelo-ball-trade-wolves-anthony-edwards\" target=\"_blank\" style=\"color: #1a73e8;\">The once supersized Wolves are now looking very thin in the frontline. They will have a difficult time finding an upgrade with no draft picks left to trade. They might need to part with one of Terrence Shannon Jr. or Joan Beringer to get a team interested. Otherwise, they\u2019re looking at starting a lineup featuring LaMelo Ball, Ayo Dosunmu, Anthony Edwards, Jaden McDaniels, and Rudy Gobert</a>. The Wolves would have limited options for upgrading the frontcourt. They will no longer create a $33 million trade exception and lose access to all trade exceptions created last season, including the $10.8 million one. They also lose the $5.5 million bi-annual exception and get the reduced $6 million taxpayer mid-level exception instead of the $15.5 million one. They are highly unlikely to get a starter with that amount.",
-        "outlet": "Third Apron",
-        "source_url": "https://www.thirdapron.com/p/lamelo-ball-trade-wolves-anthony-edwards"
-      },
-      {
-        "date": "2026-06-26",
-        "text": "Jon Krawczynski: \"They were in on Jaylen Brown as well. It was made clear by the Celtics that he was going to be available and the Wolves were trying to have conversations about what it would take to get Jaylen Brown. I think that they looked at those two, Jaylen Brown and LaMelo Ball, and Brown, just because he's won a championship, he's a little older, he was top-six MVP this year,I think that the Celtics were asking more for Brown than what the Hornets wanted for Ball.\"YouTube",
-        "text_html": "Jon Krawczynski: \"They were in on Jaylen Brown as well. It was made clear by the Celtics that he was going to be available and the Wolves were trying to have conversations about what it would take to get Jaylen Brown. I think that they looked at those two, Jaylen Brown and LaMelo Ball, and Brown, just because he's won a championship, he's a little older, he was top-six MVP this year, <a href=\"https://www.youtube.com/watch?v=Abt4G6MCv8Y&t=670s\" target=\"_blank\" style=\"color: #1a73e8;\">I think that the Celtics were asking more for Brown than what the Hornets wanted for Ball.\"</a>",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=Abt4G6MCv8Y&t=670s"
-      },
-      {
-        "date": "2026-06-26",
-        "text": "Ball, 24, is under contract for the next three seasons and is set to make $40.8 million next year as a running mate for Anthony Edwards in Minnesota.The Raptors were another rumored suitor for the point guard and league sources confirmed to MassLive that the Celtics did not pursue a deal for the former Hornets guard.Booth Newspapers",
-        "text_html": "Ball, 24, is under contract for the next three seasons and is set to make $40.8 million next year as a running mate for Anthony Edwards in Minnesota. <a href=\"https://www.masslive.com/celtics/2026/06/hornets-trade-lamelo-ball-in-blockbuster-deal-to-jaylen-brown-suitor.html\" target=\"_blank\" style=\"color: #1a73e8;\">The Raptors were another rumored suitor for the point guard and league sources confirmed to MassLive that the Celtics did not pursue a deal for the former Hornets guard</a>.",
-        "outlet": "Booth Newspapers",
-        "source_url": "https://www.masslive.com/celtics/2026/06/hornets-trade-lamelo-ball-in-blockbuster-deal-to-jaylen-brown-suitor.html"
-      },
-      {
-        "date": "2026-06-26",
-        "text": "Tim MacMahon: \"I texted several general managers a simple question, what do you think of the LaMelo deal? And one replied one sentence, Tim is a riverboat gambler.And this is big-time, high-stakes gambling that he's doing right here. And you understand the swing that he's taking, you understand the hole in the roster it's creating. Chris Finch is also one of the most creative coaches in the league and he's going to earn his money figuring out how to make this work.\"YouTube",
-        "text_html": "<a href=\"https://www.youtube.com/watch?v=SGuTcodkfCM&t=315s\" target=\"_blank\" style=\"color: #1a73e8;\">Tim MacMahon: \"I texted several general managers a simple question, what do you think of the LaMelo deal? And one replied one sentence, Tim is a riverboat gambler.</a> And this is big-time, high-stakes gambling that he's doing right here. And you understand the swing that he's taking, you understand the hole in the roster it's creating. Chris Finch is also one of the most creative coaches in the league and he's going to earn his money figuring out how to make this work.\"",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=SGuTcodkfCM&t=315s"
       }
     ],
     "Kon Knueppel": [
@@ -2821,13 +2634,6 @@
         "text_html": "Portland previously attempted to trade for Giannis Antetokounmpo this offseason, but he communicated that he didn't have interest in signing long-term with the franchise. <a href=\"https://basketball.realgm.com/wiretap/286322/Blazers-Have-Trade-Interest-In-Jaylen-Brown-Anthony-Davis\" target=\"_blank\" style=\"color: #1a73e8;\">The Blazers could also pursue a trade for Anthony Davis this offseason as the Washington Wizards consider their options</a>. The Blazers could offer a combination of draft capital, Jerami Grant's expiring contract as salary ballast, and young players such as Scoot Henderson and Sharron Sharpe.",
         "outlet": "RealGM",
         "source_url": "https://basketball.realgm.com/wiretap/286322/Blazers-Have-Trade-Interest-In-Jaylen-Brown-Anthony-Davis"
-      },
-      {
-        "date": "2026-06-26",
-        "text": "Chalmers implied that Bronny would be part of this potential move. He went on to highlight how the infrastructure in Miami would serve as the perfect environment to nurture Bronny\u2019s development.\u201cYou could actually get Bronny some real minutes at PG and keep developing him and let him learn from other guys, so I think it\u2019s a great move.\u201dEssentially Sports",
-        "text_html": "Chalmers implied that Bronny would be part of this potential move. He went on to highlight how the infrastructure in Miami would serve as the perfect environment to nurture Bronny\u2019s development. <a href=\"https://www.essentiallysports.com/nba-active-basketball-news-ex-heat-star-mario-chalmers-says-lebron-and-bronny-james-will-join-miami-after-lack-of-communication-from-lakers-per-reports/\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cYou could actually get Bronny some real minutes at PG and keep developing him and let him learn from other guys, so I think it\u2019s a great move.\u201d</a>",
-        "outlet": "Essentially Sports",
-        "source_url": "https://www.essentiallysports.com/nba-active-basketball-news-ex-heat-star-mario-chalmers-says-lebron-and-bronny-james-will-join-miami-after-lack-of-communication-from-lakers-per-reports/"
       }
     ],
     "Andrew Wiggins": [
@@ -3528,13 +3334,6 @@
         "text_html": "There are mixed signals around the NBA on the subject of his availability and the possibility of him being moved, with reports circulating that the two-time Finals MVP would be open to reuniting with his former teams, San Antonio and Toronto, though the Houston Rockets could also be part of that mix, per one source. <a href=\"https://www.sportsnet.ca/nba/article/how-much-are-raptors-willing-to-gamble-in-websters-first-solo-off-season/\" target=\"_blank\" style=\"color: #1a73e8;\">One league source I spoke with said that the Clippers are absolutely not moving him, preferring to let the last year of his contract play out to preserve future flexibility, but still seeing Leonard, who turns 35 on Monday, as part of their future.</a> Others say the opposite, maintaining that the relationship has run its course and that the Clippers largely would \u201clike out of the Kawhi business\u201d so much they aren\u2019t thought to be driving a particularly hard bargain.",
         "outlet": "SportsNet",
         "source_url": "https://www.sportsnet.ca/nba/article/how-much-are-raptors-willing-to-gamble-in-websters-first-solo-off-season/"
-      },
-      {
-        "date": "2026-06-26",
-        "text": "The Kawhi Leonard story featured above revealed Toronto's\u00a0interest\u00a0in exploring trades to try to reacquire the best player they've ever had to team with Scottie Barnes \u2026 with\u00a0sources\u00a0saying that Leonard would indeed have the Raptors on his short list of teams that he's open to signing a\u00a0contract\u00a0extension with in the event that his seven-season relationship with the Clippers came to an end.One of the most notable details from that reporting: Leonard would not be amenable to extending his\u00a0contract, which has just one more season remaining at $50.3 million, if he were traded to the Pistons,\u00a0The Stein Line\u00a0has learned.marcstein.substack.com",
-        "text_html": "The Kawhi Leonard story featured above revealed Toronto's interest in exploring trades to try to reacquire the best player they've ever had to team with Scottie Barnes \u2026 with sources saying that Leonard would indeed have the Raptors on his short list of teams that he's open to signing a contract extension with in the event that his seven-season relationship with the Clippers came to an end. <a href=\"https://marcstein.substack.com/p/the-nbas-latest-trade-and-free-agency-ebd\" target=\"_blank\" style=\"color: #1a73e8;\">One of the most notable details from that reporting: Leonard would not be amenable to extending his contract, which has just one more season remaining at $50.3 million, if he were traded to the Pistons, The Stein Line has learned</a>.",
-        "outlet": "marcstein.substack.com",
-        "source_url": "https://marcstein.substack.com/p/the-nbas-latest-trade-and-free-agency-ebd"
       }
     ],
     "Jalen Duren": [
@@ -3628,34 +3427,6 @@
         "text_html": "Chris Haynes: BREAKING: <a href=\"https://x.com/ChrisBHaynes/status/2071721587955716300\" target=\"_blank\" style=\"color: #1a73e8;\">Due to sizable distance apart in negotiations, Detroit Pistons restricted free agent center Jalen Duren will meet with the Sacramento Kings at the start of free agency with the intentions of structuring a sign-&-trade out of Detroit</a>.",
         "outlet": "x.com",
         "source_url": "https://x.com/ChrisBHaynes/status/2071721587955716300"
-      },
-      {
-        "date": "2026-06-26",
-        "text": "Jake Fischer: There\u2019s also a potential backstop emerging for Boston\u2019s Jaylen Brown trade discussions.Detroit is very much weighing the prospect of signing-and-trading restricted free agent Jalen Duren for Brown, sources say, among other conceptual outcomes, if that option remains available for the Pistons once free agency opens on Tuesday early evening. We have it all @TheSteinLine: http://tinyurl.com/4d92xes6x.com",
-        "text_html": "Jake Fischer: There\u2019s also a potential backstop emerging for Boston\u2019s Jaylen Brown trade discussions. <a href=\"https://x.com/JakeLFischer/status/2070511760071610676\" target=\"_blank\" style=\"color: #1a73e8;\">Detroit is very much weighing the prospect of signing-and-trading restricted free agent Jalen Duren for Brown, sources say, among other conceptual outcomes, if that option remains available for the Pistons once free agency opens on Tuesday early evening</a>. We have it all @TheSteinLine: http://tinyurl.com/4d92xes6",
-        "outlet": "x.com",
-        "source_url": "https://x.com/JakeLFischer/status/2070511760071610676"
-      },
-      {
-        "date": "2026-06-26",
-        "text": "Chris Haynes:Detroit Pistons are conveying that Jalen Duren will not be moved and are solely focused on coming to terms on an agreement to keep their All-Star center,league sources tell me.x.com",
-        "text_html": "Chris Haynes: <a href=\"https://x.com/ChrisBHaynes/status/2070532060981473513?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">Detroit Pistons are conveying that Jalen Duren will not be moved and are solely focused on coming to terms on an agreement to keep their All-Star center,</a> league sources tell me.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/ChrisBHaynes/status/2070532060981473513?s=20"
-      },
-      {
-        "date": "2026-06-26",
-        "text": "All-NBA forwardJalen Duren was underwhelmed by the Detroit Pistons\u2019 initial offer in restricted free agency and is planning to explore sign-and-trade scenarioswhen they are permitted on Tuesday, league\u00a0sources\u00a0told\u00a0The Athletic.New York Times",
-        "text_html": "All-NBA forward <a href=\"https://www.nytimes.com/athletic/7396928/2026/06/26/jalen-duren-pistons-negotiations-extension-trade/\" target=\"_blank\" style=\"color: #1a73e8;\">Jalen Duren was underwhelmed by the Detroit Pistons\u2019 initial offer in restricted free agency and is planning to explore sign-and-trade scenarios</a> when they are permitted on Tuesday, league sources told The Athletic.",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/7396928/2026/06/26/jalen-duren-pistons-negotiations-extension-trade/"
-      },
-      {
-        "date": "2026-06-26",
-        "text": "According to\u00a0the\u00a0sources, who spoke on condition of anonymity because the negotiation is ongoing, the gap between the sides is large enough that Duren is considering ways to land elsewhere,with the sign-and-trade route deemed preferable to signing an offer sheet with another team that the Pistons could, and likely would, match.New York Times",
-        "text_html": "<a href=\"https://www.nytimes.com/athletic/7396928/2026/06/26/jalen-duren-pistons-negotiations-extension-trade/\" target=\"_blank\" style=\"color: #1a73e8;\">According to the sources, who spoke on condition of anonymity because the negotiation is ongoing, the gap between the sides is large enough that Duren is considering ways to land elsewhere,</a> with the sign-and-trade route deemed preferable to signing an offer sheet with another team that the Pistons could, and likely would, match.",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/7396928/2026/06/26/jalen-duren-pistons-negotiations-extension-trade/"
       }
     ],
     "Luka Doncic": [
@@ -3829,13 +3600,6 @@
         "text_html": "According to sources with knowledge of the encounter, Adebayo confronted Herro about comments the guard had made, critiquing the center on social media after their seven-year run as teammates in Miami ended when Herro was traded to Milwaukee as part of a blockbuster deal for Giannis Antetokounmpo. Herro responded verbally in a way that Adebayo took exception to and the encounter became <a href=\"https://www.espn.com/nba/story/_/id/49357704/tyler-herro-wants-move-bam-adebayo-altercation\" target=\"_blank\" style=\"color: #1a73e8;\">physical. Sources with knowledge of the encounter told ESPN that Adebayo struck Herro near his chin, although descriptions of the nature of the physical contact is in some dispute</a>. Herro did not get knocked to the ground, according to sources with knowledge of the interaction, who added that he was restrained by others in the gym from responding physically.",
         "outlet": "ESPN",
         "source_url": "https://www.espn.com/nba/story/_/id/49357704/tyler-herro-wants-move-bam-adebayo-altercation"
-      },
-      {
-        "date": "2026-06-26",
-        "text": "Chalmers implied that Bronny would be part of this potential move. He went on to highlight how the infrastructure in Miami would serve as the perfect environment to nurture Bronny\u2019s development.\u201cYou could actually get Bronny some real minutes at PG and keep developing him and let him learn from other guys, so I think it\u2019s a great move.\u201dEssentially Sports",
-        "text_html": "Chalmers implied that Bronny would be part of this potential move. He went on to highlight how the infrastructure in Miami would serve as the perfect environment to nurture Bronny\u2019s development. <a href=\"https://www.essentiallysports.com/nba-active-basketball-news-ex-heat-star-mario-chalmers-says-lebron-and-bronny-james-will-join-miami-after-lack-of-communication-from-lakers-per-reports/\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cYou could actually get Bronny some real minutes at PG and keep developing him and let him learn from other guys, so I think it\u2019s a great move.\u201d</a>",
-        "outlet": "Essentially Sports",
-        "source_url": "https://www.essentiallysports.com/nba-active-basketball-news-ex-heat-star-mario-chalmers-says-lebron-and-bronny-james-will-join-miami-after-lack-of-communication-from-lakers-per-reports/"
       }
     ],
     "Tyler Herro": [
@@ -4801,62 +4565,6 @@
         "text_html": "<a href=\"https://marcstein.substack.com/p/the-nbas-up-to-the-minute-latest-b5a?utm_source=post-email-title&publication_id=392205&post_id=203775724&utm_campaign=email-post-title&isFreemail=false&r=10980&triedRedirect=true&utm_medium=email\" target=\"_blank\" style=\"color: #1a73e8;\">There is one team leaguewide, sources say, most frequently described as actively pursuing Boston's Jaylen Brown. The Portland Trail Blazers</a>. The Blazers have been known to covet Brown dating back to Damian Lillard's first tenure with the franchise. And they still do.",
         "outlet": "marcstein.substack.com",
         "source_url": "https://marcstein.substack.com/p/the-nbas-up-to-the-minute-latest-b5a?utm_source=post-email-title&publication_id=392205&post_id=203775724&utm_campaign=email-post-title&isFreemail=false&r=10980&triedRedirect=true&utm_medium=email"
-      },
-      {
-        "date": "2026-06-26",
-        "text": "John-Griner Canady: .@JakeLFischer adds more context to the Celtics asking price of four first-round picks for Jaylen Brown\u201cI really am skeptical that you\u2019re gonna see Jaylen Brown moved for just draft capital, because the word prevails from New England that the Celtics want to be a contender.\u201dx.com",
-        "text_html": "John-Griner Canady: .@JakeLFischer adds more context to the Celtics asking price of four first-round picks for Jaylen Brown <a href=\"https://x.com/Johng_c/status/2070622485301600421\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cI really am skeptical that you\u2019re gonna see Jaylen Brown moved for just draft capital, because the word prevails from New England that the Celtics want to be a contender.\u201d</a>",
-        "outlet": "x.com",
-        "source_url": "https://x.com/Johng_c/status/2070622485301600421"
-      },
-      {
-        "date": "2026-06-26",
-        "text": "Jake Fischer: There\u2019s also a potential backstop emerging for Boston\u2019s Jaylen Brown trade discussions.Detroit is very much weighing the prospect of signing-and-trading restricted free agent Jalen Duren for Brown, sources say, among other conceptual outcomes, if that option remains available for the Pistons once free agency opens on Tuesday early evening. We have it all @TheSteinLine: http://tinyurl.com/4d92xes6x.com",
-        "text_html": "Jake Fischer: There\u2019s also a potential backstop emerging for Boston\u2019s Jaylen Brown trade discussions. <a href=\"https://x.com/JakeLFischer/status/2070511760071610676\" target=\"_blank\" style=\"color: #1a73e8;\">Detroit is very much weighing the prospect of signing-and-trading restricted free agent Jalen Duren for Brown, sources say, among other conceptual outcomes, if that option remains available for the Pistons once free agency opens on Tuesday early evening</a>. We have it all @TheSteinLine: http://tinyurl.com/4d92xes6",
-        "outlet": "x.com",
-        "source_url": "https://x.com/JakeLFischer/status/2070511760071610676"
-      },
-      {
-        "date": "2026-06-26",
-        "text": "The Timberwolves explored multiple avenues to add another star next to Edwards in the days leading up to landing Ball. There were discussions with the Chicago Bulls about Josh Giddey.They had talks with the Boston Celtics about Jaylen Brown, a team source said, but the Celtics were looking for a package including Gobert, Reid and similar pick compensation that went to Charlotte for Ball, team sources said.That was just too much for the Wolves to pay for a soon-to-be 30-year-old forward who, while being a better overall player than Ball, wasn\u2019t as clean a fit next to Edwards.New York Times",
-        "text_html": "The Timberwolves explored multiple avenues to add another star next to Edwards in the days leading up to landing Ball. There were discussions with the Chicago Bulls about Josh Giddey. <a href=\"https://www.nytimes.com/athletic/7395316/2026/06/26/lamelo-ball-trade-timberwolves-anthony-edwards-fit-background/?source=emp_shared_article&unlocked_article_code=1.tFA.EDvc.DgsxttWoVQu1\" target=\"_blank\" style=\"color: #1a73e8;\">They had talks with the Boston Celtics about Jaylen Brown, a team source said, but the Celtics were looking for a package including Gobert, Reid and similar pick compensation that went to Charlotte for Ball, team sources said.</a> That was just too much for the Wolves to pay for a soon-to-be 30-year-old forward who, while being a better overall player than Ball, wasn\u2019t as clean a fit next to Edwards.",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/7395316/2026/06/26/lamelo-ball-trade-timberwolves-anthony-edwards-fit-background/?source=emp_shared_article&unlocked_article_code=1.tFA.EDvc.DgsxttWoVQu1"
-      },
-      {
-        "date": "2026-06-26",
-        "text": "Ultimately, though the Celtics were willing to part with Brown, they weren't willing to also include young prospects Hugo Gonzalez and Baylor Scheierman to land Antetokounmpo, a decision that has put them in an awkward situation with Brown.Multiple sources say the team is still engaging in trade discussions for the five-time All-Star. Says one league source: \"It'd be insane for Boston to bring him back after dangling him so publicly.\" Says another: \"I wouldn't do a damn thing. Those two guys are so good, you can't just trade Jaylen because it's awkward. Make everyone come back and figure it out.\"ESPN",
-        "text_html": "Ultimately, though the Celtics were willing to part with Brown, they weren't willing to also include young prospects Hugo Gonzalez and Baylor Scheierman to land Antetokounmpo, a decision that has put them in an awkward situation with Brown. <a href=\"https://www.espn.com/nba/story/_/id/49177886/inside-giannis-antetokounmpo-trade-milwaukee-bucks-boston-celtics-miami-heat-nba-offseason\" target=\"_blank\" style=\"color: #1a73e8;\">Multiple sources say the team is still engaging in trade discussions for the five-time All-Star</a>. Says one league source: \"It'd be insane for Boston to bring him back after dangling him so publicly.\" Says another: \"I wouldn't do a damn thing. Those two guys are so good, you can't just trade Jaylen because it's awkward. Make everyone come back and figure it out.\"",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/49177886/inside-giannis-antetokounmpo-trade-milwaukee-bucks-boston-celtics-miami-heat-nba-offseason"
-      },
-      {
-        "date": "2026-06-26",
-        "text": "Shams Charania on Jaylen Brown:My understanding is in some cases the Celtics have asked teams for at least four first-round picks.The part that makes it tricky here is Jaylen Brown's got three years left on his deal at a super max clip. Which team meets that valuation so far that the Celtics have set in some regard with four first-round picks? And I think throughout all of this, the question is going to be which side will influence the urgency of a trade? Because if he's got three years left, technically there there shouldn't be a rush, but clearly Jaylen Brown could feel a certain type of way based on what's happened over the last several weeks with his inclusion in the Giannis deal.YouTube",
-        "text_html": "Shams Charania on Jaylen Brown: <a href=\"https://www.youtube.com/watch?v=eHZHK7V7ark&t=305s\" target=\"_blank\" style=\"color: #1a73e8;\">My understanding is in some cases the Celtics have asked teams for at least four first-round picks.</a> The part that makes it tricky here is Jaylen Brown's got three years left on his deal at a super max clip. Which team meets that valuation so far that the Celtics have set in some regard with four first-round picks? And I think throughout all of this, the question is going to be which side will influence the urgency of a trade? Because if he's got three years left, technically there there shouldn't be a rush, but clearly Jaylen Brown could feel a certain type of way based on what's happened over the last several weeks with his inclusion in the Giannis deal.",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=eHZHK7V7ark&t=305s"
-      },
-      {
-        "date": "2026-06-26",
-        "text": "Mike Lacett:I\u2019m hearing the @hornets are one of these teamsx.com",
-        "text_html": "Mike Lacett: <a href=\"https://x.com/YahooSports/status/2069941248081731778\" target=\"_blank\" style=\"color: #1a73e8;\">I\u2019m hearing the @hornets are one of these teams</a>",
-        "outlet": "x.com",
-        "source_url": "https://x.com/YahooSports/status/2069941248081731778"
-      },
-      {
-        "date": "2026-06-26",
-        "text": "According to Brian Windhorst, Boston is actively discussing Brown with multiple teams and expects those conversations to continue as the organization considers reshaping its roster.\u201cHe\u2019s going to get traded,\u201d the analyst said on ESPN\u2019s Unsportsmanlike. Windhorst also noted that while Celtics president Brad Stevens praised Brown during his recent media availability, he never ruled out the possibility of a trade. \u201cHe obviously told him that there was a good chance they\u2019re going to trade him,\u201d Windhorst added. \u201cIt\u2019s not a guarantee that they\u2019re going to find a deal that they like that\u2019s going to improve the team, but I think they are intending to trade him.\u201dTalkBasket",
-        "text_html": "According to Brian Windhorst, Boston is actively discussing Brown with multiple teams and expects those conversations to continue as the organization considers reshaping its roster. <a href=\"https://www.talkbasket.net/220260-jaylen-brown-expected-to-leave-boston-soon\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cHe\u2019s going to get traded,\u201d the analyst said on ESPN\u2019s Unsportsmanlike</a>. Windhorst also noted that while Celtics president Brad Stevens praised Brown during his recent media availability, he never ruled out the possibility of a trade. \u201cHe obviously told him that there was a good chance they\u2019re going to trade him,\u201d Windhorst added. \u201cIt\u2019s not a guarantee that they\u2019re going to find a deal that they like that\u2019s going to improve the team, but I think they are intending to trade him.\u201d",
-        "outlet": "TalkBasket",
-        "source_url": "https://www.talkbasket.net/220260-jaylen-brown-expected-to-leave-boston-soon"
-      },
-      {
-        "date": "2026-06-26",
-        "text": "Jon Krawczynski: \"They were in on Jaylen Brown as well. It was made clear by the Celtics that he was going to be available and the Wolves were trying to have conversations about what it would take to get Jaylen Brown. I think that they looked at those two, Jaylen Brown and LaMelo Ball, and Brown, just because he's won a championship, he's a little older, he was top-six MVP this year,I think that the Celtics were asking more for Brown than what the Hornets wanted for Ball.\"YouTube",
-        "text_html": "Jon Krawczynski: \"They were in on Jaylen Brown as well. It was made clear by the Celtics that he was going to be available and the Wolves were trying to have conversations about what it would take to get Jaylen Brown. I think that they looked at those two, Jaylen Brown and LaMelo Ball, and Brown, just because he's won a championship, he's a little older, he was top-six MVP this year, <a href=\"https://www.youtube.com/watch?v=Abt4G6MCv8Y&t=670s\" target=\"_blank\" style=\"color: #1a73e8;\">I think that the Celtics were asking more for Brown than what the Hornets wanted for Ball.\"</a>",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=Abt4G6MCv8Y&t=670s"
       }
     ],
     "Jayson Tatum": [
@@ -4924,13 +4632,6 @@
         "text_html": "<a href=\"https://www.nytimes.com/athletic/7446271/2026/07/15/lamelo-ball-timberwolves-introduction-anthony-edwards/?unlocked_article_code=1.x1A.BnZC.Vx9Vas52G5CN&source=emp_shared_article&smid=ta-ios-share\" target=\"_blank\" style=\"color: #1a73e8;\">The Timberwolves had talks with the Celtics about Jaylen Brown, the Milwaukee Bucks about Giannis Antetokounmpo and the Chicago Bulls about Josh Giddey,</a> according to team sources who granted anonymity so they could talk about sensitive negotiations. Brown was intriguing, but the Celtics were asking for a king\u2019s ransom that included Gobert and heavy draft capital. There were also debates about how Edwards and Brown would fit together as two ISO-heavy scorers on offense. Connelly had given chase to Antetokounmpo before last season and at the trade deadline, but the Wolves never got close on a deal there either, sources said. Giddey was another big guard to potentially pair with Edwards, but there was little traction on talks there.",
         "outlet": "New York Times",
         "source_url": "https://www.nytimes.com/athletic/7446271/2026/07/15/lamelo-ball-timberwolves-introduction-anthony-edwards/?unlocked_article_code=1.x1A.BnZC.Vx9Vas52G5CN&source=emp_shared_article&smid=ta-ios-share"
-      },
-      {
-        "date": "2026-06-26",
-        "text": "The Timberwolves explored multiple avenues to add another star next to Edwards in the days leading up to landing Ball. There were discussions with the Chicago Bulls about Josh Giddey.They had talks with the Boston Celtics about Jaylen Brown, a team source said, but the Celtics were looking for a package including Gobert, Reid and similar pick compensation that went to Charlotte for Ball, team sources said.That was just too much for the Wolves to pay for a soon-to-be 30-year-old forward who, while being a better overall player than Ball, wasn\u2019t as clean a fit next to Edwards.New York Times",
-        "text_html": "The Timberwolves explored multiple avenues to add another star next to Edwards in the days leading up to landing Ball. There were discussions with the Chicago Bulls about Josh Giddey. <a href=\"https://www.nytimes.com/athletic/7395316/2026/06/26/lamelo-ball-trade-timberwolves-anthony-edwards-fit-background/?source=emp_shared_article&unlocked_article_code=1.tFA.EDvc.DgsxttWoVQu1\" target=\"_blank\" style=\"color: #1a73e8;\">They had talks with the Boston Celtics about Jaylen Brown, a team source said, but the Celtics were looking for a package including Gobert, Reid and similar pick compensation that went to Charlotte for Ball, team sources said.</a> That was just too much for the Wolves to pay for a soon-to-be 30-year-old forward who, while being a better overall player than Ball, wasn\u2019t as clean a fit next to Edwards.",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/7395316/2026/06/26/lamelo-ball-trade-timberwolves-anthony-edwards-fit-background/?source=emp_shared_article&unlocked_article_code=1.tFA.EDvc.DgsxttWoVQu1"
       }
     ],
     "Nikola Jovic": [
@@ -4991,13 +4692,6 @@
         "text_html": "As the market has developed, sources say <a href=\"https://marcstein.substack.com/p/yes-late-night-intel-with-all-of?utm_source=post-email-title&publication_id=392205&post_id=204779387&utm_campaign=email-post-title&isFreemail=false&r=10980&triedRedirect=true&utm_medium=email\" target=\"_blank\" style=\"color: #1a73e8;\">Rui Hachimura's representation has now been in contact with Minnesota and Golden State as well.</a> The Timberwolves have a well-chronicled need for a power forward after committing to trade away Randle and Naz Reid so they can pair LaMelo Ball with Anthony Edwards and Hachimura is said to stand as their current top choice at the position.",
         "outlet": "marcstein.substack.com",
         "source_url": "https://marcstein.substack.com/p/yes-late-night-intel-with-all-of?utm_source=post-email-title&publication_id=392205&post_id=204779387&utm_campaign=email-post-title&isFreemail=false&r=10980&triedRedirect=true&utm_medium=email"
-      },
-      {
-        "date": "2026-06-26",
-        "text": "According to ESPN's Shams Charania,the Hornets plan to keep Reid on their roster despite already receiving trade inquiries for the versatile big man. \"They already got some trade calls in on [Naz Reid], but the plan is right now to keep him. This is a team that could still shift the roster around a little bit if they want,\" Charania reported on ESPN's SportsCenter.BasketNews",
-        "text_html": "According to ESPN's Shams Charania, <a href=\"https://basketnews.com/news-250602-hornets-decision-naz-reid-future-trade-offers.html\" target=\"_blank\" style=\"color: #1a73e8;\">the Hornets plan to keep Reid on their roster despite already receiving trade inquiries for the versatile big man</a>. \"They already got some trade calls in on [Naz Reid], but the plan is right now to keep him. This is a team that could still shift the roster around a little bit if they want,\" Charania reported on ESPN's SportsCenter.",
-        "outlet": "BasketNews",
-        "source_url": "https://basketnews.com/news-250602-hornets-decision-naz-reid-future-trade-offers.html"
       }
     ],
     "Spencer Jones": [
@@ -5324,13 +5018,6 @@
         "text_html": "Sources say the Heat had interest in Grizzlies point guard Ja Morant before the Giannis deal, but there is not much expectation that he will get bought out. <a href=\"https://sports.yahoo.com/nba/article/warriors-pursuing-lebron-james-and-anthony-davis-kawhi-leonard-on-the-move-heres-the-latest-trade-chatter-013856863.html\" target=\"_blank\" style=\"color: #1a73e8;\">In fact, league sources expect Morant to be traded this week</a>.",
         "outlet": "Yahoo! Sports",
         "source_url": "https://sports.yahoo.com/nba/article/warriors-pursuing-lebron-james-and-anthony-davis-kawhi-leonard-on-the-move-heres-the-latest-trade-chatter-013856863.html"
-      },
-      {
-        "date": "2026-06-26",
-        "text": "At the same time, teams like Minnesota and Toronto \u2014 franchises that had been extremely aggressive in pursuing upgrades \u2014 found themselves with an opportunity to improve their fortunes.The Wolves, after sending Julius Randle to Brooklyn, were left with a $33 million trade exception and a cap book $66 million leaner, while continuing to signal intentions to add a quality point guard, sources say (a pursuit that at one time included Cleveland's James Harden and Memphis' Ja Morant).The Raptors, who league sources say have been signaling buyer's remorse on recent signings, had been finding it difficult to make additional moves and expressed a willingness to involve themselves in the trade rumor mill.Yahoo! Sports",
-        "text_html": "At the same time, teams like Minnesota and Toronto \u2014 franchises that had been extremely aggressive in pursuing upgrades \u2014 found themselves with an opportunity to improve their fortunes. <a href=\"https://sports.yahoo.com/nba/article/how-the-lamelo-ball-era-in-charlotte-came-to-its-sudden-end-000554287.html\" target=\"_blank\" style=\"color: #1a73e8;\">The Wolves, after sending Julius Randle to Brooklyn, were left with a $33 million trade exception and a cap book $66 million leaner, while continuing to signal intentions to add a quality point guard, sources say (a pursuit that at one time included Cleveland's James Harden and Memphis' Ja Morant).</a> The Raptors, who league sources say have been signaling buyer's remorse on recent signings, had been finding it difficult to make additional moves and expressed a willingness to involve themselves in the trade rumor mill.",
-        "outlet": "Yahoo! Sports",
-        "source_url": "https://sports.yahoo.com/nba/article/how-the-lamelo-ball-era-in-charlotte-came-to-its-sudden-end-000554287.html"
       }
     ],
     "Moses Moody": [
@@ -5365,13 +5052,6 @@
         "text_html": "Brett Siegel: Trade details: Hornets: <a href=\"https://x.com/BrettSiegelNBA/status/2075673006685495680?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">Naz Reid, Mouhamadou Gueye, MIN 2033 1st (unprotected), MIN 2028, 2029, 2030 1st SWAPS, MIN 2029, 2032, 2033 2nds</a> Nets: Julius Randle, Joshua Jefferson (Pick No. 28) Timberwolves: LaMelo Ball, Josh Green, Isaiah Evans (Pick No. 33) Bulls: Nic Claxton",
         "outlet": "x.com",
         "source_url": "https://x.com/BrettSiegelNBA/status/2075673006685495680?s=20"
-      },
-      {
-        "date": "2026-06-26",
-        "text": "At the same time, teams like Minnesota and Toronto \u2014 franchises that had been extremely aggressive in pursuing upgrades \u2014 found themselves with an opportunity to improve their fortunes.The Wolves, after sending Julius Randle to Brooklyn, were left with a $33 million trade exception and a cap book $66 million leaner, while continuing to signal intentions to add a quality point guard, sources say (a pursuit that at one time included Cleveland's James Harden and Memphis' Ja Morant).The Raptors, who league sources say have been signaling buyer's remorse on recent signings, had been finding it difficult to make additional moves and expressed a willingness to involve themselves in the trade rumor mill.Yahoo! Sports",
-        "text_html": "At the same time, teams like Minnesota and Toronto \u2014 franchises that had been extremely aggressive in pursuing upgrades \u2014 found themselves with an opportunity to improve their fortunes. <a href=\"https://sports.yahoo.com/nba/article/how-the-lamelo-ball-era-in-charlotte-came-to-its-sudden-end-000554287.html\" target=\"_blank\" style=\"color: #1a73e8;\">The Wolves, after sending Julius Randle to Brooklyn, were left with a $33 million trade exception and a cap book $66 million leaner, while continuing to signal intentions to add a quality point guard, sources say (a pursuit that at one time included Cleveland's James Harden and Memphis' Ja Morant).</a> The Raptors, who league sources say have been signaling buyer's remorse on recent signings, had been finding it difficult to make additional moves and expressed a willingness to involve themselves in the trade rumor mill.",
-        "outlet": "Yahoo! Sports",
-        "source_url": "https://sports.yahoo.com/nba/article/how-the-lamelo-ball-era-in-charlotte-came-to-its-sudden-end-000554287.html"
       }
     ],
     "Josh Green": [
@@ -6120,13 +5800,6 @@
         "text_html": "Shams Charania: <a href=\"https://x.com/ShamsCharania/status/2073081720090587231?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">Charlotte acquires additional draft capital -- it has 20 second-rounders over the next 7 years and now the second-most tradeable picks in the NBA. The Rockets open roster flexibility after acquisitions of Marcus Smart and Bogdan Bogdanovic, plus create a $13 million trade exception</a>.",
         "outlet": "x.com",
         "source_url": "https://x.com/ShamsCharania/status/2073081720090587231?s=20"
-      },
-      {
-        "date": "2026-06-26",
-        "text": "Jake Fischer:The Clippers and Bogdan Bogdanovi\u0107 have agreed to push back his option date to June 29,according to league sources, allowing Los Angeles to continue trade conversations for Bogdanovi\u0107.x.com",
-        "text_html": "Jake Fischer: <a href=\"https://x.com/JakeLFischer/status/2070578389824475445?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">The Clippers and Bogdan Bogdanovi\u0107 have agreed to push back his option date to June 29,</a> according to league sources, allowing Los Angeles to continue trade conversations for Bogdanovi\u0107.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/JakeLFischer/status/2070578389824475445?s=20"
       }
     ],
     "Anthony Edwards": [
@@ -6136,20 +5809,6 @@
         "text_html": "As the market has developed, sources say <a href=\"https://marcstein.substack.com/p/yes-late-night-intel-with-all-of?utm_source=post-email-title&publication_id=392205&post_id=204779387&utm_campaign=email-post-title&isFreemail=false&r=10980&triedRedirect=true&utm_medium=email\" target=\"_blank\" style=\"color: #1a73e8;\">Rui Hachimura's representation has now been in contact with Minnesota and Golden State as well.</a> The Timberwolves have a well-chronicled need for a power forward after committing to trade away Randle and Naz Reid so they can pair LaMelo Ball with Anthony Edwards and Hachimura is said to stand as their current top choice at the position.",
         "outlet": "marcstein.substack.com",
         "source_url": "https://marcstein.substack.com/p/yes-late-night-intel-with-all-of?utm_source=post-email-title&publication_id=392205&post_id=204779387&utm_campaign=email-post-title&isFreemail=false&r=10980&triedRedirect=true&utm_medium=email"
-      },
-      {
-        "date": "2026-06-26",
-        "text": "The once supersized Wolves are now looking very thin in the frontline. They will have a difficult time finding an upgrade with no draft picks left to trade. They might need to part with one of Terrence Shannon Jr. or Joan Beringer to get a team interested. Otherwise, they\u2019re looking at starting a lineup featuring LaMelo Ball, Ayo Dosunmu, Anthony Edwards, Jaden McDaniels, and Rudy Gobert. The Wolves would have limited options for upgrading the frontcourt. They will no longer create a $33 million trade exception and lose access to all trade exceptions created last season, including the $10.8 million one. They also lose the $5.5 million bi-annual exception and get the reduced $6 million taxpayer mid-level exception instead of the $15.5 million one. They are highly unlikely to get a starter with that amount.Third Apron",
-        "text_html": "<a href=\"https://www.thirdapron.com/p/lamelo-ball-trade-wolves-anthony-edwards\" target=\"_blank\" style=\"color: #1a73e8;\">The once supersized Wolves are now looking very thin in the frontline. They will have a difficult time finding an upgrade with no draft picks left to trade. They might need to part with one of Terrence Shannon Jr. or Joan Beringer to get a team interested. Otherwise, they\u2019re looking at starting a lineup featuring LaMelo Ball, Ayo Dosunmu, Anthony Edwards, Jaden McDaniels, and Rudy Gobert</a>. The Wolves would have limited options for upgrading the frontcourt. They will no longer create a $33 million trade exception and lose access to all trade exceptions created last season, including the $10.8 million one. They also lose the $5.5 million bi-annual exception and get the reduced $6 million taxpayer mid-level exception instead of the $15.5 million one. They are highly unlikely to get a starter with that amount.",
-        "outlet": "Third Apron",
-        "source_url": "https://www.thirdapron.com/p/lamelo-ball-trade-wolves-anthony-edwards"
-      },
-      {
-        "date": "2026-06-26",
-        "text": "Ball, 24, is under contract for the next three seasons and is set to make $40.8 million next year as a running mate for Anthony Edwards in Minnesota.The Raptors were another rumored suitor for the point guard and league sources confirmed to MassLive that the Celtics did not pursue a deal for the former Hornets guard.Booth Newspapers",
-        "text_html": "Ball, 24, is under contract for the next three seasons and is set to make $40.8 million next year as a running mate for Anthony Edwards in Minnesota. <a href=\"https://www.masslive.com/celtics/2026/06/hornets-trade-lamelo-ball-in-blockbuster-deal-to-jaylen-brown-suitor.html\" target=\"_blank\" style=\"color: #1a73e8;\">The Raptors were another rumored suitor for the point guard and league sources confirmed to MassLive that the Celtics did not pursue a deal for the former Hornets guard</a>.",
-        "outlet": "Booth Newspapers",
-        "source_url": "https://www.masslive.com/celtics/2026/06/hornets-trade-lamelo-ball-in-blockbuster-deal-to-jaylen-brown-suitor.html"
       }
     ],
     "Norman Powell": [
@@ -6201,15 +5860,6 @@
         "text_html": "Regarding other potential acquisitions, <a href=\"https://www.hoopshype.com/story/sports/nba/2026/06/28/nba-intel-jaylen-brown-trade-talks-jalen-durens-free-agency-nikola-jokics-future-tyler-herro-more/90729174007/\" target=\"_blank\" style=\"color: #1a73e8;\">the Pistons were linked with interest in free agent Norman Powell and Kawhi Leonard as a trade suitor. However, that chatter has lessened over the past few days following the Joe acquisition and rumblings that Leonard wouldn\u2019t want to extend with Detroit within league circles.</a>",
         "outlet": "HoopsHype",
         "source_url": "https://www.hoopshype.com/story/sports/nba/2026/06/28/nba-intel-jaylen-brown-trade-talks-jalen-durens-free-agency-nikola-jokics-future-tyler-herro-more/90729174007/"
-      }
-    ],
-    "DeMar DeRozan": [
-      {
-        "date": "2026-07-02",
-        "text": "Kings wing DeMar DeRozan, who is owed $25 million for the upcoming season \u2014 with only $10 million guaranteed \u2014 is hoping to accelerate his exit, either by being waived and testing the open market or being traded sooner rather than later,sources say. The 37-year-old is expecting to be waived and stretched by the franchise, a similar sentiment shared by rival executives, sources say. Late last month, HoopsHype reported on Sacramento's and DeRozan's looming divorce.Yahoo! Sports",
-        "text_html": "<a href=\"https://sports.yahoo.com/nba/article/jaylen-brown-blockbuster-lakers-makeover-and-a-wild-day-2-of-nba-free-agency-233200215.html\" target=\"_blank\" style=\"color: #1a73e8;\">Kings wing DeMar DeRozan, who is owed $25 million for the upcoming season \u2014 with only $10 million guaranteed \u2014 is hoping to accelerate his exit, either by being waived and testing the open market or being traded sooner rather than later,</a> sources say. The 37-year-old is expecting to be waived and stretched by the franchise, a similar sentiment shared by rival executives, sources say. Late last month, HoopsHype reported on Sacramento's and DeRozan's looming divorce.",
-        "outlet": "Yahoo! Sports",
-        "source_url": "https://sports.yahoo.com/nba/article/jaylen-brown-blockbuster-lakers-makeover-and-a-wild-day-2-of-nba-free-agency-233200215.html"
       }
     ],
     "Tobias Harris": [
@@ -6328,20 +5978,6 @@
         "text_html": "Yossi Gozlan: <a href=\"https://x.com/YossiGozlan/status/2072463658127687820\" target=\"_blank\" style=\"color: #1a73e8;\">I could see the Isaiah Stewart, Isaiah Joe, John Collins, & Santi Aldama trades expand into a five-team trade between the Pistons, Grizzlies, Clippers, Mavericks, & Thunder</a>. Pistons need to send out $20M to match for Collins &amp; Joe. Stewart ($15M) &amp; Marcus Sasser ($5.2M) work.",
         "outlet": "x.com",
         "source_url": "https://x.com/YossiGozlan/status/2072463658127687820"
-      },
-      {
-        "date": "2026-06-26",
-        "text": "Bobby Marks:OKC will create 2 trade exceptions from the Wiggins and Joe trade. Because they are will be created post July 1, both are available despite OKC a second apron team.x.com",
-        "text_html": "Bobby Marks: <a href=\"https://x.com/BobbyMarks42/status/2070530813859647900?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">OKC will create 2 trade exceptions from the Wiggins and Joe trade</a>. Because they are will be created post July 1, both are available despite OKC a second apron team.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/BobbyMarks42/status/2070530813859647900?s=20"
-      },
-      {
-        "date": "2026-06-26",
-        "text": "Shams Charania: Just in:The Oklahoma City Thunder are trading sharpshooter Isaiah Joe to the Detroit Pistons for two future second-round picks, sources tell ESPN.x.com",
-        "text_html": "Shams Charania: Just in: <a href=\"https://x.com/ShamsCharania/status/2070525067893633345?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">The Oklahoma City Thunder are trading sharpshooter Isaiah Joe to the Detroit Pistons for two future second-round picks, sources tell ESPN</a>.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/ShamsCharania/status/2070525067893633345?s=20"
       }
     ],
     "Austin Reaves": [
@@ -6729,13 +6365,6 @@
         "text_html": "LaVine has been the subject of trade rumors and speculation for the past year, but there hasn\u2019t been much of a market for his services due to the size of his contract. <a href=\"https://www.sacbee.com/sports/nba/sacramento-kings/article316316308.html\" target=\"_blank\" style=\"color: #1a73e8;\">The Kings will continue to explore trade possibilities for LaVine as general manager Scott Perry works to overhaul an aging and expensive roster.</a> If they can\u2019t find a deal before the February trade deadline, LaVine\u2019s expiring contract will come off the books next summer, giving Sacramento significant salary cap relief.",
         "outlet": "Sacramento Bee",
         "source_url": "https://www.sacbee.com/sports/nba/sacramento-kings/article316316308.html"
-      },
-      {
-        "date": "2026-06-26",
-        "text": "Sam Amick: LaVine, I don't have clarity on where he might have some promise, but as we've talked about before, it's he's not leaving that money on the table. So if he can't find a situation, againit's a mutual thing where his agent Rich Paul and the Kings are working together trying to look at this. If he can't find somewhere to do, one concept was just a sign and trade for a lower number where Zach could get his next spot, his next chapter, but the Kings would need to like what was coming back in return. I'm not aware of anything that's promising on that front.\"YouTube",
-        "text_html": "Sam Amick: LaVine, I don't have clarity on where he might have some promise, but as we've talked about before, it's he's not leaving that money on the table. So if he can't find a situation, again <a href=\"https://www.youtube.com/watch?v=A1koCPq7FvM&t=940s\" target=\"_blank\" style=\"color: #1a73e8;\">it's a mutual thing where his agent Rich Paul and the Kings are working together trying to look at this. If he can't find somewhere to do, one concept was just a sign and trade for a lower number where Zach could get his next spot, his next chapter, but the Kings would need to like what was coming back in return. I'm not aware of anything that's promising on that front.\"</a>",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=A1koCPq7FvM&t=940s"
       }
     ],
     "Trae Young": [
@@ -6856,13 +6485,6 @@
         "text_html": "Meanwhile, as the Cavaliers navigate James Harden\u2019s return and Wade\u2019s free agency, Cleveland\u2019s <a href=\"https://www.hoopshype.com/story/sports/nba/2026/06/28/nba-intel-jaylen-brown-trade-talks-jalen-durens-free-agency-nikola-jokics-future-tyler-herro-more/90729174007/\" target=\"_blank\" style=\"color: #1a73e8;\">Max Strus and Dennis Schroeder have been mentioned in trade talks with the franchise currently projected over the second apron.</a>",
         "outlet": "HoopsHype",
         "source_url": "https://www.hoopshype.com/story/sports/nba/2026/06/28/nba-intel-jaylen-brown-trade-talks-jalen-durens-free-agency-nikola-jokics-future-tyler-herro-more/90729174007/"
-      },
-      {
-        "date": "2026-06-26",
-        "text": "At the same time, teams like Minnesota and Toronto \u2014 franchises that had been extremely aggressive in pursuing upgrades \u2014 found themselves with an opportunity to improve their fortunes.The Wolves, after sending Julius Randle to Brooklyn, were left with a $33 million trade exception and a cap book $66 million leaner, while continuing to signal intentions to add a quality point guard, sources say (a pursuit that at one time included Cleveland's James Harden and Memphis' Ja Morant).The Raptors, who league sources say have been signaling buyer's remorse on recent signings, had been finding it difficult to make additional moves and expressed a willingness to involve themselves in the trade rumor mill.Yahoo! Sports",
-        "text_html": "At the same time, teams like Minnesota and Toronto \u2014 franchises that had been extremely aggressive in pursuing upgrades \u2014 found themselves with an opportunity to improve their fortunes. <a href=\"https://sports.yahoo.com/nba/article/how-the-lamelo-ball-era-in-charlotte-came-to-its-sudden-end-000554287.html\" target=\"_blank\" style=\"color: #1a73e8;\">The Wolves, after sending Julius Randle to Brooklyn, were left with a $33 million trade exception and a cap book $66 million leaner, while continuing to signal intentions to add a quality point guard, sources say (a pursuit that at one time included Cleveland's James Harden and Memphis' Ja Morant).</a> The Raptors, who league sources say have been signaling buyer's remorse on recent signings, had been finding it difficult to make additional moves and expressed a willingness to involve themselves in the trade rumor mill.",
-        "outlet": "Yahoo! Sports",
-        "source_url": "https://sports.yahoo.com/nba/article/how-the-lamelo-ball-era-in-charlotte-came-to-its-sudden-end-000554287.html"
       }
     ],
     "Dennis Schroeder": [
@@ -6909,158 +6531,11 @@
         "outlet": "marcstein.substack.com",
         "source_url": "https://marcstein.substack.com/p/the-nbas-up-to-the-minute-latest-b5a?utm_source=post-email-title&publication_id=392205&post_id=203775724&utm_campaign=email-post-title&isFreemail=false&r=10980&triedRedirect=true&utm_medium=email"
       }
-    ],
-    "Isaiah Hartenstein": [
-      {
-        "date": "2026-06-26",
-        "text": "Shams Charania: Hartenstein and his reps, Andrew Morrison and Aaron Mintz of CAA Sports, worked with the Thunder on an agreement that brings $75 million in new money over the next three years --plus a maximum 15% trade kicker and a unique mutual option that allows both parties to rework the agreement again in 2028 prior to the final season.x.com",
-        "text_html": "Shams Charania: Hartenstein and his reps, Andrew Morrison and Aaron Mintz of CAA Sports, worked with the Thunder on an agreement that brings $75 million in new money over the next three years -- <a href=\"https://x.com/ShamsCharania/status/2070700941011992794\" target=\"_blank\" style=\"color: #1a73e8;\">plus a maximum 15% trade kicker and a unique mutual option that allows both parties to rework the agreement again in 2028 prior to the final season</a>.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/ShamsCharania/status/2070700941011992794"
-      }
-    ],
-    "Jose Alvarado": [
-      {
-        "date": "2026-06-26",
-        "text": "Ian Begley: Jose Alvarado has declined his $4.5M player option for next season and will be back on a multi-year deal with the Knicks, source confirms.Alvarado was a key piece for the world champs and Knicks have been prioritizing his return this offseasonThe Christ The King product came over to Knicks in deadline trade. ESPN first reported decision/agreementx.com",
-        "text_html": "Ian Begley: Jose Alvarado has declined his $4.5M player option for next season and will be back on a multi-year deal with the Knicks, source confirms. <a href=\"https://x.com/IanBegley/status/2070614158194700328\" target=\"_blank\" style=\"color: #1a73e8;\">Alvarado was a key piece for the world champs and Knicks have been prioritizing his return this offseason</a> The Christ The King product came over to Knicks in deadline trade. ESPN first reported decision/agreement",
-        "outlet": "x.com",
-        "source_url": "https://x.com/IanBegley/status/2070614158194700328"
-      }
-    ],
-    "Baylor Scheierman": [
-      {
-        "date": "2026-06-26",
-        "text": "Ultimately, though the Celtics were willing to part with Brown, they weren't willing to also include young prospects Hugo Gonzalez and Baylor Scheierman to land Antetokounmpo, a decision that has put them in an awkward situation with Brown.Multiple sources say the team is still engaging in trade discussions for the five-time All-Star. Says one league source: \"It'd be insane for Boston to bring him back after dangling him so publicly.\" Says another: \"I wouldn't do a damn thing. Those two guys are so good, you can't just trade Jaylen because it's awkward. Make everyone come back and figure it out.\"ESPN",
-        "text_html": "Ultimately, though the Celtics were willing to part with Brown, they weren't willing to also include young prospects Hugo Gonzalez and Baylor Scheierman to land Antetokounmpo, a decision that has put them in an awkward situation with Brown. <a href=\"https://www.espn.com/nba/story/_/id/49177886/inside-giannis-antetokounmpo-trade-milwaukee-bucks-boston-celtics-miami-heat-nba-offseason\" target=\"_blank\" style=\"color: #1a73e8;\">Multiple sources say the team is still engaging in trade discussions for the five-time All-Star</a>. Says one league source: \"It'd be insane for Boston to bring him back after dangling him so publicly.\" Says another: \"I wouldn't do a damn thing. Those two guys are so good, you can't just trade Jaylen because it's awkward. Make everyone come back and figure it out.\"",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/49177886/inside-giannis-antetokounmpo-trade-milwaukee-bucks-boston-celtics-miami-heat-nba-offseason"
-      }
-    ],
-    "Hugo Gonzalez": [
-      {
-        "date": "2026-06-26",
-        "text": "Ultimately, though the Celtics were willing to part with Brown, they weren't willing to also include young prospects Hugo Gonzalez and Baylor Scheierman to land Antetokounmpo, a decision that has put them in an awkward situation with Brown.Multiple sources say the team is still engaging in trade discussions for the five-time All-Star. Says one league source: \"It'd be insane for Boston to bring him back after dangling him so publicly.\" Says another: \"I wouldn't do a damn thing. Those two guys are so good, you can't just trade Jaylen because it's awkward. Make everyone come back and figure it out.\"ESPN",
-        "text_html": "Ultimately, though the Celtics were willing to part with Brown, they weren't willing to also include young prospects Hugo Gonzalez and Baylor Scheierman to land Antetokounmpo, a decision that has put them in an awkward situation with Brown. <a href=\"https://www.espn.com/nba/story/_/id/49177886/inside-giannis-antetokounmpo-trade-milwaukee-bucks-boston-celtics-miami-heat-nba-offseason\" target=\"_blank\" style=\"color: #1a73e8;\">Multiple sources say the team is still engaging in trade discussions for the five-time All-Star</a>. Says one league source: \"It'd be insane for Boston to bring him back after dangling him so publicly.\" Says another: \"I wouldn't do a damn thing. Those two guys are so good, you can't just trade Jaylen because it's awkward. Make everyone come back and figure it out.\"",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/49177886/inside-giannis-antetokounmpo-trade-milwaukee-bucks-boston-celtics-miami-heat-nba-offseason"
-      }
-    ],
-    "Nicolas Claxton": [
-      {
-        "date": "2026-06-26",
-        "text": "This trade, which can\u2019t be official until July 6 since the Bulls required cap space to acquire Nic Claxton, will be expanded to include the Wolves\u2019 acquisition of Ball for several reasons. The first is that Reid\u2019s $23.3 million salary isn\u2019t enough to match Ball\u2019s $41.25 million individually. Randle\u2019s $33.3 million salary is ($9,098,000 trade exception). Then they could simply trade Reid for Green and create a trade exception worth the difference in their salaries.However, the Wolves can no longer function as a below-apron team. Ball\u2019s $41.25 million salary is too high for them to field a roster below the first apron while factoring in Ayo Dosunmu\u2019s new five-year, $112 million contract. It is expected to start at $19.3 million, the lowest it could be with standard raises. They now must operate as an above-apron team so they can fill the rest of the roster, meaning they must do a 100 percent salary match.Third Apron",
-        "text_html": "This trade, which can\u2019t be official until July 6 since the Bulls required cap space to acquire Nic Claxton, will be expanded to include the Wolves\u2019 acquisition of Ball for several reasons. The first is that Reid\u2019s $23.3 million salary isn\u2019t enough to match Ball\u2019s $41.25 million individually. Randle\u2019s $33.3 million salary is ($9,098,000 trade exception). Then they could simply trade Reid for Green and create a trade exception worth the difference in their salaries. <a href=\"https://www.thirdapron.com/p/lamelo-ball-trade-wolves-anthony-edwards\" target=\"_blank\" style=\"color: #1a73e8;\">However, the Wolves can no longer function as a below-apron team. Ball\u2019s $41.25 million salary is too high for them to field a roster below the first apron while factoring in Ayo Dosunmu\u2019s new five-year, $112 million contract. It is expected to start at $19.3 million, the lowest it could be with standard raises. They now must operate as an above-apron team so they can fill the rest of the roster, meaning they must do a 100 percent salary match</a>.",
-        "outlet": "Third Apron",
-        "source_url": "https://www.thirdapron.com/p/lamelo-ball-trade-wolves-anthony-edwards"
-      },
-      {
-        "date": "2026-06-26",
-        "text": "The once supersized Wolves are now looking very thin in the frontline. They will have a difficult time finding an upgrade with no draft picks left to trade. They might need to part with one of Terrence Shannon Jr. or Joan Beringer to get a team interested. Otherwise, they\u2019re looking at starting a lineup featuring LaMelo Ball, Ayo Dosunmu, Anthony Edwards, Jaden McDaniels, and Rudy Gobert. The Wolves would have limited options for upgrading the frontcourt. They will no longer create a $33 million trade exception and lose access to all trade exceptions created last season, including the $10.8 million one. They also lose the $5.5 million bi-annual exception and get the reduced $6 million taxpayer mid-level exception instead of the $15.5 million one. They are highly unlikely to get a starter with that amount.Third Apron",
-        "text_html": "<a href=\"https://www.thirdapron.com/p/lamelo-ball-trade-wolves-anthony-edwards\" target=\"_blank\" style=\"color: #1a73e8;\">The once supersized Wolves are now looking very thin in the frontline. They will have a difficult time finding an upgrade with no draft picks left to trade. They might need to part with one of Terrence Shannon Jr. or Joan Beringer to get a team interested. Otherwise, they\u2019re looking at starting a lineup featuring LaMelo Ball, Ayo Dosunmu, Anthony Edwards, Jaden McDaniels, and Rudy Gobert</a>. The Wolves would have limited options for upgrading the frontcourt. They will no longer create a $33 million trade exception and lose access to all trade exceptions created last season, including the $10.8 million one. They also lose the $5.5 million bi-annual exception and get the reduced $6 million taxpayer mid-level exception instead of the $15.5 million one. They are highly unlikely to get a starter with that amount.",
-        "outlet": "Third Apron",
-        "source_url": "https://www.thirdapron.com/p/lamelo-ball-trade-wolves-anthony-edwards"
-      }
-    ],
-    "Ayo Dosunmu": [
-      {
-        "date": "2026-06-26",
-        "text": "This trade, which can\u2019t be official until July 6 since the Bulls required cap space to acquire Nic Claxton, will be expanded to include the Wolves\u2019 acquisition of Ball for several reasons. The first is that Reid\u2019s $23.3 million salary isn\u2019t enough to match Ball\u2019s $41.25 million individually. Randle\u2019s $33.3 million salary is ($9,098,000 trade exception). Then they could simply trade Reid for Green and create a trade exception worth the difference in their salaries.However, the Wolves can no longer function as a below-apron team. Ball\u2019s $41.25 million salary is too high for them to field a roster below the first apron while factoring in Ayo Dosunmu\u2019s new five-year, $112 million contract. It is expected to start at $19.3 million, the lowest it could be with standard raises. They now must operate as an above-apron team so they can fill the rest of the roster, meaning they must do a 100 percent salary match.Third Apron",
-        "text_html": "This trade, which can\u2019t be official until July 6 since the Bulls required cap space to acquire Nic Claxton, will be expanded to include the Wolves\u2019 acquisition of Ball for several reasons. The first is that Reid\u2019s $23.3 million salary isn\u2019t enough to match Ball\u2019s $41.25 million individually. Randle\u2019s $33.3 million salary is ($9,098,000 trade exception). Then they could simply trade Reid for Green and create a trade exception worth the difference in their salaries. <a href=\"https://www.thirdapron.com/p/lamelo-ball-trade-wolves-anthony-edwards\" target=\"_blank\" style=\"color: #1a73e8;\">However, the Wolves can no longer function as a below-apron team. Ball\u2019s $41.25 million salary is too high for them to field a roster below the first apron while factoring in Ayo Dosunmu\u2019s new five-year, $112 million contract. It is expected to start at $19.3 million, the lowest it could be with standard raises. They now must operate as an above-apron team so they can fill the rest of the roster, meaning they must do a 100 percent salary match</a>.",
-        "outlet": "Third Apron",
-        "source_url": "https://www.thirdapron.com/p/lamelo-ball-trade-wolves-anthony-edwards"
-      },
-      {
-        "date": "2026-06-26",
-        "text": "The once supersized Wolves are now looking very thin in the frontline. They will have a difficult time finding an upgrade with no draft picks left to trade. They might need to part with one of Terrence Shannon Jr. or Joan Beringer to get a team interested. Otherwise, they\u2019re looking at starting a lineup featuring LaMelo Ball, Ayo Dosunmu, Anthony Edwards, Jaden McDaniels, and Rudy Gobert. The Wolves would have limited options for upgrading the frontcourt. They will no longer create a $33 million trade exception and lose access to all trade exceptions created last season, including the $10.8 million one. They also lose the $5.5 million bi-annual exception and get the reduced $6 million taxpayer mid-level exception instead of the $15.5 million one. They are highly unlikely to get a starter with that amount.Third Apron",
-        "text_html": "<a href=\"https://www.thirdapron.com/p/lamelo-ball-trade-wolves-anthony-edwards\" target=\"_blank\" style=\"color: #1a73e8;\">The once supersized Wolves are now looking very thin in the frontline. They will have a difficult time finding an upgrade with no draft picks left to trade. They might need to part with one of Terrence Shannon Jr. or Joan Beringer to get a team interested. Otherwise, they\u2019re looking at starting a lineup featuring LaMelo Ball, Ayo Dosunmu, Anthony Edwards, Jaden McDaniels, and Rudy Gobert</a>. The Wolves would have limited options for upgrading the frontcourt. They will no longer create a $33 million trade exception and lose access to all trade exceptions created last season, including the $10.8 million one. They also lose the $5.5 million bi-annual exception and get the reduced $6 million taxpayer mid-level exception instead of the $15.5 million one. They are highly unlikely to get a starter with that amount.",
-        "outlet": "Third Apron",
-        "source_url": "https://www.thirdapron.com/p/lamelo-ball-trade-wolves-anthony-edwards"
-      }
-    ],
-    "Rudy Gobert": [
-      {
-        "date": "2026-06-26",
-        "text": "The once supersized Wolves are now looking very thin in the frontline. They will have a difficult time finding an upgrade with no draft picks left to trade. They might need to part with one of Terrence Shannon Jr. or Joan Beringer to get a team interested. Otherwise, they\u2019re looking at starting a lineup featuring LaMelo Ball, Ayo Dosunmu, Anthony Edwards, Jaden McDaniels, and Rudy Gobert. The Wolves would have limited options for upgrading the frontcourt. They will no longer create a $33 million trade exception and lose access to all trade exceptions created last season, including the $10.8 million one. They also lose the $5.5 million bi-annual exception and get the reduced $6 million taxpayer mid-level exception instead of the $15.5 million one. They are highly unlikely to get a starter with that amount.Third Apron",
-        "text_html": "<a href=\"https://www.thirdapron.com/p/lamelo-ball-trade-wolves-anthony-edwards\" target=\"_blank\" style=\"color: #1a73e8;\">The once supersized Wolves are now looking very thin in the frontline. They will have a difficult time finding an upgrade with no draft picks left to trade. They might need to part with one of Terrence Shannon Jr. or Joan Beringer to get a team interested. Otherwise, they\u2019re looking at starting a lineup featuring LaMelo Ball, Ayo Dosunmu, Anthony Edwards, Jaden McDaniels, and Rudy Gobert</a>. The Wolves would have limited options for upgrading the frontcourt. They will no longer create a $33 million trade exception and lose access to all trade exceptions created last season, including the $10.8 million one. They also lose the $5.5 million bi-annual exception and get the reduced $6 million taxpayer mid-level exception instead of the $15.5 million one. They are highly unlikely to get a starter with that amount.",
-        "outlet": "Third Apron",
-        "source_url": "https://www.thirdapron.com/p/lamelo-ball-trade-wolves-anthony-edwards"
-      }
-    ],
-    "Jaden McDaniels": [
-      {
-        "date": "2026-06-26",
-        "text": "The once supersized Wolves are now looking very thin in the frontline. They will have a difficult time finding an upgrade with no draft picks left to trade. They might need to part with one of Terrence Shannon Jr. or Joan Beringer to get a team interested. Otherwise, they\u2019re looking at starting a lineup featuring LaMelo Ball, Ayo Dosunmu, Anthony Edwards, Jaden McDaniels, and Rudy Gobert. The Wolves would have limited options for upgrading the frontcourt. They will no longer create a $33 million trade exception and lose access to all trade exceptions created last season, including the $10.8 million one. They also lose the $5.5 million bi-annual exception and get the reduced $6 million taxpayer mid-level exception instead of the $15.5 million one. They are highly unlikely to get a starter with that amount.Third Apron",
-        "text_html": "<a href=\"https://www.thirdapron.com/p/lamelo-ball-trade-wolves-anthony-edwards\" target=\"_blank\" style=\"color: #1a73e8;\">The once supersized Wolves are now looking very thin in the frontline. They will have a difficult time finding an upgrade with no draft picks left to trade. They might need to part with one of Terrence Shannon Jr. or Joan Beringer to get a team interested. Otherwise, they\u2019re looking at starting a lineup featuring LaMelo Ball, Ayo Dosunmu, Anthony Edwards, Jaden McDaniels, and Rudy Gobert</a>. The Wolves would have limited options for upgrading the frontcourt. They will no longer create a $33 million trade exception and lose access to all trade exceptions created last season, including the $10.8 million one. They also lose the $5.5 million bi-annual exception and get the reduced $6 million taxpayer mid-level exception instead of the $15.5 million one. They are highly unlikely to get a starter with that amount.",
-        "outlet": "Third Apron",
-        "source_url": "https://www.thirdapron.com/p/lamelo-ball-trade-wolves-anthony-edwards"
-      },
-      {
-        "date": "2026-06-26",
-        "text": "(Jaden McDaniels, who rival teams have sternly been sent in the opposite direction when inquiring, sources say, is considered part of Minnesota's new big three.)Yahoo! Sports",
-        "text_html": "<a href=\"https://sports.yahoo.com/nba/article/how-the-lamelo-ball-era-in-charlotte-came-to-its-sudden-end-000554287.html\" target=\"_blank\" style=\"color: #1a73e8;\">(Jaden McDaniels, who rival teams have sternly been sent in the opposite direction when inquiring, sources say, is considered part of Minnesota's new big three.)</a>",
-        "outlet": "Yahoo! Sports",
-        "source_url": "https://sports.yahoo.com/nba/article/how-the-lamelo-ball-era-in-charlotte-came-to-its-sudden-end-000554287.html"
-      }
-    ],
-    "Terrence Shannon": [
-      {
-        "date": "2026-06-26",
-        "text": "The once supersized Wolves are now looking very thin in the frontline. They will have a difficult time finding an upgrade with no draft picks left to trade. They might need to part with one of Terrence Shannon Jr. or Joan Beringer to get a team interested. Otherwise, they\u2019re looking at starting a lineup featuring LaMelo Ball, Ayo Dosunmu, Anthony Edwards, Jaden McDaniels, and Rudy Gobert. The Wolves would have limited options for upgrading the frontcourt. They will no longer create a $33 million trade exception and lose access to all trade exceptions created last season, including the $10.8 million one. They also lose the $5.5 million bi-annual exception and get the reduced $6 million taxpayer mid-level exception instead of the $15.5 million one. They are highly unlikely to get a starter with that amount.Third Apron",
-        "text_html": "<a href=\"https://www.thirdapron.com/p/lamelo-ball-trade-wolves-anthony-edwards\" target=\"_blank\" style=\"color: #1a73e8;\">The once supersized Wolves are now looking very thin in the frontline. They will have a difficult time finding an upgrade with no draft picks left to trade. They might need to part with one of Terrence Shannon Jr. or Joan Beringer to get a team interested. Otherwise, they\u2019re looking at starting a lineup featuring LaMelo Ball, Ayo Dosunmu, Anthony Edwards, Jaden McDaniels, and Rudy Gobert</a>. The Wolves would have limited options for upgrading the frontcourt. They will no longer create a $33 million trade exception and lose access to all trade exceptions created last season, including the $10.8 million one. They also lose the $5.5 million bi-annual exception and get the reduced $6 million taxpayer mid-level exception instead of the $15.5 million one. They are highly unlikely to get a starter with that amount.",
-        "outlet": "Third Apron",
-        "source_url": "https://www.thirdapron.com/p/lamelo-ball-trade-wolves-anthony-edwards"
-      }
-    ],
-    "Joan Beringer": [
-      {
-        "date": "2026-06-26",
-        "text": "The once supersized Wolves are now looking very thin in the frontline. They will have a difficult time finding an upgrade with no draft picks left to trade. They might need to part with one of Terrence Shannon Jr. or Joan Beringer to get a team interested. Otherwise, they\u2019re looking at starting a lineup featuring LaMelo Ball, Ayo Dosunmu, Anthony Edwards, Jaden McDaniels, and Rudy Gobert. The Wolves would have limited options for upgrading the frontcourt. They will no longer create a $33 million trade exception and lose access to all trade exceptions created last season, including the $10.8 million one. They also lose the $5.5 million bi-annual exception and get the reduced $6 million taxpayer mid-level exception instead of the $15.5 million one. They are highly unlikely to get a starter with that amount.Third Apron",
-        "text_html": "<a href=\"https://www.thirdapron.com/p/lamelo-ball-trade-wolves-anthony-edwards\" target=\"_blank\" style=\"color: #1a73e8;\">The once supersized Wolves are now looking very thin in the frontline. They will have a difficult time finding an upgrade with no draft picks left to trade. They might need to part with one of Terrence Shannon Jr. or Joan Beringer to get a team interested. Otherwise, they\u2019re looking at starting a lineup featuring LaMelo Ball, Ayo Dosunmu, Anthony Edwards, Jaden McDaniels, and Rudy Gobert</a>. The Wolves would have limited options for upgrading the frontcourt. They will no longer create a $33 million trade exception and lose access to all trade exceptions created last season, including the $10.8 million one. They also lose the $5.5 million bi-annual exception and get the reduced $6 million taxpayer mid-level exception instead of the $15.5 million one. They are highly unlikely to get a starter with that amount.",
-        "outlet": "Third Apron",
-        "source_url": "https://www.thirdapron.com/p/lamelo-ball-trade-wolves-anthony-edwards"
-      }
-    ],
-    "Scottie Barnes": [
-      {
-        "date": "2026-06-26",
-        "text": "The Kawhi Leonard story featured above revealed Toronto's\u00a0interest\u00a0in exploring trades to try to reacquire the best player they've ever had to team with Scottie Barnes \u2026 with\u00a0sources\u00a0saying that Leonard would indeed have the Raptors on his short list of teams that he's open to signing a\u00a0contract\u00a0extension with in the event that his seven-season relationship with the Clippers came to an end.One of the most notable details from that reporting: Leonard would not be amenable to extending his\u00a0contract, which has just one more season remaining at $50.3 million, if he were traded to the Pistons,\u00a0The Stein Line\u00a0has learned.marcstein.substack.com",
-        "text_html": "The Kawhi Leonard story featured above revealed Toronto's interest in exploring trades to try to reacquire the best player they've ever had to team with Scottie Barnes \u2026 with sources saying that Leonard would indeed have the Raptors on his short list of teams that he's open to signing a contract extension with in the event that his seven-season relationship with the Clippers came to an end. <a href=\"https://marcstein.substack.com/p/the-nbas-latest-trade-and-free-agency-ebd\" target=\"_blank\" style=\"color: #1a73e8;\">One of the most notable details from that reporting: Leonard would not be amenable to extending his contract, which has just one more season remaining at $50.3 million, if he were traded to the Pistons, The Stein Line has learned</a>.",
-        "outlet": "marcstein.substack.com",
-        "source_url": "https://marcstein.substack.com/p/the-nbas-latest-trade-and-free-agency-ebd"
-      }
-    ],
-    "Nikola Vucevic": [
-      {
-        "date": "2026-06-26",
-        "text": "Nikola Vucevic on Celtics: \u2018The hardest thing for me was that I had been a starter for such a long number of years and seasons, where I had my set minutes, thirty-plus minutes, a certain number of shots, and a defined role.When you play like that, you know what is expected of you and you are used to your own rhythm. Coming to Boston, I was prepared for the possibility that I would very likely be coming off the bench if a trade occurred. Regarding me personally, it wasn\u2019t a problem to adapt from an ego standpoint, or that I felt any different, but coming off the bench is simply entirely different, especially for a center. You depend on how the starting center plays. In some games I played more, in some less, but when the minutes are lower, it isn't easy to find your rhythm. It might have looked better if I had been there from the start of the summer.\u2019YouTube",
-        "text_html": "<a href=\"https://www.youtube.com/watch?v=DoLC30EFV28\" target=\"_blank\" style=\"color: #1a73e8;\">Nikola Vucevic on Celtics: \u2018The hardest thing for me was that I had been a starter for such a long number of years and seasons, where I had my set minutes, thirty-plus minutes, a certain number of shots, and a defined role.</a> When you play like that, you know what is expected of you and you are used to your own rhythm. Coming to Boston, I was prepared for the possibility that I would very likely be coming off the bench if a trade occurred. Regarding me personally, it wasn\u2019t a problem to adapt from an ego standpoint, or that I felt any different, but coming off the bench is simply entirely different, especially for a center. You depend on how the starting center plays. In some games I played more, in some less, but when the minutes are lower, it isn't easy to find your rhythm. It might have looked better if I had been there from the start of the summer.\u2019",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=DoLC30EFV28"
-      }
-    ],
-    "Jarrett Allen": [
-      {
-        "date": "2026-06-26",
-        "text": "Windhorst added, \u201cHe is still a max-level player. \u2026The only real way that I can see that the Cavs could get LeBron the money would be to do a trade with Jarrett Allen. \u2026 But I don\u2019t think that would improve the Cavs. \u2026 I don\u2019t see the pathway.\u201dPro Football Network",
-        "text_html": "Windhorst added, \u201cHe is still a max-level player. \u2026 <a href=\"https://www.profootballnetwork.com/nba/dont-see-pathway-nba-insider-pours-cold-water-lebron-james-cavaliers-rumors-major-obstacle-june-2026/\" target=\"_blank\" style=\"color: #1a73e8;\">The only real way that I can see that the Cavs could get LeBron the money would be to do a trade with Jarrett Allen. \u2026 But I don\u2019t think that would improve the Cavs. \u2026 I don\u2019t see the pathway.\u201d</a>",
-        "outlet": "Pro Football Network",
-        "source_url": "https://www.profootballnetwork.com/nba/dont-see-pathway-nba-insider-pours-cold-water-lebron-james-cavaliers-rumors-major-obstacle-june-2026/"
-      }
-    ],
-    "Mark Williams": [
-      {
-        "date": "2026-06-26",
-        "text": "John Gambadoro: A couple of things here.The Mark Williams three-year contract is very tradeable especially if he plays well.He will start and when Maluach is ready whenever that may be Mark can either be a backup or be traded. Second, I understand many fans wanted a big move not to run it back with a team that got swept in the first-round by OKC. What I would say is that they are going to rely on a second year of Jordan Ott and his system, health of Jalen Green and Grayson Allen, development of Fleming and Maluach and just continuity of playing together with the same guys to improve on last season - how much? Not sure but I would think their goal is to get into a top 6 seed and improve on last years win total.x.com",
-        "text_html": "John Gambadoro: A couple of things here. <a href=\"https://x.com/Gambo987/status/2070308189942509861\" target=\"_blank\" style=\"color: #1a73e8;\">The Mark Williams three-year contract is very tradeable especially if he plays well.</a> He will start and when Maluach is ready whenever that may be Mark can either be a backup or be traded. Second, I understand many fans wanted a big move not to run it back with a team that got swept in the first-round by OKC. What I would say is that they are going to rely on a second year of Jordan Ott and his system, health of Jalen Green and Grayson Allen, development of Fleming and Maluach and just continuity of playing together with the same guys to improve on last season - how much? Not sure but I would think their goal is to get into a top 6 seed and improve on last years win total.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/Gambo987/status/2070308189942509861"
-      }
     ]
   },
   "daily_counts": {
     "LeBron James": {
-      "2026-07-24": 2,
+      "2026-07-24": 3,
       "2026-07-23": 4,
       "2026-07-22": 1,
       "2026-07-20": 1,
@@ -7071,17 +6546,14 @@
       "2026-07-01": 2,
       "2026-06-30": 6,
       "2026-06-29": 6,
-      "2026-06-28": 2,
-      "2026-06-26": 2
+      "2026-06-28": 2
     },
-    "Bronny James": {
+    "DeMar DeRozan": {
       "2026-07-24": 1,
-      "2026-07-22": 1,
-      "2026-07-10": 1,
-      "2026-06-26": 1
+      "2026-07-02": 1
     },
     "Klay Thompson": {
-      "2026-07-24": 1,
+      "2026-07-24": 2,
       "2026-07-21": 1,
       "2026-07-19": 3,
       "2026-07-15": 1,
@@ -7092,7 +6564,12 @@
       "2026-06-28": 1
     },
     "Bradley Beal": {
-      "2026-07-24": 1
+      "2026-07-24": 2
+    },
+    "Bronny James": {
+      "2026-07-24": 1,
+      "2026-07-22": 1,
+      "2026-07-10": 1
     },
     "Anthony Davis": {
       "2026-07-24": 1,
@@ -7143,8 +6620,7 @@
       "2026-07-10": 1,
       "2026-07-03": 1,
       "2026-07-02": 3,
-      "2026-06-27": 1,
-      "2026-06-26": 5
+      "2026-06-27": 1
     },
     "Kon Knueppel": {
       "2026-07-24": 1
@@ -7162,8 +6638,7 @@
       "2026-07-03": 1,
       "2026-06-29": 2,
       "2026-06-28": 2,
-      "2026-06-27": 1,
-      "2026-06-26": 1
+      "2026-06-27": 1
     },
     "Andrew Wiggins": {
       "2026-07-23": 1,
@@ -7238,16 +6713,14 @@
       "2026-06-30": 9,
       "2026-06-29": 10,
       "2026-06-28": 9,
-      "2026-06-27": 1,
-      "2026-06-26": 1
+      "2026-06-27": 1
     },
     "Jalen Duren": {
       "2026-07-22": 1,
       "2026-07-20": 1,
       "2026-07-01": 2,
       "2026-06-30": 4,
-      "2026-06-29": 5,
-      "2026-06-26": 4
+      "2026-06-29": 5
     },
     "Luka Doncic": {
       "2026-07-22": 1,
@@ -7274,8 +6747,7 @@
     },
     "Bam Adebayo": {
       "2026-07-20": 1,
-      "2026-07-14": 2,
-      "2026-06-26": 1
+      "2026-07-14": 2
     },
     "Tyler Herro": {
       "2026-07-20": 1,
@@ -7340,8 +6812,7 @@
       "2026-06-30": 13,
       "2026-06-29": 6,
       "2026-06-28": 6,
-      "2026-06-27": 5,
-      "2026-06-26": 8
+      "2026-06-27": 5
     },
     "Jayson Tatum": {
       "2026-07-16": 1,
@@ -7352,8 +6823,7 @@
       "2026-06-30": 1
     },
     "Josh Giddey": {
-      "2026-07-15": 1,
-      "2026-06-26": 1
+      "2026-07-15": 1
     },
     "Nikola Jovic": {
       "2026-07-15": 1,
@@ -7364,8 +6834,7 @@
     "Naz Reid": {
       "2026-07-14": 1,
       "2026-07-10": 1,
-      "2026-07-03": 1,
-      "2026-06-26": 1
+      "2026-07-03": 1
     },
     "Spencer Jones": {
       "2026-07-14": 1
@@ -7404,8 +6873,7 @@
       "2026-07-01": 1,
       "2026-06-30": 6,
       "2026-06-29": 6,
-      "2026-06-28": 1,
-      "2026-06-26": 1
+      "2026-06-28": 1
     },
     "Moses Moody": {
       "2026-07-11": 2
@@ -7414,8 +6882,7 @@
       "2026-07-11": 1
     },
     "Julius Randle": {
-      "2026-07-10": 1,
-      "2026-06-26": 1
+      "2026-07-10": 1
     },
     "Josh Green": {
       "2026-07-10": 1,
@@ -7546,21 +7013,16 @@
       "2026-06-30": 1
     },
     "Bogdan Bogdanovic": {
-      "2026-07-03": 1,
-      "2026-06-26": 1
+      "2026-07-03": 1
     },
     "Anthony Edwards": {
-      "2026-07-03": 1,
-      "2026-06-26": 2
+      "2026-07-03": 1
     },
     "Norman Powell": {
       "2026-07-03": 1,
       "2026-07-01": 1,
       "2026-06-29": 3,
       "2026-06-28": 2
-    },
-    "DeMar DeRozan": {
-      "2026-07-02": 1
     },
     "Tobias Harris": {
       "2026-07-02": 1,
@@ -7591,8 +7053,7 @@
       "2026-07-02": 1
     },
     "Isaiah Joe": {
-      "2026-07-01": 1,
-      "2026-06-26": 2
+      "2026-07-01": 1
     },
     "Austin Reaves": {
       "2026-07-01": 1,
@@ -7672,8 +7133,7 @@
       "2026-06-29": 3
     },
     "Zach LaVine": {
-      "2026-06-29": 1,
-      "2026-06-26": 1
+      "2026-06-29": 1
     },
     "Trae Young": {
       "2026-06-29": 2
@@ -7706,8 +7166,7 @@
       "2026-06-28": 1
     },
     "James Harden": {
-      "2026-06-28": 1,
-      "2026-06-26": 1
+      "2026-06-28": 1
     },
     "Dennis Schroeder": {
       "2026-06-28": 1
@@ -7723,48 +7182,6 @@
     },
     "Myles Turner": {
       "2026-06-27": 1
-    },
-    "Isaiah Hartenstein": {
-      "2026-06-26": 1
-    },
-    "Jose Alvarado": {
-      "2026-06-26": 1
-    },
-    "Baylor Scheierman": {
-      "2026-06-26": 1
-    },
-    "Hugo Gonzalez": {
-      "2026-06-26": 1
-    },
-    "Nicolas Claxton": {
-      "2026-06-26": 2
-    },
-    "Ayo Dosunmu": {
-      "2026-06-26": 2
-    },
-    "Rudy Gobert": {
-      "2026-06-26": 1
-    },
-    "Jaden McDaniels": {
-      "2026-06-26": 2
-    },
-    "Terrence Shannon": {
-      "2026-06-26": 1
-    },
-    "Joan Beringer": {
-      "2026-06-26": 1
-    },
-    "Scottie Barnes": {
-      "2026-06-26": 1
-    },
-    "Nikola Vucevic": {
-      "2026-06-26": 1
-    },
-    "Jarrett Allen": {
-      "2026-06-26": 1
-    },
-    "Mark Williams": {
-      "2026-06-26": 1
     }
   }
 }
