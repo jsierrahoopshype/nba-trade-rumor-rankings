@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-07-31T20:20:27.425188",
+  "generated_at": "2026-08-01T04:20:08.036970",
   "scrape_window_days": 28,
-  "window_start": "2026-07-03",
-  "window_end": "2026-07-31",
-  "total_rumors": 394,
-  "total_players": 107,
+  "window_start": "2026-07-04",
+  "window_end": "2026-08-01",
+  "total_rumors": 372,
+  "total_players": 104,
   "rankings": [
     {
       "player": "LeBron James",
-      "score": 15.25,
-      "mentions_week1": 11,
-      "mentions_week2": 6,
+      "score": 13.75,
+      "mentions_week1": 8,
+      "mentions_week2": 9,
       "mentions_weeks3_4": 5,
       "total_mentions": 22,
       "first_mention": "2026-07-08",
@@ -20,46 +20,46 @@
     },
     {
       "player": "Jaylen Brown",
-      "score": 12.75,
+      "score": 10.75,
       "mentions_week1": 3,
       "mentions_week2": 0,
-      "mentions_weeks3_4": 39,
-      "total_mentions": 42,
-      "first_mention": "2026-07-03",
+      "mentions_weeks3_4": 31,
+      "total_mentions": 34,
+      "first_mention": "2026-07-04",
       "last_mention": "2026-07-30",
       "team": "Boston Celtics",
       "rank": 2
     },
     {
+      "player": "Kawhi Leonard",
+      "score": 9.5,
+      "mentions_week1": 4,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 20,
+      "total_mentions": 25,
+      "first_mention": "2026-07-07",
+      "last_mention": "2026-07-31",
+      "team": "Los Angeles Clippers",
+      "rank": 3
+    },
+    {
       "player": "Klay Thompson",
-      "score": 9.25,
-      "mentions_week1": 6,
-      "mentions_week2": 4,
+      "score": 8.25,
+      "mentions_week1": 4,
+      "mentions_week2": 6,
       "mentions_weeks3_4": 5,
       "total_mentions": 15,
       "first_mention": "2026-07-08",
       "last_mention": "2026-07-28",
       "team": "Dallas Mavericks",
-      "rank": 3
-    },
-    {
-      "player": "Kawhi Leonard",
-      "score": 8.75,
-      "mentions_week1": 3,
-      "mentions_week2": 2,
-      "mentions_weeks3_4": 19,
-      "total_mentions": 24,
-      "first_mention": "2026-07-07",
-      "last_mention": "2026-07-31",
-      "team": "Los Angeles Clippers",
       "rank": 4
     },
     {
       "player": "Peyton Watson",
-      "score": 8.5,
+      "score": 8.25,
       "mentions_week1": 6,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 8,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 9,
       "total_mentions": 15,
       "first_mention": "2026-07-05",
       "last_mention": "2026-07-31",
@@ -68,27 +68,15 @@
     },
     {
       "player": "Jonathan Kuminga",
-      "score": 8.5,
-      "mentions_week1": 6,
+      "score": 7.75,
+      "mentions_week1": 5,
       "mentions_week2": 4,
-      "mentions_weeks3_4": 2,
+      "mentions_weeks3_4": 3,
       "total_mentions": 12,
       "first_mention": "2026-07-13",
       "last_mention": "2026-07-31",
       "team": "Golden State Warriors",
       "rank": 6
-    },
-    {
-      "player": "Anthony Davis",
-      "score": 7.0,
-      "mentions_week1": 2,
-      "mentions_week2": 7,
-      "mentions_weeks3_4": 6,
-      "total_mentions": 15,
-      "first_mention": "2026-07-07",
-      "last_mention": "2026-07-29",
-      "team": "Dallas Mavericks",
-      "rank": 7
     },
     {
       "player": "Johni Broome",
@@ -100,43 +88,31 @@
       "first_mention": "2026-07-26",
       "last_mention": "2026-07-28",
       "team": "Golden State Warriors",
+      "rank": 7
+    },
+    {
+      "player": "Anthony Davis",
+      "score": 6.5,
+      "mentions_week1": 1,
+      "mentions_week2": 8,
+      "mentions_weeks3_4": 6,
+      "total_mentions": 15,
+      "first_mention": "2026-07-07",
+      "last_mention": "2026-07-29",
+      "team": "Dallas Mavericks",
       "rank": 8
     },
     {
       "player": "Giannis Antetokounmpo",
-      "score": 5.75,
+      "score": 5.0,
       "mentions_week1": 3,
-      "mentions_week2": 4,
-      "mentions_weeks3_4": 3,
-      "total_mentions": 10,
-      "first_mention": "2026-07-03",
+      "mentions_week2": 2,
+      "mentions_weeks3_4": 4,
+      "total_mentions": 9,
+      "first_mention": "2026-07-12",
       "last_mention": "2026-07-30",
       "team": "Milwaukee Bucks",
       "rank": 9
-    },
-    {
-      "player": "Kyrie Irving",
-      "score": 3.5,
-      "mentions_week1": 3,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 4,
-      "first_mention": "2026-07-19",
-      "last_mention": "2026-07-27",
-      "team": "Dallas Mavericks",
-      "rank": 10
-    },
-    {
-      "player": "Paul George",
-      "score": 3.25,
-      "mentions_week1": 2,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 5,
-      "total_mentions": 7,
-      "first_mention": "2026-07-03",
-      "last_mention": "2026-07-31",
-      "team": "Philadelphia 76ers",
-      "rank": 11
     },
     {
       "player": "Draymond Green",
@@ -148,7 +124,7 @@
       "first_mention": "2026-07-08",
       "last_mention": "2026-07-31",
       "team": "Golden State Warriors",
-      "rank": 12
+      "rank": 10
     },
     {
       "player": "Bobby Portis",
@@ -160,19 +136,19 @@
       "first_mention": "2026-07-10",
       "last_mention": "2026-07-28",
       "team": "Milwaukee Bucks",
-      "rank": 13
+      "rank": 11
     },
     {
-      "player": "Bradley Beal",
+      "player": "Kyrie Irving",
       "score": 3.0,
-      "mentions_week1": 3,
-      "mentions_week2": 0,
+      "mentions_week1": 2,
+      "mentions_week2": 2,
       "mentions_weeks3_4": 0,
-      "total_mentions": 3,
-      "first_mention": "2026-07-24",
-      "last_mention": "2026-07-30",
-      "team": "Los Angeles Clippers",
-      "rank": 14
+      "total_mentions": 4,
+      "first_mention": "2026-07-19",
+      "last_mention": "2026-07-27",
+      "team": "Dallas Mavericks",
+      "rank": 12
     },
     {
       "player": "Jimmy Butler",
@@ -184,7 +160,7 @@
       "first_mention": "2026-07-28",
       "last_mention": "2026-07-29",
       "team": "Golden State Warriors",
-      "rank": 15
+      "rank": 13
     },
     {
       "player": "Kentavious Caldwell-Pope",
@@ -196,7 +172,19 @@
       "first_mention": "2026-07-26",
       "last_mention": "2026-07-28",
       "team": "Memphis Grizzlies",
-      "rank": 16
+      "rank": 14
+    },
+    {
+      "player": "Paul George",
+      "score": 2.75,
+      "mentions_week1": 2,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 3,
+      "total_mentions": 5,
+      "first_mention": "2026-07-06",
+      "last_mention": "2026-07-31",
+      "team": "Philadelphia 76ers",
+      "rank": 15
     },
     {
       "player": "Khris Middleton",
@@ -208,7 +196,7 @@
       "first_mention": "2026-07-07",
       "last_mention": "2026-07-22",
       "team": "Sacramento Kings",
-      "rank": 17
+      "rank": 16
     },
     {
       "player": "Bennedict Mathurin",
@@ -220,31 +208,19 @@
       "first_mention": "2026-07-05",
       "last_mention": "2026-07-31",
       "team": "Indiana Pacers",
-      "rank": 18
+      "rank": 17
     },
     {
       "player": "De'Aaron Fox",
-      "score": 2.5,
+      "score": 2.25,
       "mentions_week1": 2,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
       "total_mentions": 3,
       "first_mention": "2026-07-17",
       "last_mention": "2026-07-31",
       "team": "San Antonio Spurs",
-      "rank": 19
-    },
-    {
-      "player": "Jayson Tatum",
-      "score": 2.25,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 5,
-      "total_mentions": 6,
-      "first_mention": "2026-07-03",
-      "last_mention": "2026-07-29",
-      "team": "Boston Celtics",
-      "rank": 20
+      "rank": 18
     },
     {
       "player": "Spencer Jones",
@@ -256,7 +232,7 @@
       "first_mention": "2026-07-14",
       "last_mention": "2026-07-27",
       "team": "Denver Nuggets",
-      "rank": 21
+      "rank": 19
     },
     {
       "player": "Stephen Curry",
@@ -268,7 +244,7 @@
       "first_mention": "2026-07-08",
       "last_mention": "2026-07-31",
       "team": "Golden State Warriors",
-      "rank": 22
+      "rank": 20
     },
     {
       "player": "Tyler Herro",
@@ -280,7 +256,7 @@
       "first_mention": "2026-07-10",
       "last_mention": "2026-07-20",
       "team": "Miami Heat",
-      "rank": 23
+      "rank": 21
     },
     {
       "player": "AJ Johnson",
@@ -292,55 +268,31 @@
       "first_mention": "2026-07-07",
       "last_mention": "2026-07-31",
       "team": "Memphis Grizzlies",
-      "rank": 24
+      "rank": 22
     },
     {
-      "player": "Jaden Hardy",
+      "player": "Jayson Tatum",
       "score": 2.0,
       "mentions_week1": 1,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 4,
-      "first_mention": "2026-07-03",
-      "last_mention": "2026-07-24",
-      "team": "Los Angeles Lakers",
-      "rank": 25
-    },
-    {
-      "player": "Jarred Vanderbilt",
-      "score": 2.0,
-      "mentions_week1": 1,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 4,
-      "first_mention": "2026-07-05",
-      "last_mention": "2026-07-24",
-      "team": "Los Angeles Lakers",
-      "rank": 26
-    },
-    {
-      "player": "Luka Doncic",
-      "score": 2.0,
-      "mentions_week1": 1,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 4,
-      "first_mention": "2026-07-03",
-      "last_mention": "2026-07-27",
-      "team": "Los Angeles Lakers",
-      "rank": 27
-    },
-    {
-      "player": "DeMar DeRozan",
-      "score": 2.0,
-      "mentions_week1": 2,
       "mentions_week2": 0,
+      "mentions_weeks3_4": 4,
+      "total_mentions": 5,
+      "first_mention": "2026-07-04",
+      "last_mention": "2026-07-29",
+      "team": "Boston Celtics",
+      "rank": 23
+    },
+    {
+      "player": "Bradley Beal",
+      "score": 2.0,
+      "mentions_week1": 1,
+      "mentions_week2": 2,
       "mentions_weeks3_4": 0,
-      "total_mentions": 2,
+      "total_mentions": 3,
       "first_mention": "2026-07-24",
-      "last_mention": "2026-07-27",
-      "team": "Sacramento Kings",
-      "rank": 28
+      "last_mention": "2026-07-30",
+      "team": "Los Angeles Clippers",
+      "rank": 24
     },
     {
       "player": "Keldon Johnson",
@@ -352,31 +304,31 @@
       "first_mention": "2026-07-29",
       "last_mention": "2026-07-31",
       "team": "San Antonio Spurs",
-      "rank": 29
+      "rank": 25
     },
     {
-      "player": "Deandre Ayton",
-      "score": 1.75,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 3,
-      "total_mentions": 4,
-      "first_mention": "2026-07-03",
-      "last_mention": "2026-07-30",
-      "team": "Los Angeles Lakers",
-      "rank": 30
-    },
-    {
-      "player": "Bronny James",
+      "player": "Luka Doncic",
       "score": 1.75,
       "mentions_week1": 1,
       "mentions_week2": 1,
       "mentions_weeks3_4": 1,
       "total_mentions": 3,
-      "first_mention": "2026-07-10",
+      "first_mention": "2026-07-15",
+      "last_mention": "2026-07-27",
+      "team": "Los Angeles Lakers",
+      "rank": 26
+    },
+    {
+      "player": "Jarred Vanderbilt",
+      "score": 1.5,
+      "mentions_week1": 0,
+      "mentions_week2": 2,
+      "mentions_weeks3_4": 2,
+      "total_mentions": 4,
+      "first_mention": "2026-07-05",
       "last_mention": "2026-07-24",
       "team": "Los Angeles Lakers",
-      "rank": 31
+      "rank": 27
     },
     {
       "player": "Trey Murphy",
@@ -388,7 +340,7 @@
       "first_mention": "2026-07-05",
       "last_mention": "2026-07-22",
       "team": "New Orleans Pelicans",
-      "rank": 32
+      "rank": 28
     },
     {
       "player": "Buddy Hield",
@@ -400,7 +352,7 @@
       "first_mention": "2026-07-20",
       "last_mention": "2026-07-22",
       "team": "Golden State Warriors",
-      "rank": 33
+      "rank": 29
     },
     {
       "player": "Daniel Gafford",
@@ -412,7 +364,19 @@
       "first_mention": "2026-07-19",
       "last_mention": "2026-07-22",
       "team": "Dallas Mavericks",
-      "rank": 34
+      "rank": 30
+    },
+    {
+      "player": "Deandre Ayton",
+      "score": 1.5,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 2,
+      "total_mentions": 3,
+      "first_mention": "2026-07-07",
+      "last_mention": "2026-07-30",
+      "team": "Los Angeles Lakers",
+      "rank": 31
     },
     {
       "player": "Devin Carter",
@@ -424,31 +388,7 @@
       "first_mention": "2026-07-20",
       "last_mention": "2026-07-22",
       "team": "Atlanta Hawks",
-      "rank": 35
-    },
-    {
-      "player": "Kasparas Jakucionis",
-      "score": 1.5,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 3,
-      "first_mention": "2026-07-10",
-      "last_mention": "2026-07-24",
-      "team": "Miami Heat",
-      "rank": 36
-    },
-    {
-      "player": "LaMelo Ball",
-      "score": 1.5,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 3,
-      "first_mention": "2026-07-03",
-      "last_mention": "2026-07-24",
-      "team": "Charlotte Hornets",
-      "rank": 37
+      "rank": 32
     },
     {
       "player": "Moses Moody",
@@ -460,7 +400,7 @@
       "first_mention": "2026-07-11",
       "last_mention": "2026-07-31",
       "team": "Golden State Warriors",
-      "rank": 38
+      "rank": 33
     },
     {
       "player": "Zaccharie Risacher",
@@ -472,19 +412,19 @@
       "first_mention": "2026-07-19",
       "last_mention": "2026-07-19",
       "team": "Atlanta Hawks",
-      "rank": 39
+      "rank": 34
     },
     {
-      "player": "Dalton Knecht",
+      "player": "DeMar DeRozan",
       "score": 1.5,
       "mentions_week1": 1,
       "mentions_week2": 1,
       "mentions_weeks3_4": 0,
       "total_mentions": 2,
-      "first_mention": "2026-07-22",
-      "last_mention": "2026-07-24",
-      "team": "Los Angeles Lakers",
-      "rank": 40
+      "first_mention": "2026-07-24",
+      "last_mention": "2026-07-27",
+      "team": "Sacramento Kings",
+      "rank": 35
     },
     {
       "player": "Jordan Hawkins",
@@ -496,7 +436,7 @@
       "first_mention": "2026-07-23",
       "last_mention": "2026-07-31",
       "team": "Memphis Grizzlies",
-      "rank": 41
+      "rank": 36
     },
     {
       "player": "Caris LeVert",
@@ -508,7 +448,7 @@
       "first_mention": "2026-07-07",
       "last_mention": "2026-07-08",
       "team": "Dallas Mavericks",
-      "rank": 42
+      "rank": 37
     },
     {
       "player": "Gary Harris",
@@ -520,7 +460,7 @@
       "first_mention": "2026-07-07",
       "last_mention": "2026-07-08",
       "team": "Detroit Pistons",
-      "rank": 43
+      "rank": 38
     },
     {
       "player": "Taurean Prince",
@@ -532,7 +472,7 @@
       "first_mention": "2026-07-07",
       "last_mention": "2026-07-08",
       "team": "Detroit Pistons",
-      "rank": 44
+      "rank": 39
     },
     {
       "player": "D'Angelo Russell",
@@ -544,7 +484,31 @@
       "first_mention": "2026-07-07",
       "last_mention": "2026-07-22",
       "team": "Dallas Mavericks",
-      "rank": 45
+      "rank": 40
+    },
+    {
+      "player": "Bronny James",
+      "score": 1.25,
+      "mentions_week1": 0,
+      "mentions_week2": 2,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 3,
+      "first_mention": "2026-07-10",
+      "last_mention": "2026-07-24",
+      "team": "Los Angeles Lakers",
+      "rank": 41
+    },
+    {
+      "player": "Jaden Hardy",
+      "score": 1.25,
+      "mentions_week1": 0,
+      "mentions_week2": 2,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 3,
+      "first_mention": "2026-07-07",
+      "last_mention": "2026-07-24",
+      "team": "Los Angeles Lakers",
+      "rank": 42
     },
     {
       "player": "PJ Washington",
@@ -556,7 +520,7 @@
       "first_mention": "2026-07-11",
       "last_mention": "2026-07-22",
       "team": "Dallas Mavericks",
-      "rank": 46
+      "rank": 43
     },
     {
       "player": "Rui Hachimura",
@@ -568,7 +532,7 @@
       "first_mention": "2026-07-06",
       "last_mention": "2026-07-31",
       "team": "Los Angeles Lakers",
-      "rank": 47
+      "rank": 44
     },
     {
       "player": "Bam Adebayo",
@@ -580,7 +544,31 @@
       "first_mention": "2026-07-14",
       "last_mention": "2026-07-20",
       "team": "Miami Heat",
-      "rank": 48
+      "rank": 45
+    },
+    {
+      "player": "Kasparas Jakucionis",
+      "score": 1.0,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 2,
+      "total_mentions": 3,
+      "first_mention": "2026-07-10",
+      "last_mention": "2026-07-24",
+      "team": "Miami Heat",
+      "rank": 46
+    },
+    {
+      "player": "Dalton Knecht",
+      "score": 1.0,
+      "mentions_week1": 0,
+      "mentions_week2": 2,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 2,
+      "first_mention": "2026-07-22",
+      "last_mention": "2026-07-24",
+      "team": "Los Angeles Lakers",
+      "rank": 47
     },
     {
       "player": "Jalen Duren",
@@ -592,7 +580,7 @@
       "first_mention": "2026-07-20",
       "last_mention": "2026-07-22",
       "team": "Detroit Pistons",
-      "rank": 49
+      "rank": 48
     },
     {
       "player": "Luguentz Dort",
@@ -604,7 +592,7 @@
       "first_mention": "2026-07-19",
       "last_mention": "2026-07-19",
       "team": "Atlanta Hawks",
-      "rank": 50
+      "rank": 49
     },
     {
       "player": "Miles Bridges",
@@ -616,7 +604,7 @@
       "first_mention": "2026-07-22",
       "last_mention": "2026-07-22",
       "team": "Charlotte Hornets",
-      "rank": 51
+      "rank": 50
     },
     {
       "player": "Ryan Nembhard",
@@ -628,7 +616,7 @@
       "first_mention": "2026-07-22",
       "last_mention": "2026-07-22",
       "team": "Atlanta Hawks",
-      "rank": 52
+      "rank": 51
     },
     {
       "player": "Chris Paul",
@@ -640,7 +628,7 @@
       "first_mention": "2026-07-28",
       "last_mention": "2026-07-28",
       "team": "Los Angeles Clippers",
-      "rank": 53
+      "rank": 52
     },
     {
       "player": "Damian Lillard",
@@ -652,7 +640,7 @@
       "first_mention": "2026-07-30",
       "last_mention": "2026-07-30",
       "team": "Cleveland Cavaliers",
-      "rank": 54
+      "rank": 53
     },
     {
       "player": "Dennis Schroeder",
@@ -664,6 +652,18 @@
       "first_mention": "2026-07-28",
       "last_mention": "2026-07-28",
       "team": "Golden State Warriors",
+      "rank": 54
+    },
+    {
+      "player": "Dillon Brooks",
+      "score": 1.0,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-07-31",
+      "last_mention": "2026-07-31",
+      "team": "Phoenix Suns",
       "rank": 55
     },
     {
@@ -703,18 +703,6 @@
       "rank": 58
     },
     {
-      "player": "Kon Knueppel",
-      "score": 1.0,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-07-24",
-      "last_mention": "2026-07-24",
-      "team": "Charlotte Hornets",
-      "rank": 59
-    },
-    {
       "player": "Max Strus",
       "score": 1.0,
       "mentions_week1": 1,
@@ -724,7 +712,7 @@
       "first_mention": "2026-07-31",
       "last_mention": "2026-07-31",
       "team": "Atlanta Hawks",
-      "rank": 60
+      "rank": 59
     },
     {
       "player": "Zeke Nnaji",
@@ -736,7 +724,7 @@
       "first_mention": "2026-07-31",
       "last_mention": "2026-07-31",
       "team": "Denver Nuggets",
-      "rank": 61
+      "rank": 60
     },
     {
       "player": "Derrick White",
@@ -748,19 +736,7 @@
       "first_mention": "2026-07-11",
       "last_mention": "2026-07-12",
       "team": "Boston Celtics",
-      "rank": 62
-    },
-    {
-      "player": "Dorian Finney-Smith",
-      "score": 0.75,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 3,
-      "total_mentions": 3,
-      "first_mention": "2026-07-03",
-      "last_mention": "2026-07-06",
-      "team": "Los Angeles Lakers",
-      "rank": 63
+      "rank": 61
     },
     {
       "player": "Isaiah Stewart",
@@ -772,7 +748,7 @@
       "first_mention": "2026-07-07",
       "last_mention": "2026-07-08",
       "team": "Memphis Grizzlies",
-      "rank": 64
+      "rank": 62
     },
     {
       "player": "John Collins",
@@ -784,7 +760,7 @@
       "first_mention": "2026-07-07",
       "last_mention": "2026-07-08",
       "team": "Los Angeles Clippers",
-      "rank": 65
+      "rank": 63
     },
     {
       "player": "Marcus Sasser",
@@ -796,19 +772,7 @@
       "first_mention": "2026-07-07",
       "last_mention": "2026-07-08",
       "team": "Dallas Mavericks",
-      "rank": 66
-    },
-    {
-      "player": "Naz Reid",
-      "score": 0.75,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 3,
-      "total_mentions": 3,
-      "first_mention": "2026-07-03",
-      "last_mention": "2026-07-14",
-      "team": "Minnesota Timberwolves",
-      "rank": 67
+      "rank": 64
     },
     {
       "player": "Brandon Ingram",
@@ -820,7 +784,7 @@
       "first_mention": "2026-07-12",
       "last_mention": "2026-07-20",
       "team": "Toronto Raptors",
-      "rank": 68
+      "rank": 65
     },
     {
       "player": "Gradey Dick",
@@ -832,7 +796,19 @@
       "first_mention": "2026-07-12",
       "last_mention": "2026-07-20",
       "team": "Toronto Raptors",
-      "rank": 69
+      "rank": 66
+    },
+    {
+      "player": "LaMelo Ball",
+      "score": 0.75,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 2,
+      "first_mention": "2026-07-10",
+      "last_mention": "2026-07-24",
+      "team": "Charlotte Hornets",
+      "rank": 67
     },
     {
       "player": "Jaime Jaquez",
@@ -844,7 +820,7 @@
       "first_mention": "2026-07-10",
       "last_mention": "2026-07-12",
       "team": "Miami Heat",
-      "rank": 70
+      "rank": 68
     },
     {
       "player": "Joel Embiid",
@@ -856,7 +832,7 @@
       "first_mention": "2026-07-09",
       "last_mention": "2026-07-10",
       "team": "Philadelphia 76ers",
-      "rank": 71
+      "rank": 69
     },
     {
       "player": "Kel'el Ware",
@@ -868,7 +844,7 @@
       "first_mention": "2026-07-12",
       "last_mention": "2026-07-12",
       "team": "Miami Heat",
-      "rank": 72
+      "rank": 70
     },
     {
       "player": "Michael Porter",
@@ -880,7 +856,19 @@
       "first_mention": "2026-07-10",
       "last_mention": "2026-07-10",
       "team": "Brooklyn Nets",
-      "rank": 73
+      "rank": 71
+    },
+    {
+      "player": "Naz Reid",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 2,
+      "total_mentions": 2,
+      "first_mention": "2026-07-10",
+      "last_mention": "2026-07-14",
+      "team": "Minnesota Timberwolves",
+      "rank": 72
     },
     {
       "player": "Nikola Jovic",
@@ -892,19 +880,7 @@
       "first_mention": "2026-07-06",
       "last_mention": "2026-07-15",
       "team": "Dallas Mavericks",
-      "rank": 74
-    },
-    {
-      "player": "Walker Kessler",
-      "score": 0.5,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 2,
-      "first_mention": "2026-07-03",
-      "last_mention": "2026-07-10",
-      "team": "Utah Jazz",
-      "rank": 75
+      "rank": 73
     },
     {
       "player": "Andrew Wiggins",
@@ -916,7 +892,7 @@
       "first_mention": "2026-07-23",
       "last_mention": "2026-07-23",
       "team": "Miami Heat",
-      "rank": 76
+      "rank": 74
     },
     {
       "player": "Cameron Johnson",
@@ -928,7 +904,7 @@
       "first_mention": "2026-07-22",
       "last_mention": "2026-07-22",
       "team": "Denver Nuggets",
-      "rank": 77
+      "rank": 75
     },
     {
       "player": "Davion Mitchell",
@@ -940,7 +916,19 @@
       "first_mention": "2026-07-23",
       "last_mention": "2026-07-23",
       "team": "Cleveland Cavaliers",
-      "rank": 78
+      "rank": 76
+    },
+    {
+      "player": "Kon Knueppel",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-07-24",
+      "last_mention": "2026-07-24",
+      "team": "Charlotte Hornets",
+      "rank": 77
     },
     {
       "player": "Mouhamed Gueye",
@@ -952,7 +940,7 @@
       "first_mention": "2026-07-20",
       "last_mention": "2026-07-20",
       "team": "Atlanta Hawks",
-      "rank": 79
+      "rank": 78
     },
     {
       "player": "Russell Westbrook",
@@ -964,19 +952,7 @@
       "first_mention": "2026-07-22",
       "last_mention": "2026-07-22",
       "team": "Sacramento Kings",
-      "rank": 80
-    },
-    {
-      "player": "Thanasis Antetokounmpo",
-      "score": 0.5,
-      "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-07-17",
-      "last_mention": "2026-07-17",
-      "team": "Miami Heat",
-      "rank": 81
+      "rank": 79
     },
     {
       "player": "Tim Hardaway Jr",
@@ -988,31 +964,7 @@
       "first_mention": "2026-07-23",
       "last_mention": "2026-07-23",
       "team": "Cleveland Cavaliers",
-      "rank": 82
-    },
-    {
-      "player": "Anthony Edwards",
-      "score": 0.25,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 1,
-      "first_mention": "2026-07-03",
-      "last_mention": "2026-07-03",
-      "team": "Minnesota Timberwolves",
-      "rank": 83
-    },
-    {
-      "player": "Bogdan Bogdanovic",
-      "score": 0.25,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 1,
-      "first_mention": "2026-07-03",
-      "last_mention": "2026-07-03",
-      "team": "Charlotte Hornets",
-      "rank": 84
+      "rank": 80
     },
     {
       "player": "Donovan Mitchell",
@@ -1024,7 +976,19 @@
       "first_mention": "2026-07-07",
       "last_mention": "2026-07-07",
       "team": "Cleveland Cavaliers",
-      "rank": 85
+      "rank": 81
+    },
+    {
+      "player": "Dorian Finney-Smith",
+      "score": 0.25,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 1,
+      "first_mention": "2026-07-06",
+      "last_mention": "2026-07-06",
+      "team": "Los Angeles Lakers",
+      "rank": 82
     },
     {
       "player": "Ja Morant",
@@ -1036,7 +1000,7 @@
       "first_mention": "2026-07-11",
       "last_mention": "2026-07-11",
       "team": "Memphis Grizzlies",
-      "rank": 86
+      "rank": 83
     },
     {
       "player": "Jakob Poeltl",
@@ -1048,7 +1012,7 @@
       "first_mention": "2026-07-05",
       "last_mention": "2026-07-05",
       "team": "Toronto Raptors",
-      "rank": 87
+      "rank": 84
     },
     {
       "player": "Jaren Jackson Jr",
@@ -1060,7 +1024,7 @@
       "first_mention": "2026-07-07",
       "last_mention": "2026-07-07",
       "team": "Memphis Grizzlies",
-      "rank": 88
+      "rank": 85
     },
     {
       "player": "Jonas Valanciunas",
@@ -1072,7 +1036,7 @@
       "first_mention": "2026-07-04",
       "last_mention": "2026-07-04",
       "team": "Denver Nuggets",
-      "rank": 89
+      "rank": 86
     },
     {
       "player": "Jordan Walsh",
@@ -1084,7 +1048,7 @@
       "first_mention": "2026-07-12",
       "last_mention": "2026-07-12",
       "team": "Boston Celtics",
-      "rank": 90
+      "rank": 87
     },
     {
       "player": "Josh Giddey",
@@ -1096,7 +1060,7 @@
       "first_mention": "2026-07-15",
       "last_mention": "2026-07-15",
       "team": "Boston Celtics",
-      "rank": 91
+      "rank": 88
     },
     {
       "player": "Josh Green",
@@ -1108,7 +1072,7 @@
       "first_mention": "2026-07-10",
       "last_mention": "2026-07-10",
       "team": "Charlotte Hornets",
-      "rank": 92
+      "rank": 89
     },
     {
       "player": "Julius Randle",
@@ -1120,7 +1084,7 @@
       "first_mention": "2026-07-10",
       "last_mention": "2026-07-10",
       "team": "Minnesota Timberwolves",
-      "rank": 93
+      "rank": 90
     },
     {
       "player": "Kelly Olynyk",
@@ -1132,7 +1096,7 @@
       "first_mention": "2026-07-07",
       "last_mention": "2026-07-07",
       "team": "Dallas Mavericks",
-      "rank": 94
+      "rank": 91
     },
     {
       "player": "Kevin Durant",
@@ -1144,7 +1108,7 @@
       "first_mention": "2026-07-09",
       "last_mention": "2026-07-09",
       "team": "Houston Rockets",
-      "rank": 95
+      "rank": 92
     },
     {
       "player": "Kyle Lowry",
@@ -1156,19 +1120,7 @@
       "first_mention": "2026-07-07",
       "last_mention": "2026-07-07",
       "team": "Toronto Raptors",
-      "rank": 96
-    },
-    {
-      "player": "Marcus Smart",
-      "score": 0.25,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 1,
-      "first_mention": "2026-07-03",
-      "last_mention": "2026-07-03",
-      "team": "Los Angeles Lakers",
-      "rank": 97
+      "rank": 93
     },
     {
       "player": "Mike Conley",
@@ -1180,7 +1132,7 @@
       "first_mention": "2026-07-12",
       "last_mention": "2026-07-12",
       "team": "Boston Celtics",
-      "rank": 98
+      "rank": 94
     },
     {
       "player": "Mitchell Robinson",
@@ -1192,7 +1144,7 @@
       "first_mention": "2026-07-12",
       "last_mention": "2026-07-12",
       "team": "Boston Celtics",
-      "rank": 99
+      "rank": 95
     },
     {
       "player": "Neemias Queta",
@@ -1204,7 +1156,7 @@
       "first_mention": "2026-07-11",
       "last_mention": "2026-07-11",
       "team": "Boston Celtics",
-      "rank": 100
+      "rank": 96
     },
     {
       "player": "Nickeil Alexander-Walker",
@@ -1216,19 +1168,7 @@
       "first_mention": "2026-07-05",
       "last_mention": "2026-07-05",
       "team": "Atlanta Hawks",
-      "rank": 101
-    },
-    {
-      "player": "Norman Powell",
-      "score": 0.25,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 1,
-      "first_mention": "2026-07-03",
-      "last_mention": "2026-07-03",
-      "team": "Miami Heat",
-      "rank": 102
+      "rank": 97
     },
     {
       "player": "Onyeka Okongwu",
@@ -1240,7 +1180,7 @@
       "first_mention": "2026-07-05",
       "last_mention": "2026-07-05",
       "team": "Atlanta Hawks",
-      "rank": 103
+      "rank": 98
     },
     {
       "player": "Ousmane Dieng",
@@ -1252,7 +1192,7 @@
       "first_mention": "2026-07-10",
       "last_mention": "2026-07-10",
       "team": "Milwaukee Bucks",
-      "rank": 104
+      "rank": 99
     },
     {
       "player": "RJ Barrett",
@@ -1264,7 +1204,7 @@
       "first_mention": "2026-07-05",
       "last_mention": "2026-07-05",
       "team": "Toronto Raptors",
-      "rank": 105
+      "rank": 100
     },
     {
       "player": "Santiago Aldama",
@@ -1276,7 +1216,7 @@
       "first_mention": "2026-07-08",
       "last_mention": "2026-07-08",
       "team": "Dallas Mavericks",
-      "rank": 106
+      "rank": 101
     },
     {
       "player": "Tari Eason",
@@ -1288,10 +1228,220 @@
       "first_mention": "2026-07-09",
       "last_mention": "2026-07-09",
       "team": "Houston Rockets",
-      "rank": 107
+      "rank": 102
+    },
+    {
+      "player": "Thanasis Antetokounmpo",
+      "score": 0.25,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 1,
+      "first_mention": "2026-07-17",
+      "last_mention": "2026-07-17",
+      "team": "Miami Heat",
+      "rank": 103
+    },
+    {
+      "player": "Walker Kessler",
+      "score": 0.25,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 1,
+      "first_mention": "2026-07-10",
+      "last_mention": "2026-07-10",
+      "team": "Utah Jazz",
+      "rank": 104
     }
   ],
   "player_rumors": {
+    "Kawhi Leonard": [
+      {
+        "date": "2026-07-31",
+        "text": "FearBuck:Dillon Brooks tells Neon that the Kawhi Leonard trade to the Toronto Raptors WON\u2019T happenx.com",
+        "text_html": "FearBuck: <a href=\"https://x.com/FearedBuck/status/2083304826004246609\" target=\"_blank\" style=\"color: #1a73e8;\">Dillon Brooks tells Neon that the Kawhi Leonard trade to the Toronto Raptors WON\u2019T happen</a>",
+        "outlet": "x.com",
+        "source_url": "https://x.com/FearedBuck/status/2083304826004246609"
+      },
+      {
+        "date": "2026-07-31",
+        "text": "Kawhi's odds of playing for the Toronto Raptors in 2026-27 have tumbled from 67.2% to 49.0% in the past 6 hours on Polymarket,an 18.2-point move.HoopsMatic",
+        "text_html": "<a href=\"https://hoopsmatic.com/polymarket/market/will-kawhi-play-for-the-toronto-raptors-in-2026-27/\" target=\"_blank\" style=\"color: #1a73e8;\">Kawhi's odds of playing for the Toronto Raptors in 2026-27 have tumbled from 67.2% to 49.0% in the past 6 hours on Polymarket,</a> an 18.2-point move.",
+        "outlet": "HoopsMatic",
+        "source_url": "https://hoopsmatic.com/polymarket/market/will-kawhi-play-for-the-toronto-raptors-in-2026-27/"
+      },
+      {
+        "date": "2026-07-30",
+        "text": "NBABase: TheRaptors are refusing to complete the trade for Kawhi Leonard because they are unwilling to take on the risk of potential NBA penalties,per @ramonashelburne \"They are not willing to assume those risks.\"x.com",
+        "text_html": "NBABase: The <a href=\"https://x.com/TheNBABase/status/2082922623307247623\" target=\"_blank\" style=\"color: #1a73e8;\">Raptors are refusing to complete the trade for Kawhi Leonard because they are unwilling to take on the risk of potential NBA penalties,</a> per @ramonashelburne \"They are not willing to assume those risks.\"",
+        "outlet": "x.com",
+        "source_url": "https://x.com/TheNBABase/status/2082922623307247623"
+      },
+      {
+        "date": "2026-07-30",
+        "text": "Kawhi's odds of playing for the Los Angeles Clippers in 2026-27 have jumped from 8.5% to 29.1% in the past 6 hours on Polymarket,a 20.6-point move.HoopsMatic",
+        "text_html": "<a href=\"https://hoopsmatic.com/polymarket/market/will-kawhi-play-for-the-los-angeles-clippers-in-2026-27/\" target=\"_blank\" style=\"color: #1a73e8;\">Kawhi's odds of playing for the Los Angeles Clippers in 2026-27 have jumped from 8.5% to 29.1% in the past 6 hours on Polymarket,</a> a 20.6-point move.",
+        "outlet": "HoopsMatic",
+        "source_url": "https://hoopsmatic.com/polymarket/market/will-kawhi-play-for-the-los-angeles-clippers-in-2026-27/"
+      },
+      {
+        "date": "2026-07-22",
+        "text": "The Los Angeles Clippers remain interested in re-signing restricted free agent Bennedict Mathurin,league sources told HoopsHype. However, the Clippers are hesitant to make significant roster decisions as Kawhi Leonard\u2019s Aspiration investigation remains ongoing and has held up his expected trade to the Toronto Raptors.HoopsHype",
+        "text_html": "<a href=\"https://www.hoopshype.com/story/sports/nba/2026/07/22/nba-intel-anthony-davis-trae-young-jonathan-kuminga-benn-mathurin-cam-johnson-miles-bridges/91007110007/\" target=\"_blank\" style=\"color: #1a73e8;\">The Los Angeles Clippers remain interested in re-signing restricted free agent Bennedict Mathurin,</a> league sources told HoopsHype. However, the Clippers are hesitant to make significant roster decisions as Kawhi Leonard\u2019s Aspiration investigation remains ongoing and has held up his expected trade to the Toronto Raptors.",
+        "outlet": "HoopsHype",
+        "source_url": "https://www.hoopshype.com/story/sports/nba/2026/07/22/nba-intel-anthony-davis-trae-young-jonathan-kuminga-benn-mathurin-cam-johnson-miles-bridges/91007110007/"
+      },
+      {
+        "date": "2026-07-17",
+        "text": "The Milwaukee Bucks have emerged as a team potentially\u00a0interested\u00a0in executing a sign-and-trade for Watson,\u00a0according to\u00a0league\u00a0sources\u00a0who were granted anonymity so that they could describe ongoing deliberations. You can add them to a list of potential suitors that includes the LA Clippers, who are now in a holding pattern after their Kawhi Leonard trade with the Toronto Raptors was paused due to the NBA\u2019s\u00a0ongoing Aspiration investigation.The Atlanta Hawks, who recently\u00a0declined a team option on Jonathan Kuminga, are also\u00a0interested\u00a0in Watson,\u00a0according to\u00a0those\u00a0sources.New York Times",
+        "text_html": "The Milwaukee Bucks have emerged as a team potentially interested in executing a sign-and-trade for Watson, according to league sources who were granted anonymity so that they could describe ongoing deliberations. You can add them to a list of potential suitors that includes the LA Clippers, who are now in a holding pattern after their Kawhi Leonard trade with the Toronto Raptors was paused due to the NBA\u2019s ongoing Aspiration investigation. <a href=\"https://www.nytimes.com/athletic/7451203/2026/07/17/peyton-watson-nuggets-free-agency-bucks/\" target=\"_blank\" style=\"color: #1a73e8;\">The Atlanta Hawks, who recently declined a team option on Jonathan Kuminga, are also interested in Watson, according to those sources</a>.",
+        "outlet": "New York Times",
+        "source_url": "https://www.nytimes.com/athletic/7451203/2026/07/17/peyton-watson-nuggets-free-agency-bucks/"
+      },
+      {
+        "date": "2026-07-16",
+        "text": "The tipping point to put on hold the trade of Kawhi Leonard to the Raptors came when it was time for Toronto to officially sign off on the conditions of the deal. According to multiple NBA sources,when the Raptors had to commit in writing to assume any risk of any penalties Leonard might incur from an investigation into his Los Angeles Clippers contract, they decided to pause on the transaction.Toronto Star",
+        "text_html": "The tipping point to put on hold the trade of Kawhi Leonard to the Raptors came when it was time for Toronto to officially sign off on the conditions of the deal. According to multiple NBA sources, <a href=\"https://www.thestar.com/sports/raptors/raptors-paused-kawhi-leonard-trade-after-balking-at-signing-liability-clause-sources-say/article_2b7a99be-2b90-4aa7-9ce1-5f34ef0b31e3.html\" target=\"_blank\" style=\"color: #1a73e8;\">when the Raptors had to commit in writing to assume any risk of any penalties Leonard might incur from an investigation into his Los Angeles Clippers contract, they decided to pause on the transaction</a>.",
+        "outlet": "Toronto Star",
+        "source_url": "https://www.thestar.com/sports/raptors/raptors-paused-kawhi-leonard-trade-after-balking-at-signing-liability-clause-sources-say/article_2b7a99be-2b90-4aa7-9ce1-5f34ef0b31e3.html"
+      },
+      {
+        "date": "2026-07-16",
+        "text": "The sources said here Tuesday thatthe Raptors knowing they might be on the hook for future penalties was one thing; having to sign off on formal conditions was enough to make Toronto decide to \u201cjust wait\u201d until the probe is completed.Toronto Star",
+        "text_html": "The sources said here Tuesday that <a href=\"https://www.thestar.com/sports/raptors/raptors-paused-kawhi-leonard-trade-after-balking-at-signing-liability-clause-sources-say/article_2b7a99be-2b90-4aa7-9ce1-5f34ef0b31e3.html\" target=\"_blank\" style=\"color: #1a73e8;\">the Raptors knowing they might be on the hook for future penalties was one thing; having to sign off on formal conditions was enough to make Toronto decide to \u201cjust wait\u201d until the probe is completed</a>.",
+        "outlet": "Toronto Star",
+        "source_url": "https://www.thestar.com/sports/raptors/raptors-paused-kawhi-leonard-trade-after-balking-at-signing-liability-clause-sources-say/article_2b7a99be-2b90-4aa7-9ce1-5f34ef0b31e3.html"
+      },
+      {
+        "date": "2026-07-16",
+        "text": "The Raptors don\u2019t seem overly concerned at the pace of the process and sources insist they think the deal as proposed will be consummated.And, in truth, it\u2019s not like the Raptors have a lot of reason to rush it. The way the summer player market has unfolded, the team\u2019s salary cap situation and the kind of free agents still available, there\u2019s no other major deals to make.Toronto Star",
+        "text_html": "<a href=\"https://www.thestar.com/sports/raptors/raptors-paused-kawhi-leonard-trade-after-balking-at-signing-liability-clause-sources-say/article_2b7a99be-2b90-4aa7-9ce1-5f34ef0b31e3.html\" target=\"_blank\" style=\"color: #1a73e8;\">The Raptors don\u2019t seem overly concerned at the pace of the process and sources insist they think the deal as proposed will be consummated.</a> And, in truth, it\u2019s not like the Raptors have a lot of reason to rush it. The way the summer player market has unfolded, the team\u2019s salary cap situation and the kind of free agents still available, there\u2019s no other major deals to make.",
+        "outlet": "Toronto Star",
+        "source_url": "https://www.thestar.com/sports/raptors/raptors-paused-kawhi-leonard-trade-after-balking-at-signing-liability-clause-sources-say/article_2b7a99be-2b90-4aa7-9ce1-5f34ef0b31e3.html"
+      },
+      {
+        "date": "2026-07-16",
+        "text": "Marc J. Spears: \"I think the assumption is that the Clippers are fearful of what is to come, butI am hearing that they want to get this done, that they feel like Steve Ballmer was a victim, that he is going to be innocent. We will see. But they are eager to get this done, and there is deeper than the Clippers. There are so many teams, players.\"YouTube",
+        "text_html": "Marc J. Spears: \"I think the assumption is that the Clippers are fearful of what is to come, but <a href=\"https://www.youtube.com/watch?v=wWQdEm1bIsA&t=125s\" target=\"_blank\" style=\"color: #1a73e8;\">I am hearing that they want to get this done, that they feel like Steve Ballmer was a victim, that he is going to be innocent. We will see. But they are eager to get this done, and there is deeper than the Clippers. There are so many teams, players.</a> \"",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=wWQdEm1bIsA&t=125s"
+      },
+      {
+        "date": "2026-07-15",
+        "text": "Josh Lewenberg: For what it\u2019s worth,Raptors continue to talk/act like a team that\u2019s unworried. Sense is the only thing that would jeopardize the trade is the unlikely scenario where Kawhi\u2019s contract is voided. Any other possible penalty, including suspension, is something they could work aroundx.com",
+        "text_html": "Josh Lewenberg: For what it\u2019s worth, <a href=\"https://x.com/JLew1050/status/2077247300489892070\" target=\"_blank\" style=\"color: #1a73e8;\">Raptors continue to talk/act like a team that\u2019s unworried. Sense is the only thing that would jeopardize the trade is the unlikely scenario where Kawhi\u2019s contract is voided. Any other possible penalty, including suspension, is something they could work around</a>",
+        "outlet": "x.com",
+        "source_url": "https://x.com/JLew1050/status/2077247300489892070"
+      },
+      {
+        "date": "2026-07-15",
+        "text": "Depending on the evidence uncovered, the Los Angeles Clippers star could reportedly face serious disciplinary action, ranging from a lengthy suspension to the possible voiding of his contract. According to ESPN's Shams Charania, even a full-season suspension cannot be ruled out at this stage.\"The absolute worst is Kawhi Leonard's contract being voided, or him being suspended for a significant period of time.Whether it's 40/20 games or entire season.. it all comes down to the evidence and what's found in the investigation,\" Charania reported on the Shump Street Podcast.BasketNews",
+        "text_html": "Depending on the evidence uncovered, the Los Angeles Clippers star could reportedly face serious disciplinary action, ranging from a lengthy suspension to the possible voiding of his contract. According to ESPN's Shams Charania, even a full-season suspension cannot be ruled out at this stage. <a href=\"https://basketnews.com/news-252035-kawhi-leonard-worst-case-scenario-nba-investigation.html\" target=\"_blank\" style=\"color: #1a73e8;\">\"The absolute worst is Kawhi Leonard's contract being voided, or him being suspended for a significant period of time.</a> Whether it's 40/20 games or entire season.. it all comes down to the evidence and what's found in the investigation,\" Charania reported on the Shump Street Podcast.",
+        "outlet": "BasketNews",
+        "source_url": "https://basketnews.com/news-252035-kawhi-leonard-worst-case-scenario-nba-investigation.html"
+      },
+      {
+        "date": "2026-07-14",
+        "text": "Oh No He Didn't: Adam Silver on the Kawhi trade:\"I'm hopeful that it will wrap up this summer. The league did not pause the trade.The parties to the trade made a decision not to go forward given that the investigation remained open. The investigation needs to run its course\"x.com",
+        "text_html": "Oh No He Didn't: Adam Silver on the Kawhi trade: <a href=\"https://x.com/ohnohedidnt24/status/2077217349581639748\" target=\"_blank\" style=\"color: #1a73e8;\">\"I'm hopeful that it will wrap up this summer. The league did not pause the trade.</a> The parties to the trade made a decision not to go forward given that the investigation remained open. The investigation needs to run its course\"",
+        "outlet": "x.com",
+        "source_url": "https://x.com/ohnohedidnt24/status/2077217349581639748"
+      },
+      {
+        "date": "2026-07-14",
+        "text": "Oh No He Didn't: Adam Silver:\"The issues were well known to the teams. I don't think any of this information should've been a surprise to anyone involved\"x.com",
+        "text_html": "Oh No He Didn't: Adam Silver: <a href=\"https://x.com/ohnohedidnt24/status/2077221517893484800\" target=\"_blank\" style=\"color: #1a73e8;\">\"The issues were well known to the teams. I don't think any of this information should've been a surprise to anyone involved\"</a>",
+        "outlet": "x.com",
+        "source_url": "https://x.com/ohnohedidnt24/status/2077221517893484800"
+      },
+      {
+        "date": "2026-07-14",
+        "text": "Oh No He Didn't: Adam Silver: \"I don't know specifically what will be in the report.It is realistic to think that this can be wrapped up. It's going on longer than I would have hoped\"x.com",
+        "text_html": "Oh No He Didn't: Adam Silver: \"I don't know specifically what will be in the report. <a href=\"https://x.com/ohnohedidnt24/status/2077220469556604965\" target=\"_blank\" style=\"color: #1a73e8;\">It is realistic to think that this can be wrapped up. It's going on longer than I would have hoped\"</a>",
+        "outlet": "x.com",
+        "source_url": "https://x.com/ohnohedidnt24/status/2077220469556604965"
+      },
+      {
+        "date": "2026-07-14",
+        "text": "Ben Golliver: NBA Commissioner Adam Silver on the Kawhi Leonard investigation: \"My timeline remains this summer. I\u2019m not conducting the investigation. ...The league did not pause the trade.\"x.com",
+        "text_html": "Ben Golliver: NBA Commissioner Adam Silver on the Kawhi Leonard investigation: \"My timeline remains this summer. I\u2019m not conducting the investigation. ... <a href=\"https://x.com/BenGolliver/status/2077216189089222991\" target=\"_blank\" style=\"color: #1a73e8;\">The league did not pause the trade.\"</a>",
+        "outlet": "x.com",
+        "source_url": "https://x.com/BenGolliver/status/2077216189089222991"
+      },
+      {
+        "date": "2026-07-10",
+        "text": "NBABase: Windhorst: \u201cThe Clippers still want to do this trade badly they're getting a whole bunch of draft capital in this deal the Raptors in their statement yesterday said they were eager they want this trade to happen butif Kawhi Leonard faces a real penalty here we could see the trade terms reopened and I think that's what the Raptors are trying to protect themselves.\u201dx.com",
+        "text_html": "NBABase: Windhorst: \u201cThe Clippers still want to do this trade badly they're getting a whole bunch of draft capital in this deal the Raptors in their statement yesterday said they were eager they want this trade to happen but <a href=\"https://x.com/TheNBABase/status/2075563823902367922\" target=\"_blank\" style=\"color: #1a73e8;\">if Kawhi Leonard faces a real penalty here we could see the trade terms reopened and I think that's what the Raptors are trying to protect themselves.\u201d</a>",
+        "outlet": "x.com",
+        "source_url": "https://x.com/TheNBABase/status/2075563823902367922"
+      },
+      {
+        "date": "2026-07-10",
+        "text": "The Clippers explored Leonard's trade market for weeks, sources say, before coming to terms on a deal with Toronto. And ... They did so,sources say, under the impression from the league office that the eventual outcome of the NBA's ongoing investigation into alleged cap impropriety involving Leonard and third-party business sponsor Aspiration would not have any impact on trading their star forward away.marcstein.substack.com",
+        "text_html": "The Clippers explored Leonard's trade market for weeks, sources say, before coming to terms on a deal with Toronto. And ... They did so, <a href=\"https://marcstein.substack.com/p/the-latest-on-the-raptors-would-be?r=5jkm20&utm_medium=ios&triedRedirect=true\" target=\"_blank\" style=\"color: #1a73e8;\">sources say, under the impression from the league office that the eventual outcome of the NBA's ongoing investigation into alleged cap impropriety involving Leonard and third-party business sponsor Aspiration would not have any impact on trading their star forward away</a>.",
+        "outlet": "marcstein.substack.com",
+        "source_url": "https://marcstein.substack.com/p/the-latest-on-the-raptors-would-be?r=5jkm20&utm_medium=ios&triedRedirect=true"
+      },
+      {
+        "date": "2026-07-09",
+        "text": "Marc Stein: NBA spokesperson to @TheSteinLine on the league\u2019s investigation into Kawhi Leonard\u2019s contract with the Clippers:\u201cWe don\u2019t have a specific timeline for the conclusion of the investigation\u00a0but expect the firm to finalize its work in the coming weeks.\"x.com",
+        "text_html": "Marc Stein: NBA spokesperson to @TheSteinLine on the league\u2019s investigation into Kawhi Leonard\u2019s contract with the Clippers: <a href=\"https://x.com/TheSteinLine/status/2075338107168358627\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cWe don\u2019t have a specific timeline for the conclusion of the investigation but expect the firm to finalize its work in the coming weeks.\"</a>",
+        "outlet": "x.com",
+        "source_url": "https://x.com/TheSteinLine/status/2075338107168358627"
+      },
+      {
+        "date": "2026-07-09",
+        "text": "Oh No He Didn't: Shams on Kawhi trade:\"The expectation around all sides is that this deal will end up happening at the end of the day\"x.com",
+        "text_html": "Oh No He Didn't: Shams on Kawhi trade: <a href=\"https://x.com/ohnohedidnt24/status/2075295588434813329\" target=\"_blank\" style=\"color: #1a73e8;\">\"The expectation around all sides is that this deal will end up happening at the end of the day\"</a>",
+        "outlet": "x.com",
+        "source_url": "https://x.com/ohnohedidnt24/status/2075295588434813329"
+      },
+      {
+        "date": "2026-07-09",
+        "text": "Shams Charania: Developing:The Los Angeles Clippers-Toronto Raptors trade centered on Kawhi Leonard will not be complete until the NBA investigation into the Clippers is over.Statement from the Clippers to ESPN: For the past 10 months, our organization has fully cooperated with an NBA investigation, participating in dozens of interviews, providing tens of thousands of documents, and facilitating access to our staff. While the process has been challenging, we have remained committed to transparency.x.com",
+        "text_html": "Shams Charania: Developing: <a href=\"https://x.com/ShamsCharania/status/2075293917118136739\" target=\"_blank\" style=\"color: #1a73e8;\">The Los Angeles Clippers-Toronto Raptors trade centered on Kawhi Leonard will not be complete until the NBA investigation into the Clippers is over.</a> Statement from the Clippers to ESPN: For the past 10 months, our organization has fully cooperated with an NBA investigation, participating in dozens of interviews, providing tens of thousands of documents, and facilitating access to our staff. While the process has been challenging, we have remained committed to transparency.",
+        "outlet": "x.com",
+        "source_url": "https://x.com/ShamsCharania/status/2075293917118136739"
+      },
+      {
+        "date": "2026-07-09",
+        "text": "Shams Charania: Clippers statement:On June 30, we reached an agreement in principle to trade Kawhi Leonard to the Toronto Raptors. We have since been informed that the trade can only be finalized if the Raptors' ownership group assumes the risk of penalties related to Kawhi\u2019s contract that could theoretically result from the ongoing investigation.The investigation is ongoing, and we expect the trade to be finalized following its conclusion.x.com",
+        "text_html": "Shams Charania: Clippers statement: <a href=\"https://x.com/ShamsCharania/status/2075293917118136739\" target=\"_blank\" style=\"color: #1a73e8;\">On June 30, we reached an agreement in principle to trade Kawhi Leonard to the Toronto Raptors. We have since been informed that the trade can only be finalized if the Raptors' ownership group assumes the risk of penalties related to Kawhi\u2019s contract that could theoretically result from the ongoing investigation.</a> The investigation is ongoing, and we expect the trade to be finalized following its conclusion.",
+        "outlet": "x.com",
+        "source_url": "https://x.com/ShamsCharania/status/2075293917118136739"
+      },
+      {
+        "date": "2026-07-09",
+        "text": "Shams Charania: Clippers statement: At the heart of this investigation are Joe Sanberg and Aspiration. We did not funnel money to Kawhi Leonard through Aspiration. Like many sophisticated investors, financial institutions, and business partners, we were victims of a fraud initiated by Sanberg, who has been convicted and sentenced to 14 years in prison. We recognize the uncertainty this has created and the impact it has had on our team, our fans, the Raptors organization, their fans, and the players whose futures remain affected while this process continues.We remain confident that, when the facts are evaluated fairly and thoroughly, the NBA will confirm exactly what we have said from the beginning: We have not done what we are accused of doing.x.com",
+        "text_html": "Shams Charania: Clippers statement: At the heart of this investigation are Joe Sanberg and Aspiration. We did not funnel money to Kawhi Leonard through Aspiration. Like many sophisticated investors, financial institutions, and business partners, we were victims of a fraud initiated by Sanberg, who has been convicted and sentenced to 14 years in prison. We recognize the uncertainty this has created and the impact it has had on our team, our fans, the Raptors organization, their fans, and the players whose futures remain affected while this process continues. <a href=\"https://x.com/ShamsCharania/status/2075293917118136739\" target=\"_blank\" style=\"color: #1a73e8;\">We remain confident that, when the facts are evaluated fairly and thoroughly, the NBA will confirm exactly what we have said from the beginning: We have not done what we are accused of doing</a>.",
+        "outlet": "x.com",
+        "source_url": "https://x.com/ShamsCharania/status/2075293917118136739"
+      },
+      {
+        "date": "2026-07-09",
+        "text": "Marc Stein: Raptors statement: Regarding our planned trade with the LA Clippers for Kawhi Leonard, the NBA league office informed us that as a result of the ongoing investigation involving the Clippers,we would assume the risk of any potential outcome of the investigation impacting Kawhi. In light of this, we will wait until the league's investigation is complete.The Raptors remain eager to bring Kawhi back to Toronto and look forward to a swift resolution for our players, our organization and our fans.x.com",
+        "text_html": "Marc Stein: Raptors statement: Regarding our planned trade with the LA Clippers for Kawhi Leonard, the NBA league office informed us that as a result of the ongoing investigation involving the Clippers, <a href=\"https://x.com/TheSteinLine/status/2075294821019951608?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">we would assume the risk of any potential outcome of the investigation impacting Kawhi. In light of this, we will wait until the league's investigation is complete.</a> The Raptors remain eager to bring Kawhi back to Toronto and look forward to a swift resolution for our players, our organization and our fans.",
+        "outlet": "x.com",
+        "source_url": "https://x.com/TheSteinLine/status/2075294821019951608?s=20"
+      },
+      {
+        "date": "2026-07-07",
+        "text": "Esfandiar Baraheni: KyleLowry on the Kawhi Leonard trade x2: \u201cI appreciate him coming here\u2026 just to be here for my moment. I think the moves that Bobby is making and what he\u2019s doing, they know what they\u2019re doing, they\u2019re trying to win a championship\u2026a championship is his only aspiration.\u201dx.com",
+        "text_html": "Esfandiar Baraheni: Kyle <a href=\"https://x.com/JustEsBaraheni/status/2074495073111224824\" target=\"_blank\" style=\"color: #1a73e8;\">Lowry on the Kawhi Leonard trade x2: \u201cI appreciate him coming here\u2026 just to be here for my moment. I think the moves that Bobby is making and what he\u2019s doing, they know what they\u2019re doing, they\u2019re trying to win a championship\u2026</a> a championship is his only aspiration.\u201d",
+        "outlet": "x.com",
+        "source_url": "https://x.com/JustEsBaraheni/status/2074495073111224824"
+      }
+    ],
+    "Dillon Brooks": [
+      {
+        "date": "2026-07-31",
+        "text": "FearBuck:Dillon Brooks tells Neon that the Kawhi Leonard trade to the Toronto Raptors WON\u2019T happenx.com",
+        "text_html": "FearBuck: <a href=\"https://x.com/FearedBuck/status/2083304826004246609\" target=\"_blank\" style=\"color: #1a73e8;\">Dillon Brooks tells Neon that the Kawhi Leonard trade to the Toronto Raptors WON\u2019T happen</a>",
+        "outlet": "x.com",
+        "source_url": "https://x.com/FearedBuck/status/2083304826004246609"
+      }
+    ],
     "LeBron James": [
       {
         "date": "2026-07-31",
@@ -1853,20 +2003,6 @@
         "text_html": "Bobby Marks: <a href=\"https://x.com/BobbyMarks42/status/2074223755321053584\" target=\"_blank\" style=\"color: #1a73e8;\">Paul George waived his $3.9M trade bonus,</a> sources tell ESPN. His cap hit in Boston remains at $54.1M and $56.6M (P)",
         "outlet": "x.com",
         "source_url": "https://x.com/BobbyMarks42/status/2074223755321053584"
-      },
-      {
-        "date": "2026-07-03",
-        "text": "Daniel Donabedian: Celtics assistant coach Sam Cassell on the Jaylen Brown trade:\u201cJaylen has done everything possible for this city. He\u2019ll be missed. But it\u2019s the NBA. Wilt Chamberlain got traded after he averaged 50 points one year\u2026I wish nothing but the best for Jaylen. He\u2019s a hell of a basketball player.\u201dHe then spoke on Paul George: \u201cHe doesn\u2019t have to try to be Jaylen Brown. He\u2019s gotta be Paul George\u2026We\u2019ll be fine.\u201dx.com",
-        "text_html": "Daniel Donabedian: Celtics assistant coach Sam Cassell on the Jaylen Brown trade: <a href=\"https://x.com/danield1214/status/2073113808290160924\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cJaylen has done everything possible for this city. He\u2019ll be missed. But it\u2019s the NBA. Wilt Chamberlain got traded after he averaged 50 points one year\u2026I wish nothing but the best for Jaylen. He\u2019s a hell of a basketball player.\u201d</a> He then spoke on Paul George: \u201cHe doesn\u2019t have to try to be Jaylen Brown. He\u2019s gotta be Paul George\u2026We\u2019ll be fine.\u201d",
-        "outlet": "x.com",
-        "source_url": "https://x.com/danield1214/status/2073113808290160924"
-      },
-      {
-        "date": "2026-07-03",
-        "text": "Bill Simmons on hearing about the Jaylen Brown trade from his wife picking him up from a colonoscopy:\u201cI think I\u2019m dead. The anesthesia killed me. Are there more first round picks?...I had a camera in my ass, and I had Paul George rammed up my ass\u201dreddit",
-        "text_html": "Bill Simmons on hearing about the Jaylen Brown trade from his wife picking him up from a colonoscopy: <a href=\"https://www.reddit.com/r/nba/comments/1ulm6ss/bill_simmons_on_hearing_about_the_jaylen_brown/\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cI think I\u2019m dead. The anesthesia killed me. Are there more first round picks?...I had a camera in my ass, and I had Paul George rammed up my ass\u201d</a>",
-        "outlet": "reddit",
-        "source_url": "https://www.reddit.com/r/nba/comments/1ulm6ss/bill_simmons_on_hearing_about_the_jaylen_brown/"
       }
     ],
     "Stephen Curry": [
@@ -1929,176 +2065,6 @@
         "text_html": "NBA Trade Machine: <a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">Stephen Curry appeared in 8.9% of trades built on HoopsMatic over the past 24 hours. Of his trades, his most common destinations were San Antonio (30.5%), Boston (13.2%), and Philadelphia</a> (10.6%). The players traded for him most often were De'Aaron Fox (25.2%), Keldon Johnson (15.9%), and Jayson Tatum (8.6%).",
         "outlet": "HoopsMatic",
         "source_url": "https://hoopsmatic.com/"
-      }
-    ],
-    "Kawhi Leonard": [
-      {
-        "date": "2026-07-31",
-        "text": "Kawhi's odds of playing for the Toronto Raptors in 2026-27 have tumbled from 67.2% to 49.0% in the past 6 hours on Polymarket,an 18.2-point move.HoopsMatic",
-        "text_html": "<a href=\"https://hoopsmatic.com/polymarket/market/will-kawhi-play-for-the-toronto-raptors-in-2026-27/\" target=\"_blank\" style=\"color: #1a73e8;\">Kawhi's odds of playing for the Toronto Raptors in 2026-27 have tumbled from 67.2% to 49.0% in the past 6 hours on Polymarket,</a> an 18.2-point move.",
-        "outlet": "HoopsMatic",
-        "source_url": "https://hoopsmatic.com/polymarket/market/will-kawhi-play-for-the-toronto-raptors-in-2026-27/"
-      },
-      {
-        "date": "2026-07-30",
-        "text": "NBABase: TheRaptors are refusing to complete the trade for Kawhi Leonard because they are unwilling to take on the risk of potential NBA penalties,per @ramonashelburne \"They are not willing to assume those risks.\"x.com",
-        "text_html": "NBABase: The <a href=\"https://x.com/TheNBABase/status/2082922623307247623\" target=\"_blank\" style=\"color: #1a73e8;\">Raptors are refusing to complete the trade for Kawhi Leonard because they are unwilling to take on the risk of potential NBA penalties,</a> per @ramonashelburne \"They are not willing to assume those risks.\"",
-        "outlet": "x.com",
-        "source_url": "https://x.com/TheNBABase/status/2082922623307247623"
-      },
-      {
-        "date": "2026-07-30",
-        "text": "Kawhi's odds of playing for the Los Angeles Clippers in 2026-27 have jumped from 8.5% to 29.1% in the past 6 hours on Polymarket,a 20.6-point move.HoopsMatic",
-        "text_html": "<a href=\"https://hoopsmatic.com/polymarket/market/will-kawhi-play-for-the-los-angeles-clippers-in-2026-27/\" target=\"_blank\" style=\"color: #1a73e8;\">Kawhi's odds of playing for the Los Angeles Clippers in 2026-27 have jumped from 8.5% to 29.1% in the past 6 hours on Polymarket,</a> a 20.6-point move.",
-        "outlet": "HoopsMatic",
-        "source_url": "https://hoopsmatic.com/polymarket/market/will-kawhi-play-for-the-los-angeles-clippers-in-2026-27/"
-      },
-      {
-        "date": "2026-07-22",
-        "text": "The Los Angeles Clippers remain interested in re-signing restricted free agent Bennedict Mathurin,league sources told HoopsHype. However, the Clippers are hesitant to make significant roster decisions as Kawhi Leonard\u2019s Aspiration investigation remains ongoing and has held up his expected trade to the Toronto Raptors.HoopsHype",
-        "text_html": "<a href=\"https://www.hoopshype.com/story/sports/nba/2026/07/22/nba-intel-anthony-davis-trae-young-jonathan-kuminga-benn-mathurin-cam-johnson-miles-bridges/91007110007/\" target=\"_blank\" style=\"color: #1a73e8;\">The Los Angeles Clippers remain interested in re-signing restricted free agent Bennedict Mathurin,</a> league sources told HoopsHype. However, the Clippers are hesitant to make significant roster decisions as Kawhi Leonard\u2019s Aspiration investigation remains ongoing and has held up his expected trade to the Toronto Raptors.",
-        "outlet": "HoopsHype",
-        "source_url": "https://www.hoopshype.com/story/sports/nba/2026/07/22/nba-intel-anthony-davis-trae-young-jonathan-kuminga-benn-mathurin-cam-johnson-miles-bridges/91007110007/"
-      },
-      {
-        "date": "2026-07-17",
-        "text": "The Milwaukee Bucks have emerged as a team potentially\u00a0interested\u00a0in executing a sign-and-trade for Watson,\u00a0according to\u00a0league\u00a0sources\u00a0who were granted anonymity so that they could describe ongoing deliberations. You can add them to a list of potential suitors that includes the LA Clippers, who are now in a holding pattern after their Kawhi Leonard trade with the Toronto Raptors was paused due to the NBA\u2019s\u00a0ongoing Aspiration investigation.The Atlanta Hawks, who recently\u00a0declined a team option on Jonathan Kuminga, are also\u00a0interested\u00a0in Watson,\u00a0according to\u00a0those\u00a0sources.New York Times",
-        "text_html": "The Milwaukee Bucks have emerged as a team potentially interested in executing a sign-and-trade for Watson, according to league sources who were granted anonymity so that they could describe ongoing deliberations. You can add them to a list of potential suitors that includes the LA Clippers, who are now in a holding pattern after their Kawhi Leonard trade with the Toronto Raptors was paused due to the NBA\u2019s ongoing Aspiration investigation. <a href=\"https://www.nytimes.com/athletic/7451203/2026/07/17/peyton-watson-nuggets-free-agency-bucks/\" target=\"_blank\" style=\"color: #1a73e8;\">The Atlanta Hawks, who recently declined a team option on Jonathan Kuminga, are also interested in Watson, according to those sources</a>.",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/7451203/2026/07/17/peyton-watson-nuggets-free-agency-bucks/"
-      },
-      {
-        "date": "2026-07-16",
-        "text": "The tipping point to put on hold the trade of Kawhi Leonard to the Raptors came when it was time for Toronto to officially sign off on the conditions of the deal. According to multiple NBA sources,when the Raptors had to commit in writing to assume any risk of any penalties Leonard might incur from an investigation into his Los Angeles Clippers contract, they decided to pause on the transaction.Toronto Star",
-        "text_html": "The tipping point to put on hold the trade of Kawhi Leonard to the Raptors came when it was time for Toronto to officially sign off on the conditions of the deal. According to multiple NBA sources, <a href=\"https://www.thestar.com/sports/raptors/raptors-paused-kawhi-leonard-trade-after-balking-at-signing-liability-clause-sources-say/article_2b7a99be-2b90-4aa7-9ce1-5f34ef0b31e3.html\" target=\"_blank\" style=\"color: #1a73e8;\">when the Raptors had to commit in writing to assume any risk of any penalties Leonard might incur from an investigation into his Los Angeles Clippers contract, they decided to pause on the transaction</a>.",
-        "outlet": "Toronto Star",
-        "source_url": "https://www.thestar.com/sports/raptors/raptors-paused-kawhi-leonard-trade-after-balking-at-signing-liability-clause-sources-say/article_2b7a99be-2b90-4aa7-9ce1-5f34ef0b31e3.html"
-      },
-      {
-        "date": "2026-07-16",
-        "text": "The sources said here Tuesday thatthe Raptors knowing they might be on the hook for future penalties was one thing; having to sign off on formal conditions was enough to make Toronto decide to \u201cjust wait\u201d until the probe is completed.Toronto Star",
-        "text_html": "The sources said here Tuesday that <a href=\"https://www.thestar.com/sports/raptors/raptors-paused-kawhi-leonard-trade-after-balking-at-signing-liability-clause-sources-say/article_2b7a99be-2b90-4aa7-9ce1-5f34ef0b31e3.html\" target=\"_blank\" style=\"color: #1a73e8;\">the Raptors knowing they might be on the hook for future penalties was one thing; having to sign off on formal conditions was enough to make Toronto decide to \u201cjust wait\u201d until the probe is completed</a>.",
-        "outlet": "Toronto Star",
-        "source_url": "https://www.thestar.com/sports/raptors/raptors-paused-kawhi-leonard-trade-after-balking-at-signing-liability-clause-sources-say/article_2b7a99be-2b90-4aa7-9ce1-5f34ef0b31e3.html"
-      },
-      {
-        "date": "2026-07-16",
-        "text": "The Raptors don\u2019t seem overly concerned at the pace of the process and sources insist they think the deal as proposed will be consummated.And, in truth, it\u2019s not like the Raptors have a lot of reason to rush it. The way the summer player market has unfolded, the team\u2019s salary cap situation and the kind of free agents still available, there\u2019s no other major deals to make.Toronto Star",
-        "text_html": "<a href=\"https://www.thestar.com/sports/raptors/raptors-paused-kawhi-leonard-trade-after-balking-at-signing-liability-clause-sources-say/article_2b7a99be-2b90-4aa7-9ce1-5f34ef0b31e3.html\" target=\"_blank\" style=\"color: #1a73e8;\">The Raptors don\u2019t seem overly concerned at the pace of the process and sources insist they think the deal as proposed will be consummated.</a> And, in truth, it\u2019s not like the Raptors have a lot of reason to rush it. The way the summer player market has unfolded, the team\u2019s salary cap situation and the kind of free agents still available, there\u2019s no other major deals to make.",
-        "outlet": "Toronto Star",
-        "source_url": "https://www.thestar.com/sports/raptors/raptors-paused-kawhi-leonard-trade-after-balking-at-signing-liability-clause-sources-say/article_2b7a99be-2b90-4aa7-9ce1-5f34ef0b31e3.html"
-      },
-      {
-        "date": "2026-07-16",
-        "text": "Marc J. Spears: \"I think the assumption is that the Clippers are fearful of what is to come, butI am hearing that they want to get this done, that they feel like Steve Ballmer was a victim, that he is going to be innocent. We will see. But they are eager to get this done, and there is deeper than the Clippers. There are so many teams, players.\"YouTube",
-        "text_html": "Marc J. Spears: \"I think the assumption is that the Clippers are fearful of what is to come, but <a href=\"https://www.youtube.com/watch?v=wWQdEm1bIsA&t=125s\" target=\"_blank\" style=\"color: #1a73e8;\">I am hearing that they want to get this done, that they feel like Steve Ballmer was a victim, that he is going to be innocent. We will see. But they are eager to get this done, and there is deeper than the Clippers. There are so many teams, players.</a> \"",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=wWQdEm1bIsA&t=125s"
-      },
-      {
-        "date": "2026-07-15",
-        "text": "Josh Lewenberg: For what it\u2019s worth,Raptors continue to talk/act like a team that\u2019s unworried. Sense is the only thing that would jeopardize the trade is the unlikely scenario where Kawhi\u2019s contract is voided. Any other possible penalty, including suspension, is something they could work aroundx.com",
-        "text_html": "Josh Lewenberg: For what it\u2019s worth, <a href=\"https://x.com/JLew1050/status/2077247300489892070\" target=\"_blank\" style=\"color: #1a73e8;\">Raptors continue to talk/act like a team that\u2019s unworried. Sense is the only thing that would jeopardize the trade is the unlikely scenario where Kawhi\u2019s contract is voided. Any other possible penalty, including suspension, is something they could work around</a>",
-        "outlet": "x.com",
-        "source_url": "https://x.com/JLew1050/status/2077247300489892070"
-      },
-      {
-        "date": "2026-07-15",
-        "text": "Depending on the evidence uncovered, the Los Angeles Clippers star could reportedly face serious disciplinary action, ranging from a lengthy suspension to the possible voiding of his contract. According to ESPN's Shams Charania, even a full-season suspension cannot be ruled out at this stage.\"The absolute worst is Kawhi Leonard's contract being voided, or him being suspended for a significant period of time.Whether it's 40/20 games or entire season.. it all comes down to the evidence and what's found in the investigation,\" Charania reported on the Shump Street Podcast.BasketNews",
-        "text_html": "Depending on the evidence uncovered, the Los Angeles Clippers star could reportedly face serious disciplinary action, ranging from a lengthy suspension to the possible voiding of his contract. According to ESPN's Shams Charania, even a full-season suspension cannot be ruled out at this stage. <a href=\"https://basketnews.com/news-252035-kawhi-leonard-worst-case-scenario-nba-investigation.html\" target=\"_blank\" style=\"color: #1a73e8;\">\"The absolute worst is Kawhi Leonard's contract being voided, or him being suspended for a significant period of time.</a> Whether it's 40/20 games or entire season.. it all comes down to the evidence and what's found in the investigation,\" Charania reported on the Shump Street Podcast.",
-        "outlet": "BasketNews",
-        "source_url": "https://basketnews.com/news-252035-kawhi-leonard-worst-case-scenario-nba-investigation.html"
-      },
-      {
-        "date": "2026-07-14",
-        "text": "Oh No He Didn't: Adam Silver on the Kawhi trade:\"I'm hopeful that it will wrap up this summer. The league did not pause the trade.The parties to the trade made a decision not to go forward given that the investigation remained open. The investigation needs to run its course\"x.com",
-        "text_html": "Oh No He Didn't: Adam Silver on the Kawhi trade: <a href=\"https://x.com/ohnohedidnt24/status/2077217349581639748\" target=\"_blank\" style=\"color: #1a73e8;\">\"I'm hopeful that it will wrap up this summer. The league did not pause the trade.</a> The parties to the trade made a decision not to go forward given that the investigation remained open. The investigation needs to run its course\"",
-        "outlet": "x.com",
-        "source_url": "https://x.com/ohnohedidnt24/status/2077217349581639748"
-      },
-      {
-        "date": "2026-07-14",
-        "text": "Oh No He Didn't: Adam Silver:\"The issues were well known to the teams. I don't think any of this information should've been a surprise to anyone involved\"x.com",
-        "text_html": "Oh No He Didn't: Adam Silver: <a href=\"https://x.com/ohnohedidnt24/status/2077221517893484800\" target=\"_blank\" style=\"color: #1a73e8;\">\"The issues were well known to the teams. I don't think any of this information should've been a surprise to anyone involved\"</a>",
-        "outlet": "x.com",
-        "source_url": "https://x.com/ohnohedidnt24/status/2077221517893484800"
-      },
-      {
-        "date": "2026-07-14",
-        "text": "Oh No He Didn't: Adam Silver: \"I don't know specifically what will be in the report.It is realistic to think that this can be wrapped up. It's going on longer than I would have hoped\"x.com",
-        "text_html": "Oh No He Didn't: Adam Silver: \"I don't know specifically what will be in the report. <a href=\"https://x.com/ohnohedidnt24/status/2077220469556604965\" target=\"_blank\" style=\"color: #1a73e8;\">It is realistic to think that this can be wrapped up. It's going on longer than I would have hoped\"</a>",
-        "outlet": "x.com",
-        "source_url": "https://x.com/ohnohedidnt24/status/2077220469556604965"
-      },
-      {
-        "date": "2026-07-14",
-        "text": "Ben Golliver: NBA Commissioner Adam Silver on the Kawhi Leonard investigation: \"My timeline remains this summer. I\u2019m not conducting the investigation. ...The league did not pause the trade.\"x.com",
-        "text_html": "Ben Golliver: NBA Commissioner Adam Silver on the Kawhi Leonard investigation: \"My timeline remains this summer. I\u2019m not conducting the investigation. ... <a href=\"https://x.com/BenGolliver/status/2077216189089222991\" target=\"_blank\" style=\"color: #1a73e8;\">The league did not pause the trade.\"</a>",
-        "outlet": "x.com",
-        "source_url": "https://x.com/BenGolliver/status/2077216189089222991"
-      },
-      {
-        "date": "2026-07-10",
-        "text": "NBABase: Windhorst: \u201cThe Clippers still want to do this trade badly they're getting a whole bunch of draft capital in this deal the Raptors in their statement yesterday said they were eager they want this trade to happen butif Kawhi Leonard faces a real penalty here we could see the trade terms reopened and I think that's what the Raptors are trying to protect themselves.\u201dx.com",
-        "text_html": "NBABase: Windhorst: \u201cThe Clippers still want to do this trade badly they're getting a whole bunch of draft capital in this deal the Raptors in their statement yesterday said they were eager they want this trade to happen but <a href=\"https://x.com/TheNBABase/status/2075563823902367922\" target=\"_blank\" style=\"color: #1a73e8;\">if Kawhi Leonard faces a real penalty here we could see the trade terms reopened and I think that's what the Raptors are trying to protect themselves.\u201d</a>",
-        "outlet": "x.com",
-        "source_url": "https://x.com/TheNBABase/status/2075563823902367922"
-      },
-      {
-        "date": "2026-07-10",
-        "text": "The Clippers explored Leonard's trade market for weeks, sources say, before coming to terms on a deal with Toronto. And ... They did so,sources say, under the impression from the league office that the eventual outcome of the NBA's ongoing investigation into alleged cap impropriety involving Leonard and third-party business sponsor Aspiration would not have any impact on trading their star forward away.marcstein.substack.com",
-        "text_html": "The Clippers explored Leonard's trade market for weeks, sources say, before coming to terms on a deal with Toronto. And ... They did so, <a href=\"https://marcstein.substack.com/p/the-latest-on-the-raptors-would-be?r=5jkm20&utm_medium=ios&triedRedirect=true\" target=\"_blank\" style=\"color: #1a73e8;\">sources say, under the impression from the league office that the eventual outcome of the NBA's ongoing investigation into alleged cap impropriety involving Leonard and third-party business sponsor Aspiration would not have any impact on trading their star forward away</a>.",
-        "outlet": "marcstein.substack.com",
-        "source_url": "https://marcstein.substack.com/p/the-latest-on-the-raptors-would-be?r=5jkm20&utm_medium=ios&triedRedirect=true"
-      },
-      {
-        "date": "2026-07-09",
-        "text": "Marc Stein: NBA spokesperson to @TheSteinLine on the league\u2019s investigation into Kawhi Leonard\u2019s contract with the Clippers:\u201cWe don\u2019t have a specific timeline for the conclusion of the investigation\u00a0but expect the firm to finalize its work in the coming weeks.\"x.com",
-        "text_html": "Marc Stein: NBA spokesperson to @TheSteinLine on the league\u2019s investigation into Kawhi Leonard\u2019s contract with the Clippers: <a href=\"https://x.com/TheSteinLine/status/2075338107168358627\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cWe don\u2019t have a specific timeline for the conclusion of the investigation but expect the firm to finalize its work in the coming weeks.\"</a>",
-        "outlet": "x.com",
-        "source_url": "https://x.com/TheSteinLine/status/2075338107168358627"
-      },
-      {
-        "date": "2026-07-09",
-        "text": "Oh No He Didn't: Shams on Kawhi trade:\"The expectation around all sides is that this deal will end up happening at the end of the day\"x.com",
-        "text_html": "Oh No He Didn't: Shams on Kawhi trade: <a href=\"https://x.com/ohnohedidnt24/status/2075295588434813329\" target=\"_blank\" style=\"color: #1a73e8;\">\"The expectation around all sides is that this deal will end up happening at the end of the day\"</a>",
-        "outlet": "x.com",
-        "source_url": "https://x.com/ohnohedidnt24/status/2075295588434813329"
-      },
-      {
-        "date": "2026-07-09",
-        "text": "Shams Charania: Developing:The Los Angeles Clippers-Toronto Raptors trade centered on Kawhi Leonard will not be complete until the NBA investigation into the Clippers is over.Statement from the Clippers to ESPN: For the past 10 months, our organization has fully cooperated with an NBA investigation, participating in dozens of interviews, providing tens of thousands of documents, and facilitating access to our staff. While the process has been challenging, we have remained committed to transparency.x.com",
-        "text_html": "Shams Charania: Developing: <a href=\"https://x.com/ShamsCharania/status/2075293917118136739\" target=\"_blank\" style=\"color: #1a73e8;\">The Los Angeles Clippers-Toronto Raptors trade centered on Kawhi Leonard will not be complete until the NBA investigation into the Clippers is over.</a> Statement from the Clippers to ESPN: For the past 10 months, our organization has fully cooperated with an NBA investigation, participating in dozens of interviews, providing tens of thousands of documents, and facilitating access to our staff. While the process has been challenging, we have remained committed to transparency.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/ShamsCharania/status/2075293917118136739"
-      },
-      {
-        "date": "2026-07-09",
-        "text": "Shams Charania: Clippers statement:On June 30, we reached an agreement in principle to trade Kawhi Leonard to the Toronto Raptors. We have since been informed that the trade can only be finalized if the Raptors' ownership group assumes the risk of penalties related to Kawhi\u2019s contract that could theoretically result from the ongoing investigation.The investigation is ongoing, and we expect the trade to be finalized following its conclusion.x.com",
-        "text_html": "Shams Charania: Clippers statement: <a href=\"https://x.com/ShamsCharania/status/2075293917118136739\" target=\"_blank\" style=\"color: #1a73e8;\">On June 30, we reached an agreement in principle to trade Kawhi Leonard to the Toronto Raptors. We have since been informed that the trade can only be finalized if the Raptors' ownership group assumes the risk of penalties related to Kawhi\u2019s contract that could theoretically result from the ongoing investigation.</a> The investigation is ongoing, and we expect the trade to be finalized following its conclusion.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/ShamsCharania/status/2075293917118136739"
-      },
-      {
-        "date": "2026-07-09",
-        "text": "Shams Charania: Clippers statement: At the heart of this investigation are Joe Sanberg and Aspiration. We did not funnel money to Kawhi Leonard through Aspiration. Like many sophisticated investors, financial institutions, and business partners, we were victims of a fraud initiated by Sanberg, who has been convicted and sentenced to 14 years in prison. We recognize the uncertainty this has created and the impact it has had on our team, our fans, the Raptors organization, their fans, and the players whose futures remain affected while this process continues.We remain confident that, when the facts are evaluated fairly and thoroughly, the NBA will confirm exactly what we have said from the beginning: We have not done what we are accused of doing.x.com",
-        "text_html": "Shams Charania: Clippers statement: At the heart of this investigation are Joe Sanberg and Aspiration. We did not funnel money to Kawhi Leonard through Aspiration. Like many sophisticated investors, financial institutions, and business partners, we were victims of a fraud initiated by Sanberg, who has been convicted and sentenced to 14 years in prison. We recognize the uncertainty this has created and the impact it has had on our team, our fans, the Raptors organization, their fans, and the players whose futures remain affected while this process continues. <a href=\"https://x.com/ShamsCharania/status/2075293917118136739\" target=\"_blank\" style=\"color: #1a73e8;\">We remain confident that, when the facts are evaluated fairly and thoroughly, the NBA will confirm exactly what we have said from the beginning: We have not done what we are accused of doing</a>.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/ShamsCharania/status/2075293917118136739"
-      },
-      {
-        "date": "2026-07-09",
-        "text": "Marc Stein: Raptors statement: Regarding our planned trade with the LA Clippers for Kawhi Leonard, the NBA league office informed us that as a result of the ongoing investigation involving the Clippers,we would assume the risk of any potential outcome of the investigation impacting Kawhi. In light of this, we will wait until the league's investigation is complete.The Raptors remain eager to bring Kawhi back to Toronto and look forward to a swift resolution for our players, our organization and our fans.x.com",
-        "text_html": "Marc Stein: Raptors statement: Regarding our planned trade with the LA Clippers for Kawhi Leonard, the NBA league office informed us that as a result of the ongoing investigation involving the Clippers, <a href=\"https://x.com/TheSteinLine/status/2075294821019951608?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">we would assume the risk of any potential outcome of the investigation impacting Kawhi. In light of this, we will wait until the league's investigation is complete.</a> The Raptors remain eager to bring Kawhi back to Toronto and look forward to a swift resolution for our players, our organization and our fans.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/TheSteinLine/status/2075294821019951608?s=20"
-      },
-      {
-        "date": "2026-07-07",
-        "text": "Esfandiar Baraheni: KyleLowry on the Kawhi Leonard trade x2: \u201cI appreciate him coming here\u2026 just to be here for my moment. I think the moves that Bobby is making and what he\u2019s doing, they know what they\u2019re doing, they\u2019re trying to win a championship\u2026a championship is his only aspiration.\u201dx.com",
-        "text_html": "Esfandiar Baraheni: Kyle <a href=\"https://x.com/JustEsBaraheni/status/2074495073111224824\" target=\"_blank\" style=\"color: #1a73e8;\">Lowry on the Kawhi Leonard trade x2: \u201cI appreciate him coming here\u2026 just to be here for my moment. I think the moves that Bobby is making and what he\u2019s doing, they know what they\u2019re doing, they\u2019re trying to win a championship\u2026</a> a championship is his only aspiration.\u201d",
-        "outlet": "x.com",
-        "source_url": "https://x.com/JustEsBaraheni/status/2074495073111224824"
       }
     ],
     "Giannis Antetokounmpo": [
@@ -2164,13 +2130,6 @@
         "text_html": "This year, Kel'el Ware is walking around Las Vegas during summer league in Milwaukee Bucks gear after the Heat included him as part of a trade package to acquire two-time NBA MVP Giannis Antetokounmpo and veteran forward Bobby Portis this offseason. \u201cI mean, <a href=\"https://www.miamiherald.com/sports/nba/miami-heat/article316474294.html\" target=\"_blank\" style=\"color: #1a73e8;\">I kind of figured [the trade] was going to happen,\u201d Ware said to two South Florida newspapers, including the Miami Herald, on Friday while watching the Bucks and Heat face off in a Las Vegas Summer League game. \u201cSo I was just preparing myself.</a> It was everywhere. Speaking with my agents and things like that, you kind of get the gist of what\u2019s going to happen.\u201d",
         "outlet": "Miami Herald",
         "source_url": "https://www.miamiherald.com/sports/nba/miami-heat/article316474294.html"
-      },
-      {
-        "date": "2026-07-03",
-        "text": "Per Bill Simmons,Giannis was about to sign off on the Celtics trade, but he wanted a 3 year extension at 35% of the cap but Boston was set on 2 years at 30%. Brad Stevens would not budge on the extension and that\u2019s when he approved the trade to Miami.reddit",
-        "text_html": "Per Bill Simmons, <a href=\"https://www.reddit.com/r/nba/comments/1uloy8j/per_bill_simmons_giannis_was_about_to_sign_off_on/\" target=\"_blank\" style=\"color: #1a73e8;\">Giannis was about to sign off on the Celtics trade, but he wanted a 3 year extension at 35% of the cap but Boston was set on 2 years at 30%. Brad Stevens would not budge on the extension and that\u2019s when he approved the trade to Miami</a>.",
-        "outlet": "reddit",
-        "source_url": "https://www.reddit.com/r/nba/comments/1uloy8j/per_bill_simmons_giannis_was_about_to_sign_off_on/"
       }
     ],
     "Jaylen Brown": [
@@ -2411,62 +2370,6 @@
         "text_html": "<a href=\"https://www.youtube.com/watch?v=VOPOKIuzzrw&t=0s\" target=\"_blank\" style=\"color: #1a73e8;\">Paul Pierce on the inevitability of the Jaylen Brown trade: \"It's like if you have a family member who is dying and it's like when they die you saw it coming. It sucks, but you know, when it happens it's like out of the blue, it's different.</a> You know what I'm saying? So it was like, all right. So I came to acceptance of it that was going to happen although I don't like it.\"",
         "outlet": "YouTube",
         "source_url": "https://www.youtube.com/watch?v=VOPOKIuzzrw&t=0s"
-      },
-      {
-        "date": "2026-07-03",
-        "text": "Daniel Donabedian: Celtics assistant coach Sam Cassell on the Jaylen Brown trade:\u201cJaylen has done everything possible for this city. He\u2019ll be missed. But it\u2019s the NBA. Wilt Chamberlain got traded after he averaged 50 points one year\u2026I wish nothing but the best for Jaylen. He\u2019s a hell of a basketball player.\u201dHe then spoke on Paul George: \u201cHe doesn\u2019t have to try to be Jaylen Brown. He\u2019s gotta be Paul George\u2026We\u2019ll be fine.\u201dx.com",
-        "text_html": "Daniel Donabedian: Celtics assistant coach Sam Cassell on the Jaylen Brown trade: <a href=\"https://x.com/danield1214/status/2073113808290160924\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cJaylen has done everything possible for this city. He\u2019ll be missed. But it\u2019s the NBA. Wilt Chamberlain got traded after he averaged 50 points one year\u2026I wish nothing but the best for Jaylen. He\u2019s a hell of a basketball player.\u201d</a> He then spoke on Paul George: \u201cHe doesn\u2019t have to try to be Jaylen Brown. He\u2019s gotta be Paul George\u2026We\u2019ll be fine.\u201d",
-        "outlet": "x.com",
-        "source_url": "https://x.com/danield1214/status/2073113808290160924"
-      },
-      {
-        "date": "2026-07-03",
-        "text": "Another team with widely reported\u00a0interest, the Trail Blazers, similarly did not join the chase.A Blazers team\u00a0source\u00a0said the Blazers were never enamored with Brown, even before Boston made it known he was available on the trade market.Two factors went into the Blazers\u2019 disinterest: Their analytics viewed him as a negative player and the Celtics\u2019 asking price was too high. \u201cWe were never aggressively looking to trade for him,\u201d a team\u00a0source\u00a0said. \u201cAnd particularly not at their price.\u201dNew York Times",
-        "text_html": "Another team with widely reported interest, the Trail Blazers, similarly did not join the chase. <a href=\"https://www.nytimes.com/athletic/7418310/2026/07/03/jaylen-brown-celtics-inside-trade-pov/\" target=\"_blank\" style=\"color: #1a73e8;\">A Blazers team source said the Blazers were never enamored with Brown, even before Boston made it known he was available on the trade market.</a> Two factors went into the Blazers\u2019 disinterest: Their analytics viewed him as a negative player and the Celtics\u2019 asking price was too high. \u201cWe were never aggressively looking to trade for him,\u201d a team source said. \u201cAnd particularly not at their price.\u201d",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/7418310/2026/07/03/jaylen-brown-celtics-inside-trade-pov/"
-      },
-      {
-        "date": "2026-07-03",
-        "text": "The cool market suggested the existence of a significant gap between the general perception of Brown, who finished sixth in MVP voting this season, and the way he is seen within the NBA. Though the idea of him being viewed as the seventh-best player on a given team was widely mocked,\u00a0a recent report that one front-office member saw Brown in that way\u00a0illuminated the reality that advanced analytics never shined too brightly on Brown\u2019s game.Even more pointedly, a current general manager, speaking anonymously to comment on internal team\u00a0discussions,\u00a0told\u00a0The Athletic\u00a0in the wake of the trade that he doesn\u2019t view Brown as a top-50 player in the NBA.New York Times",
-        "text_html": "The cool market suggested the existence of a significant gap between the general perception of Brown, who finished sixth in MVP voting this season, and the way he is seen within the NBA. Though the idea of him being viewed as the seventh-best player on a given team was widely mocked, a recent report that one front-office member saw Brown in that way illuminated the reality that advanced analytics never shined too brightly on Brown\u2019s game. <a href=\"https://www.nytimes.com/athletic/7418310/2026/07/03/jaylen-brown-celtics-inside-trade-pov/\" target=\"_blank\" style=\"color: #1a73e8;\">Even more pointedly, a current general manager, speaking anonymously to comment on internal team discussions, told The Athletic in the wake of the trade that he doesn\u2019t view Brown as a top-50 player in the NBA</a>.",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/7418310/2026/07/03/jaylen-brown-celtics-inside-trade-pov/"
-      },
-      {
-        "date": "2026-07-03",
-        "text": "Tim MacMahon:\u00a0The league does not perceive\u00a0him to be, the league in terms of the\u00a0people who are making decisions on\u00a0trade, that the league does not perceive\u00a0him to be the sixth most valuable\u00a0player\u00a0in the league, because in part of his\u00a0contract\u00a0and then this is such a like hot button\u00a0issue, but the advanced analytics are\u00a0not favorable to Jaylen Brown.\u00a0I had another GM basically say, \"Look\u2026 Brian Windhorst: Here we go\u2026\u00a0Be careful\u00a0what you're about to say. That's all\u00a0I'm going to say. MacMahon: It's our job to explain\u00a0things whether we're co-signing not\u00a0co-signing, whatever, when there's\u00a0something like this that confuses the\u00a0hell out of basically\u00a0the media, all the fans, all of\u00a0our listeners.You saw this trade\u00a0and let's be honest the initial reaction\u00a0was \u2018what the bleep?!\u2019,\u00a0and this other GM says \u2018this is\u00a0a classic case of the credit goes to the\u00a0guy who scores but they're not driving\u00a0team success. There's guys like this all\u00a0over the league. The difference is he's\u00a0not at 40 million and like a Brandon\u00a0Ingram.He's at 60 million and then\u00a0look, he's rounding up and and then he's going to be at 60 soon,\u00a0right? And then it gets into it gets\u00a0into the CBA and the cap rules and the\u00a0apron.YouTube",
-        "text_html": "Tim MacMahon: The league does not perceive him to be, the league in terms of the people who are making decisions on trade, that the league does not perceive him to be the sixth most valuable player in the league, because in part of his contract and then this is such a like hot button issue, but the advanced analytics are not favorable to Jaylen Brown. I had another GM basically say, \"Look\u2026 Brian Windhorst: Here we go\u2026 Be careful what you're about to say. That's all I'm going to say. MacMahon: It's our job to explain things whether we're co-signing not co-signing, whatever, when there's something like this that confuses the hell out of basically the media, all the fans, all of our listeners. <a href=\"https://www.youtube.com/watch?v=b8rZH18Cnr0&t=509s\" target=\"_blank\" style=\"color: #1a73e8;\">You saw this trade and let's be honest the initial reaction was \u2018what the bleep?!\u2019, and this other GM says \u2018this is a classic case of the credit goes to the guy who scores but they're not driving team success. There's guys like this all over the league. The difference is he's not at 40 million and like a Brandon Ingram.</a> He's at 60 million and then look, he's rounding up and and then he's going to be at 60 soon, right? And then it gets into it gets into the CBA and the cap rules and the apron.",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=b8rZH18Cnr0&t=509s"
-      },
-      {
-        "date": "2026-07-03",
-        "text": "SiriusXM NBA Radio:\u201cIf Red [Auerbach]\u00a0was alive... he may have thrown up about this move\u201d. Robert Parish tells @WorldWideWob what the legendary coach would think.x.com",
-        "text_html": "SiriusXM NBA Radio: <a href=\"https://x.com/siriusxmnba/status/2072795196719538222\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cIf Red [Auerbach] was alive... he may have thrown up about this move\u201d. Robert Parish tells @WorldWideWob what the legendary coach would think</a>.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/siriusxmnba/status/2072795196719538222"
-      },
-      {
-        "date": "2026-07-03",
-        "text": "Shams Charania: \"The Celtics made a couple of assessments. The first assessment was it was time to split up the duo of Jayson Tatum and Jaylen Brown. You cannot have both of those guys on supermax contracts. Andthen it was the assessment that they would be moving on clearly no matter what with Jaylen Brown. They were aggressive in seeking out packages, but when teams called on Jayson Tatum, they were given a complete no. When teams called on Jaylen Brown, they were wide open.\"YouTube",
-        "text_html": "Shams Charania: \"The Celtics made a couple of assessments. The first assessment was it was time to split up the duo of Jayson Tatum and Jaylen Brown. You cannot have both of those guys on supermax contracts. And <a href=\"https://www.youtube.com/watch?v=Jecl9l3vmmE&t=61s\" target=\"_blank\" style=\"color: #1a73e8;\">then it was the assessment that they would be moving on clearly no matter what with Jaylen Brown. They were aggressive in seeking out packages, but when teams called on Jayson Tatum, they were given a complete no. When teams called on Jaylen Brown, they were wide open.\"</a>",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=Jecl9l3vmmE&t=61s"
-      },
-      {
-        "date": "2026-07-03",
-        "text": "Shams Charania: \"My understanding was Jaylen Brown felt disrespected, and the only way to recoup that relationship at that point was to give Jaylen Brown that two-year $145 million extension in July. Butall the indications now are that the Celtics were not going to offer that. So then it became about seeing what can you get on the trade market.\"YouTube",
-        "text_html": "Shams Charania: \"My understanding was Jaylen Brown felt disrespected, and the only way to recoup that relationship at that point was to give Jaylen Brown that two-year $145 million extension in July. But <a href=\"https://www.youtube.com/watch?v=chNzRuUy9CM&t=108s\" target=\"_blank\" style=\"color: #1a73e8;\">all the indications now are that the Celtics were not going to offer that. So then it became about seeing what can you get on the trade market.\"</a>",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=chNzRuUy9CM&t=108s"
-      },
-      {
-        "date": "2026-07-03",
-        "text": "Bill Simmons on hearing about the Jaylen Brown trade from his wife picking him up from a colonoscopy:\u201cI think I\u2019m dead. The anesthesia killed me. Are there more first round picks?...I had a camera in my ass, and I had Paul George rammed up my ass\u201dreddit",
-        "text_html": "Bill Simmons on hearing about the Jaylen Brown trade from his wife picking him up from a colonoscopy: <a href=\"https://www.reddit.com/r/nba/comments/1ulm6ss/bill_simmons_on_hearing_about_the_jaylen_brown/\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cI think I\u2019m dead. The anesthesia killed me. Are there more first round picks?...I had a camera in my ass, and I had Paul George rammed up my ass\u201d</a>",
-        "outlet": "reddit",
-        "source_url": "https://www.reddit.com/r/nba/comments/1ulm6ss/bill_simmons_on_hearing_about_the_jaylen_brown/"
       }
     ],
     "Bradley Beal": [
@@ -2522,13 +2425,6 @@
         "text_html": "Dave McMenamin: The Lakers make the Deandre Ayton-Jaden Hardy trade with WAS official. <a href=\"https://x.com/mcten/status/2074649224399253585\" target=\"_blank\" style=\"color: #1a73e8;\">Hardy will wear No. 7 for LAL</a>.",
         "outlet": "x.com",
         "source_url": "https://x.com/mcten/status/2074649224399253585"
-      },
-      {
-        "date": "2026-07-03",
-        "text": "Shams Charania: Just in:The Los Angeles Lakers are trading Deandre Ayton to the Washington Wizards for Jaden Hardy and two Wizards second-round picks in 2031 and 2032,sources tell ESPN.x.com",
-        "text_html": "Shams Charania: Just in: <a href=\"https://x.com/ShamsCharania/status/2073092477070823605?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">The Los Angeles Lakers are trading Deandre Ayton to the Washington Wizards for Jaden Hardy and two Wizards second-round picks in 2031 and 2032,</a> sources tell ESPN.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/ShamsCharania/status/2073092477070823605?s=20"
       }
     ],
     "Jimmy Butler": [
@@ -2696,13 +2592,6 @@
         "text_html": "Jayson Tatum: <a href=\"https://www.instagram.com/stories/jaytatum0/3933327905132077607?utm_source=ig_story_item_share\" target=\"_blank\" style=\"color: #1a73e8;\">\"9 years! Forever grateful for all that we accomplished together, for pushing me to be a better player. From first-round exits to winning a chip together. I'm thankful for it all.</a> Nothing but love and respect for you as a player and as a person! Looking forward to see how you attack this next chapter of your career and wish nothing but the best for you! Continue to be special!\"",
         "outlet": "Instagram",
         "source_url": "https://www.instagram.com/stories/jaytatum0/3933327905132077607?utm_source=ig_story_item_share"
-      },
-      {
-        "date": "2026-07-03",
-        "text": "Shams Charania: \"The Celtics made a couple of assessments. The first assessment was it was time to split up the duo of Jayson Tatum and Jaylen Brown. You cannot have both of those guys on supermax contracts. Andthen it was the assessment that they would be moving on clearly no matter what with Jaylen Brown. They were aggressive in seeking out packages, but when teams called on Jayson Tatum, they were given a complete no. When teams called on Jaylen Brown, they were wide open.\"YouTube",
-        "text_html": "Shams Charania: \"The Celtics made a couple of assessments. The first assessment was it was time to split up the duo of Jayson Tatum and Jaylen Brown. You cannot have both of those guys on supermax contracts. And <a href=\"https://www.youtube.com/watch?v=Jecl9l3vmmE&t=61s\" target=\"_blank\" style=\"color: #1a73e8;\">then it was the assessment that they would be moving on clearly no matter what with Jaylen Brown. They were aggressive in seeking out packages, but when teams called on Jayson Tatum, they were given a complete no. When teams called on Jaylen Brown, they were wide open.\"</a>",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=Jecl9l3vmmE&t=61s"
       }
     ],
     "Bobby Portis": [
@@ -3001,13 +2890,6 @@
         "text_html": "He shared that he was not surprised at all when it was revealed that the Celtics shipped Brown to the 76ers, acknowledging the business side of the NBA. <a href=\"https://clutchpoints.com/nba/philadelphia-76ers/76ers-news-kevin-durant-declaration-jaylen-brown-fit-philadelphia\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cYou can't be stunned. It's the NBA, man. Luka Doncic got traded in the middle of the night. Nothing's out of the realm for me anymore as an NBA player,\u201d stated Durant</a>.",
         "outlet": "Clutch Points",
         "source_url": "https://clutchpoints.com/nba/philadelphia-76ers/76ers-news-kevin-durant-declaration-jaylen-brown-fit-philadelphia"
-      },
-      {
-        "date": "2026-07-03",
-        "text": "League\u00a0executives\u00a0have been struck by the money being spent on centers this summer. The Lakers traded two first-rounders, two second-rounders and two swaps to Utah in a sign-and-trade for\u00a0Walker Kessler, whom they hope will become their franchise center for\u00a0Luka Doncic's prime years, and then Los Angeles signed him to a four-year, $130 million deal.\"There's several teams who wanted Kessler for a few years, and if it had been a truly open market, other teams might've been willing to make a similar [trade] offer,\" one NBA personnel director said.\"But I'd be worried about doing a big deal with the Ainges [Jazz front office leaders Danny and Austin] just on principle.\"ESPN",
-        "text_html": "League executives have been struck by the money being spent on centers this summer. The Lakers traded two first-rounders, two second-rounders and two swaps to Utah in a sign-and-trade for Walker Kessler, whom they hope will become their franchise center for Luka Doncic's prime years, and then Los Angeles signed him to a four-year, $130 million deal. <a href=\"https://www.espn.com/nba/story/_/id/49254909/what-nba-execs-buzzing-jaylen-brown-celtics-sixers-walker-kessler-los-angeles-lakers-big-money-bigs-salary-cap\" target=\"_blank\" style=\"color: #1a73e8;\">\"There's several teams who wanted Kessler for a few years, and if it had been a truly open market, other teams might've been willing to make a similar [trade] offer,\" one NBA personnel director said.</a> \"But I'd be worried about doing a big deal with the Ainges [Jazz front office leaders Danny and Austin] just on principle.\"",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/49254909/what-nba-execs-buzzing-jaylen-brown-celtics-sixers-walker-kessler-los-angeles-lakers-big-money-bigs-salary-cap"
       }
     ],
     "DeMar DeRozan": [
@@ -3141,13 +3023,6 @@
         "text_html": "Dave McMenamin: The Lakers make the Deandre Ayton-Jaden Hardy trade with WAS official. <a href=\"https://x.com/mcten/status/2074649224399253585\" target=\"_blank\" style=\"color: #1a73e8;\">Hardy will wear No. 7 for LAL</a>.",
         "outlet": "x.com",
         "source_url": "https://x.com/mcten/status/2074649224399253585"
-      },
-      {
-        "date": "2026-07-03",
-        "text": "Shams Charania: Just in:The Los Angeles Lakers are trading Deandre Ayton to the Washington Wizards for Jaden Hardy and two Wizards second-round picks in 2031 and 2032,sources tell ESPN.x.com",
-        "text_html": "Shams Charania: Just in: <a href=\"https://x.com/ShamsCharania/status/2073092477070823605?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">The Los Angeles Lakers are trading Deandre Ayton to the Washington Wizards for Jaden Hardy and two Wizards second-round picks in 2031 and 2032,</a> sources tell ESPN.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/ShamsCharania/status/2073092477070823605?s=20"
       }
     ],
     "Dalton Knecht": [
@@ -3180,13 +3055,6 @@
         "text_html": "Brett Siegel: Trade details: Hornets: <a href=\"https://x.com/BrettSiegelNBA/status/2075673006685495680?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">Naz Reid, Mouhamadou Gueye, MIN 2033 1st (unprotected), MIN 2028, 2029, 2030 1st SWAPS, MIN 2029, 2032, 2033 2nds</a> Nets: Julius Randle, Joshua Jefferson (Pick No. 28) Timberwolves: LaMelo Ball, Josh Green, Isaiah Evans (Pick No. 33) Bulls: Nic Claxton",
         "outlet": "x.com",
         "source_url": "https://x.com/BrettSiegelNBA/status/2075673006685495680?s=20"
-      },
-      {
-        "date": "2026-07-03",
-        "text": "As the market has developed, sources sayRui Hachimura's representation has now been in contact with Minnesota and Golden State as well.The Timberwolves have a well-chronicled need for a power forward after committing to trade away Randle and Naz Reid so they can pair LaMelo Ball with Anthony Edwards and Hachimura is said to stand as their current top choice at the position.marcstein.substack.com",
-        "text_html": "As the market has developed, sources say <a href=\"https://marcstein.substack.com/p/yes-late-night-intel-with-all-of?utm_source=post-email-title&publication_id=392205&post_id=204779387&utm_campaign=email-post-title&isFreemail=false&r=10980&triedRedirect=true&utm_medium=email\" target=\"_blank\" style=\"color: #1a73e8;\">Rui Hachimura's representation has now been in contact with Minnesota and Golden State as well.</a> The Timberwolves have a well-chronicled need for a power forward after committing to trade away Randle and Naz Reid so they can pair LaMelo Ball with Anthony Edwards and Hachimura is said to stand as their current top choice at the position.",
-        "outlet": "marcstein.substack.com",
-        "source_url": "https://marcstein.substack.com/p/yes-late-night-intel-with-all-of?utm_source=post-email-title&publication_id=392205&post_id=204779387&utm_campaign=email-post-title&isFreemail=false&r=10980&triedRedirect=true&utm_medium=email"
       }
     ],
     "Kon Knueppel": [
@@ -3733,13 +3601,6 @@
         "text_html": "Brett Siegel: Trade details: Hornets: <a href=\"https://x.com/BrettSiegelNBA/status/2075673006685495680?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">Naz Reid, Mouhamadou Gueye, MIN 2033 1st (unprotected), MIN 2028, 2029, 2030 1st SWAPS, MIN 2029, 2032, 2033 2nds</a> Nets: Julius Randle, Joshua Jefferson (Pick No. 28) Timberwolves: LaMelo Ball, Josh Green, Isaiah Evans (Pick No. 33) Bulls: Nic Claxton",
         "outlet": "x.com",
         "source_url": "https://x.com/BrettSiegelNBA/status/2075673006685495680?s=20"
-      },
-      {
-        "date": "2026-07-03",
-        "text": "As the market has developed, sources sayRui Hachimura's representation has now been in contact with Minnesota and Golden State as well.The Timberwolves have a well-chronicled need for a power forward after committing to trade away Randle and Naz Reid so they can pair LaMelo Ball with Anthony Edwards and Hachimura is said to stand as their current top choice at the position.marcstein.substack.com",
-        "text_html": "As the market has developed, sources say <a href=\"https://marcstein.substack.com/p/yes-late-night-intel-with-all-of?utm_source=post-email-title&publication_id=392205&post_id=204779387&utm_campaign=email-post-title&isFreemail=false&r=10980&triedRedirect=true&utm_medium=email\" target=\"_blank\" style=\"color: #1a73e8;\">Rui Hachimura's representation has now been in contact with Minnesota and Golden State as well.</a> The Timberwolves have a well-chronicled need for a power forward after committing to trade away Randle and Naz Reid so they can pair LaMelo Ball with Anthony Edwards and Hachimura is said to stand as their current top choice at the position.",
-        "outlet": "marcstein.substack.com",
-        "source_url": "https://marcstein.substack.com/p/yes-late-night-intel-with-all-of?utm_source=post-email-title&publication_id=392205&post_id=204779387&utm_campaign=email-post-title&isFreemail=false&r=10980&triedRedirect=true&utm_medium=email"
       }
     ],
     "Kel'el Ware": [
@@ -3892,13 +3753,6 @@
         "text_html": "<a href=\"https://marcstein.substack.com/p/the-latest-on-the-raptors-would-be?r=5jkm20&utm_medium=ios&triedRedirect=true\" target=\"_blank\" style=\"color: #1a73e8;\">Atlanta, sources say, has also shown some fresh interest in Watson, which would likewise require a sign-and-trade to make it happen</a>. That said, whether it's the Hawks or the Clippers or any other suitor, sources maintain that the Nuggets are seeking compensation on par with what Utah received from the Lakers in their recent sign-and-trade swap that made Walker Kessler a Laker.",
         "outlet": "marcstein.substack.com",
         "source_url": "https://marcstein.substack.com/p/the-latest-on-the-raptors-would-be?r=5jkm20&utm_medium=ios&triedRedirect=true"
-      },
-      {
-        "date": "2026-07-03",
-        "text": "League\u00a0executives\u00a0have been struck by the money being spent on centers this summer. The Lakers traded two first-rounders, two second-rounders and two swaps to Utah in a sign-and-trade for\u00a0Walker Kessler, whom they hope will become their franchise center for\u00a0Luka Doncic's prime years, and then Los Angeles signed him to a four-year, $130 million deal.\"There's several teams who wanted Kessler for a few years, and if it had been a truly open market, other teams might've been willing to make a similar [trade] offer,\" one NBA personnel director said.\"But I'd be worried about doing a big deal with the Ainges [Jazz front office leaders Danny and Austin] just on principle.\"ESPN",
-        "text_html": "League executives have been struck by the money being spent on centers this summer. The Lakers traded two first-rounders, two second-rounders and two swaps to Utah in a sign-and-trade for Walker Kessler, whom they hope will become their franchise center for Luka Doncic's prime years, and then Los Angeles signed him to a four-year, $130 million deal. <a href=\"https://www.espn.com/nba/story/_/id/49254909/what-nba-execs-buzzing-jaylen-brown-celtics-sixers-walker-kessler-los-angeles-lakers-big-money-bigs-salary-cap\" target=\"_blank\" style=\"color: #1a73e8;\">\"There's several teams who wanted Kessler for a few years, and if it had been a truly open market, other teams might've been willing to make a similar [trade] offer,\" one NBA personnel director said.</a> \"But I'd be worried about doing a big deal with the Ainges [Jazz front office leaders Danny and Austin] just on principle.\"",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/49254909/what-nba-execs-buzzing-jaylen-brown-celtics-sixers-walker-kessler-los-angeles-lakers-big-money-bigs-salary-cap"
       }
     ],
     "Joel Embiid": [
@@ -4167,20 +4021,6 @@
         "text_html": "Rod Boone: <a href=\"https://x.com/rodboone/status/2074267969811542330\" target=\"_blank\" style=\"color: #1a73e8;\">Dorian Finney-Smith trade is official.</a> #Hornets sent cash considerations to Houston. Unlikely he'll suit up for the #Hornets, per league sources.",
         "outlet": "x.com",
         "source_url": "https://x.com/rodboone/status/2074267969811542330"
-      },
-      {
-        "date": "2026-07-03",
-        "text": "Shams Charania:The Houston Rockets are trading Dorian Finney-Smith and three second-round picks to the Charlotte Hornets,sources tell ESPN.x.com",
-        "text_html": "Shams Charania: <a href=\"https://x.com/ShamsCharania/status/2073081663182004636?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">The Houston Rockets are trading Dorian Finney-Smith and three second-round picks to the Charlotte Hornets,</a> sources tell ESPN.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/ShamsCharania/status/2073081663182004636?s=20"
-      },
-      {
-        "date": "2026-07-03",
-        "text": "Shams Charania:Charlotte acquires additional draft capital -- it has 20 second-rounders over the next 7 years and now the second-most tradeable picks in the NBA. The Rockets open roster flexibility after acquisitions of Marcus Smart and Bogdan Bogdanovic, plus create a $13 million trade exception.x.com",
-        "text_html": "Shams Charania: <a href=\"https://x.com/ShamsCharania/status/2073081720090587231?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">Charlotte acquires additional draft capital -- it has 20 second-rounders over the next 7 years and now the second-most tradeable picks in the NBA. The Rockets open roster flexibility after acquisitions of Marcus Smart and Bogdan Bogdanovic, plus create a $13 million trade exception</a>.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/ShamsCharania/status/2073081720090587231?s=20"
       }
     ],
     "Nickeil Alexander-Walker": [
@@ -4227,45 +4067,24 @@
         "outlet": "marcstein.substack.com",
         "source_url": "https://marcstein.substack.com/p/july-fourth-nba-trade-free-agency"
       }
-    ],
-    "Marcus Smart": [
-      {
-        "date": "2026-07-03",
-        "text": "Shams Charania:Charlotte acquires additional draft capital -- it has 20 second-rounders over the next 7 years and now the second-most tradeable picks in the NBA. The Rockets open roster flexibility after acquisitions of Marcus Smart and Bogdan Bogdanovic, plus create a $13 million trade exception.x.com",
-        "text_html": "Shams Charania: <a href=\"https://x.com/ShamsCharania/status/2073081720090587231?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">Charlotte acquires additional draft capital -- it has 20 second-rounders over the next 7 years and now the second-most tradeable picks in the NBA. The Rockets open roster flexibility after acquisitions of Marcus Smart and Bogdan Bogdanovic, plus create a $13 million trade exception</a>.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/ShamsCharania/status/2073081720090587231?s=20"
-      }
-    ],
-    "Bogdan Bogdanovic": [
-      {
-        "date": "2026-07-03",
-        "text": "Shams Charania:Charlotte acquires additional draft capital -- it has 20 second-rounders over the next 7 years and now the second-most tradeable picks in the NBA. The Rockets open roster flexibility after acquisitions of Marcus Smart and Bogdan Bogdanovic, plus create a $13 million trade exception.x.com",
-        "text_html": "Shams Charania: <a href=\"https://x.com/ShamsCharania/status/2073081720090587231?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">Charlotte acquires additional draft capital -- it has 20 second-rounders over the next 7 years and now the second-most tradeable picks in the NBA. The Rockets open roster flexibility after acquisitions of Marcus Smart and Bogdan Bogdanovic, plus create a $13 million trade exception</a>.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/ShamsCharania/status/2073081720090587231?s=20"
-      }
-    ],
-    "Anthony Edwards": [
-      {
-        "date": "2026-07-03",
-        "text": "As the market has developed, sources sayRui Hachimura's representation has now been in contact with Minnesota and Golden State as well.The Timberwolves have a well-chronicled need for a power forward after committing to trade away Randle and Naz Reid so they can pair LaMelo Ball with Anthony Edwards and Hachimura is said to stand as their current top choice at the position.marcstein.substack.com",
-        "text_html": "As the market has developed, sources say <a href=\"https://marcstein.substack.com/p/yes-late-night-intel-with-all-of?utm_source=post-email-title&publication_id=392205&post_id=204779387&utm_campaign=email-post-title&isFreemail=false&r=10980&triedRedirect=true&utm_medium=email\" target=\"_blank\" style=\"color: #1a73e8;\">Rui Hachimura's representation has now been in contact with Minnesota and Golden State as well.</a> The Timberwolves have a well-chronicled need for a power forward after committing to trade away Randle and Naz Reid so they can pair LaMelo Ball with Anthony Edwards and Hachimura is said to stand as their current top choice at the position.",
-        "outlet": "marcstein.substack.com",
-        "source_url": "https://marcstein.substack.com/p/yes-late-night-intel-with-all-of?utm_source=post-email-title&publication_id=392205&post_id=204779387&utm_campaign=email-post-title&isFreemail=false&r=10980&triedRedirect=true&utm_medium=email"
-      }
-    ],
-    "Norman Powell": [
-      {
-        "date": "2026-07-03",
-        "text": "KC Johnson: \"Let's start with the Bulls agreeing to terms with Norman Powell on a two-year, $45 million deal. By now, if you're watching this, you know the second year is a team option. This to me is a fantastic deal on so many levels. Let's start with the financial components.That second-year team option makes Norman Powell immediately tradeable(...) If the Bulls want to pivot off Norman Powell at next February's trade deadline, and some team wants to add a very, very good player in Norman Powell and gives the Bulls quite a haul, the Bulls have turned a free agency signing and cap space this summer into a nice trade package next February.\"YouTube",
-        "text_html": "KC Johnson: \"Let's start with the Bulls agreeing to terms with Norman Powell on a two-year, $45 million deal. By now, if you're watching this, you know the second year is a team option. This to me is a fantastic deal on so many levels. Let's start with the financial components. <a href=\"https://www.youtube.com/watch?v=wi-oPifr0Tk&t=36s\" target=\"_blank\" style=\"color: #1a73e8;\">That second-year team option makes Norman Powell immediately tradeable</a> (...) If the Bulls want to pivot off Norman Powell at next February's trade deadline, and some team wants to add a very, very good player in Norman Powell and gives the Bulls quite a haul, the Bulls have turned a free agency signing and cap space this summer into a nice trade package next February.\"",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=wi-oPifr0Tk&t=36s"
-      }
     ]
   },
   "daily_counts": {
+    "Kawhi Leonard": {
+      "2026-07-31": 2,
+      "2026-07-30": 2,
+      "2026-07-22": 1,
+      "2026-07-17": 1,
+      "2026-07-16": 4,
+      "2026-07-15": 2,
+      "2026-07-14": 4,
+      "2026-07-10": 2,
+      "2026-07-09": 6,
+      "2026-07-07": 1
+    },
+    "Dillon Brooks": {
+      "2026-07-31": 1
+    },
     "LeBron James": {
       "2026-07-31": 2,
       "2026-07-30": 1,
@@ -4343,8 +4162,7 @@
       "2026-07-31": 1,
       "2026-07-26": 1,
       "2026-07-12": 1,
-      "2026-07-06": 2,
-      "2026-07-03": 2
+      "2026-07-06": 2
     },
     "Stephen Curry": {
       "2026-07-31": 1,
@@ -4360,18 +4178,6 @@
       "2026-07-31": 1,
       "2026-07-29": 1
     },
-    "Kawhi Leonard": {
-      "2026-07-31": 1,
-      "2026-07-30": 2,
-      "2026-07-22": 1,
-      "2026-07-17": 1,
-      "2026-07-16": 4,
-      "2026-07-15": 2,
-      "2026-07-14": 4,
-      "2026-07-10": 2,
-      "2026-07-09": 6,
-      "2026-07-07": 1
-    },
     "Giannis Antetokounmpo": {
       "2026-07-30": 1,
       "2026-07-29": 1,
@@ -4379,8 +4185,7 @@
       "2026-07-23": 2,
       "2026-07-17": 2,
       "2026-07-15": 1,
-      "2026-07-12": 1,
-      "2026-07-03": 1
+      "2026-07-12": 1
     },
     "Jaylen Brown": {
       "2026-07-30": 1,
@@ -4395,8 +4200,7 @@
       "2026-07-08": 3,
       "2026-07-07": 2,
       "2026-07-06": 10,
-      "2026-07-04": 3,
-      "2026-07-03": 8
+      "2026-07-04": 3
     },
     "Bradley Beal": {
       "2026-07-30": 1,
@@ -4408,8 +4212,7 @@
     "Deandre Ayton": {
       "2026-07-30": 1,
       "2026-07-08": 1,
-      "2026-07-07": 1,
-      "2026-07-03": 1
+      "2026-07-07": 1
     },
     "Jimmy Butler": {
       "2026-07-29": 2,
@@ -4430,8 +4233,7 @@
       "2026-07-29": 1,
       "2026-07-16": 1,
       "2026-07-08": 2,
-      "2026-07-04": 1,
-      "2026-07-03": 1
+      "2026-07-04": 1
     },
     "Bobby Portis": {
       "2026-07-28": 2,
@@ -4479,8 +4281,7 @@
     "Luka Doncic": {
       "2026-07-27": 1,
       "2026-07-22": 1,
-      "2026-07-15": 1,
-      "2026-07-03": 1
+      "2026-07-15": 1
     },
     "DeMar DeRozan": {
       "2026-07-27": 1,
@@ -4511,8 +4312,7 @@
     "Jaden Hardy": {
       "2026-07-24": 1,
       "2026-07-22": 1,
-      "2026-07-07": 1,
-      "2026-07-03": 1
+      "2026-07-07": 1
     },
     "Dalton Knecht": {
       "2026-07-24": 1,
@@ -4520,8 +4320,7 @@
     },
     "LaMelo Ball": {
       "2026-07-24": 1,
-      "2026-07-10": 1,
-      "2026-07-03": 1
+      "2026-07-10": 1
     },
     "Kon Knueppel": {
       "2026-07-24": 1
@@ -4629,8 +4428,7 @@
     },
     "Naz Reid": {
       "2026-07-14": 1,
-      "2026-07-10": 1,
-      "2026-07-03": 1
+      "2026-07-10": 1
     },
     "Kel'el Ware": {
       "2026-07-12": 2
@@ -4671,8 +4469,7 @@
       "2026-07-10": 2
     },
     "Walker Kessler": {
-      "2026-07-10": 1,
-      "2026-07-03": 1
+      "2026-07-10": 1
     },
     "Joel Embiid": {
       "2026-07-10": 1,
@@ -4724,8 +4521,7 @@
       "2026-07-07": 1
     },
     "Dorian Finney-Smith": {
-      "2026-07-06": 1,
-      "2026-07-03": 2
+      "2026-07-06": 1
     },
     "Nickeil Alexander-Walker": {
       "2026-07-05": 1
@@ -4741,18 +4537,6 @@
     },
     "Jonas Valanciunas": {
       "2026-07-04": 1
-    },
-    "Marcus Smart": {
-      "2026-07-03": 1
-    },
-    "Bogdan Bogdanovic": {
-      "2026-07-03": 1
-    },
-    "Anthony Edwards": {
-      "2026-07-03": 1
-    },
-    "Norman Powell": {
-      "2026-07-03": 1
     }
   }
 }
