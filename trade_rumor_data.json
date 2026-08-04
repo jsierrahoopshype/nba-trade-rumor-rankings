@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-03T20:26:10.999762",
+  "generated_at": "2026-08-04T04:13:06.475657",
   "scrape_window_days": 28,
-  "window_start": "2026-07-06",
-  "window_end": "2026-08-03",
-  "total_rumors": 369,
-  "total_players": 100,
+  "window_start": "2026-07-07",
+  "window_end": "2026-08-04",
+  "total_rumors": 352,
+  "total_players": 99,
   "rankings": [
     {
       "player": "LeBron James",
-      "score": 12.75,
+      "score": 12.5,
       "mentions_week1": 6,
-      "mentions_week2": 11,
-      "mentions_weeks3_4": 5,
+      "mentions_week2": 10,
+      "mentions_weeks3_4": 6,
       "total_mentions": 22,
       "first_mention": "2026-07-08",
       "last_mention": "2026-07-31",
@@ -20,27 +20,15 @@
     },
     {
       "player": "Klay Thompson",
-      "score": 11.0,
-      "mentions_week1": 7,
-      "mentions_week2": 4,
+      "score": 10.0,
+      "mentions_week1": 5,
+      "mentions_week2": 6,
       "mentions_weeks3_4": 8,
       "total_mentions": 19,
       "first_mention": "2026-07-08",
       "last_mention": "2026-08-03",
       "team": "Dallas Mavericks",
       "rank": 2
-    },
-    {
-      "player": "Jaylen Brown",
-      "score": 10.0,
-      "mentions_week1": 3,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 28,
-      "total_mentions": 31,
-      "first_mention": "2026-07-06",
-      "last_mention": "2026-07-30",
-      "team": "Boston Celtics",
-      "rank": 3
     },
     {
       "player": "Kawhi Leonard",
@@ -52,43 +40,43 @@
       "first_mention": "2026-07-07",
       "last_mention": "2026-07-31",
       "team": "Los Angeles Clippers",
-      "rank": 4
+      "rank": 3
     },
     {
       "player": "Peyton Watson",
-      "score": 9.25,
+      "score": 9.0,
       "mentions_week1": 7,
       "mentions_week2": 1,
-      "mentions_weeks3_4": 7,
-      "total_mentions": 15,
-      "first_mention": "2026-07-06",
+      "mentions_weeks3_4": 6,
+      "total_mentions": 14,
+      "first_mention": "2026-07-08",
       "last_mention": "2026-08-03",
       "team": "Denver Nuggets",
+      "rank": 4
+    },
+    {
+      "player": "Jaylen Brown",
+      "score": 7.5,
+      "mentions_week1": 3,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 18,
+      "total_mentions": 21,
+      "first_mention": "2026-07-07",
+      "last_mention": "2026-07-30",
+      "team": "Boston Celtics",
       "rank": 5
     },
     {
       "player": "Jonathan Kuminga",
-      "score": 7.75,
-      "mentions_week1": 5,
-      "mentions_week2": 4,
+      "score": 7.25,
+      "mentions_week1": 4,
+      "mentions_week2": 5,
       "mentions_weeks3_4": 3,
       "total_mentions": 12,
       "first_mention": "2026-07-13",
       "last_mention": "2026-07-31",
       "team": "Golden State Warriors",
       "rank": 6
-    },
-    {
-      "player": "Johni Broome",
-      "score": 6.5,
-      "mentions_week1": 6,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 7,
-      "first_mention": "2026-07-26",
-      "last_mention": "2026-07-28",
-      "team": "Golden State Warriors",
-      "rank": 7
     },
     {
       "player": "Anthony Davis",
@@ -100,6 +88,18 @@
       "first_mention": "2026-07-07",
       "last_mention": "2026-07-29",
       "team": "Dallas Mavericks",
+      "rank": 7
+    },
+    {
+      "player": "Johni Broome",
+      "score": 6.0,
+      "mentions_week1": 5,
+      "mentions_week2": 2,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 7,
+      "first_mention": "2026-07-26",
+      "last_mention": "2026-07-28",
+      "team": "Golden State Warriors",
       "rank": 8
     },
     {
@@ -151,18 +151,6 @@
       "rank": 12
     },
     {
-      "player": "Kyrie Irving",
-      "score": 2.75,
-      "mentions_week1": 2,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 4,
-      "first_mention": "2026-07-19",
-      "last_mention": "2026-07-27",
-      "team": "Dallas Mavericks",
-      "rank": 13
-    },
-    {
       "player": "Khris Middleton",
       "score": 2.5,
       "mentions_week1": 0,
@@ -172,31 +160,7 @@
       "first_mention": "2026-07-07",
       "last_mention": "2026-07-22",
       "team": "Sacramento Kings",
-      "rank": 14
-    },
-    {
-      "player": "Kentavious Caldwell-Pope",
-      "score": 2.5,
-      "mentions_week1": 2,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 3,
-      "first_mention": "2026-07-26",
-      "last_mention": "2026-07-28",
-      "team": "Memphis Grizzlies",
-      "rank": 15
-    },
-    {
-      "player": "Paul George",
-      "score": 2.25,
-      "mentions_week1": 1,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 3,
-      "total_mentions": 5,
-      "first_mention": "2026-07-06",
-      "last_mention": "2026-07-31",
-      "team": "Philadelphia 76ers",
-      "rank": 16
+      "rank": 13
     },
     {
       "player": "Bennedict Mathurin",
@@ -208,7 +172,7 @@
       "first_mention": "2026-07-10",
       "last_mention": "2026-07-31",
       "team": "Indiana Pacers",
-      "rank": 17
+      "rank": 14
     },
     {
       "player": "De'Aaron Fox",
@@ -220,7 +184,7 @@
       "first_mention": "2026-07-17",
       "last_mention": "2026-07-31",
       "team": "San Antonio Spurs",
-      "rank": 18
+      "rank": 15
     },
     {
       "player": "Stephen Curry",
@@ -232,19 +196,7 @@
       "first_mention": "2026-07-08",
       "last_mention": "2026-07-31",
       "team": "Golden State Warriors",
-      "rank": 19
-    },
-    {
-      "player": "Tyler Herro",
-      "score": 2.0,
-      "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 6,
-      "total_mentions": 7,
-      "first_mention": "2026-07-10",
-      "last_mention": "2026-07-20",
-      "team": "Miami Heat",
-      "rank": 20
+      "rank": 16
     },
     {
       "player": "AJ Johnson",
@@ -256,7 +208,7 @@
       "first_mention": "2026-07-07",
       "last_mention": "2026-07-31",
       "team": "Memphis Grizzlies",
-      "rank": 21
+      "rank": 17
     },
     {
       "player": "Bradley Beal",
@@ -268,7 +220,19 @@
       "first_mention": "2026-07-24",
       "last_mention": "2026-07-30",
       "team": "Los Angeles Clippers",
-      "rank": 22
+      "rank": 18
+    },
+    {
+      "player": "Kentavious Caldwell-Pope",
+      "score": 2.0,
+      "mentions_week1": 1,
+      "mentions_week2": 2,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 3,
+      "first_mention": "2026-07-26",
+      "last_mention": "2026-07-28",
+      "team": "Memphis Grizzlies",
+      "rank": 19
     },
     {
       "player": "Keldon Johnson",
@@ -280,7 +244,7 @@
       "first_mention": "2026-07-29",
       "last_mention": "2026-07-31",
       "team": "San Antonio Spurs",
-      "rank": 23
+      "rank": 20
     },
     {
       "player": "Zeke Nnaji",
@@ -292,7 +256,19 @@
       "first_mention": "2026-07-31",
       "last_mention": "2026-08-03",
       "team": "Denver Nuggets",
-      "rank": 24
+      "rank": 21
+    },
+    {
+      "player": "Tyler Herro",
+      "score": 1.75,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 7,
+      "total_mentions": 7,
+      "first_mention": "2026-07-10",
+      "last_mention": "2026-07-20",
+      "team": "Miami Heat",
+      "rank": 22
     },
     {
       "player": "Jayson Tatum",
@@ -304,43 +280,31 @@
       "first_mention": "2026-07-08",
       "last_mention": "2026-07-29",
       "team": "Boston Celtics",
-      "rank": 25
+      "rank": 23
     },
     {
-      "player": "Luka Doncic",
+      "player": "Kyrie Irving",
       "score": 1.75,
-      "mentions_week1": 1,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 3,
-      "first_mention": "2026-07-15",
-      "last_mention": "2026-07-27",
-      "team": "Los Angeles Lakers",
-      "rank": 26
-    },
-    {
-      "player": "Spencer Jones",
-      "score": 1.75,
-      "mentions_week1": 1,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 3,
-      "first_mention": "2026-07-14",
-      "last_mention": "2026-07-27",
-      "team": "Denver Nuggets",
-      "rank": 27
-    },
-    {
-      "player": "Buddy Hield",
-      "score": 1.5,
       "mentions_week1": 0,
       "mentions_week2": 3,
-      "mentions_weeks3_4": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 4,
+      "first_mention": "2026-07-19",
+      "last_mention": "2026-07-27",
+      "team": "Dallas Mavericks",
+      "rank": 24
+    },
+    {
+      "player": "Paul George",
+      "score": 1.75,
+      "mentions_week1": 1,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 1,
       "total_mentions": 3,
-      "first_mention": "2026-07-20",
-      "last_mention": "2026-07-22",
-      "team": "Golden State Warriors",
-      "rank": 28
+      "first_mention": "2026-07-12",
+      "last_mention": "2026-07-31",
+      "team": "Philadelphia 76ers",
+      "rank": 25
     },
     {
       "player": "Deandre Ayton",
@@ -352,19 +316,7 @@
       "first_mention": "2026-07-07",
       "last_mention": "2026-07-30",
       "team": "Los Angeles Lakers",
-      "rank": 29
-    },
-    {
-      "player": "Devin Carter",
-      "score": 1.5,
-      "mentions_week1": 0,
-      "mentions_week2": 3,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 3,
-      "first_mention": "2026-07-20",
-      "last_mention": "2026-07-22",
-      "team": "Atlanta Hawks",
-      "rank": 30
+      "rank": 26
     },
     {
       "player": "Moses Moody",
@@ -376,19 +328,7 @@
       "first_mention": "2026-07-11",
       "last_mention": "2026-07-31",
       "team": "Golden State Warriors",
-      "rank": 31
-    },
-    {
-      "player": "Nikola Jovic",
-      "score": 1.5,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 3,
-      "first_mention": "2026-07-06",
-      "last_mention": "2026-08-01",
-      "team": "Dallas Mavericks",
-      "rank": 32
+      "rank": 27
     },
     {
       "player": "Davion Mitchell",
@@ -400,19 +340,7 @@
       "first_mention": "2026-07-23",
       "last_mention": "2026-08-01",
       "team": "Dallas Mavericks",
-      "rank": 33
-    },
-    {
-      "player": "DeMar DeRozan",
-      "score": 1.5,
-      "mentions_week1": 1,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 2,
-      "first_mention": "2026-07-24",
-      "last_mention": "2026-07-27",
-      "team": "Sacramento Kings",
-      "rank": 34
+      "rank": 28
     },
     {
       "player": "Jordan Hawkins",
@@ -424,7 +352,7 @@
       "first_mention": "2026-07-23",
       "last_mention": "2026-07-31",
       "team": "Memphis Grizzlies",
-      "rank": 35
+      "rank": 29
     },
     {
       "player": "Caris LeVert",
@@ -436,7 +364,7 @@
       "first_mention": "2026-07-07",
       "last_mention": "2026-07-08",
       "team": "Dallas Mavericks",
-      "rank": 36
+      "rank": 30
     },
     {
       "player": "Gary Harris",
@@ -448,7 +376,7 @@
       "first_mention": "2026-07-07",
       "last_mention": "2026-07-08",
       "team": "Detroit Pistons",
-      "rank": 37
+      "rank": 31
     },
     {
       "player": "Taurean Prince",
@@ -460,7 +388,7 @@
       "first_mention": "2026-07-07",
       "last_mention": "2026-07-08",
       "team": "Detroit Pistons",
-      "rank": 38
+      "rank": 32
     },
     {
       "player": "D'Angelo Russell",
@@ -472,7 +400,7 @@
       "first_mention": "2026-07-07",
       "last_mention": "2026-07-22",
       "team": "Dallas Mavericks",
-      "rank": 39
+      "rank": 33
     },
     {
       "player": "Bronny James",
@@ -484,7 +412,31 @@
       "first_mention": "2026-07-10",
       "last_mention": "2026-07-24",
       "team": "Los Angeles Lakers",
-      "rank": 40
+      "rank": 34
+    },
+    {
+      "player": "Buddy Hield",
+      "score": 1.25,
+      "mentions_week1": 0,
+      "mentions_week2": 2,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 3,
+      "first_mention": "2026-07-20",
+      "last_mention": "2026-07-22",
+      "team": "Golden State Warriors",
+      "rank": 35
+    },
+    {
+      "player": "Devin Carter",
+      "score": 1.25,
+      "mentions_week1": 0,
+      "mentions_week2": 2,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 3,
+      "first_mention": "2026-07-20",
+      "last_mention": "2026-07-22",
+      "team": "Atlanta Hawks",
+      "rank": 36
     },
     {
       "player": "Jaden Hardy",
@@ -496,7 +448,7 @@
       "first_mention": "2026-07-07",
       "last_mention": "2026-07-24",
       "team": "Los Angeles Lakers",
-      "rank": 41
+      "rank": 37
     },
     {
       "player": "Jarred Vanderbilt",
@@ -508,43 +460,43 @@
       "first_mention": "2026-07-13",
       "last_mention": "2026-07-24",
       "team": "Los Angeles Lakers",
-      "rank": 42
+      "rank": 38
     },
     {
-      "player": "Trey Murphy",
+      "player": "Luka Doncic",
       "score": 1.25,
       "mentions_week1": 0,
       "mentions_week2": 2,
       "mentions_weeks3_4": 1,
       "total_mentions": 3,
-      "first_mention": "2026-07-06",
-      "last_mention": "2026-07-22",
-      "team": "New Orleans Pelicans",
-      "rank": 43
+      "first_mention": "2026-07-15",
+      "last_mention": "2026-07-27",
+      "team": "Los Angeles Lakers",
+      "rank": 39
     },
     {
-      "player": "Rui Hachimura",
+      "player": "Spencer Jones",
+      "score": 1.25,
+      "mentions_week1": 0,
+      "mentions_week2": 2,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 3,
+      "first_mention": "2026-07-14",
+      "last_mention": "2026-07-27",
+      "team": "Denver Nuggets",
+      "rank": 40
+    },
+    {
+      "player": "Nikola Jovic",
       "score": 1.25,
       "mentions_week1": 1,
       "mentions_week2": 0,
       "mentions_weeks3_4": 1,
       "total_mentions": 2,
-      "first_mention": "2026-07-06",
-      "last_mention": "2026-07-31",
-      "team": "Los Angeles Lakers",
-      "rank": 44
-    },
-    {
-      "player": "Bam Adebayo",
-      "score": 1.0,
-      "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 3,
-      "first_mention": "2026-07-14",
-      "last_mention": "2026-07-20",
-      "team": "Miami Heat",
-      "rank": 45
+      "first_mention": "2026-07-15",
+      "last_mention": "2026-08-01",
+      "team": "Dallas Mavericks",
+      "rank": 41
     },
     {
       "player": "Daniel Gafford",
@@ -556,7 +508,7 @@
       "first_mention": "2026-07-19",
       "last_mention": "2026-07-22",
       "team": "Dallas Mavericks",
-      "rank": 46
+      "rank": 42
     },
     {
       "player": "Kasparas Jakucionis",
@@ -568,7 +520,7 @@
       "first_mention": "2026-07-10",
       "last_mention": "2026-07-24",
       "team": "Miami Heat",
-      "rank": 47
+      "rank": 43
     },
     {
       "player": "PJ Washington",
@@ -580,7 +532,7 @@
       "first_mention": "2026-07-11",
       "last_mention": "2026-07-22",
       "team": "Dallas Mavericks",
-      "rank": 48
+      "rank": 44
     },
     {
       "player": "Dalton Knecht",
@@ -592,19 +544,19 @@
       "first_mention": "2026-07-22",
       "last_mention": "2026-07-24",
       "team": "Los Angeles Lakers",
-      "rank": 49
+      "rank": 45
     },
     {
-      "player": "Jalen Duren",
+      "player": "DeMar DeRozan",
       "score": 1.0,
       "mentions_week1": 0,
       "mentions_week2": 2,
       "mentions_weeks3_4": 0,
       "total_mentions": 2,
-      "first_mention": "2026-07-20",
-      "last_mention": "2026-07-22",
-      "team": "Detroit Pistons",
-      "rank": 50
+      "first_mention": "2026-07-24",
+      "last_mention": "2026-07-27",
+      "team": "Sacramento Kings",
+      "rank": 46
     },
     {
       "player": "Miles Bridges",
@@ -616,7 +568,7 @@
       "first_mention": "2026-07-22",
       "last_mention": "2026-07-22",
       "team": "Charlotte Hornets",
-      "rank": 51
+      "rank": 47
     },
     {
       "player": "Ryan Nembhard",
@@ -628,7 +580,7 @@
       "first_mention": "2026-07-22",
       "last_mention": "2026-07-22",
       "team": "Atlanta Hawks",
-      "rank": 52
+      "rank": 48
     },
     {
       "player": "Chris Paul",
@@ -640,7 +592,7 @@
       "first_mention": "2026-07-28",
       "last_mention": "2026-07-28",
       "team": "Los Angeles Clippers",
-      "rank": 53
+      "rank": 49
     },
     {
       "player": "Damian Lillard",
@@ -652,7 +604,7 @@
       "first_mention": "2026-07-30",
       "last_mention": "2026-07-30",
       "team": "Cleveland Cavaliers",
-      "rank": 54
+      "rank": 50
     },
     {
       "player": "Dennis Schroeder",
@@ -664,7 +616,7 @@
       "first_mention": "2026-07-28",
       "last_mention": "2026-07-28",
       "team": "Golden State Warriors",
-      "rank": 55
+      "rank": 51
     },
     {
       "player": "Dillon Brooks",
@@ -676,19 +628,7 @@
       "first_mention": "2026-07-31",
       "last_mention": "2026-07-31",
       "team": "Phoenix Suns",
-      "rank": 56
-    },
-    {
-      "player": "Jabari Walker",
-      "score": 1.0,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-07-27",
-      "last_mention": "2026-07-27",
-      "team": "Philadelphia 76ers",
-      "rank": 57
+      "rank": 52
     },
     {
       "player": "Jarrett Allen",
@@ -700,7 +640,7 @@
       "first_mention": "2026-07-28",
       "last_mention": "2026-07-28",
       "team": "Cleveland Cavaliers",
-      "rank": 58
+      "rank": 53
     },
     {
       "player": "Max Strus",
@@ -712,7 +652,19 @@
       "first_mention": "2026-07-31",
       "last_mention": "2026-07-31",
       "team": "Atlanta Hawks",
-      "rank": 59
+      "rank": 54
+    },
+    {
+      "player": "Rui Hachimura",
+      "score": 1.0,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-07-31",
+      "last_mention": "2026-07-31",
+      "team": "Los Angeles Lakers",
+      "rank": 55
     },
     {
       "player": "Zach LaVine",
@@ -724,7 +676,19 @@
       "first_mention": "2026-08-03",
       "last_mention": "2026-08-03",
       "team": "Sacramento Kings",
-      "rank": 60
+      "rank": 56
+    },
+    {
+      "player": "Bam Adebayo",
+      "score": 0.75,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 3,
+      "total_mentions": 3,
+      "first_mention": "2026-07-14",
+      "last_mention": "2026-07-20",
+      "team": "Miami Heat",
+      "rank": 57
     },
     {
       "player": "Derrick White",
@@ -736,7 +700,7 @@
       "first_mention": "2026-07-11",
       "last_mention": "2026-07-12",
       "team": "Boston Celtics",
-      "rank": 61
+      "rank": 58
     },
     {
       "player": "Isaiah Stewart",
@@ -748,7 +712,7 @@
       "first_mention": "2026-07-07",
       "last_mention": "2026-07-08",
       "team": "Memphis Grizzlies",
-      "rank": 62
+      "rank": 59
     },
     {
       "player": "John Collins",
@@ -760,7 +724,7 @@
       "first_mention": "2026-07-07",
       "last_mention": "2026-07-08",
       "team": "Los Angeles Clippers",
-      "rank": 63
+      "rank": 60
     },
     {
       "player": "Marcus Sasser",
@@ -772,7 +736,7 @@
       "first_mention": "2026-07-07",
       "last_mention": "2026-07-08",
       "team": "Dallas Mavericks",
-      "rank": 64
+      "rank": 61
     },
     {
       "player": "Zaccharie Risacher",
@@ -784,31 +748,19 @@
       "first_mention": "2026-07-19",
       "last_mention": "2026-07-19",
       "team": "Atlanta Hawks",
-      "rank": 65
+      "rank": 62
     },
     {
-      "player": "Brandon Ingram",
+      "player": "Jalen Duren",
       "score": 0.75,
       "mentions_week1": 0,
       "mentions_week2": 1,
       "mentions_weeks3_4": 1,
       "total_mentions": 2,
-      "first_mention": "2026-07-12",
-      "last_mention": "2026-07-20",
-      "team": "Toronto Raptors",
-      "rank": 66
-    },
-    {
-      "player": "Gradey Dick",
-      "score": 0.75,
-      "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 2,
-      "first_mention": "2026-07-12",
-      "last_mention": "2026-07-20",
-      "team": "Toronto Raptors",
-      "rank": 67
+      "first_mention": "2026-07-20",
+      "last_mention": "2026-07-22",
+      "team": "Detroit Pistons",
+      "rank": 63
     },
     {
       "player": "LaMelo Ball",
@@ -820,7 +772,43 @@
       "first_mention": "2026-07-10",
       "last_mention": "2026-07-24",
       "team": "Charlotte Hornets",
-      "rank": 68
+      "rank": 64
+    },
+    {
+      "player": "Trey Murphy",
+      "score": 0.75,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 2,
+      "first_mention": "2026-07-20",
+      "last_mention": "2026-07-22",
+      "team": "New Orleans Pelicans",
+      "rank": 65
+    },
+    {
+      "player": "Brandon Ingram",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 2,
+      "total_mentions": 2,
+      "first_mention": "2026-07-12",
+      "last_mention": "2026-07-20",
+      "team": "Toronto Raptors",
+      "rank": 66
+    },
+    {
+      "player": "Gradey Dick",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 2,
+      "total_mentions": 2,
+      "first_mention": "2026-07-12",
+      "last_mention": "2026-07-20",
+      "team": "Toronto Raptors",
+      "rank": 67
     },
     {
       "player": "Jaime Jaquez",
@@ -832,7 +820,7 @@
       "first_mention": "2026-07-10",
       "last_mention": "2026-07-12",
       "team": "Miami Heat",
-      "rank": 69
+      "rank": 68
     },
     {
       "player": "Joel Embiid",
@@ -844,7 +832,7 @@
       "first_mention": "2026-07-09",
       "last_mention": "2026-07-10",
       "team": "Philadelphia 76ers",
-      "rank": 70
+      "rank": 69
     },
     {
       "player": "Kel'el Ware",
@@ -856,7 +844,7 @@
       "first_mention": "2026-07-12",
       "last_mention": "2026-07-12",
       "team": "Miami Heat",
-      "rank": 71
+      "rank": 70
     },
     {
       "player": "Luguentz Dort",
@@ -868,7 +856,7 @@
       "first_mention": "2026-07-19",
       "last_mention": "2026-07-19",
       "team": "Atlanta Hawks",
-      "rank": 72
+      "rank": 71
     },
     {
       "player": "Michael Porter",
@@ -880,7 +868,7 @@
       "first_mention": "2026-07-10",
       "last_mention": "2026-07-10",
       "team": "Brooklyn Nets",
-      "rank": 73
+      "rank": 72
     },
     {
       "player": "Naz Reid",
@@ -892,7 +880,7 @@
       "first_mention": "2026-07-10",
       "last_mention": "2026-07-14",
       "team": "Minnesota Timberwolves",
-      "rank": 74
+      "rank": 73
     },
     {
       "player": "Andrew Wiggins",
@@ -904,7 +892,7 @@
       "first_mention": "2026-07-23",
       "last_mention": "2026-07-23",
       "team": "Miami Heat",
-      "rank": 75
+      "rank": 74
     },
     {
       "player": "Cameron Johnson",
@@ -916,7 +904,7 @@
       "first_mention": "2026-07-22",
       "last_mention": "2026-07-22",
       "team": "Denver Nuggets",
-      "rank": 76
+      "rank": 75
     },
     {
       "player": "Isaac Okoro",
@@ -928,6 +916,18 @@
       "first_mention": "2026-07-26",
       "last_mention": "2026-07-26",
       "team": "Chicago Bulls",
+      "rank": 76
+    },
+    {
+      "player": "Jabari Walker",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-07-27",
+      "last_mention": "2026-07-27",
+      "team": "Philadelphia 76ers",
       "rank": 77
     },
     {
@@ -943,18 +943,6 @@
       "rank": 78
     },
     {
-      "player": "Mouhamed Gueye",
-      "score": 0.5,
-      "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-07-20",
-      "last_mention": "2026-07-20",
-      "team": "Atlanta Hawks",
-      "rank": 79
-    },
-    {
       "player": "Russell Westbrook",
       "score": 0.5,
       "mentions_week1": 0,
@@ -964,7 +952,7 @@
       "first_mention": "2026-07-22",
       "last_mention": "2026-07-22",
       "team": "Sacramento Kings",
-      "rank": 80
+      "rank": 79
     },
     {
       "player": "Tim Hardaway Jr",
@@ -976,7 +964,7 @@
       "first_mention": "2026-07-23",
       "last_mention": "2026-07-23",
       "team": "Cleveland Cavaliers",
-      "rank": 81
+      "rank": 80
     },
     {
       "player": "Donovan Mitchell",
@@ -988,19 +976,7 @@
       "first_mention": "2026-07-07",
       "last_mention": "2026-07-07",
       "team": "Cleveland Cavaliers",
-      "rank": 82
-    },
-    {
-      "player": "Dorian Finney-Smith",
-      "score": 0.25,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 1,
-      "first_mention": "2026-07-06",
-      "last_mention": "2026-07-06",
-      "team": "Los Angeles Lakers",
-      "rank": 83
+      "rank": 81
     },
     {
       "player": "Ja Morant",
@@ -1012,7 +988,7 @@
       "first_mention": "2026-07-11",
       "last_mention": "2026-07-11",
       "team": "Memphis Grizzlies",
-      "rank": 84
+      "rank": 82
     },
     {
       "player": "Jaren Jackson Jr",
@@ -1024,7 +1000,7 @@
       "first_mention": "2026-07-07",
       "last_mention": "2026-07-07",
       "team": "Memphis Grizzlies",
-      "rank": 85
+      "rank": 83
     },
     {
       "player": "Jordan Walsh",
@@ -1036,7 +1012,7 @@
       "first_mention": "2026-07-12",
       "last_mention": "2026-07-12",
       "team": "Boston Celtics",
-      "rank": 86
+      "rank": 84
     },
     {
       "player": "Josh Giddey",
@@ -1048,7 +1024,7 @@
       "first_mention": "2026-07-15",
       "last_mention": "2026-07-15",
       "team": "Boston Celtics",
-      "rank": 87
+      "rank": 85
     },
     {
       "player": "Josh Green",
@@ -1060,7 +1036,7 @@
       "first_mention": "2026-07-10",
       "last_mention": "2026-07-10",
       "team": "Charlotte Hornets",
-      "rank": 88
+      "rank": 86
     },
     {
       "player": "Julius Randle",
@@ -1072,7 +1048,7 @@
       "first_mention": "2026-07-10",
       "last_mention": "2026-07-10",
       "team": "Minnesota Timberwolves",
-      "rank": 89
+      "rank": 87
     },
     {
       "player": "Kelly Olynyk",
@@ -1084,7 +1060,7 @@
       "first_mention": "2026-07-07",
       "last_mention": "2026-07-07",
       "team": "Dallas Mavericks",
-      "rank": 90
+      "rank": 88
     },
     {
       "player": "Kevin Durant",
@@ -1096,7 +1072,7 @@
       "first_mention": "2026-07-09",
       "last_mention": "2026-07-09",
       "team": "Houston Rockets",
-      "rank": 91
+      "rank": 89
     },
     {
       "player": "Kyle Lowry",
@@ -1108,7 +1084,7 @@
       "first_mention": "2026-07-07",
       "last_mention": "2026-07-07",
       "team": "Toronto Raptors",
-      "rank": 92
+      "rank": 90
     },
     {
       "player": "Mike Conley",
@@ -1120,7 +1096,7 @@
       "first_mention": "2026-07-12",
       "last_mention": "2026-07-12",
       "team": "Boston Celtics",
-      "rank": 93
+      "rank": 91
     },
     {
       "player": "Mitchell Robinson",
@@ -1132,7 +1108,19 @@
       "first_mention": "2026-07-12",
       "last_mention": "2026-07-12",
       "team": "Boston Celtics",
-      "rank": 94
+      "rank": 92
+    },
+    {
+      "player": "Mouhamed Gueye",
+      "score": 0.25,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 1,
+      "first_mention": "2026-07-20",
+      "last_mention": "2026-07-20",
+      "team": "Atlanta Hawks",
+      "rank": 93
     },
     {
       "player": "Neemias Queta",
@@ -1144,7 +1132,7 @@
       "first_mention": "2026-07-11",
       "last_mention": "2026-07-11",
       "team": "Boston Celtics",
-      "rank": 95
+      "rank": 94
     },
     {
       "player": "Ousmane Dieng",
@@ -1156,7 +1144,7 @@
       "first_mention": "2026-07-10",
       "last_mention": "2026-07-10",
       "team": "Milwaukee Bucks",
-      "rank": 96
+      "rank": 95
     },
     {
       "player": "Santiago Aldama",
@@ -1168,7 +1156,7 @@
       "first_mention": "2026-07-08",
       "last_mention": "2026-07-08",
       "team": "Dallas Mavericks",
-      "rank": 97
+      "rank": 96
     },
     {
       "player": "Tari Eason",
@@ -1180,7 +1168,7 @@
       "first_mention": "2026-07-09",
       "last_mention": "2026-07-09",
       "team": "Houston Rockets",
-      "rank": 98
+      "rank": 97
     },
     {
       "player": "Thanasis Antetokounmpo",
@@ -1192,7 +1180,7 @@
       "first_mention": "2026-07-17",
       "last_mention": "2026-07-17",
       "team": "Miami Heat",
-      "rank": 99
+      "rank": 98
     },
     {
       "player": "Walker Kessler",
@@ -1204,7 +1192,7 @@
       "first_mention": "2026-07-10",
       "last_mention": "2026-07-10",
       "team": "Utah Jazz",
-      "rank": 100
+      "rank": 99
     }
   ],
   "player_rumors": {
@@ -1306,13 +1294,6 @@
         "text_html": "Another Western Conference executive said teams around the league are now waiting to see the Clippers\u2019 next move. <a href=\"https://www.tsn.ca/nba/article/nba-free-agency-intel-where-is-lebron-going-whats-next-for-lakers-n1-49287883/\" target=\"_blank\" style=\"color: #1a73e8;\">The Clippers have interest in Denver\u2019s Peyton Watson,</a> who is a restricted free agent. The Nuggets can match any offer sheet and want to keep Watson but could always opt for a sign-and-trade. The Clippers also want to keep their own restricted free agent Bennedict Mathurin, whom they acquired in the Zubac trade. -- Ohm Youngmisuk",
         "outlet": "TSN",
         "source_url": "https://www.tsn.ca/nba/article/nba-free-agency-intel-where-is-lebron-going-whats-next-for-lakers-n1-49287883/"
-      },
-      {
-        "date": "2026-07-06",
-        "text": "Jake Fischer: The Clippers are signing Rui Hachimura by way of their mid-level exception, per source. The two-year, $28 million deal has a team option in the second season,and I\u2019m being told does not rule out Los Angeles from a sign-and-trade pursuit of Nuggets restricted free agent Peyton Watson.x.com",
-        "text_html": "Jake Fischer: The Clippers are signing Rui Hachimura by way of their mid-level exception, per source. The two-year, $28 million deal has a team option in the second season, <a href=\"https://x.com/JakeLFischer/status/2074156567688261998?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">and I\u2019m being told does not rule out Los Angeles from a sign-and-trade pursuit of Nuggets restricted free agent Peyton Watson</a>.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/JakeLFischer/status/2074156567688261998?s=20"
       }
     ],
     "Zeke Nnaji": [
@@ -1549,13 +1530,6 @@
         "text_html": "Marc Stein on Klay Thompson to Miami rumors: <a href=\"https://www.youtube.com/live/-Wv_N9184nU?is=F-lt9SuyJEreEpsR\" target=\"_blank\" style=\"color: #1a73e8;\">The Mavericks at this point have operated as they are trying to find a trade for Klay Thompson. All scenarios about Miami\u2019s interest\u2026 those are buyout scenarios.</a> As we stand mid July, I don\u2019t think the Mavs are giving consideration to a buyout. If no trade materializes and it\u2019s August/September, and no trade has materialized, does the possibility change? Will Klay\u2019s representatives push for a buyout? I\u2019m sure that\u2019s on the menu of possibilities. I know everybody loves to say Jovic and draft compensation from Miami. Do the Mavs want Jovic\u2019s contract? Is the draft compensation from Miami attractive enough to do that? I have no sense that\u2019s something legitimately percolating",
         "outlet": "YouTube",
         "source_url": "https://www.youtube.com/live/-Wv_N9184nU?is=F-lt9SuyJEreEpsR"
-      },
-      {
-        "date": "2026-07-06",
-        "text": "Marc Stein: As of yesterday, it was still a two-team trade with Bucks and Heat. (It's an unpredictable business, so always a chance something could crop up before finalized). But today's confirmation of signings isn't expected to include surprises. As @Anthony_Chiang and I said last Tuesday,Heat had no intention of adding draft assets to entice a team to take Nikola Jovic. (Miami has no more tradable firsts, anyway). Miami now waits on LeBron and also hopes to add another wing with size and length and shooting ability at some point this summer, per source.x.com",
-        "text_html": "Marc Stein: As of yesterday, it was still a two-team trade with Bucks and Heat. (It's an unpredictable business, so always a chance something could crop up before finalized). But today's confirmation of signings isn't expected to include surprises. As @Anthony_Chiang and I said last Tuesday, <a href=\"https://x.com/flasportsbuzz/status/2074160126026780996?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">Heat had no intention of adding draft assets to entice a team to take Nikola Jovic. (Miami has no more tradable firsts, anyway). Miami now waits on LeBron and also hopes to add another wing with size and length and shooting ability at some point this summer, per source</a>.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/flasportsbuzz/status/2074160126026780996?s=20"
       }
     ],
     "Kawhi Leonard": [
@@ -2115,13 +2089,6 @@
         "text_html": "Anthony Slater: <a href=\"https://www.youtube.com/watch?v=3fqW5xI4cLo&t=43s\" target=\"_blank\" style=\"color: #1a73e8;\">\"Rui Hachimura is a guy that (Warriors) looked at.</a> They wouldn't have gone to the full mid-level type number that they were willing to get to for LeBron James because again that would have cost Moses Moody on a trade and then a Draymond Green pay cut that clearly Draymond was executing only for LeBron James.\"",
         "outlet": "YouTube",
         "source_url": "https://www.youtube.com/watch?v=3fqW5xI4cLo&t=43s"
-      },
-      {
-        "date": "2026-07-06",
-        "text": "Jake Fischer: The Clippers are signing Rui Hachimura by way of their mid-level exception, per source. The two-year, $28 million deal has a team option in the second season,and I\u2019m being told does not rule out Los Angeles from a sign-and-trade pursuit of Nuggets restricted free agent Peyton Watson.x.com",
-        "text_html": "Jake Fischer: The Clippers are signing Rui Hachimura by way of their mid-level exception, per source. The two-year, $28 million deal has a team option in the second season, <a href=\"https://x.com/JakeLFischer/status/2074156567688261998?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">and I\u2019m being told does not rule out Los Angeles from a sign-and-trade pursuit of Nuggets restricted free agent Peyton Watson</a>.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/JakeLFischer/status/2074156567688261998?s=20"
       }
     ],
     "Moses Moody": [
@@ -2168,20 +2135,6 @@
         "text_html": "As Derrick White and Jordan Walsh went through a workout on one of the Cox Pavilion courts Saturday morning, head coach Joe Mazzulla detailed the respect he has for Brown, what Boston will miss most about him and the need to create a new path forward without him. After 10 highly successful seasons with Brown, Boston will take on a different look with Paul George, Mitchell Robinson and Mike Conley now on the roster. <a href=\"https://www.nytimes.com/athletic/7439198/2026/07/12/celtics-joe-mazzulla-jaylen-brown-trade/\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cThere needs to be a grieving process for losing not just a player in Jaylen, but a person in Jaylen,\u201d Mazzulla said in an interview with The Athletic.</a> \u201cThere needs to be a grieving process that this guy, what he has done on the court and what he\u2019s done in the community and what he\u2019s done for the city of Boston, there should be a grieving process. But the \u2026 gray area is throughout that loss, you\u2019re also gaining.\u201d",
         "outlet": "New York Times",
         "source_url": "https://www.nytimes.com/athletic/7439198/2026/07/12/celtics-joe-mazzulla-jaylen-brown-trade/"
-      },
-      {
-        "date": "2026-07-06",
-        "text": "\u201cWe wanted to stay good,\u201d Stevens said. \u201cAnd we wanted to add more optionality.\u201dIronically, that formula involved acquiring George, whose contract is similar to Brown\u2019s but has one fewer year. Stevens said the first-round picks in the deal, including a 2028 pick with several complicated stipulations, were \u201cpotential premium assets.\u201d\u201cI think the biggest thing is, it\u2019s (George), plus the picks, plus the optionality moving forward,\u201d Stevens said. \u201cPaul\u2019s contract is shorter.\u201dNew York Times",
-        "text_html": "\u201cWe wanted to stay good,\u201d Stevens said. \u201cAnd we wanted to add more optionality.\u201d <a href=\"https://www.nytimes.com/athletic/7426512/2026/07/06/brad-stevens-celtics-jaylen-brown-trade/?unlocked_article_code=1.v1A.H3uw.SkCr2mcJTd9v&source=emp_shared_article&smid=ta-ios-share\" target=\"_blank\" style=\"color: #1a73e8;\">Ironically, that formula involved acquiring George, whose contract is similar to Brown\u2019s but has one fewer year. Stevens said the first-round picks in the deal, including a 2028 pick with several complicated stipulations, were \u201cpotential premium assets.\u201d</a> \u201cI think the biggest thing is, it\u2019s (George), plus the picks, plus the optionality moving forward,\u201d Stevens said. \u201cPaul\u2019s contract is shorter.\u201d",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/7426512/2026/07/06/brad-stevens-celtics-jaylen-brown-trade/?unlocked_article_code=1.v1A.H3uw.SkCr2mcJTd9v&source=emp_shared_article&smid=ta-ios-share"
-      },
-      {
-        "date": "2026-07-06",
-        "text": "Bobby Marks:Paul George waived his $3.9M trade bonus,sources tell ESPN. His cap hit in Boston remains at $54.1M and $56.6M (P)x.com",
-        "text_html": "Bobby Marks: <a href=\"https://x.com/BobbyMarks42/status/2074223755321053584\" target=\"_blank\" style=\"color: #1a73e8;\">Paul George waived his $3.9M trade bonus,</a> sources tell ESPN. His cap hit in Boston remains at $54.1M and $56.6M (P)",
-        "outlet": "x.com",
-        "source_url": "https://x.com/BobbyMarks42/status/2074223755321053584"
       }
     ],
     "Stephen Curry": [
@@ -2458,76 +2411,6 @@
         "text_html": "Bobby Marks: Mentioned this with @ZachLowe_NBA Change to the 35% max rule * <a href=\"https://x.com/BobbyMarks42/status/2074531202661327172?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">Player is eligible to still receive 35% of the salary cap if 10 years of service (Donovan Mitchell) or has reached the All-NBA criteria (Tatum SGA, Brown)</a> * However, if the player was drafted or traded within the first 4 years in the NBA (SGA for example), only 30% of the salary applies to the cap. * In the case of Jaylen Brown, $48.9M this season and not $57M applies The rule is a bigger version of what applies already with the veteran minimum exception. A player with 10 years of service + signs a contract for $3.9M. However, for cap purposes only $2.45M applies (2 years of service)",
         "outlet": "x.com",
         "source_url": "https://x.com/BobbyMarks42/status/2074531202661327172?s=20"
-      },
-      {
-        "date": "2026-07-06",
-        "text": "\u201cWe wanted to stay good,\u201d Stevens said. \u201cAnd we wanted to add more optionality.\u201dIronically, that formula involved acquiring George, whose contract is similar to Brown\u2019s but has one fewer year. Stevens said the first-round picks in the deal, including a 2028 pick with several complicated stipulations, were \u201cpotential premium assets.\u201d\u201cI think the biggest thing is, it\u2019s (George), plus the picks, plus the optionality moving forward,\u201d Stevens said. \u201cPaul\u2019s contract is shorter.\u201dNew York Times",
-        "text_html": "\u201cWe wanted to stay good,\u201d Stevens said. \u201cAnd we wanted to add more optionality.\u201d <a href=\"https://www.nytimes.com/athletic/7426512/2026/07/06/brad-stevens-celtics-jaylen-brown-trade/?unlocked_article_code=1.v1A.H3uw.SkCr2mcJTd9v&source=emp_shared_article&smid=ta-ios-share\" target=\"_blank\" style=\"color: #1a73e8;\">Ironically, that formula involved acquiring George, whose contract is similar to Brown\u2019s but has one fewer year. Stevens said the first-round picks in the deal, including a 2028 pick with several complicated stipulations, were \u201cpotential premium assets.\u201d</a> \u201cI think the biggest thing is, it\u2019s (George), plus the picks, plus the optionality moving forward,\u201d Stevens said. \u201cPaul\u2019s contract is shorter.\u201d",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/7426512/2026/07/06/brad-stevens-celtics-jaylen-brown-trade/?unlocked_article_code=1.v1A.H3uw.SkCr2mcJTd9v&source=emp_shared_article&smid=ta-ios-share"
-      },
-      {
-        "date": "2026-07-06",
-        "text": "Bobby Krivitsky: I asked Brad Stevens about Jaylen Brown saying he felt disrespected by this trade process and that he wishes more had been explained to him. Specifically, does Stevens wish he had handled this differently or communicated more to Brown and his camp?Stevens reiterated that he tried to be as communicative as possible, and he hopes that his relationship with Brown is either intact or can be mended.x.com",
-        "text_html": "Bobby Krivitsky: I asked Brad Stevens about Jaylen Brown saying he felt disrespected by this trade process and that he wishes more had been explained to him. Specifically, does Stevens wish he had handled this differently or communicated more to Brown and his camp? <a href=\"https://x.com/BobbyKrivitsky/status/2074233122531766476\" target=\"_blank\" style=\"color: #1a73e8;\">Stevens reiterated that he tried to be as communicative as possible, and he hopes that his relationship with Brown is either intact or can be mended</a>.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/BobbyKrivitsky/status/2074233122531766476"
-      },
-      {
-        "date": "2026-07-06",
-        "text": "Daniel Donabedian: Brad Stevens on if the Jaylen Brown trade has hurt the Celtics reputation: \u201cI can\u2019t control what other people might think.\u201d\u201cI hope that Jaylen always felt like we treated him great when he was here.\u201dQ from @GwashburnGlobex.com",
-        "text_html": "Daniel Donabedian: Brad Stevens on if the Jaylen Brown trade has hurt the Celtics reputation: \u201cI can\u2019t control what other people might think.\u201d <a href=\"https://x.com/danield1214/status/2074234735702728845\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cI hope that Jaylen always felt like we treated him great when he was here.\u201d</a> Q from @GwashburnGlobe",
-        "outlet": "x.com",
-        "source_url": "https://x.com/danield1214/status/2074234735702728845"
-      },
-      {
-        "date": "2026-07-06",
-        "text": "Bobby Krivitsky: Brad Stevens on the role analytics played in the Celtics trading Jaylen Brown: \"You take in every angle and every ounce of information that you have and you put it all together. For me and Mike and hisstaff...I would say that was a small piece of information.\"x.com",
-        "text_html": "Bobby Krivitsky: Brad Stevens on the role analytics played in the Celtics trading Jaylen Brown: \"You take in every angle and every ounce of information that you have and you put it all together. For me and Mike and his <a href=\"https://x.com/BobbyKrivitsky/status/2074229023362662788\" target=\"_blank\" style=\"color: #1a73e8;\">staff...I would say that was a small piece of information.\"</a>",
-        "outlet": "x.com",
-        "source_url": "https://x.com/BobbyKrivitsky/status/2074229023362662788"
-      },
-      {
-        "date": "2026-07-06",
-        "text": "Bobby Krivitsky: Brad Stevens on why the Celtics made this Jaylen Brown trade at the time that they accepted the 76ers' proposal:\"This was not a secret. People had plenty of information or at least had a reason to make offers...We tried our very best to...assess the value of what we thought a pick was worth, or at least best predict it. \"But it is an interesting time,\" he added noting, the CBA's impact on building a roster.x.com",
-        "text_html": "Bobby Krivitsky: Brad Stevens on why the Celtics made this Jaylen Brown trade at the time that they accepted the 76ers' proposal: <a href=\"https://x.com/BobbyKrivitsky/status/2074225648977994100\" target=\"_blank\" style=\"color: #1a73e8;\">\"This was not a secret. People had plenty of information or at least had a reason to make offers...We tried our very best to...assess the value of what we thought a pick was worth, or at least best predict it</a>. \"But it is an interesting time,\" he added noting, the CBA's impact on building a roster.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/BobbyKrivitsky/status/2074225648977994100"
-      },
-      {
-        "date": "2026-07-06",
-        "text": "Ohm Youngmisuk: Celtics owner Bill Chisholm on Jaylen Brown trade: \"[This is] not about the money at all. This was trying to put together the right players and assets to win...I know people feel like there must be a smoking gun somewhere around the money.That is just not what this is about.\"x.com",
-        "text_html": "Ohm Youngmisuk: Celtics owner Bill Chisholm on Jaylen Brown trade: \"[This is] not about the money at all. This was trying to put together the right players and assets to win... <a href=\"https://x.com/NotoriousOHM/status/2074232172278583753\" target=\"_blank\" style=\"color: #1a73e8;\">I know people feel like there must be a smoking gun somewhere around the money.</a> That is just not what this is about.\"",
-        "outlet": "x.com",
-        "source_url": "https://x.com/NotoriousOHM/status/2074232172278583753"
-      },
-      {
-        "date": "2026-07-06",
-        "text": "Nobody was flabbergasted that the\u00a0Boston Celtics\u00a0made\u00a0the decision\u00a0to trade\u00a0Jaylen Brown, the Finals MVP in that series over Doncic's Mavericks only two years ago, considering that he had been\u00a0blatantly shopped\u00a0for weeks. But to a bitter rival for\u00a0that\u00a0return? Eyebrows raised and jaws dropped across the league.\"I mean, the guy got traded for less than\u00a0Kessler,\" one general manager\u00a0told\u00a0ESPN, referring to the promising young big man who has yet to earn an All-Star bid. \"That's baffling to me.\"ESPN",
-        "text_html": "Nobody was flabbergasted that the Boston Celtics made the decision to trade Jaylen Brown, the Finals MVP in that series over Doncic's Mavericks only two years ago, considering that he had been blatantly shopped for weeks. But to a bitter rival for that return? Eyebrows raised and jaws dropped across the league. <a href=\"https://www.espn.com/nba/story/_/id/49269428/nba-execs-react-boston-celtics-jaylen-brown-trade-philadelphia-76ers\" target=\"_blank\" style=\"color: #1a73e8;\">\"I mean, the guy got traded for less than Kessler,\" one general manager told ESPN, referring to the promising young big man who has yet to earn an All-Star bid. \"That's baffling to me.\"</a>",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/49269428/nba-execs-react-boston-celtics-jaylen-brown-trade-philadelphia-76ers"
-      },
-      {
-        "date": "2026-07-06",
-        "text": "Those are all facts that have fueled the popular perception -- from media, fans and other players -- that Brown ranks among the league's elite. The advanced analytics tell a different tale.\"The stats guys in every room don't see him close to that -- probably the widest gap in the league,\" the second general manager said. \"They're certainly telling you they don't think he's the sixth-best player in the league.Then the\u00a0contract\u00a0is really f---ing big, and the expectation to [extend] that is really big.\"ESPN",
-        "text_html": "Those are all facts that have fueled the popular perception -- from media, fans and other players -- that Brown ranks among the league's elite. The advanced analytics tell a different tale. <a href=\"https://www.espn.com/nba/story/_/id/49269428/nba-execs-react-boston-celtics-jaylen-brown-trade-philadelphia-76ers\" target=\"_blank\" style=\"color: #1a73e8;\">\"The stats guys in every room don't see him close to that -- probably the widest gap in the league,\" the second general manager said. \"They're certainly telling you they don't think he's the sixth-best player in the league.</a> Then the contract is really f---ing big, and the expectation to [extend] that is really big.\"",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/49269428/nba-execs-react-boston-celtics-jaylen-brown-trade-philadelphia-76ers"
-      },
-      {
-        "date": "2026-07-06",
-        "text": "The common perception is that Brown's unapologetically strong personality, outspokenness and reluctance to adapt his style of play factored into the Celtics' front office's decision that he needed to be traded now. That prompted worries about how Brown would fit with other teams with established stars.\"If Jaylen isn't happy winning Finals MVP, All-NBA, winning with the Boston Celtics, how's it going to be with us?\" a president of basketball operations said. \"If he's not happy there, what is he looking for? It scares teams.\"ESPN",
-        "text_html": "The common perception is that Brown's unapologetically strong personality, outspokenness and reluctance to adapt his style of play factored into the Celtics' front office's decision that he needed to be traded now. That prompted worries about how Brown would fit with other teams with established stars. <a href=\"https://www.espn.com/nba/story/_/id/49269428/nba-execs-react-boston-celtics-jaylen-brown-trade-philadelphia-76ers\" target=\"_blank\" style=\"color: #1a73e8;\">\"If Jaylen isn't happy winning Finals MVP, All-NBA, winning with the Boston Celtics, how's it going to be with us?\" a president of basketball operations said. \"If he's not happy there, what is he looking for? It scares teams.\"</a>",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/49269428/nba-execs-react-boston-celtics-jaylen-brown-trade-philadelphia-76ers"
-      },
-      {
-        "date": "2026-07-06",
-        "text": "The Celtics didn't have contingency plans in place after missing out on Antetokounmpo. They canvassed the league at that point for potential trade partners and continued to be extremely aggressive in their proposals, such as asking for four unprotected first-round picks. That's a decision that\u00a0multiple\u00a0executives\u00a0said backfired on Boston.\"The asking price for Brown was so high that teams got scared away and moved on to other business,\" said an\u00a0executive\u00a0from a team that engaged in brief\u00a0discussions\u00a0with the Celtics. \"There was no need to circle back.\"ESPN",
-        "text_html": "The Celtics didn't have contingency plans in place after missing out on Antetokounmpo. They canvassed the league at that point for potential trade partners and continued to be extremely aggressive in their proposals, such as asking for four unprotected first-round picks. That's a decision that multiple executives said backfired on Boston. <a href=\"https://www.espn.com/nba/story/_/id/49269428/nba-execs-react-boston-celtics-jaylen-brown-trade-philadelphia-76ers\" target=\"_blank\" style=\"color: #1a73e8;\">\"The asking price for Brown was so high that teams got scared away and moved on to other business,\" said an executive from a team that engaged in brief discussions with the Celtics. \"There was no need to circle back.\"</a>",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/49269428/nba-execs-react-boston-celtics-jaylen-brown-trade-philadelphia-76ers"
       }
     ],
     "Bradley Beal": [
@@ -3151,13 +3034,6 @@
         "text_html": "Perhaps a late-summer deal emerges. The Pels still have their exception money, an open roster spot and $8 million breathing room below the tax line. <a href=\"https://www.nytimes.com/athletic/7453720/2026/07/20/nba-summer-league-vegas-takeaways-raptors-clippers/\" target=\"_blank\" style=\"color: #1a73e8;\">Chatter about a Trey Murphy trade, while lessened, hasn\u2019t vanished and is one of many potential pieces of league business that could resurface once LeBron James\u2019 next destination becomes clear</a>.",
         "outlet": "New York Times",
         "source_url": "https://www.nytimes.com/athletic/7453720/2026/07/20/nba-summer-league-vegas-takeaways-raptors-clippers/"
-      },
-      {
-        "date": "2026-07-06",
-        "text": "Shamit Dua: On the Trey Murphy front,I'm told that while the Pelicans are fielding a steady stream of inbound calls, they have made it clear they'll only listen if they are blown away.Pelicans are content to keep Murphy and are not actively shopping himx.com",
-        "text_html": "Shamit Dua: On the Trey Murphy front, <a href=\"https://x.com/FearTheBrown/status/2074144697879011759?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">I'm told that while the Pelicans are fielding a steady stream of inbound calls, they have made it clear they'll only listen if they are blown away.</a> Pelicans are content to keep Murphy and are not actively shopping him",
-        "outlet": "x.com",
-        "source_url": "https://x.com/FearTheBrown/status/2074144697879011759?s=20"
       }
     ],
     "Miles Bridges": [
@@ -3981,15 +3857,6 @@
         "outlet": "x.com",
         "source_url": "https://x.com/JustEsBaraheni/status/2074495073111224824"
       }
-    ],
-    "Dorian Finney-Smith": [
-      {
-        "date": "2026-07-06",
-        "text": "Rod Boone:Dorian Finney-Smith trade is official.#Hornets sent cash considerations to Houston. Unlikely he'll suit up for the #Hornets, per league sources.x.com",
-        "text_html": "Rod Boone: <a href=\"https://x.com/rodboone/status/2074267969811542330\" target=\"_blank\" style=\"color: #1a73e8;\">Dorian Finney-Smith trade is official.</a> #Hornets sent cash considerations to Houston. Unlikely he'll suit up for the #Hornets, per league sources.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/rodboone/status/2074267969811542330"
-      }
     ]
   },
   "daily_counts": {
@@ -4002,8 +3869,7 @@
       "2026-07-16": 1,
       "2026-07-14": 1,
       "2026-07-10": 2,
-      "2026-07-08": 1,
-      "2026-07-06": 1
+      "2026-07-08": 1
     },
     "Zeke Nnaji": {
       "2026-08-03": 1,
@@ -4040,8 +3906,7 @@
     },
     "Nikola Jovic": {
       "2026-08-01": 1,
-      "2026-07-15": 1,
-      "2026-07-06": 1
+      "2026-07-15": 1
     },
     "Kawhi Leonard": {
       "2026-07-31": 2,
@@ -4108,8 +3973,7 @@
       "2026-07-08": 1
     },
     "Rui Hachimura": {
-      "2026-07-31": 1,
-      "2026-07-06": 1
+      "2026-07-31": 1
     },
     "Moses Moody": {
       "2026-07-31": 1,
@@ -4118,8 +3982,7 @@
     "Paul George": {
       "2026-07-31": 1,
       "2026-07-26": 1,
-      "2026-07-12": 1,
-      "2026-07-06": 2
+      "2026-07-12": 1
     },
     "Stephen Curry": {
       "2026-07-31": 1,
@@ -4155,8 +4018,7 @@
       "2026-07-10": 1,
       "2026-07-09": 1,
       "2026-07-08": 3,
-      "2026-07-07": 2,
-      "2026-07-06": 10
+      "2026-07-07": 2
     },
     "Bradley Beal": {
       "2026-07-30": 1,
@@ -4278,8 +4140,7 @@
     },
     "Trey Murphy": {
       "2026-07-22": 1,
-      "2026-07-20": 1,
-      "2026-07-06": 1
+      "2026-07-20": 1
     },
     "Miles Bridges": {
       "2026-07-22": 2
@@ -4446,9 +4307,6 @@
     },
     "Kyle Lowry": {
       "2026-07-07": 1
-    },
-    "Dorian Finney-Smith": {
-      "2026-07-06": 1
     }
   }
 }
