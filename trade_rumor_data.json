@@ -1,46 +1,22 @@
 {
-  "generated_at": "2026-08-06T15:02:51.797446",
+  "generated_at": "2026-08-07T00:39:48.264900",
   "scrape_window_days": 28,
-  "window_start": "2026-07-09",
-  "window_end": "2026-08-06",
-  "total_rumors": 320,
-  "total_players": 93,
+  "window_start": "2026-07-10",
+  "window_end": "2026-08-07",
+  "total_rumors": 315,
+  "total_players": 96,
   "rankings": [
     {
       "player": "Peyton Watson",
-      "score": 10.75,
-      "mentions_week1": 8,
+      "score": 11.75,
+      "mentions_week1": 9,
       "mentions_week2": 3,
       "mentions_weeks3_4": 5,
-      "total_mentions": 16,
+      "total_mentions": 17,
       "first_mention": "2026-07-10",
       "last_mention": "2026-08-06",
-      "team": "Denver Nuggets",
+      "team": "Cleveland Cavaliers",
       "rank": 1
-    },
-    {
-      "player": "LeBron James",
-      "score": 10.25,
-      "mentions_week1": 3,
-      "mentions_week2": 12,
-      "mentions_weeks3_4": 5,
-      "total_mentions": 20,
-      "first_mention": "2026-07-10",
-      "last_mention": "2026-07-31",
-      "team": "Los Angeles Lakers",
-      "rank": 2
-    },
-    {
-      "player": "Klay Thompson",
-      "score": 10.0,
-      "mentions_week1": 5,
-      "mentions_week2": 6,
-      "mentions_weeks3_4": 8,
-      "total_mentions": 19,
-      "first_mention": "2026-07-09",
-      "last_mention": "2026-08-05",
-      "team": "Dallas Mavericks",
-      "rank": 3
     },
     {
       "player": "Jonathan Kuminga",
@@ -52,28 +28,52 @@
       "first_mention": "2026-07-13",
       "last_mention": "2026-08-06",
       "team": "Golden State Warriors",
+      "rank": 2
+    },
+    {
+      "player": "Klay Thompson",
+      "score": 9.75,
+      "mentions_week1": 5,
+      "mentions_week2": 6,
+      "mentions_weeks3_4": 7,
+      "total_mentions": 18,
+      "first_mention": "2026-07-10",
+      "last_mention": "2026-08-05",
+      "team": "Dallas Mavericks",
+      "rank": 3
+    },
+    {
+      "player": "LeBron James",
+      "score": 8.75,
+      "mentions_week1": 2,
+      "mentions_week2": 9,
+      "mentions_weeks3_4": 9,
+      "total_mentions": 20,
+      "first_mention": "2026-07-10",
+      "last_mention": "2026-07-31",
+      "team": "Los Angeles Lakers",
       "rank": 4
     },
     {
       "player": "Kawhi Leonard",
-      "score": 9.0,
-      "mentions_week1": 4,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 20,
-      "total_mentions": 24,
-      "first_mention": "2026-07-09",
+      "score": 6.5,
+      "mentions_week1": 2,
+      "mentions_week2": 2,
+      "mentions_weeks3_4": 14,
+      "total_mentions": 18,
+      "first_mention": "2026-07-10",
       "last_mention": "2026-07-31",
       "team": "Los Angeles Clippers",
       "rank": 5
     },
     {
       "player": "Jaylen Brown",
-      "score": 6.25,
+      "score": 6.5,
       "mentions_week1": 2,
-      "mentions_week2": 2,
-      "mentions_weeks3_4": 13,
+      "mentions_week2": 3,
+      "mentions_weeks3_4": 12,
       "total_mentions": 17,
-      "first_mention": "2026-07-09",
+      "first_mention": "2026-07-10",
       "last_mention": "2026-08-06",
       "team": "Boston Celtics",
       "rank": 6
@@ -91,30 +91,6 @@
       "rank": 7
     },
     {
-      "player": "Anthony Davis",
-      "score": 4.5,
-      "mentions_week1": 0,
-      "mentions_week2": 7,
-      "mentions_weeks3_4": 4,
-      "total_mentions": 11,
-      "first_mention": "2026-07-15",
-      "last_mention": "2026-07-29",
-      "team": "Dallas Mavericks",
-      "rank": 8
-    },
-    {
-      "player": "Giannis Antetokounmpo",
-      "score": 4.0,
-      "mentions_week1": 1,
-      "mentions_week2": 4,
-      "mentions_weeks3_4": 4,
-      "total_mentions": 9,
-      "first_mention": "2026-07-12",
-      "last_mention": "2026-07-30",
-      "team": "Milwaukee Bucks",
-      "rank": 9
-    },
-    {
       "player": "Paul George",
       "score": 3.75,
       "mentions_week1": 3,
@@ -124,7 +100,7 @@
       "first_mention": "2026-07-12",
       "last_mention": "2026-08-04",
       "team": "Philadelphia 76ers",
-      "rank": 10
+      "rank": 8
     },
     {
       "player": "Johni Broome",
@@ -136,19 +112,31 @@
       "first_mention": "2026-07-26",
       "last_mention": "2026-07-28",
       "team": "Golden State Warriors",
-      "rank": 11
+      "rank": 9
     },
     {
-      "player": "Bobby Portis",
+      "player": "Anthony Davis",
+      "score": 3.25,
+      "mentions_week1": 0,
+      "mentions_week2": 2,
+      "mentions_weeks3_4": 9,
+      "total_mentions": 11,
+      "first_mention": "2026-07-15",
+      "last_mention": "2026-07-29",
+      "team": "Dallas Mavericks",
+      "rank": 10
+    },
+    {
+      "player": "Giannis Antetokounmpo",
       "score": 3.0,
-      "mentions_week1": 1,
+      "mentions_week1": 0,
       "mentions_week2": 3,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 6,
-      "first_mention": "2026-07-10",
-      "last_mention": "2026-08-01",
+      "mentions_weeks3_4": 6,
+      "total_mentions": 9,
+      "first_mention": "2026-07-12",
+      "last_mention": "2026-07-30",
       "team": "Milwaukee Bucks",
-      "rank": 12
+      "rank": 11
     },
     {
       "player": "Luka Doncic",
@@ -160,6 +148,18 @@
       "first_mention": "2026-07-15",
       "last_mention": "2026-08-06",
       "team": "Los Angeles Lakers",
+      "rank": 12
+    },
+    {
+      "player": "Bobby Portis",
+      "score": 2.75,
+      "mentions_week1": 1,
+      "mentions_week2": 2,
+      "mentions_weeks3_4": 3,
+      "total_mentions": 6,
+      "first_mention": "2026-07-10",
+      "last_mention": "2026-08-01",
+      "team": "Milwaukee Bucks",
       "rank": 13
     },
     {
@@ -211,18 +211,6 @@
       "rank": 17
     },
     {
-      "player": "Draymond Green",
-      "score": 2.5,
-      "mentions_week1": 2,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 3,
-      "first_mention": "2026-07-28",
-      "last_mention": "2026-07-31",
-      "team": "Golden State Warriors",
-      "rank": 18
-    },
-    {
       "player": "Nikola Jovic",
       "score": 2.25,
       "mentions_week1": 2,
@@ -232,31 +220,19 @@
       "first_mention": "2026-07-15",
       "last_mention": "2026-08-05",
       "team": "Dallas Mavericks",
-      "rank": 19
+      "rank": 18
     },
     {
-      "player": "Bennedict Mathurin",
-      "score": 2.0,
-      "mentions_week1": 1,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 4,
-      "first_mention": "2026-07-10",
-      "last_mention": "2026-07-31",
-      "team": "Indiana Pacers",
-      "rank": 20
-    },
-    {
-      "player": "Bradley Beal",
+      "player": "Draymond Green",
       "score": 2.0,
       "mentions_week1": 1,
       "mentions_week2": 2,
       "mentions_weeks3_4": 0,
       "total_mentions": 3,
-      "first_mention": "2026-07-24",
-      "last_mention": "2026-07-30",
-      "team": "Los Angeles Clippers",
-      "rank": 21
+      "first_mention": "2026-07-28",
+      "last_mention": "2026-07-31",
+      "team": "Golden State Warriors",
+      "rank": 19
     },
     {
       "player": "Domantas Sabonis",
@@ -268,7 +244,7 @@
       "first_mention": "2026-08-05",
       "last_mention": "2026-08-05",
       "team": "Sacramento Kings",
-      "rank": 22
+      "rank": 20
     },
     {
       "player": "Ron Harper Jr",
@@ -280,7 +256,7 @@
       "first_mention": "2026-08-04",
       "last_mention": "2026-08-04",
       "team": "Boston Celtics",
-      "rank": 23
+      "rank": 21
     },
     {
       "player": "Zeke Nnaji",
@@ -292,7 +268,7 @@
       "first_mention": "2026-07-31",
       "last_mention": "2026-08-03",
       "team": "Denver Nuggets",
-      "rank": 24
+      "rank": 22
     },
     {
       "player": "Tyler Herro",
@@ -304,7 +280,19 @@
       "first_mention": "2026-07-10",
       "last_mention": "2026-07-20",
       "team": "Miami Heat",
-      "rank": 25
+      "rank": 23
+    },
+    {
+      "player": "Bennedict Mathurin",
+      "score": 1.75,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 3,
+      "total_mentions": 4,
+      "first_mention": "2026-07-10",
+      "last_mention": "2026-07-31",
+      "team": "Indiana Pacers",
+      "rank": 24
     },
     {
       "player": "Kyrie Irving",
@@ -316,6 +304,18 @@
       "first_mention": "2026-07-19",
       "last_mention": "2026-07-27",
       "team": "Dallas Mavericks",
+      "rank": 25
+    },
+    {
+      "player": "Bradley Beal",
+      "score": 1.5,
+      "mentions_week1": 0,
+      "mentions_week2": 3,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 3,
+      "first_mention": "2026-07-24",
+      "last_mention": "2026-07-30",
+      "team": "Los Angeles Clippers",
       "rank": 26
     },
     {
@@ -343,30 +343,6 @@
       "rank": 28
     },
     {
-      "player": "Davion Mitchell",
-      "score": 1.5,
-      "mentions_week1": 1,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 2,
-      "first_mention": "2026-07-23",
-      "last_mention": "2026-08-01",
-      "team": "Dallas Mavericks",
-      "rank": 29
-    },
-    {
-      "player": "Jordan Hawkins",
-      "score": 1.5,
-      "mentions_week1": 1,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 2,
-      "first_mention": "2026-07-23",
-      "last_mention": "2026-07-31",
-      "team": "Memphis Grizzlies",
-      "rank": 30
-    },
-    {
       "player": "Keldon Johnson",
       "score": 1.5,
       "mentions_week1": 1,
@@ -376,7 +352,7 @@
       "first_mention": "2026-07-29",
       "last_mention": "2026-07-31",
       "team": "San Antonio Spurs",
-      "rank": 31
+      "rank": 29
     },
     {
       "player": "Spencer Jones",
@@ -388,7 +364,7 @@
       "first_mention": "2026-07-14",
       "last_mention": "2026-07-27",
       "team": "Denver Nuggets",
-      "rank": 32
+      "rank": 30
     },
     {
       "player": "AJ Johnson",
@@ -400,19 +376,31 @@
       "first_mention": "2026-07-10",
       "last_mention": "2026-07-31",
       "team": "Memphis Grizzlies",
-      "rank": 33
+      "rank": 31
     },
     {
-      "player": "Kevin Durant",
+      "player": "Davion Mitchell",
       "score": 1.25,
       "mentions_week1": 1,
       "mentions_week2": 0,
       "mentions_weeks3_4": 1,
       "total_mentions": 2,
-      "first_mention": "2026-07-09",
-      "last_mention": "2026-08-04",
-      "team": "Houston Rockets",
-      "rank": 34
+      "first_mention": "2026-07-23",
+      "last_mention": "2026-08-01",
+      "team": "Dallas Mavericks",
+      "rank": 32
+    },
+    {
+      "player": "Jordan Hawkins",
+      "score": 1.25,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 2,
+      "first_mention": "2026-07-23",
+      "last_mention": "2026-07-31",
+      "team": "Memphis Grizzlies",
+      "rank": 33
     },
     {
       "player": "Bronny James",
@@ -424,7 +412,7 @@
       "first_mention": "2026-07-10",
       "last_mention": "2026-07-24",
       "team": "Los Angeles Lakers",
-      "rank": 35
+      "rank": 34
     },
     {
       "player": "Jarred Vanderbilt",
@@ -436,7 +424,7 @@
       "first_mention": "2026-07-13",
       "last_mention": "2026-07-24",
       "team": "Los Angeles Lakers",
-      "rank": 36
+      "rank": 35
     },
     {
       "player": "Kasparas Jakucionis",
@@ -448,7 +436,7 @@
       "first_mention": "2026-07-10",
       "last_mention": "2026-07-24",
       "team": "Miami Heat",
-      "rank": 37
+      "rank": 36
     },
     {
       "player": "DeMar DeRozan",
@@ -460,7 +448,7 @@
       "first_mention": "2026-07-24",
       "last_mention": "2026-07-27",
       "team": "Sacramento Kings",
-      "rank": 38
+      "rank": 37
     },
     {
       "player": "Cade Cunningham",
@@ -472,31 +460,19 @@
       "first_mention": "2026-08-04",
       "last_mention": "2026-08-04",
       "team": "Detroit Pistons",
+      "rank": 38
+    },
+    {
+      "player": "Collin Murray-Boyles",
+      "score": 1.0,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-08-06",
+      "last_mention": "2026-08-06",
+      "team": "Memphis Grizzlies",
       "rank": 39
-    },
-    {
-      "player": "Damian Lillard",
-      "score": 1.0,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-07-30",
-      "last_mention": "2026-07-30",
-      "team": "Cleveland Cavaliers",
-      "rank": 40
-    },
-    {
-      "player": "Deandre Ayton",
-      "score": 1.0,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-07-30",
-      "last_mention": "2026-07-30",
-      "team": "Los Angeles Lakers",
-      "rank": 41
     },
     {
       "player": "Dillon Brooks",
@@ -508,6 +484,30 @@
       "first_mention": "2026-07-31",
       "last_mention": "2026-07-31",
       "team": "Phoenix Suns",
+      "rank": 40
+    },
+    {
+      "player": "Donte DiVincenzo",
+      "score": 1.0,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-08-06",
+      "last_mention": "2026-08-06",
+      "team": "Minnesota Timberwolves",
+      "rank": 41
+    },
+    {
+      "player": "Ja'Kobe Walter",
+      "score": 1.0,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-08-06",
+      "last_mention": "2026-08-06",
+      "team": "Memphis Grizzlies",
       "rank": 42
     },
     {
@@ -523,6 +523,18 @@
       "rank": 43
     },
     {
+      "player": "Kevin Durant",
+      "score": 1.0,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-08-04",
+      "last_mention": "2026-08-04",
+      "team": "Houston Rockets",
+      "rank": 44
+    },
+    {
       "player": "Max Strus",
       "score": 1.0,
       "mentions_week1": 1,
@@ -532,7 +544,7 @@
       "first_mention": "2026-07-31",
       "last_mention": "2026-07-31",
       "team": "Atlanta Hawks",
-      "rank": 44
+      "rank": 45
     },
     {
       "player": "RJ Barrett",
@@ -544,7 +556,7 @@
       "first_mention": "2026-08-05",
       "last_mention": "2026-08-05",
       "team": "Sacramento Kings",
-      "rank": 45
+      "rank": 46
     },
     {
       "player": "Rui Hachimura",
@@ -556,7 +568,19 @@
       "first_mention": "2026-07-31",
       "last_mention": "2026-07-31",
       "team": "Los Angeles Lakers",
-      "rank": 46
+      "rank": 47
+    },
+    {
+      "player": "Trayce Jackson-Davis",
+      "score": 1.0,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-08-06",
+      "last_mention": "2026-08-06",
+      "team": "Memphis Grizzlies",
+      "rank": 48
     },
     {
       "player": "Zach LaVine",
@@ -568,7 +592,7 @@
       "first_mention": "2026-08-03",
       "last_mention": "2026-08-03",
       "team": "Sacramento Kings",
-      "rank": 47
+      "rank": 49
     },
     {
       "player": "Bam Adebayo",
@@ -580,7 +604,7 @@
       "first_mention": "2026-07-14",
       "last_mention": "2026-07-20",
       "team": "Miami Heat",
-      "rank": 48
+      "rank": 50
     },
     {
       "player": "Buddy Hield",
@@ -592,7 +616,7 @@
       "first_mention": "2026-07-20",
       "last_mention": "2026-07-22",
       "team": "Golden State Warriors",
-      "rank": 49
+      "rank": 51
     },
     {
       "player": "Daniel Gafford",
@@ -604,7 +628,7 @@
       "first_mention": "2026-07-19",
       "last_mention": "2026-07-22",
       "team": "Dallas Mavericks",
-      "rank": 50
+      "rank": 52
     },
     {
       "player": "Derrick White",
@@ -616,7 +640,7 @@
       "first_mention": "2026-07-11",
       "last_mention": "2026-07-12",
       "team": "Boston Celtics",
-      "rank": 51
+      "rank": 53
     },
     {
       "player": "Devin Carter",
@@ -628,7 +652,7 @@
       "first_mention": "2026-07-20",
       "last_mention": "2026-07-22",
       "team": "Atlanta Hawks",
-      "rank": 52
+      "rank": 54
     },
     {
       "player": "Zaccharie Risacher",
@@ -640,7 +664,7 @@
       "first_mention": "2026-07-19",
       "last_mention": "2026-07-19",
       "team": "Atlanta Hawks",
-      "rank": 53
+      "rank": 55
     },
     {
       "player": "Dalton Knecht",
@@ -652,7 +676,7 @@
       "first_mention": "2026-07-22",
       "last_mention": "2026-07-24",
       "team": "Los Angeles Lakers",
-      "rank": 54
+      "rank": 56
     },
     {
       "player": "Jaden Hardy",
@@ -664,7 +688,7 @@
       "first_mention": "2026-07-22",
       "last_mention": "2026-07-24",
       "team": "Los Angeles Lakers",
-      "rank": 55
+      "rank": 57
     },
     {
       "player": "Jayson Tatum",
@@ -676,7 +700,7 @@
       "first_mention": "2026-07-16",
       "last_mention": "2026-07-29",
       "team": "Boston Celtics",
-      "rank": 56
+      "rank": 58
     },
     {
       "player": "LaMelo Ball",
@@ -688,7 +712,7 @@
       "first_mention": "2026-07-10",
       "last_mention": "2026-07-24",
       "team": "Charlotte Hornets",
-      "rank": 57
+      "rank": 59
     },
     {
       "player": "Brandon Ingram",
@@ -700,7 +724,7 @@
       "first_mention": "2026-07-12",
       "last_mention": "2026-07-20",
       "team": "Toronto Raptors",
-      "rank": 58
+      "rank": 60
     },
     {
       "player": "Gradey Dick",
@@ -712,7 +736,7 @@
       "first_mention": "2026-07-12",
       "last_mention": "2026-07-20",
       "team": "Toronto Raptors",
-      "rank": 59
+      "rank": 61
     },
     {
       "player": "Jaime Jaquez",
@@ -724,19 +748,7 @@
       "first_mention": "2026-07-10",
       "last_mention": "2026-07-12",
       "team": "Miami Heat",
-      "rank": 60
-    },
-    {
-      "player": "Joel Embiid",
-      "score": 0.5,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 2,
-      "first_mention": "2026-07-09",
-      "last_mention": "2026-07-10",
-      "team": "Philadelphia 76ers",
-      "rank": 61
+      "rank": 62
     },
     {
       "player": "Kel'el Ware",
@@ -748,7 +760,7 @@
       "first_mention": "2026-07-12",
       "last_mention": "2026-07-12",
       "team": "Miami Heat",
-      "rank": 62
+      "rank": 63
     },
     {
       "player": "Luguentz Dort",
@@ -760,7 +772,7 @@
       "first_mention": "2026-07-19",
       "last_mention": "2026-07-19",
       "team": "Atlanta Hawks",
-      "rank": 63
+      "rank": 64
     },
     {
       "player": "Michael Porter",
@@ -772,7 +784,7 @@
       "first_mention": "2026-07-10",
       "last_mention": "2026-07-10",
       "team": "Brooklyn Nets",
-      "rank": 64
+      "rank": 65
     },
     {
       "player": "Miles Bridges",
@@ -784,7 +796,7 @@
       "first_mention": "2026-07-22",
       "last_mention": "2026-07-22",
       "team": "Charlotte Hornets",
-      "rank": 65
+      "rank": 66
     },
     {
       "player": "Naz Reid",
@@ -796,7 +808,7 @@
       "first_mention": "2026-07-10",
       "last_mention": "2026-07-14",
       "team": "Minnesota Timberwolves",
-      "rank": 66
+      "rank": 67
     },
     {
       "player": "Ryan Nembhard",
@@ -808,7 +820,7 @@
       "first_mention": "2026-07-22",
       "last_mention": "2026-07-22",
       "team": "Atlanta Hawks",
-      "rank": 67
+      "rank": 68
     },
     {
       "player": "Trey Murphy",
@@ -820,18 +832,6 @@
       "first_mention": "2026-07-20",
       "last_mention": "2026-07-22",
       "team": "New Orleans Pelicans",
-      "rank": 68
-    },
-    {
-      "player": "Andrew Wiggins",
-      "score": 0.5,
-      "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-07-23",
-      "last_mention": "2026-07-23",
-      "team": "Miami Heat",
       "rank": 69
     },
     {
@@ -847,6 +847,30 @@
       "rank": 70
     },
     {
+      "player": "Damian Lillard",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-07-30",
+      "last_mention": "2026-07-30",
+      "team": "Cleveland Cavaliers",
+      "rank": 71
+    },
+    {
+      "player": "Deandre Ayton",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-07-30",
+      "last_mention": "2026-07-30",
+      "team": "Los Angeles Lakers",
+      "rank": 72
+    },
+    {
       "player": "Dennis Schroeder",
       "score": 0.5,
       "mentions_week1": 0,
@@ -856,7 +880,7 @@
       "first_mention": "2026-07-28",
       "last_mention": "2026-07-28",
       "team": "Golden State Warriors",
-      "rank": 71
+      "rank": 73
     },
     {
       "player": "Isaac Okoro",
@@ -868,7 +892,7 @@
       "first_mention": "2026-07-26",
       "last_mention": "2026-07-26",
       "team": "Chicago Bulls",
-      "rank": 72
+      "rank": 74
     },
     {
       "player": "Jabari Walker",
@@ -880,7 +904,7 @@
       "first_mention": "2026-07-27",
       "last_mention": "2026-07-27",
       "team": "Philadelphia 76ers",
-      "rank": 73
+      "rank": 75
     },
     {
       "player": "Jarrett Allen",
@@ -892,7 +916,7 @@
       "first_mention": "2026-07-28",
       "last_mention": "2026-07-28",
       "team": "Cleveland Cavaliers",
-      "rank": 74
+      "rank": 76
     },
     {
       "player": "Kon Knueppel",
@@ -904,19 +928,19 @@
       "first_mention": "2026-07-24",
       "last_mention": "2026-07-24",
       "team": "Charlotte Hornets",
-      "rank": 75
+      "rank": 77
     },
     {
-      "player": "Tim Hardaway Jr",
-      "score": 0.5,
+      "player": "Andrew Wiggins",
+      "score": 0.25,
       "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
       "total_mentions": 1,
       "first_mention": "2026-07-23",
       "last_mention": "2026-07-23",
-      "team": "Cleveland Cavaliers",
-      "rank": 76
+      "team": "Miami Heat",
+      "rank": 78
     },
     {
       "player": "Cameron Johnson",
@@ -928,7 +952,7 @@
       "first_mention": "2026-07-22",
       "last_mention": "2026-07-22",
       "team": "Denver Nuggets",
-      "rank": 77
+      "rank": 79
     },
     {
       "player": "D'Angelo Russell",
@@ -940,7 +964,7 @@
       "first_mention": "2026-07-22",
       "last_mention": "2026-07-22",
       "team": "Dallas Mavericks",
-      "rank": 78
+      "rank": 80
     },
     {
       "player": "Ja Morant",
@@ -952,7 +976,19 @@
       "first_mention": "2026-07-11",
       "last_mention": "2026-07-11",
       "team": "Memphis Grizzlies",
-      "rank": 79
+      "rank": 81
+    },
+    {
+      "player": "Joel Embiid",
+      "score": 0.25,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 1,
+      "first_mention": "2026-07-10",
+      "last_mention": "2026-07-10",
+      "team": "Philadelphia 76ers",
+      "rank": 82
     },
     {
       "player": "Jordan Walsh",
@@ -964,7 +1000,7 @@
       "first_mention": "2026-07-12",
       "last_mention": "2026-07-12",
       "team": "Boston Celtics",
-      "rank": 80
+      "rank": 83
     },
     {
       "player": "Josh Giddey",
@@ -976,7 +1012,7 @@
       "first_mention": "2026-07-15",
       "last_mention": "2026-07-15",
       "team": "Boston Celtics",
-      "rank": 81
+      "rank": 84
     },
     {
       "player": "Josh Green",
@@ -988,7 +1024,7 @@
       "first_mention": "2026-07-10",
       "last_mention": "2026-07-10",
       "team": "Charlotte Hornets",
-      "rank": 82
+      "rank": 85
     },
     {
       "player": "Julius Randle",
@@ -1000,7 +1036,7 @@
       "first_mention": "2026-07-10",
       "last_mention": "2026-07-10",
       "team": "Minnesota Timberwolves",
-      "rank": 83
+      "rank": 86
     },
     {
       "player": "Khris Middleton",
@@ -1012,7 +1048,7 @@
       "first_mention": "2026-07-22",
       "last_mention": "2026-07-22",
       "team": "Sacramento Kings",
-      "rank": 84
+      "rank": 87
     },
     {
       "player": "Mike Conley",
@@ -1024,7 +1060,7 @@
       "first_mention": "2026-07-12",
       "last_mention": "2026-07-12",
       "team": "Boston Celtics",
-      "rank": 85
+      "rank": 88
     },
     {
       "player": "Mitchell Robinson",
@@ -1036,7 +1072,7 @@
       "first_mention": "2026-07-12",
       "last_mention": "2026-07-12",
       "team": "Boston Celtics",
-      "rank": 86
+      "rank": 89
     },
     {
       "player": "Mouhamed Gueye",
@@ -1048,7 +1084,7 @@
       "first_mention": "2026-07-20",
       "last_mention": "2026-07-20",
       "team": "Atlanta Hawks",
-      "rank": 87
+      "rank": 90
     },
     {
       "player": "Neemias Queta",
@@ -1060,7 +1096,7 @@
       "first_mention": "2026-07-11",
       "last_mention": "2026-07-11",
       "team": "Boston Celtics",
-      "rank": 88
+      "rank": 91
     },
     {
       "player": "Ousmane Dieng",
@@ -1072,7 +1108,7 @@
       "first_mention": "2026-07-10",
       "last_mention": "2026-07-10",
       "team": "Milwaukee Bucks",
-      "rank": 89
+      "rank": 92
     },
     {
       "player": "Russell Westbrook",
@@ -1084,19 +1120,7 @@
       "first_mention": "2026-07-22",
       "last_mention": "2026-07-22",
       "team": "Sacramento Kings",
-      "rank": 90
-    },
-    {
-      "player": "Tari Eason",
-      "score": 0.25,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 1,
-      "first_mention": "2026-07-09",
-      "last_mention": "2026-07-09",
-      "team": "Houston Rockets",
-      "rank": 91
+      "rank": 93
     },
     {
       "player": "Thanasis Antetokounmpo",
@@ -1108,7 +1132,19 @@
       "first_mention": "2026-07-17",
       "last_mention": "2026-07-17",
       "team": "Miami Heat",
-      "rank": 92
+      "rank": 94
+    },
+    {
+      "player": "Tim Hardaway Jr",
+      "score": 0.25,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 1,
+      "first_mention": "2026-07-23",
+      "last_mention": "2026-07-23",
+      "team": "Cleveland Cavaliers",
+      "rank": 95
     },
     {
       "player": "Walker Kessler",
@@ -1120,11 +1156,175 @@
       "first_mention": "2026-07-10",
       "last_mention": "2026-07-10",
       "team": "Utah Jazz",
-      "rank": 93
+      "rank": 96
     }
   ],
   "player_rumors": {
+    "Jaylen Brown": [
+      {
+        "date": "2026-08-06",
+        "text": "He did not want to talk much about the trade itself, adding that maybe one day all the details will be revealed. \u201cThe whole process, but to be honest, my mind is so focused on what\u2019s in front of me. To be honest, I\u2019m moving on.Maybe one day, we\u2019ll share the details on how everything transpired and all the moving parts that took place in this.Obviously, there\u2019s a lot of speculation. I feel no need to chime in on it because I\u2019m focused on what\u2019s in front of me.\u201dEuroHoops.net",
+        "text_html": "He did not want to talk much about the trade itself, adding that maybe one day all the details will be revealed. \u201cThe whole process, but to be honest, my mind is so focused on what\u2019s in front of me. To be honest, I\u2019m moving on. <a href=\"https://www.eurohoops.net/en/nba-news/1996822/jaylen-brown-threw-his-phone-when-he-learned-about-the-trade-maybe-one-day-well-share-the-details/\" target=\"_blank\" style=\"color: #1a73e8;\">Maybe one day, we\u2019ll share the details on how everything transpired and all the moving parts that took place in this.</a> Obviously, there\u2019s a lot of speculation. I feel no need to chime in on it because I\u2019m focused on what\u2019s in front of me.\u201d",
+        "outlet": "EuroHoops.net",
+        "source_url": "https://www.eurohoops.net/en/nba-news/1996822/jaylen-brown-threw-his-phone-when-he-learned-about-the-trade-maybe-one-day-well-share-the-details/"
+      },
+      {
+        "date": "2026-08-06",
+        "text": "NBABase:The Warriors 'could have matched or exceeded' Philadelphia\u2019s offer for Jaylen Brown, but negotiations with the Celtics never advanced, per @DannyEmerman \u201cConversations between the Warriors and the Celtics never got really serious. I think it was kind of like a preliminary stage situation...I think the Warriors could have matched or exceeded Philadelphia's offer fairly easily, and Jaylen Brown is the exact type of player that they need. They need someone who can carry them through the regular season to take the load off of Steph Curry, and that's even independent of if adding Jaylen Brown might have put them over the top for LeBron James.\u201d (Via @CelticsCLNS)x.com",
+        "text_html": "NBABase: <a href=\"https://x.com/TheNBABase/status/2085159667664306332\" target=\"_blank\" style=\"color: #1a73e8;\">The Warriors 'could have matched or exceeded' Philadelphia\u2019s offer for Jaylen Brown, but negotiations with the Celtics never advanced, per @DannyEmerman \u201cConversations between the Warriors and the Celtics never got really serious. I think it was kind of like a preliminary stage situation...</a> I think the Warriors could have matched or exceeded Philadelphia's offer fairly easily, and Jaylen Brown is the exact type of player that they need. They need someone who can carry them through the regular season to take the load off of Steph Curry, and that's even independent of if adding Jaylen Brown might have put them over the top for LeBron James.\u201d (Via @CelticsCLNS)",
+        "outlet": "x.com",
+        "source_url": "https://x.com/TheNBABase/status/2085159667664306332"
+      },
+      {
+        "date": "2026-07-30",
+        "text": "There's a belief that the Sixers entered the picture only because former Warriors executive Bob Myers helped swing a blockbuster trade for Jaylen Brown on July 1, boosting the supporting cast and luring James to look in their direction. Several days prior,the Boston Celtics called the Warriors about Brown near the draft, league sources said, testing Golden State's temperature about a trade for four first-round picks and another first-round swap in an effort to beef up the Celtics' own offer to Milwaukee for Giannis Antetokounmpo.ESPN",
+        "text_html": "There's a belief that the Sixers entered the picture only because former Warriors executive Bob Myers helped swing a blockbuster trade for Jaylen Brown on July 1, boosting the supporting cast and luring James to look in their direction. Several days prior, <a href=\"https://www.espn.com/nba/story/_/id/49473905/warriors-running-back-steph-curry-era-enters-another-crossroads%EF%BB%BF-lebron-james-offseason\" target=\"_blank\" style=\"color: #1a73e8;\">the Boston Celtics called the Warriors about Brown near the draft, league sources said, testing Golden State's temperature about a trade for four first-round picks and another first-round swap in an effort to beef up the Celtics' own offer to Milwaukee for Giannis Antetokounmpo</a>.",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/49473905/warriors-running-back-steph-curry-era-enters-another-crossroads%EF%BB%BF-lebron-james-offseason"
+      },
+      {
+        "date": "2026-07-29",
+        "text": "NBA Courtside:Rich Paul says LeBron WASN\u2019T even considering the 76ers before the Jaylen Brown trade:\u201cWe never heard from the Sixers because the Sixers never really thought it was even a chance and I talked about why. We talked about other things, obviously I talk to Tyrese all the time. No never even thought it was a chance. We started having conversations about just basketball in its self, how things can play out what it actually takes to win where you know, not to get into everything but there was several conversations and as you know all these decisions are layered.\u201dx.com",
+        "text_html": "NBA Courtside: <a href=\"https://x.com/NBA__Courtside/status/2082415737847615655\" target=\"_blank\" style=\"color: #1a73e8;\">Rich Paul says LeBron WASN\u2019T even considering the 76ers before the Jaylen Brown trade:</a> \u201cWe never heard from the Sixers because the Sixers never really thought it was even a chance and I talked about why. We talked about other things, obviously I talk to Tyrese all the time. No never even thought it was a chance. We started having conversations about just basketball in its self, how things can play out what it actually takes to win where you know, not to get into everything but there was several conversations and as you know all these decisions are layered.\u201d",
+        "outlet": "x.com",
+        "source_url": "https://x.com/NBA__Courtside/status/2082415737847615655"
+      },
+      {
+        "date": "2026-07-28",
+        "text": "Before the 76ers had a chance to get Brown, NBA insider Shams Charania revealed that the Warriors had a shot at trading for the 2024 NBA Finals MVP five months ago.\u201cThe Warriors could\u2019ve got in the Jaylen Brown sweepstakes if they wanted to give up four first-round picks-ish, in that range. They decided not to, from my understanding,\u201d Charania said on Monday\u2019s \u201cThe Stephen A. Smith Show.\u201dPro Football Network",
+        "text_html": "Before the 76ers had a chance to get Brown, NBA insider Shams Charania revealed that the Warriors had a shot at trading for the 2024 NBA Finals MVP five months ago. <a href=\"https://www.profootballnetwork.com/nba/lebron-james-viable-nba-insider-reveals-why-warriors-passed-jaylen-brown/\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cThe Warriors could\u2019ve got in the Jaylen Brown sweepstakes if they wanted to give up four first-round picks-ish, in that range. They decided not to, from my understanding,\u201d Charania said on Monday\u2019s \u201cThe Stephen A. Smith Show.\u201d</a>",
+        "outlet": "Pro Football Network",
+        "source_url": "https://www.profootballnetwork.com/nba/lebron-james-viable-nba-insider-reveals-why-warriors-passed-jaylen-brown/"
+      },
+      {
+        "date": "2026-07-16",
+        "text": "Heat Central:\u201cHeat, complete contender the moment he gets there. The Warriors would need a little work still. The big thing with the Warriors was packaging LeBron James with another star player\u2026. There\u2019s been no real traction on the Warriors and AD\u2026 They are to my knowledge behind other teams such as a Miami, CLE, PHI.\u201dShams also mentioned the Sixers didn\u2019t even get on his list until they got Jaylen Brown.x.com",
+        "text_html": "Heat Central: <a href=\"https://x.com/TheHeatCentral/status/2077819394848157916?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cHeat, complete contender the moment he gets there. The Warriors would need a little work still. The big thing with the Warriors was packaging LeBron James with another star player\u2026. There\u2019s been no real traction on the Warriors and AD\u2026 They are to my knowledge behind other teams such as a Miami, CLE, PHI.\u201d</a> Shams also mentioned the Sixers didn\u2019t even get on his list until they got Jaylen Brown.",
+        "outlet": "x.com",
+        "source_url": "https://x.com/TheHeatCentral/status/2077819394848157916?s=20"
+      },
+      {
+        "date": "2026-07-16",
+        "text": "Tatum recently made an appearance at ESPN's ESPY Awards on Wednesday. He was asked about how he feels about Brown getting traded and how he sees his future with his former duo no longer by his side.\"To be transparent, it's weird,\" Tatum said. \"I've been on the Celtics for nine years, and he was my teammate. You understand throughout the course of your career that the NBA is a business, and people change teams ... but it doesn't make it any easier... But there's also a side of, like, you have to welcome our new teammates.\"basketballnews.com",
+        "text_html": "Tatum recently made an appearance at ESPN's ESPY Awards on Wednesday. He was asked about how he feels about Brown getting traded and how he sees his future with his former duo no longer by his side. <a href=\"https://www.basketballnews.com/news/basketballnews-nba-active-news-to-be-transparent-its-weird-jayson-tatum-gets-honest-on-jaylen-brown-getting-traded/\" target=\"_blank\" style=\"color: #1a73e8;\">\"To be transparent, it's weird,\" Tatum said. \"I've been on the Celtics for nine years, and he was my teammate. You understand throughout the course of your career that the NBA is a business, and people change teams ... but it doesn't make it any easier</a> ... But there's also a side of, like, you have to welcome our new teammates.\"",
+        "outlet": "basketballnews.com",
+        "source_url": "https://www.basketballnews.com/news/basketballnews-nba-active-news-to-be-transparent-its-weird-jayson-tatum-gets-honest-on-jaylen-brown-getting-traded/"
+      },
+      {
+        "date": "2026-07-15",
+        "text": "The Timberwolves had talks with the Celtics about Jaylen Brown, the Milwaukee Bucks about Giannis Antetokounmpo and the Chicago Bulls about Josh Giddey,according to team sources who granted anonymity so they could talk about sensitive negotiations. Brown was intriguing, but the Celtics were asking for a king\u2019s ransom that included Gobert and heavy draft capital. There were also debates about how Edwards and Brown would fit together as two ISO-heavy scorers on offense. Connelly had given chase to Antetokounmpo before last season and at the trade deadline, but the Wolves never got close on a deal there either, sources said. Giddey was another big guard to potentially pair with Edwards, but there was little traction on talks there.New York Times",
+        "text_html": "<a href=\"https://www.nytimes.com/athletic/7446271/2026/07/15/lamelo-ball-timberwolves-introduction-anthony-edwards/?unlocked_article_code=1.x1A.BnZC.Vx9Vas52G5CN&source=emp_shared_article&smid=ta-ios-share\" target=\"_blank\" style=\"color: #1a73e8;\">The Timberwolves had talks with the Celtics about Jaylen Brown, the Milwaukee Bucks about Giannis Antetokounmpo and the Chicago Bulls about Josh Giddey,</a> according to team sources who granted anonymity so they could talk about sensitive negotiations. Brown was intriguing, but the Celtics were asking for a king\u2019s ransom that included Gobert and heavy draft capital. There were also debates about how Edwards and Brown would fit together as two ISO-heavy scorers on offense. Connelly had given chase to Antetokounmpo before last season and at the trade deadline, but the Wolves never got close on a deal there either, sources said. Giddey was another big guard to potentially pair with Edwards, but there was little traction on talks there.",
+        "outlet": "New York Times",
+        "source_url": "https://www.nytimes.com/athletic/7446271/2026/07/15/lamelo-ball-timberwolves-introduction-anthony-edwards/?unlocked_article_code=1.x1A.BnZC.Vx9Vas52G5CN&source=emp_shared_article&smid=ta-ios-share"
+      },
+      {
+        "date": "2026-07-15",
+        "text": "He shared that he was not surprised at all when it was revealed that the Celtics shipped Brown to the 76ers, acknowledging the business side of the NBA.\u201cYou can't be stunned. It's the NBA, man. Luka Doncic got traded in the middle of the night. Nothing's out of the realm for me anymore as an NBA player,\u201d stated Durant.Clutch Points",
+        "text_html": "He shared that he was not surprised at all when it was revealed that the Celtics shipped Brown to the 76ers, acknowledging the business side of the NBA. <a href=\"https://clutchpoints.com/nba/philadelphia-76ers/76ers-news-kevin-durant-declaration-jaylen-brown-fit-philadelphia\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cYou can't be stunned. It's the NBA, man. Luka Doncic got traded in the middle of the night. Nothing's out of the realm for me anymore as an NBA player,\u201d stated Durant</a>.",
+        "outlet": "Clutch Points",
+        "source_url": "https://clutchpoints.com/nba/philadelphia-76ers/76ers-news-kevin-durant-declaration-jaylen-brown-fit-philadelphia"
+      },
+      {
+        "date": "2026-07-12",
+        "text": "As Derrick White and Jordan Walsh went through a workout on one of the Cox Pavilion courts Saturday morning, head coach Joe Mazzulla detailed the respect he has for Brown, what Boston will miss most about him and the need to create a new path forward without him. After 10 highly successful seasons with Brown, Boston will take on a different look with Paul George, Mitchell Robinson and Mike Conley now on the roster.\u201cThere needs to be a grieving process for losing not just a player in Jaylen, but a\u00a0person\u00a0in Jaylen,\u201d Mazzulla said in an interview with\u00a0The Athletic.\u201cThere needs to be a grieving process that this guy, what he has done on the court and what he\u2019s done in the community and what he\u2019s done for the city of Boston, there should be a grieving process. But the \u2026 gray area is throughout that loss, you\u2019re also gaining.\u201dNew York Times",
+        "text_html": "As Derrick White and Jordan Walsh went through a workout on one of the Cox Pavilion courts Saturday morning, head coach Joe Mazzulla detailed the respect he has for Brown, what Boston will miss most about him and the need to create a new path forward without him. After 10 highly successful seasons with Brown, Boston will take on a different look with Paul George, Mitchell Robinson and Mike Conley now on the roster. <a href=\"https://www.nytimes.com/athletic/7439198/2026/07/12/celtics-joe-mazzulla-jaylen-brown-trade/\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cThere needs to be a grieving process for losing not just a player in Jaylen, but a person in Jaylen,\u201d Mazzulla said in an interview with The Athletic.</a> \u201cThere needs to be a grieving process that this guy, what he has done on the court and what he\u2019s done in the community and what he\u2019s done for the city of Boston, there should be a grieving process. But the \u2026 gray area is throughout that loss, you\u2019re also gaining.\u201d",
+        "outlet": "New York Times",
+        "source_url": "https://www.nytimes.com/athletic/7439198/2026/07/12/celtics-joe-mazzulla-jaylen-brown-trade/"
+      },
+      {
+        "date": "2026-07-12",
+        "text": "Mazzulla said he empathized with Brown throughout the situation.\u201cHonestly, when some of the trade stuff was starting to happen, there were other guys on our roster that were impacted emotionally as well because their names were in it as well,\u201d Mazzulla said.\u201cI think the thing that\u2019s different is obviously having a respect and an\u00a0understanding\u00a0of what Jaylen has done for the Celtics for 10 years. So, there\u2019s a difference between maybe a young guy going through something and a guy like Jaylen, who has accomplished so much and done what he\u2019s done for the organization going through it. And so, you definitely have a higher sense of empathy for that.\u201dNew York Times",
+        "text_html": "Mazzulla said he empathized with Brown throughout the situation. <a href=\"https://www.nytimes.com/athletic/7439198/2026/07/12/celtics-joe-mazzulla-jaylen-brown-trade/\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cHonestly, when some of the trade stuff was starting to happen, there were other guys on our roster that were impacted emotionally as well because their names were in it as well,\u201d Mazzulla said.</a> \u201cI think the thing that\u2019s different is obviously having a respect and an understanding of what Jaylen has done for the Celtics for 10 years. So, there\u2019s a difference between maybe a young guy going through something and a guy like Jaylen, who has accomplished so much and done what he\u2019s done for the organization going through it. And so, you definitely have a higher sense of empathy for that.\u201d",
+        "outlet": "New York Times",
+        "source_url": "https://www.nytimes.com/athletic/7439198/2026/07/12/celtics-joe-mazzulla-jaylen-brown-trade/"
+      },
+      {
+        "date": "2026-07-12",
+        "text": "Like almost everyone else, though, Nurse was floored by Philly acquiring Jaylen Brown from the Boston Celtics. Nurse has spent his summer bracing for a roster with a suddenly higher floor and ceiling after the 76ers had 45 wins and the East\u2019s No. 7 seed last season. More importantly, his preparation for coaching Brown may mirror his prep for Kawhi Leonard, who led the Nurse-coached Toronto Raptors to the 2019 NBA title.\u201cMy first thoughts are that I\u2019ve had a lot of battles against him,\u201d Nurse\u00a0told\u00a0a select group of reporters Saturday morning, referring to Brown. \u201cYou watch him get a lot better from year to year and how much harder it became to game plan for him and things like that.He\u2019s won a lot. Obviously, he\u2019s won a title and a finals MVP. I think he\u2019s a two-way player, and I think he\u2019s versatile. I think he\u2019s right there, sitting in his prime. It\u2019s amazing that he\u2019s a Sixer.\u201dNew York Times",
+        "text_html": "Like almost everyone else, though, Nurse was floored by Philly acquiring Jaylen Brown from the Boston Celtics. Nurse has spent his summer bracing for a roster with a suddenly higher floor and ceiling after the 76ers had 45 wins and the East\u2019s No. 7 seed last season. More importantly, his preparation for coaching Brown may mirror his prep for Kawhi Leonard, who led the Nurse-coached Toronto Raptors to the 2019 NBA title. <a href=\"https://www.nytimes.com/athletic/7439445/2026/07/12/76ers-jaylen-brown-trade-nick-nurse/\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cMy first thoughts are that I\u2019ve had a lot of battles against him,\u201d Nurse told a select group of reporters Saturday morning, referring to Brown. \u201cYou watch him get a lot better from year to year and how much harder it became to game plan for him and things like that.</a> He\u2019s won a lot. Obviously, he\u2019s won a title and a finals MVP. I think he\u2019s a two-way player, and I think he\u2019s versatile. I think he\u2019s right there, sitting in his prime. It\u2019s amazing that he\u2019s a Sixer.\u201d",
+        "outlet": "New York Times",
+        "source_url": "https://www.nytimes.com/athletic/7439445/2026/07/12/76ers-jaylen-brown-trade-nick-nurse/"
+      },
+      {
+        "date": "2026-07-12",
+        "text": "SiriusXM NBA Radio:\u201cThe only thing more shocking I\u2019ve seen this year other than Anunoby\u2019s tip-in was that trade\" Tim Legler shares his reaction to the 76ers-Celtics blockbuster tradewith @termineradio, @Jumpshot8, and Ryan McDonoughx.com",
+        "text_html": "SiriusXM NBA Radio: <a href=\"https://x.com/SiriusXMNBA/status/2076122944980332584\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cThe only thing more shocking I\u2019ve seen this year other than Anunoby\u2019s tip-in was that trade\" Tim Legler shares his reaction to the 76ers-Celtics blockbuster trade</a> with @termineradio, @Jumpshot8, and Ryan McDonough",
+        "outlet": "x.com",
+        "source_url": "https://x.com/SiriusXMNBA/status/2076122944980332584"
+      },
+      {
+        "date": "2026-07-11",
+        "text": "Derrick White was home with his wife when he found out that Jaylen Brown, one of his longest-tenured teammates, had been traded.\u201cIt\u2019s tough to see someone get traded, and JB\u2019s been an amazing teammate, amazing friend to me, and kind of welcomed me when I got traded to Boston,\u201d he said.\u201cSo I\u2019m always thankful for my time that I spent with JB, and it\u2019s obviously always tough to get traded, and I know how that feels.\u201d White said he reached out to Brown soon after the trade with a simple message: \u201cThank you for everything you did for me.\u201dCeltics Blog",
+        "text_html": "Derrick White was home with his wife when he found out that Jaylen Brown, one of his longest-tenured teammates, had been traded. <a href=\"https://www.celticsblog.com/boston-celtics-news/143400/jaylen-brown-trade-derrick-white-neemias-queta-hugo-gonzalez\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cIt\u2019s tough to see someone get traded, and JB\u2019s been an amazing teammate, amazing friend to me, and kind of welcomed me when I got traded to Boston,\u201d he said.</a> \u201cSo I\u2019m always thankful for my time that I spent with JB, and it\u2019s obviously always tough to get traded, and I know how that feels.\u201d White said he reached out to Brown soon after the trade with a simple message: \u201cThank you for everything you did for me.\u201d",
+        "outlet": "Celtics Blog",
+        "source_url": "https://www.celticsblog.com/boston-celtics-news/143400/jaylen-brown-trade-derrick-white-neemias-queta-hugo-gonzalez"
+      },
+      {
+        "date": "2026-07-11",
+        "text": "Bobby Krivitsky: I asked Derrick White about how he\u2019s processing the Jaylen Brown trade, both in terms of their relationship and what this means for his role or what the Celtics will need from him going forward.\u201cTell him thank you for everything he did for me, and just know how much he means to me.\u201dtrade, both in terms of their relationship and what this means for his role or what the Celtics will need from him going forward. \u201cTell him thank you for everything he did for me, and just know how much he means tox.com",
+        "text_html": "Bobby Krivitsky: I asked Derrick White about how he\u2019s processing the Jaylen Brown trade, both in terms of their relationship and what this means for his role or what the Celtics will need from him going forward. <a href=\"https://x.com/BobbyKrivitsky/status/2075767847725473932\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cTell him thank you for everything he did for me, and just know how much he means to me.\u201dtrade, both in terms of their relationship and what this means for his role or what the Celtics will need from him going forward</a>. \u201cTell him thank you for everything he did for me, and just know how much he means to",
+        "outlet": "x.com",
+        "source_url": "https://x.com/BobbyKrivitsky/status/2075767847725473932"
+      },
+      {
+        "date": "2026-07-11",
+        "text": "Neemias Queta, who has been teammates with Brown for three years, also spoke to reporters on Friday night for the first time since the trade. \u201cIt\u2019s not easy,\u201d Queta said. \u201cI think you feel for him. Obviously, it wasn\u2019t easy for him as well. But at the end of the day, it\u2019s part of the business. You know what\u2019s happening. You know it can happen at any moment.But Jaylen\u2019s a guy that you can\u2019t replace in the city. Really, really hard to replace on the court as well. He did so much for Boston in general, and he will definitely be missed.\u201dCeltics Blog",
+        "text_html": "Neemias Queta, who has been teammates with Brown for three years, also spoke to reporters on Friday night for the first time since the trade. \u201cIt\u2019s not easy,\u201d Queta said. \u201cI think you feel for him. Obviously, it wasn\u2019t easy for him as well. But at the end of the day, it\u2019s part of the business. You know what\u2019s happening. You know it can happen at any moment. <a href=\"https://www.celticsblog.com/boston-celtics-news/143400/jaylen-brown-trade-derrick-white-neemias-queta-hugo-gonzalez\" target=\"_blank\" style=\"color: #1a73e8;\">But Jaylen\u2019s a guy that you can\u2019t replace in the city. Really, really hard to replace on the court as well. He did so much for Boston in general, and he will definitely be missed.\u201d</a>",
+        "outlet": "Celtics Blog",
+        "source_url": "https://www.celticsblog.com/boston-celtics-news/143400/jaylen-brown-trade-derrick-white-neemias-queta-hugo-gonzalez"
+      },
+      {
+        "date": "2026-07-10",
+        "text": "IShowSpeed: \"You going to Philly? You going to tell them to pick me up, bro?\" Jaylen Brown: \"That's a crazy business, bro.Don't become a basketball player. There's no loyalty.\"IShowSpeed: \"What happened? You just got traded?\" Jaylen Brown: \"That's a good question. I think a lot of people want to hear that. I don't know. I just got packed up.\"YouTube",
+        "text_html": "IShowSpeed: \"You going to Philly? You going to tell them to pick me up, bro?\" Jaylen Brown: \"That's a crazy business, bro. <a href=\"https://www.youtube.com/watch?v=fhfEGJagsmE&t=8s\" target=\"_blank\" style=\"color: #1a73e8;\">Don't become a basketball player. There's no loyalty.\"</a> IShowSpeed: \"What happened? You just got traded?\" Jaylen Brown: \"That's a good question. I think a lot of people want to hear that. I don't know. I just got packed up.\"",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=fhfEGJagsmE&t=8s"
+      }
+    ],
+    "Donte DiVincenzo": [
+      {
+        "date": "2026-08-06",
+        "text": "NBA Trade Machine:Donte DiVincenzo was part of 10.6% of the trades built on HoopsMatic over the past 24 hours. Of those trades, his top destinations were Memphis (12.3%), New Orleans (11.7%), and Toronto (11.7%).The most common players sent back for him were Collin Murray-Boyles (11.1%), Ja'Kobe Walter (7.6%), and Trayce Jackson-Davis (7.6%).HoopsMatic",
+        "text_html": "NBA Trade Machine: <a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">Donte DiVincenzo was part of 10.6% of the trades built on HoopsMatic over the past 24 hours. Of those trades, his top destinations were Memphis (12.3%), New Orleans (11.7%), and Toronto (11.7%).</a> The most common players sent back for him were Collin Murray-Boyles (11.1%), Ja'Kobe Walter (7.6%), and Trayce Jackson-Davis (7.6%).",
+        "outlet": "HoopsMatic",
+        "source_url": "https://hoopsmatic.com/"
+      }
+    ],
+    "Trayce Jackson-Davis": [
+      {
+        "date": "2026-08-06",
+        "text": "NBA Trade Machine:Donte DiVincenzo was part of 10.6% of the trades built on HoopsMatic over the past 24 hours. Of those trades, his top destinations were Memphis (12.3%), New Orleans (11.7%), and Toronto (11.7%).The most common players sent back for him were Collin Murray-Boyles (11.1%), Ja'Kobe Walter (7.6%), and Trayce Jackson-Davis (7.6%).HoopsMatic",
+        "text_html": "NBA Trade Machine: <a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">Donte DiVincenzo was part of 10.6% of the trades built on HoopsMatic over the past 24 hours. Of those trades, his top destinations were Memphis (12.3%), New Orleans (11.7%), and Toronto (11.7%).</a> The most common players sent back for him were Collin Murray-Boyles (11.1%), Ja'Kobe Walter (7.6%), and Trayce Jackson-Davis (7.6%).",
+        "outlet": "HoopsMatic",
+        "source_url": "https://hoopsmatic.com/"
+      }
+    ],
+    "Ja'Kobe Walter": [
+      {
+        "date": "2026-08-06",
+        "text": "NBA Trade Machine:Donte DiVincenzo was part of 10.6% of the trades built on HoopsMatic over the past 24 hours. Of those trades, his top destinations were Memphis (12.3%), New Orleans (11.7%), and Toronto (11.7%).The most common players sent back for him were Collin Murray-Boyles (11.1%), Ja'Kobe Walter (7.6%), and Trayce Jackson-Davis (7.6%).HoopsMatic",
+        "text_html": "NBA Trade Machine: <a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">Donte DiVincenzo was part of 10.6% of the trades built on HoopsMatic over the past 24 hours. Of those trades, his top destinations were Memphis (12.3%), New Orleans (11.7%), and Toronto (11.7%).</a> The most common players sent back for him were Collin Murray-Boyles (11.1%), Ja'Kobe Walter (7.6%), and Trayce Jackson-Davis (7.6%).",
+        "outlet": "HoopsMatic",
+        "source_url": "https://hoopsmatic.com/"
+      }
+    ],
+    "Collin Murray-Boyles": [
+      {
+        "date": "2026-08-06",
+        "text": "NBA Trade Machine:Donte DiVincenzo was part of 10.6% of the trades built on HoopsMatic over the past 24 hours. Of those trades, his top destinations were Memphis (12.3%), New Orleans (11.7%), and Toronto (11.7%).The most common players sent back for him were Collin Murray-Boyles (11.1%), Ja'Kobe Walter (7.6%), and Trayce Jackson-Davis (7.6%).HoopsMatic",
+        "text_html": "NBA Trade Machine: <a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">Donte DiVincenzo was part of 10.6% of the trades built on HoopsMatic over the past 24 hours. Of those trades, his top destinations were Memphis (12.3%), New Orleans (11.7%), and Toronto (11.7%).</a> The most common players sent back for him were Collin Murray-Boyles (11.1%), Ja'Kobe Walter (7.6%), and Trayce Jackson-Davis (7.6%).",
+        "outlet": "HoopsMatic",
+        "source_url": "https://hoopsmatic.com/"
+      }
+    ],
     "Peyton Watson": [
+      {
+        "date": "2026-08-06",
+        "text": "Oh No He Didn't: Shams on Peyton Watson:\"They are in active trade talks with multiple teams on a Peyton Watson sign and trade. That includes Cleveland, Milwaukee, and the Clippers. There are combinations of player packages, pick packages as well. So either they're gonna trade him, or you could potentially have him back on a 1-year, $6.5 million qualifying offer\"x.com",
+        "text_html": "Oh No He Didn't: Shams on Peyton Watson: <a href=\"https://x.com/ohnohedidnt24/status/2085450458022207555\" target=\"_blank\" style=\"color: #1a73e8;\">\"They are in active trade talks with multiple teams on a Peyton Watson sign and trade. That includes Cleveland, Milwaukee, and the Clippers. There are combinations of player packages, pick packages as well. So either they're gonna trade him, or you could potentially have him back on a 1-year, $6.5 million qualifying offer\"</a>",
+        "outlet": "x.com",
+        "source_url": "https://x.com/ohnohedidnt24/status/2085450458022207555"
+      },
       {
         "date": "2026-08-06",
         "text": "But while the Bucks are\u00a0interested\u00a0in the 23-year-old forward, league\u00a0sources\u00a0maintain they expect the Bucks to be hesitant to include a first-round pick in any deal for Peyton Watson as they continue building out their asset base post-Antetokounmpo. Without giving up a first-round pick, the Nuggets would have to derive much of the value of a sign-and-trade with the Bucks from the player (or players) involved in the deal. While other teams\u00a0interested\u00a0in Watson might be giving up fringe rotation players with a first-rounder, the Bucks might need to include real rotation players to entice the Nuggets to consider their offer.New York Times",
@@ -1426,127 +1626,6 @@
         "source_url": "https://bleacherreport.com/videos/e727e89b-2373-49ea-a0ab-4cefe2aaedf1-nba-insiders-at-summer-league"
       }
     ],
-    "Jaylen Brown": [
-      {
-        "date": "2026-08-06",
-        "text": "NBABase:The Warriors 'could have matched or exceeded' Philadelphia\u2019s offer for Jaylen Brown, but negotiations with the Celtics never advanced, per @DannyEmerman \u201cConversations between the Warriors and the Celtics never got really serious. I think it was kind of like a preliminary stage situation...I think the Warriors could have matched or exceeded Philadelphia's offer fairly easily, and Jaylen Brown is the exact type of player that they need. They need someone who can carry them through the regular season to take the load off of Steph Curry, and that's even independent of if adding Jaylen Brown might have put them over the top for LeBron James.\u201d (Via @CelticsCLNS)x.com",
-        "text_html": "NBABase: <a href=\"https://x.com/TheNBABase/status/2085159667664306332\" target=\"_blank\" style=\"color: #1a73e8;\">The Warriors 'could have matched or exceeded' Philadelphia\u2019s offer for Jaylen Brown, but negotiations with the Celtics never advanced, per @DannyEmerman \u201cConversations between the Warriors and the Celtics never got really serious. I think it was kind of like a preliminary stage situation...</a> I think the Warriors could have matched or exceeded Philadelphia's offer fairly easily, and Jaylen Brown is the exact type of player that they need. They need someone who can carry them through the regular season to take the load off of Steph Curry, and that's even independent of if adding Jaylen Brown might have put them over the top for LeBron James.\u201d (Via @CelticsCLNS)",
-        "outlet": "x.com",
-        "source_url": "https://x.com/TheNBABase/status/2085159667664306332"
-      },
-      {
-        "date": "2026-07-30",
-        "text": "There's a belief that the Sixers entered the picture only because former Warriors executive Bob Myers helped swing a blockbuster trade for Jaylen Brown on July 1, boosting the supporting cast and luring James to look in their direction. Several days prior,the Boston Celtics called the Warriors about Brown near the draft, league sources said, testing Golden State's temperature about a trade for four first-round picks and another first-round swap in an effort to beef up the Celtics' own offer to Milwaukee for Giannis Antetokounmpo.ESPN",
-        "text_html": "There's a belief that the Sixers entered the picture only because former Warriors executive Bob Myers helped swing a blockbuster trade for Jaylen Brown on July 1, boosting the supporting cast and luring James to look in their direction. Several days prior, <a href=\"https://www.espn.com/nba/story/_/id/49473905/warriors-running-back-steph-curry-era-enters-another-crossroads%EF%BB%BF-lebron-james-offseason\" target=\"_blank\" style=\"color: #1a73e8;\">the Boston Celtics called the Warriors about Brown near the draft, league sources said, testing Golden State's temperature about a trade for four first-round picks and another first-round swap in an effort to beef up the Celtics' own offer to Milwaukee for Giannis Antetokounmpo</a>.",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/49473905/warriors-running-back-steph-curry-era-enters-another-crossroads%EF%BB%BF-lebron-james-offseason"
-      },
-      {
-        "date": "2026-07-29",
-        "text": "NBA Courtside:Rich Paul says LeBron WASN\u2019T even considering the 76ers before the Jaylen Brown trade:\u201cWe never heard from the Sixers because the Sixers never really thought it was even a chance and I talked about why. We talked about other things, obviously I talk to Tyrese all the time. No never even thought it was a chance. We started having conversations about just basketball in its self, how things can play out what it actually takes to win where you know, not to get into everything but there was several conversations and as you know all these decisions are layered.\u201dx.com",
-        "text_html": "NBA Courtside: <a href=\"https://x.com/NBA__Courtside/status/2082415737847615655\" target=\"_blank\" style=\"color: #1a73e8;\">Rich Paul says LeBron WASN\u2019T even considering the 76ers before the Jaylen Brown trade:</a> \u201cWe never heard from the Sixers because the Sixers never really thought it was even a chance and I talked about why. We talked about other things, obviously I talk to Tyrese all the time. No never even thought it was a chance. We started having conversations about just basketball in its self, how things can play out what it actually takes to win where you know, not to get into everything but there was several conversations and as you know all these decisions are layered.\u201d",
-        "outlet": "x.com",
-        "source_url": "https://x.com/NBA__Courtside/status/2082415737847615655"
-      },
-      {
-        "date": "2026-07-28",
-        "text": "Before the 76ers had a chance to get Brown, NBA insider Shams Charania revealed that the Warriors had a shot at trading for the 2024 NBA Finals MVP five months ago.\u201cThe Warriors could\u2019ve got in the Jaylen Brown sweepstakes if they wanted to give up four first-round picks-ish, in that range. They decided not to, from my understanding,\u201d Charania said on Monday\u2019s \u201cThe Stephen A. Smith Show.\u201dPro Football Network",
-        "text_html": "Before the 76ers had a chance to get Brown, NBA insider Shams Charania revealed that the Warriors had a shot at trading for the 2024 NBA Finals MVP five months ago. <a href=\"https://www.profootballnetwork.com/nba/lebron-james-viable-nba-insider-reveals-why-warriors-passed-jaylen-brown/\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cThe Warriors could\u2019ve got in the Jaylen Brown sweepstakes if they wanted to give up four first-round picks-ish, in that range. They decided not to, from my understanding,\u201d Charania said on Monday\u2019s \u201cThe Stephen A. Smith Show.\u201d</a>",
-        "outlet": "Pro Football Network",
-        "source_url": "https://www.profootballnetwork.com/nba/lebron-james-viable-nba-insider-reveals-why-warriors-passed-jaylen-brown/"
-      },
-      {
-        "date": "2026-07-16",
-        "text": "Heat Central:\u201cHeat, complete contender the moment he gets there. The Warriors would need a little work still. The big thing with the Warriors was packaging LeBron James with another star player\u2026. There\u2019s been no real traction on the Warriors and AD\u2026 They are to my knowledge behind other teams such as a Miami, CLE, PHI.\u201dShams also mentioned the Sixers didn\u2019t even get on his list until they got Jaylen Brown.x.com",
-        "text_html": "Heat Central: <a href=\"https://x.com/TheHeatCentral/status/2077819394848157916?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cHeat, complete contender the moment he gets there. The Warriors would need a little work still. The big thing with the Warriors was packaging LeBron James with another star player\u2026. There\u2019s been no real traction on the Warriors and AD\u2026 They are to my knowledge behind other teams such as a Miami, CLE, PHI.\u201d</a> Shams also mentioned the Sixers didn\u2019t even get on his list until they got Jaylen Brown.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/TheHeatCentral/status/2077819394848157916?s=20"
-      },
-      {
-        "date": "2026-07-16",
-        "text": "Tatum recently made an appearance at ESPN's ESPY Awards on Wednesday. He was asked about how he feels about Brown getting traded and how he sees his future with his former duo no longer by his side.\"To be transparent, it's weird,\" Tatum said. \"I've been on the Celtics for nine years, and he was my teammate. You understand throughout the course of your career that the NBA is a business, and people change teams ... but it doesn't make it any easier... But there's also a side of, like, you have to welcome our new teammates.\"basketballnews.com",
-        "text_html": "Tatum recently made an appearance at ESPN's ESPY Awards on Wednesday. He was asked about how he feels about Brown getting traded and how he sees his future with his former duo no longer by his side. <a href=\"https://www.basketballnews.com/news/basketballnews-nba-active-news-to-be-transparent-its-weird-jayson-tatum-gets-honest-on-jaylen-brown-getting-traded/\" target=\"_blank\" style=\"color: #1a73e8;\">\"To be transparent, it's weird,\" Tatum said. \"I've been on the Celtics for nine years, and he was my teammate. You understand throughout the course of your career that the NBA is a business, and people change teams ... but it doesn't make it any easier</a> ... But there's also a side of, like, you have to welcome our new teammates.\"",
-        "outlet": "basketballnews.com",
-        "source_url": "https://www.basketballnews.com/news/basketballnews-nba-active-news-to-be-transparent-its-weird-jayson-tatum-gets-honest-on-jaylen-brown-getting-traded/"
-      },
-      {
-        "date": "2026-07-15",
-        "text": "The Timberwolves had talks with the Celtics about Jaylen Brown, the Milwaukee Bucks about Giannis Antetokounmpo and the Chicago Bulls about Josh Giddey,according to team sources who granted anonymity so they could talk about sensitive negotiations. Brown was intriguing, but the Celtics were asking for a king\u2019s ransom that included Gobert and heavy draft capital. There were also debates about how Edwards and Brown would fit together as two ISO-heavy scorers on offense. Connelly had given chase to Antetokounmpo before last season and at the trade deadline, but the Wolves never got close on a deal there either, sources said. Giddey was another big guard to potentially pair with Edwards, but there was little traction on talks there.New York Times",
-        "text_html": "<a href=\"https://www.nytimes.com/athletic/7446271/2026/07/15/lamelo-ball-timberwolves-introduction-anthony-edwards/?unlocked_article_code=1.x1A.BnZC.Vx9Vas52G5CN&source=emp_shared_article&smid=ta-ios-share\" target=\"_blank\" style=\"color: #1a73e8;\">The Timberwolves had talks with the Celtics about Jaylen Brown, the Milwaukee Bucks about Giannis Antetokounmpo and the Chicago Bulls about Josh Giddey,</a> according to team sources who granted anonymity so they could talk about sensitive negotiations. Brown was intriguing, but the Celtics were asking for a king\u2019s ransom that included Gobert and heavy draft capital. There were also debates about how Edwards and Brown would fit together as two ISO-heavy scorers on offense. Connelly had given chase to Antetokounmpo before last season and at the trade deadline, but the Wolves never got close on a deal there either, sources said. Giddey was another big guard to potentially pair with Edwards, but there was little traction on talks there.",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/7446271/2026/07/15/lamelo-ball-timberwolves-introduction-anthony-edwards/?unlocked_article_code=1.x1A.BnZC.Vx9Vas52G5CN&source=emp_shared_article&smid=ta-ios-share"
-      },
-      {
-        "date": "2026-07-15",
-        "text": "He shared that he was not surprised at all when it was revealed that the Celtics shipped Brown to the 76ers, acknowledging the business side of the NBA.\u201cYou can't be stunned. It's the NBA, man. Luka Doncic got traded in the middle of the night. Nothing's out of the realm for me anymore as an NBA player,\u201d stated Durant.Clutch Points",
-        "text_html": "He shared that he was not surprised at all when it was revealed that the Celtics shipped Brown to the 76ers, acknowledging the business side of the NBA. <a href=\"https://clutchpoints.com/nba/philadelphia-76ers/76ers-news-kevin-durant-declaration-jaylen-brown-fit-philadelphia\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cYou can't be stunned. It's the NBA, man. Luka Doncic got traded in the middle of the night. Nothing's out of the realm for me anymore as an NBA player,\u201d stated Durant</a>.",
-        "outlet": "Clutch Points",
-        "source_url": "https://clutchpoints.com/nba/philadelphia-76ers/76ers-news-kevin-durant-declaration-jaylen-brown-fit-philadelphia"
-      },
-      {
-        "date": "2026-07-12",
-        "text": "As Derrick White and Jordan Walsh went through a workout on one of the Cox Pavilion courts Saturday morning, head coach Joe Mazzulla detailed the respect he has for Brown, what Boston will miss most about him and the need to create a new path forward without him. After 10 highly successful seasons with Brown, Boston will take on a different look with Paul George, Mitchell Robinson and Mike Conley now on the roster.\u201cThere needs to be a grieving process for losing not just a player in Jaylen, but a\u00a0person\u00a0in Jaylen,\u201d Mazzulla said in an interview with\u00a0The Athletic.\u201cThere needs to be a grieving process that this guy, what he has done on the court and what he\u2019s done in the community and what he\u2019s done for the city of Boston, there should be a grieving process. But the \u2026 gray area is throughout that loss, you\u2019re also gaining.\u201dNew York Times",
-        "text_html": "As Derrick White and Jordan Walsh went through a workout on one of the Cox Pavilion courts Saturday morning, head coach Joe Mazzulla detailed the respect he has for Brown, what Boston will miss most about him and the need to create a new path forward without him. After 10 highly successful seasons with Brown, Boston will take on a different look with Paul George, Mitchell Robinson and Mike Conley now on the roster. <a href=\"https://www.nytimes.com/athletic/7439198/2026/07/12/celtics-joe-mazzulla-jaylen-brown-trade/\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cThere needs to be a grieving process for losing not just a player in Jaylen, but a person in Jaylen,\u201d Mazzulla said in an interview with The Athletic.</a> \u201cThere needs to be a grieving process that this guy, what he has done on the court and what he\u2019s done in the community and what he\u2019s done for the city of Boston, there should be a grieving process. But the \u2026 gray area is throughout that loss, you\u2019re also gaining.\u201d",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/7439198/2026/07/12/celtics-joe-mazzulla-jaylen-brown-trade/"
-      },
-      {
-        "date": "2026-07-12",
-        "text": "Mazzulla said he empathized with Brown throughout the situation.\u201cHonestly, when some of the trade stuff was starting to happen, there were other guys on our roster that were impacted emotionally as well because their names were in it as well,\u201d Mazzulla said.\u201cI think the thing that\u2019s different is obviously having a respect and an\u00a0understanding\u00a0of what Jaylen has done for the Celtics for 10 years. So, there\u2019s a difference between maybe a young guy going through something and a guy like Jaylen, who has accomplished so much and done what he\u2019s done for the organization going through it. And so, you definitely have a higher sense of empathy for that.\u201dNew York Times",
-        "text_html": "Mazzulla said he empathized with Brown throughout the situation. <a href=\"https://www.nytimes.com/athletic/7439198/2026/07/12/celtics-joe-mazzulla-jaylen-brown-trade/\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cHonestly, when some of the trade stuff was starting to happen, there were other guys on our roster that were impacted emotionally as well because their names were in it as well,\u201d Mazzulla said.</a> \u201cI think the thing that\u2019s different is obviously having a respect and an understanding of what Jaylen has done for the Celtics for 10 years. So, there\u2019s a difference between maybe a young guy going through something and a guy like Jaylen, who has accomplished so much and done what he\u2019s done for the organization going through it. And so, you definitely have a higher sense of empathy for that.\u201d",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/7439198/2026/07/12/celtics-joe-mazzulla-jaylen-brown-trade/"
-      },
-      {
-        "date": "2026-07-12",
-        "text": "Like almost everyone else, though, Nurse was floored by Philly acquiring Jaylen Brown from the Boston Celtics. Nurse has spent his summer bracing for a roster with a suddenly higher floor and ceiling after the 76ers had 45 wins and the East\u2019s No. 7 seed last season. More importantly, his preparation for coaching Brown may mirror his prep for Kawhi Leonard, who led the Nurse-coached Toronto Raptors to the 2019 NBA title.\u201cMy first thoughts are that I\u2019ve had a lot of battles against him,\u201d Nurse\u00a0told\u00a0a select group of reporters Saturday morning, referring to Brown. \u201cYou watch him get a lot better from year to year and how much harder it became to game plan for him and things like that.He\u2019s won a lot. Obviously, he\u2019s won a title and a finals MVP. I think he\u2019s a two-way player, and I think he\u2019s versatile. I think he\u2019s right there, sitting in his prime. It\u2019s amazing that he\u2019s a Sixer.\u201dNew York Times",
-        "text_html": "Like almost everyone else, though, Nurse was floored by Philly acquiring Jaylen Brown from the Boston Celtics. Nurse has spent his summer bracing for a roster with a suddenly higher floor and ceiling after the 76ers had 45 wins and the East\u2019s No. 7 seed last season. More importantly, his preparation for coaching Brown may mirror his prep for Kawhi Leonard, who led the Nurse-coached Toronto Raptors to the 2019 NBA title. <a href=\"https://www.nytimes.com/athletic/7439445/2026/07/12/76ers-jaylen-brown-trade-nick-nurse/\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cMy first thoughts are that I\u2019ve had a lot of battles against him,\u201d Nurse told a select group of reporters Saturday morning, referring to Brown. \u201cYou watch him get a lot better from year to year and how much harder it became to game plan for him and things like that.</a> He\u2019s won a lot. Obviously, he\u2019s won a title and a finals MVP. I think he\u2019s a two-way player, and I think he\u2019s versatile. I think he\u2019s right there, sitting in his prime. It\u2019s amazing that he\u2019s a Sixer.\u201d",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/7439445/2026/07/12/76ers-jaylen-brown-trade-nick-nurse/"
-      },
-      {
-        "date": "2026-07-12",
-        "text": "SiriusXM NBA Radio:\u201cThe only thing more shocking I\u2019ve seen this year other than Anunoby\u2019s tip-in was that trade\" Tim Legler shares his reaction to the 76ers-Celtics blockbuster tradewith @termineradio, @Jumpshot8, and Ryan McDonoughx.com",
-        "text_html": "SiriusXM NBA Radio: <a href=\"https://x.com/SiriusXMNBA/status/2076122944980332584\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cThe only thing more shocking I\u2019ve seen this year other than Anunoby\u2019s tip-in was that trade\" Tim Legler shares his reaction to the 76ers-Celtics blockbuster trade</a> with @termineradio, @Jumpshot8, and Ryan McDonough",
-        "outlet": "x.com",
-        "source_url": "https://x.com/SiriusXMNBA/status/2076122944980332584"
-      },
-      {
-        "date": "2026-07-11",
-        "text": "Derrick White was home with his wife when he found out that Jaylen Brown, one of his longest-tenured teammates, had been traded.\u201cIt\u2019s tough to see someone get traded, and JB\u2019s been an amazing teammate, amazing friend to me, and kind of welcomed me when I got traded to Boston,\u201d he said.\u201cSo I\u2019m always thankful for my time that I spent with JB, and it\u2019s obviously always tough to get traded, and I know how that feels.\u201d White said he reached out to Brown soon after the trade with a simple message: \u201cThank you for everything you did for me.\u201dCeltics Blog",
-        "text_html": "Derrick White was home with his wife when he found out that Jaylen Brown, one of his longest-tenured teammates, had been traded. <a href=\"https://www.celticsblog.com/boston-celtics-news/143400/jaylen-brown-trade-derrick-white-neemias-queta-hugo-gonzalez\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cIt\u2019s tough to see someone get traded, and JB\u2019s been an amazing teammate, amazing friend to me, and kind of welcomed me when I got traded to Boston,\u201d he said.</a> \u201cSo I\u2019m always thankful for my time that I spent with JB, and it\u2019s obviously always tough to get traded, and I know how that feels.\u201d White said he reached out to Brown soon after the trade with a simple message: \u201cThank you for everything you did for me.\u201d",
-        "outlet": "Celtics Blog",
-        "source_url": "https://www.celticsblog.com/boston-celtics-news/143400/jaylen-brown-trade-derrick-white-neemias-queta-hugo-gonzalez"
-      },
-      {
-        "date": "2026-07-11",
-        "text": "Bobby Krivitsky: I asked Derrick White about how he\u2019s processing the Jaylen Brown trade, both in terms of their relationship and what this means for his role or what the Celtics will need from him going forward.\u201cTell him thank you for everything he did for me, and just know how much he means to me.\u201dtrade, both in terms of their relationship and what this means for his role or what the Celtics will need from him going forward. \u201cTell him thank you for everything he did for me, and just know how much he means tox.com",
-        "text_html": "Bobby Krivitsky: I asked Derrick White about how he\u2019s processing the Jaylen Brown trade, both in terms of their relationship and what this means for his role or what the Celtics will need from him going forward. <a href=\"https://x.com/BobbyKrivitsky/status/2075767847725473932\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cTell him thank you for everything he did for me, and just know how much he means to me.\u201dtrade, both in terms of their relationship and what this means for his role or what the Celtics will need from him going forward</a>. \u201cTell him thank you for everything he did for me, and just know how much he means to",
-        "outlet": "x.com",
-        "source_url": "https://x.com/BobbyKrivitsky/status/2075767847725473932"
-      },
-      {
-        "date": "2026-07-11",
-        "text": "Neemias Queta, who has been teammates with Brown for three years, also spoke to reporters on Friday night for the first time since the trade. \u201cIt\u2019s not easy,\u201d Queta said. \u201cI think you feel for him. Obviously, it wasn\u2019t easy for him as well. But at the end of the day, it\u2019s part of the business. You know what\u2019s happening. You know it can happen at any moment.But Jaylen\u2019s a guy that you can\u2019t replace in the city. Really, really hard to replace on the court as well. He did so much for Boston in general, and he will definitely be missed.\u201dCeltics Blog",
-        "text_html": "Neemias Queta, who has been teammates with Brown for three years, also spoke to reporters on Friday night for the first time since the trade. \u201cIt\u2019s not easy,\u201d Queta said. \u201cI think you feel for him. Obviously, it wasn\u2019t easy for him as well. But at the end of the day, it\u2019s part of the business. You know what\u2019s happening. You know it can happen at any moment. <a href=\"https://www.celticsblog.com/boston-celtics-news/143400/jaylen-brown-trade-derrick-white-neemias-queta-hugo-gonzalez\" target=\"_blank\" style=\"color: #1a73e8;\">But Jaylen\u2019s a guy that you can\u2019t replace in the city. Really, really hard to replace on the court as well. He did so much for Boston in general, and he will definitely be missed.\u201d</a>",
-        "outlet": "Celtics Blog",
-        "source_url": "https://www.celticsblog.com/boston-celtics-news/143400/jaylen-brown-trade-derrick-white-neemias-queta-hugo-gonzalez"
-      },
-      {
-        "date": "2026-07-10",
-        "text": "IShowSpeed: \"You going to Philly? You going to tell them to pick me up, bro?\" Jaylen Brown: \"That's a crazy business, bro.Don't become a basketball player. There's no loyalty.\"IShowSpeed: \"What happened? You just got traded?\" Jaylen Brown: \"That's a good question. I think a lot of people want to hear that. I don't know. I just got packed up.\"YouTube",
-        "text_html": "IShowSpeed: \"You going to Philly? You going to tell them to pick me up, bro?\" Jaylen Brown: \"That's a crazy business, bro. <a href=\"https://www.youtube.com/watch?v=fhfEGJagsmE&t=8s\" target=\"_blank\" style=\"color: #1a73e8;\">Don't become a basketball player. There's no loyalty.\"</a> IShowSpeed: \"What happened? You just got traded?\" Jaylen Brown: \"That's a good question. I think a lot of people want to hear that. I don't know. I just got packed up.\"",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=fhfEGJagsmE&t=8s"
-      },
-      {
-        "date": "2026-07-09",
-        "text": "Kevin Garnett on Jaylen Brown trade:It\u2019s like Minnesota kicking themselves over the KAT trade. I think Boston gonna look back on this. It\u2019s like when KD left Golden State and then he turned around like what the fu*k, like this one of the moments where you don\u2019t break a great thing up. This is a great thing.They just had to you know and then two, man. Keep it real man those two have been tested through the think time and time. So this is just relationship it ain\u2019t always going to be great. You know what I\u2019m saying? But it would have to be something detrimental for me to break that up.YouTube",
-        "text_html": "Kevin Garnett on Jaylen Brown trade: <a href=\"https://www.youtube.com/watch?v=p5ggEecBtbw\" target=\"_blank\" style=\"color: #1a73e8;\">It\u2019s like Minnesota kicking themselves over the KAT trade. I think Boston gonna look back on this. It\u2019s like when KD left Golden State and then he turned around like what the fu*k, like this one of the moments where you don\u2019t break a great thing up. This is a great thing.</a> They just had to you know and then two, man. Keep it real man those two have been tested through the think time and time. So this is just relationship it ain\u2019t always going to be great. You know what I\u2019m saying? But it would have to be something detrimental for me to break that up.",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=p5ggEecBtbw"
-      }
-    ],
     "Domantas Sabonis": [
       {
         "date": "2026-08-05",
@@ -1834,13 +1913,6 @@
         "text_html": "Amid all the speculation, NBA insider Marc Stein spoke about what he anticipates the Mavericks will do as the offseason remains in full swing, per Bleacher Report. Essentially, Stein expects the Mavericks to be open to trading Thompson, and that would be their starting point. <a href=\"https://clutchpoints.com/nba/dallas-mavericks/mavericks-news-klay-thompson-heat-rumors\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cTo this point as much has been relayed to me is the Mavs preference would be a trade, Stein said. \u201cI think it\u2019s still early enough in the summer that if you\u2019re the Mavs you would exhaust those options first, but there\u2019s stuff we have to keep an eye on it.\u201d</a>",
         "outlet": "Clutch Points",
         "source_url": "https://clutchpoints.com/nba/dallas-mavericks/mavericks-news-klay-thompson-heat-rumors"
-      },
-      {
-        "date": "2026-07-09",
-        "text": "Heat Central: Marc Stein on a possible Klay Thompson buyout: \u201cTo this point as much has been relayed to me is the Mavs preference would be a trade.I think it\u2019s still early enough in the summer that if you\u2019re the Mavs you would exhaust those options first, but there\u2019s stuff we have to keep an eye on it.\u201dThe Heat are hoping Klay is one of the shooters that \u2018shake free\u2019 soon.x.com",
-        "text_html": "Heat Central: Marc Stein on a possible Klay Thompson buyout: \u201cTo this point as much has been relayed to me is the Mavs preference would be a trade. <a href=\"https://x.com/TheHeatCentral/status/2075317911489560651\" target=\"_blank\" style=\"color: #1a73e8;\">I think it\u2019s still early enough in the summer that if you\u2019re the Mavs you would exhaust those options first, but there\u2019s stuff we have to keep an eye on it.\u201d</a> The Heat are hoping Klay is one of the shooters that \u2018shake free\u2019 soon.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/TheHeatCentral/status/2075317911489560651"
       }
     ],
     "Nikola Jovic": [
@@ -1873,13 +1945,6 @@
         "text_html": "A February 4th game between the Celtics and the Houston Rockets served as an inflection point in Harper\u2019s season; he started for the first time in his career, guarded Rockets star Kevin Durant, and showed himself \u2014 and the world \u2014 he belonged. It\u2019s a game that Joe Mazzulla has pointed to as well in that it showcased Harper\u2019s readiness and preparation. \u201cThe first time I really played meaningful minutes was when I started in Houston, and that kind of came to be because of the Anfernee trade, and it happened all really fast,\u201d Harper said. <a href=\"https://www.celticsblog.com/boston-celtics-news/144553/ron-harper-jr-celtics-contract-paul-george\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cBut I feel like after that game where I started and I played all those minutes, and I played well, I felt like after that point I felt like I\u2019d be a real contributor to this team and a part of bringing this team back to the championship.</a> So, that\u2019s something I look forward to doing next year.\u201d",
         "outlet": "Celtics Blog",
         "source_url": "https://www.celticsblog.com/boston-celtics-news/144553/ron-harper-jr-celtics-contract-paul-george"
-      },
-      {
-        "date": "2026-07-09",
-        "text": "Kevin Garnett on Jaylen Brown trade:It\u2019s like Minnesota kicking themselves over the KAT trade. I think Boston gonna look back on this. It\u2019s like when KD left Golden State and then he turned around like what the fu*k, like this one of the moments where you don\u2019t break a great thing up. This is a great thing.They just had to you know and then two, man. Keep it real man those two have been tested through the think time and time. So this is just relationship it ain\u2019t always going to be great. You know what I\u2019m saying? But it would have to be something detrimental for me to break that up.YouTube",
-        "text_html": "Kevin Garnett on Jaylen Brown trade: <a href=\"https://www.youtube.com/watch?v=p5ggEecBtbw\" target=\"_blank\" style=\"color: #1a73e8;\">It\u2019s like Minnesota kicking themselves over the KAT trade. I think Boston gonna look back on this. It\u2019s like when KD left Golden State and then he turned around like what the fu*k, like this one of the moments where you don\u2019t break a great thing up. This is a great thing.</a> They just had to you know and then two, man. Keep it real man those two have been tested through the think time and time. So this is just relationship it ain\u2019t always going to be great. You know what I\u2019m saying? But it would have to be something detrimental for me to break that up.",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=p5ggEecBtbw"
       }
     ],
     "Ron Harper Jr": [
@@ -2185,48 +2250,6 @@
         "text_html": "The Clippers explored Leonard's trade market for weeks, sources say, before coming to terms on a deal with Toronto. And ... They did so, <a href=\"https://marcstein.substack.com/p/the-latest-on-the-raptors-would-be?r=5jkm20&utm_medium=ios&triedRedirect=true\" target=\"_blank\" style=\"color: #1a73e8;\">sources say, under the impression from the league office that the eventual outcome of the NBA's ongoing investigation into alleged cap impropriety involving Leonard and third-party business sponsor Aspiration would not have any impact on trading their star forward away</a>.",
         "outlet": "marcstein.substack.com",
         "source_url": "https://marcstein.substack.com/p/the-latest-on-the-raptors-would-be?r=5jkm20&utm_medium=ios&triedRedirect=true"
-      },
-      {
-        "date": "2026-07-09",
-        "text": "Marc Stein: NBA spokesperson to @TheSteinLine on the league\u2019s investigation into Kawhi Leonard\u2019s contract with the Clippers:\u201cWe don\u2019t have a specific timeline for the conclusion of the investigation\u00a0but expect the firm to finalize its work in the coming weeks.\"x.com",
-        "text_html": "Marc Stein: NBA spokesperson to @TheSteinLine on the league\u2019s investigation into Kawhi Leonard\u2019s contract with the Clippers: <a href=\"https://x.com/TheSteinLine/status/2075338107168358627\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cWe don\u2019t have a specific timeline for the conclusion of the investigation but expect the firm to finalize its work in the coming weeks.\"</a>",
-        "outlet": "x.com",
-        "source_url": "https://x.com/TheSteinLine/status/2075338107168358627"
-      },
-      {
-        "date": "2026-07-09",
-        "text": "Oh No He Didn't: Shams on Kawhi trade:\"The expectation around all sides is that this deal will end up happening at the end of the day\"x.com",
-        "text_html": "Oh No He Didn't: Shams on Kawhi trade: <a href=\"https://x.com/ohnohedidnt24/status/2075295588434813329\" target=\"_blank\" style=\"color: #1a73e8;\">\"The expectation around all sides is that this deal will end up happening at the end of the day\"</a>",
-        "outlet": "x.com",
-        "source_url": "https://x.com/ohnohedidnt24/status/2075295588434813329"
-      },
-      {
-        "date": "2026-07-09",
-        "text": "Shams Charania: Developing:The Los Angeles Clippers-Toronto Raptors trade centered on Kawhi Leonard will not be complete until the NBA investigation into the Clippers is over.Statement from the Clippers to ESPN: For the past 10 months, our organization has fully cooperated with an NBA investigation, participating in dozens of interviews, providing tens of thousands of documents, and facilitating access to our staff. While the process has been challenging, we have remained committed to transparency.x.com",
-        "text_html": "Shams Charania: Developing: <a href=\"https://x.com/ShamsCharania/status/2075293917118136739\" target=\"_blank\" style=\"color: #1a73e8;\">The Los Angeles Clippers-Toronto Raptors trade centered on Kawhi Leonard will not be complete until the NBA investigation into the Clippers is over.</a> Statement from the Clippers to ESPN: For the past 10 months, our organization has fully cooperated with an NBA investigation, participating in dozens of interviews, providing tens of thousands of documents, and facilitating access to our staff. While the process has been challenging, we have remained committed to transparency.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/ShamsCharania/status/2075293917118136739"
-      },
-      {
-        "date": "2026-07-09",
-        "text": "Shams Charania: Clippers statement:On June 30, we reached an agreement in principle to trade Kawhi Leonard to the Toronto Raptors. We have since been informed that the trade can only be finalized if the Raptors' ownership group assumes the risk of penalties related to Kawhi\u2019s contract that could theoretically result from the ongoing investigation.The investigation is ongoing, and we expect the trade to be finalized following its conclusion.x.com",
-        "text_html": "Shams Charania: Clippers statement: <a href=\"https://x.com/ShamsCharania/status/2075293917118136739\" target=\"_blank\" style=\"color: #1a73e8;\">On June 30, we reached an agreement in principle to trade Kawhi Leonard to the Toronto Raptors. We have since been informed that the trade can only be finalized if the Raptors' ownership group assumes the risk of penalties related to Kawhi\u2019s contract that could theoretically result from the ongoing investigation.</a> The investigation is ongoing, and we expect the trade to be finalized following its conclusion.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/ShamsCharania/status/2075293917118136739"
-      },
-      {
-        "date": "2026-07-09",
-        "text": "Shams Charania: Clippers statement: At the heart of this investigation are Joe Sanberg and Aspiration. We did not funnel money to Kawhi Leonard through Aspiration. Like many sophisticated investors, financial institutions, and business partners, we were victims of a fraud initiated by Sanberg, who has been convicted and sentenced to 14 years in prison. We recognize the uncertainty this has created and the impact it has had on our team, our fans, the Raptors organization, their fans, and the players whose futures remain affected while this process continues.We remain confident that, when the facts are evaluated fairly and thoroughly, the NBA will confirm exactly what we have said from the beginning: We have not done what we are accused of doing.x.com",
-        "text_html": "Shams Charania: Clippers statement: At the heart of this investigation are Joe Sanberg and Aspiration. We did not funnel money to Kawhi Leonard through Aspiration. Like many sophisticated investors, financial institutions, and business partners, we were victims of a fraud initiated by Sanberg, who has been convicted and sentenced to 14 years in prison. We recognize the uncertainty this has created and the impact it has had on our team, our fans, the Raptors organization, their fans, and the players whose futures remain affected while this process continues. <a href=\"https://x.com/ShamsCharania/status/2075293917118136739\" target=\"_blank\" style=\"color: #1a73e8;\">We remain confident that, when the facts are evaluated fairly and thoroughly, the NBA will confirm exactly what we have said from the beginning: We have not done what we are accused of doing</a>.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/ShamsCharania/status/2075293917118136739"
-      },
-      {
-        "date": "2026-07-09",
-        "text": "Marc Stein: Raptors statement: Regarding our planned trade with the LA Clippers for Kawhi Leonard, the NBA league office informed us that as a result of the ongoing investigation involving the Clippers,we would assume the risk of any potential outcome of the investigation impacting Kawhi. In light of this, we will wait until the league's investigation is complete.The Raptors remain eager to bring Kawhi back to Toronto and look forward to a swift resolution for our players, our organization and our fans.x.com",
-        "text_html": "Marc Stein: Raptors statement: Regarding our planned trade with the LA Clippers for Kawhi Leonard, the NBA league office informed us that as a result of the ongoing investigation involving the Clippers, <a href=\"https://x.com/TheSteinLine/status/2075294821019951608?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">we would assume the risk of any potential outcome of the investigation impacting Kawhi. In light of this, we will wait until the league's investigation is complete.</a> The Raptors remain eager to bring Kawhi back to Toronto and look forward to a swift resolution for our players, our organization and our fans.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/TheSteinLine/status/2075294821019951608?s=20"
       }
     ],
     "Dillon Brooks": [
@@ -3532,28 +3555,35 @@
         "text_html": "Despite the Philadelphia 76ers having already completed a blockbuster trade this offseason, Bill Simmons teased the possibility that they could trade star center Joel Embiid. <a href=\"https://basketnews.com/news-251749-bill-simmons-teases-another-possible-blockbuster-trade-for-76ers.html\" target=\"_blank\" style=\"color: #1a73e8;\">\"I think they're going to trade Joel Embiid and I think they want to. I think he's available, I think teams think he's available and I think Philly has been pretty careful</a> about saying 'we're so excited to build around Embiid, Jaylen, Maxey and VJ. You haven't heard a lot about that,\" Simmons said on the latest episode of The Bill Simmons podcast.",
         "outlet": "BasketNews",
         "source_url": "https://basketnews.com/news-251749-bill-simmons-teases-another-possible-blockbuster-trade-for-76ers.html"
-      },
-      {
-        "date": "2026-07-09",
-        "text": "The one player we didn't hear from was Joel Embiid. The former MVP didn't have a social media post greeting Brown nor did we hear anything about the two stars interacting. Some folks ran with the idea of Embiid being upset or him not being long for Philadelphia. Gansey poured cold water on that as a guest on 97.5 The Fanatic Thursday afternoon:\"He's excited. He's in a really good space right now. First offseason where he is really healthy going into it\u2026 He's fired up. I called him right after the trade, and he is excited.Surprised, but he was excited\u2026 It's obviously going to be a big change, but I think they're welcoming it and they're kind of excited to get the group together.\"Yahoo! Sports",
-        "text_html": "The one player we didn't hear from was Joel Embiid. The former MVP didn't have a social media post greeting Brown nor did we hear anything about the two stars interacting. Some folks ran with the idea of Embiid being upset or him not being long for Philadelphia. Gansey poured cold water on that as a guest on 97.5 The Fanatic Thursday afternoon: <a href=\"https://sports.yahoo.com/articles/mike-gansey-says-joel-embiid-190756412.html\" target=\"_blank\" style=\"color: #1a73e8;\">\"He's excited. He's in a really good space right now. First offseason where he is really healthy going into it\u2026 He's fired up. I called him right after the trade, and he is excited.</a> Surprised, but he was excited\u2026 It's obviously going to be a big change, but I think they're welcoming it and they're kind of excited to get the group together.\"",
-        "outlet": "Yahoo! Sports",
-        "source_url": "https://sports.yahoo.com/articles/mike-gansey-says-joel-embiid-190756412.html"
-      }
-    ],
-    "Tari Eason": [
-      {
-        "date": "2026-07-09",
-        "text": "Varun Shankar:Tari Eason contract details,per league source - Player option in 5th year - Ascending salary ($14.1 million, 15.2, 16.3, 17.4, 18.5) - 10% trade bonusx.com",
-        "text_html": "Varun Shankar: <a href=\"https://x.com/ByVarunShankar/status/2075367183644008822\" target=\"_blank\" style=\"color: #1a73e8;\">Tari Eason contract details,</a> per league source - Player option in 5th year - Ascending salary ($14.1 million, 15.2, 16.3, 17.4, 18.5) - 10% trade bonus",
-        "outlet": "x.com",
-        "source_url": "https://x.com/ByVarunShankar/status/2075367183644008822"
       }
     ]
   },
   "daily_counts": {
-    "Peyton Watson": {
+    "Jaylen Brown": {
       "2026-08-06": 2,
+      "2026-07-30": 1,
+      "2026-07-29": 1,
+      "2026-07-28": 1,
+      "2026-07-16": 2,
+      "2026-07-15": 2,
+      "2026-07-12": 4,
+      "2026-07-11": 3,
+      "2026-07-10": 1
+    },
+    "Donte DiVincenzo": {
+      "2026-08-06": 1
+    },
+    "Trayce Jackson-Davis": {
+      "2026-08-06": 1
+    },
+    "Ja'Kobe Walter": {
+      "2026-08-06": 1
+    },
+    "Collin Murray-Boyles": {
+      "2026-08-06": 1
+    },
+    "Peyton Watson": {
+      "2026-08-06": 3,
       "2026-08-05": 1,
       "2026-08-03": 2,
       "2026-07-31": 3,
@@ -3586,18 +3616,6 @@
       "2026-07-22": 3,
       "2026-07-17": 1,
       "2026-07-13": 2
-    },
-    "Jaylen Brown": {
-      "2026-08-06": 1,
-      "2026-07-30": 1,
-      "2026-07-29": 1,
-      "2026-07-28": 1,
-      "2026-07-16": 2,
-      "2026-07-15": 2,
-      "2026-07-12": 4,
-      "2026-07-11": 3,
-      "2026-07-10": 1,
-      "2026-07-09": 1
     },
     "Domantas Sabonis": {
       "2026-08-05": 2
@@ -3641,8 +3659,7 @@
       "2026-07-19": 3,
       "2026-07-15": 1,
       "2026-07-13": 1,
-      "2026-07-10": 1,
-      "2026-07-09": 1
+      "2026-07-10": 1
     },
     "Nikola Jovic": {
       "2026-08-05": 1,
@@ -3650,8 +3667,7 @@
       "2026-07-15": 1
     },
     "Kevin Durant": {
-      "2026-08-04": 1,
-      "2026-07-09": 1
+      "2026-08-04": 1
     },
     "Ron Harper Jr": {
       "2026-08-04": 2
@@ -3697,8 +3713,7 @@
       "2026-07-16": 4,
       "2026-07-15": 2,
       "2026-07-14": 4,
-      "2026-07-10": 2,
-      "2026-07-09": 6
+      "2026-07-10": 2
     },
     "Dillon Brooks": {
       "2026-07-31": 1
@@ -3967,11 +3982,7 @@
       "2026-07-10": 1
     },
     "Joel Embiid": {
-      "2026-07-10": 1,
-      "2026-07-09": 1
-    },
-    "Tari Eason": {
-      "2026-07-09": 1
+      "2026-07-10": 1
     }
   }
 }
