@@ -1,45 +1,45 @@
 {
-  "generated_at": "2026-08-08T19:29:20.437970",
+  "generated_at": "2026-08-09T03:00:49.833638",
   "scrape_window_days": 28,
-  "window_start": "2026-07-11",
-  "window_end": "2026-08-08",
-  "total_rumors": 294,
-  "total_players": 90,
+  "window_start": "2026-07-12",
+  "window_end": "2026-08-09",
+  "total_rumors": 285,
+  "total_players": 88,
   "rankings": [
     {
-      "player": "Klay Thompson",
-      "score": 10.0,
+      "player": "Peyton Watson",
+      "score": 10.75,
+      "mentions_week1": 7,
+      "mentions_week2": 6,
+      "mentions_weeks3_4": 3,
+      "total_mentions": 16,
+      "first_mention": "2026-07-14",
+      "last_mention": "2026-08-08",
+      "team": "Cleveland Cavaliers",
+      "rank": 1
+    },
+    {
+      "player": "Jonathan Kuminga",
+      "score": 10.25,
       "mentions_week1": 6,
-      "mentions_week2": 4,
+      "mentions_week2": 5,
+      "mentions_weeks3_4": 7,
+      "total_mentions": 18,
+      "first_mention": "2026-07-13",
+      "last_mention": "2026-08-08",
+      "team": "Golden State Warriors",
+      "rank": 2
+    },
+    {
+      "player": "Klay Thompson",
+      "score": 9.0,
+      "mentions_week1": 4,
+      "mentions_week2": 6,
       "mentions_weeks3_4": 8,
       "total_mentions": 18,
       "first_mention": "2026-07-13",
       "last_mention": "2026-08-07",
       "team": "Dallas Mavericks",
-      "rank": 1
-    },
-    {
-      "player": "Peyton Watson",
-      "score": 9.75,
-      "mentions_week1": 6,
-      "mentions_week2": 6,
-      "mentions_weeks3_4": 3,
-      "total_mentions": 15,
-      "first_mention": "2026-07-14",
-      "last_mention": "2026-08-06",
-      "team": "Cleveland Cavaliers",
-      "rank": 2
-    },
-    {
-      "player": "Jonathan Kuminga",
-      "score": 9.25,
-      "mentions_week1": 5,
-      "mentions_week2": 5,
-      "mentions_weeks3_4": 7,
-      "total_mentions": 17,
-      "first_mention": "2026-07-13",
-      "last_mention": "2026-08-07",
-      "team": "Golden State Warriors",
       "rank": 3
     },
     {
@@ -56,12 +56,12 @@
     },
     {
       "player": "Jaylen Brown",
-      "score": 6.25,
+      "score": 5.5,
       "mentions_week1": 2,
       "mentions_week2": 3,
-      "mentions_weeks3_4": 11,
-      "total_mentions": 16,
-      "first_mention": "2026-07-11",
+      "mentions_weeks3_4": 8,
+      "total_mentions": 13,
+      "first_mention": "2026-07-12",
       "last_mention": "2026-08-06",
       "team": "Boston Celtics",
       "rank": 5
@@ -151,30 +151,6 @@
       "rank": 12
     },
     {
-      "player": "PJ Washington",
-      "score": 2.75,
-      "mentions_week1": 2,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 3,
-      "total_mentions": 5,
-      "first_mention": "2026-07-11",
-      "last_mention": "2026-08-06",
-      "team": "Dallas Mavericks",
-      "rank": 13
-    },
-    {
-      "player": "Bobby Portis",
-      "score": 2.5,
-      "mentions_week1": 1,
-      "mentions_week2": 2,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 5,
-      "first_mention": "2026-07-12",
-      "last_mention": "2026-08-01",
-      "team": "Milwaukee Bucks",
-      "rank": 14
-    },
-    {
       "player": "Jimmy Butler",
       "score": 2.5,
       "mentions_week1": 1,
@@ -184,7 +160,19 @@
       "first_mention": "2026-07-28",
       "last_mention": "2026-08-05",
       "team": "Golden State Warriors",
-      "rank": 15
+      "rank": 13
+    },
+    {
+      "player": "PJ Washington",
+      "score": 2.5,
+      "mentions_week1": 2,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 2,
+      "total_mentions": 4,
+      "first_mention": "2026-07-19",
+      "last_mention": "2026-08-06",
+      "team": "Dallas Mavericks",
+      "rank": 14
     },
     {
       "player": "De'Aaron Fox",
@@ -196,31 +184,19 @@
       "first_mention": "2026-07-17",
       "last_mention": "2026-08-04",
       "team": "San Antonio Spurs",
-      "rank": 16
+      "rank": 15
     },
     {
-      "player": "Nikola Jovic",
-      "score": 2.25,
-      "mentions_week1": 2,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 3,
-      "first_mention": "2026-07-15",
-      "last_mention": "2026-08-05",
-      "team": "Dallas Mavericks",
-      "rank": 17
-    },
-    {
-      "player": "Moses Moody",
+      "player": "Bobby Portis",
       "score": 2.0,
-      "mentions_week1": 1,
-      "mentions_week2": 1,
+      "mentions_week1": 0,
+      "mentions_week2": 3,
       "mentions_weeks3_4": 2,
-      "total_mentions": 4,
-      "first_mention": "2026-07-11",
-      "last_mention": "2026-08-05",
-      "team": "Golden State Warriors",
-      "rank": 18
+      "total_mentions": 5,
+      "first_mention": "2026-07-12",
+      "last_mention": "2026-08-01",
+      "team": "Milwaukee Bucks",
+      "rank": 16
     },
     {
       "player": "Domantas Sabonis",
@@ -232,7 +208,7 @@
       "first_mention": "2026-08-05",
       "last_mention": "2026-08-05",
       "team": "Sacramento Kings",
-      "rank": 19
+      "rank": 17
     },
     {
       "player": "Ron Harper Jr",
@@ -244,19 +220,19 @@
       "first_mention": "2026-08-04",
       "last_mention": "2026-08-04",
       "team": "Boston Celtics",
-      "rank": 20
+      "rank": 18
     },
     {
-      "player": "Tyler Herro",
-      "score": 1.5,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 6,
-      "total_mentions": 6,
-      "first_mention": "2026-07-11",
-      "last_mention": "2026-07-20",
-      "team": "Miami Heat",
-      "rank": 21
+      "player": "Nikola Jovic",
+      "score": 1.75,
+      "mentions_week1": 1,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 3,
+      "first_mention": "2026-07-15",
+      "last_mention": "2026-08-05",
+      "team": "Dallas Mavericks",
+      "rank": 19
     },
     {
       "player": "Kyrie Irving",
@@ -268,7 +244,7 @@
       "first_mention": "2026-07-19",
       "last_mention": "2026-07-27",
       "team": "Dallas Mavericks",
-      "rank": 22
+      "rank": 20
     },
     {
       "player": "Draymond Green",
@@ -280,7 +256,7 @@
       "first_mention": "2026-07-28",
       "last_mention": "2026-07-31",
       "team": "Golden State Warriors",
-      "rank": 23
+      "rank": 21
     },
     {
       "player": "Jalen Duren",
@@ -292,7 +268,7 @@
       "first_mention": "2026-07-20",
       "last_mention": "2026-08-05",
       "team": "Detroit Pistons",
-      "rank": 24
+      "rank": 22
     },
     {
       "player": "Kentavious Caldwell-Pope",
@@ -304,6 +280,30 @@
       "first_mention": "2026-07-26",
       "last_mention": "2026-07-28",
       "team": "Memphis Grizzlies",
+      "rank": 23
+    },
+    {
+      "player": "Dennis Schroeder",
+      "score": 1.5,
+      "mentions_week1": 1,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 2,
+      "first_mention": "2026-07-28",
+      "last_mention": "2026-08-08",
+      "team": "Cleveland Cavaliers",
+      "rank": 24
+    },
+    {
+      "player": "Moses Moody",
+      "score": 1.5,
+      "mentions_week1": 1,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 2,
+      "first_mention": "2026-07-31",
+      "last_mention": "2026-08-05",
+      "team": "Golden State Warriors",
       "rank": 25
     },
     {
@@ -331,15 +331,15 @@
       "rank": 27
     },
     {
-      "player": "Davion Mitchell",
-      "score": 1.25,
-      "mentions_week1": 1,
+      "player": "Tyler Herro",
+      "score": 1.0,
+      "mentions_week1": 0,
       "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 2,
-      "first_mention": "2026-07-23",
-      "last_mention": "2026-08-01",
-      "team": "Dallas Mavericks",
+      "mentions_weeks3_4": 4,
+      "total_mentions": 4,
+      "first_mention": "2026-07-12",
+      "last_mention": "2026-07-20",
+      "team": "Miami Heat",
       "rank": 28
     },
     {
@@ -523,18 +523,6 @@
       "rank": 43
     },
     {
-      "player": "Derrick White",
-      "score": 0.75,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 3,
-      "total_mentions": 3,
-      "first_mention": "2026-07-11",
-      "last_mention": "2026-07-12",
-      "team": "Boston Celtics",
-      "rank": 44
-    },
-    {
       "player": "Devin Carter",
       "score": 0.75,
       "mentions_week1": 0,
@@ -544,7 +532,7 @@
       "first_mention": "2026-07-20",
       "last_mention": "2026-07-22",
       "team": "Atlanta Hawks",
-      "rank": 45
+      "rank": 44
     },
     {
       "player": "Jarred Vanderbilt",
@@ -556,7 +544,7 @@
       "first_mention": "2026-07-13",
       "last_mention": "2026-07-24",
       "team": "Los Angeles Lakers",
-      "rank": 46
+      "rank": 45
     },
     {
       "player": "Zaccharie Risacher",
@@ -568,6 +556,18 @@
       "first_mention": "2026-07-19",
       "last_mention": "2026-07-19",
       "team": "Atlanta Hawks",
+      "rank": 46
+    },
+    {
+      "player": "Davion Mitchell",
+      "score": 0.75,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 2,
+      "first_mention": "2026-07-23",
+      "last_mention": "2026-08-01",
+      "team": "Dallas Mavericks",
       "rank": 47
     },
     {
@@ -787,18 +787,6 @@
       "rank": 65
     },
     {
-      "player": "Dennis Schroeder",
-      "score": 0.5,
-      "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-07-28",
-      "last_mention": "2026-07-28",
-      "team": "Golden State Warriors",
-      "rank": 66
-    },
-    {
       "player": "Dillon Brooks",
       "score": 0.5,
       "mentions_week1": 0,
@@ -808,7 +796,7 @@
       "first_mention": "2026-07-31",
       "last_mention": "2026-07-31",
       "team": "Phoenix Suns",
-      "rank": 67
+      "rank": 66
     },
     {
       "player": "Isaac Okoro",
@@ -820,7 +808,7 @@
       "first_mention": "2026-07-26",
       "last_mention": "2026-07-26",
       "team": "Chicago Bulls",
-      "rank": 68
+      "rank": 67
     },
     {
       "player": "Jabari Walker",
@@ -832,7 +820,7 @@
       "first_mention": "2026-07-27",
       "last_mention": "2026-07-27",
       "team": "Philadelphia 76ers",
-      "rank": 69
+      "rank": 68
     },
     {
       "player": "Jarrett Allen",
@@ -844,7 +832,7 @@
       "first_mention": "2026-07-28",
       "last_mention": "2026-07-28",
       "team": "Cleveland Cavaliers",
-      "rank": 70
+      "rank": 69
     },
     {
       "player": "Max Strus",
@@ -856,7 +844,7 @@
       "first_mention": "2026-07-31",
       "last_mention": "2026-07-31",
       "team": "Atlanta Hawks",
-      "rank": 71
+      "rank": 70
     },
     {
       "player": "Rui Hachimura",
@@ -868,7 +856,7 @@
       "first_mention": "2026-07-31",
       "last_mention": "2026-07-31",
       "team": "Los Angeles Lakers",
-      "rank": 72
+      "rank": 71
     },
     {
       "player": "Andrew Wiggins",
@@ -880,7 +868,7 @@
       "first_mention": "2026-07-23",
       "last_mention": "2026-07-23",
       "team": "Miami Heat",
-      "rank": 73
+      "rank": 72
     },
     {
       "player": "Cameron Johnson",
@@ -892,7 +880,7 @@
       "first_mention": "2026-07-22",
       "last_mention": "2026-07-22",
       "team": "Denver Nuggets",
-      "rank": 74
+      "rank": 73
     },
     {
       "player": "D'Angelo Russell",
@@ -904,19 +892,19 @@
       "first_mention": "2026-07-22",
       "last_mention": "2026-07-22",
       "team": "Dallas Mavericks",
-      "rank": 75
+      "rank": 74
     },
     {
-      "player": "Ja Morant",
+      "player": "Derrick White",
       "score": 0.25,
       "mentions_week1": 0,
       "mentions_week2": 0,
       "mentions_weeks3_4": 1,
       "total_mentions": 1,
-      "first_mention": "2026-07-11",
-      "last_mention": "2026-07-11",
-      "team": "Memphis Grizzlies",
-      "rank": 76
+      "first_mention": "2026-07-12",
+      "last_mention": "2026-07-12",
+      "team": "Boston Celtics",
+      "rank": 75
     },
     {
       "player": "Jaime Jaquez",
@@ -928,7 +916,7 @@
       "first_mention": "2026-07-12",
       "last_mention": "2026-07-12",
       "team": "Miami Heat",
-      "rank": 77
+      "rank": 76
     },
     {
       "player": "Jordan Walsh",
@@ -940,7 +928,7 @@
       "first_mention": "2026-07-12",
       "last_mention": "2026-07-12",
       "team": "Boston Celtics",
-      "rank": 78
+      "rank": 77
     },
     {
       "player": "Josh Giddey",
@@ -952,7 +940,7 @@
       "first_mention": "2026-07-15",
       "last_mention": "2026-07-15",
       "team": "Boston Celtics",
-      "rank": 79
+      "rank": 78
     },
     {
       "player": "Khris Middleton",
@@ -964,7 +952,7 @@
       "first_mention": "2026-07-22",
       "last_mention": "2026-07-22",
       "team": "Sacramento Kings",
-      "rank": 80
+      "rank": 79
     },
     {
       "player": "Kon Knueppel",
@@ -976,7 +964,7 @@
       "first_mention": "2026-07-24",
       "last_mention": "2026-07-24",
       "team": "Charlotte Hornets",
-      "rank": 81
+      "rank": 80
     },
     {
       "player": "LaMelo Ball",
@@ -988,7 +976,7 @@
       "first_mention": "2026-07-24",
       "last_mention": "2026-07-24",
       "team": "Charlotte Hornets",
-      "rank": 82
+      "rank": 81
     },
     {
       "player": "Mike Conley",
@@ -1000,7 +988,7 @@
       "first_mention": "2026-07-12",
       "last_mention": "2026-07-12",
       "team": "Boston Celtics",
-      "rank": 83
+      "rank": 82
     },
     {
       "player": "Mitchell Robinson",
@@ -1012,7 +1000,7 @@
       "first_mention": "2026-07-12",
       "last_mention": "2026-07-12",
       "team": "Boston Celtics",
-      "rank": 84
+      "rank": 83
     },
     {
       "player": "Mouhamed Gueye",
@@ -1024,7 +1012,7 @@
       "first_mention": "2026-07-20",
       "last_mention": "2026-07-20",
       "team": "Atlanta Hawks",
-      "rank": 85
+      "rank": 84
     },
     {
       "player": "Naz Reid",
@@ -1036,19 +1024,7 @@
       "first_mention": "2026-07-14",
       "last_mention": "2026-07-14",
       "team": "Minnesota Timberwolves",
-      "rank": 86
-    },
-    {
-      "player": "Neemias Queta",
-      "score": 0.25,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 1,
-      "first_mention": "2026-07-11",
-      "last_mention": "2026-07-11",
-      "team": "Boston Celtics",
-      "rank": 87
+      "rank": 85
     },
     {
       "player": "Russell Westbrook",
@@ -1060,7 +1036,7 @@
       "first_mention": "2026-07-22",
       "last_mention": "2026-07-22",
       "team": "Sacramento Kings",
-      "rank": 88
+      "rank": 86
     },
     {
       "player": "Thanasis Antetokounmpo",
@@ -1072,7 +1048,7 @@
       "first_mention": "2026-07-17",
       "last_mention": "2026-07-17",
       "team": "Miami Heat",
-      "rank": 89
+      "rank": 87
     },
     {
       "player": "Tim Hardaway Jr",
@@ -1084,11 +1060,34 @@
       "first_mention": "2026-07-23",
       "last_mention": "2026-07-23",
       "team": "Cleveland Cavaliers",
-      "rank": 90
+      "rank": 88
     }
   ],
   "player_rumors": {
+    "Dennis Schroeder": [
+      {
+        "date": "2026-08-08",
+        "text": "Sources tell cleveland.com the Cavs continue to discuss various trade packages involving Schroder, seeing if there is an opportunity to slightly reconfigure the roster or gain financial flexibility, which would help their pursuit of free agents Jonathan Kuminga and Peyton Watson.Cleveland Plain Dealer",
+        "text_html": "<a href=\"https://www.cleveland.com/cavs/2026/08/which-cavs-player-is-most-likely-to-emerge-this-season-hey-chris.html\" target=\"_blank\" style=\"color: #1a73e8;\">Sources tell cleveland.com the Cavs continue to discuss various trade packages involving Schroder, seeing if there is an opportunity to slightly reconfigure the roster or gain financial flexibility, which would help their pursuit of free agents Jonathan Kuminga and Peyton Watson</a>.",
+        "outlet": "Cleveland Plain Dealer",
+        "source_url": "https://www.cleveland.com/cavs/2026/08/which-cavs-player-is-most-likely-to-emerge-this-season-hey-chris.html"
+      },
+      {
+        "date": "2026-07-28",
+        "text": "Draymond Green: \"I've also seen that Mike Dunleavy and Joe Lacob have gotten a lot of criticism for their lack of risk taking over the last few years, playing it for the post-Steph era. And listen, there's always going to be backlash when you're not winning. It happens to everyone. That's just what comes with the territory.But I don't think going to trade for Jimmy Butler would be considered lack of taking risks, especially signing him to a two-year $121 million extension. I don't think that would be considered a lack of taking risk.I also don't believe that trading for Dennis Schroeder, trying to make something happen, is a lack of taking risk.\"YouTube",
+        "text_html": "Draymond Green: \"I've also seen that Mike Dunleavy and Joe Lacob have gotten a lot of criticism for their lack of risk taking over the last few years, playing it for the post-Steph era. And listen, there's always going to be backlash when you're not winning. It happens to everyone. That's just what comes with the territory. <a href=\"https://www.youtube.com/watch?v=onjq0vxcNAg&t=672s\" target=\"_blank\" style=\"color: #1a73e8;\">But I don't think going to trade for Jimmy Butler would be considered lack of taking risks, especially signing him to a two-year $121 million extension. I don't think that would be considered a lack of taking risk.</a> I also don't believe that trading for Dennis Schroeder, trying to make something happen, is a lack of taking risk.\"",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=onjq0vxcNAg&t=672s"
+      }
+    ],
     "Jonathan Kuminga": [
+      {
+        "date": "2026-08-08",
+        "text": "Sources tell cleveland.com the Cavs continue to discuss various trade packages involving Schroder, seeing if there is an opportunity to slightly reconfigure the roster or gain financial flexibility, which would help their pursuit of free agents Jonathan Kuminga and Peyton Watson.Cleveland Plain Dealer",
+        "text_html": "<a href=\"https://www.cleveland.com/cavs/2026/08/which-cavs-player-is-most-likely-to-emerge-this-season-hey-chris.html\" target=\"_blank\" style=\"color: #1a73e8;\">Sources tell cleveland.com the Cavs continue to discuss various trade packages involving Schroder, seeing if there is an opportunity to slightly reconfigure the roster or gain financial flexibility, which would help their pursuit of free agents Jonathan Kuminga and Peyton Watson</a>.",
+        "outlet": "Cleveland Plain Dealer",
+        "source_url": "https://www.cleveland.com/cavs/2026/08/which-cavs-player-is-most-likely-to-emerge-this-season-hey-chris.html"
+      },
       {
         "date": "2026-08-07",
         "text": "It has reached the second month of what has become a second consecutive prolonged Jonathan Kuminga free agency process. The Lakers met with Kuminga in the early hours of free agency, pitching him on a high-minutes role for a high-profile fringe contender in desperate need of athletic help on the wing. The opportunity appealed to Kuminga, but the sign-and-trade\u00a0contract\u00a0offer (years, money, package going back to Atlanta) didn't satisfy all sides.The Lakers remain\u00a0interested\u00a0in him, league\u00a0sources\u00a0said, but movement toward a deal has remained stalled for weeks.ESPN",
@@ -1207,6 +1206,120 @@
         "text_html": "Jake Fischer: The <a href=\"https://bleacherreport.com/videos/e727e89b-2373-49ea-a0ab-4cefe2aaedf1-nba-insiders-at-summer-league\" target=\"_blank\" style=\"color: #1a73e8;\">Lakers are clearly still looking at Jonathan Kuminga as being their starting wing.</a> So if that deal doesn\u2019t come to a fruition, Kuminga does have several other options on the table including going back to Atlanta.",
         "outlet": "Bleacher Report",
         "source_url": "https://bleacherreport.com/videos/e727e89b-2373-49ea-a0ab-4cefe2aaedf1-nba-insiders-at-summer-league"
+      }
+    ],
+    "Peyton Watson": [
+      {
+        "date": "2026-08-08",
+        "text": "Sources tell cleveland.com the Cavs continue to discuss various trade packages involving Schroder, seeing if there is an opportunity to slightly reconfigure the roster or gain financial flexibility, which would help their pursuit of free agents Jonathan Kuminga and Peyton Watson.Cleveland Plain Dealer",
+        "text_html": "<a href=\"https://www.cleveland.com/cavs/2026/08/which-cavs-player-is-most-likely-to-emerge-this-season-hey-chris.html\" target=\"_blank\" style=\"color: #1a73e8;\">Sources tell cleveland.com the Cavs continue to discuss various trade packages involving Schroder, seeing if there is an opportunity to slightly reconfigure the roster or gain financial flexibility, which would help their pursuit of free agents Jonathan Kuminga and Peyton Watson</a>.",
+        "outlet": "Cleveland Plain Dealer",
+        "source_url": "https://www.cleveland.com/cavs/2026/08/which-cavs-player-is-most-likely-to-emerge-this-season-hey-chris.html"
+      },
+      {
+        "date": "2026-08-06",
+        "text": "Oh No He Didn't: Shams on Peyton Watson:\"They are in active trade talks with multiple teams on a Peyton Watson sign and trade. That includes Cleveland, Milwaukee, and the Clippers. There are combinations of player packages, pick packages as well. So either they're gonna trade him, or you could potentially have him back on a 1-year, $6.5 million qualifying offer\"x.com",
+        "text_html": "Oh No He Didn't: Shams on Peyton Watson: <a href=\"https://x.com/ohnohedidnt24/status/2085450458022207555\" target=\"_blank\" style=\"color: #1a73e8;\">\"They are in active trade talks with multiple teams on a Peyton Watson sign and trade. That includes Cleveland, Milwaukee, and the Clippers. There are combinations of player packages, pick packages as well. So either they're gonna trade him, or you could potentially have him back on a 1-year, $6.5 million qualifying offer\"</a>",
+        "outlet": "x.com",
+        "source_url": "https://x.com/ohnohedidnt24/status/2085450458022207555"
+      },
+      {
+        "date": "2026-08-06",
+        "text": "But while the Bucks are\u00a0interested\u00a0in the 23-year-old forward, league\u00a0sources\u00a0maintain they expect the Bucks to be hesitant to include a first-round pick in any deal for Peyton Watson as they continue building out their asset base post-Antetokounmpo. Without giving up a first-round pick, the Nuggets would have to derive much of the value of a sign-and-trade with the Bucks from the player (or players) involved in the deal. While other teams\u00a0interested\u00a0in Watson might be giving up fringe rotation players with a first-rounder, the Bucks might need to include real rotation players to entice the Nuggets to consider their offer.New York Times",
+        "text_html": "<a href=\"https://www.nytimes.com/athletic/7495134/2026/08/06/milwaukee-bucks-roster-questions-tyler-herro-peyton-watson/\" target=\"_blank\" style=\"color: #1a73e8;\">But while the Bucks are interested in the 23-year-old forward, league sources maintain they expect the Bucks to be hesitant to include a first-round pick in any deal for Peyton Watson as they continue building out their asset base post-Antetokounmpo</a>. Without giving up a first-round pick, the Nuggets would have to derive much of the value of a sign-and-trade with the Bucks from the player (or players) involved in the deal. While other teams interested in Watson might be giving up fringe rotation players with a first-rounder, the Bucks might need to include real rotation players to entice the Nuggets to consider their offer.",
+        "outlet": "New York Times",
+        "source_url": "https://www.nytimes.com/athletic/7495134/2026/08/06/milwaukee-bucks-roster-questions-tyler-herro-peyton-watson/"
+      },
+      {
+        "date": "2026-08-06",
+        "text": "The Nuggets remain in active trade talks with\u00a0multiple\u00a0teams on a potential Watson sign-and-trade, including the\u00a0Cleveland Cavaliers,\u00a0Milwaukee Bucks\u00a0and\u00a0LA Clippers,\u00a0sources\u00a0told\u00a0ESPN.Watson also holds a one-year, $6.5 million qualifying offer that would make him an unrestricted free agent next summer.ESPN",
+        "text_html": "<a href=\"https://www.espn.com/nba/story/_/id/49541979/lonnie-walker-iv-nuggets-agree-1-year-deal\" target=\"_blank\" style=\"color: #1a73e8;\">The Nuggets remain in active trade talks with multiple teams on a potential Watson sign-and-trade, including the Cleveland Cavaliers, Milwaukee Bucks and LA Clippers, sources told ESPN.</a> Watson also holds a one-year, $6.5 million qualifying offer that would make him an unrestricted free agent next summer.",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/49541979/lonnie-walker-iv-nuggets-agree-1-year-deal"
+      },
+      {
+        "date": "2026-08-05",
+        "text": "When it comes to the rumblings that are continued around Peyton Watson, Jonathan Kuminga, what are you hearing and how likely is it that the Cavs make a move that could get them both of these players? Chris Fedor: Yeah, I think both of them is highly unlikely.Again, on this podcast, we never say never and we try and deal in reality as much as we possibly can. Getting one of them is going to be hard enough given the salary cap situation that the Cavs are currently in, given the lack of perceived trade assets and given the salary cap situation of some of These other teams that we\u2019re talking about here. So for example, you\u2019ve got the Atlanta Hawks who have said to teams around the NBA it looked we\u2019re willing to help out Jonathan Kuminga in a potential sign and trade, but we need to be incentivized in order to do that. We\u2019ve got to get something back in return that we actually like. And that\u2019s part of the holdup, it feels like, between the Hawks and the Los Angeles Lakers, because there are people around the NBA that are saying to themselves, what are the Lakers going to give the Hawks that the Hawks value enough or that the Hawks actually want? The hawks already have 17 guys under contract, so they have some things that they have to do internally.Cleveland Plain Dealer",
+        "text_html": "<a href=\"https://www.cleveland.com/cavs/2026/08/is-clevelands-best-starting-small-forward-option-already-on-the-roster-wine-and-gold-talk-podcast.html\" target=\"_blank\" style=\"color: #1a73e8;\">When it comes to the rumblings that are continued around Peyton Watson, Jonathan Kuminga, what are you hearing and how likely is it that the Cavs make a move that could get them both of these players? Chris Fedor: Yeah, I think both of them is highly unlikely.</a> Again, on this podcast, we never say never and we try and deal in reality as much as we possibly can. Getting one of them is going to be hard enough given the salary cap situation that the Cavs are currently in, given the lack of perceived trade assets and given the salary cap situation of some of These other teams that we\u2019re talking about here. So for example, you\u2019ve got the Atlanta Hawks who have said to teams around the NBA it looked we\u2019re willing to help out Jonathan Kuminga in a potential sign and trade, but we need to be incentivized in order to do that. We\u2019ve got to get something back in return that we actually like. And that\u2019s part of the holdup, it feels like, between the Hawks and the Los Angeles Lakers, because there are people around the NBA that are saying to themselves, what are the Lakers going to give the Hawks that the Hawks value enough or that the Hawks actually want? The hawks already have 17 guys under contract, so they have some things that they have to do internally.",
+        "outlet": "Cleveland Plain Dealer",
+        "source_url": "https://www.cleveland.com/cavs/2026/08/is-clevelands-best-starting-small-forward-option-already-on-the-roster-wine-and-gold-talk-podcast.html"
+      },
+      {
+        "date": "2026-08-03",
+        "text": "Marc Stein:If [the Nuggets] keep Peyton Watson, there\u2019s probably going to be a trade\u2014 I\u2019m gonna go out on a limb and say it\u2019s probably going to be a trade that the DNVR Nuggets show does not approve of.YouTube",
+        "text_html": "Marc Stein: <a href=\"https://www.youtube.com/live/mhQ9f9w5nmE?is=pGmRSKV6PolSwXyY\" target=\"_blank\" style=\"color: #1a73e8;\">If [the Nuggets] keep Peyton Watson, there\u2019s probably going to be a trade\u2014 I\u2019m gonna go out on a limb and say it\u2019s probably going to be a trade that the DNVR Nuggets show does not approve of</a>.",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/live/mhQ9f9w5nmE?is=pGmRSKV6PolSwXyY"
+      },
+      {
+        "date": "2026-08-03",
+        "text": "Marc Stein:Their preferred scenario would be finding a trade home for Zeke Nnaji, but you know if you do that you\u2019re attaching draft capital and the Nuggets are not exactly teeming with extra draft capital.YouTube",
+        "text_html": "Marc Stein: <a href=\"https://www.youtube.com/live/mhQ9f9w5nmE?is=pGmRSKV6PolSwXyY\" target=\"_blank\" style=\"color: #1a73e8;\">Their preferred scenario would be finding a trade home for Zeke Nnaji, but you know if you do that you\u2019re attaching draft capital and the Nuggets are not exactly teeming with extra draft capital</a>.",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/live/mhQ9f9w5nmE?is=pGmRSKV6PolSwXyY"
+      },
+      {
+        "date": "2026-07-31",
+        "text": "Meanwhile,the Cavaliers have recently called to express interest in a sign-and-trade for Denver Nuggets restricted free-agent forward Peyton Watson,league sources told HoopsHype. The newfound interest in Watson comes on the heels of Cleveland also being in the mix for free agent forward Jonathan Kuminga in sign-and-trade discussions. More on both forwards to come in separate sections below.HoopsHype",
+        "text_html": "Meanwhile, <a href=\"https://www.hoopshype.com/story/sports/nba/2026/07/31/nba-intel-james-harden-peyton-watson-jonathan-kuminga-benn-mathurin-more/91120190007/\" target=\"_blank\" style=\"color: #1a73e8;\">the Cavaliers have recently called to express interest in a sign-and-trade for Denver Nuggets restricted free-agent forward Peyton Watson,</a> league sources told HoopsHype. The newfound interest in Watson comes on the heels of Cleveland also being in the mix for free agent forward Jonathan Kuminga in sign-and-trade discussions. More on both forwards to come in separate sections below.",
+        "outlet": "HoopsHype",
+        "source_url": "https://www.hoopshype.com/story/sports/nba/2026/07/31/nba-intel-james-harden-peyton-watson-jonathan-kuminga-benn-mathurin-more/91120190007/"
+      },
+      {
+        "date": "2026-07-31",
+        "text": "The Denver Nuggets remain interested in retaining restricted free agent forward Peyton Watson amid sign-and-trade interest from the Milwaukee Bucks, Cleveland Cavaliers, Atlanta Hawks, and Los Angeles Clippers.Denver\u2019s price tag in any sign-and-trade scenario has shifted to at least one first-round pick and one notable player, per multiple reports, and confirmed by HoopsHype.HoopsHype",
+        "text_html": "<a href=\"https://www.hoopshype.com/story/sports/nba/2026/07/31/nba-intel-james-harden-peyton-watson-jonathan-kuminga-benn-mathurin-more/91120190007/\" target=\"_blank\" style=\"color: #1a73e8;\">The Denver Nuggets remain interested in retaining restricted free agent forward Peyton Watson amid sign-and-trade interest from the Milwaukee Bucks, Cleveland Cavaliers, Atlanta Hawks, and Los Angeles Clippers.</a> Denver\u2019s price tag in any sign-and-trade scenario has shifted to at least one first-round pick and one notable player, per multiple reports, and confirmed by HoopsHype.",
+        "outlet": "HoopsHype",
+        "source_url": "https://www.hoopshype.com/story/sports/nba/2026/07/31/nba-intel-james-harden-peyton-watson-jonathan-kuminga-benn-mathurin-more/91120190007/"
+      },
+      {
+        "date": "2026-07-31",
+        "text": "While the Bucks haven\u2019t offered a first-round pick yet, they\u2019d consider absorbing Nuggets forward Zeke Nnaji as part of a Watson sign-and-trade,HoopsHype has learned. Nnaji is owed a combined $14.93 million with two seasons remaining on his contract, including a player option for the 2027-28 season.HoopsHype",
+        "text_html": "<a href=\"https://www.hoopshype.com/story/sports/nba/2026/07/31/nba-intel-james-harden-peyton-watson-jonathan-kuminga-benn-mathurin-more/91120190007/\" target=\"_blank\" style=\"color: #1a73e8;\">While the Bucks haven\u2019t offered a first-round pick yet, they\u2019d consider absorbing Nuggets forward Zeke Nnaji as part of a Watson sign-and-trade,</a> HoopsHype has learned. Nnaji is owed a combined $14.93 million with two seasons remaining on his contract, including a player option for the 2027-28 season.",
+        "outlet": "HoopsHype",
+        "source_url": "https://www.hoopshype.com/story/sports/nba/2026/07/31/nba-intel-james-harden-peyton-watson-jonathan-kuminga-benn-mathurin-more/91120190007/"
+      },
+      {
+        "date": "2026-07-28",
+        "text": "Oh No He Didn't: Shams on Peyton Watson negotiations with the Nuggets: \"In a potential sign and trade, the Nuggets initially had set a price this off season of similar to the Walker Kessler deal of two first and two swaps in any potential deal.Now that price, my understanding is a really good high level player as well as a first round pick\"x.com",
+        "text_html": "Oh No He Didn't: Shams on Peyton Watson negotiations with the Nuggets: \"In a potential sign and trade, the Nuggets initially had set a price this off season of similar to the Walker Kessler deal of two first and two swaps in any potential deal. <a href=\"https://x.com/ohnohedidnt24/status/2082191321138131393\" target=\"_blank\" style=\"color: #1a73e8;\">Now that price, my understanding is a really good high level player as well as a first round pick\"</a>",
+        "outlet": "x.com",
+        "source_url": "https://x.com/ohnohedidnt24/status/2082191321138131393"
+      },
+      {
+        "date": "2026-07-28",
+        "text": "Thus begins a balancing act for the Nuggets, who have long stated they highly value Watson, and for Watson, who is in line for a second contract. The Nuggets\u2019 payroll is in the second apron because they decided to match Oklahoma City\u2019s offer sheet for Jones.Denver is attempting to move a contract or two to get back under the second apron and clear enough money to retain Watson,the league sources said.New York Times",
+        "text_html": "Thus begins a balancing act for the Nuggets, who have long stated they highly value Watson, and for Watson, who is in line for a second contract. The Nuggets\u2019 payroll is in the second apron because they decided to match Oklahoma City\u2019s offer sheet for Jones. <a href=\"https://www.nytimes.com/athletic/7473896/2026/07/27/nuggets-peyton-watson-offer-second-apron/\" target=\"_blank\" style=\"color: #1a73e8;\">Denver is attempting to move a contract or two to get back under the second apron and clear enough money to retain Watson,</a> the league sources said.",
+        "outlet": "New York Times",
+        "source_url": "https://www.nytimes.com/athletic/7473896/2026/07/27/nuggets-peyton-watson-offer-second-apron/"
+      },
+      {
+        "date": "2026-07-26",
+        "text": "Shams Charania:By matching Jones' sheet, the Nuggets face a $32 million increase in current luxury taxes ($36M to $68M) and enter the second apron.They are deep in tax bills but could shed money via trades in season. Next Denver order of business: Navigate retaining RFA Peyton Watson while the Hawks, Bucks and Clippers pursue him.x.com",
+        "text_html": "Shams Charania: <a href=\"https://x.com/ShamsCharania/status/2081572528871309525\" target=\"_blank\" style=\"color: #1a73e8;\">By matching Jones' sheet, the Nuggets face a $32 million increase in current luxury taxes ($36M to $68M) and enter the second apron.</a> They are deep in tax bills but could shed money via trades in season. Next Denver order of business: Navigate retaining RFA Peyton Watson while the Hawks, Bucks and Clippers pursue him.",
+        "outlet": "x.com",
+        "source_url": "https://x.com/ShamsCharania/status/2081572528871309525"
+      },
+      {
+        "date": "2026-07-17",
+        "text": "The Nuggets,\u00a0according to\u00a0those league\u00a0sources, value Peyton Watson significantly. They feel they are in a good spot to retain his services and just need to let the restricted-free-agency process play out.The three teams registering\u00a0interest\u00a0in Watson will almost certainly have to go the sign-and-trade route, which brings its own set of complications. Denver\u2019s conundrum is finding a potential\u00a0contract\u00a0resolution that\u2019s good for Watson while also keeping the team in a good financial space. Because the Nuggets have invested heavily in Joki\u0107, Gordon and Murray, an expensive\u00a0contract\u00a0with Watson would likely yield significant luxury tax penalties, something Denver has been loath to do in the past.New York Times",
+        "text_html": "<a href=\"https://www.nytimes.com/athletic/7451203/2026/07/17/peyton-watson-nuggets-free-agency-bucks/\" target=\"_blank\" style=\"color: #1a73e8;\">The Nuggets, according to those league sources, value Peyton Watson significantly. They feel they are in a good spot to retain his services and just need to let the restricted-free-agency process play out.</a> The three teams registering interest in Watson will almost certainly have to go the sign-and-trade route, which brings its own set of complications. Denver\u2019s conundrum is finding a potential contract resolution that\u2019s good for Watson while also keeping the team in a good financial space. Because the Nuggets have invested heavily in Joki\u0107, Gordon and Murray, an expensive contract with Watson would likely yield significant luxury tax penalties, something Denver has been loath to do in the past.",
+        "outlet": "New York Times",
+        "source_url": "https://www.nytimes.com/athletic/7451203/2026/07/17/peyton-watson-nuggets-free-agency-bucks/"
+      },
+      {
+        "date": "2026-07-16",
+        "text": "Chris Haynes: \"There is interest from several teams, but obviously we know the landscape of the free agency market right now, there is no cap space out there. So it would take a sign and trade if Peyton Watson were going to part from Denver.One of those teams I've heard that had serious interest and I thought something might have been done as early as last week, Los Angeles Clippers. They have serious interest in Peyton Watson. I don't know where things stand as of right now, but what I was told, sources did relate to me that this is going to be a long game.\"YouTube",
+        "text_html": "Chris Haynes: \"There is interest from several teams, but obviously we know the landscape of the free agency market right now, there is no cap space out there. So it would take a sign and trade if Peyton Watson were going to part from Denver. <a href=\"https://www.youtube.com/watch?v=Q1Aezuu_UXE&t=1324s\" target=\"_blank\" style=\"color: #1a73e8;\">One of those teams I've heard that had serious interest and I thought something might have been done as early as last week, Los Angeles Clippers. They have serious interest in Peyton Watson. I don't know where things stand as of right now, but what I was told, sources did relate to me that this is going to be a long game.\"</a>",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=Q1Aezuu_UXE&t=1324s"
+      },
+      {
+        "date": "2026-07-14",
+        "text": "The Nuggets, mind you, still have two restricted free agents of their own to hash out deals with: Peyton Watson and Spencer Jones. And some fresh\u00a0rumbles\u00a0have been relayed to\u00a0The Stein Line\u00a0thatthe Bucks are joining the Clippers and Hawks on the list of teams trying to pry Watson away from the Nuggets via sign-and-trade.marcstein.substack.com",
+        "text_html": "The Nuggets, mind you, still have two restricted free agents of their own to hash out deals with: Peyton Watson and Spencer Jones. And some fresh rumbles have been relayed to The Stein Line that <a href=\"https://marcstein.substack.com/p/late-night-nba-free-agency-and-trade\" target=\"_blank\" style=\"color: #1a73e8;\">the Bucks are joining the Clippers and Hawks on the list of teams trying to pry Watson away from the Nuggets via sign-and-trade</a>.",
+        "outlet": "marcstein.substack.com",
+        "source_url": "https://marcstein.substack.com/p/late-night-nba-free-agency-and-trade"
       }
     ],
     "Klay Thompson": [
@@ -1428,27 +1541,6 @@
         "text_html": "SiriusXM NBA Radio: <a href=\"https://x.com/SiriusXMNBA/status/2076122944980332584\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cThe only thing more shocking I\u2019ve seen this year other than Anunoby\u2019s tip-in was that trade\" Tim Legler shares his reaction to the 76ers-Celtics blockbuster trade</a> with @termineradio, @Jumpshot8, and Ryan McDonough",
         "outlet": "x.com",
         "source_url": "https://x.com/SiriusXMNBA/status/2076122944980332584"
-      },
-      {
-        "date": "2026-07-11",
-        "text": "Derrick White was home with his wife when he found out that Jaylen Brown, one of his longest-tenured teammates, had been traded.\u201cIt\u2019s tough to see someone get traded, and JB\u2019s been an amazing teammate, amazing friend to me, and kind of welcomed me when I got traded to Boston,\u201d he said.\u201cSo I\u2019m always thankful for my time that I spent with JB, and it\u2019s obviously always tough to get traded, and I know how that feels.\u201d White said he reached out to Brown soon after the trade with a simple message: \u201cThank you for everything you did for me.\u201dCeltics Blog",
-        "text_html": "Derrick White was home with his wife when he found out that Jaylen Brown, one of his longest-tenured teammates, had been traded. <a href=\"https://www.celticsblog.com/boston-celtics-news/143400/jaylen-brown-trade-derrick-white-neemias-queta-hugo-gonzalez\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cIt\u2019s tough to see someone get traded, and JB\u2019s been an amazing teammate, amazing friend to me, and kind of welcomed me when I got traded to Boston,\u201d he said.</a> \u201cSo I\u2019m always thankful for my time that I spent with JB, and it\u2019s obviously always tough to get traded, and I know how that feels.\u201d White said he reached out to Brown soon after the trade with a simple message: \u201cThank you for everything you did for me.\u201d",
-        "outlet": "Celtics Blog",
-        "source_url": "https://www.celticsblog.com/boston-celtics-news/143400/jaylen-brown-trade-derrick-white-neemias-queta-hugo-gonzalez"
-      },
-      {
-        "date": "2026-07-11",
-        "text": "Bobby Krivitsky: I asked Derrick White about how he\u2019s processing the Jaylen Brown trade, both in terms of their relationship and what this means for his role or what the Celtics will need from him going forward.\u201cTell him thank you for everything he did for me, and just know how much he means to me.\u201dtrade, both in terms of their relationship and what this means for his role or what the Celtics will need from him going forward. \u201cTell him thank you for everything he did for me, and just know how much he means tox.com",
-        "text_html": "Bobby Krivitsky: I asked Derrick White about how he\u2019s processing the Jaylen Brown trade, both in terms of their relationship and what this means for his role or what the Celtics will need from him going forward. <a href=\"https://x.com/BobbyKrivitsky/status/2075767847725473932\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cTell him thank you for everything he did for me, and just know how much he means to me.\u201dtrade, both in terms of their relationship and what this means for his role or what the Celtics will need from him going forward</a>. \u201cTell him thank you for everything he did for me, and just know how much he means to",
-        "outlet": "x.com",
-        "source_url": "https://x.com/BobbyKrivitsky/status/2075767847725473932"
-      },
-      {
-        "date": "2026-07-11",
-        "text": "Neemias Queta, who has been teammates with Brown for three years, also spoke to reporters on Friday night for the first time since the trade. \u201cIt\u2019s not easy,\u201d Queta said. \u201cI think you feel for him. Obviously, it wasn\u2019t easy for him as well. But at the end of the day, it\u2019s part of the business. You know what\u2019s happening. You know it can happen at any moment.But Jaylen\u2019s a guy that you can\u2019t replace in the city. Really, really hard to replace on the court as well. He did so much for Boston in general, and he will definitely be missed.\u201dCeltics Blog",
-        "text_html": "Neemias Queta, who has been teammates with Brown for three years, also spoke to reporters on Friday night for the first time since the trade. \u201cIt\u2019s not easy,\u201d Queta said. \u201cI think you feel for him. Obviously, it wasn\u2019t easy for him as well. But at the end of the day, it\u2019s part of the business. You know what\u2019s happening. You know it can happen at any moment. <a href=\"https://www.celticsblog.com/boston-celtics-news/143400/jaylen-brown-trade-derrick-white-neemias-queta-hugo-gonzalez\" target=\"_blank\" style=\"color: #1a73e8;\">But Jaylen\u2019s a guy that you can\u2019t replace in the city. Really, really hard to replace on the court as well. He did so much for Boston in general, and he will definitely be missed.\u201d</a>",
-        "outlet": "Celtics Blog",
-        "source_url": "https://www.celticsblog.com/boston-celtics-news/143400/jaylen-brown-trade-derrick-white-neemias-queta-hugo-gonzalez"
       }
     ],
     "Donte DiVincenzo": [
@@ -1485,113 +1577,6 @@
         "text_html": "NBA Trade Machine: <a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">Donte DiVincenzo was part of 10.6% of the trades built on HoopsMatic over the past 24 hours. Of those trades, his top destinations were Memphis (12.3%), New Orleans (11.7%), and Toronto (11.7%).</a> The most common players sent back for him were Collin Murray-Boyles (11.1%), Ja'Kobe Walter (7.6%), and Trayce Jackson-Davis (7.6%).",
         "outlet": "HoopsMatic",
         "source_url": "https://hoopsmatic.com/"
-      }
-    ],
-    "Peyton Watson": [
-      {
-        "date": "2026-08-06",
-        "text": "Oh No He Didn't: Shams on Peyton Watson:\"They are in active trade talks with multiple teams on a Peyton Watson sign and trade. That includes Cleveland, Milwaukee, and the Clippers. There are combinations of player packages, pick packages as well. So either they're gonna trade him, or you could potentially have him back on a 1-year, $6.5 million qualifying offer\"x.com",
-        "text_html": "Oh No He Didn't: Shams on Peyton Watson: <a href=\"https://x.com/ohnohedidnt24/status/2085450458022207555\" target=\"_blank\" style=\"color: #1a73e8;\">\"They are in active trade talks with multiple teams on a Peyton Watson sign and trade. That includes Cleveland, Milwaukee, and the Clippers. There are combinations of player packages, pick packages as well. So either they're gonna trade him, or you could potentially have him back on a 1-year, $6.5 million qualifying offer\"</a>",
-        "outlet": "x.com",
-        "source_url": "https://x.com/ohnohedidnt24/status/2085450458022207555"
-      },
-      {
-        "date": "2026-08-06",
-        "text": "But while the Bucks are\u00a0interested\u00a0in the 23-year-old forward, league\u00a0sources\u00a0maintain they expect the Bucks to be hesitant to include a first-round pick in any deal for Peyton Watson as they continue building out their asset base post-Antetokounmpo. Without giving up a first-round pick, the Nuggets would have to derive much of the value of a sign-and-trade with the Bucks from the player (or players) involved in the deal. While other teams\u00a0interested\u00a0in Watson might be giving up fringe rotation players with a first-rounder, the Bucks might need to include real rotation players to entice the Nuggets to consider their offer.New York Times",
-        "text_html": "<a href=\"https://www.nytimes.com/athletic/7495134/2026/08/06/milwaukee-bucks-roster-questions-tyler-herro-peyton-watson/\" target=\"_blank\" style=\"color: #1a73e8;\">But while the Bucks are interested in the 23-year-old forward, league sources maintain they expect the Bucks to be hesitant to include a first-round pick in any deal for Peyton Watson as they continue building out their asset base post-Antetokounmpo</a>. Without giving up a first-round pick, the Nuggets would have to derive much of the value of a sign-and-trade with the Bucks from the player (or players) involved in the deal. While other teams interested in Watson might be giving up fringe rotation players with a first-rounder, the Bucks might need to include real rotation players to entice the Nuggets to consider their offer.",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/7495134/2026/08/06/milwaukee-bucks-roster-questions-tyler-herro-peyton-watson/"
-      },
-      {
-        "date": "2026-08-06",
-        "text": "The Nuggets remain in active trade talks with\u00a0multiple\u00a0teams on a potential Watson sign-and-trade, including the\u00a0Cleveland Cavaliers,\u00a0Milwaukee Bucks\u00a0and\u00a0LA Clippers,\u00a0sources\u00a0told\u00a0ESPN.Watson also holds a one-year, $6.5 million qualifying offer that would make him an unrestricted free agent next summer.ESPN",
-        "text_html": "<a href=\"https://www.espn.com/nba/story/_/id/49541979/lonnie-walker-iv-nuggets-agree-1-year-deal\" target=\"_blank\" style=\"color: #1a73e8;\">The Nuggets remain in active trade talks with multiple teams on a potential Watson sign-and-trade, including the Cleveland Cavaliers, Milwaukee Bucks and LA Clippers, sources told ESPN.</a> Watson also holds a one-year, $6.5 million qualifying offer that would make him an unrestricted free agent next summer.",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/49541979/lonnie-walker-iv-nuggets-agree-1-year-deal"
-      },
-      {
-        "date": "2026-08-05",
-        "text": "When it comes to the rumblings that are continued around Peyton Watson, Jonathan Kuminga, what are you hearing and how likely is it that the Cavs make a move that could get them both of these players? Chris Fedor: Yeah, I think both of them is highly unlikely.Again, on this podcast, we never say never and we try and deal in reality as much as we possibly can. Getting one of them is going to be hard enough given the salary cap situation that the Cavs are currently in, given the lack of perceived trade assets and given the salary cap situation of some of These other teams that we\u2019re talking about here. So for example, you\u2019ve got the Atlanta Hawks who have said to teams around the NBA it looked we\u2019re willing to help out Jonathan Kuminga in a potential sign and trade, but we need to be incentivized in order to do that. We\u2019ve got to get something back in return that we actually like. And that\u2019s part of the holdup, it feels like, between the Hawks and the Los Angeles Lakers, because there are people around the NBA that are saying to themselves, what are the Lakers going to give the Hawks that the Hawks value enough or that the Hawks actually want? The hawks already have 17 guys under contract, so they have some things that they have to do internally.Cleveland Plain Dealer",
-        "text_html": "<a href=\"https://www.cleveland.com/cavs/2026/08/is-clevelands-best-starting-small-forward-option-already-on-the-roster-wine-and-gold-talk-podcast.html\" target=\"_blank\" style=\"color: #1a73e8;\">When it comes to the rumblings that are continued around Peyton Watson, Jonathan Kuminga, what are you hearing and how likely is it that the Cavs make a move that could get them both of these players? Chris Fedor: Yeah, I think both of them is highly unlikely.</a> Again, on this podcast, we never say never and we try and deal in reality as much as we possibly can. Getting one of them is going to be hard enough given the salary cap situation that the Cavs are currently in, given the lack of perceived trade assets and given the salary cap situation of some of These other teams that we\u2019re talking about here. So for example, you\u2019ve got the Atlanta Hawks who have said to teams around the NBA it looked we\u2019re willing to help out Jonathan Kuminga in a potential sign and trade, but we need to be incentivized in order to do that. We\u2019ve got to get something back in return that we actually like. And that\u2019s part of the holdup, it feels like, between the Hawks and the Los Angeles Lakers, because there are people around the NBA that are saying to themselves, what are the Lakers going to give the Hawks that the Hawks value enough or that the Hawks actually want? The hawks already have 17 guys under contract, so they have some things that they have to do internally.",
-        "outlet": "Cleveland Plain Dealer",
-        "source_url": "https://www.cleveland.com/cavs/2026/08/is-clevelands-best-starting-small-forward-option-already-on-the-roster-wine-and-gold-talk-podcast.html"
-      },
-      {
-        "date": "2026-08-03",
-        "text": "Marc Stein:If [the Nuggets] keep Peyton Watson, there\u2019s probably going to be a trade\u2014 I\u2019m gonna go out on a limb and say it\u2019s probably going to be a trade that the DNVR Nuggets show does not approve of.YouTube",
-        "text_html": "Marc Stein: <a href=\"https://www.youtube.com/live/mhQ9f9w5nmE?is=pGmRSKV6PolSwXyY\" target=\"_blank\" style=\"color: #1a73e8;\">If [the Nuggets] keep Peyton Watson, there\u2019s probably going to be a trade\u2014 I\u2019m gonna go out on a limb and say it\u2019s probably going to be a trade that the DNVR Nuggets show does not approve of</a>.",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/live/mhQ9f9w5nmE?is=pGmRSKV6PolSwXyY"
-      },
-      {
-        "date": "2026-08-03",
-        "text": "Marc Stein:Their preferred scenario would be finding a trade home for Zeke Nnaji, but you know if you do that you\u2019re attaching draft capital and the Nuggets are not exactly teeming with extra draft capital.YouTube",
-        "text_html": "Marc Stein: <a href=\"https://www.youtube.com/live/mhQ9f9w5nmE?is=pGmRSKV6PolSwXyY\" target=\"_blank\" style=\"color: #1a73e8;\">Their preferred scenario would be finding a trade home for Zeke Nnaji, but you know if you do that you\u2019re attaching draft capital and the Nuggets are not exactly teeming with extra draft capital</a>.",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/live/mhQ9f9w5nmE?is=pGmRSKV6PolSwXyY"
-      },
-      {
-        "date": "2026-07-31",
-        "text": "Meanwhile,the Cavaliers have recently called to express interest in a sign-and-trade for Denver Nuggets restricted free-agent forward Peyton Watson,league sources told HoopsHype. The newfound interest in Watson comes on the heels of Cleveland also being in the mix for free agent forward Jonathan Kuminga in sign-and-trade discussions. More on both forwards to come in separate sections below.HoopsHype",
-        "text_html": "Meanwhile, <a href=\"https://www.hoopshype.com/story/sports/nba/2026/07/31/nba-intel-james-harden-peyton-watson-jonathan-kuminga-benn-mathurin-more/91120190007/\" target=\"_blank\" style=\"color: #1a73e8;\">the Cavaliers have recently called to express interest in a sign-and-trade for Denver Nuggets restricted free-agent forward Peyton Watson,</a> league sources told HoopsHype. The newfound interest in Watson comes on the heels of Cleveland also being in the mix for free agent forward Jonathan Kuminga in sign-and-trade discussions. More on both forwards to come in separate sections below.",
-        "outlet": "HoopsHype",
-        "source_url": "https://www.hoopshype.com/story/sports/nba/2026/07/31/nba-intel-james-harden-peyton-watson-jonathan-kuminga-benn-mathurin-more/91120190007/"
-      },
-      {
-        "date": "2026-07-31",
-        "text": "The Denver Nuggets remain interested in retaining restricted free agent forward Peyton Watson amid sign-and-trade interest from the Milwaukee Bucks, Cleveland Cavaliers, Atlanta Hawks, and Los Angeles Clippers.Denver\u2019s price tag in any sign-and-trade scenario has shifted to at least one first-round pick and one notable player, per multiple reports, and confirmed by HoopsHype.HoopsHype",
-        "text_html": "<a href=\"https://www.hoopshype.com/story/sports/nba/2026/07/31/nba-intel-james-harden-peyton-watson-jonathan-kuminga-benn-mathurin-more/91120190007/\" target=\"_blank\" style=\"color: #1a73e8;\">The Denver Nuggets remain interested in retaining restricted free agent forward Peyton Watson amid sign-and-trade interest from the Milwaukee Bucks, Cleveland Cavaliers, Atlanta Hawks, and Los Angeles Clippers.</a> Denver\u2019s price tag in any sign-and-trade scenario has shifted to at least one first-round pick and one notable player, per multiple reports, and confirmed by HoopsHype.",
-        "outlet": "HoopsHype",
-        "source_url": "https://www.hoopshype.com/story/sports/nba/2026/07/31/nba-intel-james-harden-peyton-watson-jonathan-kuminga-benn-mathurin-more/91120190007/"
-      },
-      {
-        "date": "2026-07-31",
-        "text": "While the Bucks haven\u2019t offered a first-round pick yet, they\u2019d consider absorbing Nuggets forward Zeke Nnaji as part of a Watson sign-and-trade,HoopsHype has learned. Nnaji is owed a combined $14.93 million with two seasons remaining on his contract, including a player option for the 2027-28 season.HoopsHype",
-        "text_html": "<a href=\"https://www.hoopshype.com/story/sports/nba/2026/07/31/nba-intel-james-harden-peyton-watson-jonathan-kuminga-benn-mathurin-more/91120190007/\" target=\"_blank\" style=\"color: #1a73e8;\">While the Bucks haven\u2019t offered a first-round pick yet, they\u2019d consider absorbing Nuggets forward Zeke Nnaji as part of a Watson sign-and-trade,</a> HoopsHype has learned. Nnaji is owed a combined $14.93 million with two seasons remaining on his contract, including a player option for the 2027-28 season.",
-        "outlet": "HoopsHype",
-        "source_url": "https://www.hoopshype.com/story/sports/nba/2026/07/31/nba-intel-james-harden-peyton-watson-jonathan-kuminga-benn-mathurin-more/91120190007/"
-      },
-      {
-        "date": "2026-07-28",
-        "text": "Oh No He Didn't: Shams on Peyton Watson negotiations with the Nuggets: \"In a potential sign and trade, the Nuggets initially had set a price this off season of similar to the Walker Kessler deal of two first and two swaps in any potential deal.Now that price, my understanding is a really good high level player as well as a first round pick\"x.com",
-        "text_html": "Oh No He Didn't: Shams on Peyton Watson negotiations with the Nuggets: \"In a potential sign and trade, the Nuggets initially had set a price this off season of similar to the Walker Kessler deal of two first and two swaps in any potential deal. <a href=\"https://x.com/ohnohedidnt24/status/2082191321138131393\" target=\"_blank\" style=\"color: #1a73e8;\">Now that price, my understanding is a really good high level player as well as a first round pick\"</a>",
-        "outlet": "x.com",
-        "source_url": "https://x.com/ohnohedidnt24/status/2082191321138131393"
-      },
-      {
-        "date": "2026-07-28",
-        "text": "Thus begins a balancing act for the Nuggets, who have long stated they highly value Watson, and for Watson, who is in line for a second contract. The Nuggets\u2019 payroll is in the second apron because they decided to match Oklahoma City\u2019s offer sheet for Jones.Denver is attempting to move a contract or two to get back under the second apron and clear enough money to retain Watson,the league sources said.New York Times",
-        "text_html": "Thus begins a balancing act for the Nuggets, who have long stated they highly value Watson, and for Watson, who is in line for a second contract. The Nuggets\u2019 payroll is in the second apron because they decided to match Oklahoma City\u2019s offer sheet for Jones. <a href=\"https://www.nytimes.com/athletic/7473896/2026/07/27/nuggets-peyton-watson-offer-second-apron/\" target=\"_blank\" style=\"color: #1a73e8;\">Denver is attempting to move a contract or two to get back under the second apron and clear enough money to retain Watson,</a> the league sources said.",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/7473896/2026/07/27/nuggets-peyton-watson-offer-second-apron/"
-      },
-      {
-        "date": "2026-07-26",
-        "text": "Shams Charania:By matching Jones' sheet, the Nuggets face a $32 million increase in current luxury taxes ($36M to $68M) and enter the second apron.They are deep in tax bills but could shed money via trades in season. Next Denver order of business: Navigate retaining RFA Peyton Watson while the Hawks, Bucks and Clippers pursue him.x.com",
-        "text_html": "Shams Charania: <a href=\"https://x.com/ShamsCharania/status/2081572528871309525\" target=\"_blank\" style=\"color: #1a73e8;\">By matching Jones' sheet, the Nuggets face a $32 million increase in current luxury taxes ($36M to $68M) and enter the second apron.</a> They are deep in tax bills but could shed money via trades in season. Next Denver order of business: Navigate retaining RFA Peyton Watson while the Hawks, Bucks and Clippers pursue him.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/ShamsCharania/status/2081572528871309525"
-      },
-      {
-        "date": "2026-07-17",
-        "text": "The Nuggets,\u00a0according to\u00a0those league\u00a0sources, value Peyton Watson significantly. They feel they are in a good spot to retain his services and just need to let the restricted-free-agency process play out.The three teams registering\u00a0interest\u00a0in Watson will almost certainly have to go the sign-and-trade route, which brings its own set of complications. Denver\u2019s conundrum is finding a potential\u00a0contract\u00a0resolution that\u2019s good for Watson while also keeping the team in a good financial space. Because the Nuggets have invested heavily in Joki\u0107, Gordon and Murray, an expensive\u00a0contract\u00a0with Watson would likely yield significant luxury tax penalties, something Denver has been loath to do in the past.New York Times",
-        "text_html": "<a href=\"https://www.nytimes.com/athletic/7451203/2026/07/17/peyton-watson-nuggets-free-agency-bucks/\" target=\"_blank\" style=\"color: #1a73e8;\">The Nuggets, according to those league sources, value Peyton Watson significantly. They feel they are in a good spot to retain his services and just need to let the restricted-free-agency process play out.</a> The three teams registering interest in Watson will almost certainly have to go the sign-and-trade route, which brings its own set of complications. Denver\u2019s conundrum is finding a potential contract resolution that\u2019s good for Watson while also keeping the team in a good financial space. Because the Nuggets have invested heavily in Joki\u0107, Gordon and Murray, an expensive contract with Watson would likely yield significant luxury tax penalties, something Denver has been loath to do in the past.",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/7451203/2026/07/17/peyton-watson-nuggets-free-agency-bucks/"
-      },
-      {
-        "date": "2026-07-16",
-        "text": "Chris Haynes: \"There is interest from several teams, but obviously we know the landscape of the free agency market right now, there is no cap space out there. So it would take a sign and trade if Peyton Watson were going to part from Denver.One of those teams I've heard that had serious interest and I thought something might have been done as early as last week, Los Angeles Clippers. They have serious interest in Peyton Watson. I don't know where things stand as of right now, but what I was told, sources did relate to me that this is going to be a long game.\"YouTube",
-        "text_html": "Chris Haynes: \"There is interest from several teams, but obviously we know the landscape of the free agency market right now, there is no cap space out there. So it would take a sign and trade if Peyton Watson were going to part from Denver. <a href=\"https://www.youtube.com/watch?v=Q1Aezuu_UXE&t=1324s\" target=\"_blank\" style=\"color: #1a73e8;\">One of those teams I've heard that had serious interest and I thought something might have been done as early as last week, Los Angeles Clippers. They have serious interest in Peyton Watson. I don't know where things stand as of right now, but what I was told, sources did relate to me that this is going to be a long game.\"</a>",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=Q1Aezuu_UXE&t=1324s"
-      },
-      {
-        "date": "2026-07-14",
-        "text": "The Nuggets, mind you, still have two restricted free agents of their own to hash out deals with: Peyton Watson and Spencer Jones. And some fresh\u00a0rumbles\u00a0have been relayed to\u00a0The Stein Line\u00a0thatthe Bucks are joining the Clippers and Hawks on the list of teams trying to pry Watson away from the Nuggets via sign-and-trade.marcstein.substack.com",
-        "text_html": "The Nuggets, mind you, still have two restricted free agents of their own to hash out deals with: Peyton Watson and Spencer Jones. And some fresh rumbles have been relayed to The Stein Line that <a href=\"https://marcstein.substack.com/p/late-night-nba-free-agency-and-trade\" target=\"_blank\" style=\"color: #1a73e8;\">the Bucks are joining the Clippers and Hawks on the list of teams trying to pry Watson away from the Nuggets via sign-and-trade</a>.",
-        "outlet": "marcstein.substack.com",
-        "source_url": "https://marcstein.substack.com/p/late-night-nba-free-agency-and-trade"
       }
     ],
     "Luka Doncic": [
@@ -1659,13 +1644,6 @@
         "text_html": "Marc Stein: <a href=\"https://www.youtube.com/live/20I775RTYkw\" target=\"_blank\" style=\"color: #1a73e8;\">I reported this on June 14th. Teams calling for Kyrie Irving are being told Kyrie's not available, but Gafford, Klay, and PJ are regarded as the most available of the Mavs vets.</a> It's been more than a month. We've since established that Gafford and Klay are... That's where that list should start. But that doesn't guarantee a trade. Maybe a trade will materialize, but just because the Mavs have shown a willingness on Gafford and Klay especially to listen to offers, it doesn't guarantee a move.",
         "outlet": "YouTube",
         "source_url": "https://www.youtube.com/live/20I775RTYkw"
-      },
-      {
-        "date": "2026-07-11",
-        "text": "The Lakers have long been tied to trade rumors with Mavericks forward PJ Washington, a former teammate of Doncic\u2019s in Dallas,but the fully guaranteed $88.8 million Washigton\u2019s owed over the next four years isn\u2019t appealing to the Lakers.New York Post",
-        "text_html": "The Lakers have long been tied to trade rumors with Mavericks forward PJ Washington, a former teammate of Doncic\u2019s in Dallas, <a href=\"https://nypost.com/2026/07/08/sports/nba-free-agency-how-can-lakers-acquire-jonathan-kuminga/\" target=\"_blank\" style=\"color: #1a73e8;\">but the fully guaranteed $88.8 million Washigton\u2019s owed over the next four years isn\u2019t appealing to the Lakers</a>.",
-        "outlet": "New York Post",
-        "source_url": "https://nypost.com/2026/07/08/sports/nba-free-agency-how-can-lakers-acquire-jonathan-kuminga/"
       }
     ],
     "Domantas Sabonis": [
@@ -1813,20 +1791,6 @@
         "text_html": "Anthony Slater: <a href=\"https://www.youtube.com/watch?v=3fqW5xI4cLo&t=43s\" target=\"_blank\" style=\"color: #1a73e8;\">\"Rui Hachimura is a guy that (Warriors) looked at.</a> They wouldn't have gone to the full mid-level type number that they were willing to get to for LeBron James because again that would have cost Moses Moody on a trade and then a Draymond Green pay cut that clearly Draymond was executing only for LeBron James.\"",
         "outlet": "YouTube",
         "source_url": "https://www.youtube.com/watch?v=3fqW5xI4cLo&t=43s"
-      },
-      {
-        "date": "2026-07-11",
-        "text": "But the Warriors love Moses Moody. He\u2019s been a model role player during his five seasons in the Bay. He\u2019s a 24-year-old, 6-foot-5 wing who shot 40 percent from 3 last season and set career-highs in scoring average (12.1) and minutes per game (25.7).\u201cI\u2019m curious, so I had some conversations just trying to figure out what\u2019s going on,\u201d Moody said. \u201cBut I don\u2019t call Rich every day. I\u2019m not in it like that because I ain\u2019t got nothing to do with how it\u2019s gonna go down. So I\u2019m more so just watching.\u2026 Whenever something needs to be talked about is when it will.\u201dNew York Times",
-        "text_html": "But the Warriors love Moses Moody. He\u2019s been a model role player during his five seasons in the Bay. He\u2019s a 24-year-old, 6-foot-5 wing who shot 40 percent from 3 last season and set career-highs in scoring average (12.1) and minutes per game (25.7). <a href=\"https://www.nytimes.com/athletic/7437918/2026/07/11/moses-moody-golden-state-warriors-trade-rumors-rehab-steph-curry/\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cI\u2019m curious, so I had some conversations just trying to figure out what\u2019s going on,\u201d Moody said. \u201cBut I don\u2019t call Rich every day. I\u2019m not in it like that because I ain\u2019t got nothing to do with how it\u2019s gonna go down. So I\u2019m more so just watching.</a> \u2026 Whenever something needs to be talked about is when it will.\u201d",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/7437918/2026/07/11/moses-moody-golden-state-warriors-trade-rumors-rehab-steph-curry/"
-      },
-      {
-        "date": "2026-07-11",
-        "text": "He\u2019d much rather talk about the partnership with Trades 4 Life that will teach people trade and life skills during the youth summit than spend too much time worrying about if he\u2019ll be traded. Other players find trade speculation stressful, a reasonable response to the sudden life upheaval that ensues. But Moody\u2019s having too much fun creating something for young people in Little Rock.Moody said he hasn\u2019t\u00a0heard\u00a0from the Warriors. He said he checked in with Rich Paul, his agent, but has largely avoided the rampant dialogue about Warriors moves.New York Times",
-        "text_html": "He\u2019d much rather talk about the partnership with Trades 4 Life that will teach people trade and life skills during the youth summit than spend too much time worrying about if he\u2019ll be traded. Other players find trade speculation stressful, a reasonable response to the sudden life upheaval that ensues. But Moody\u2019s having too much fun creating something for young people in Little Rock. <a href=\"https://www.nytimes.com/athletic/7437918/2026/07/11/moses-moody-golden-state-warriors-trade-rumors-rehab-steph-curry/\" target=\"_blank\" style=\"color: #1a73e8;\">Moody said he hasn\u2019t heard from the Warriors. He said he checked in with Rich Paul, his agent, but has largely avoided the rampant dialogue about Warriors moves</a>.",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/7437918/2026/07/11/moses-moody-golden-state-warriors-trade-rumors-rehab-steph-curry/"
       }
     ],
     "Nikola Jovic": [
@@ -2646,15 +2610,6 @@
         "source_url": "https://x.com/KeithSmithNBA/status/2081566833396588767"
       }
     ],
-    "Dennis Schroeder": [
-      {
-        "date": "2026-07-28",
-        "text": "Draymond Green: \"I've also seen that Mike Dunleavy and Joe Lacob have gotten a lot of criticism for their lack of risk taking over the last few years, playing it for the post-Steph era. And listen, there's always going to be backlash when you're not winning. It happens to everyone. That's just what comes with the territory.But I don't think going to trade for Jimmy Butler would be considered lack of taking risks, especially signing him to a two-year $121 million extension. I don't think that would be considered a lack of taking risk.I also don't believe that trading for Dennis Schroeder, trying to make something happen, is a lack of taking risk.\"YouTube",
-        "text_html": "Draymond Green: \"I've also seen that Mike Dunleavy and Joe Lacob have gotten a lot of criticism for their lack of risk taking over the last few years, playing it for the post-Steph era. And listen, there's always going to be backlash when you're not winning. It happens to everyone. That's just what comes with the territory. <a href=\"https://www.youtube.com/watch?v=onjq0vxcNAg&t=672s\" target=\"_blank\" style=\"color: #1a73e8;\">But I don't think going to trade for Jimmy Butler would be considered lack of taking risks, especially signing him to a two-year $121 million extension. I don't think that would be considered a lack of taking risk.</a> I also don't believe that trading for Dennis Schroeder, trying to make something happen, is a lack of taking risk.\"",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=onjq0vxcNAg&t=672s"
-      }
-    ],
     "Chris Paul": [
       {
         "date": "2026-07-28",
@@ -3110,20 +3065,6 @@
         "text_html": "Now, Ware can continue his growth alongside three former Heat teammates in Milwaukee. The Heat traded guard Tyler Herro, forward Jaime Jaquez Jr. and guard Kasparas Jakucionis along with Ware to the Bucks. <a href=\"https://www.miamiherald.com/sports/nba/miami-heat/article316474294.html\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cThat helps out a lot more,\u201d Ware said of being traded to the Bucks with Herro, Jaquez and Jakucionis. \u201cSome guys, they get traded by themselves. So I would say it helps to have three guys with me.\u201d</a>",
         "outlet": "Miami Herald",
         "source_url": "https://www.miamiherald.com/sports/nba/miami-heat/article316474294.html"
-      },
-      {
-        "date": "2026-07-11",
-        "text": "In an interview with two South Florida beat reporters on Friday before news of the altercation with Adebayo became public, Herro said he anticipated the trade.\u201cI saw it coming,\u201d Herro said. \u201cIf any summer, it was going to be this summer, so I was anticipating this. And obviously not knowing Milwaukee, but I kind of figured I was going to get traded this summer. I\u2019m excited and happy it\u2019s Milwaukee.\u201dMiami Herald",
-        "text_html": "In an interview with two South Florida beat reporters on Friday before news of the altercation with Adebayo became public, Herro said he anticipated the trade. <a href=\"https://www.miamiherald.com/sports/nba/miami-heat/article316468103.html\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cI saw it coming,\u201d Herro said. \u201cIf any summer, it was going to be this summer, so I was anticipating this. And obviously not knowing Milwaukee, but I kind of figured I was going to get traded this summer. I\u2019m excited and happy it\u2019s Milwaukee.\u201d</a>",
-        "outlet": "Miami Herald",
-        "source_url": "https://www.miamiherald.com/sports/nba/miami-heat/article316468103.html"
-      },
-      {
-        "date": "2026-07-11",
-        "text": "Herro was involved in plenty of trade speculation throughout his seven seasons with the Heat. Whether it was for Damian Lillard, Kevin Durant, James Harden or Antetokounmpo, Herro was essentially part of trade rumors during every offseason of his Heat tenure.\u201cThat\u2019s part of it,\u201d Herro said. \u201cI think, I\u2019m sure there will still be rumors in Miami somewhere for someone. I\u2019ve said it though, Miami is an organization that wants to win championships and they want to compete.We\u2019ve obviously almost got there, and we\u2019ve had years where we\u2019ve lost in the first round, we\u2019ve had years where we didn\u2019t make the playoffs. So it\u2019s like, I\u2019ve been through every ending of the season. And it makes sense for them to want to get a fresh start, get someone like Giannis and build from there. So, it\u2019s understandable.\u201dMiami Herald",
-        "text_html": "Herro was involved in plenty of trade speculation throughout his seven seasons with the Heat. Whether it was for Damian Lillard, Kevin Durant, James Harden or Antetokounmpo, Herro was essentially part of trade rumors during every offseason of his Heat tenure. <a href=\"https://www.miamiherald.com/sports/nba/miami-heat/article316468103.html\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cThat\u2019s part of it,\u201d Herro said. \u201cI think, I\u2019m sure there will still be rumors in Miami somewhere for someone. I\u2019ve said it though, Miami is an organization that wants to win championships and they want to compete.</a> We\u2019ve obviously almost got there, and we\u2019ve had years where we\u2019ve lost in the first round, we\u2019ve had years where we didn\u2019t make the playoffs. So it\u2019s like, I\u2019ve been through every ending of the season. And it makes sense for them to want to get a fresh start, get someone like Giannis and build from there. So, it\u2019s understandable.\u201d",
-        "outlet": "Miami Herald",
-        "source_url": "https://www.miamiherald.com/sports/nba/miami-heat/article316468103.html"
       }
     ],
     "Brandon Ingram": [
@@ -3274,20 +3215,6 @@
         "text_html": "As Derrick White and Jordan Walsh went through a workout on one of the Cox Pavilion courts Saturday morning, head coach Joe Mazzulla detailed the respect he has for Brown, what Boston will miss most about him and the need to create a new path forward without him. After 10 highly successful seasons with Brown, Boston will take on a different look with Paul George, Mitchell Robinson and Mike Conley now on the roster. <a href=\"https://www.nytimes.com/athletic/7439198/2026/07/12/celtics-joe-mazzulla-jaylen-brown-trade/\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cThere needs to be a grieving process for losing not just a player in Jaylen, but a person in Jaylen,\u201d Mazzulla said in an interview with The Athletic.</a> \u201cThere needs to be a grieving process that this guy, what he has done on the court and what he\u2019s done in the community and what he\u2019s done for the city of Boston, there should be a grieving process. But the \u2026 gray area is throughout that loss, you\u2019re also gaining.\u201d",
         "outlet": "New York Times",
         "source_url": "https://www.nytimes.com/athletic/7439198/2026/07/12/celtics-joe-mazzulla-jaylen-brown-trade/"
-      },
-      {
-        "date": "2026-07-11",
-        "text": "Derrick White was home with his wife when he found out that Jaylen Brown, one of his longest-tenured teammates, had been traded.\u201cIt\u2019s tough to see someone get traded, and JB\u2019s been an amazing teammate, amazing friend to me, and kind of welcomed me when I got traded to Boston,\u201d he said.\u201cSo I\u2019m always thankful for my time that I spent with JB, and it\u2019s obviously always tough to get traded, and I know how that feels.\u201d White said he reached out to Brown soon after the trade with a simple message: \u201cThank you for everything you did for me.\u201dCeltics Blog",
-        "text_html": "Derrick White was home with his wife when he found out that Jaylen Brown, one of his longest-tenured teammates, had been traded. <a href=\"https://www.celticsblog.com/boston-celtics-news/143400/jaylen-brown-trade-derrick-white-neemias-queta-hugo-gonzalez\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cIt\u2019s tough to see someone get traded, and JB\u2019s been an amazing teammate, amazing friend to me, and kind of welcomed me when I got traded to Boston,\u201d he said.</a> \u201cSo I\u2019m always thankful for my time that I spent with JB, and it\u2019s obviously always tough to get traded, and I know how that feels.\u201d White said he reached out to Brown soon after the trade with a simple message: \u201cThank you for everything you did for me.\u201d",
-        "outlet": "Celtics Blog",
-        "source_url": "https://www.celticsblog.com/boston-celtics-news/143400/jaylen-brown-trade-derrick-white-neemias-queta-hugo-gonzalez"
-      },
-      {
-        "date": "2026-07-11",
-        "text": "Bobby Krivitsky: I asked Derrick White about how he\u2019s processing the Jaylen Brown trade, both in terms of their relationship and what this means for his role or what the Celtics will need from him going forward.\u201cTell him thank you for everything he did for me, and just know how much he means to me.\u201dtrade, both in terms of their relationship and what this means for his role or what the Celtics will need from him going forward. \u201cTell him thank you for everything he did for me, and just know how much he means tox.com",
-        "text_html": "Bobby Krivitsky: I asked Derrick White about how he\u2019s processing the Jaylen Brown trade, both in terms of their relationship and what this means for his role or what the Celtics will need from him going forward. <a href=\"https://x.com/BobbyKrivitsky/status/2075767847725473932\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cTell him thank you for everything he did for me, and just know how much he means to me.\u201dtrade, both in terms of their relationship and what this means for his role or what the Celtics will need from him going forward</a>. \u201cTell him thank you for everything he did for me, and just know how much he means to",
-        "outlet": "x.com",
-        "source_url": "https://x.com/BobbyKrivitsky/status/2075767847725473932"
       }
     ],
     "Mitchell Robinson": [
@@ -3307,28 +3234,15 @@
         "outlet": "New York Times",
         "source_url": "https://www.nytimes.com/athletic/7439198/2026/07/12/celtics-joe-mazzulla-jaylen-brown-trade/"
       }
-    ],
-    "Ja Morant": [
-      {
-        "date": "2026-07-11",
-        "text": "Ben Golliver:Ja Morant still adjusting to life with the Portland Trail Blazers after the trade from the Memphis Grizzlies. \u201cOh my God, I signed with the number 12!\u201dx.com",
-        "text_html": "Ben Golliver: <a href=\"https://x.com/BenGolliver/status/2075998936482144648?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">Ja Morant still adjusting to life with the Portland Trail Blazers after the trade from the Memphis Grizzlies. \u201cOh my God, I signed with the number 12!\u201d</a>",
-        "outlet": "x.com",
-        "source_url": "https://x.com/BenGolliver/status/2075998936482144648?s=20"
-      }
-    ],
-    "Neemias Queta": [
-      {
-        "date": "2026-07-11",
-        "text": "Neemias Queta, who has been teammates with Brown for three years, also spoke to reporters on Friday night for the first time since the trade. \u201cIt\u2019s not easy,\u201d Queta said. \u201cI think you feel for him. Obviously, it wasn\u2019t easy for him as well. But at the end of the day, it\u2019s part of the business. You know what\u2019s happening. You know it can happen at any moment.But Jaylen\u2019s a guy that you can\u2019t replace in the city. Really, really hard to replace on the court as well. He did so much for Boston in general, and he will definitely be missed.\u201dCeltics Blog",
-        "text_html": "Neemias Queta, who has been teammates with Brown for three years, also spoke to reporters on Friday night for the first time since the trade. \u201cIt\u2019s not easy,\u201d Queta said. \u201cI think you feel for him. Obviously, it wasn\u2019t easy for him as well. But at the end of the day, it\u2019s part of the business. You know what\u2019s happening. You know it can happen at any moment. <a href=\"https://www.celticsblog.com/boston-celtics-news/143400/jaylen-brown-trade-derrick-white-neemias-queta-hugo-gonzalez\" target=\"_blank\" style=\"color: #1a73e8;\">But Jaylen\u2019s a guy that you can\u2019t replace in the city. Really, really hard to replace on the court as well. He did so much for Boston in general, and he will definitely be missed.\u201d</a>",
-        "outlet": "Celtics Blog",
-        "source_url": "https://www.celticsblog.com/boston-celtics-news/143400/jaylen-brown-trade-derrick-white-neemias-queta-hugo-gonzalez"
-      }
     ]
   },
   "daily_counts": {
+    "Dennis Schroeder": {
+      "2026-08-08": 1,
+      "2026-07-28": 1
+    },
     "Jonathan Kuminga": {
+      "2026-08-08": 1,
       "2026-08-07": 1,
       "2026-08-06": 2,
       "2026-08-05": 2,
@@ -3339,6 +3253,18 @@
       "2026-07-22": 3,
       "2026-07-17": 1,
       "2026-07-13": 2
+    },
+    "Peyton Watson": {
+      "2026-08-08": 1,
+      "2026-08-06": 3,
+      "2026-08-05": 1,
+      "2026-08-03": 2,
+      "2026-07-31": 3,
+      "2026-07-28": 2,
+      "2026-07-26": 1,
+      "2026-07-17": 1,
+      "2026-07-16": 1,
+      "2026-07-14": 1
     },
     "Klay Thompson": {
       "2026-08-07": 1,
@@ -3361,8 +3287,7 @@
       "2026-07-28": 1,
       "2026-07-16": 2,
       "2026-07-15": 2,
-      "2026-07-12": 4,
-      "2026-07-11": 3
+      "2026-07-12": 4
     },
     "Donte DiVincenzo": {
       "2026-08-06": 1
@@ -3376,17 +3301,6 @@
     "Collin Murray-Boyles": {
       "2026-08-06": 1
     },
-    "Peyton Watson": {
-      "2026-08-06": 3,
-      "2026-08-05": 1,
-      "2026-08-03": 2,
-      "2026-07-31": 3,
-      "2026-07-28": 2,
-      "2026-07-26": 1,
-      "2026-07-17": 1,
-      "2026-07-16": 1,
-      "2026-07-14": 1
-    },
     "Luka Doncic": {
       "2026-08-06": 2,
       "2026-07-27": 1,
@@ -3396,8 +3310,7 @@
     "PJ Washington": {
       "2026-08-06": 2,
       "2026-07-22": 1,
-      "2026-07-19": 1,
-      "2026-07-11": 1
+      "2026-07-19": 1
     },
     "Domantas Sabonis": {
       "2026-08-05": 2
@@ -3426,8 +3339,7 @@
     },
     "Moses Moody": {
       "2026-08-05": 1,
-      "2026-07-31": 1,
-      "2026-07-11": 2
+      "2026-07-31": 1
     },
     "Nikola Jovic": {
       "2026-08-05": 1,
@@ -3561,9 +3473,6 @@
       "2026-07-27": 1,
       "2026-07-26": 1
     },
-    "Dennis Schroeder": {
-      "2026-07-28": 1
-    },
     "Chris Paul": {
       "2026-07-28": 1
     },
@@ -3669,8 +3578,7 @@
     "Tyler Herro": {
       "2026-07-20": 1,
       "2026-07-14": 2,
-      "2026-07-12": 1,
-      "2026-07-11": 2
+      "2026-07-12": 1
     },
     "Brandon Ingram": {
       "2026-07-20": 1,
@@ -3708,20 +3616,13 @@
       "2026-07-12": 1
     },
     "Derrick White": {
-      "2026-07-12": 1,
-      "2026-07-11": 2
+      "2026-07-12": 1
     },
     "Mitchell Robinson": {
       "2026-07-12": 1
     },
     "Jordan Walsh": {
       "2026-07-12": 1
-    },
-    "Ja Morant": {
-      "2026-07-11": 1
-    },
-    "Neemias Queta": {
-      "2026-07-11": 1
     }
   }
 }
