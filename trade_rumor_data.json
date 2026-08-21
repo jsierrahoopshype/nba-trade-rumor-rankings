@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-20T19:30:35.228384",
+  "generated_at": "2026-08-21T02:22:21.567214",
   "scrape_window_days": 28,
-  "window_start": "2026-07-23",
-  "window_end": "2026-08-20",
-  "total_rumors": 266,
-  "total_players": 78,
+  "window_start": "2026-07-24",
+  "window_end": "2026-08-21",
+  "total_rumors": 249,
+  "total_players": 76,
   "rankings": [
     {
       "player": "Peyton Watson",
-      "score": 19.25,
+      "score": 18.5,
       "mentions_week1": 13,
-      "mentions_week2": 8,
-      "mentions_weeks3_4": 9,
+      "mentions_week2": 5,
+      "mentions_weeks3_4": 12,
       "total_mentions": 30,
       "first_mention": "2026-07-26",
       "last_mention": "2026-08-20",
@@ -44,27 +44,15 @@
     },
     {
       "player": "James Harden",
-      "score": 7.5,
-      "mentions_week1": 7,
-      "mentions_week2": 1,
+      "score": 6.5,
+      "mentions_week1": 5,
+      "mentions_week2": 3,
       "mentions_weeks3_4": 0,
       "total_mentions": 8,
       "first_mention": "2026-08-11",
       "last_mention": "2026-08-20",
       "team": "Los Angeles Clippers",
       "rank": 4
-    },
-    {
-      "player": "Jonathan Kuminga",
-      "score": 6.5,
-      "mentions_week1": 2,
-      "mentions_week2": 5,
-      "mentions_weeks3_4": 8,
-      "total_mentions": 15,
-      "first_mention": "2026-07-24",
-      "last_mention": "2026-08-14",
-      "team": "Golden State Warriors",
-      "rank": 5
     },
     {
       "player": "Klay Thompson",
@@ -76,6 +64,18 @@
       "first_mention": "2026-07-24",
       "last_mention": "2026-08-17",
       "team": "Dallas Mavericks",
+      "rank": 5
+    },
+    {
+      "player": "Jonathan Kuminga",
+      "score": 6.0,
+      "mentions_week1": 2,
+      "mentions_week2": 3,
+      "mentions_weeks3_4": 10,
+      "total_mentions": 15,
+      "first_mention": "2026-07-24",
+      "last_mention": "2026-08-14",
+      "team": "Golden State Warriors",
       "rank": 6
     },
     {
@@ -91,18 +91,6 @@
       "rank": 7
     },
     {
-      "player": "LeBron James",
-      "score": 4.75,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 15,
-      "total_mentions": 16,
-      "first_mention": "2026-07-23",
-      "last_mention": "2026-08-13",
-      "team": "Los Angeles Lakers",
-      "rank": 8
-    },
-    {
       "player": "Kawhi Leonard",
       "score": 4.5,
       "mentions_week1": 2,
@@ -112,31 +100,19 @@
       "first_mention": "2026-07-30",
       "last_mention": "2026-08-18",
       "team": "Los Angeles Clippers",
-      "rank": 9
+      "rank": 8
     },
     {
-      "player": "Stephen Curry",
-      "score": 3.0,
-      "mentions_week1": 1,
+      "player": "LeBron James",
+      "score": 3.25,
+      "mentions_week1": 0,
       "mentions_week2": 1,
-      "mentions_weeks3_4": 6,
-      "total_mentions": 8,
-      "first_mention": "2026-07-29",
+      "mentions_weeks3_4": 11,
+      "total_mentions": 12,
+      "first_mention": "2026-07-24",
       "last_mention": "2026-08-13",
-      "team": "Golden State Warriors",
-      "rank": 10
-    },
-    {
-      "player": "PJ Washington",
-      "score": 3.0,
-      "mentions_week1": 2,
-      "mentions_week2": 2,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 4,
-      "first_mention": "2026-08-06",
-      "last_mention": "2026-08-17",
-      "team": "Dallas Mavericks",
-      "rank": 11
+      "team": "Los Angeles Lakers",
+      "rank": 9
     },
     {
       "player": "Johni Broome",
@@ -148,14 +124,38 @@
       "first_mention": "2026-07-26",
       "last_mention": "2026-08-19",
       "team": "Cleveland Cavaliers",
+      "rank": 10
+    },
+    {
+      "player": "Stephen Curry",
+      "score": 2.5,
+      "mentions_week1": 0,
+      "mentions_week2": 2,
+      "mentions_weeks3_4": 6,
+      "total_mentions": 8,
+      "first_mention": "2026-07-29",
+      "last_mention": "2026-08-13",
+      "team": "Golden State Warriors",
+      "rank": 11
+    },
+    {
+      "player": "PJ Washington",
+      "score": 2.5,
+      "mentions_week1": 2,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 2,
+      "total_mentions": 4,
+      "first_mention": "2026-08-06",
+      "last_mention": "2026-08-17",
+      "team": "Dallas Mavericks",
       "rank": 12
     },
     {
       "player": "Jaylen Brown",
-      "score": 2.75,
+      "score": 2.25,
       "mentions_week1": 1,
-      "mentions_week2": 2,
-      "mentions_weeks3_4": 3,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 5,
       "total_mentions": 6,
       "first_mention": "2026-07-28",
       "last_mention": "2026-08-19",
@@ -164,10 +164,10 @@
     },
     {
       "player": "Luka Doncic",
-      "score": 2.25,
+      "score": 1.75,
       "mentions_week1": 1,
-      "mentions_week2": 2,
-      "mentions_weeks3_4": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 3,
       "total_mentions": 4,
       "first_mention": "2026-07-27",
       "last_mention": "2026-08-20",
@@ -176,75 +176,15 @@
     },
     {
       "player": "LaMelo Ball",
-      "score": 2.25,
-      "mentions_week1": 2,
-      "mentions_week2": 0,
+      "score": 1.75,
+      "mentions_week1": 1,
+      "mentions_week2": 1,
       "mentions_weeks3_4": 1,
       "total_mentions": 3,
       "first_mention": "2026-07-24",
       "last_mention": "2026-08-16",
       "team": "Charlotte Hornets",
       "rank": 15
-    },
-    {
-      "player": "Darius Garland",
-      "score": 2.0,
-      "mentions_week1": 2,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 2,
-      "first_mention": "2026-08-13",
-      "last_mention": "2026-08-20",
-      "team": "Cleveland Cavaliers",
-      "rank": 16
-    },
-    {
-      "player": "Tyrese Haliburton",
-      "score": 2.0,
-      "mentions_week1": 2,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 2,
-      "first_mention": "2026-08-13",
-      "last_mention": "2026-08-16",
-      "team": "Indiana Pacers",
-      "rank": 17
-    },
-    {
-      "player": "Anthony Davis",
-      "score": 1.75,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 7,
-      "total_mentions": 7,
-      "first_mention": "2026-07-23",
-      "last_mention": "2026-07-29",
-      "team": "Dallas Mavericks",
-      "rank": 18
-    },
-    {
-      "player": "Bobby Portis",
-      "score": 1.5,
-      "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 4,
-      "total_mentions": 5,
-      "first_mention": "2026-07-23",
-      "last_mention": "2026-08-11",
-      "team": "Milwaukee Bucks",
-      "rank": 19
-    },
-    {
-      "player": "Bennedict Mathurin",
-      "score": 1.5,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 3,
-      "first_mention": "2026-07-23",
-      "last_mention": "2026-08-19",
-      "team": "Indiana Pacers",
-      "rank": 20
     },
     {
       "player": "Domantas Sabonis",
@@ -256,7 +196,7 @@
       "first_mention": "2026-08-05",
       "last_mention": "2026-08-16",
       "team": "Sacramento Kings",
-      "rank": 21
+      "rank": 16
     },
     {
       "player": "Brandon Ingram",
@@ -268,7 +208,19 @@
       "first_mention": "2026-08-10",
       "last_mention": "2026-08-17",
       "team": "Toronto Raptors",
-      "rank": 22
+      "rank": 17
+    },
+    {
+      "player": "Darius Garland",
+      "score": 1.5,
+      "mentions_week1": 1,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 2,
+      "first_mention": "2026-08-13",
+      "last_mention": "2026-08-20",
+      "team": "Cleveland Cavaliers",
+      "rank": 18
     },
     {
       "player": "Gradey Dick",
@@ -280,19 +232,31 @@
       "first_mention": "2026-08-10",
       "last_mention": "2026-08-17",
       "team": "Toronto Raptors",
-      "rank": 23
+      "rank": 19
     },
     {
-      "player": "Giannis Antetokounmpo",
+      "player": "Tyrese Haliburton",
+      "score": 1.5,
+      "mentions_week1": 1,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 2,
+      "first_mention": "2026-08-13",
+      "last_mention": "2026-08-16",
+      "team": "Indiana Pacers",
+      "rank": 20
+    },
+    {
+      "player": "Bobby Portis",
       "score": 1.25,
       "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 5,
-      "total_mentions": 5,
-      "first_mention": "2026-07-23",
-      "last_mention": "2026-07-30",
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 3,
+      "total_mentions": 4,
+      "first_mention": "2026-07-28",
+      "last_mention": "2026-08-11",
       "team": "Milwaukee Bucks",
-      "rank": 24
+      "rank": 21
     },
     {
       "player": "De'Aaron Fox",
@@ -304,7 +268,19 @@
       "first_mention": "2026-07-29",
       "last_mention": "2026-08-10",
       "team": "San Antonio Spurs",
-      "rank": 25
+      "rank": 22
+    },
+    {
+      "player": "Bennedict Mathurin",
+      "score": 1.25,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 2,
+      "first_mention": "2026-07-31",
+      "last_mention": "2026-08-19",
+      "team": "Indiana Pacers",
+      "rank": 23
     },
     {
       "player": "Kevin Durant",
@@ -316,7 +292,7 @@
       "first_mention": "2026-08-04",
       "last_mention": "2026-08-16",
       "team": "Houston Rockets",
-      "rank": 26
+      "rank": 24
     },
     {
       "player": "Jimmy Butler",
@@ -328,7 +304,7 @@
       "first_mention": "2026-07-28",
       "last_mention": "2026-08-05",
       "team": "Golden State Warriors",
-      "rank": 27
+      "rank": 25
     },
     {
       "player": "Paul George",
@@ -340,7 +316,7 @@
       "first_mention": "2026-07-26",
       "last_mention": "2026-08-04",
       "team": "Philadelphia 76ers",
-      "rank": 28
+      "rank": 26
     },
     {
       "player": "Anthony Edwards",
@@ -352,7 +328,7 @@
       "first_mention": "2026-08-16",
       "last_mention": "2026-08-16",
       "team": "Minnesota Timberwolves",
-      "rank": 29
+      "rank": 27
     },
     {
       "player": "Isaiah Hartenstein",
@@ -364,19 +340,7 @@
       "first_mention": "2026-08-16",
       "last_mention": "2026-08-16",
       "team": "Oklahoma City Thunder",
-      "rank": 30
-    },
-    {
-      "player": "Ivica Zubac",
-      "score": 1.0,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-08-13",
-      "last_mention": "2026-08-13",
-      "team": "Los Angeles Clippers",
-      "rank": 31
+      "rank": 28
     },
     {
       "player": "John Collins",
@@ -388,7 +352,7 @@
       "first_mention": "2026-08-19",
       "last_mention": "2026-08-19",
       "team": "Los Angeles Clippers",
-      "rank": 32
+      "rank": 29
     },
     {
       "player": "Lonzo Ball",
@@ -400,7 +364,7 @@
       "first_mention": "2026-08-19",
       "last_mention": "2026-08-19",
       "team": "Cleveland Cavaliers",
-      "rank": 33
+      "rank": 30
     },
     {
       "player": "Russell Westbrook",
@@ -412,7 +376,7 @@
       "first_mention": "2026-08-19",
       "last_mention": "2026-08-19",
       "team": "Cleveland Cavaliers",
-      "rank": 34
+      "rank": 31
     },
     {
       "player": "Bradley Beal",
@@ -424,7 +388,7 @@
       "first_mention": "2026-07-24",
       "last_mention": "2026-07-30",
       "team": "Los Angeles Clippers",
-      "rank": 35
+      "rank": 32
     },
     {
       "player": "Draymond Green",
@@ -436,7 +400,19 @@
       "first_mention": "2026-07-28",
       "last_mention": "2026-07-31",
       "team": "Golden State Warriors",
-      "rank": 36
+      "rank": 33
+    },
+    {
+      "player": "Giannis Antetokounmpo",
+      "score": 0.75,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 3,
+      "total_mentions": 3,
+      "first_mention": "2026-07-28",
+      "last_mention": "2026-07-30",
+      "team": "Milwaukee Bucks",
+      "rank": 34
     },
     {
       "player": "Kentavious Caldwell-Pope",
@@ -448,7 +424,7 @@
       "first_mention": "2026-07-26",
       "last_mention": "2026-07-28",
       "team": "Memphis Grizzlies",
-      "rank": 37
+      "rank": 35
     },
     {
       "player": "Kyrie Irving",
@@ -460,19 +436,19 @@
       "first_mention": "2026-07-24",
       "last_mention": "2026-07-27",
       "team": "Dallas Mavericks",
-      "rank": 38
+      "rank": 36
     },
     {
-      "player": "Davion Mitchell",
+      "player": "Anthony Davis",
       "score": 0.5,
       "mentions_week1": 0,
       "mentions_week2": 0,
       "mentions_weeks3_4": 2,
       "total_mentions": 2,
-      "first_mention": "2026-07-23",
-      "last_mention": "2026-08-01",
+      "first_mention": "2026-07-24",
+      "last_mention": "2026-07-29",
       "team": "Dallas Mavericks",
-      "rank": 39
+      "rank": 37
     },
     {
       "player": "DeMar DeRozan",
@@ -484,19 +460,7 @@
       "first_mention": "2026-07-24",
       "last_mention": "2026-07-27",
       "team": "Sacramento Kings",
-      "rank": 40
-    },
-    {
-      "player": "Jordan Hawkins",
-      "score": 0.5,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 2,
-      "first_mention": "2026-07-23",
-      "last_mention": "2026-07-31",
-      "team": "Memphis Grizzlies",
-      "rank": 41
+      "rank": 38
     },
     {
       "player": "Keldon Johnson",
@@ -508,7 +472,7 @@
       "first_mention": "2026-07-29",
       "last_mention": "2026-07-31",
       "team": "San Antonio Spurs",
-      "rank": 42
+      "rank": 39
     },
     {
       "player": "Moses Moody",
@@ -520,7 +484,7 @@
       "first_mention": "2026-07-31",
       "last_mention": "2026-08-05",
       "team": "Golden State Warriors",
-      "rank": 43
+      "rank": 40
     },
     {
       "player": "Nikola Jovic",
@@ -532,7 +496,7 @@
       "first_mention": "2026-08-01",
       "last_mention": "2026-08-05",
       "team": "Dallas Mavericks",
-      "rank": 44
+      "rank": 41
     },
     {
       "player": "Ron Harper Jr",
@@ -544,7 +508,7 @@
       "first_mention": "2026-08-04",
       "last_mention": "2026-08-04",
       "team": "Boston Celtics",
-      "rank": 45
+      "rank": 42
     },
     {
       "player": "Spencer Jones",
@@ -556,7 +520,7 @@
       "first_mention": "2026-07-26",
       "last_mention": "2026-07-27",
       "team": "Denver Nuggets",
-      "rank": 46
+      "rank": 43
     },
     {
       "player": "Zeke Nnaji",
@@ -568,19 +532,7 @@
       "first_mention": "2026-07-31",
       "last_mention": "2026-08-03",
       "team": "Denver Nuggets",
-      "rank": 47
-    },
-    {
-      "player": "Collin Murray-Boyles",
-      "score": 0.5,
-      "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-08-06",
-      "last_mention": "2026-08-06",
-      "team": "Memphis Grizzlies",
-      "rank": 48
+      "rank": 44
     },
     {
       "player": "D'Angelo Russell",
@@ -592,31 +544,19 @@
       "first_mention": "2026-08-10",
       "last_mention": "2026-08-10",
       "team": "Dallas Mavericks",
-      "rank": 49
+      "rank": 45
     },
     {
-      "player": "Donte DiVincenzo",
+      "player": "Ivica Zubac",
       "score": 0.5,
       "mentions_week1": 0,
       "mentions_week2": 1,
       "mentions_weeks3_4": 0,
       "total_mentions": 1,
-      "first_mention": "2026-08-06",
-      "last_mention": "2026-08-06",
-      "team": "Minnesota Timberwolves",
-      "rank": 50
-    },
-    {
-      "player": "Ja'Kobe Walter",
-      "score": 0.5,
-      "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-08-06",
-      "last_mention": "2026-08-06",
-      "team": "Memphis Grizzlies",
-      "rank": 51
+      "first_mention": "2026-08-13",
+      "last_mention": "2026-08-13",
+      "team": "Los Angeles Clippers",
+      "rank": 46
     },
     {
       "player": "Karlo Matkovic",
@@ -628,7 +568,7 @@
       "first_mention": "2026-08-10",
       "last_mention": "2026-08-10",
       "team": "Dallas Mavericks",
-      "rank": 52
+      "rank": 47
     },
     {
       "player": "Moussa Cisse",
@@ -640,7 +580,7 @@
       "first_mention": "2026-08-10",
       "last_mention": "2026-08-10",
       "team": "Dallas Mavericks",
-      "rank": 53
+      "rank": 48
     },
     {
       "player": "Norman Powell",
@@ -652,19 +592,7 @@
       "first_mention": "2026-08-11",
       "last_mention": "2026-08-11",
       "team": "Miami Heat",
-      "rank": 54
-    },
-    {
-      "player": "Trayce Jackson-Davis",
-      "score": 0.5,
-      "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-08-06",
-      "last_mention": "2026-08-06",
-      "team": "Memphis Grizzlies",
-      "rank": 55
+      "rank": 49
     },
     {
       "player": "AJ Johnson",
@@ -676,19 +604,7 @@
       "first_mention": "2026-07-31",
       "last_mention": "2026-07-31",
       "team": "Memphis Grizzlies",
-      "rank": 56
-    },
-    {
-      "player": "Andrew Wiggins",
-      "score": 0.25,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 1,
-      "first_mention": "2026-07-23",
-      "last_mention": "2026-07-23",
-      "team": "Miami Heat",
-      "rank": 57
+      "rank": 50
     },
     {
       "player": "Bronny James",
@@ -700,7 +616,7 @@
       "first_mention": "2026-07-24",
       "last_mention": "2026-07-24",
       "team": "Los Angeles Lakers",
-      "rank": 58
+      "rank": 51
     },
     {
       "player": "Cade Cunningham",
@@ -712,7 +628,7 @@
       "first_mention": "2026-08-04",
       "last_mention": "2026-08-04",
       "team": "Detroit Pistons",
-      "rank": 59
+      "rank": 52
     },
     {
       "player": "Chris Paul",
@@ -724,7 +640,19 @@
       "first_mention": "2026-07-28",
       "last_mention": "2026-07-28",
       "team": "Los Angeles Clippers",
-      "rank": 60
+      "rank": 53
+    },
+    {
+      "player": "Collin Murray-Boyles",
+      "score": 0.25,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 1,
+      "first_mention": "2026-08-06",
+      "last_mention": "2026-08-06",
+      "team": "Memphis Grizzlies",
+      "rank": 54
     },
     {
       "player": "Dalton Knecht",
@@ -736,7 +664,7 @@
       "first_mention": "2026-07-24",
       "last_mention": "2026-07-24",
       "team": "Los Angeles Lakers",
-      "rank": 61
+      "rank": 55
     },
     {
       "player": "Damian Lillard",
@@ -748,7 +676,19 @@
       "first_mention": "2026-07-30",
       "last_mention": "2026-07-30",
       "team": "Cleveland Cavaliers",
-      "rank": 62
+      "rank": 56
+    },
+    {
+      "player": "Davion Mitchell",
+      "score": 0.25,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 1,
+      "first_mention": "2026-08-01",
+      "last_mention": "2026-08-01",
+      "team": "Dallas Mavericks",
+      "rank": 57
     },
     {
       "player": "Deandre Ayton",
@@ -760,7 +700,7 @@
       "first_mention": "2026-07-30",
       "last_mention": "2026-07-30",
       "team": "Los Angeles Lakers",
-      "rank": 63
+      "rank": 58
     },
     {
       "player": "Dillon Brooks",
@@ -772,7 +712,19 @@
       "first_mention": "2026-07-31",
       "last_mention": "2026-07-31",
       "team": "Phoenix Suns",
-      "rank": 64
+      "rank": 59
+    },
+    {
+      "player": "Donte DiVincenzo",
+      "score": 0.25,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 1,
+      "first_mention": "2026-08-06",
+      "last_mention": "2026-08-06",
+      "team": "Minnesota Timberwolves",
+      "rank": 60
     },
     {
       "player": "Isaac Okoro",
@@ -784,7 +736,19 @@
       "first_mention": "2026-07-26",
       "last_mention": "2026-07-26",
       "team": "Chicago Bulls",
-      "rank": 65
+      "rank": 61
+    },
+    {
+      "player": "Ja'Kobe Walter",
+      "score": 0.25,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 1,
+      "first_mention": "2026-08-06",
+      "last_mention": "2026-08-06",
+      "team": "Memphis Grizzlies",
+      "rank": 62
     },
     {
       "player": "Jabari Walker",
@@ -796,7 +760,7 @@
       "first_mention": "2026-07-27",
       "last_mention": "2026-07-27",
       "team": "Philadelphia 76ers",
-      "rank": 66
+      "rank": 63
     },
     {
       "player": "Jaden Hardy",
@@ -808,7 +772,7 @@
       "first_mention": "2026-07-24",
       "last_mention": "2026-07-24",
       "team": "Los Angeles Lakers",
-      "rank": 67
+      "rank": 64
     },
     {
       "player": "Jakob Poeltl",
@@ -820,7 +784,7 @@
       "first_mention": "2026-08-05",
       "last_mention": "2026-08-05",
       "team": "Toronto Raptors",
-      "rank": 68
+      "rank": 65
     },
     {
       "player": "Jalen Duren",
@@ -832,7 +796,7 @@
       "first_mention": "2026-08-05",
       "last_mention": "2026-08-05",
       "team": "Detroit Pistons",
-      "rank": 69
+      "rank": 66
     },
     {
       "player": "Jarred Vanderbilt",
@@ -844,7 +808,7 @@
       "first_mention": "2026-07-24",
       "last_mention": "2026-07-24",
       "team": "Los Angeles Lakers",
-      "rank": 70
+      "rank": 67
     },
     {
       "player": "Jarrett Allen",
@@ -856,7 +820,7 @@
       "first_mention": "2026-07-28",
       "last_mention": "2026-07-28",
       "team": "Cleveland Cavaliers",
-      "rank": 71
+      "rank": 68
     },
     {
       "player": "Jayson Tatum",
@@ -868,7 +832,19 @@
       "first_mention": "2026-07-29",
       "last_mention": "2026-07-29",
       "team": "Boston Celtics",
-      "rank": 72
+      "rank": 69
+    },
+    {
+      "player": "Jordan Hawkins",
+      "score": 0.25,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 1,
+      "first_mention": "2026-07-31",
+      "last_mention": "2026-07-31",
+      "team": "Memphis Grizzlies",
+      "rank": 70
     },
     {
       "player": "Kasparas Jakucionis",
@@ -880,7 +856,7 @@
       "first_mention": "2026-07-24",
       "last_mention": "2026-07-24",
       "team": "Miami Heat",
-      "rank": 73
+      "rank": 71
     },
     {
       "player": "Kon Knueppel",
@@ -892,7 +868,7 @@
       "first_mention": "2026-07-24",
       "last_mention": "2026-07-24",
       "team": "Charlotte Hornets",
-      "rank": 74
+      "rank": 72
     },
     {
       "player": "RJ Barrett",
@@ -904,7 +880,7 @@
       "first_mention": "2026-08-05",
       "last_mention": "2026-08-05",
       "team": "Sacramento Kings",
-      "rank": 75
+      "rank": 73
     },
     {
       "player": "Rui Hachimura",
@@ -916,19 +892,19 @@
       "first_mention": "2026-07-31",
       "last_mention": "2026-07-31",
       "team": "Los Angeles Lakers",
-      "rank": 76
+      "rank": 74
     },
     {
-      "player": "Tim Hardaway Jr",
+      "player": "Trayce Jackson-Davis",
       "score": 0.25,
       "mentions_week1": 0,
       "mentions_week2": 0,
       "mentions_weeks3_4": 1,
       "total_mentions": 1,
-      "first_mention": "2026-07-23",
-      "last_mention": "2026-07-23",
-      "team": "Cleveland Cavaliers",
-      "rank": 77
+      "first_mention": "2026-08-06",
+      "last_mention": "2026-08-06",
+      "team": "Memphis Grizzlies",
+      "rank": 75
     },
     {
       "player": "Zach LaVine",
@@ -940,7 +916,7 @@
       "first_mention": "2026-08-03",
       "last_mention": "2026-08-03",
       "team": "Sacramento Kings",
-      "rank": 78
+      "rank": 76
     }
   ],
   "player_rumors": {
@@ -1443,13 +1419,6 @@
         "text_html": "<a href=\"https://www.hoopshype.com/story/sports/nba/2026/07/31/nba-intel-james-harden-peyton-watson-jonathan-kuminga-benn-mathurin-more/91120190007/\" target=\"_blank\" style=\"color: #1a73e8;\">While the Los Angeles Clippers remain interested in re-signing restricted free agent Bennedict Mathurin, the New Orleans Pelicans, Chicago Bulls, Milwaukee Bucks, and Dallas Mavericks have expressed sign-and-trade interest in the 24-year-old swingman,</a> league sources told HoopsHype. With that said, there\u2019s work to be done by each team if they\u2019re going to add Mathurin.",
         "outlet": "HoopsHype",
         "source_url": "https://www.hoopshype.com/story/sports/nba/2026/07/31/nba-intel-james-harden-peyton-watson-jonathan-kuminga-benn-mathurin-more/91120190007/"
-      },
-      {
-        "date": "2026-07-23",
-        "text": "The Clippers \u2014\u00a0unlike Detroit's stance with restricted free agent big man Duren\u00a0\u2014 have not ruled out participating in a sign-and-trade that lands Bennedict Mathurin elsewhere. Word is they would consider that outcome as well.Yet the Clippers' preferred outcome, we\u00a0hear, is striking their own deal with Mathurin.marcstein.substack.com",
-        "text_html": "The Clippers \u2014 unlike Detroit's stance with restricted free agent big man Duren \u2014 have not ruled out participating in a sign-and-trade that lands Bennedict Mathurin elsewhere. Word is they would consider that outcome as well. <a href=\"https://marcstein.substack.com/p/yup-yet-again-late-night-nba-intel\" target=\"_blank\" style=\"color: #1a73e8;\">Yet the Clippers' preferred outcome, we hear, is striking their own deal with Mathurin</a>.",
-        "outlet": "marcstein.substack.com",
-        "source_url": "https://marcstein.substack.com/p/yup-yet-again-late-night-nba-intel"
       }
     ],
     "Lonzo Ball": [
@@ -2135,34 +2104,6 @@
         "text_html": "League sources said <a href=\"https://www.espn.com/nba/story/_/id/49434263/nba-free-agency-lebron-james-heat-cavaliers-reunion-close-chapter\" target=\"_blank\" style=\"color: #1a73e8;\">LeBron James had been angling for former teammate Kyrie Irving to join him in Cleveland, but the Dallas Mavericks have had no interest in engaging the Cavaliers in a trade,</a> and Irving is believed to be comfortable where he is.",
         "outlet": "ESPN",
         "source_url": "https://www.espn.com/nba/story/_/id/49434263/nba-free-agency-lebron-james-heat-cavaliers-reunion-close-chapter"
-      },
-      {
-        "date": "2026-07-23",
-        "text": "Underdog NBA: Shams on LeBron:\"My sources tell me that LeBron James, his agent Rich Paul \u2026 they're not waiting for another domino right now. They're not waiting for Anthony Davis to get traded anywhere, they're not waiting for anyone else to move around anywhere.\"x.com",
-        "text_html": "Underdog NBA: Shams on LeBron: <a href=\"https://x.com/UnderdogNBA/status/2080338897947546105\" target=\"_blank\" style=\"color: #1a73e8;\">\"My sources tell me that LeBron James, his agent Rich Paul \u2026 they're not waiting for another domino right now. They're not waiting for Anthony Davis to get traded anywhere, they're not waiting for anyone else to move around anywhere.\"</a>",
-        "outlet": "x.com",
-        "source_url": "https://x.com/UnderdogNBA/status/2080338897947546105"
-      },
-      {
-        "date": "2026-07-23",
-        "text": "LeBron James\u00a0could sign with the\u00a0Miami Heat\u00a0since the\u00a0Cleveland Cavaliers\u00a0and\u00a0Golden State Warriors\u00a0are not\u00a0interested\u00a0in acquiring\u00a0Anthony Davis\u00a0from the\u00a0Washington Wizards,\u00a0sources\u00a0told\u00a0DallasHoops Journal.Dallas Hoops Journal",
-        "text_html": "<a href=\"https://dallashoopsjournal.com/lebron-james-heat-cavaliers-warriors-anthony-davis-trade/\" target=\"_blank\" style=\"color: #1a73e8;\">LeBron James could sign with the Miami Heat since the Cleveland Cavaliers and Golden State Warriors are not interested in acquiring Anthony Davis from the Washington Wizards, sources told Dallas</a> Hoops Journal.",
-        "outlet": "Dallas Hoops Journal",
-        "source_url": "https://dallashoopsjournal.com/lebron-james-heat-cavaliers-warriors-anthony-davis-trade/"
-      },
-      {
-        "date": "2026-07-23",
-        "text": "Klutch Sports Group, led by\u00a0Rich Paul, thought it would be \u201csuper easy\u201d to get the Cavaliers or Warriors to trade for Davis,\u00a0sources\u00a0said. Since that\u2019s not the case, the Heat have emerged as the leader to sign James since Miami doesn\u2019t have to trade for Davis.The team already has Antetokounmpo and Adebayo and strong role players in\u00a0Andrew Wiggins,\u00a0Davion Mitchell,\u00a0Bobby Portis\u00a0and\u00a0Tim Hardaway Jr.Dallas Hoops Journal",
-        "text_html": "<a href=\"https://dallashoopsjournal.com/lebron-james-heat-cavaliers-warriors-anthony-davis-trade/\" target=\"_blank\" style=\"color: #1a73e8;\">Klutch Sports Group, led by Rich Paul, thought it would be \u201csuper easy\u201d to get the Cavaliers or Warriors to trade for Davis, sources said. Since that\u2019s not the case, the Heat have emerged as the leader to sign James since Miami doesn\u2019t have to trade for Davis.</a> The team already has Antetokounmpo and Adebayo and strong role players in Andrew Wiggins, Davion Mitchell, Bobby Portis and Tim Hardaway Jr.",
-        "outlet": "Dallas Hoops Journal",
-        "source_url": "https://dallashoopsjournal.com/lebron-james-heat-cavaliers-warriors-anthony-davis-trade/"
-      },
-      {
-        "date": "2026-07-23",
-        "text": "That said, Anthony Davis is no guarantee to stay on the floor either, so it'd be understandable if the Warriors aren't all sold on adding him to the mix. As far as I've\u00a0heard, there aren't any other teams pursuing LeBron that have\u00a0interest\u00a0in Davis either.That should come as no surprise given that Davis has appeared in just 47 games per season since winning the 2020 title, his jump shot has abandoned him, he isn't the all-world defender he was in his prime, and he still doesn't want to play center.Yahoo! Sports",
-        "text_html": "<a href=\"https://sports.yahoo.com/nba/article/the-indecision-whats-lebron-james-waiting-for-221704877.html\" target=\"_blank\" style=\"color: #1a73e8;\">That said, Anthony Davis is no guarantee to stay on the floor either, so it'd be understandable if the Warriors aren't all sold on adding him to the mix. As far as I've heard, there aren't any other teams pursuing LeBron that have interest in Davis either.</a> That should come as no surprise given that Davis has appeared in just 47 games per season since winning the 2020 title, his jump shot has abandoned him, he isn't the all-world defender he was in his prime, and he still doesn't want to play center.",
-        "outlet": "Yahoo! Sports",
-        "source_url": "https://sports.yahoo.com/nba/article/the-indecision-whats-lebron-james-waiting-for-221704877.html"
       }
     ],
     "Ivica Zubac": [
@@ -2260,13 +2201,6 @@
         "text_html": "Heat Central: Bobby Portis on getting traded with Giannis to the Miami Heat: <a href=\"https://x.com/TheHeatCentral/status/2082252678407549190\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cIt\u2019s fun being able to still play with Giannis. We have a great relationship on and off the court.</a> It\u2019s kind of cool going to a new situation with somebody that you\u2019re super familiar with. I think that\u2019ll make my transition real smooth. \u2014 I rock with Gianni. Gianni a good dude. He always showed love to me since day 1. \u2014 I remember after we won the chip the first thing he told our GM and owner \u2018We gotta sign Bobby back! We gotta sign Bobby back!\u2019\u201d",
         "outlet": "x.com",
         "source_url": "https://x.com/TheHeatCentral/status/2082252678407549190"
-      },
-      {
-        "date": "2026-07-23",
-        "text": "Klutch Sports Group, led by\u00a0Rich Paul, thought it would be \u201csuper easy\u201d to get the Cavaliers or Warriors to trade for Davis,\u00a0sources\u00a0said. Since that\u2019s not the case, the Heat have emerged as the leader to sign James since Miami doesn\u2019t have to trade for Davis.The team already has Antetokounmpo and Adebayo and strong role players in\u00a0Andrew Wiggins,\u00a0Davion Mitchell,\u00a0Bobby Portis\u00a0and\u00a0Tim Hardaway Jr.Dallas Hoops Journal",
-        "text_html": "<a href=\"https://dallashoopsjournal.com/lebron-james-heat-cavaliers-warriors-anthony-davis-trade/\" target=\"_blank\" style=\"color: #1a73e8;\">Klutch Sports Group, led by Rich Paul, thought it would be \u201csuper easy\u201d to get the Cavaliers or Warriors to trade for Davis, sources said. Since that\u2019s not the case, the Heat have emerged as the leader to sign James since Miami doesn\u2019t have to trade for Davis.</a> The team already has Antetokounmpo and Adebayo and strong role players in Andrew Wiggins, Davion Mitchell, Bobby Portis and Tim Hardaway Jr.",
-        "outlet": "Dallas Hoops Journal",
-        "source_url": "https://dallashoopsjournal.com/lebron-james-heat-cavaliers-warriors-anthony-davis-trade/"
       }
     ],
     "Norman Powell": [
@@ -2547,13 +2481,6 @@
         "text_html": "Anthony Chiang: The Heat has strong interest in veteran guard Klay Thompson. The issue is he\u2019s still under contract with the Mavericks, as he\u2019s due $17.5 million in the final year of his contract. It appears that the Heat will remain patient in filling out the rest of its roster to give Thompson time to possibly shake free through a buyout agreement. While a trade for Thompson is also possible, it would be challenging to pull off considering the only three players on the Heat\u2019s current roster able to be traded for Thompson in a one-for-one deal are Nikola Jovic, Davion Mitchell and Bobby Portis. <a href=\"https://www.miamiherald.com/sports/nba/miami-heat/article316704268.html\" target=\"_blank\" style=\"color: #1a73e8;\">The cleaner path is for the Mavericks to eventually agree to a buyout with Thompson, with Thompson hypothetically giving up $7 million of his current salary to become a free agent.</a> The Heat can then make up the difference on the money Thompson gave up by using the rest of its midlevel exception to offer him a $7 million salary for this upcoming season.",
         "outlet": "Miami Herald",
         "source_url": "https://www.miamiherald.com/sports/nba/miami-heat/article316704268.html"
-      },
-      {
-        "date": "2026-07-23",
-        "text": "Klutch Sports Group, led by\u00a0Rich Paul, thought it would be \u201csuper easy\u201d to get the Cavaliers or Warriors to trade for Davis,\u00a0sources\u00a0said. Since that\u2019s not the case, the Heat have emerged as the leader to sign James since Miami doesn\u2019t have to trade for Davis.The team already has Antetokounmpo and Adebayo and strong role players in\u00a0Andrew Wiggins,\u00a0Davion Mitchell,\u00a0Bobby Portis\u00a0and\u00a0Tim Hardaway Jr.Dallas Hoops Journal",
-        "text_html": "<a href=\"https://dallashoopsjournal.com/lebron-james-heat-cavaliers-warriors-anthony-davis-trade/\" target=\"_blank\" style=\"color: #1a73e8;\">Klutch Sports Group, led by Rich Paul, thought it would be \u201csuper easy\u201d to get the Cavaliers or Warriors to trade for Davis, sources said. Since that\u2019s not the case, the Heat have emerged as the leader to sign James since Miami doesn\u2019t have to trade for Davis.</a> The team already has Antetokounmpo and Adebayo and strong role players in Andrew Wiggins, Davion Mitchell, Bobby Portis and Tim Hardaway Jr.",
-        "outlet": "Dallas Hoops Journal",
-        "source_url": "https://dallashoopsjournal.com/lebron-james-heat-cavaliers-warriors-anthony-davis-trade/"
       }
     ],
     "Dillon Brooks": [
@@ -2572,13 +2499,6 @@
         "text_html": "Thus, <a href=\"https://www.hoopshype.com/story/sports/nba/2026/07/31/nba-intel-james-harden-peyton-watson-jonathan-kuminga-benn-mathurin-more/91120190007/\" target=\"_blank\" style=\"color: #1a73e8;\">New Orleans has explored the trade market on Jordan Hawkins,</a> including discussions with the Memphis Grizzlies involving AJ Johnson, league sources told HoopsHype. Shedding Hawkins\u2019 $7.02 million salary from their books would keep New Orleans below the luxury tax while using the non-taxpayer mid-level exception to make a run at Mathurin.",
         "outlet": "HoopsHype",
         "source_url": "https://www.hoopshype.com/story/sports/nba/2026/07/31/nba-intel-james-harden-peyton-watson-jonathan-kuminga-benn-mathurin-more/91120190007/"
-      },
-      {
-        "date": "2026-07-23",
-        "text": "League\u00a0sources\u00a0say that New Orleans has been exploring various trade frameworks to send out former lottery pick Jordan Hawkins for some potential roster and financial flexibility.Those\u00a0discussions,\u00a0sources\u00a0say, include conversations with Memphis. There was no trade agreement as of Wednesday night, but we're\u00a0told\u00a0that the Grizzlies have registered some\u00a0interest\u00a0in taking on Hawkins.marcstein.substack.com",
-        "text_html": "<a href=\"https://marcstein.substack.com/p/yup-yet-again-late-night-nba-intel\" target=\"_blank\" style=\"color: #1a73e8;\">League sources say that New Orleans has been exploring various trade frameworks to send out former lottery pick Jordan Hawkins for some potential roster and financial flexibility.</a> Those discussions, sources say, include conversations with Memphis. There was no trade agreement as of Wednesday night, but we're told that the Grizzlies have registered some interest in taking on Hawkins.",
-        "outlet": "marcstein.substack.com",
-        "source_url": "https://marcstein.substack.com/p/yup-yet-again-late-night-nba-intel"
       }
     ],
     "AJ Johnson": [
@@ -2659,20 +2579,6 @@
         "text_html": "Heat Central: Bobby Portis on getting traded with Giannis to the Miami Heat: <a href=\"https://x.com/TheHeatCentral/status/2082252678407549190\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cIt\u2019s fun being able to still play with Giannis. We have a great relationship on and off the court.</a> It\u2019s kind of cool going to a new situation with somebody that you\u2019re super familiar with. I think that\u2019ll make my transition real smooth. \u2014 I rock with Gianni. Gianni a good dude. He always showed love to me since day 1. \u2014 I remember after we won the chip the first thing he told our GM and owner \u2018We gotta sign Bobby back! We gotta sign Bobby back!\u2019\u201d",
         "outlet": "x.com",
         "source_url": "https://x.com/TheHeatCentral/status/2082252678407549190"
-      },
-      {
-        "date": "2026-07-23",
-        "text": "Giannis Antetokounmpo: I was thinking that I would be in Milwaukee for\u00a0my entire career.\u00a0But then I saw that I'm in the confort zone. I was in my confort zone.I wanted something different.\u00a0And I'm happy to be in\u00a0Miami. In Miami now, I won't lie, I don't feel comfortable.\u00a0I don't know the team, but I'm going\u00a0over there and I will do my best. I've been doing this my whole life,\u00a0and I hope it turns out well. I love the city of Milwaukee. I will love Milwaukee until I die. I\u00a0bleed purple and green.It's very\u00a0simple.\u00a0They made me who I am today.YouTube",
-        "text_html": "Giannis Antetokounmpo: I was thinking that I would be in Milwaukee for my entire career. But then I saw that I'm in the confort zone. I was in my confort zone. <a href=\"https://www.youtube.com/watch?v=nO9WdXcozMU&t=685s\" target=\"_blank\" style=\"color: #1a73e8;\">I wanted something different. And I'm happy to be in Miami. In Miami now, I won't lie, I don't feel comfortable. I don't know the team, but I'm going over there and I will do my best. I've been doing this my whole life, and I hope it turns out well. I love the city of Milwaukee. I will love Milwaukee until I die. I bleed purple and green.</a> It's very simple. They made me who I am today.",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=nO9WdXcozMU&t=685s"
-      },
-      {
-        "date": "2026-07-23",
-        "text": "Heat Central: Giannis Antetokounmpo admits he was worried that Bucks fans would feel betrayed if he asked for a trade:\u201cYes. I certainly did. You can\u2019t make a decision based on what others would think. The opinions of others never fed you, right? \u2014 I asked people who I love, \u2018what do you think?\u2019 I also wanted to get different opinions other than my agents or friends\u2026 I was scared a little bit.I thought people would say \u2018after 13 years? You were practically raised here, we loved you! This is your team and you leave us?\u2019 The people didn\u2019t react that way at all. I saw it was something they wanted for me.\u201d (Via Anesteathepodcast)x.com",
-        "text_html": "Heat Central: Giannis Antetokounmpo admits he was worried that Bucks fans would feel betrayed if he asked for a trade: <a href=\"https://x.com/TheHeatCentral/status/2080264882243461510\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cYes. I certainly did. You can\u2019t make a decision based on what others would think. The opinions of others never fed you, right? \u2014 I asked people who I love, \u2018what do you think?\u2019 I also wanted to get different opinions other than my agents or friends\u2026 I was scared a little bit.</a> I thought people would say \u2018after 13 years? You were practically raised here, we loved you! This is your team and you leave us?\u2019 The people didn\u2019t react that way at all. I saw it was something they wanted for me.\u201d (Via Anesteathepodcast)",
-        "outlet": "x.com",
-        "source_url": "https://x.com/TheHeatCentral/status/2080264882243461510"
       }
     ],
     "Bradley Beal": [
@@ -2730,41 +2636,6 @@
         "text_html": "But that\u2019s all this is: speculation. <a href=\"https://sfstandard.com/2026/07/24/anthony-davis-warriors-lebron-james-signing/\" target=\"_blank\" style=\"color: #1a73e8;\">The Warriors have not engaged the Wizards and the sides haven\u2019t had substantive talks about Anthony Davis, according to a source with knowledge of the Warriors\u2019 offseason direction.</a> Wizards general manager Will Dawkins has also sought to shut down trade rumors in public interviews.",
         "outlet": "San Francisco Standard",
         "source_url": "https://sfstandard.com/2026/07/24/anthony-davis-warriors-lebron-james-signing/"
-      },
-      {
-        "date": "2026-07-23",
-        "text": "Underdog NBA: Shams on LeBron:\"My sources tell me that LeBron James, his agent Rich Paul \u2026 they're not waiting for another domino right now. They're not waiting for Anthony Davis to get traded anywhere, they're not waiting for anyone else to move around anywhere.\"x.com",
-        "text_html": "Underdog NBA: Shams on LeBron: <a href=\"https://x.com/UnderdogNBA/status/2080338897947546105\" target=\"_blank\" style=\"color: #1a73e8;\">\"My sources tell me that LeBron James, his agent Rich Paul \u2026 they're not waiting for another domino right now. They're not waiting for Anthony Davis to get traded anywhere, they're not waiting for anyone else to move around anywhere.\"</a>",
-        "outlet": "x.com",
-        "source_url": "https://x.com/UnderdogNBA/status/2080338897947546105"
-      },
-      {
-        "date": "2026-07-23",
-        "text": "LeBron James\u00a0could sign with the\u00a0Miami Heat\u00a0since the\u00a0Cleveland Cavaliers\u00a0and\u00a0Golden State Warriors\u00a0are not\u00a0interested\u00a0in acquiring\u00a0Anthony Davis\u00a0from the\u00a0Washington Wizards,\u00a0sources\u00a0told\u00a0DallasHoops Journal.Dallas Hoops Journal",
-        "text_html": "<a href=\"https://dallashoopsjournal.com/lebron-james-heat-cavaliers-warriors-anthony-davis-trade/\" target=\"_blank\" style=\"color: #1a73e8;\">LeBron James could sign with the Miami Heat since the Cleveland Cavaliers and Golden State Warriors are not interested in acquiring Anthony Davis from the Washington Wizards, sources told Dallas</a> Hoops Journal.",
-        "outlet": "Dallas Hoops Journal",
-        "source_url": "https://dallashoopsjournal.com/lebron-james-heat-cavaliers-warriors-anthony-davis-trade/"
-      },
-      {
-        "date": "2026-07-23",
-        "text": "\u201cKlutch is trying to get AD to Cleveland or Golden State,\u201d a\u00a0source\u00a0told\u00a0Dallas Hoops Journal. \u201cNeither team wants to do it. Miami is the frontrunner now. Giannis and Bam have been in LeBron\u2019s ear nonstop.\u201dDavis, who played with James on the\u00a0Los Angeles Lakers, becomes extension-eligible on August 6. Neither the Warriors nor the Cavaliers want to pay Davis max money,\u00a0sources\u00a0said, making a trade unlikely.Dallas Hoops Journal",
-        "text_html": "<a href=\"https://dallashoopsjournal.com/lebron-james-heat-cavaliers-warriors-anthony-davis-trade/\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cKlutch is trying to get AD to Cleveland or Golden State,\u201d a source told Dallas Hoops Journal. \u201cNeither team wants to do it. Miami is the frontrunner now. Giannis and Bam have been in LeBron\u2019s ear nonstop.\u201d</a> Davis, who played with James on the Los Angeles Lakers, becomes extension-eligible on August 6. Neither the Warriors nor the Cavaliers want to pay Davis max money, sources said, making a trade unlikely.",
-        "outlet": "Dallas Hoops Journal",
-        "source_url": "https://dallashoopsjournal.com/lebron-james-heat-cavaliers-warriors-anthony-davis-trade/"
-      },
-      {
-        "date": "2026-07-23",
-        "text": "Klutch Sports Group, led by\u00a0Rich Paul, thought it would be \u201csuper easy\u201d to get the Cavaliers or Warriors to trade for Davis,\u00a0sources\u00a0said. Since that\u2019s not the case, the Heat have emerged as the leader to sign James since Miami doesn\u2019t have to trade for Davis.The team already has Antetokounmpo and Adebayo and strong role players in\u00a0Andrew Wiggins,\u00a0Davion Mitchell,\u00a0Bobby Portis\u00a0and\u00a0Tim Hardaway Jr.Dallas Hoops Journal",
-        "text_html": "<a href=\"https://dallashoopsjournal.com/lebron-james-heat-cavaliers-warriors-anthony-davis-trade/\" target=\"_blank\" style=\"color: #1a73e8;\">Klutch Sports Group, led by Rich Paul, thought it would be \u201csuper easy\u201d to get the Cavaliers or Warriors to trade for Davis, sources said. Since that\u2019s not the case, the Heat have emerged as the leader to sign James since Miami doesn\u2019t have to trade for Davis.</a> The team already has Antetokounmpo and Adebayo and strong role players in Andrew Wiggins, Davion Mitchell, Bobby Portis and Tim Hardaway Jr.",
-        "outlet": "Dallas Hoops Journal",
-        "source_url": "https://dallashoopsjournal.com/lebron-james-heat-cavaliers-warriors-anthony-davis-trade/"
-      },
-      {
-        "date": "2026-07-23",
-        "text": "That said, Anthony Davis is no guarantee to stay on the floor either, so it'd be understandable if the Warriors aren't all sold on adding him to the mix. As far as I've\u00a0heard, there aren't any other teams pursuing LeBron that have\u00a0interest\u00a0in Davis either.That should come as no surprise given that Davis has appeared in just 47 games per season since winning the 2020 title, his jump shot has abandoned him, he isn't the all-world defender he was in his prime, and he still doesn't want to play center.Yahoo! Sports",
-        "text_html": "<a href=\"https://sports.yahoo.com/nba/article/the-indecision-whats-lebron-james-waiting-for-221704877.html\" target=\"_blank\" style=\"color: #1a73e8;\">That said, Anthony Davis is no guarantee to stay on the floor either, so it'd be understandable if the Warriors aren't all sold on adding him to the mix. As far as I've heard, there aren't any other teams pursuing LeBron that have interest in Davis either.</a> That should come as no surprise given that Davis has appeared in just 47 games per season since winning the 2020 title, his jump shot has abandoned him, he isn't the all-world defender he was in his prime, and he still doesn't want to play center.",
-        "outlet": "Yahoo! Sports",
-        "source_url": "https://sports.yahoo.com/nba/article/the-indecision-whats-lebron-james-waiting-for-221704877.html"
       }
     ],
     "Jayson Tatum": [
@@ -2943,24 +2814,6 @@
         "outlet": "BasketNews",
         "source_url": "https://basketnews.com/news-252543-standout-guard-kasparas-jakucionis-gets-honest-heat-exit-giannis-trade.html"
       }
-    ],
-    "Andrew Wiggins": [
-      {
-        "date": "2026-07-23",
-        "text": "Klutch Sports Group, led by\u00a0Rich Paul, thought it would be \u201csuper easy\u201d to get the Cavaliers or Warriors to trade for Davis,\u00a0sources\u00a0said. Since that\u2019s not the case, the Heat have emerged as the leader to sign James since Miami doesn\u2019t have to trade for Davis.The team already has Antetokounmpo and Adebayo and strong role players in\u00a0Andrew Wiggins,\u00a0Davion Mitchell,\u00a0Bobby Portis\u00a0and\u00a0Tim Hardaway Jr.Dallas Hoops Journal",
-        "text_html": "<a href=\"https://dallashoopsjournal.com/lebron-james-heat-cavaliers-warriors-anthony-davis-trade/\" target=\"_blank\" style=\"color: #1a73e8;\">Klutch Sports Group, led by Rich Paul, thought it would be \u201csuper easy\u201d to get the Cavaliers or Warriors to trade for Davis, sources said. Since that\u2019s not the case, the Heat have emerged as the leader to sign James since Miami doesn\u2019t have to trade for Davis.</a> The team already has Antetokounmpo and Adebayo and strong role players in Andrew Wiggins, Davion Mitchell, Bobby Portis and Tim Hardaway Jr.",
-        "outlet": "Dallas Hoops Journal",
-        "source_url": "https://dallashoopsjournal.com/lebron-james-heat-cavaliers-warriors-anthony-davis-trade/"
-      }
-    ],
-    "Tim Hardaway Jr": [
-      {
-        "date": "2026-07-23",
-        "text": "Klutch Sports Group, led by\u00a0Rich Paul, thought it would be \u201csuper easy\u201d to get the Cavaliers or Warriors to trade for Davis,\u00a0sources\u00a0said. Since that\u2019s not the case, the Heat have emerged as the leader to sign James since Miami doesn\u2019t have to trade for Davis.The team already has Antetokounmpo and Adebayo and strong role players in\u00a0Andrew Wiggins,\u00a0Davion Mitchell,\u00a0Bobby Portis\u00a0and\u00a0Tim Hardaway Jr.Dallas Hoops Journal",
-        "text_html": "<a href=\"https://dallashoopsjournal.com/lebron-james-heat-cavaliers-warriors-anthony-davis-trade/\" target=\"_blank\" style=\"color: #1a73e8;\">Klutch Sports Group, led by Rich Paul, thought it would be \u201csuper easy\u201d to get the Cavaliers or Warriors to trade for Davis, sources said. Since that\u2019s not the case, the Heat have emerged as the leader to sign James since Miami doesn\u2019t have to trade for Davis.</a> The team already has Antetokounmpo and Adebayo and strong role players in Andrew Wiggins, Davion Mitchell, Bobby Portis and Tim Hardaway Jr.",
-        "outlet": "Dallas Hoops Journal",
-        "source_url": "https://dallashoopsjournal.com/lebron-james-heat-cavaliers-warriors-anthony-davis-trade/"
-      }
     ]
   },
   "daily_counts": {
@@ -3013,8 +2866,7 @@
     },
     "Bennedict Mathurin": {
       "2026-08-19": 1,
-      "2026-07-31": 1,
-      "2026-07-23": 1
+      "2026-07-31": 1
     },
     "Lonzo Ball": {
       "2026-08-19": 1
@@ -3112,8 +2964,7 @@
       "2026-07-29": 2,
       "2026-07-28": 1,
       "2026-07-26": 2,
-      "2026-07-24": 3,
-      "2026-07-23": 4
+      "2026-07-24": 3
     },
     "Ivica Zubac": {
       "2026-08-13": 1
@@ -3129,8 +2980,7 @@
     "Bobby Portis": {
       "2026-08-11": 1,
       "2026-08-01": 1,
-      "2026-07-28": 2,
-      "2026-07-23": 1
+      "2026-07-28": 2
     },
     "Norman Powell": {
       "2026-08-11": 1
@@ -3203,15 +3053,13 @@
       "2026-08-03": 1
     },
     "Davion Mitchell": {
-      "2026-08-01": 1,
-      "2026-07-23": 1
+      "2026-08-01": 1
     },
     "Dillon Brooks": {
       "2026-07-31": 1
     },
     "Jordan Hawkins": {
-      "2026-07-31": 1,
-      "2026-07-23": 1
+      "2026-07-31": 1
     },
     "AJ Johnson": {
       "2026-07-31": 1
@@ -3231,8 +3079,7 @@
     "Giannis Antetokounmpo": {
       "2026-07-30": 1,
       "2026-07-29": 1,
-      "2026-07-28": 1,
-      "2026-07-23": 2
+      "2026-07-28": 1
     },
     "Bradley Beal": {
       "2026-07-30": 1,
@@ -3246,8 +3093,7 @@
     },
     "Anthony Davis": {
       "2026-07-29": 1,
-      "2026-07-24": 1,
-      "2026-07-23": 5
+      "2026-07-24": 1
     },
     "Jayson Tatum": {
       "2026-07-29": 1
@@ -3298,12 +3144,6 @@
     },
     "Kasparas Jakucionis": {
       "2026-07-24": 1
-    },
-    "Andrew Wiggins": {
-      "2026-07-23": 1
-    },
-    "Tim Hardaway Jr": {
-      "2026-07-23": 1
     }
   }
 }
