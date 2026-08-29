@@ -1,118 +1,58 @@
 {
-  "generated_at": "2026-08-28T22:45:09.447708",
+  "generated_at": "2026-08-29T01:59:44.235410",
   "scrape_window_days": 28,
-  "window_start": "2026-07-31",
-  "window_end": "2026-08-28",
-  "total_rumors": 205,
-  "total_players": 71,
+  "window_start": "2026-08-01",
+  "window_end": "2026-08-29",
+  "total_rumors": 182,
+  "total_players": 65,
   "rankings": [
     {
       "player": "Peyton Watson",
-      "score": 11.0,
+      "score": 9.5,
       "mentions_week1": 1,
-      "mentions_week2": 13,
+      "mentions_week2": 10,
       "mentions_weeks3_4": 14,
-      "total_mentions": 28,
-      "first_mention": "2026-07-31",
+      "total_mentions": 25,
+      "first_mention": "2026-08-03",
       "last_mention": "2026-08-23",
       "team": "Charlotte Hornets",
       "rank": 1
     },
     {
       "player": "Jonathan Kuminga",
-      "score": 6.5,
-      "mentions_week1": 3,
-      "mentions_week2": 2,
-      "mentions_weeks3_4": 10,
-      "total_mentions": 15,
-      "first_mention": "2026-07-31",
+      "score": 4.75,
+      "mentions_week1": 2,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 9,
+      "total_mentions": 12,
+      "first_mention": "2026-08-05",
       "last_mention": "2026-08-26",
       "team": "Golden State Warriors",
       "rank": 2
     },
     {
+      "player": "Bennedict Mathurin",
+      "score": 3.5,
+      "mentions_week1": 3,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 4,
+      "first_mention": "2026-08-19",
+      "last_mention": "2026-08-26",
+      "team": "Indiana Pacers",
+      "rank": 3
+    },
+    {
       "player": "Dennis Schroeder",
-      "score": 5.5,
+      "score": 3.25,
       "mentions_week1": 0,
-      "mentions_week2": 10,
-      "mentions_weeks3_4": 2,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 11,
       "total_mentions": 12,
       "first_mention": "2026-08-08",
       "last_mention": "2026-08-19",
       "team": "Charlotte Hornets",
-      "rank": 3
-    },
-    {
-      "player": "Tre Mann",
-      "score": 4.0,
-      "mentions_week1": 0,
-      "mentions_week2": 8,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 8,
-      "first_mention": "2026-08-14",
-      "last_mention": "2026-08-19",
-      "team": "Cleveland Cavaliers",
       "rank": 4
-    },
-    {
-      "player": "Bennedict Mathurin",
-      "score": 3.75,
-      "mentions_week1": 3,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 5,
-      "first_mention": "2026-07-31",
-      "last_mention": "2026-08-26",
-      "team": "Indiana Pacers",
-      "rank": 5
-    },
-    {
-      "player": "James Harden",
-      "score": 3.25,
-      "mentions_week1": 0,
-      "mentions_week2": 5,
-      "mentions_weeks3_4": 3,
-      "total_mentions": 8,
-      "first_mention": "2026-08-11",
-      "last_mention": "2026-08-20",
-      "team": "Los Angeles Clippers",
-      "rank": 6
-    },
-    {
-      "player": "Kawhi Leonard",
-      "score": 3.25,
-      "mentions_week1": 1,
-      "mentions_week2": 2,
-      "mentions_weeks3_4": 5,
-      "total_mentions": 8,
-      "first_mention": "2026-07-31",
-      "last_mention": "2026-08-28",
-      "team": "Los Angeles Clippers",
-      "rank": 7
-    },
-    {
-      "player": "Klay Thompson",
-      "score": 3.0,
-      "mentions_week1": 0,
-      "mentions_week2": 3,
-      "mentions_weeks3_4": 6,
-      "total_mentions": 9,
-      "first_mention": "2026-08-01",
-      "last_mention": "2026-08-17",
-      "team": "Dallas Mavericks",
-      "rank": 8
-    },
-    {
-      "player": "Max Strus",
-      "score": 3.0,
-      "mentions_week1": 0,
-      "mentions_week2": 5,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 7,
-      "first_mention": "2026-07-31",
-      "last_mention": "2026-08-19",
-      "team": "Cleveland Cavaliers",
-      "rank": 9
     },
     {
       "player": "Josh Green",
@@ -124,6 +64,66 @@
       "first_mention": "2026-08-25",
       "last_mention": "2026-08-28",
       "team": "Los Angeles Lakers",
+      "rank": 5
+    },
+    {
+      "player": "Tre Mann",
+      "score": 2.75,
+      "mentions_week1": 0,
+      "mentions_week2": 3,
+      "mentions_weeks3_4": 5,
+      "total_mentions": 8,
+      "first_mention": "2026-08-14",
+      "last_mention": "2026-08-19",
+      "team": "Cleveland Cavaliers",
+      "rank": 6
+    },
+    {
+      "player": "Kawhi Leonard",
+      "score": 2.75,
+      "mentions_week1": 1,
+      "mentions_week2": 2,
+      "mentions_weeks3_4": 3,
+      "total_mentions": 6,
+      "first_mention": "2026-08-10",
+      "last_mention": "2026-08-28",
+      "team": "Los Angeles Clippers",
+      "rank": 7
+    },
+    {
+      "player": "Max Strus",
+      "score": 2.75,
+      "mentions_week1": 0,
+      "mentions_week2": 5,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 6,
+      "first_mention": "2026-08-12",
+      "last_mention": "2026-08-19",
+      "team": "Cleveland Cavaliers",
+      "rank": 8
+    },
+    {
+      "player": "Klay Thompson",
+      "score": 2.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 8,
+      "total_mentions": 9,
+      "first_mention": "2026-08-01",
+      "last_mention": "2026-08-17",
+      "team": "Dallas Mavericks",
+      "rank": 9
+    },
+    {
+      "player": "James Harden",
+      "score": 2.5,
+      "mentions_week1": 0,
+      "mentions_week2": 2,
+      "mentions_weeks3_4": 6,
+      "total_mentions": 8,
+      "first_mention": "2026-08-11",
+      "last_mention": "2026-08-20",
+      "team": "Los Angeles Clippers",
       "rank": 10
     },
     {
@@ -151,18 +151,6 @@
       "rank": 12
     },
     {
-      "player": "Luka Doncic",
-      "score": 2.0,
-      "mentions_week1": 1,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 4,
-      "first_mention": "2026-08-06",
-      "last_mention": "2026-08-21",
-      "team": "Los Angeles Lakers",
-      "rank": 13
-    },
-    {
       "player": "Kyrie Irving",
       "score": 2.0,
       "mentions_week1": 2,
@@ -172,31 +160,31 @@
       "first_mention": "2026-08-25",
       "last_mention": "2026-08-27",
       "team": "Dallas Mavericks",
-      "rank": 14
-    },
-    {
-      "player": "Nikola Jokic",
-      "score": 2.0,
-      "mentions_week1": 2,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 2,
-      "first_mention": "2026-08-21",
-      "last_mention": "2026-08-22",
-      "team": "Denver Nuggets",
-      "rank": 15
+      "rank": 13
     },
     {
       "player": "Stephen Curry",
-      "score": 1.75,
+      "score": 1.5,
       "mentions_week1": 0,
       "mentions_week2": 0,
-      "mentions_weeks3_4": 7,
-      "total_mentions": 7,
-      "first_mention": "2026-07-31",
+      "mentions_weeks3_4": 6,
+      "total_mentions": 6,
+      "first_mention": "2026-08-04",
       "last_mention": "2026-08-13",
       "team": "Golden State Warriors",
-      "rank": 16
+      "rank": 14
+    },
+    {
+      "player": "Luka Doncic",
+      "score": 1.5,
+      "mentions_week1": 0,
+      "mentions_week2": 2,
+      "mentions_weeks3_4": 2,
+      "total_mentions": 4,
+      "first_mention": "2026-08-06",
+      "last_mention": "2026-08-21",
+      "team": "Los Angeles Lakers",
+      "rank": 15
     },
     {
       "player": "PJ Washington",
@@ -208,6 +196,18 @@
       "first_mention": "2026-08-06",
       "last_mention": "2026-08-17",
       "team": "Dallas Mavericks",
+      "rank": 16
+    },
+    {
+      "player": "Nikola Jokic",
+      "score": 1.5,
+      "mentions_week1": 1,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 2,
+      "first_mention": "2026-08-21",
+      "last_mention": "2026-08-22",
+      "team": "Denver Nuggets",
       "rank": 17
     },
     {
@@ -295,18 +295,6 @@
       "rank": 24
     },
     {
-      "player": "Jaden Hardy",
-      "score": 1.0,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-08-21",
-      "last_mention": "2026-08-21",
-      "team": "Atlanta Hawks",
-      "rank": 25
-    },
-    {
       "player": "Jarred Vanderbilt",
       "score": 1.0,
       "mentions_week1": 1,
@@ -316,7 +304,7 @@
       "first_mention": "2026-08-28",
       "last_mention": "2026-08-28",
       "team": "Los Angeles Lakers",
-      "rank": 26
+      "rank": 25
     },
     {
       "player": "Kon Knueppel",
@@ -328,7 +316,7 @@
       "first_mention": "2026-08-22",
       "last_mention": "2026-08-22",
       "team": "Charlotte Hornets",
-      "rank": 27
+      "rank": 26
     },
     {
       "player": "Paolo Banchero",
@@ -340,7 +328,7 @@
       "first_mention": "2026-08-28",
       "last_mention": "2026-08-28",
       "team": "Orlando Magic",
-      "rank": 28
+      "rank": 27
     },
     {
       "player": "Patrick Williams",
@@ -352,7 +340,7 @@
       "first_mention": "2026-08-25",
       "last_mention": "2026-08-25",
       "team": "Chicago Bulls",
-      "rank": 29
+      "rank": 28
     },
     {
       "player": "Payton Pritchard",
@@ -364,7 +352,7 @@
       "first_mention": "2026-08-23",
       "last_mention": "2026-08-23",
       "team": "Boston Celtics",
-      "rank": 30
+      "rank": 29
     },
     {
       "player": "Taylor Hendricks",
@@ -376,7 +364,7 @@
       "first_mention": "2026-08-28",
       "last_mention": "2026-08-28",
       "team": "Los Angeles Lakers",
-      "rank": 31
+      "rank": 30
     },
     {
       "player": "Terance Mann",
@@ -388,7 +376,7 @@
       "first_mention": "2026-08-28",
       "last_mention": "2026-08-28",
       "team": "Los Angeles Lakers",
-      "rank": 32
+      "rank": 31
     },
     {
       "player": "Tidjane Salaun",
@@ -400,43 +388,7 @@
       "first_mention": "2026-08-22",
       "last_mention": "2026-08-22",
       "team": "Charlotte Hornets",
-      "rank": 33
-    },
-    {
-      "player": "De'Aaron Fox",
-      "score": 0.75,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 3,
-      "total_mentions": 3,
-      "first_mention": "2026-07-31",
-      "last_mention": "2026-08-10",
-      "team": "San Antonio Spurs",
-      "rank": 34
-    },
-    {
-      "player": "LeBron James",
-      "score": 0.75,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 3,
-      "total_mentions": 3,
-      "first_mention": "2026-07-31",
-      "last_mention": "2026-08-13",
-      "team": "Los Angeles Lakers",
-      "rank": 35
-    },
-    {
-      "player": "Paul George",
-      "score": 0.75,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 3,
-      "total_mentions": 3,
-      "first_mention": "2026-07-31",
-      "last_mention": "2026-08-04",
-      "team": "Philadelphia 76ers",
-      "rank": 36
+      "rank": 32
     },
     {
       "player": "Brandon Ingram",
@@ -448,7 +400,7 @@
       "first_mention": "2026-08-10",
       "last_mention": "2026-08-17",
       "team": "Toronto Raptors",
-      "rank": 37
+      "rank": 33
     },
     {
       "player": "Darius Garland",
@@ -460,7 +412,7 @@
       "first_mention": "2026-08-13",
       "last_mention": "2026-08-20",
       "team": "Cleveland Cavaliers",
-      "rank": 38
+      "rank": 34
     },
     {
       "player": "Gradey Dick",
@@ -472,7 +424,7 @@
       "first_mention": "2026-08-10",
       "last_mention": "2026-08-17",
       "team": "Toronto Raptors",
-      "rank": 39
+      "rank": 35
     },
     {
       "player": "Kevin Durant",
@@ -484,7 +436,7 @@
       "first_mention": "2026-08-04",
       "last_mention": "2026-08-16",
       "team": "Houston Rockets",
-      "rank": 40
+      "rank": 36
     },
     {
       "player": "LaMelo Ball",
@@ -496,7 +448,7 @@
       "first_mention": "2026-08-13",
       "last_mention": "2026-08-16",
       "team": "Charlotte Hornets",
-      "rank": 41
+      "rank": 37
     },
     {
       "player": "Tyrese Haliburton",
@@ -508,7 +460,7 @@
       "first_mention": "2026-08-13",
       "last_mention": "2026-08-16",
       "team": "Indiana Pacers",
-      "rank": 42
+      "rank": 38
     },
     {
       "player": "Bobby Portis",
@@ -520,19 +472,31 @@
       "first_mention": "2026-08-01",
       "last_mention": "2026-08-11",
       "team": "Milwaukee Bucks",
-      "rank": 43
+      "rank": 39
     },
     {
-      "player": "Moses Moody",
+      "player": "De'Aaron Fox",
       "score": 0.5,
       "mentions_week1": 0,
       "mentions_week2": 0,
       "mentions_weeks3_4": 2,
       "total_mentions": 2,
-      "first_mention": "2026-07-31",
-      "last_mention": "2026-08-05",
-      "team": "Golden State Warriors",
-      "rank": 44
+      "first_mention": "2026-08-04",
+      "last_mention": "2026-08-10",
+      "team": "San Antonio Spurs",
+      "rank": 40
+    },
+    {
+      "player": "Paul George",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 2,
+      "total_mentions": 2,
+      "first_mention": "2026-08-04",
+      "last_mention": "2026-08-04",
+      "team": "Philadelphia 76ers",
+      "rank": 41
     },
     {
       "player": "Ron Harper Jr",
@@ -544,19 +508,7 @@
       "first_mention": "2026-08-04",
       "last_mention": "2026-08-04",
       "team": "Boston Celtics",
-      "rank": 45
-    },
-    {
-      "player": "Zeke Nnaji",
-      "score": 0.5,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 2,
-      "first_mention": "2026-07-31",
-      "last_mention": "2026-08-03",
-      "team": "Denver Nuggets",
-      "rank": 46
+      "rank": 42
     },
     {
       "player": "Anthony Edwards",
@@ -568,7 +520,7 @@
       "first_mention": "2026-08-16",
       "last_mention": "2026-08-16",
       "team": "Minnesota Timberwolves",
-      "rank": 47
+      "rank": 43
     },
     {
       "player": "Isaiah Hartenstein",
@@ -580,7 +532,19 @@
       "first_mention": "2026-08-16",
       "last_mention": "2026-08-16",
       "team": "Oklahoma City Thunder",
-      "rank": 48
+      "rank": 44
+    },
+    {
+      "player": "Jaden Hardy",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-08-21",
+      "last_mention": "2026-08-21",
+      "team": "Atlanta Hawks",
+      "rank": 45
     },
     {
       "player": "John Collins",
@@ -592,7 +556,7 @@
       "first_mention": "2026-08-19",
       "last_mention": "2026-08-19",
       "team": "Los Angeles Clippers",
-      "rank": 49
+      "rank": 46
     },
     {
       "player": "Johni Broome",
@@ -604,7 +568,7 @@
       "first_mention": "2026-08-19",
       "last_mention": "2026-08-19",
       "team": "Cleveland Cavaliers",
-      "rank": 50
+      "rank": 47
     },
     {
       "player": "Lonzo Ball",
@@ -616,7 +580,7 @@
       "first_mention": "2026-08-19",
       "last_mention": "2026-08-19",
       "team": "Cleveland Cavaliers",
-      "rank": 51
+      "rank": 48
     },
     {
       "player": "Russell Westbrook",
@@ -628,19 +592,7 @@
       "first_mention": "2026-08-19",
       "last_mention": "2026-08-19",
       "team": "Cleveland Cavaliers",
-      "rank": 52
-    },
-    {
-      "player": "AJ Johnson",
-      "score": 0.25,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 1,
-      "first_mention": "2026-07-31",
-      "last_mention": "2026-07-31",
-      "team": "Memphis Grizzlies",
-      "rank": 53
+      "rank": 49
     },
     {
       "player": "Cade Cunningham",
@@ -652,7 +604,7 @@
       "first_mention": "2026-08-04",
       "last_mention": "2026-08-04",
       "team": "Detroit Pistons",
-      "rank": 54
+      "rank": 50
     },
     {
       "player": "Collin Murray-Boyles",
@@ -664,7 +616,7 @@
       "first_mention": "2026-08-06",
       "last_mention": "2026-08-06",
       "team": "Memphis Grizzlies",
-      "rank": 55
+      "rank": 51
     },
     {
       "player": "D'Angelo Russell",
@@ -676,19 +628,7 @@
       "first_mention": "2026-08-10",
       "last_mention": "2026-08-10",
       "team": "Dallas Mavericks",
-      "rank": 56
-    },
-    {
-      "player": "Dillon Brooks",
-      "score": 0.25,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 1,
-      "first_mention": "2026-07-31",
-      "last_mention": "2026-07-31",
-      "team": "Phoenix Suns",
-      "rank": 57
+      "rank": 52
     },
     {
       "player": "Donte DiVincenzo",
@@ -700,19 +640,7 @@
       "first_mention": "2026-08-06",
       "last_mention": "2026-08-06",
       "team": "Minnesota Timberwolves",
-      "rank": 58
-    },
-    {
-      "player": "Draymond Green",
-      "score": 0.25,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 1,
-      "first_mention": "2026-07-31",
-      "last_mention": "2026-07-31",
-      "team": "Golden State Warriors",
-      "rank": 59
+      "rank": 53
     },
     {
       "player": "Ivica Zubac",
@@ -724,7 +652,7 @@
       "first_mention": "2026-08-13",
       "last_mention": "2026-08-13",
       "team": "Los Angeles Clippers",
-      "rank": 60
+      "rank": 54
     },
     {
       "player": "Ja'Kobe Walter",
@@ -736,7 +664,7 @@
       "first_mention": "2026-08-06",
       "last_mention": "2026-08-06",
       "team": "Memphis Grizzlies",
-      "rank": 61
+      "rank": 55
     },
     {
       "player": "Jakob Poeltl",
@@ -748,19 +676,7 @@
       "first_mention": "2026-08-05",
       "last_mention": "2026-08-05",
       "team": "Toronto Raptors",
-      "rank": 62
-    },
-    {
-      "player": "Jordan Hawkins",
-      "score": 0.25,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 1,
-      "first_mention": "2026-07-31",
-      "last_mention": "2026-07-31",
-      "team": "Memphis Grizzlies",
-      "rank": 63
+      "rank": 56
     },
     {
       "player": "Karlo Matkovic",
@@ -772,19 +688,31 @@
       "first_mention": "2026-08-10",
       "last_mention": "2026-08-10",
       "team": "Dallas Mavericks",
-      "rank": 64
+      "rank": 57
     },
     {
-      "player": "Keldon Johnson",
+      "player": "LeBron James",
       "score": 0.25,
       "mentions_week1": 0,
       "mentions_week2": 0,
       "mentions_weeks3_4": 1,
       "total_mentions": 1,
-      "first_mention": "2026-07-31",
-      "last_mention": "2026-07-31",
-      "team": "San Antonio Spurs",
-      "rank": 65
+      "first_mention": "2026-08-13",
+      "last_mention": "2026-08-13",
+      "team": "Los Angeles Lakers",
+      "rank": 58
+    },
+    {
+      "player": "Moses Moody",
+      "score": 0.25,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 1,
+      "first_mention": "2026-08-05",
+      "last_mention": "2026-08-05",
+      "team": "Golden State Warriors",
+      "rank": 59
     },
     {
       "player": "Moussa Cisse",
@@ -796,7 +724,7 @@
       "first_mention": "2026-08-10",
       "last_mention": "2026-08-10",
       "team": "Dallas Mavericks",
-      "rank": 66
+      "rank": 60
     },
     {
       "player": "Norman Powell",
@@ -808,7 +736,7 @@
       "first_mention": "2026-08-11",
       "last_mention": "2026-08-11",
       "team": "Miami Heat",
-      "rank": 67
+      "rank": 61
     },
     {
       "player": "RJ Barrett",
@@ -820,19 +748,7 @@
       "first_mention": "2026-08-05",
       "last_mention": "2026-08-05",
       "team": "Sacramento Kings",
-      "rank": 68
-    },
-    {
-      "player": "Rui Hachimura",
-      "score": 0.25,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 1,
-      "first_mention": "2026-07-31",
-      "last_mention": "2026-07-31",
-      "team": "Los Angeles Lakers",
-      "rank": 69
+      "rank": 62
     },
     {
       "player": "Trayce Jackson-Davis",
@@ -844,7 +760,7 @@
       "first_mention": "2026-08-06",
       "last_mention": "2026-08-06",
       "team": "Memphis Grizzlies",
-      "rank": 70
+      "rank": 63
     },
     {
       "player": "Zach LaVine",
@@ -856,7 +772,19 @@
       "first_mention": "2026-08-03",
       "last_mention": "2026-08-03",
       "team": "Sacramento Kings",
-      "rank": 71
+      "rank": 64
+    },
+    {
+      "player": "Zeke Nnaji",
+      "score": 0.25,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 1,
+      "first_mention": "2026-08-03",
+      "last_mention": "2026-08-03",
+      "team": "Denver Nuggets",
+      "rank": 65
     }
   ],
   "player_rumors": {
@@ -902,20 +830,6 @@
         "text_html": "Sources say that Leonard's agent, Harrison Gaines, has maintained frequent contact with the NBA Players Association while the firm of Wachtell, Lipton, Rosen &amp; Katz \u2014 which was hired by the league office last September \u2014 proceeds with an investigation that has consumed 11 months. And Leonard, sources say, strongly believes that the trade will ultimately go through, enabling him to rejoin the Raptors in time for training camp. <a href=\"https://marcstein.substack.com/p/the-kawhi-leonard-latest\" target=\"_blank\" style=\"color: #1a73e8;\">The trade was agreed to, sources say, with the idea that the 35-year-old would also negotiate a multiyear extension with Toronto to extend the reunion beyond the coming season</a>.",
         "outlet": "marcstein.substack.com",
         "source_url": "https://marcstein.substack.com/p/the-kawhi-leonard-latest"
-      },
-      {
-        "date": "2026-07-31",
-        "text": "FearBuck:Dillon Brooks tells Neon that the Kawhi Leonard trade to the Toronto Raptors WON\u2019T happenx.com",
-        "text_html": "FearBuck: <a href=\"https://x.com/FearedBuck/status/2083304826004246609\" target=\"_blank\" style=\"color: #1a73e8;\">Dillon Brooks tells Neon that the Kawhi Leonard trade to the Toronto Raptors WON\u2019T happen</a>",
-        "outlet": "x.com",
-        "source_url": "https://x.com/FearedBuck/status/2083304826004246609"
-      },
-      {
-        "date": "2026-07-31",
-        "text": "Kawhi's odds of playing for the Toronto Raptors in 2026-27 have tumbled from 67.2% to 49.0% in the past 6 hours on Polymarket,an 18.2-point move.HoopsMatic",
-        "text_html": "<a href=\"https://hoopsmatic.com/polymarket/market/will-kawhi-play-for-the-toronto-raptors-in-2026-27/\" target=\"_blank\" style=\"color: #1a73e8;\">Kawhi's odds of playing for the Toronto Raptors in 2026-27 have tumbled from 67.2% to 49.0% in the past 6 hours on Polymarket,</a> an 18.2-point move.",
-        "outlet": "HoopsMatic",
-        "source_url": "https://hoopsmatic.com/polymarket/market/will-kawhi-play-for-the-toronto-raptors-in-2026-27/"
       }
     ],
     "Jarred Vanderbilt": [
@@ -1132,27 +1046,6 @@
         "text_html": "<a href=\"https://www.cleveland.com/cavs/2026/08/is-clevelands-best-starting-small-forward-option-already-on-the-roster-wine-and-gold-talk-podcast.html\" target=\"_blank\" style=\"color: #1a73e8;\">When it comes to the rumblings that are continued around Peyton Watson, Jonathan Kuminga, what are you hearing and how likely is it that the Cavs make a move that could get them both of these players? Chris Fedor: Yeah, I think both of them is highly unlikely.</a> Again, on this podcast, we never say never and we try and deal in reality as much as we possibly can. Getting one of them is going to be hard enough given the salary cap situation that the Cavs are currently in, given the lack of perceived trade assets and given the salary cap situation of some of These other teams that we\u2019re talking about here. So for example, you\u2019ve got the Atlanta Hawks who have said to teams around the NBA it looked we\u2019re willing to help out Jonathan Kuminga in a potential sign and trade, but we need to be incentivized in order to do that. We\u2019ve got to get something back in return that we actually like. And that\u2019s part of the holdup, it feels like, between the Hawks and the Los Angeles Lakers, because there are people around the NBA that are saying to themselves, what are the Lakers going to give the Hawks that the Hawks value enough or that the Hawks actually want? The hawks already have 17 guys under contract, so they have some things that they have to do internally.",
         "outlet": "Cleveland Plain Dealer",
         "source_url": "https://www.cleveland.com/cavs/2026/08/is-clevelands-best-starting-small-forward-option-already-on-the-roster-wine-and-gold-talk-podcast.html"
-      },
-      {
-        "date": "2026-07-31",
-        "text": "Amid active sign-and-trade interest from the Los Angeles Lakers and Cleveland Cavaliers, along with the possibility of re-signing with the Atlanta Hawks, another suitor has expressed interest in free agent forward Jonathan Kuminga.\u00a0 After missing out on their pursuit of LeBron James,the Minnesota Timberwolves have also expressed interest in Kuminga with their starting power forward spot up for grabs and their $6.06 million taxpayer mid-level exception available for the taking,league sources told HoopsHype.HoopsHype",
-        "text_html": "Amid active sign-and-trade interest from the Los Angeles Lakers and Cleveland Cavaliers, along with the possibility of re-signing with the Atlanta Hawks, another suitor has expressed interest in free agent forward Jonathan Kuminga. After missing out on their pursuit of LeBron James, <a href=\"https://www.hoopshype.com/story/sports/nba/2026/07/31/nba-intel-james-harden-peyton-watson-jonathan-kuminga-benn-mathurin-more/91120190007/\" target=\"_blank\" style=\"color: #1a73e8;\">the Minnesota Timberwolves have also expressed interest in Kuminga with their starting power forward spot up for grabs and their $6.06 million taxpayer mid-level exception available for the taking,</a> league sources told HoopsHype.",
-        "outlet": "HoopsHype",
-        "source_url": "https://www.hoopshype.com/story/sports/nba/2026/07/31/nba-intel-james-harden-peyton-watson-jonathan-kuminga-benn-mathurin-more/91120190007/"
-      },
-      {
-        "date": "2026-07-31",
-        "text": "Sources say the 23-year-oldKuminga wants an annual deal in the $15-20 million range,which would necessitate a sign-and-trade with Atlanta involving either swingman Max Strus or Dennis Schroder. The Hawks, already with 17 players on the roster and incredibly close to the luxury tax, would have to cooperate \u2014 and actually want what Cleveland, the Los Angeles Lakers, Los Angeles Clippers or Milwaukee Bucks are willing to offer in a sign-and-trade.Cleveland Plain Dealer",
-        "text_html": "Sources say the 23-year-old <a href=\"https://www.cleveland.com/cavs/2026/07/what-is-cavs-best-possible-plan-b-after-missing-out-on-lebron-james-hey-chris.html\" target=\"_blank\" style=\"color: #1a73e8;\">Kuminga wants an annual deal in the $15-20 million range,</a> which would necessitate a sign-and-trade with Atlanta involving either swingman Max Strus or Dennis Schroder. The Hawks, already with 17 players on the roster and incredibly close to the luxury tax, would have to cooperate \u2014 and actually want what Cleveland, the Los Angeles Lakers, Los Angeles Clippers or Milwaukee Bucks are willing to offer in a sign-and-trade.",
-        "outlet": "Cleveland Plain Dealer",
-        "source_url": "https://www.cleveland.com/cavs/2026/07/what-is-cavs-best-possible-plan-b-after-missing-out-on-lebron-james-hey-chris.html"
-      },
-      {
-        "date": "2026-07-31",
-        "text": "The Cavs, sources say, have been in touch with Kuminga\u2019s representatives throughout the week, trying to determine whether there is a realistic financial pathway to a deal and what it would cost \u2014 both in salary and roster subtractions.With the Cavaliers\u2019 current cap situation, any sign-and-trade would create a hard cap at the first apron.Cleveland Plain Dealer",
-        "text_html": "<a href=\"https://www.cleveland.com/cavs/2026/07/what-is-cavs-best-possible-plan-b-after-missing-out-on-lebron-james-hey-chris.html\" target=\"_blank\" style=\"color: #1a73e8;\">The Cavs, sources say, have been in touch with Kuminga\u2019s representatives throughout the week, trying to determine whether there is a realistic financial pathway to a deal and what it would cost \u2014 both in salary and roster subtractions.</a> With the Cavaliers\u2019 current cap situation, any sign-and-trade would create a hard cap at the first apron.",
-        "outlet": "Cleveland Plain Dealer",
-        "source_url": "https://www.cleveland.com/cavs/2026/07/what-is-cavs-best-possible-plan-b-after-missing-out-on-lebron-james-hey-chris.html"
       }
     ],
     "Bennedict Mathurin": [
@@ -1183,13 +1076,6 @@
         "text_html": "Bobby Marks: <a href=\"https://x.com/BobbyMarks42/status/2090229495986835833\" target=\"_blank\" style=\"color: #1a73e8;\">For the Clippers, the Max Stus $16.6M expiring contract goes into the $17M John Collins trade exception</a>. Including the $8.7M Bennedict Mathurin Qualifying Offer, LAC is $11.7M below the first apron.",
         "outlet": "x.com",
         "source_url": "https://x.com/BobbyMarks42/status/2090229495986835833"
-      },
-      {
-        "date": "2026-07-31",
-        "text": "While the Los Angeles Clippers remain interested in re-signing restricted free agent Bennedict Mathurin, the New Orleans Pelicans, Chicago Bulls, Milwaukee Bucks, and Dallas Mavericks have expressed sign-and-trade interest in the 24-year-old swingman,league sources told HoopsHype. With that said, there\u2019s work to be done by each team if they\u2019re going to add Mathurin.HoopsHype",
-        "text_html": "<a href=\"https://www.hoopshype.com/story/sports/nba/2026/07/31/nba-intel-james-harden-peyton-watson-jonathan-kuminga-benn-mathurin-more/91120190007/\" target=\"_blank\" style=\"color: #1a73e8;\">While the Los Angeles Clippers remain interested in re-signing restricted free agent Bennedict Mathurin, the New Orleans Pelicans, Chicago Bulls, Milwaukee Bucks, and Dallas Mavericks have expressed sign-and-trade interest in the 24-year-old swingman,</a> league sources told HoopsHype. With that said, there\u2019s work to be done by each team if they\u2019re going to add Mathurin.",
-        "outlet": "HoopsHype",
-        "source_url": "https://www.hoopshype.com/story/sports/nba/2026/07/31/nba-intel-james-harden-peyton-watson-jonathan-kuminga-benn-mathurin-more/91120190007/"
       }
     ],
     "Jalen Duren": [
@@ -1417,27 +1303,6 @@
         "text_html": "Marc Stein: <a href=\"https://www.youtube.com/live/mhQ9f9w5nmE?is=pGmRSKV6PolSwXyY\" target=\"_blank\" style=\"color: #1a73e8;\">Their preferred scenario would be finding a trade home for Zeke Nnaji, but you know if you do that you\u2019re attaching draft capital and the Nuggets are not exactly teeming with extra draft capital</a>.",
         "outlet": "YouTube",
         "source_url": "https://www.youtube.com/live/mhQ9f9w5nmE?is=pGmRSKV6PolSwXyY"
-      },
-      {
-        "date": "2026-07-31",
-        "text": "Meanwhile,the Cavaliers have recently called to express interest in a sign-and-trade for Denver Nuggets restricted free-agent forward Peyton Watson,league sources told HoopsHype. The newfound interest in Watson comes on the heels of Cleveland also being in the mix for free agent forward Jonathan Kuminga in sign-and-trade discussions. More on both forwards to come in separate sections below.HoopsHype",
-        "text_html": "Meanwhile, <a href=\"https://www.hoopshype.com/story/sports/nba/2026/07/31/nba-intel-james-harden-peyton-watson-jonathan-kuminga-benn-mathurin-more/91120190007/\" target=\"_blank\" style=\"color: #1a73e8;\">the Cavaliers have recently called to express interest in a sign-and-trade for Denver Nuggets restricted free-agent forward Peyton Watson,</a> league sources told HoopsHype. The newfound interest in Watson comes on the heels of Cleveland also being in the mix for free agent forward Jonathan Kuminga in sign-and-trade discussions. More on both forwards to come in separate sections below.",
-        "outlet": "HoopsHype",
-        "source_url": "https://www.hoopshype.com/story/sports/nba/2026/07/31/nba-intel-james-harden-peyton-watson-jonathan-kuminga-benn-mathurin-more/91120190007/"
-      },
-      {
-        "date": "2026-07-31",
-        "text": "The Denver Nuggets remain interested in retaining restricted free agent forward Peyton Watson amid sign-and-trade interest from the Milwaukee Bucks, Cleveland Cavaliers, Atlanta Hawks, and Los Angeles Clippers.Denver\u2019s price tag in any sign-and-trade scenario has shifted to at least one first-round pick and one notable player, per multiple reports, and confirmed by HoopsHype.HoopsHype",
-        "text_html": "<a href=\"https://www.hoopshype.com/story/sports/nba/2026/07/31/nba-intel-james-harden-peyton-watson-jonathan-kuminga-benn-mathurin-more/91120190007/\" target=\"_blank\" style=\"color: #1a73e8;\">The Denver Nuggets remain interested in retaining restricted free agent forward Peyton Watson amid sign-and-trade interest from the Milwaukee Bucks, Cleveland Cavaliers, Atlanta Hawks, and Los Angeles Clippers.</a> Denver\u2019s price tag in any sign-and-trade scenario has shifted to at least one first-round pick and one notable player, per multiple reports, and confirmed by HoopsHype.",
-        "outlet": "HoopsHype",
-        "source_url": "https://www.hoopshype.com/story/sports/nba/2026/07/31/nba-intel-james-harden-peyton-watson-jonathan-kuminga-benn-mathurin-more/91120190007/"
-      },
-      {
-        "date": "2026-07-31",
-        "text": "While the Bucks haven\u2019t offered a first-round pick yet, they\u2019d consider absorbing Nuggets forward Zeke Nnaji as part of a Watson sign-and-trade,HoopsHype has learned. Nnaji is owed a combined $14.93 million with two seasons remaining on his contract, including a player option for the 2027-28 season.HoopsHype",
-        "text_html": "<a href=\"https://www.hoopshype.com/story/sports/nba/2026/07/31/nba-intel-james-harden-peyton-watson-jonathan-kuminga-benn-mathurin-more/91120190007/\" target=\"_blank\" style=\"color: #1a73e8;\">While the Bucks haven\u2019t offered a first-round pick yet, they\u2019d consider absorbing Nuggets forward Zeke Nnaji as part of a Watson sign-and-trade,</a> HoopsHype has learned. Nnaji is owed a combined $14.93 million with two seasons remaining on his contract, including a player option for the 2027-28 season.",
-        "outlet": "HoopsHype",
-        "source_url": "https://www.hoopshype.com/story/sports/nba/2026/07/31/nba-intel-james-harden-peyton-watson-jonathan-kuminga-benn-mathurin-more/91120190007/"
       }
     ],
     "Jaylen Brown": [
@@ -1848,13 +1713,6 @@
         "text_html": "League sources say <a href=\"https://marcstein.substack.com/p/lots-more-late-night-nba-intel\" target=\"_blank\" style=\"color: #1a73e8;\">Cleveland has been exploring various trade possibilities with both Schr\u00f6der and Strus that would enable the Cavaliers \u2014 provided one or both of those salaries could be shed \u2014 to make a representative four-year offer to Peyton Watson</a>. Schr\u00f6der is scheduled to earn $14.8 million in 2026-27 and $15.5 million in 2027-28 ... with only $4.4 million guaranteed in the latter season. Strus holds an expiring $16.7 million contract for 2026-27 to complete a four-year, $63 million deal he originally signed with Miami.",
         "outlet": "marcstein.substack.com",
         "source_url": "https://marcstein.substack.com/p/lots-more-late-night-nba-intel"
-      },
-      {
-        "date": "2026-07-31",
-        "text": "Sources say the 23-year-oldKuminga wants an annual deal in the $15-20 million range,which would necessitate a sign-and-trade with Atlanta involving either swingman Max Strus or Dennis Schroder. The Hawks, already with 17 players on the roster and incredibly close to the luxury tax, would have to cooperate \u2014 and actually want what Cleveland, the Los Angeles Lakers, Los Angeles Clippers or Milwaukee Bucks are willing to offer in a sign-and-trade.Cleveland Plain Dealer",
-        "text_html": "Sources say the 23-year-old <a href=\"https://www.cleveland.com/cavs/2026/07/what-is-cavs-best-possible-plan-b-after-missing-out-on-lebron-james-hey-chris.html\" target=\"_blank\" style=\"color: #1a73e8;\">Kuminga wants an annual deal in the $15-20 million range,</a> which would necessitate a sign-and-trade with Atlanta involving either swingman Max Strus or Dennis Schroder. The Hawks, already with 17 players on the roster and incredibly close to the luxury tax, would have to cooperate \u2014 and actually want what Cleveland, the Los Angeles Lakers, Los Angeles Clippers or Milwaukee Bucks are willing to offer in a sign-and-trade.",
-        "outlet": "Cleveland Plain Dealer",
-        "source_url": "https://www.cleveland.com/cavs/2026/07/what-is-cavs-best-possible-plan-b-after-missing-out-on-lebron-james-hey-chris.html"
       }
     ],
     "Johni Broome": [
@@ -2089,20 +1947,6 @@
         "text_html": "This season, Cleveland will have 16 sets of back-to-backs, a trio of four-game homestands, a lengthy six-game road trip (March 9-18), four holiday games (Halloween, Veterans Day, New Year\u2019s Eve and MLK Day) and five matinees. <a href=\"https://www.cleveland.com/cavs/2026/08/cavs-2026-27-schedule-highlights-17-national-tv-games-home-opener-date-and-darius-garlands-return.html\" target=\"_blank\" style=\"color: #1a73e8;\">James comes to Cleveland with the Sixers twice (Nov. 6 and March 1) this season. The Cavs pursued him in free agency this summer, hoping for a third stint with the franchise that drafted him No. 1 overall in 2003.</a> Former Cavalier Darius Garland will return to Cleveland for the first time since being traded for James Harden last February, with that visit scheduled for Dec. 31. The Western Conference Champion San Antonio Spurs visit for the only time on Dec. 15.",
         "outlet": "Cleveland Plain Dealer",
         "source_url": "https://www.cleveland.com/cavs/2026/08/cavs-2026-27-schedule-highlights-17-national-tv-games-home-opener-date-and-darius-garlands-return.html"
-      },
-      {
-        "date": "2026-07-31",
-        "text": "Amid active sign-and-trade interest from the Los Angeles Lakers and Cleveland Cavaliers, along with the possibility of re-signing with the Atlanta Hawks, another suitor has expressed interest in free agent forward Jonathan Kuminga.\u00a0 After missing out on their pursuit of LeBron James,the Minnesota Timberwolves have also expressed interest in Kuminga with their starting power forward spot up for grabs and their $6.06 million taxpayer mid-level exception available for the taking,league sources told HoopsHype.HoopsHype",
-        "text_html": "Amid active sign-and-trade interest from the Los Angeles Lakers and Cleveland Cavaliers, along with the possibility of re-signing with the Atlanta Hawks, another suitor has expressed interest in free agent forward Jonathan Kuminga. After missing out on their pursuit of LeBron James, <a href=\"https://www.hoopshype.com/story/sports/nba/2026/07/31/nba-intel-james-harden-peyton-watson-jonathan-kuminga-benn-mathurin-more/91120190007/\" target=\"_blank\" style=\"color: #1a73e8;\">the Minnesota Timberwolves have also expressed interest in Kuminga with their starting power forward spot up for grabs and their $6.06 million taxpayer mid-level exception available for the taking,</a> league sources told HoopsHype.",
-        "outlet": "HoopsHype",
-        "source_url": "https://www.hoopshype.com/story/sports/nba/2026/07/31/nba-intel-james-harden-peyton-watson-jonathan-kuminga-benn-mathurin-more/91120190007/"
-      },
-      {
-        "date": "2026-07-31",
-        "text": "Anthony Slater:\"Rui Hachimura is a guy that (Warriors) looked at.They wouldn't have gone to the full mid-level type number that they were willing to get to for LeBron James because again that would have cost Moses Moody on a trade and then a Draymond Green pay cut that clearly Draymond was executing only for LeBron James.\"YouTube",
-        "text_html": "Anthony Slater: <a href=\"https://www.youtube.com/watch?v=3fqW5xI4cLo&t=43s\" target=\"_blank\" style=\"color: #1a73e8;\">\"Rui Hachimura is a guy that (Warriors) looked at.</a> They wouldn't have gone to the full mid-level type number that they were willing to get to for LeBron James because again that would have cost Moses Moody on a trade and then a Draymond Green pay cut that clearly Draymond was executing only for LeBron James.\"",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=3fqW5xI4cLo&t=43s"
       }
     ],
     "Ivica Zubac": [
@@ -2154,13 +1998,6 @@
         "date": "2026-08-04",
         "text": "NBA Trade Machine:Stephen Curry appeared in 5.8% of trades built on HoopsMatic over the past 24 hours. Of his trades, his most common destinations were Boston (27.1%), San Antonio (16.7%), and Philadelphia (14.6%). The players traded for him most often were Paul George (19.8%), De'Aaron Fox (15.6%), and Cade Cunningham (7.3%).HoopsMatic",
         "text_html": "NBA Trade Machine: <a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">Stephen Curry appeared in 5.8% of trades built on HoopsMatic over the past 24 hours. Of his trades, his most common destinations were Boston (27.1%), San Antonio (16.7%), and Philadelphia (14.6%). The players traded for him most often were Paul George (19.8%), De'Aaron Fox (15.6%), and Cade Cunningham (7.3%)</a>.",
-        "outlet": "HoopsMatic",
-        "source_url": "https://hoopsmatic.com/"
-      },
-      {
-        "date": "2026-07-31",
-        "text": "NBA Trade Machine:Stephen Curry was part of 5.1% of the trades built on HoopsMatic over the past 24 hours. Of those trades, his top destinations were San Antonio (23.6%), Philadelphia (11.2%), and Boston(10.1%). The most common players sent back for him were De'Aaron Fox (16.9%), Keldon Johnson (10.1%), and Paul George (7.9%).HoopsMatic",
-        "text_html": "NBA Trade Machine: <a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">Stephen Curry was part of 5.1% of the trades built on HoopsMatic over the past 24 hours. Of those trades, his top destinations were San Antonio (23.6%), Philadelphia (11.2%), and Boston</a> (10.1%). The most common players sent back for him were De'Aaron Fox (16.9%), Keldon Johnson (10.1%), and Paul George (7.9%).",
         "outlet": "HoopsMatic",
         "source_url": "https://hoopsmatic.com/"
       }
@@ -2220,13 +2057,6 @@
         "date": "2026-08-04",
         "text": "NBA Trade Machine:Stephen Curry appeared in 5.8% of trades built on HoopsMatic over the past 24 hours. Of his trades, his most common destinations were Boston (27.1%), San Antonio (16.7%), and Philadelphia (14.6%). The players traded for him most often were Paul George (19.8%), De'Aaron Fox (15.6%), and Cade Cunningham (7.3%).HoopsMatic",
         "text_html": "NBA Trade Machine: <a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">Stephen Curry appeared in 5.8% of trades built on HoopsMatic over the past 24 hours. Of his trades, his most common destinations were Boston (27.1%), San Antonio (16.7%), and Philadelphia (14.6%). The players traded for him most often were Paul George (19.8%), De'Aaron Fox (15.6%), and Cade Cunningham (7.3%)</a>.",
-        "outlet": "HoopsMatic",
-        "source_url": "https://hoopsmatic.com/"
-      },
-      {
-        "date": "2026-07-31",
-        "text": "NBA Trade Machine:Stephen Curry was part of 5.1% of the trades built on HoopsMatic over the past 24 hours. Of those trades, his top destinations were San Antonio (23.6%), Philadelphia (11.2%), and Boston(10.1%). The most common players sent back for him were De'Aaron Fox (16.9%), Keldon Johnson (10.1%), and Paul George (7.9%).HoopsMatic",
-        "text_html": "NBA Trade Machine: <a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">Stephen Curry was part of 5.1% of the trades built on HoopsMatic over the past 24 hours. Of those trades, his top destinations were San Antonio (23.6%), Philadelphia (11.2%), and Boston</a> (10.1%). The most common players sent back for him were De'Aaron Fox (16.9%), Keldon Johnson (10.1%), and Paul George (7.9%).",
         "outlet": "HoopsMatic",
         "source_url": "https://hoopsmatic.com/"
       }
@@ -2301,13 +2131,6 @@
         "text_html": "Stephen Curry took a measured approach when discussing the future in a recent interview with The Athletic during teammate Moses Moody\u2019s charity event in North Little Rock, Ark. \u201cThe through line,\u201d Curry told The Athletic\u2019s Marcus Thompson II, \u201cwhich is hard on anybody in this situation, especially with us keeping this thing together, is knowing that <a href=\"https://www.nytimes.com/athletic/7489363/2026/08/05/steph-curry-warriors-future-extension/\" target=\"_blank\" style=\"color: #1a73e8;\">when Jimmy (Butler) got hurt and Moses got hurt, the whole calculus of everything changes. How do you get through their absence and still stay at a certain level? And then how that goes into this year. It\u2019s the same deal. So, I\u2019m a realist on that.\u201d</a>",
         "outlet": "New York Times",
         "source_url": "https://www.nytimes.com/athletic/7489363/2026/08/05/steph-curry-warriors-future-extension/"
-      },
-      {
-        "date": "2026-07-31",
-        "text": "Anthony Slater:\"Rui Hachimura is a guy that (Warriors) looked at.They wouldn't have gone to the full mid-level type number that they were willing to get to for LeBron James because again that would have cost Moses Moody on a trade and then a Draymond Green pay cut that clearly Draymond was executing only for LeBron James.\"YouTube",
-        "text_html": "Anthony Slater: <a href=\"https://www.youtube.com/watch?v=3fqW5xI4cLo&t=43s\" target=\"_blank\" style=\"color: #1a73e8;\">\"Rui Hachimura is a guy that (Warriors) looked at.</a> They wouldn't have gone to the full mid-level type number that they were willing to get to for LeBron James because again that would have cost Moses Moody on a trade and then a Draymond Green pay cut that clearly Draymond was executing only for LeBron James.\"",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=3fqW5xI4cLo&t=43s"
       }
     ],
     "Ron Harper Jr": [
@@ -2340,13 +2163,6 @@
         "text_html": "NBA Trade Machine: <a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">Stephen Curry appeared in 5.8% of trades built on HoopsMatic over the past 24 hours. Of his trades, his most common destinations were Boston (27.1%), San Antonio (16.7%), and Philadelphia (14.6%). The players traded for him most often were Paul George (19.8%), De'Aaron Fox (15.6%), and Cade Cunningham (7.3%)</a>.",
         "outlet": "HoopsMatic",
         "source_url": "https://hoopsmatic.com/"
-      },
-      {
-        "date": "2026-07-31",
-        "text": "NBA Trade Machine:Stephen Curry was part of 5.1% of the trades built on HoopsMatic over the past 24 hours. Of those trades, his top destinations were San Antonio (23.6%), Philadelphia (11.2%), and Boston(10.1%). The most common players sent back for him were De'Aaron Fox (16.9%), Keldon Johnson (10.1%), and Paul George (7.9%).HoopsMatic",
-        "text_html": "NBA Trade Machine: <a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">Stephen Curry was part of 5.1% of the trades built on HoopsMatic over the past 24 hours. Of those trades, his top destinations were San Antonio (23.6%), Philadelphia (11.2%), and Boston</a> (10.1%). The most common players sent back for him were De'Aaron Fox (16.9%), Keldon Johnson (10.1%), and Paul George (7.9%).",
-        "outlet": "HoopsMatic",
-        "source_url": "https://hoopsmatic.com/"
       }
     ],
     "Cade Cunningham": [
@@ -2365,13 +2181,6 @@
         "text_html": "Marc Stein: <a href=\"https://www.youtube.com/live/mhQ9f9w5nmE?is=pGmRSKV6PolSwXyY\" target=\"_blank\" style=\"color: #1a73e8;\">Their preferred scenario would be finding a trade home for Zeke Nnaji, but you know if you do that you\u2019re attaching draft capital and the Nuggets are not exactly teeming with extra draft capital</a>.",
         "outlet": "YouTube",
         "source_url": "https://www.youtube.com/live/mhQ9f9w5nmE?is=pGmRSKV6PolSwXyY"
-      },
-      {
-        "date": "2026-07-31",
-        "text": "While the Bucks haven\u2019t offered a first-round pick yet, they\u2019d consider absorbing Nuggets forward Zeke Nnaji as part of a Watson sign-and-trade,HoopsHype has learned. Nnaji is owed a combined $14.93 million with two seasons remaining on his contract, including a player option for the 2027-28 season.HoopsHype",
-        "text_html": "<a href=\"https://www.hoopshype.com/story/sports/nba/2026/07/31/nba-intel-james-harden-peyton-watson-jonathan-kuminga-benn-mathurin-more/91120190007/\" target=\"_blank\" style=\"color: #1a73e8;\">While the Bucks haven\u2019t offered a first-round pick yet, they\u2019d consider absorbing Nuggets forward Zeke Nnaji as part of a Watson sign-and-trade,</a> HoopsHype has learned. Nnaji is owed a combined $14.93 million with two seasons remaining on his contract, including a player option for the 2027-28 season.",
-        "outlet": "HoopsHype",
-        "source_url": "https://www.hoopshype.com/story/sports/nba/2026/07/31/nba-intel-james-harden-peyton-watson-jonathan-kuminga-benn-mathurin-more/91120190007/"
       }
     ],
     "Zach LaVine": [
@@ -2382,60 +2191,6 @@
         "outlet": "YouTube",
         "source_url": "https://www.youtube.com/watch?v=NL0fHbGhBqM&t=198s"
       }
-    ],
-    "Dillon Brooks": [
-      {
-        "date": "2026-07-31",
-        "text": "FearBuck:Dillon Brooks tells Neon that the Kawhi Leonard trade to the Toronto Raptors WON\u2019T happenx.com",
-        "text_html": "FearBuck: <a href=\"https://x.com/FearedBuck/status/2083304826004246609\" target=\"_blank\" style=\"color: #1a73e8;\">Dillon Brooks tells Neon that the Kawhi Leonard trade to the Toronto Raptors WON\u2019T happen</a>",
-        "outlet": "x.com",
-        "source_url": "https://x.com/FearedBuck/status/2083304826004246609"
-      }
-    ],
-    "Jordan Hawkins": [
-      {
-        "date": "2026-07-31",
-        "text": "Thus,New Orleans has explored the trade market on Jordan Hawkins,including discussions with the Memphis Grizzlies involving AJ Johnson, league sources told HoopsHype. Shedding Hawkins\u2019 $7.02 million salary from their books would keep New Orleans below the luxury tax while using the non-taxpayer mid-level exception to make a run at Mathurin.HoopsHype",
-        "text_html": "Thus, <a href=\"https://www.hoopshype.com/story/sports/nba/2026/07/31/nba-intel-james-harden-peyton-watson-jonathan-kuminga-benn-mathurin-more/91120190007/\" target=\"_blank\" style=\"color: #1a73e8;\">New Orleans has explored the trade market on Jordan Hawkins,</a> including discussions with the Memphis Grizzlies involving AJ Johnson, league sources told HoopsHype. Shedding Hawkins\u2019 $7.02 million salary from their books would keep New Orleans below the luxury tax while using the non-taxpayer mid-level exception to make a run at Mathurin.",
-        "outlet": "HoopsHype",
-        "source_url": "https://www.hoopshype.com/story/sports/nba/2026/07/31/nba-intel-james-harden-peyton-watson-jonathan-kuminga-benn-mathurin-more/91120190007/"
-      }
-    ],
-    "AJ Johnson": [
-      {
-        "date": "2026-07-31",
-        "text": "Thus,New Orleans has explored the trade market on Jordan Hawkins,including discussions with the Memphis Grizzlies involving AJ Johnson, league sources told HoopsHype. Shedding Hawkins\u2019 $7.02 million salary from their books would keep New Orleans below the luxury tax while using the non-taxpayer mid-level exception to make a run at Mathurin.HoopsHype",
-        "text_html": "Thus, <a href=\"https://www.hoopshype.com/story/sports/nba/2026/07/31/nba-intel-james-harden-peyton-watson-jonathan-kuminga-benn-mathurin-more/91120190007/\" target=\"_blank\" style=\"color: #1a73e8;\">New Orleans has explored the trade market on Jordan Hawkins,</a> including discussions with the Memphis Grizzlies involving AJ Johnson, league sources told HoopsHype. Shedding Hawkins\u2019 $7.02 million salary from their books would keep New Orleans below the luxury tax while using the non-taxpayer mid-level exception to make a run at Mathurin.",
-        "outlet": "HoopsHype",
-        "source_url": "https://www.hoopshype.com/story/sports/nba/2026/07/31/nba-intel-james-harden-peyton-watson-jonathan-kuminga-benn-mathurin-more/91120190007/"
-      }
-    ],
-    "Draymond Green": [
-      {
-        "date": "2026-07-31",
-        "text": "Anthony Slater:\"Rui Hachimura is a guy that (Warriors) looked at.They wouldn't have gone to the full mid-level type number that they were willing to get to for LeBron James because again that would have cost Moses Moody on a trade and then a Draymond Green pay cut that clearly Draymond was executing only for LeBron James.\"YouTube",
-        "text_html": "Anthony Slater: <a href=\"https://www.youtube.com/watch?v=3fqW5xI4cLo&t=43s\" target=\"_blank\" style=\"color: #1a73e8;\">\"Rui Hachimura is a guy that (Warriors) looked at.</a> They wouldn't have gone to the full mid-level type number that they were willing to get to for LeBron James because again that would have cost Moses Moody on a trade and then a Draymond Green pay cut that clearly Draymond was executing only for LeBron James.\"",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=3fqW5xI4cLo&t=43s"
-      }
-    ],
-    "Rui Hachimura": [
-      {
-        "date": "2026-07-31",
-        "text": "Anthony Slater:\"Rui Hachimura is a guy that (Warriors) looked at.They wouldn't have gone to the full mid-level type number that they were willing to get to for LeBron James because again that would have cost Moses Moody on a trade and then a Draymond Green pay cut that clearly Draymond was executing only for LeBron James.\"YouTube",
-        "text_html": "Anthony Slater: <a href=\"https://www.youtube.com/watch?v=3fqW5xI4cLo&t=43s\" target=\"_blank\" style=\"color: #1a73e8;\">\"Rui Hachimura is a guy that (Warriors) looked at.</a> They wouldn't have gone to the full mid-level type number that they were willing to get to for LeBron James because again that would have cost Moses Moody on a trade and then a Draymond Green pay cut that clearly Draymond was executing only for LeBron James.\"",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=3fqW5xI4cLo&t=43s"
-      }
-    ],
-    "Keldon Johnson": [
-      {
-        "date": "2026-07-31",
-        "text": "NBA Trade Machine:Stephen Curry was part of 5.1% of the trades built on HoopsMatic over the past 24 hours. Of those trades, his top destinations were San Antonio (23.6%), Philadelphia (11.2%), and Boston(10.1%). The most common players sent back for him were De'Aaron Fox (16.9%), Keldon Johnson (10.1%), and Paul George (7.9%).HoopsMatic",
-        "text_html": "NBA Trade Machine: <a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">Stephen Curry was part of 5.1% of the trades built on HoopsMatic over the past 24 hours. Of those trades, his top destinations were San Antonio (23.6%), Philadelphia (11.2%), and Boston</a> (10.1%). The most common players sent back for him were De'Aaron Fox (16.9%), Keldon Johnson (10.1%), and Paul George (7.9%).",
-        "outlet": "HoopsMatic",
-        "source_url": "https://hoopsmatic.com/"
-      }
     ]
   },
   "daily_counts": {
@@ -2444,8 +2199,7 @@
       "2026-08-18": 1,
       "2026-08-17": 1,
       "2026-08-11": 1,
-      "2026-08-10": 2,
-      "2026-07-31": 2
+      "2026-08-10": 2
     },
     "Jarred Vanderbilt": {
       "2026-08-28": 1
@@ -2490,14 +2244,12 @@
       "2026-08-08": 1,
       "2026-08-07": 1,
       "2026-08-06": 2,
-      "2026-08-05": 2,
-      "2026-07-31": 3
+      "2026-08-05": 2
     },
     "Bennedict Mathurin": {
       "2026-08-26": 2,
       "2026-08-25": 1,
-      "2026-08-19": 1,
-      "2026-07-31": 1
+      "2026-08-19": 1
     },
     "Jalen Duren": {
       "2026-08-26": 1,
@@ -2523,8 +2275,7 @@
       "2026-08-08": 1,
       "2026-08-06": 3,
       "2026-08-05": 1,
-      "2026-08-03": 2,
-      "2026-07-31": 3
+      "2026-08-03": 2
     },
     "Jaylen Brown": {
       "2026-08-23": 1,
@@ -2588,8 +2339,7 @@
     "Max Strus": {
       "2026-08-19": 4,
       "2026-08-17": 1,
-      "2026-08-12": 1,
-      "2026-07-31": 1
+      "2026-08-12": 1
     },
     "Johni Broome": {
       "2026-08-19": 1
@@ -2637,8 +2387,7 @@
       "2026-08-16": 1
     },
     "LeBron James": {
-      "2026-08-13": 1,
-      "2026-07-31": 2
+      "2026-08-13": 1
     },
     "Ivica Zubac": {
       "2026-08-13": 1
@@ -2647,8 +2396,7 @@
       "2026-08-13": 1,
       "2026-08-10": 1,
       "2026-08-05": 3,
-      "2026-08-04": 1,
-      "2026-07-31": 1
+      "2026-08-04": 1
     },
     "Bobby Portis": {
       "2026-08-11": 1,
@@ -2665,8 +2413,7 @@
     },
     "De'Aaron Fox": {
       "2026-08-10": 1,
-      "2026-08-04": 1,
-      "2026-07-31": 1
+      "2026-08-04": 1
     },
     "D'Angelo Russell": {
       "2026-08-10": 1
@@ -2690,43 +2437,22 @@
       "2026-08-05": 1
     },
     "Moses Moody": {
-      "2026-08-05": 1,
-      "2026-07-31": 1
+      "2026-08-05": 1
     },
     "Ron Harper Jr": {
       "2026-08-04": 2
     },
     "Paul George": {
-      "2026-08-04": 2,
-      "2026-07-31": 1
+      "2026-08-04": 2
     },
     "Cade Cunningham": {
       "2026-08-04": 1
     },
     "Zeke Nnaji": {
-      "2026-08-03": 1,
-      "2026-07-31": 1
+      "2026-08-03": 1
     },
     "Zach LaVine": {
       "2026-08-03": 1
-    },
-    "Dillon Brooks": {
-      "2026-07-31": 1
-    },
-    "Jordan Hawkins": {
-      "2026-07-31": 1
-    },
-    "AJ Johnson": {
-      "2026-07-31": 1
-    },
-    "Draymond Green": {
-      "2026-07-31": 1
-    },
-    "Rui Hachimura": {
-      "2026-07-31": 1
-    },
-    "Keldon Johnson": {
-      "2026-07-31": 1
     }
   }
 }
