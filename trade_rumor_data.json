@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-29T21:31:28.917600",
+  "generated_at": "2026-08-30T06:15:30.002215",
   "scrape_window_days": 28,
-  "window_start": "2026-08-01",
-  "window_end": "2026-08-29",
-  "total_rumors": 185,
+  "window_start": "2026-08-02",
+  "window_end": "2026-08-30",
+  "total_rumors": 180,
   "total_players": 65,
   "rankings": [
     {
@@ -103,18 +103,6 @@
       "rank": 8
     },
     {
-      "player": "Klay Thompson",
-      "score": 2.5,
-      "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 8,
-      "total_mentions": 9,
-      "first_mention": "2026-08-01",
-      "last_mention": "2026-08-17",
-      "team": "Dallas Mavericks",
-      "rank": 9
-    },
-    {
       "player": "James Harden",
       "score": 2.5,
       "mentions_week1": 0,
@@ -124,19 +112,7 @@
       "first_mention": "2026-08-11",
       "last_mention": "2026-08-20",
       "team": "Los Angeles Clippers",
-      "rank": 10
-    },
-    {
-      "player": "Nikola Jovic",
-      "score": 2.5,
-      "mentions_week1": 2,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 4,
-      "first_mention": "2026-08-01",
-      "last_mention": "2026-08-27",
-      "team": "Boston Celtics",
-      "rank": 11
+      "rank": 9
     },
     {
       "player": "Jalen Duren",
@@ -148,6 +124,30 @@
       "first_mention": "2026-08-05",
       "last_mention": "2026-08-29",
       "team": "Detroit Pistons",
+      "rank": 10
+    },
+    {
+      "player": "Nikola Jovic",
+      "score": 2.25,
+      "mentions_week1": 2,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 3,
+      "first_mention": "2026-08-05",
+      "last_mention": "2026-08-27",
+      "team": "Boston Celtics",
+      "rank": 11
+    },
+    {
+      "player": "Klay Thompson",
+      "score": 2.0,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 6,
+      "total_mentions": 7,
+      "first_mention": "2026-08-03",
+      "last_mention": "2026-08-17",
+      "team": "Dallas Mavericks",
       "rank": 12
     },
     {
@@ -211,30 +211,6 @@
       "rank": 17
     },
     {
-      "player": "Nikola Jokic",
-      "score": 1.5,
-      "mentions_week1": 1,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 2,
-      "first_mention": "2026-08-21",
-      "last_mention": "2026-08-22",
-      "team": "Denver Nuggets",
-      "rank": 18
-    },
-    {
-      "player": "Davion Mitchell",
-      "score": 1.25,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 2,
-      "first_mention": "2026-08-01",
-      "last_mention": "2026-08-27",
-      "team": "Boston Celtics",
-      "rank": 19
-    },
-    {
       "player": "Jimmy Butler",
       "score": 1.25,
       "mentions_week1": 1,
@@ -244,7 +220,7 @@
       "first_mention": "2026-08-05",
       "last_mention": "2026-08-25",
       "team": "Golden State Warriors",
-      "rank": 20
+      "rank": 18
     },
     {
       "player": "Domantas Sabonis",
@@ -256,7 +232,19 @@
       "first_mention": "2026-08-05",
       "last_mention": "2026-08-16",
       "team": "Sacramento Kings",
-      "rank": 21
+      "rank": 19
+    },
+    {
+      "player": "Nikola Jokic",
+      "score": 1.0,
+      "mentions_week1": 0,
+      "mentions_week2": 2,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 2,
+      "first_mention": "2026-08-21",
+      "last_mention": "2026-08-22",
+      "team": "Denver Nuggets",
+      "rank": 20
     },
     {
       "player": "Alex Caruso",
@@ -268,19 +256,19 @@
       "first_mention": "2026-08-25",
       "last_mention": "2026-08-25",
       "team": "Chicago Bulls",
-      "rank": 22
+      "rank": 21
     },
     {
-      "player": "Brandon Miller",
+      "player": "Davion Mitchell",
       "score": 1.0,
       "mentions_week1": 1,
       "mentions_week2": 0,
       "mentions_weeks3_4": 0,
       "total_mentions": 1,
-      "first_mention": "2026-08-22",
-      "last_mention": "2026-08-22",
-      "team": "Charlotte Hornets",
-      "rank": 23
+      "first_mention": "2026-08-27",
+      "last_mention": "2026-08-27",
+      "team": "Boston Celtics",
+      "rank": 22
     },
     {
       "player": "Dru Smith",
@@ -292,7 +280,7 @@
       "first_mention": "2026-08-27",
       "last_mention": "2026-08-27",
       "team": "Boston Celtics",
-      "rank": 24
+      "rank": 23
     },
     {
       "player": "Jarred Vanderbilt",
@@ -304,19 +292,7 @@
       "first_mention": "2026-08-28",
       "last_mention": "2026-08-28",
       "team": "Los Angeles Lakers",
-      "rank": 25
-    },
-    {
-      "player": "Kon Knueppel",
-      "score": 1.0,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-08-22",
-      "last_mention": "2026-08-22",
-      "team": "Charlotte Hornets",
-      "rank": 26
+      "rank": 24
     },
     {
       "player": "Paolo Banchero",
@@ -328,7 +304,7 @@
       "first_mention": "2026-08-28",
       "last_mention": "2026-08-28",
       "team": "Orlando Magic",
-      "rank": 27
+      "rank": 25
     },
     {
       "player": "Patrick Williams",
@@ -340,7 +316,7 @@
       "first_mention": "2026-08-25",
       "last_mention": "2026-08-25",
       "team": "Chicago Bulls",
-      "rank": 28
+      "rank": 26
     },
     {
       "player": "Payton Pritchard",
@@ -352,7 +328,7 @@
       "first_mention": "2026-08-23",
       "last_mention": "2026-08-23",
       "team": "Boston Celtics",
-      "rank": 29
+      "rank": 27
     },
     {
       "player": "Taylor Hendricks",
@@ -364,7 +340,7 @@
       "first_mention": "2026-08-28",
       "last_mention": "2026-08-28",
       "team": "Los Angeles Lakers",
-      "rank": 30
+      "rank": 28
     },
     {
       "player": "Terance Mann",
@@ -376,19 +352,7 @@
       "first_mention": "2026-08-28",
       "last_mention": "2026-08-28",
       "team": "Los Angeles Lakers",
-      "rank": 31
-    },
-    {
-      "player": "Tidjane Salaun",
-      "score": 1.0,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-08-22",
-      "last_mention": "2026-08-22",
-      "team": "Charlotte Hornets",
-      "rank": 32
+      "rank": 29
     },
     {
       "player": "Brandon Ingram",
@@ -400,7 +364,7 @@
       "first_mention": "2026-08-10",
       "last_mention": "2026-08-17",
       "team": "Toronto Raptors",
-      "rank": 33
+      "rank": 30
     },
     {
       "player": "Darius Garland",
@@ -412,7 +376,7 @@
       "first_mention": "2026-08-13",
       "last_mention": "2026-08-20",
       "team": "Cleveland Cavaliers",
-      "rank": 34
+      "rank": 31
     },
     {
       "player": "Gradey Dick",
@@ -424,7 +388,7 @@
       "first_mention": "2026-08-10",
       "last_mention": "2026-08-17",
       "team": "Toronto Raptors",
-      "rank": 35
+      "rank": 32
     },
     {
       "player": "Kevin Durant",
@@ -436,7 +400,7 @@
       "first_mention": "2026-08-04",
       "last_mention": "2026-08-16",
       "team": "Houston Rockets",
-      "rank": 36
+      "rank": 33
     },
     {
       "player": "LaMelo Ball",
@@ -448,7 +412,7 @@
       "first_mention": "2026-08-13",
       "last_mention": "2026-08-16",
       "team": "Charlotte Hornets",
-      "rank": 37
+      "rank": 34
     },
     {
       "player": "Tyrese Haliburton",
@@ -460,19 +424,7 @@
       "first_mention": "2026-08-13",
       "last_mention": "2026-08-16",
       "team": "Indiana Pacers",
-      "rank": 38
-    },
-    {
-      "player": "Bobby Portis",
-      "score": 0.5,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 2,
-      "first_mention": "2026-08-01",
-      "last_mention": "2026-08-11",
-      "team": "Milwaukee Bucks",
-      "rank": 39
+      "rank": 35
     },
     {
       "player": "De'Aaron Fox",
@@ -484,7 +436,7 @@
       "first_mention": "2026-08-04",
       "last_mention": "2026-08-10",
       "team": "San Antonio Spurs",
-      "rank": 40
+      "rank": 36
     },
     {
       "player": "Paul George",
@@ -496,7 +448,7 @@
       "first_mention": "2026-08-04",
       "last_mention": "2026-08-04",
       "team": "Philadelphia 76ers",
-      "rank": 41
+      "rank": 37
     },
     {
       "player": "Ron Harper Jr",
@@ -508,7 +460,7 @@
       "first_mention": "2026-08-04",
       "last_mention": "2026-08-04",
       "team": "Boston Celtics",
-      "rank": 42
+      "rank": 38
     },
     {
       "player": "Anthony Edwards",
@@ -520,7 +472,19 @@
       "first_mention": "2026-08-16",
       "last_mention": "2026-08-16",
       "team": "Minnesota Timberwolves",
-      "rank": 43
+      "rank": 39
+    },
+    {
+      "player": "Brandon Miller",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-08-22",
+      "last_mention": "2026-08-22",
+      "team": "Charlotte Hornets",
+      "rank": 40
     },
     {
       "player": "Isaiah Hartenstein",
@@ -532,7 +496,7 @@
       "first_mention": "2026-08-16",
       "last_mention": "2026-08-16",
       "team": "Oklahoma City Thunder",
-      "rank": 44
+      "rank": 41
     },
     {
       "player": "Jaden Hardy",
@@ -544,7 +508,7 @@
       "first_mention": "2026-08-21",
       "last_mention": "2026-08-21",
       "team": "Atlanta Hawks",
-      "rank": 45
+      "rank": 42
     },
     {
       "player": "John Collins",
@@ -556,7 +520,7 @@
       "first_mention": "2026-08-19",
       "last_mention": "2026-08-19",
       "team": "Los Angeles Clippers",
-      "rank": 46
+      "rank": 43
     },
     {
       "player": "Johni Broome",
@@ -568,7 +532,19 @@
       "first_mention": "2026-08-19",
       "last_mention": "2026-08-19",
       "team": "Cleveland Cavaliers",
-      "rank": 47
+      "rank": 44
+    },
+    {
+      "player": "Kon Knueppel",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-08-22",
+      "last_mention": "2026-08-22",
+      "team": "Charlotte Hornets",
+      "rank": 45
     },
     {
       "player": "Lonzo Ball",
@@ -580,7 +556,7 @@
       "first_mention": "2026-08-19",
       "last_mention": "2026-08-19",
       "team": "Cleveland Cavaliers",
-      "rank": 48
+      "rank": 46
     },
     {
       "player": "Russell Westbrook",
@@ -592,6 +568,30 @@
       "first_mention": "2026-08-19",
       "last_mention": "2026-08-19",
       "team": "Cleveland Cavaliers",
+      "rank": 47
+    },
+    {
+      "player": "Tidjane Salaun",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-08-22",
+      "last_mention": "2026-08-22",
+      "team": "Charlotte Hornets",
+      "rank": 48
+    },
+    {
+      "player": "Bobby Portis",
+      "score": 0.25,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 1,
+      "first_mention": "2026-08-11",
+      "last_mention": "2026-08-11",
+      "team": "Milwaukee Bucks",
       "rank": 49
     },
     {
@@ -1037,13 +1037,6 @@
         "text_html": "NBA Trade Machine: <a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">Kyrie Irving was involved in 3.6% of all trades built on HoopsMatic over the past 24 hours. Of those, his top destinations were Miami (24.1%), Boston (14.8%), and Orlando (13.0%).</a> Players traded for him most often: Davion Mitchell (16.7%), Dru Smith (16.7%), and Nikola Jovic (14.8%).",
         "outlet": "HoopsMatic",
         "source_url": "https://hoopsmatic.com/"
-      },
-      {
-        "date": "2026-08-01",
-        "text": "Anthony Chiang: The Heat has strong interest in veteran guard Klay Thompson. The issue is he\u2019s still under contract with the Mavericks, as he\u2019s due $17.5 million in the final year of his contract. It appears that the Heat will remain patient in filling out the rest of its roster to give Thompson time to possibly shake free through a buyout agreement. While a trade for Thompson is also possible, it would be challenging to pull off considering the only three players on the Heat\u2019s current roster able to be traded for Thompson in a one-for-one deal are Nikola Jovic, Davion Mitchell and Bobby Portis.The cleaner path is for the Mavericks to eventually agree to a buyout with Thompson, with Thompson hypothetically giving up $7 million of his current salary to become a free agent.The Heat can then make up the difference on the money Thompson gave up by using the rest of its midlevel exception to offer him a $7 million salary for this upcoming season.Miami Herald",
-        "text_html": "Anthony Chiang: The Heat has strong interest in veteran guard Klay Thompson. The issue is he\u2019s still under contract with the Mavericks, as he\u2019s due $17.5 million in the final year of his contract. It appears that the Heat will remain patient in filling out the rest of its roster to give Thompson time to possibly shake free through a buyout agreement. While a trade for Thompson is also possible, it would be challenging to pull off considering the only three players on the Heat\u2019s current roster able to be traded for Thompson in a one-for-one deal are Nikola Jovic, Davion Mitchell and Bobby Portis. <a href=\"https://www.miamiherald.com/sports/nba/miami-heat/article316704268.html\" target=\"_blank\" style=\"color: #1a73e8;\">The cleaner path is for the Mavericks to eventually agree to a buyout with Thompson, with Thompson hypothetically giving up $7 million of his current salary to become a free agent.</a> The Heat can then make up the difference on the money Thompson gave up by using the rest of its midlevel exception to offer him a $7 million salary for this upcoming season.",
-        "outlet": "Miami Herald",
-        "source_url": "https://www.miamiherald.com/sports/nba/miami-heat/article316704268.html"
       }
     ],
     "Dru Smith": [
@@ -1076,13 +1069,6 @@
         "text_html": "Jake Fischer: \u2018The Mavericks would trade Klay Thompson. <a href=\"https://bleacherreport.com/videos/0a59c6de-76db-4381-9da6-ada9746e2961-latest-nba-offseason-rumors\" target=\"_blank\" style=\"color: #1a73e8;\">There's definitely been some type of buzz, framework, whatever, about a Klay Thompson-for-Nikola Jovic thing for weeks now\u2026 but it that was to happen, I think it would probably have happened.\u2019</a>",
         "outlet": "Bleacher Report",
         "source_url": "https://bleacherreport.com/videos/0a59c6de-76db-4381-9da6-ada9746e2961-latest-nba-offseason-rumors"
-      },
-      {
-        "date": "2026-08-01",
-        "text": "Anthony Chiang: The Heat has strong interest in veteran guard Klay Thompson. The issue is he\u2019s still under contract with the Mavericks, as he\u2019s due $17.5 million in the final year of his contract. It appears that the Heat will remain patient in filling out the rest of its roster to give Thompson time to possibly shake free through a buyout agreement. While a trade for Thompson is also possible, it would be challenging to pull off considering the only three players on the Heat\u2019s current roster able to be traded for Thompson in a one-for-one deal are Nikola Jovic, Davion Mitchell and Bobby Portis.The cleaner path is for the Mavericks to eventually agree to a buyout with Thompson, with Thompson hypothetically giving up $7 million of his current salary to become a free agent.The Heat can then make up the difference on the money Thompson gave up by using the rest of its midlevel exception to offer him a $7 million salary for this upcoming season.Miami Herald",
-        "text_html": "Anthony Chiang: The Heat has strong interest in veteran guard Klay Thompson. The issue is he\u2019s still under contract with the Mavericks, as he\u2019s due $17.5 million in the final year of his contract. It appears that the Heat will remain patient in filling out the rest of its roster to give Thompson time to possibly shake free through a buyout agreement. While a trade for Thompson is also possible, it would be challenging to pull off considering the only three players on the Heat\u2019s current roster able to be traded for Thompson in a one-for-one deal are Nikola Jovic, Davion Mitchell and Bobby Portis. <a href=\"https://www.miamiherald.com/sports/nba/miami-heat/article316704268.html\" target=\"_blank\" style=\"color: #1a73e8;\">The cleaner path is for the Mavericks to eventually agree to a buyout with Thompson, with Thompson hypothetically giving up $7 million of his current salary to become a free agent.</a> The Heat can then make up the difference on the money Thompson gave up by using the rest of its midlevel exception to offer him a $7 million salary for this upcoming season.",
-        "outlet": "Miami Herald",
-        "source_url": "https://www.miamiherald.com/sports/nba/miami-heat/article316704268.html"
       }
     ],
     "Bennedict Mathurin": [
@@ -1794,20 +1780,6 @@
         "text_html": "At this point, <a href=\"https://www.nytimes.com/athletic/7480545/2026/08/03/the-mavericks-have-16-standard-contracts-whats-their-next-move/?unlocked_article_code=1.2lA.ht2g.QDnT8NBoc7Ec&source=athletic_user_shared_gift_article_copylink&smid=url-share-ta\" target=\"_blank\" style=\"color: #1a73e8;\">it remains unclear if Klay Thompson \u2014 the Mavericks\u2019 leading 3-point shooter in each of the past two seasons \u2014 will be back in Dallas for a third year. The Mavericks have explored his trade market but have yet to find a deal,</a> multiple sources with rival teams told The Athletic on the condition of anonymity because they were not authorized to discuss any potential negotiations. Thompson is owed $17.5 million this season and is set to become an unrestricted free agent in the summer of 2027.",
         "outlet": "New York Times",
         "source_url": "https://www.nytimes.com/athletic/7480545/2026/08/03/the-mavericks-have-16-standard-contracts-whats-their-next-move/?unlocked_article_code=1.2lA.ht2g.QDnT8NBoc7Ec&source=athletic_user_shared_gift_article_copylink&smid=url-share-ta"
-      },
-      {
-        "date": "2026-08-01",
-        "text": "Klay Thompson: This would require either a trade or a buyout, with Thompson under contract this season to the Dallas Mavericks at $17.5 million. \u201cHe\u2019s not the defender he used to be. He can\u2019t create his own shot, but he can still make shots,\u201d the scout said of the 36-year-old who has dealt with an Achilles tear and ACL tear since his Warriors-championship prime. \u201cI mean, on a given night, he\u2019ll get you 17 points, maybe. I don\u2019t think it\u2019s going to be as regular, but I don\u2019t think you should have high expectations. But he\u2019s not through completely. You don\u2019t stick a fork in him yet.\u201dThe scout estimated that on the open market Thompson likely would be a minimum-scale player, \u201cmaybe $5 million.\u201dSouth Florida Sun-Sentinel",
-        "text_html": "Klay Thompson: This would require either a trade or a buyout, with Thompson under contract this season to the Dallas Mavericks at $17.5 million. \u201cHe\u2019s not the defender he used to be. He can\u2019t create his own shot, but he can still make shots,\u201d the scout said of the 36-year-old who has dealt with an Achilles tear and ACL tear since his Warriors-championship prime. \u201cI mean, on a given night, he\u2019ll get you 17 points, maybe. I don\u2019t think it\u2019s going to be as regular, but I don\u2019t think you should have high expectations. But he\u2019s not through completely. You don\u2019t stick a fork in him yet.\u201d <a href=\"https://www.sun-sentinel.com/2026/07/31/scratch-and-dent-sale-nba-scout-evaluates-what-remains-for-heat/\" target=\"_blank\" style=\"color: #1a73e8;\">The scout estimated that on the open market Thompson likely would be a minimum-scale player, \u201cmaybe $5 million.\u201d</a>",
-        "outlet": "South Florida Sun-Sentinel",
-        "source_url": "https://www.sun-sentinel.com/2026/07/31/scratch-and-dent-sale-nba-scout-evaluates-what-remains-for-heat/"
-      },
-      {
-        "date": "2026-08-01",
-        "text": "Anthony Chiang: The Heat has strong interest in veteran guard Klay Thompson. The issue is he\u2019s still under contract with the Mavericks, as he\u2019s due $17.5 million in the final year of his contract. It appears that the Heat will remain patient in filling out the rest of its roster to give Thompson time to possibly shake free through a buyout agreement. While a trade for Thompson is also possible, it would be challenging to pull off considering the only three players on the Heat\u2019s current roster able to be traded for Thompson in a one-for-one deal are Nikola Jovic, Davion Mitchell and Bobby Portis.The cleaner path is for the Mavericks to eventually agree to a buyout with Thompson, with Thompson hypothetically giving up $7 million of his current salary to become a free agent.The Heat can then make up the difference on the money Thompson gave up by using the rest of its midlevel exception to offer him a $7 million salary for this upcoming season.Miami Herald",
-        "text_html": "Anthony Chiang: The Heat has strong interest in veteran guard Klay Thompson. The issue is he\u2019s still under contract with the Mavericks, as he\u2019s due $17.5 million in the final year of his contract. It appears that the Heat will remain patient in filling out the rest of its roster to give Thompson time to possibly shake free through a buyout agreement. While a trade for Thompson is also possible, it would be challenging to pull off considering the only three players on the Heat\u2019s current roster able to be traded for Thompson in a one-for-one deal are Nikola Jovic, Davion Mitchell and Bobby Portis. <a href=\"https://www.miamiherald.com/sports/nba/miami-heat/article316704268.html\" target=\"_blank\" style=\"color: #1a73e8;\">The cleaner path is for the Mavericks to eventually agree to a buyout with Thompson, with Thompson hypothetically giving up $7 million of his current salary to become a free agent.</a> The Heat can then make up the difference on the money Thompson gave up by using the rest of its midlevel exception to offer him a $7 million salary for this upcoming season.",
-        "outlet": "Miami Herald",
-        "source_url": "https://www.miamiherald.com/sports/nba/miami-heat/article316704268.html"
       }
     ],
     "Brandon Ingram": [
@@ -2030,13 +2002,6 @@
         "text_html": "Was it as simple as once Miami got Giannis, you knew you\u2019d have to pursue other possibilities because of their cap situation? Or did you get a sense even beforehand that you would have to consider other options? Norman Powell: \u201cHonestly, I thought I would be going back to Miami throughout the course of the year. We knew they wanted to get Giannis. <a href=\"https://fadeawayworld.net/nba/chicago-bulls/bulls-norman-powell-on-giannis-antetokounmpos-impact-on-his-free-agency-caleb-wilsons-potential\" target=\"_blank\" style=\"color: #1a73e8;\">We heard some rumblings that \u2018Norm, Bam [Adebayo] and Giannis sounds really good.\u201d So I thought that was the path. But when the trade is on the table, that was in the season and I don\u2019t know the talks behind it. I don\u2019t know what Milwaukee\u2019s stance was. But it seemed like they were like, \u2018If you want Giannis, you have to take Bobby Portis.\u2019</a> I think that played a part with the CBA rules and the hard cap with sending out money and receiving money. That put a tough swing on things, in my eyes. But I could be totally wrong.",
         "outlet": "Fade Away World",
         "source_url": "https://fadeawayworld.net/nba/chicago-bulls/bulls-norman-powell-on-giannis-antetokounmpos-impact-on-his-free-agency-caleb-wilsons-potential"
-      },
-      {
-        "date": "2026-08-01",
-        "text": "Anthony Chiang: The Heat has strong interest in veteran guard Klay Thompson. The issue is he\u2019s still under contract with the Mavericks, as he\u2019s due $17.5 million in the final year of his contract. It appears that the Heat will remain patient in filling out the rest of its roster to give Thompson time to possibly shake free through a buyout agreement. While a trade for Thompson is also possible, it would be challenging to pull off considering the only three players on the Heat\u2019s current roster able to be traded for Thompson in a one-for-one deal are Nikola Jovic, Davion Mitchell and Bobby Portis.The cleaner path is for the Mavericks to eventually agree to a buyout with Thompson, with Thompson hypothetically giving up $7 million of his current salary to become a free agent.The Heat can then make up the difference on the money Thompson gave up by using the rest of its midlevel exception to offer him a $7 million salary for this upcoming season.Miami Herald",
-        "text_html": "Anthony Chiang: The Heat has strong interest in veteran guard Klay Thompson. The issue is he\u2019s still under contract with the Mavericks, as he\u2019s due $17.5 million in the final year of his contract. It appears that the Heat will remain patient in filling out the rest of its roster to give Thompson time to possibly shake free through a buyout agreement. While a trade for Thompson is also possible, it would be challenging to pull off considering the only three players on the Heat\u2019s current roster able to be traded for Thompson in a one-for-one deal are Nikola Jovic, Davion Mitchell and Bobby Portis. <a href=\"https://www.miamiherald.com/sports/nba/miami-heat/article316704268.html\" target=\"_blank\" style=\"color: #1a73e8;\">The cleaner path is for the Mavericks to eventually agree to a buyout with Thompson, with Thompson hypothetically giving up $7 million of his current salary to become a free agent.</a> The Heat can then make up the difference on the money Thompson gave up by using the rest of its midlevel exception to offer him a $7 million salary for this upcoming season.",
-        "outlet": "Miami Herald",
-        "source_url": "https://www.miamiherald.com/sports/nba/miami-heat/article316704268.html"
       }
     ],
     "Norman Powell": [
@@ -2262,8 +2227,7 @@
       "2026-08-25": 1
     },
     "Davion Mitchell": {
-      "2026-08-27": 1,
-      "2026-08-01": 1
+      "2026-08-27": 1
     },
     "Dru Smith": {
       "2026-08-27": 1
@@ -2271,8 +2235,7 @@
     "Nikola Jovic": {
       "2026-08-27": 1,
       "2026-08-25": 1,
-      "2026-08-05": 1,
-      "2026-08-01": 1
+      "2026-08-05": 1
     },
     "Bennedict Mathurin": {
       "2026-08-26": 2,
@@ -2373,8 +2336,7 @@
       "2026-08-14": 2,
       "2026-08-07": 1,
       "2026-08-05": 1,
-      "2026-08-03": 2,
-      "2026-08-01": 2
+      "2026-08-03": 2
     },
     "Brandon Ingram": {
       "2026-08-17": 1,
@@ -2423,8 +2385,7 @@
       "2026-08-04": 1
     },
     "Bobby Portis": {
-      "2026-08-11": 1,
-      "2026-08-01": 1
+      "2026-08-11": 1
     },
     "Norman Powell": {
       "2026-08-11": 1
