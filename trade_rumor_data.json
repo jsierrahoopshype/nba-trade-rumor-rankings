@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-31T06:41:21.718647",
+  "generated_at": "2026-08-31T19:16:14.696492",
   "scrape_window_days": 28,
   "window_start": "2026-08-03",
   "window_end": "2026-08-31",
-  "total_rumors": 184,
-  "total_players": 68,
+  "total_rumors": 188,
+  "total_players": 70,
   "rankings": [
     {
       "player": "Peyton Watson",
@@ -115,6 +115,30 @@
       "rank": 9
     },
     {
+      "player": "Jaylen Brown",
+      "score": 2.5,
+      "mentions_week1": 1,
+      "mentions_week2": 2,
+      "mentions_weeks3_4": 2,
+      "total_mentions": 5,
+      "first_mention": "2026-08-06",
+      "last_mention": "2026-08-31",
+      "team": "Boston Celtics",
+      "rank": 10
+    },
+    {
+      "player": "Luka Doncic",
+      "score": 2.5,
+      "mentions_week1": 1,
+      "mentions_week2": 2,
+      "mentions_weeks3_4": 2,
+      "total_mentions": 5,
+      "first_mention": "2026-08-06",
+      "last_mention": "2026-08-31",
+      "team": "Los Angeles Lakers",
+      "rank": 11
+    },
+    {
       "player": "Jalen Duren",
       "score": 2.25,
       "mentions_week1": 2,
@@ -124,7 +148,7 @@
       "first_mention": "2026-08-05",
       "last_mention": "2026-08-29",
       "team": "Detroit Pistons",
-      "rank": 10
+      "rank": 12
     },
     {
       "player": "Nikola Jovic",
@@ -136,7 +160,7 @@
       "first_mention": "2026-08-05",
       "last_mention": "2026-08-27",
       "team": "Boston Celtics",
-      "rank": 11
+      "rank": 13
     },
     {
       "player": "Klay Thompson",
@@ -148,7 +172,7 @@
       "first_mention": "2026-08-03",
       "last_mention": "2026-08-17",
       "team": "Dallas Mavericks",
-      "rank": 12
+      "rank": 14
     },
     {
       "player": "Kyrie Irving",
@@ -160,7 +184,7 @@
       "first_mention": "2026-08-25",
       "last_mention": "2026-08-27",
       "team": "Dallas Mavericks",
-      "rank": 13
+      "rank": 15
     },
     {
       "player": "Stephen Curry",
@@ -172,30 +196,6 @@
       "first_mention": "2026-08-04",
       "last_mention": "2026-08-13",
       "team": "Golden State Warriors",
-      "rank": 14
-    },
-    {
-      "player": "Jaylen Brown",
-      "score": 1.5,
-      "mentions_week1": 0,
-      "mentions_week2": 2,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 4,
-      "first_mention": "2026-08-06",
-      "last_mention": "2026-08-23",
-      "team": "Boston Celtics",
-      "rank": 15
-    },
-    {
-      "player": "Luka Doncic",
-      "score": 1.5,
-      "mentions_week1": 0,
-      "mentions_week2": 2,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 4,
-      "first_mention": "2026-08-06",
-      "last_mention": "2026-08-21",
-      "team": "Los Angeles Lakers",
       "rank": 16
     },
     {
@@ -259,19 +259,19 @@
       "rank": 21
     },
     {
-      "player": "Davion Mitchell",
+      "player": "Cooper Flagg",
       "score": 1.0,
       "mentions_week1": 1,
       "mentions_week2": 0,
       "mentions_weeks3_4": 0,
       "total_mentions": 1,
-      "first_mention": "2026-08-27",
-      "last_mention": "2026-08-27",
-      "team": "Boston Celtics",
+      "first_mention": "2026-08-31",
+      "last_mention": "2026-08-31",
+      "team": "Dallas Mavericks",
       "rank": 22
     },
     {
-      "player": "Dru Smith",
+      "player": "Davion Mitchell",
       "score": 1.0,
       "mentions_week1": 1,
       "mentions_week2": 0,
@@ -283,6 +283,18 @@
       "rank": 23
     },
     {
+      "player": "Dru Smith",
+      "score": 1.0,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-08-27",
+      "last_mention": "2026-08-27",
+      "team": "Boston Celtics",
+      "rank": 24
+    },
+    {
       "player": "Fred VanVleet",
       "score": 1.0,
       "mentions_week1": 1,
@@ -292,7 +304,7 @@
       "first_mention": "2026-08-30",
       "last_mention": "2026-08-30",
       "team": "Chicago Bulls",
-      "rank": 24
+      "rank": 25
     },
     {
       "player": "Jaden McDaniels",
@@ -304,7 +316,7 @@
       "first_mention": "2026-08-30",
       "last_mention": "2026-08-30",
       "team": "Minnesota Timberwolves",
-      "rank": 25
+      "rank": 26
     },
     {
       "player": "Jarred Vanderbilt",
@@ -316,7 +328,19 @@
       "first_mention": "2026-08-28",
       "last_mention": "2026-08-28",
       "team": "Los Angeles Lakers",
-      "rank": 26
+      "rank": 27
+    },
+    {
+      "player": "Jayson Tatum",
+      "score": 1.0,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-08-31",
+      "last_mention": "2026-08-31",
+      "team": "Boston Celtics",
+      "rank": 28
     },
     {
       "player": "Paolo Banchero",
@@ -328,7 +352,7 @@
       "first_mention": "2026-08-28",
       "last_mention": "2026-08-28",
       "team": "Orlando Magic",
-      "rank": 27
+      "rank": 29
     },
     {
       "player": "Patrick Williams",
@@ -340,7 +364,7 @@
       "first_mention": "2026-08-25",
       "last_mention": "2026-08-25",
       "team": "Chicago Bulls",
-      "rank": 28
+      "rank": 30
     },
     {
       "player": "Taylor Hendricks",
@@ -352,7 +376,7 @@
       "first_mention": "2026-08-28",
       "last_mention": "2026-08-28",
       "team": "Los Angeles Lakers",
-      "rank": 29
+      "rank": 31
     },
     {
       "player": "Terance Mann",
@@ -364,7 +388,7 @@
       "first_mention": "2026-08-28",
       "last_mention": "2026-08-28",
       "team": "Los Angeles Lakers",
-      "rank": 30
+      "rank": 32
     },
     {
       "player": "Trey Murphy",
@@ -376,7 +400,7 @@
       "first_mention": "2026-08-30",
       "last_mention": "2026-08-30",
       "team": "New Orleans Pelicans",
-      "rank": 31
+      "rank": 33
     },
     {
       "player": "Domantas Sabonis",
@@ -388,7 +412,7 @@
       "first_mention": "2026-08-05",
       "last_mention": "2026-08-16",
       "team": "Sacramento Kings",
-      "rank": 32
+      "rank": 34
     },
     {
       "player": "Brandon Ingram",
@@ -400,7 +424,7 @@
       "first_mention": "2026-08-10",
       "last_mention": "2026-08-17",
       "team": "Toronto Raptors",
-      "rank": 33
+      "rank": 35
     },
     {
       "player": "Darius Garland",
@@ -412,7 +436,7 @@
       "first_mention": "2026-08-13",
       "last_mention": "2026-08-20",
       "team": "Cleveland Cavaliers",
-      "rank": 34
+      "rank": 36
     },
     {
       "player": "Gradey Dick",
@@ -424,7 +448,7 @@
       "first_mention": "2026-08-10",
       "last_mention": "2026-08-17",
       "team": "Toronto Raptors",
-      "rank": 35
+      "rank": 37
     },
     {
       "player": "Kevin Durant",
@@ -436,7 +460,7 @@
       "first_mention": "2026-08-04",
       "last_mention": "2026-08-16",
       "team": "Houston Rockets",
-      "rank": 36
+      "rank": 38
     },
     {
       "player": "LaMelo Ball",
@@ -448,7 +472,7 @@
       "first_mention": "2026-08-13",
       "last_mention": "2026-08-16",
       "team": "Charlotte Hornets",
-      "rank": 37
+      "rank": 39
     },
     {
       "player": "Paul George",
@@ -460,7 +484,7 @@
       "first_mention": "2026-08-04",
       "last_mention": "2026-08-04",
       "team": "Philadelphia 76ers",
-      "rank": 38
+      "rank": 40
     },
     {
       "player": "Ron Harper Jr",
@@ -472,7 +496,7 @@
       "first_mention": "2026-08-04",
       "last_mention": "2026-08-04",
       "team": "Boston Celtics",
-      "rank": 39
+      "rank": 41
     },
     {
       "player": "Tyrese Haliburton",
@@ -484,7 +508,7 @@
       "first_mention": "2026-08-13",
       "last_mention": "2026-08-16",
       "team": "Indiana Pacers",
-      "rank": 40
+      "rank": 42
     },
     {
       "player": "Brandon Miller",
@@ -496,7 +520,7 @@
       "first_mention": "2026-08-22",
       "last_mention": "2026-08-22",
       "team": "Charlotte Hornets",
-      "rank": 41
+      "rank": 43
     },
     {
       "player": "Jaden Hardy",
@@ -508,7 +532,7 @@
       "first_mention": "2026-08-21",
       "last_mention": "2026-08-21",
       "team": "Atlanta Hawks",
-      "rank": 42
+      "rank": 44
     },
     {
       "player": "John Collins",
@@ -520,7 +544,7 @@
       "first_mention": "2026-08-19",
       "last_mention": "2026-08-19",
       "team": "Los Angeles Clippers",
-      "rank": 43
+      "rank": 45
     },
     {
       "player": "Johni Broome",
@@ -532,7 +556,7 @@
       "first_mention": "2026-08-19",
       "last_mention": "2026-08-19",
       "team": "Cleveland Cavaliers",
-      "rank": 44
+      "rank": 46
     },
     {
       "player": "Kon Knueppel",
@@ -544,7 +568,7 @@
       "first_mention": "2026-08-22",
       "last_mention": "2026-08-22",
       "team": "Charlotte Hornets",
-      "rank": 45
+      "rank": 47
     },
     {
       "player": "Lonzo Ball",
@@ -556,7 +580,7 @@
       "first_mention": "2026-08-19",
       "last_mention": "2026-08-19",
       "team": "Cleveland Cavaliers",
-      "rank": 46
+      "rank": 48
     },
     {
       "player": "Payton Pritchard",
@@ -568,7 +592,7 @@
       "first_mention": "2026-08-23",
       "last_mention": "2026-08-23",
       "team": "Boston Celtics",
-      "rank": 47
+      "rank": 49
     },
     {
       "player": "Russell Westbrook",
@@ -580,7 +604,7 @@
       "first_mention": "2026-08-19",
       "last_mention": "2026-08-19",
       "team": "Cleveland Cavaliers",
-      "rank": 48
+      "rank": 50
     },
     {
       "player": "Tidjane Salaun",
@@ -592,7 +616,7 @@
       "first_mention": "2026-08-22",
       "last_mention": "2026-08-22",
       "team": "Charlotte Hornets",
-      "rank": 49
+      "rank": 51
     },
     {
       "player": "Anthony Edwards",
@@ -604,7 +628,7 @@
       "first_mention": "2026-08-16",
       "last_mention": "2026-08-16",
       "team": "Minnesota Timberwolves",
-      "rank": 50
+      "rank": 52
     },
     {
       "player": "Bobby Portis",
@@ -616,7 +640,7 @@
       "first_mention": "2026-08-11",
       "last_mention": "2026-08-11",
       "team": "Milwaukee Bucks",
-      "rank": 51
+      "rank": 53
     },
     {
       "player": "Cade Cunningham",
@@ -628,7 +652,7 @@
       "first_mention": "2026-08-04",
       "last_mention": "2026-08-04",
       "team": "Detroit Pistons",
-      "rank": 52
+      "rank": 54
     },
     {
       "player": "Collin Murray-Boyles",
@@ -640,7 +664,7 @@
       "first_mention": "2026-08-06",
       "last_mention": "2026-08-06",
       "team": "Memphis Grizzlies",
-      "rank": 53
+      "rank": 55
     },
     {
       "player": "D'Angelo Russell",
@@ -652,7 +676,7 @@
       "first_mention": "2026-08-10",
       "last_mention": "2026-08-10",
       "team": "Dallas Mavericks",
-      "rank": 54
+      "rank": 56
     },
     {
       "player": "Donte DiVincenzo",
@@ -664,7 +688,7 @@
       "first_mention": "2026-08-06",
       "last_mention": "2026-08-06",
       "team": "Minnesota Timberwolves",
-      "rank": 55
+      "rank": 57
     },
     {
       "player": "Isaiah Hartenstein",
@@ -676,7 +700,7 @@
       "first_mention": "2026-08-16",
       "last_mention": "2026-08-16",
       "team": "Oklahoma City Thunder",
-      "rank": 56
+      "rank": 58
     },
     {
       "player": "Ivica Zubac",
@@ -688,7 +712,7 @@
       "first_mention": "2026-08-13",
       "last_mention": "2026-08-13",
       "team": "Los Angeles Clippers",
-      "rank": 57
+      "rank": 59
     },
     {
       "player": "Ja'Kobe Walter",
@@ -700,7 +724,7 @@
       "first_mention": "2026-08-06",
       "last_mention": "2026-08-06",
       "team": "Memphis Grizzlies",
-      "rank": 58
+      "rank": 60
     },
     {
       "player": "Jakob Poeltl",
@@ -712,7 +736,7 @@
       "first_mention": "2026-08-05",
       "last_mention": "2026-08-05",
       "team": "Toronto Raptors",
-      "rank": 59
+      "rank": 61
     },
     {
       "player": "Karlo Matkovic",
@@ -724,7 +748,7 @@
       "first_mention": "2026-08-10",
       "last_mention": "2026-08-10",
       "team": "Dallas Mavericks",
-      "rank": 60
+      "rank": 62
     },
     {
       "player": "LeBron James",
@@ -736,7 +760,7 @@
       "first_mention": "2026-08-13",
       "last_mention": "2026-08-13",
       "team": "Los Angeles Lakers",
-      "rank": 61
+      "rank": 63
     },
     {
       "player": "Moses Moody",
@@ -748,7 +772,7 @@
       "first_mention": "2026-08-05",
       "last_mention": "2026-08-05",
       "team": "Golden State Warriors",
-      "rank": 62
+      "rank": 64
     },
     {
       "player": "Moussa Cisse",
@@ -760,7 +784,7 @@
       "first_mention": "2026-08-10",
       "last_mention": "2026-08-10",
       "team": "Dallas Mavericks",
-      "rank": 63
+      "rank": 65
     },
     {
       "player": "Norman Powell",
@@ -772,7 +796,7 @@
       "first_mention": "2026-08-11",
       "last_mention": "2026-08-11",
       "team": "Miami Heat",
-      "rank": 64
+      "rank": 66
     },
     {
       "player": "RJ Barrett",
@@ -784,7 +808,7 @@
       "first_mention": "2026-08-05",
       "last_mention": "2026-08-05",
       "team": "Sacramento Kings",
-      "rank": 65
+      "rank": 67
     },
     {
       "player": "Trayce Jackson-Davis",
@@ -796,7 +820,7 @@
       "first_mention": "2026-08-06",
       "last_mention": "2026-08-06",
       "team": "Memphis Grizzlies",
-      "rank": 66
+      "rank": 68
     },
     {
       "player": "Zach LaVine",
@@ -808,7 +832,7 @@
       "first_mention": "2026-08-03",
       "last_mention": "2026-08-03",
       "team": "Sacramento Kings",
-      "rank": 67
+      "rank": 69
     },
     {
       "player": "Zeke Nnaji",
@@ -820,10 +844,102 @@
       "first_mention": "2026-08-03",
       "last_mention": "2026-08-03",
       "team": "Denver Nuggets",
-      "rank": 68
+      "rank": 70
     }
   ],
   "player_rumors": {
+    "Luka Doncic": [
+      {
+        "date": "2026-08-31",
+        "text": "Similarly, whatever you think of Cuban\u2019s stewardship of the Mavericks during his tenure, we can all agree he would not have green-lit the trade of Luka Doncic to the Lakers as Patrick Dumont did.It took a Cooper Flagg lottery mulligan to begin to stanch the civic bleed that occurred among Mavericks fans after Don\u010di\u010b\u2019s departure. I will never not believe that the team\u2019s new owners simply decided they weren\u2019t going to pay Don\u010di\u0107 the $350 million extension for which he was eligible and, thus, were quite amenable when\u00a0told\u00a0by then-general manager Nico Harrison that he wanted to move on from the young star.New York Times",
+        "text_html": "<a href=\"https://www.nytimes.com/athletic/7537822/2026/08/31/nba-money-owners-rich-franchise-sale/\" target=\"_blank\" style=\"color: #1a73e8;\">Similarly, whatever you think of Cuban\u2019s stewardship of the Mavericks during his tenure, we can all agree he would not have green-lit the trade of Luka Doncic to the Lakers as Patrick Dumont did.</a> It took a Cooper Flagg lottery mulligan to begin to stanch the civic bleed that occurred among Mavericks fans after Don\u010di\u010b\u2019s departure. I will never not believe that the team\u2019s new owners simply decided they weren\u2019t going to pay Don\u010di\u0107 the $350 million extension for which he was eligible and, thus, were quite amenable when told by then-general manager Nico Harrison that he wanted to move on from the young star.",
+        "outlet": "New York Times",
+        "source_url": "https://www.nytimes.com/athletic/7537822/2026/08/31/nba-money-owners-rich-franchise-sale/"
+      },
+      {
+        "date": "2026-08-21",
+        "text": "Tim McMahon:Just like Joker can profess his loyalty to the Nuggets, there's still going to be teams that are positioned themselves and monitoring that and all that kind of thing.It's the same thing with Luka Doncic. He's done nothing but express optimism and excitement about the Lakers since he signed that extension. But it's not that long-term of an extension, and you better believe there's teams around the league that are looking at that situation and saying, \u2018hey, if this thing goes sideways, we'd sure like to get Luka in the midway through his prime.\u2019 Brian Windhorst: I will say this, and if you're Luka, betting on the brand is pretty safe, which is why the Lakers sold for even more money than they sold for a year ago. And chances are if they sold again in a year, they'd sell for even more because you're betting on the brand.YouTube",
+        "text_html": "Tim McMahon: <a href=\"https://www.youtube.com/watch?v=rnrt-BRelPY&t=3997s\" target=\"_blank\" style=\"color: #1a73e8;\">Just like Joker can profess his loyalty to the Nuggets, there's still going to be teams that are positioned themselves and monitoring that and all that kind of thing.</a> It's the same thing with Luka Doncic. He's done nothing but express optimism and excitement about the Lakers since he signed that extension. But it's not that long-term of an extension, and you better believe there's teams around the league that are looking at that situation and saying, \u2018hey, if this thing goes sideways, we'd sure like to get Luka in the midway through his prime.\u2019 Brian Windhorst: I will say this, and if you're Luka, betting on the brand is pretty safe, which is why the Lakers sold for even more money than they sold for a year ago. And chances are if they sold again in a year, they'd sell for even more because you're betting on the brand.",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=rnrt-BRelPY&t=3997s"
+      },
+      {
+        "date": "2026-08-20",
+        "text": "On Tuesday, it appeared Kuminga had three suitors\u00a0remaining in his free-agent sweepstakes: the Minnesota Timberwolves, Cleveland Cavaliers and the Lakers. And on Wednesday, the Cavaliers seemingly took themselves out of contention by instead\u00a0acquiring Peyton Watson in a three-team trade\u00a0with the Los Angeles Clippers and Denver Nuggets.The Lakers have always been the most logical fit for Kuminga, but the two parties haven\u2019t been able to reach an agreement all summer long. The Lakers initially offered the forward a deal for around $10 million annually under the framing that he\u2019d be starting alongside Luka Doncic in Hollywood. But Kuminga and his camp wanted double that amount, which has since created an ongoing stalemate between the 23-year-old and the Lakers. Another possible outcome is a sign-and-trade with the Atlanta Hawks to bring Kuminga to LA.New York Post",
+        "text_html": "On Tuesday, it appeared Kuminga had three suitors remaining in his free-agent sweepstakes: the Minnesota Timberwolves, Cleveland Cavaliers and the Lakers. And on Wednesday, the Cavaliers seemingly took themselves out of contention by instead acquiring Peyton Watson in a three-team trade with the Los Angeles Clippers and Denver Nuggets. <a href=\"https://nypost.com/2026/08/19/sports/jonathan-kuminga-joining-lakers-gains-traction-after-peyton-watson-trade/\" target=\"_blank\" style=\"color: #1a73e8;\">The Lakers have always been the most logical fit for Kuminga, but the two parties haven\u2019t been able to reach an agreement all summer long. The Lakers initially offered the forward a deal for around $10 million annually under the framing that he\u2019d be starting alongside Luka Doncic in Hollywood</a>. But Kuminga and his camp wanted double that amount, which has since created an ongoing stalemate between the 23-year-old and the Lakers. Another possible outcome is a sign-and-trade with the Atlanta Hawks to bring Kuminga to LA.",
+        "outlet": "New York Post",
+        "source_url": "https://nypost.com/2026/08/19/sports/jonathan-kuminga-joining-lakers-gains-traction-after-peyton-watson-trade/"
+      },
+      {
+        "date": "2026-08-06",
+        "text": "The\u00a0Lakers\u2019\u00a0interest\u00a0in PJ Washington\u00a0of the Mavericks is a good example. LA has a need for Washington, who was a teammate of Luka Doncic during the Mavericks\u2019 2024 run to the NBA Finals.And Doncic, we\u2019re\u00a0told, would be in favor of a Washington reunion.But Washington signed a four-year, $89 million extension last September, which\u00a0starts with a $20 million cap\u00a0hit for this season.Heavy.com",
+        "text_html": "The Lakers\u2019 interest in PJ Washington of the Mavericks is a good example. LA has a need for Washington, who was a teammate of Luka Doncic during the Mavericks\u2019 2024 run to the NBA Finals. <a href=\"https://heavy.com/sports/nba/los-angeles-lakers/nba-trade-rumors-trouble-with-lakers-target-mavericks-moves-more/\" target=\"_blank\" style=\"color: #1a73e8;\">And Doncic, we\u2019re told, would be in favor of a Washington reunion.</a> But Washington signed a four-year, $89 million extension last September, which starts with a $20 million cap hit for this season.",
+        "outlet": "Heavy.com",
+        "source_url": "https://heavy.com/sports/nba/los-angeles-lakers/nba-trade-rumors-trouble-with-lakers-target-mavericks-moves-more/"
+      },
+      {
+        "date": "2026-08-06",
+        "text": "But the extension is just as big an issue for the Lakers, says one Western Conference\u00a0executive:\u201cThey don\u2019t want that\u00a0contract. The Mavericks bought a little high on him (in 2025) and he wasn\u2019t as good last year. And you\u2019re\u00a0committing to paying him $22 million, $24 million\u00a0down the road.\u201dHeavy.com",
+        "text_html": "But the extension is just as big an issue for the Lakers, says one Western Conference executive: <a href=\"https://heavy.com/sports/nba/los-angeles-lakers/nba-trade-rumors-trouble-with-lakers-target-mavericks-moves-more/\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cThey don\u2019t want that contract. The Mavericks bought a little high on him (in 2025) and he wasn\u2019t as good last year. And you\u2019re committing to paying him $22 million, $24 million down the road.\u201d</a>",
+        "outlet": "Heavy.com",
+        "source_url": "https://heavy.com/sports/nba/los-angeles-lakers/nba-trade-rumors-trouble-with-lakers-target-mavericks-moves-more/"
+      }
+    ],
+    "Cooper Flagg": [
+      {
+        "date": "2026-08-31",
+        "text": "Similarly, whatever you think of Cuban\u2019s stewardship of the Mavericks during his tenure, we can all agree he would not have green-lit the trade of Luka Doncic to the Lakers as Patrick Dumont did.It took a Cooper Flagg lottery mulligan to begin to stanch the civic bleed that occurred among Mavericks fans after Don\u010di\u010b\u2019s departure. I will never not believe that the team\u2019s new owners simply decided they weren\u2019t going to pay Don\u010di\u0107 the $350 million extension for which he was eligible and, thus, were quite amenable when\u00a0told\u00a0by then-general manager Nico Harrison that he wanted to move on from the young star.New York Times",
+        "text_html": "<a href=\"https://www.nytimes.com/athletic/7537822/2026/08/31/nba-money-owners-rich-franchise-sale/\" target=\"_blank\" style=\"color: #1a73e8;\">Similarly, whatever you think of Cuban\u2019s stewardship of the Mavericks during his tenure, we can all agree he would not have green-lit the trade of Luka Doncic to the Lakers as Patrick Dumont did.</a> It took a Cooper Flagg lottery mulligan to begin to stanch the civic bleed that occurred among Mavericks fans after Don\u010di\u010b\u2019s departure. I will never not believe that the team\u2019s new owners simply decided they weren\u2019t going to pay Don\u010di\u0107 the $350 million extension for which he was eligible and, thus, were quite amenable when told by then-general manager Nico Harrison that he wanted to move on from the young star.",
+        "outlet": "New York Times",
+        "source_url": "https://www.nytimes.com/athletic/7537822/2026/08/31/nba-money-owners-rich-franchise-sale/"
+      }
+    ],
+    "Jaylen Brown": [
+      {
+        "date": "2026-08-31",
+        "text": "Also similarly, while Chisholm and his group may have strong feelings for the Celtics as a public trust, they weren\u2019t there when Boston drafted Jaylen Brown in 2016, a year before the Cs took Jayson Tatum. As such, they were not as invested emotionally in Brown\u2019s on-court development over the last decade, his powerful connection to the Black community in Boston or his finals MVP turn in 2024.Moving Brown to the Philadelphia 76ers \u2014 while not having to commit another $140 million on an extension \u2014 became a palatable off-ramp.New York Times",
+        "text_html": "Also similarly, while Chisholm and his group may have strong feelings for the Celtics as a public trust, they weren\u2019t there when Boston drafted Jaylen Brown in 2016, a year before the Cs took Jayson Tatum. As such, they were not as invested emotionally in Brown\u2019s on-court development over the last decade, his powerful connection to the Black community in Boston or his finals MVP turn in 2024. <a href=\"https://www.nytimes.com/athletic/7537822/2026/08/31/nba-money-owners-rich-franchise-sale/\" target=\"_blank\" style=\"color: #1a73e8;\">Moving Brown to the Philadelphia 76ers \u2014 while not having to commit another $140 million on an extension \u2014 became a palatable off-ramp</a>.",
+        "outlet": "New York Times",
+        "source_url": "https://www.nytimes.com/athletic/7537822/2026/08/31/nba-money-owners-rich-franchise-sale/"
+      },
+      {
+        "date": "2026-08-23",
+        "text": "Payton Pritchard on Jaylen Brown: \"You just used to seeing big things and think changes happen all the time.It always sucks to see a brother and a teammate that you played with for a long time go, but you move on and you are ready to go to war.\"YouTube",
+        "text_html": "Payton Pritchard on Jaylen Brown: \"You just used to seeing big things and think changes happen all the time. <a href=\"https://www.youtube.com/watch?v=UcfwhI2WKfQ&t=0s\" target=\"_blank\" style=\"color: #1a73e8;\">It always sucks to see a brother and a teammate that you played with for a long time go, but you move on and you are ready to go to war.\"</a>",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=UcfwhI2WKfQ&t=0s"
+      },
+      {
+        "date": "2026-08-19",
+        "text": "WEEI: \u201cI needed to be convinced\" Boston Celtics Owner Bill Chisholm joins! Is it hard to separate the fan part/the owner part? Chisholm on the Jaylen Brown blockbuster:\"I definitely have a level of trust in Brad and his team... But as a fan, that was tough\"#Celtics #fyp #NBAx.com",
+        "text_html": "WEEI: \u201cI needed to be convinced\" Boston Celtics Owner Bill Chisholm joins! Is it hard to separate the fan part/the owner part? Chisholm on the Jaylen Brown blockbuster: <a href=\"https://x.com/WEEI/status/2089735577478291533\" target=\"_blank\" style=\"color: #1a73e8;\">\"I definitely have a level of trust in Brad and his team... But as a fan, that was tough\"</a> #Celtics #fyp #NBA",
+        "outlet": "x.com",
+        "source_url": "https://x.com/WEEI/status/2089735577478291533"
+      },
+      {
+        "date": "2026-08-06",
+        "text": "He did not want to talk much about the trade itself, adding that maybe one day all the details will be revealed. \u201cThe whole process, but to be honest, my mind is so focused on what\u2019s in front of me. To be honest, I\u2019m moving on.Maybe one day, we\u2019ll share the details on how everything transpired and all the moving parts that took place in this.Obviously, there\u2019s a lot of speculation. I feel no need to chime in on it because I\u2019m focused on what\u2019s in front of me.\u201dEuroHoops.net",
+        "text_html": "He did not want to talk much about the trade itself, adding that maybe one day all the details will be revealed. \u201cThe whole process, but to be honest, my mind is so focused on what\u2019s in front of me. To be honest, I\u2019m moving on. <a href=\"https://www.eurohoops.net/en/nba-news/1996822/jaylen-brown-threw-his-phone-when-he-learned-about-the-trade-maybe-one-day-well-share-the-details/\" target=\"_blank\" style=\"color: #1a73e8;\">Maybe one day, we\u2019ll share the details on how everything transpired and all the moving parts that took place in this.</a> Obviously, there\u2019s a lot of speculation. I feel no need to chime in on it because I\u2019m focused on what\u2019s in front of me.\u201d",
+        "outlet": "EuroHoops.net",
+        "source_url": "https://www.eurohoops.net/en/nba-news/1996822/jaylen-brown-threw-his-phone-when-he-learned-about-the-trade-maybe-one-day-well-share-the-details/"
+      },
+      {
+        "date": "2026-08-06",
+        "text": "NBABase:The Warriors 'could have matched or exceeded' Philadelphia\u2019s offer for Jaylen Brown, but negotiations with the Celtics never advanced, per @DannyEmerman \u201cConversations between the Warriors and the Celtics never got really serious. I think it was kind of like a preliminary stage situation...I think the Warriors could have matched or exceeded Philadelphia's offer fairly easily, and Jaylen Brown is the exact type of player that they need. They need someone who can carry them through the regular season to take the load off of Steph Curry, and that's even independent of if adding Jaylen Brown might have put them over the top for LeBron James.\u201d (Via @CelticsCLNS)x.com",
+        "text_html": "NBABase: <a href=\"https://x.com/TheNBABase/status/2085159667664306332\" target=\"_blank\" style=\"color: #1a73e8;\">The Warriors 'could have matched or exceeded' Philadelphia\u2019s offer for Jaylen Brown, but negotiations with the Celtics never advanced, per @DannyEmerman \u201cConversations between the Warriors and the Celtics never got really serious. I think it was kind of like a preliminary stage situation...</a> I think the Warriors could have matched or exceeded Philadelphia's offer fairly easily, and Jaylen Brown is the exact type of player that they need. They need someone who can carry them through the regular season to take the load off of Steph Curry, and that's even independent of if adding Jaylen Brown might have put them over the top for LeBron James.\u201d (Via @CelticsCLNS)",
+        "outlet": "x.com",
+        "source_url": "https://x.com/TheNBABase/status/2085159667664306332"
+      }
+    ],
+    "Jayson Tatum": [
+      {
+        "date": "2026-08-31",
+        "text": "Also similarly, while Chisholm and his group may have strong feelings for the Celtics as a public trust, they weren\u2019t there when Boston drafted Jaylen Brown in 2016, a year before the Cs took Jayson Tatum. As such, they were not as invested emotionally in Brown\u2019s on-court development over the last decade, his powerful connection to the Black community in Boston or his finals MVP turn in 2024.Moving Brown to the Philadelphia 76ers \u2014 while not having to commit another $140 million on an extension \u2014 became a palatable off-ramp.New York Times",
+        "text_html": "Also similarly, while Chisholm and his group may have strong feelings for the Celtics as a public trust, they weren\u2019t there when Boston drafted Jaylen Brown in 2016, a year before the Cs took Jayson Tatum. As such, they were not as invested emotionally in Brown\u2019s on-court development over the last decade, his powerful connection to the Black community in Boston or his finals MVP turn in 2024. <a href=\"https://www.nytimes.com/athletic/7537822/2026/08/31/nba-money-owners-rich-franchise-sale/\" target=\"_blank\" style=\"color: #1a73e8;\">Moving Brown to the Philadelphia 76ers \u2014 while not having to commit another $140 million on an extension \u2014 became a palatable off-ramp</a>.",
+        "outlet": "New York Times",
+        "source_url": "https://www.nytimes.com/athletic/7537822/2026/08/31/nba-money-owners-rich-franchise-sale/"
+      }
+    ],
     "Fred VanVleet": [
       {
         "date": "2026-08-30",
@@ -1398,36 +1514,6 @@
         "source_url": "https://www.youtube.com/live/mhQ9f9w5nmE?is=pGmRSKV6PolSwXyY"
       }
     ],
-    "Jaylen Brown": [
-      {
-        "date": "2026-08-23",
-        "text": "Payton Pritchard on Jaylen Brown: \"You just used to seeing big things and think changes happen all the time.It always sucks to see a brother and a teammate that you played with for a long time go, but you move on and you are ready to go to war.\"YouTube",
-        "text_html": "Payton Pritchard on Jaylen Brown: \"You just used to seeing big things and think changes happen all the time. <a href=\"https://www.youtube.com/watch?v=UcfwhI2WKfQ&t=0s\" target=\"_blank\" style=\"color: #1a73e8;\">It always sucks to see a brother and a teammate that you played with for a long time go, but you move on and you are ready to go to war.\"</a>",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=UcfwhI2WKfQ&t=0s"
-      },
-      {
-        "date": "2026-08-19",
-        "text": "WEEI: \u201cI needed to be convinced\" Boston Celtics Owner Bill Chisholm joins! Is it hard to separate the fan part/the owner part? Chisholm on the Jaylen Brown blockbuster:\"I definitely have a level of trust in Brad and his team... But as a fan, that was tough\"#Celtics #fyp #NBAx.com",
-        "text_html": "WEEI: \u201cI needed to be convinced\" Boston Celtics Owner Bill Chisholm joins! Is it hard to separate the fan part/the owner part? Chisholm on the Jaylen Brown blockbuster: <a href=\"https://x.com/WEEI/status/2089735577478291533\" target=\"_blank\" style=\"color: #1a73e8;\">\"I definitely have a level of trust in Brad and his team... But as a fan, that was tough\"</a> #Celtics #fyp #NBA",
-        "outlet": "x.com",
-        "source_url": "https://x.com/WEEI/status/2089735577478291533"
-      },
-      {
-        "date": "2026-08-06",
-        "text": "He did not want to talk much about the trade itself, adding that maybe one day all the details will be revealed. \u201cThe whole process, but to be honest, my mind is so focused on what\u2019s in front of me. To be honest, I\u2019m moving on.Maybe one day, we\u2019ll share the details on how everything transpired and all the moving parts that took place in this.Obviously, there\u2019s a lot of speculation. I feel no need to chime in on it because I\u2019m focused on what\u2019s in front of me.\u201dEuroHoops.net",
-        "text_html": "He did not want to talk much about the trade itself, adding that maybe one day all the details will be revealed. \u201cThe whole process, but to be honest, my mind is so focused on what\u2019s in front of me. To be honest, I\u2019m moving on. <a href=\"https://www.eurohoops.net/en/nba-news/1996822/jaylen-brown-threw-his-phone-when-he-learned-about-the-trade-maybe-one-day-well-share-the-details/\" target=\"_blank\" style=\"color: #1a73e8;\">Maybe one day, we\u2019ll share the details on how everything transpired and all the moving parts that took place in this.</a> Obviously, there\u2019s a lot of speculation. I feel no need to chime in on it because I\u2019m focused on what\u2019s in front of me.\u201d",
-        "outlet": "EuroHoops.net",
-        "source_url": "https://www.eurohoops.net/en/nba-news/1996822/jaylen-brown-threw-his-phone-when-he-learned-about-the-trade-maybe-one-day-well-share-the-details/"
-      },
-      {
-        "date": "2026-08-06",
-        "text": "NBABase:The Warriors 'could have matched or exceeded' Philadelphia\u2019s offer for Jaylen Brown, but negotiations with the Celtics never advanced, per @DannyEmerman \u201cConversations between the Warriors and the Celtics never got really serious. I think it was kind of like a preliminary stage situation...I think the Warriors could have matched or exceeded Philadelphia's offer fairly easily, and Jaylen Brown is the exact type of player that they need. They need someone who can carry them through the regular season to take the load off of Steph Curry, and that's even independent of if adding Jaylen Brown might have put them over the top for LeBron James.\u201d (Via @CelticsCLNS)x.com",
-        "text_html": "NBABase: <a href=\"https://x.com/TheNBABase/status/2085159667664306332\" target=\"_blank\" style=\"color: #1a73e8;\">The Warriors 'could have matched or exceeded' Philadelphia\u2019s offer for Jaylen Brown, but negotiations with the Celtics never advanced, per @DannyEmerman \u201cConversations between the Warriors and the Celtics never got really serious. I think it was kind of like a preliminary stage situation...</a> I think the Warriors could have matched or exceeded Philadelphia's offer fairly easily, and Jaylen Brown is the exact type of player that they need. They need someone who can carry them through the regular season to take the load off of Steph Curry, and that's even independent of if adding Jaylen Brown might have put them over the top for LeBron James.\u201d (Via @CelticsCLNS)",
-        "outlet": "x.com",
-        "source_url": "https://x.com/TheNBABase/status/2085159667664306332"
-      }
-    ],
     "Payton Pritchard": [
       {
         "date": "2026-08-23",
@@ -1487,36 +1573,6 @@
         "text_html": "Brian Windhorst: <a href=\"https://www.youtube.com/watch?v=rnrt-BRelPY&t=1926s\" target=\"_blank\" style=\"color: #1a73e8;\">There's still a window there for the Lakers to do a Jonathan Kuminga sign-and-trade deal using Jaden Hardy.</a> But my thing on the whole Jonathan Kuminga sign and trade thing is that for the Hawks to do a sign and trade, they're going to probably end up in the tax unless you can ship someone to a third team who has to be paid. And I've just been very doubtful that unless the Hawks are in love with the situation that they're going to end up, signing and trading Kuminga. The other thing with Kuminga is a sign and trade has to be three years. Doesn't have to be fully guaranteed, but it can't be player options. It'll be team options. And so, if Kuminga can't get a contract number that he likes in the first year, even if it's more money, this is one thing that Lakers fans, you know, the Lakers fans have been sort of putting Kuminga on their team in their head. And look, maybe it does get done, but Kuminga, he wouldn't control his contract. That first year salary, even if it's higher, would be less than he thinks his value is, right or wrong.",
         "outlet": "YouTube",
         "source_url": "https://www.youtube.com/watch?v=rnrt-BRelPY&t=1926s"
-      }
-    ],
-    "Luka Doncic": [
-      {
-        "date": "2026-08-21",
-        "text": "Tim McMahon:Just like Joker can profess his loyalty to the Nuggets, there's still going to be teams that are positioned themselves and monitoring that and all that kind of thing.It's the same thing with Luka Doncic. He's done nothing but express optimism and excitement about the Lakers since he signed that extension. But it's not that long-term of an extension, and you better believe there's teams around the league that are looking at that situation and saying, \u2018hey, if this thing goes sideways, we'd sure like to get Luka in the midway through his prime.\u2019 Brian Windhorst: I will say this, and if you're Luka, betting on the brand is pretty safe, which is why the Lakers sold for even more money than they sold for a year ago. And chances are if they sold again in a year, they'd sell for even more because you're betting on the brand.YouTube",
-        "text_html": "Tim McMahon: <a href=\"https://www.youtube.com/watch?v=rnrt-BRelPY&t=3997s\" target=\"_blank\" style=\"color: #1a73e8;\">Just like Joker can profess his loyalty to the Nuggets, there's still going to be teams that are positioned themselves and monitoring that and all that kind of thing.</a> It's the same thing with Luka Doncic. He's done nothing but express optimism and excitement about the Lakers since he signed that extension. But it's not that long-term of an extension, and you better believe there's teams around the league that are looking at that situation and saying, \u2018hey, if this thing goes sideways, we'd sure like to get Luka in the midway through his prime.\u2019 Brian Windhorst: I will say this, and if you're Luka, betting on the brand is pretty safe, which is why the Lakers sold for even more money than they sold for a year ago. And chances are if they sold again in a year, they'd sell for even more because you're betting on the brand.",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=rnrt-BRelPY&t=3997s"
-      },
-      {
-        "date": "2026-08-20",
-        "text": "On Tuesday, it appeared Kuminga had three suitors\u00a0remaining in his free-agent sweepstakes: the Minnesota Timberwolves, Cleveland Cavaliers and the Lakers. And on Wednesday, the Cavaliers seemingly took themselves out of contention by instead\u00a0acquiring Peyton Watson in a three-team trade\u00a0with the Los Angeles Clippers and Denver Nuggets.The Lakers have always been the most logical fit for Kuminga, but the two parties haven\u2019t been able to reach an agreement all summer long. The Lakers initially offered the forward a deal for around $10 million annually under the framing that he\u2019d be starting alongside Luka Doncic in Hollywood. But Kuminga and his camp wanted double that amount, which has since created an ongoing stalemate between the 23-year-old and the Lakers. Another possible outcome is a sign-and-trade with the Atlanta Hawks to bring Kuminga to LA.New York Post",
-        "text_html": "On Tuesday, it appeared Kuminga had three suitors remaining in his free-agent sweepstakes: the Minnesota Timberwolves, Cleveland Cavaliers and the Lakers. And on Wednesday, the Cavaliers seemingly took themselves out of contention by instead acquiring Peyton Watson in a three-team trade with the Los Angeles Clippers and Denver Nuggets. <a href=\"https://nypost.com/2026/08/19/sports/jonathan-kuminga-joining-lakers-gains-traction-after-peyton-watson-trade/\" target=\"_blank\" style=\"color: #1a73e8;\">The Lakers have always been the most logical fit for Kuminga, but the two parties haven\u2019t been able to reach an agreement all summer long. The Lakers initially offered the forward a deal for around $10 million annually under the framing that he\u2019d be starting alongside Luka Doncic in Hollywood</a>. But Kuminga and his camp wanted double that amount, which has since created an ongoing stalemate between the 23-year-old and the Lakers. Another possible outcome is a sign-and-trade with the Atlanta Hawks to bring Kuminga to LA.",
-        "outlet": "New York Post",
-        "source_url": "https://nypost.com/2026/08/19/sports/jonathan-kuminga-joining-lakers-gains-traction-after-peyton-watson-trade/"
-      },
-      {
-        "date": "2026-08-06",
-        "text": "The\u00a0Lakers\u2019\u00a0interest\u00a0in PJ Washington\u00a0of the Mavericks is a good example. LA has a need for Washington, who was a teammate of Luka Doncic during the Mavericks\u2019 2024 run to the NBA Finals.And Doncic, we\u2019re\u00a0told, would be in favor of a Washington reunion.But Washington signed a four-year, $89 million extension last September, which\u00a0starts with a $20 million cap\u00a0hit for this season.Heavy.com",
-        "text_html": "The Lakers\u2019 interest in PJ Washington of the Mavericks is a good example. LA has a need for Washington, who was a teammate of Luka Doncic during the Mavericks\u2019 2024 run to the NBA Finals. <a href=\"https://heavy.com/sports/nba/los-angeles-lakers/nba-trade-rumors-trouble-with-lakers-target-mavericks-moves-more/\" target=\"_blank\" style=\"color: #1a73e8;\">And Doncic, we\u2019re told, would be in favor of a Washington reunion.</a> But Washington signed a four-year, $89 million extension last September, which starts with a $20 million cap hit for this season.",
-        "outlet": "Heavy.com",
-        "source_url": "https://heavy.com/sports/nba/los-angeles-lakers/nba-trade-rumors-trouble-with-lakers-target-mavericks-moves-more/"
-      },
-      {
-        "date": "2026-08-06",
-        "text": "But the extension is just as big an issue for the Lakers, says one Western Conference\u00a0executive:\u201cThey don\u2019t want that\u00a0contract. The Mavericks bought a little high on him (in 2025) and he wasn\u2019t as good last year. And you\u2019re\u00a0committing to paying him $22 million, $24 million\u00a0down the road.\u201dHeavy.com",
-        "text_html": "But the extension is just as big an issue for the Lakers, says one Western Conference executive: <a href=\"https://heavy.com/sports/nba/los-angeles-lakers/nba-trade-rumors-trouble-with-lakers-target-mavericks-moves-more/\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cThey don\u2019t want that contract. The Mavericks bought a little high on him (in 2025) and he wasn\u2019t as good last year. And you\u2019re committing to paying him $22 million, $24 million down the road.\u201d</a>",
-        "outlet": "Heavy.com",
-        "source_url": "https://heavy.com/sports/nba/los-angeles-lakers/nba-trade-rumors-trouble-with-lakers-target-mavericks-moves-more/"
       }
     ],
     "James Harden": [
@@ -2250,6 +2306,24 @@
     ]
   },
   "daily_counts": {
+    "Luka Doncic": {
+      "2026-08-31": 1,
+      "2026-08-21": 1,
+      "2026-08-20": 1,
+      "2026-08-06": 2
+    },
+    "Cooper Flagg": {
+      "2026-08-31": 1
+    },
+    "Jaylen Brown": {
+      "2026-08-31": 1,
+      "2026-08-23": 1,
+      "2026-08-19": 1,
+      "2026-08-06": 2
+    },
+    "Jayson Tatum": {
+      "2026-08-31": 1
+    },
     "Fred VanVleet": {
       "2026-08-30": 1
     },
@@ -2348,11 +2422,6 @@
       "2026-08-05": 1,
       "2026-08-03": 2
     },
-    "Jaylen Brown": {
-      "2026-08-23": 1,
-      "2026-08-19": 1,
-      "2026-08-06": 2
-    },
     "Payton Pritchard": {
       "2026-08-23": 1
     },
@@ -2371,11 +2440,6 @@
     },
     "Jaden Hardy": {
       "2026-08-21": 1
-    },
-    "Luka Doncic": {
-      "2026-08-21": 1,
-      "2026-08-20": 1,
-      "2026-08-06": 2
     },
     "James Harden": {
       "2026-08-20": 1,
