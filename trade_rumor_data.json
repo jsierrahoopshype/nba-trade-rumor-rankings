@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-01T06:02:07.702485",
+  "generated_at": "2026-09-01T17:00:12.474407",
   "scrape_window_days": 28,
   "window_start": "2026-08-04",
   "window_end": "2026-09-01",
-  "total_rumors": 182,
-  "total_players": 68,
+  "total_rumors": 189,
+  "total_players": 72,
   "rankings": [
     {
       "player": "Peyton Watson",
@@ -43,6 +43,18 @@
       "rank": 3
     },
     {
+      "player": "James Harden",
+      "score": 3.5,
+      "mentions_week1": 1,
+      "mentions_week2": 2,
+      "mentions_weeks3_4": 6,
+      "total_mentions": 9,
+      "first_mention": "2026-08-11",
+      "last_mention": "2026-09-01",
+      "team": "Los Angeles Clippers",
+      "rank": 4
+    },
+    {
       "player": "Bennedict Mathurin",
       "score": 3.5,
       "mentions_week1": 3,
@@ -52,7 +64,7 @@
       "first_mention": "2026-08-19",
       "last_mention": "2026-08-26",
       "team": "Indiana Pacers",
-      "rank": 4
+      "rank": 5
     },
     {
       "player": "Dennis Schroeder",
@@ -64,7 +76,19 @@
       "first_mention": "2026-08-08",
       "last_mention": "2026-08-19",
       "team": "Charlotte Hornets",
-      "rank": 5
+      "rank": 6
+    },
+    {
+      "player": "Kyrie Irving",
+      "score": 3.0,
+      "mentions_week1": 3,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 3,
+      "first_mention": "2026-08-25",
+      "last_mention": "2026-09-01",
+      "team": "Dallas Mavericks",
+      "rank": 7
     },
     {
       "player": "Tre Mann",
@@ -76,19 +100,7 @@
       "first_mention": "2026-08-14",
       "last_mention": "2026-08-19",
       "team": "Cleveland Cavaliers",
-      "rank": 6
-    },
-    {
-      "player": "James Harden",
-      "score": 2.5,
-      "mentions_week1": 0,
-      "mentions_week2": 2,
-      "mentions_weeks3_4": 6,
-      "total_mentions": 8,
-      "first_mention": "2026-08-11",
-      "last_mention": "2026-08-20",
-      "team": "Los Angeles Clippers",
-      "rank": 7
+      "rank": 8
     },
     {
       "player": "Kawhi Leonard",
@@ -100,7 +112,7 @@
       "first_mention": "2026-08-10",
       "last_mention": "2026-08-28",
       "team": "Los Angeles Clippers",
-      "rank": 8
+      "rank": 9
     },
     {
       "player": "Max Strus",
@@ -112,7 +124,7 @@
       "first_mention": "2026-08-12",
       "last_mention": "2026-08-19",
       "team": "Cleveland Cavaliers",
-      "rank": 9
+      "rank": 10
     },
     {
       "player": "Jaylen Brown",
@@ -124,7 +136,7 @@
       "first_mention": "2026-08-06",
       "last_mention": "2026-08-31",
       "team": "Boston Celtics",
-      "rank": 10
+      "rank": 11
     },
     {
       "player": "Luka Doncic",
@@ -136,7 +148,7 @@
       "first_mention": "2026-08-06",
       "last_mention": "2026-08-31",
       "team": "Los Angeles Lakers",
-      "rank": 11
+      "rank": 12
     },
     {
       "player": "Jalen Duren",
@@ -148,7 +160,7 @@
       "first_mention": "2026-08-05",
       "last_mention": "2026-08-29",
       "team": "Detroit Pistons",
-      "rank": 12
+      "rank": 13
     },
     {
       "player": "Nikola Jovic",
@@ -160,19 +172,19 @@
       "first_mention": "2026-08-05",
       "last_mention": "2026-08-27",
       "team": "Boston Celtics",
-      "rank": 13
+      "rank": 14
     },
     {
-      "player": "Kyrie Irving",
+      "player": "Trey Murphy",
       "score": 2.0,
       "mentions_week1": 2,
       "mentions_week2": 0,
       "mentions_weeks3_4": 0,
       "total_mentions": 2,
-      "first_mention": "2026-08-25",
-      "last_mention": "2026-08-27",
-      "team": "Dallas Mavericks",
-      "rank": 14
+      "first_mention": "2026-08-30",
+      "last_mention": "2026-09-01",
+      "team": "New Orleans Pelicans",
+      "rank": 15
     },
     {
       "player": "Stephen Curry",
@@ -184,7 +196,7 @@
       "first_mention": "2026-08-04",
       "last_mention": "2026-08-13",
       "team": "Golden State Warriors",
-      "rank": 15
+      "rank": 16
     },
     {
       "player": "De'Aaron Fox",
@@ -196,7 +208,7 @@
       "first_mention": "2026-08-04",
       "last_mention": "2026-08-30",
       "team": "San Antonio Spurs",
-      "rank": 16
+      "rank": 17
     },
     {
       "player": "Klay Thompson",
@@ -208,7 +220,7 @@
       "first_mention": "2026-08-05",
       "last_mention": "2026-08-17",
       "team": "Dallas Mavericks",
-      "rank": 17
+      "rank": 18
     },
     {
       "player": "Jimmy Butler",
@@ -220,7 +232,7 @@
       "first_mention": "2026-08-05",
       "last_mention": "2026-08-25",
       "team": "Golden State Warriors",
-      "rank": 18
+      "rank": 19
     },
     {
       "player": "PJ Washington",
@@ -232,7 +244,7 @@
       "first_mention": "2026-08-06",
       "last_mention": "2026-08-17",
       "team": "Dallas Mavericks",
-      "rank": 19
+      "rank": 20
     },
     {
       "player": "Nikola Jokic",
@@ -244,7 +256,7 @@
       "first_mention": "2026-08-21",
       "last_mention": "2026-08-22",
       "team": "Denver Nuggets",
-      "rank": 20
+      "rank": 21
     },
     {
       "player": "Alex Caruso",
@@ -256,7 +268,19 @@
       "first_mention": "2026-08-25",
       "last_mention": "2026-08-25",
       "team": "Chicago Bulls",
-      "rank": 21
+      "rank": 22
+    },
+    {
+      "player": "Anthony Davis",
+      "score": 1.0,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-09-01",
+      "last_mention": "2026-09-01",
+      "team": "Dallas Mavericks",
+      "rank": 23
     },
     {
       "player": "Cooper Flagg",
@@ -268,7 +292,7 @@
       "first_mention": "2026-08-31",
       "last_mention": "2026-08-31",
       "team": "Dallas Mavericks",
-      "rank": 22
+      "rank": 24
     },
     {
       "player": "Davion Mitchell",
@@ -280,7 +304,7 @@
       "first_mention": "2026-08-27",
       "last_mention": "2026-08-27",
       "team": "Boston Celtics",
-      "rank": 23
+      "rank": 25
     },
     {
       "player": "Dru Smith",
@@ -292,7 +316,7 @@
       "first_mention": "2026-08-27",
       "last_mention": "2026-08-27",
       "team": "Boston Celtics",
-      "rank": 24
+      "rank": 26
     },
     {
       "player": "Fred VanVleet",
@@ -304,7 +328,7 @@
       "first_mention": "2026-08-30",
       "last_mention": "2026-08-30",
       "team": "Chicago Bulls",
-      "rank": 25
+      "rank": 27
     },
     {
       "player": "Jaden McDaniels",
@@ -316,7 +340,7 @@
       "first_mention": "2026-08-30",
       "last_mention": "2026-08-30",
       "team": "Minnesota Timberwolves",
-      "rank": 26
+      "rank": 28
     },
     {
       "player": "Jarred Vanderbilt",
@@ -328,7 +352,7 @@
       "first_mention": "2026-08-28",
       "last_mention": "2026-08-28",
       "team": "Los Angeles Lakers",
-      "rank": 27
+      "rank": 29
     },
     {
       "player": "Jayson Tatum",
@@ -340,7 +364,43 @@
       "first_mention": "2026-08-31",
       "last_mention": "2026-08-31",
       "team": "Boston Celtics",
-      "rank": 28
+      "rank": 30
+    },
+    {
+      "player": "Luguentz Dort",
+      "score": 1.0,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-09-01",
+      "last_mention": "2026-09-01",
+      "team": "Atlanta Hawks",
+      "rank": 31
+    },
+    {
+      "player": "Michael Porter",
+      "score": 1.0,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-09-01",
+      "last_mention": "2026-09-01",
+      "team": "Brooklyn Nets",
+      "rank": 32
+    },
+    {
+      "player": "Nickeil Alexander-Walker",
+      "score": 1.0,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-09-01",
+      "last_mention": "2026-09-01",
+      "team": "Atlanta Hawks",
+      "rank": 33
     },
     {
       "player": "Paolo Banchero",
@@ -352,7 +412,7 @@
       "first_mention": "2026-08-28",
       "last_mention": "2026-08-28",
       "team": "Orlando Magic",
-      "rank": 29
+      "rank": 34
     },
     {
       "player": "Patrick Williams",
@@ -364,7 +424,7 @@
       "first_mention": "2026-08-25",
       "last_mention": "2026-08-25",
       "team": "Chicago Bulls",
-      "rank": 30
+      "rank": 35
     },
     {
       "player": "Taylor Hendricks",
@@ -376,7 +436,7 @@
       "first_mention": "2026-08-28",
       "last_mention": "2026-08-28",
       "team": "Los Angeles Lakers",
-      "rank": 31
+      "rank": 36
     },
     {
       "player": "Terance Mann",
@@ -388,19 +448,7 @@
       "first_mention": "2026-08-28",
       "last_mention": "2026-08-28",
       "team": "Los Angeles Lakers",
-      "rank": 32
-    },
-    {
-      "player": "Trey Murphy",
-      "score": 1.0,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-08-30",
-      "last_mention": "2026-08-30",
-      "team": "New Orleans Pelicans",
-      "rank": 33
+      "rank": 37
     },
     {
       "player": "Domantas Sabonis",
@@ -412,7 +460,7 @@
       "first_mention": "2026-08-05",
       "last_mention": "2026-08-16",
       "team": "Sacramento Kings",
-      "rank": 34
+      "rank": 38
     },
     {
       "player": "Darius Garland",
@@ -424,7 +472,7 @@
       "first_mention": "2026-08-13",
       "last_mention": "2026-08-20",
       "team": "Cleveland Cavaliers",
-      "rank": 35
+      "rank": 39
     },
     {
       "player": "Brandon Ingram",
@@ -436,7 +484,7 @@
       "first_mention": "2026-08-10",
       "last_mention": "2026-08-17",
       "team": "Toronto Raptors",
-      "rank": 36
+      "rank": 40
     },
     {
       "player": "Gradey Dick",
@@ -448,7 +496,7 @@
       "first_mention": "2026-08-10",
       "last_mention": "2026-08-17",
       "team": "Toronto Raptors",
-      "rank": 37
+      "rank": 41
     },
     {
       "player": "Kevin Durant",
@@ -460,7 +508,7 @@
       "first_mention": "2026-08-04",
       "last_mention": "2026-08-16",
       "team": "Houston Rockets",
-      "rank": 38
+      "rank": 42
     },
     {
       "player": "LaMelo Ball",
@@ -472,7 +520,7 @@
       "first_mention": "2026-08-13",
       "last_mention": "2026-08-16",
       "team": "Charlotte Hornets",
-      "rank": 39
+      "rank": 43
     },
     {
       "player": "Paul George",
@@ -484,7 +532,7 @@
       "first_mention": "2026-08-04",
       "last_mention": "2026-08-04",
       "team": "Philadelphia 76ers",
-      "rank": 40
+      "rank": 44
     },
     {
       "player": "Ron Harper Jr",
@@ -496,7 +544,7 @@
       "first_mention": "2026-08-04",
       "last_mention": "2026-08-04",
       "team": "Boston Celtics",
-      "rank": 41
+      "rank": 45
     },
     {
       "player": "Tyrese Haliburton",
@@ -508,7 +556,7 @@
       "first_mention": "2026-08-13",
       "last_mention": "2026-08-16",
       "team": "Indiana Pacers",
-      "rank": 42
+      "rank": 46
     },
     {
       "player": "Brandon Miller",
@@ -520,7 +568,7 @@
       "first_mention": "2026-08-22",
       "last_mention": "2026-08-22",
       "team": "Charlotte Hornets",
-      "rank": 43
+      "rank": 47
     },
     {
       "player": "Jaden Hardy",
@@ -532,7 +580,7 @@
       "first_mention": "2026-08-21",
       "last_mention": "2026-08-21",
       "team": "Atlanta Hawks",
-      "rank": 44
+      "rank": 48
     },
     {
       "player": "John Collins",
@@ -544,7 +592,7 @@
       "first_mention": "2026-08-19",
       "last_mention": "2026-08-19",
       "team": "Los Angeles Clippers",
-      "rank": 45
+      "rank": 49
     },
     {
       "player": "Johni Broome",
@@ -556,7 +604,7 @@
       "first_mention": "2026-08-19",
       "last_mention": "2026-08-19",
       "team": "Cleveland Cavaliers",
-      "rank": 46
+      "rank": 50
     },
     {
       "player": "Kon Knueppel",
@@ -568,7 +616,7 @@
       "first_mention": "2026-08-22",
       "last_mention": "2026-08-22",
       "team": "Charlotte Hornets",
-      "rank": 47
+      "rank": 51
     },
     {
       "player": "Lonzo Ball",
@@ -580,7 +628,7 @@
       "first_mention": "2026-08-19",
       "last_mention": "2026-08-19",
       "team": "Cleveland Cavaliers",
-      "rank": 48
+      "rank": 52
     },
     {
       "player": "Payton Pritchard",
@@ -592,7 +640,7 @@
       "first_mention": "2026-08-23",
       "last_mention": "2026-08-23",
       "team": "Boston Celtics",
-      "rank": 49
+      "rank": 53
     },
     {
       "player": "Russell Westbrook",
@@ -604,7 +652,7 @@
       "first_mention": "2026-08-19",
       "last_mention": "2026-08-19",
       "team": "Cleveland Cavaliers",
-      "rank": 50
+      "rank": 54
     },
     {
       "player": "Tidjane Salaun",
@@ -616,7 +664,7 @@
       "first_mention": "2026-08-22",
       "last_mention": "2026-08-22",
       "team": "Charlotte Hornets",
-      "rank": 51
+      "rank": 55
     },
     {
       "player": "Anthony Edwards",
@@ -628,7 +676,7 @@
       "first_mention": "2026-08-16",
       "last_mention": "2026-08-16",
       "team": "Minnesota Timberwolves",
-      "rank": 52
+      "rank": 56
     },
     {
       "player": "Bobby Portis",
@@ -640,7 +688,7 @@
       "first_mention": "2026-08-11",
       "last_mention": "2026-08-11",
       "team": "Milwaukee Bucks",
-      "rank": 53
+      "rank": 57
     },
     {
       "player": "Cade Cunningham",
@@ -652,7 +700,7 @@
       "first_mention": "2026-08-04",
       "last_mention": "2026-08-04",
       "team": "Detroit Pistons",
-      "rank": 54
+      "rank": 58
     },
     {
       "player": "Collin Murray-Boyles",
@@ -664,7 +712,7 @@
       "first_mention": "2026-08-06",
       "last_mention": "2026-08-06",
       "team": "Memphis Grizzlies",
-      "rank": 55
+      "rank": 59
     },
     {
       "player": "D'Angelo Russell",
@@ -676,7 +724,7 @@
       "first_mention": "2026-08-10",
       "last_mention": "2026-08-10",
       "team": "Dallas Mavericks",
-      "rank": 56
+      "rank": 60
     },
     {
       "player": "Donte DiVincenzo",
@@ -688,7 +736,7 @@
       "first_mention": "2026-08-06",
       "last_mention": "2026-08-06",
       "team": "Minnesota Timberwolves",
-      "rank": 57
+      "rank": 61
     },
     {
       "player": "Isaiah Hartenstein",
@@ -700,7 +748,7 @@
       "first_mention": "2026-08-16",
       "last_mention": "2026-08-16",
       "team": "Oklahoma City Thunder",
-      "rank": 58
+      "rank": 62
     },
     {
       "player": "Ivica Zubac",
@@ -712,7 +760,7 @@
       "first_mention": "2026-08-13",
       "last_mention": "2026-08-13",
       "team": "Los Angeles Clippers",
-      "rank": 59
+      "rank": 63
     },
     {
       "player": "Ja'Kobe Walter",
@@ -724,7 +772,7 @@
       "first_mention": "2026-08-06",
       "last_mention": "2026-08-06",
       "team": "Memphis Grizzlies",
-      "rank": 60
+      "rank": 64
     },
     {
       "player": "Jakob Poeltl",
@@ -736,7 +784,7 @@
       "first_mention": "2026-08-05",
       "last_mention": "2026-08-05",
       "team": "Toronto Raptors",
-      "rank": 61
+      "rank": 65
     },
     {
       "player": "Karlo Matkovic",
@@ -748,7 +796,7 @@
       "first_mention": "2026-08-10",
       "last_mention": "2026-08-10",
       "team": "Dallas Mavericks",
-      "rank": 62
+      "rank": 66
     },
     {
       "player": "LeBron James",
@@ -760,7 +808,7 @@
       "first_mention": "2026-08-13",
       "last_mention": "2026-08-13",
       "team": "Los Angeles Lakers",
-      "rank": 63
+      "rank": 67
     },
     {
       "player": "Moses Moody",
@@ -772,7 +820,7 @@
       "first_mention": "2026-08-05",
       "last_mention": "2026-08-05",
       "team": "Golden State Warriors",
-      "rank": 64
+      "rank": 68
     },
     {
       "player": "Moussa Cisse",
@@ -784,7 +832,7 @@
       "first_mention": "2026-08-10",
       "last_mention": "2026-08-10",
       "team": "Dallas Mavericks",
-      "rank": 65
+      "rank": 69
     },
     {
       "player": "Norman Powell",
@@ -796,7 +844,7 @@
       "first_mention": "2026-08-11",
       "last_mention": "2026-08-11",
       "team": "Miami Heat",
-      "rank": 66
+      "rank": 70
     },
     {
       "player": "RJ Barrett",
@@ -808,7 +856,7 @@
       "first_mention": "2026-08-05",
       "last_mention": "2026-08-05",
       "team": "Sacramento Kings",
-      "rank": 67
+      "rank": 71
     },
     {
       "player": "Trayce Jackson-Davis",
@@ -820,10 +868,150 @@
       "first_mention": "2026-08-06",
       "last_mention": "2026-08-06",
       "team": "Memphis Grizzlies",
-      "rank": 68
+      "rank": 72
     }
   ],
   "player_rumors": {
+    "Anthony Davis": [
+      {
+        "date": "2026-09-01",
+        "text": "Ohm Youngmisuk: The Wizards and Anthony Davis mutually decided to wait on talks on a potential extension until after the season starts, but depending how the season begins for Washington, the big man might seek a trade.But if he is healthy and comes back looking like the dominant player he has shown he can be, Washington could make noise in the Eastern Conference.ESPN",
+        "text_html": "Ohm Youngmisuk: The Wizards and Anthony Davis mutually decided to wait on talks on a potential extension until after the season starts, but depending how the season begins for Washington, the big man might seek a trade. <a href=\"https://www.espn.com/nba/story/_/id/49783369/washington-wizards-offseason-recap-2026-27-season-preview-stats-roster-depth-chart\" target=\"_blank\" style=\"color: #1a73e8;\">But if he is healthy and comes back looking like the dominant player he has shown he can be, Washington could make noise in the Eastern Conference</a>.",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/49783369/washington-wizards-offseason-recap-2026-27-season-preview-stats-roster-depth-chart"
+      }
+    ],
+    "Luguentz Dort": [
+      {
+        "date": "2026-09-01",
+        "text": "Clemente Almanza: Luguentz Dort on getting traded to the Hawks:\"It's amazing. Obviously, Nickeil [Alexander-Walker] is one of my closest friends. Played on the same team with Nickeil in high school and against him our whole life, obviously. When I got the call and I knew I was heading there, I hit him right away. I was really happy.He's helped me out throughout this whole transition and with their style of play. I'm glad that I got a guy like him on my team now.\"x.com",
+        "text_html": "Clemente Almanza: Luguentz Dort on getting traded to the Hawks: <a href=\"https://x.com/CAlmanza1007/status/2094611601198592477\" target=\"_blank\" style=\"color: #1a73e8;\">\"It's amazing. Obviously, Nickeil [Alexander-Walker] is one of my closest friends. Played on the same team with Nickeil in high school and against him our whole life, obviously. When I got the call and I knew I was heading there, I hit him right away. I was really happy.</a> He's helped me out throughout this whole transition and with their style of play. I'm glad that I got a guy like him on my team now.\"",
+        "outlet": "x.com",
+        "source_url": "https://x.com/CAlmanza1007/status/2094611601198592477"
+      }
+    ],
+    "Nickeil Alexander-Walker": [
+      {
+        "date": "2026-09-01",
+        "text": "Clemente Almanza: Luguentz Dort on getting traded to the Hawks:\"It's amazing. Obviously, Nickeil [Alexander-Walker] is one of my closest friends. Played on the same team with Nickeil in high school and against him our whole life, obviously. When I got the call and I knew I was heading there, I hit him right away. I was really happy.He's helped me out throughout this whole transition and with their style of play. I'm glad that I got a guy like him on my team now.\"x.com",
+        "text_html": "Clemente Almanza: Luguentz Dort on getting traded to the Hawks: <a href=\"https://x.com/CAlmanza1007/status/2094611601198592477\" target=\"_blank\" style=\"color: #1a73e8;\">\"It's amazing. Obviously, Nickeil [Alexander-Walker] is one of my closest friends. Played on the same team with Nickeil in high school and against him our whole life, obviously. When I got the call and I knew I was heading there, I hit him right away. I was really happy.</a> He's helped me out throughout this whole transition and with their style of play. I'm glad that I got a guy like him on my team now.\"",
+        "outlet": "x.com",
+        "source_url": "https://x.com/CAlmanza1007/status/2094611601198592477"
+      }
+    ],
+    "Trey Murphy": [
+      {
+        "date": "2026-09-01",
+        "text": "Trey Murphy, Pelicans. Murphy\u2019s\u00a0contract\u00a0is not prohibitive (three years, $87 million) and because he is a wing who can play both ways, he has been especially coveted on the market. But the Pelicans have not gotten serious about moving him yet, because he is still only 26 and the team wants to see how the roster comes together. They\u2019ve asked for as much as four-first-round picks, as the Grizzlies got for Desmond Bane, but that price will come down if the Pelicans move him. Western Conference\u00a0executive:\u201cI think they\u2019d still hold firm on three first-rounders for him. They look at the return for Mikal Bridges (five first-rounders) and Bane and they see Murphy in the same category. But those deals, teams are not going to want to do those going forward. So, a good young rotation player and two first-rounders is probably where you land.\u201dHeavy.com",
+        "text_html": "Trey Murphy, Pelicans. Murphy\u2019s contract is not prohibitive (three years, $87 million) and because he is a wing who can play both ways, he has been especially coveted on the market. But the Pelicans have not gotten serious about moving him yet, because he is still only 26 and the team wants to see how the roster comes together. They\u2019ve asked for as much as four-first-round picks, as the Grizzlies got for Desmond Bane, but that price will come down if the Pelicans move him. Western Conference executive: <a href=\"https://heavy.com/sports/nba/golden-state-warriors/nba-trade-rumors-deal-cost-for-kyrie-irving-trey-murphy-more/\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cI think they\u2019d still hold firm on three first-rounders for him. They look at the return for Mikal Bridges (five first-rounders) and Bane and they see Murphy in the same category. But those deals, teams are not going to want to do those going forward. So, a good young rotation player and two first-rounders is probably where you land.\u201d</a>",
+        "outlet": "Heavy.com",
+        "source_url": "https://heavy.com/sports/nba/golden-state-warriors/nba-trade-rumors-deal-cost-for-kyrie-irving-trey-murphy-more/"
+      },
+      {
+        "date": "2026-08-30",
+        "text": "NBA Trade Machine:Fred VanVleet was part of 4.8% of the trades built on HoopsMatic over the past 24 hours.Of those trades, his top destinations were Minnesota (13.5%), Chicago (11.5%), and San Antonio (7.7%). The most common players sent back for him were Jaden McDaniels (11.5%), Trey Murphy (7.7%), and De'Aaron Fox (5.8%).HoopsMatic",
+        "text_html": "NBA Trade Machine: <a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">Fred VanVleet was part of 4.8% of the trades built on HoopsMatic over the past 24 hours.</a> Of those trades, his top destinations were Minnesota (13.5%), Chicago (11.5%), and San Antonio (7.7%). The most common players sent back for him were Jaden McDaniels (11.5%), Trey Murphy (7.7%), and De'Aaron Fox (5.8%).",
+        "outlet": "HoopsMatic",
+        "source_url": "https://hoopsmatic.com/"
+      }
+    ],
+    "James Harden": [
+      {
+        "date": "2026-09-01",
+        "text": "Kyrie Irving has a\u00a0$42 million player option in 2027-28, and him getting dealt to a contender might rest on a handshake deal (like James Harden in Cleveland) on the option year.Western Conference\u00a0executive: \u201cIf you have some sense that, OK, we pay him $40 million this year, and next year he opts out and we can do a two-year deal or a three year deal at a lesser number, then I think you can do something.If he comes back and he is scoring 24, 25 points (per game), then you will have teams willing to give up a first-round pick for him. Maybe more, maybe a young player, too. But with his injury history, I don\u2019t think you give up more than one first.\u201dHeavy.com",
+        "text_html": "Kyrie Irving has a $42 million player option in 2027-28, and him getting dealt to a contender might rest on a handshake deal (like James Harden in Cleveland) on the option year. <a href=\"https://heavy.com/sports/nba/golden-state-warriors/nba-trade-rumors-deal-cost-for-kyrie-irving-trey-murphy-more/\" target=\"_blank\" style=\"color: #1a73e8;\">Western Conference executive: \u201cIf you have some sense that, OK, we pay him $40 million this year, and next year he opts out and we can do a two-year deal or a three year deal at a lesser number, then I think you can do something.</a> If he comes back and he is scoring 24, 25 points (per game), then you will have teams willing to give up a first-round pick for him. Maybe more, maybe a young player, too. But with his injury history, I don\u2019t think you give up more than one first.\u201d",
+        "outlet": "Heavy.com",
+        "source_url": "https://heavy.com/sports/nba/golden-state-warriors/nba-trade-rumors-deal-cost-for-kyrie-irving-trey-murphy-more/"
+      },
+      {
+        "date": "2026-08-20",
+        "text": "Marc Stein: Reported on Sunday night that, according to one source briefed on the process, James Harden\u2019s long-awaited new deal with the Cavaliers would be signed \u201csoon-ish.\u201dCleveland can finally proceed with finalizing Harden\u2019s pact after its Schr\u00f6der/Strus/Watson five-teamer is official.x.com",
+        "text_html": "Marc Stein: Reported on Sunday night that, according to one source briefed on the process, James Harden\u2019s long-awaited new deal with the Cavaliers would be signed \u201csoon-ish.\u201d <a href=\"https://x.com/TheSteinLine/status/2090250587757564277\" target=\"_blank\" style=\"color: #1a73e8;\">Cleveland can finally proceed with finalizing Harden\u2019s pact after its Schr\u00f6der/Strus/Watson five-teamer is official</a>.",
+        "outlet": "x.com",
+        "source_url": "https://x.com/TheSteinLine/status/2090250587757564277"
+      },
+      {
+        "date": "2026-08-19",
+        "text": "Bobby Marks:Notes for Cleveland- Sign-and-trade hard caps them at the first apron - Prior to re-signing James Harden, they are roughly $29M below the first apron - They have no tradeable firsts available right nowx.com",
+        "text_html": "Bobby Marks: <a href=\"https://x.com/BobbyMarks42/status/2090228708099363122\" target=\"_blank\" style=\"color: #1a73e8;\">Notes for Cleveland</a> - Sign-and-trade hard caps them at the first apron - Prior to re-signing James Harden, they are roughly $29M below the first apron - They have no tradeable firsts available right now",
+        "outlet": "x.com",
+        "source_url": "https://x.com/BobbyMarks42/status/2090228708099363122"
+      },
+      {
+        "date": "2026-08-14",
+        "text": "Shams Charania:The Cavaliers remain in constant communication with James Harden and his agents on a new contract to return to Cleveland while they strongly pursue two free agent forwards -- restricted Peyton Watson and unrestricted Jonathan Kuminga -- made more viable with Friday's trade.x.com",
+        "text_html": "Shams Charania: <a href=\"https://x.com/ShamsCharania/status/2088351883727405368?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">The Cavaliers remain in constant communication with James Harden and his agents on a new contract to return to Cleveland while they strongly pursue two free agent forwards -- restricted Peyton Watson and unrestricted Jonathan Kuminga -- made more viable with Friday's trade</a>.",
+        "outlet": "x.com",
+        "source_url": "https://x.com/ShamsCharania/status/2088351883727405368?s=20"
+      },
+      {
+        "date": "2026-08-14",
+        "text": "Bobby Marks:Swapping out Dennis Schroder for Tre Mann creates savings below the apron for Cleveland. First apron: $32m below Second apron: $44m below The figures do not include a new contract for James Harden. For now, Cleveland is likely to have the $6.1m tax midlevel exception. A sign-and-trade (incoming salary) hard caps them at apron 1.x.com",
+        "text_html": "Bobby Marks: <a href=\"https://x.com/BobbyMarks42/status/2088346874197479725?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">Swapping out Dennis Schroder for Tre Mann creates savings below the apron for Cleveland</a>. First apron: $32m below Second apron: $44m below The figures do not include a new contract for James Harden. For now, Cleveland is likely to have the $6.1m tax midlevel exception. A sign-and-trade (incoming salary) hard caps them at apron 1.",
+        "outlet": "x.com",
+        "source_url": "https://x.com/BobbyMarks42/status/2088346874197479725?s=20"
+      },
+      {
+        "date": "2026-08-14",
+        "text": "Yossi Gozlan:The Cavaliers free up $6.8 million in this swap. They\u2019re approximately $30 million under the first apron with at least one open roster spot, one of which is for James Harden. They\u2019re also $42 million under the second apron and could still increase payroll up to it.x.com",
+        "text_html": "Yossi Gozlan: <a href=\"https://x.com/YossiGozlan/status/2088345512684740990?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">The Cavaliers free up $6.8 million in this swap. They\u2019re approximately $30 million under the first apron with at least one open roster spot, one of which is for James Harden</a>. They\u2019re also $42 million under the second apron and could still increase payroll up to it.",
+        "outlet": "x.com",
+        "source_url": "https://x.com/YossiGozlan/status/2088345512684740990?s=20"
+      },
+      {
+        "date": "2026-08-13",
+        "text": "This season, Cleveland will have 16 sets of back-to-backs, a trio of four-game homestands, a lengthy six-game road trip (March 9-18), four holiday games (Halloween, Veterans Day, New Year\u2019s Eve and MLK Day) and five matinees.James comes to Cleveland with the Sixers twice (Nov. 6 and March 1) this season. The Cavs pursued him in free agency this summer, hoping for a third stint with the franchise that drafted him No. 1 overall in 2003.Former Cavalier Darius Garland will return to Cleveland for the first time since being traded for James Harden last February, with that visit scheduled for Dec. 31. The Western Conference Champion San Antonio Spurs visit for the only time on Dec. 15.Cleveland Plain Dealer",
+        "text_html": "This season, Cleveland will have 16 sets of back-to-backs, a trio of four-game homestands, a lengthy six-game road trip (March 9-18), four holiday games (Halloween, Veterans Day, New Year\u2019s Eve and MLK Day) and five matinees. <a href=\"https://www.cleveland.com/cavs/2026/08/cavs-2026-27-schedule-highlights-17-national-tv-games-home-opener-date-and-darius-garlands-return.html\" target=\"_blank\" style=\"color: #1a73e8;\">James comes to Cleveland with the Sixers twice (Nov. 6 and March 1) this season. The Cavs pursued him in free agency this summer, hoping for a third stint with the franchise that drafted him No. 1 overall in 2003.</a> Former Cavalier Darius Garland will return to Cleveland for the first time since being traded for James Harden last February, with that visit scheduled for Dec. 31. The Western Conference Champion San Antonio Spurs visit for the only time on Dec. 15.",
+        "outlet": "Cleveland Plain Dealer",
+        "source_url": "https://www.cleveland.com/cavs/2026/08/cavs-2026-27-schedule-highlights-17-national-tv-games-home-opener-date-and-darius-garlands-return.html"
+      },
+      {
+        "date": "2026-08-13",
+        "text": "Chris Fedor: There's no benefit right now to the Cavs\u00a0getting something locked in with James\u00a0Harden. And there's nothing that is\u00a0preventative for the Cavs to wait. And\u00a0there's nothing preventative for James\u00a0Harden to wait. It may be frustrating\u00a0because you don't have it\u00a0official. It may be frustrating because you don't\u00a0have a specific number, but like I said,\u00a0everybody inside this Cavs organization\u00a0is talking about James Harden, the\u00a0Cleveland Cavalier. Not James Harden,\u00a0the free agent, James Harden, the\u00a0Cleveland Cavalier. It wouldn't be\u00a0surprising if James, wherever he is in\u00a0this off season, is wearing calves\u00a0shorts or calves gear when he's going to\u00a0workouts and stuff like that, because\u00a0everybody expects him to be a member of\u00a0the Cavs, and they're planning for him to\u00a0be a member of the Cavs. Just like they\u00a0have been since they traded for him in\u00a0February. So, I don't sense any kind of situation between the Cavs and James\u00a0where talks are going to break down or\u00a0talks are going to get so bad that\u00a0there's going to be bad blood between\u00a0James and the organization or James'\u00a0camp and the organization.Everybody understands the financial\u00a0aspect of things related to James and I\u00a0think everybody understands how James\u00a0and what\u00a0contract\u00a0he ultimately signs\u00a0with the Cavs is tied to the kind of\u00a0activity that the Cavs can make this off\u00a0season and the kind of improvements that\u00a0they can make as a team.YouTube",
+        "text_html": "Chris Fedor: There's no benefit right now to the Cavs getting something locked in with James Harden. And there's nothing that is preventative for the Cavs to wait. And there's nothing preventative for James Harden to wait. It may be frustrating because you don't have it official. It may be frustrating because you don't have a specific number, but like I said, everybody inside this Cavs organization is talking about James Harden, the Cleveland Cavalier. Not James Harden, the free agent, James Harden, the Cleveland Cavalier. It wouldn't be surprising if James, wherever he is in this off season, is wearing calves shorts or calves gear when he's going to workouts and stuff like that, because everybody expects him to be a member of the Cavs, and they're planning for him to be a member of the Cavs. Just like they have been since they traded for him in February. So, I don't sense any kind of situation between the Cavs and James where talks are going to break down or talks are going to get so bad that there's going to be bad blood between James and the organization or James' camp and the organization. <a href=\"https://www.youtube.com/watch?v=wOZ1QHtAqis&t=657s\" target=\"_blank\" style=\"color: #1a73e8;\">Everybody understands the financial aspect of things related to James and I think everybody understands how James and what contract he ultimately signs with the Cavs is tied to the kind of activity that the Cavs can make this off season and the kind of improvements that they can make as a team.</a>",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=wOZ1QHtAqis&t=657s"
+      },
+      {
+        "date": "2026-08-11",
+        "text": "APHoops: TheCleveland Cavaliers may wind up backing out of sign-and-trade talks for Jonathan Kuminga and Peyton Watson as James Harden and his camp grow impatient awaiting his contract,per @JakeLFischer. \u201cI would expect Harden to be paid handsomely.\u201dx.com",
+        "text_html": "APHoops: The <a href=\"https://x.com/APH00PS/status/2087274902080323855\" target=\"_blank\" style=\"color: #1a73e8;\">Cleveland Cavaliers may wind up backing out of sign-and-trade talks for Jonathan Kuminga and Peyton Watson as James Harden and his camp grow impatient awaiting his contract,</a> per @JakeLFischer. \u201cI would expect Harden to be paid handsomely.\u201d",
+        "outlet": "x.com",
+        "source_url": "https://x.com/APH00PS/status/2087274902080323855"
+      }
+    ],
+    "Kyrie Irving": [
+      {
+        "date": "2026-09-01",
+        "text": "Kyrie Irving has a\u00a0$42 million player option in 2027-28, and him getting dealt to a contender might rest on a handshake deal (like James Harden in Cleveland) on the option year.Western Conference\u00a0executive: \u201cIf you have some sense that, OK, we pay him $40 million this year, and next year he opts out and we can do a two-year deal or a three year deal at a lesser number, then I think you can do something.If he comes back and he is scoring 24, 25 points (per game), then you will have teams willing to give up a first-round pick for him. Maybe more, maybe a young player, too. But with his injury history, I don\u2019t think you give up more than one first.\u201dHeavy.com",
+        "text_html": "Kyrie Irving has a $42 million player option in 2027-28, and him getting dealt to a contender might rest on a handshake deal (like James Harden in Cleveland) on the option year. <a href=\"https://heavy.com/sports/nba/golden-state-warriors/nba-trade-rumors-deal-cost-for-kyrie-irving-trey-murphy-more/\" target=\"_blank\" style=\"color: #1a73e8;\">Western Conference executive: \u201cIf you have some sense that, OK, we pay him $40 million this year, and next year he opts out and we can do a two-year deal or a three year deal at a lesser number, then I think you can do something.</a> If he comes back and he is scoring 24, 25 points (per game), then you will have teams willing to give up a first-round pick for him. Maybe more, maybe a young player, too. But with his injury history, I don\u2019t think you give up more than one first.\u201d",
+        "outlet": "Heavy.com",
+        "source_url": "https://heavy.com/sports/nba/golden-state-warriors/nba-trade-rumors-deal-cost-for-kyrie-irving-trey-murphy-more/"
+      },
+      {
+        "date": "2026-08-27",
+        "text": "NBA Trade Machine:Kyrie Irving was involved in 3.6% of all trades built on HoopsMatic over the past 24 hours. Of those, his top destinations were Miami (24.1%), Boston (14.8%), and Orlando (13.0%).Players traded for him most often: Davion Mitchell (16.7%), Dru Smith (16.7%), and Nikola Jovic (14.8%).HoopsMatic",
+        "text_html": "NBA Trade Machine: <a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">Kyrie Irving was involved in 3.6% of all trades built on HoopsMatic over the past 24 hours. Of those, his top destinations were Miami (24.1%), Boston (14.8%), and Orlando (13.0%).</a> Players traded for him most often: Davion Mitchell (16.7%), Dru Smith (16.7%), and Nikola Jovic (14.8%).",
+        "outlet": "HoopsMatic",
+        "source_url": "https://hoopsmatic.com/"
+      },
+      {
+        "date": "2026-08-25",
+        "text": "The Mavericks, as we've been writing since mid-June, have consistently swatted away trade interest this offseason in nine-times-an-All-Star guard Kyrie Irving.Rival teams, however, continue to wonder aloud about how firmly Dallas will stick to that stance once the season begins and the next in-season trade deadline on Feb. 11 gradually approaches.marcstein.substack.com",
+        "text_html": "The Mavericks, as we've been writing since mid-June, have consistently swatted away trade interest this offseason in nine-times-an-All-Star guard Kyrie Irving. <a href=\"https://marcstein.substack.com/p/the-latest-late-night-nba-intel-d05?utm_source=post-email-title&publication_id=392205&post_id=212632520&utm_campaign=email-post-title&isFreemail=false&r=10980&triedRedirect=true&utm_medium=email\" target=\"_blank\" style=\"color: #1a73e8;\">Rival teams, however, continue to wonder aloud about how firmly Dallas will stick to that stance once the season begins and the next in-season trade deadline on Feb. 11 gradually approaches</a>.",
+        "outlet": "marcstein.substack.com",
+        "source_url": "https://marcstein.substack.com/p/the-latest-late-night-nba-intel-d05?utm_source=post-email-title&publication_id=392205&post_id=212632520&utm_campaign=email-post-title&isFreemail=false&r=10980&triedRedirect=true&utm_medium=email"
+      }
+    ],
+    "Michael Porter": [
+      {
+        "date": "2026-09-01",
+        "text": "Michael Porter Jr., Nets. Porter is in an odd spot because he needs an extension as he heads into the final year of his\u00a0contract, at $40 million. He showed All-Star ability when given more free reign last year, but that was on a bad Nets team. Brooklyn should be better this year, and Porter will need to show he can keep putting up star numbers on a team that is trying. But if an extension does not get done \u2026 what then?Eastern Conference\u00a0executive: \u201cI think what he did last year is legit and teams are going to see it that way. But the problem you have is if you trade for him, are you going to extend him and what is the number? The Nuggets overpaid him when they gave him that extension, and if he wants to be paid based on that, that is not going to be an easy sell.If he can accept getting into a salary slot that makes more sense for him, you can make that trade. It\u2019s an expiring deal but the Nets would get a first-round pick for him still.\u201dHeavy.com",
+        "text_html": "Michael Porter Jr., Nets. Porter is in an odd spot because he needs an extension as he heads into the final year of his contract, at $40 million. He showed All-Star ability when given more free reign last year, but that was on a bad Nets team. Brooklyn should be better this year, and Porter will need to show he can keep putting up star numbers on a team that is trying. But if an extension does not get done \u2026 what then? <a href=\"https://heavy.com/sports/nba/golden-state-warriors/nba-trade-rumors-deal-cost-for-kyrie-irving-trey-murphy-more/\" target=\"_blank\" style=\"color: #1a73e8;\">Eastern Conference executive: \u201cI think what he did last year is legit and teams are going to see it that way. But the problem you have is if you trade for him, are you going to extend him and what is the number? The Nuggets overpaid him when they gave him that extension, and if he wants to be paid based on that, that is not going to be an easy sell.</a> If he can accept getting into a salary slot that makes more sense for him, you can make that trade. It\u2019s an expiring deal but the Nets would get a first-round pick for him still.\u201d",
+        "outlet": "Heavy.com",
+        "source_url": "https://heavy.com/sports/nba/golden-state-warriors/nba-trade-rumors-deal-cost-for-kyrie-irving-trey-murphy-more/"
+      }
+    ],
     "Luka Doncic": [
       {
         "date": "2026-08-31",
@@ -949,15 +1137,6 @@
       }
     ],
     "Jaden McDaniels": [
-      {
-        "date": "2026-08-30",
-        "text": "NBA Trade Machine:Fred VanVleet was part of 4.8% of the trades built on HoopsMatic over the past 24 hours.Of those trades, his top destinations were Minnesota (13.5%), Chicago (11.5%), and San Antonio (7.7%). The most common players sent back for him were Jaden McDaniels (11.5%), Trey Murphy (7.7%), and De'Aaron Fox (5.8%).HoopsMatic",
-        "text_html": "NBA Trade Machine: <a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">Fred VanVleet was part of 4.8% of the trades built on HoopsMatic over the past 24 hours.</a> Of those trades, his top destinations were Minnesota (13.5%), Chicago (11.5%), and San Antonio (7.7%). The most common players sent back for him were Jaden McDaniels (11.5%), Trey Murphy (7.7%), and De'Aaron Fox (5.8%).",
-        "outlet": "HoopsMatic",
-        "source_url": "https://hoopsmatic.com/"
-      }
-    ],
-    "Trey Murphy": [
       {
         "date": "2026-08-30",
         "text": "NBA Trade Machine:Fred VanVleet was part of 4.8% of the trades built on HoopsMatic over the past 24 hours.Of those trades, his top destinations were Minnesota (13.5%), Chicago (11.5%), and San Antonio (7.7%). The most common players sent back for him were Jaden McDaniels (11.5%), Trey Murphy (7.7%), and De'Aaron Fox (5.8%).HoopsMatic",
@@ -1190,22 +1369,6 @@
         "text_html": "Kendrick Perkins: \"The Orlando Magic. You fired the coach. They're not going to have a run like they expecting. You got a new head coach. <a href=\"https://www.youtube.com/watch?v=WAYYE5BMG6c&t=818s\" target=\"_blank\" style=\"color: #1a73e8;\">They're going to move on from Paolo Banchero eventually. He will be the first All-Star, All-NBA player traded.\"</a>",
         "outlet": "YouTube",
         "source_url": "https://www.youtube.com/watch?v=WAYYE5BMG6c&t=818s"
-      }
-    ],
-    "Kyrie Irving": [
-      {
-        "date": "2026-08-27",
-        "text": "NBA Trade Machine:Kyrie Irving was involved in 3.6% of all trades built on HoopsMatic over the past 24 hours. Of those, his top destinations were Miami (24.1%), Boston (14.8%), and Orlando (13.0%).Players traded for him most often: Davion Mitchell (16.7%), Dru Smith (16.7%), and Nikola Jovic (14.8%).HoopsMatic",
-        "text_html": "NBA Trade Machine: <a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">Kyrie Irving was involved in 3.6% of all trades built on HoopsMatic over the past 24 hours. Of those, his top destinations were Miami (24.1%), Boston (14.8%), and Orlando (13.0%).</a> Players traded for him most often: Davion Mitchell (16.7%), Dru Smith (16.7%), and Nikola Jovic (14.8%).",
-        "outlet": "HoopsMatic",
-        "source_url": "https://hoopsmatic.com/"
-      },
-      {
-        "date": "2026-08-25",
-        "text": "The Mavericks, as we've been writing since mid-June, have consistently swatted away trade interest this offseason in nine-times-an-All-Star guard Kyrie Irving.Rival teams, however, continue to wonder aloud about how firmly Dallas will stick to that stance once the season begins and the next in-season trade deadline on Feb. 11 gradually approaches.marcstein.substack.com",
-        "text_html": "The Mavericks, as we've been writing since mid-June, have consistently swatted away trade interest this offseason in nine-times-an-All-Star guard Kyrie Irving. <a href=\"https://marcstein.substack.com/p/the-latest-late-night-nba-intel-d05?utm_source=post-email-title&publication_id=392205&post_id=212632520&utm_campaign=email-post-title&isFreemail=false&r=10980&triedRedirect=true&utm_medium=email\" target=\"_blank\" style=\"color: #1a73e8;\">Rival teams, however, continue to wonder aloud about how firmly Dallas will stick to that stance once the season begins and the next in-season trade deadline on Feb. 11 gradually approaches</a>.",
-        "outlet": "marcstein.substack.com",
-        "source_url": "https://marcstein.substack.com/p/the-latest-late-night-nba-intel-d05?utm_source=post-email-title&publication_id=392205&post_id=212632520&utm_campaign=email-post-title&isFreemail=false&r=10980&triedRedirect=true&utm_medium=email"
       }
     ],
     "Davion Mitchell": [
@@ -1535,64 +1698,6 @@
         "text_html": "Brian Windhorst: <a href=\"https://www.youtube.com/watch?v=rnrt-BRelPY&t=1926s\" target=\"_blank\" style=\"color: #1a73e8;\">There's still a window there for the Lakers to do a Jonathan Kuminga sign-and-trade deal using Jaden Hardy.</a> But my thing on the whole Jonathan Kuminga sign and trade thing is that for the Hawks to do a sign and trade, they're going to probably end up in the tax unless you can ship someone to a third team who has to be paid. And I've just been very doubtful that unless the Hawks are in love with the situation that they're going to end up, signing and trading Kuminga. The other thing with Kuminga is a sign and trade has to be three years. Doesn't have to be fully guaranteed, but it can't be player options. It'll be team options. And so, if Kuminga can't get a contract number that he likes in the first year, even if it's more money, this is one thing that Lakers fans, you know, the Lakers fans have been sort of putting Kuminga on their team in their head. And look, maybe it does get done, but Kuminga, he wouldn't control his contract. That first year salary, even if it's higher, would be less than he thinks his value is, right or wrong.",
         "outlet": "YouTube",
         "source_url": "https://www.youtube.com/watch?v=rnrt-BRelPY&t=1926s"
-      }
-    ],
-    "James Harden": [
-      {
-        "date": "2026-08-20",
-        "text": "Marc Stein: Reported on Sunday night that, according to one source briefed on the process, James Harden\u2019s long-awaited new deal with the Cavaliers would be signed \u201csoon-ish.\u201dCleveland can finally proceed with finalizing Harden\u2019s pact after its Schr\u00f6der/Strus/Watson five-teamer is official.x.com",
-        "text_html": "Marc Stein: Reported on Sunday night that, according to one source briefed on the process, James Harden\u2019s long-awaited new deal with the Cavaliers would be signed \u201csoon-ish.\u201d <a href=\"https://x.com/TheSteinLine/status/2090250587757564277\" target=\"_blank\" style=\"color: #1a73e8;\">Cleveland can finally proceed with finalizing Harden\u2019s pact after its Schr\u00f6der/Strus/Watson five-teamer is official</a>.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/TheSteinLine/status/2090250587757564277"
-      },
-      {
-        "date": "2026-08-19",
-        "text": "Bobby Marks:Notes for Cleveland- Sign-and-trade hard caps them at the first apron - Prior to re-signing James Harden, they are roughly $29M below the first apron - They have no tradeable firsts available right nowx.com",
-        "text_html": "Bobby Marks: <a href=\"https://x.com/BobbyMarks42/status/2090228708099363122\" target=\"_blank\" style=\"color: #1a73e8;\">Notes for Cleveland</a> - Sign-and-trade hard caps them at the first apron - Prior to re-signing James Harden, they are roughly $29M below the first apron - They have no tradeable firsts available right now",
-        "outlet": "x.com",
-        "source_url": "https://x.com/BobbyMarks42/status/2090228708099363122"
-      },
-      {
-        "date": "2026-08-14",
-        "text": "Shams Charania:The Cavaliers remain in constant communication with James Harden and his agents on a new contract to return to Cleveland while they strongly pursue two free agent forwards -- restricted Peyton Watson and unrestricted Jonathan Kuminga -- made more viable with Friday's trade.x.com",
-        "text_html": "Shams Charania: <a href=\"https://x.com/ShamsCharania/status/2088351883727405368?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">The Cavaliers remain in constant communication with James Harden and his agents on a new contract to return to Cleveland while they strongly pursue two free agent forwards -- restricted Peyton Watson and unrestricted Jonathan Kuminga -- made more viable with Friday's trade</a>.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/ShamsCharania/status/2088351883727405368?s=20"
-      },
-      {
-        "date": "2026-08-14",
-        "text": "Bobby Marks:Swapping out Dennis Schroder for Tre Mann creates savings below the apron for Cleveland. First apron: $32m below Second apron: $44m below The figures do not include a new contract for James Harden. For now, Cleveland is likely to have the $6.1m tax midlevel exception. A sign-and-trade (incoming salary) hard caps them at apron 1.x.com",
-        "text_html": "Bobby Marks: <a href=\"https://x.com/BobbyMarks42/status/2088346874197479725?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">Swapping out Dennis Schroder for Tre Mann creates savings below the apron for Cleveland</a>. First apron: $32m below Second apron: $44m below The figures do not include a new contract for James Harden. For now, Cleveland is likely to have the $6.1m tax midlevel exception. A sign-and-trade (incoming salary) hard caps them at apron 1.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/BobbyMarks42/status/2088346874197479725?s=20"
-      },
-      {
-        "date": "2026-08-14",
-        "text": "Yossi Gozlan:The Cavaliers free up $6.8 million in this swap. They\u2019re approximately $30 million under the first apron with at least one open roster spot, one of which is for James Harden. They\u2019re also $42 million under the second apron and could still increase payroll up to it.x.com",
-        "text_html": "Yossi Gozlan: <a href=\"https://x.com/YossiGozlan/status/2088345512684740990?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">The Cavaliers free up $6.8 million in this swap. They\u2019re approximately $30 million under the first apron with at least one open roster spot, one of which is for James Harden</a>. They\u2019re also $42 million under the second apron and could still increase payroll up to it.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/YossiGozlan/status/2088345512684740990?s=20"
-      },
-      {
-        "date": "2026-08-13",
-        "text": "This season, Cleveland will have 16 sets of back-to-backs, a trio of four-game homestands, a lengthy six-game road trip (March 9-18), four holiday games (Halloween, Veterans Day, New Year\u2019s Eve and MLK Day) and five matinees.James comes to Cleveland with the Sixers twice (Nov. 6 and March 1) this season. The Cavs pursued him in free agency this summer, hoping for a third stint with the franchise that drafted him No. 1 overall in 2003.Former Cavalier Darius Garland will return to Cleveland for the first time since being traded for James Harden last February, with that visit scheduled for Dec. 31. The Western Conference Champion San Antonio Spurs visit for the only time on Dec. 15.Cleveland Plain Dealer",
-        "text_html": "This season, Cleveland will have 16 sets of back-to-backs, a trio of four-game homestands, a lengthy six-game road trip (March 9-18), four holiday games (Halloween, Veterans Day, New Year\u2019s Eve and MLK Day) and five matinees. <a href=\"https://www.cleveland.com/cavs/2026/08/cavs-2026-27-schedule-highlights-17-national-tv-games-home-opener-date-and-darius-garlands-return.html\" target=\"_blank\" style=\"color: #1a73e8;\">James comes to Cleveland with the Sixers twice (Nov. 6 and March 1) this season. The Cavs pursued him in free agency this summer, hoping for a third stint with the franchise that drafted him No. 1 overall in 2003.</a> Former Cavalier Darius Garland will return to Cleveland for the first time since being traded for James Harden last February, with that visit scheduled for Dec. 31. The Western Conference Champion San Antonio Spurs visit for the only time on Dec. 15.",
-        "outlet": "Cleveland Plain Dealer",
-        "source_url": "https://www.cleveland.com/cavs/2026/08/cavs-2026-27-schedule-highlights-17-national-tv-games-home-opener-date-and-darius-garlands-return.html"
-      },
-      {
-        "date": "2026-08-13",
-        "text": "Chris Fedor: There's no benefit right now to the Cavs\u00a0getting something locked in with James\u00a0Harden. And there's nothing that is\u00a0preventative for the Cavs to wait. And\u00a0there's nothing preventative for James\u00a0Harden to wait. It may be frustrating\u00a0because you don't have it\u00a0official. It may be frustrating because you don't\u00a0have a specific number, but like I said,\u00a0everybody inside this Cavs organization\u00a0is talking about James Harden, the\u00a0Cleveland Cavalier. Not James Harden,\u00a0the free agent, James Harden, the\u00a0Cleveland Cavalier. It wouldn't be\u00a0surprising if James, wherever he is in\u00a0this off season, is wearing calves\u00a0shorts or calves gear when he's going to\u00a0workouts and stuff like that, because\u00a0everybody expects him to be a member of\u00a0the Cavs, and they're planning for him to\u00a0be a member of the Cavs. Just like they\u00a0have been since they traded for him in\u00a0February. So, I don't sense any kind of situation between the Cavs and James\u00a0where talks are going to break down or\u00a0talks are going to get so bad that\u00a0there's going to be bad blood between\u00a0James and the organization or James'\u00a0camp and the organization.Everybody understands the financial\u00a0aspect of things related to James and I\u00a0think everybody understands how James\u00a0and what\u00a0contract\u00a0he ultimately signs\u00a0with the Cavs is tied to the kind of\u00a0activity that the Cavs can make this off\u00a0season and the kind of improvements that\u00a0they can make as a team.YouTube",
-        "text_html": "Chris Fedor: There's no benefit right now to the Cavs getting something locked in with James Harden. And there's nothing that is preventative for the Cavs to wait. And there's nothing preventative for James Harden to wait. It may be frustrating because you don't have it official. It may be frustrating because you don't have a specific number, but like I said, everybody inside this Cavs organization is talking about James Harden, the Cleveland Cavalier. Not James Harden, the free agent, James Harden, the Cleveland Cavalier. It wouldn't be surprising if James, wherever he is in this off season, is wearing calves shorts or calves gear when he's going to workouts and stuff like that, because everybody expects him to be a member of the Cavs, and they're planning for him to be a member of the Cavs. Just like they have been since they traded for him in February. So, I don't sense any kind of situation between the Cavs and James where talks are going to break down or talks are going to get so bad that there's going to be bad blood between James and the organization or James' camp and the organization. <a href=\"https://www.youtube.com/watch?v=wOZ1QHtAqis&t=657s\" target=\"_blank\" style=\"color: #1a73e8;\">Everybody understands the financial aspect of things related to James and I think everybody understands how James and what contract he ultimately signs with the Cavs is tied to the kind of activity that the Cavs can make this off season and the kind of improvements that they can make as a team.</a>",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=wOZ1QHtAqis&t=657s"
-      },
-      {
-        "date": "2026-08-11",
-        "text": "APHoops: TheCleveland Cavaliers may wind up backing out of sign-and-trade talks for Jonathan Kuminga and Peyton Watson as James Harden and his camp grow impatient awaiting his contract,per @JakeLFischer. \u201cI would expect Harden to be paid handsomely.\u201dx.com",
-        "text_html": "APHoops: The <a href=\"https://x.com/APH00PS/status/2087274902080323855\" target=\"_blank\" style=\"color: #1a73e8;\">Cleveland Cavaliers may wind up backing out of sign-and-trade talks for Jonathan Kuminga and Peyton Watson as James Harden and his camp grow impatient awaiting his contract,</a> per @JakeLFischer. \u201cI would expect Harden to be paid handsomely.\u201d",
-        "outlet": "x.com",
-        "source_url": "https://x.com/APH00PS/status/2087274902080323855"
       }
     ],
     "Darius Garland": [
@@ -2236,6 +2341,35 @@
     ]
   },
   "daily_counts": {
+    "Anthony Davis": {
+      "2026-09-01": 1
+    },
+    "Luguentz Dort": {
+      "2026-09-01": 1
+    },
+    "Nickeil Alexander-Walker": {
+      "2026-09-01": 1
+    },
+    "Trey Murphy": {
+      "2026-09-01": 1,
+      "2026-08-30": 1
+    },
+    "James Harden": {
+      "2026-09-01": 1,
+      "2026-08-20": 1,
+      "2026-08-19": 1,
+      "2026-08-14": 3,
+      "2026-08-13": 2,
+      "2026-08-11": 1
+    },
+    "Kyrie Irving": {
+      "2026-09-01": 1,
+      "2026-08-27": 1,
+      "2026-08-25": 1
+    },
+    "Michael Porter": {
+      "2026-09-01": 1
+    },
     "Luka Doncic": {
       "2026-08-31": 1,
       "2026-08-21": 1,
@@ -2263,9 +2397,6 @@
       "2026-08-04": 1
     },
     "Jaden McDaniels": {
-      "2026-08-30": 1
-    },
-    "Trey Murphy": {
       "2026-08-30": 1
     },
     "Jalen Duren": {
@@ -2309,10 +2440,6 @@
     },
     "Paolo Banchero": {
       "2026-08-28": 1
-    },
-    "Kyrie Irving": {
-      "2026-08-27": 1,
-      "2026-08-25": 1
     },
     "Davion Mitchell": {
       "2026-08-27": 1
@@ -2369,13 +2496,6 @@
     },
     "Jaden Hardy": {
       "2026-08-21": 1
-    },
-    "James Harden": {
-      "2026-08-20": 1,
-      "2026-08-19": 1,
-      "2026-08-14": 3,
-      "2026-08-13": 2,
-      "2026-08-11": 1
     },
     "Darius Garland": {
       "2026-08-20": 1,
