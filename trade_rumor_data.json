@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-08-31T23:06:42.638613",
+  "generated_at": "2026-09-01T06:02:07.702485",
   "scrape_window_days": 28,
-  "window_start": "2026-08-03",
-  "window_end": "2026-08-31",
-  "total_rumors": 188,
-  "total_players": 70,
+  "window_start": "2026-08-04",
+  "window_end": "2026-09-01",
+  "total_rumors": 182,
+  "total_players": 68,
   "rankings": [
     {
       "player": "Peyton Watson",
-      "score": 9.0,
+      "score": 8.5,
       "mentions_week1": 0,
       "mentions_week2": 11,
-      "mentions_weeks3_4": 14,
-      "total_mentions": 25,
-      "first_mention": "2026-08-03",
+      "mentions_weeks3_4": 12,
+      "total_mentions": 23,
+      "first_mention": "2026-08-05",
       "last_mention": "2026-08-23",
       "team": "Charlotte Hornets",
       "rank": 1
     },
     {
       "player": "Jonathan Kuminga",
-      "score": 5.75,
-      "mentions_week1": 3,
-      "mentions_week2": 1,
+      "score": 5.25,
+      "mentions_week1": 2,
+      "mentions_week2": 2,
       "mentions_weeks3_4": 9,
       "total_mentions": 13,
       "first_mention": "2026-08-05",
@@ -79,30 +79,6 @@
       "rank": 6
     },
     {
-      "player": "Kawhi Leonard",
-      "score": 2.75,
-      "mentions_week1": 1,
-      "mentions_week2": 2,
-      "mentions_weeks3_4": 3,
-      "total_mentions": 6,
-      "first_mention": "2026-08-10",
-      "last_mention": "2026-08-28",
-      "team": "Los Angeles Clippers",
-      "rank": 7
-    },
-    {
-      "player": "Max Strus",
-      "score": 2.75,
-      "mentions_week1": 0,
-      "mentions_week2": 5,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 6,
-      "first_mention": "2026-08-12",
-      "last_mention": "2026-08-19",
-      "team": "Cleveland Cavaliers",
-      "rank": 8
-    },
-    {
       "player": "James Harden",
       "score": 2.5,
       "mentions_week1": 0,
@@ -112,6 +88,30 @@
       "first_mention": "2026-08-11",
       "last_mention": "2026-08-20",
       "team": "Los Angeles Clippers",
+      "rank": 7
+    },
+    {
+      "player": "Kawhi Leonard",
+      "score": 2.5,
+      "mentions_week1": 1,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 4,
+      "total_mentions": 6,
+      "first_mention": "2026-08-10",
+      "last_mention": "2026-08-28",
+      "team": "Los Angeles Clippers",
+      "rank": 8
+    },
+    {
+      "player": "Max Strus",
+      "score": 2.5,
+      "mentions_week1": 0,
+      "mentions_week2": 4,
+      "mentions_weeks3_4": 2,
+      "total_mentions": 6,
+      "first_mention": "2026-08-12",
+      "last_mention": "2026-08-19",
+      "team": "Cleveland Cavaliers",
       "rank": 9
     },
     {
@@ -163,18 +163,6 @@
       "rank": 13
     },
     {
-      "player": "Klay Thompson",
-      "score": 2.0,
-      "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 6,
-      "total_mentions": 7,
-      "first_mention": "2026-08-03",
-      "last_mention": "2026-08-17",
-      "team": "Dallas Mavericks",
-      "rank": 14
-    },
-    {
       "player": "Kyrie Irving",
       "score": 2.0,
       "mentions_week1": 2,
@@ -184,7 +172,7 @@
       "first_mention": "2026-08-25",
       "last_mention": "2026-08-27",
       "team": "Dallas Mavericks",
-      "rank": 15
+      "rank": 14
     },
     {
       "player": "Stephen Curry",
@@ -196,19 +184,7 @@
       "first_mention": "2026-08-04",
       "last_mention": "2026-08-13",
       "team": "Golden State Warriors",
-      "rank": 16
-    },
-    {
-      "player": "PJ Washington",
-      "score": 1.5,
-      "mentions_week1": 0,
-      "mentions_week2": 2,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 4,
-      "first_mention": "2026-08-06",
-      "last_mention": "2026-08-17",
-      "team": "Dallas Mavericks",
-      "rank": 17
+      "rank": 15
     },
     {
       "player": "De'Aaron Fox",
@@ -220,7 +196,19 @@
       "first_mention": "2026-08-04",
       "last_mention": "2026-08-30",
       "team": "San Antonio Spurs",
-      "rank": 18
+      "rank": 16
+    },
+    {
+      "player": "Klay Thompson",
+      "score": 1.25,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 5,
+      "total_mentions": 5,
+      "first_mention": "2026-08-05",
+      "last_mention": "2026-08-17",
+      "team": "Dallas Mavericks",
+      "rank": 17
     },
     {
       "player": "Jimmy Butler",
@@ -232,6 +220,18 @@
       "first_mention": "2026-08-05",
       "last_mention": "2026-08-25",
       "team": "Golden State Warriors",
+      "rank": 18
+    },
+    {
+      "player": "PJ Washington",
+      "score": 1.0,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 4,
+      "total_mentions": 4,
+      "first_mention": "2026-08-06",
+      "last_mention": "2026-08-17",
+      "team": "Dallas Mavericks",
       "rank": 19
     },
     {
@@ -415,18 +415,6 @@
       "rank": 34
     },
     {
-      "player": "Brandon Ingram",
-      "score": 0.75,
-      "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 2,
-      "first_mention": "2026-08-10",
-      "last_mention": "2026-08-17",
-      "team": "Toronto Raptors",
-      "rank": 35
-    },
-    {
       "player": "Darius Garland",
       "score": 0.75,
       "mentions_week1": 0,
@@ -436,14 +424,26 @@
       "first_mention": "2026-08-13",
       "last_mention": "2026-08-20",
       "team": "Cleveland Cavaliers",
+      "rank": 35
+    },
+    {
+      "player": "Brandon Ingram",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 2,
+      "total_mentions": 2,
+      "first_mention": "2026-08-10",
+      "last_mention": "2026-08-17",
+      "team": "Toronto Raptors",
       "rank": 36
     },
     {
       "player": "Gradey Dick",
-      "score": 0.75,
+      "score": 0.5,
       "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 2,
       "total_mentions": 2,
       "first_mention": "2026-08-10",
       "last_mention": "2026-08-17",
@@ -821,30 +821,6 @@
       "last_mention": "2026-08-06",
       "team": "Memphis Grizzlies",
       "rank": 68
-    },
-    {
-      "player": "Zach LaVine",
-      "score": 0.25,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 1,
-      "first_mention": "2026-08-03",
-      "last_mention": "2026-08-03",
-      "team": "Sacramento Kings",
-      "rank": 69
-    },
-    {
-      "player": "Zeke Nnaji",
-      "score": 0.25,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 1,
-      "first_mention": "2026-08-03",
-      "last_mention": "2026-08-03",
-      "team": "Denver Nuggets",
-      "rank": 70
     }
   ],
   "player_rumors": {
@@ -1498,20 +1474,6 @@
         "text_html": "<a href=\"https://www.cleveland.com/cavs/2026/08/is-clevelands-best-starting-small-forward-option-already-on-the-roster-wine-and-gold-talk-podcast.html\" target=\"_blank\" style=\"color: #1a73e8;\">When it comes to the rumblings that are continued around Peyton Watson, Jonathan Kuminga, what are you hearing and how likely is it that the Cavs make a move that could get them both of these players? Chris Fedor: Yeah, I think both of them is highly unlikely.</a> Again, on this podcast, we never say never and we try and deal in reality as much as we possibly can. Getting one of them is going to be hard enough given the salary cap situation that the Cavs are currently in, given the lack of perceived trade assets and given the salary cap situation of some of These other teams that we\u2019re talking about here. So for example, you\u2019ve got the Atlanta Hawks who have said to teams around the NBA it looked we\u2019re willing to help out Jonathan Kuminga in a potential sign and trade, but we need to be incentivized in order to do that. We\u2019ve got to get something back in return that we actually like. And that\u2019s part of the holdup, it feels like, between the Hawks and the Los Angeles Lakers, because there are people around the NBA that are saying to themselves, what are the Lakers going to give the Hawks that the Hawks value enough or that the Hawks actually want? The hawks already have 17 guys under contract, so they have some things that they have to do internally.",
         "outlet": "Cleveland Plain Dealer",
         "source_url": "https://www.cleveland.com/cavs/2026/08/is-clevelands-best-starting-small-forward-option-already-on-the-roster-wine-and-gold-talk-podcast.html"
-      },
-      {
-        "date": "2026-08-03",
-        "text": "Marc Stein:If [the Nuggets] keep Peyton Watson, there\u2019s probably going to be a trade\u2014 I\u2019m gonna go out on a limb and say it\u2019s probably going to be a trade that the DNVR Nuggets show does not approve of.YouTube",
-        "text_html": "Marc Stein: <a href=\"https://www.youtube.com/live/mhQ9f9w5nmE?is=pGmRSKV6PolSwXyY\" target=\"_blank\" style=\"color: #1a73e8;\">If [the Nuggets] keep Peyton Watson, there\u2019s probably going to be a trade\u2014 I\u2019m gonna go out on a limb and say it\u2019s probably going to be a trade that the DNVR Nuggets show does not approve of</a>.",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/live/mhQ9f9w5nmE?is=pGmRSKV6PolSwXyY"
-      },
-      {
-        "date": "2026-08-03",
-        "text": "Marc Stein:Their preferred scenario would be finding a trade home for Zeke Nnaji, but you know if you do that you\u2019re attaching draft capital and the Nuggets are not exactly teeming with extra draft capital.YouTube",
-        "text_html": "Marc Stein: <a href=\"https://www.youtube.com/live/mhQ9f9w5nmE?is=pGmRSKV6PolSwXyY\" target=\"_blank\" style=\"color: #1a73e8;\">Their preferred scenario would be finding a trade home for Zeke Nnaji, but you know if you do that you\u2019re attaching draft capital and the Nuggets are not exactly teeming with extra draft capital</a>.",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/live/mhQ9f9w5nmE?is=pGmRSKV6PolSwXyY"
       }
     ],
     "Payton Pritchard": [
@@ -1908,20 +1870,6 @@
         "text_html": "Jake Fischer: \u2018The Mavericks would trade Klay Thompson. <a href=\"https://bleacherreport.com/videos/0a59c6de-76db-4381-9da6-ada9746e2961-latest-nba-offseason-rumors\" target=\"_blank\" style=\"color: #1a73e8;\">There's definitely been some type of buzz, framework, whatever, about a Klay Thompson-for-Nikola Jovic thing for weeks now\u2026 but it that was to happen, I think it would probably have happened.\u2019</a>",
         "outlet": "Bleacher Report",
         "source_url": "https://bleacherreport.com/videos/0a59c6de-76db-4381-9da6-ada9746e2961-latest-nba-offseason-rumors"
-      },
-      {
-        "date": "2026-08-03",
-        "text": "My understanding is thatThompson would welcome a return to Los Angeles,where he spent part of his childhood and still owns a home. The Miami Heat are another team frequently mentioned in NBA circles as a potential landing spot for the future Hall of Famer.New York Times",
-        "text_html": "My understanding is that <a href=\"https://www.nytimes.com/athletic/7480545/2026/08/03/the-mavericks-have-16-standard-contracts-whats-their-next-move/?unlocked_article_code=1.2lA.ht2g.QDnT8NBoc7Ec&source=athletic_user_shared_gift_article_copylink&smid=url-share-ta\" target=\"_blank\" style=\"color: #1a73e8;\">Thompson would welcome a return to Los Angeles,</a> where he spent part of his childhood and still owns a home. The Miami Heat are another team frequently mentioned in NBA circles as a potential landing spot for the future Hall of Famer.",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/7480545/2026/08/03/the-mavericks-have-16-standard-contracts-whats-their-next-move/?unlocked_article_code=1.2lA.ht2g.QDnT8NBoc7Ec&source=athletic_user_shared_gift_article_copylink&smid=url-share-ta"
-      },
-      {
-        "date": "2026-08-03",
-        "text": "At this point,it remains unclear if Klay Thompson \u2014 the Mavericks\u2019 leading 3-point shooter in each of the past two seasons \u2014 will be back in Dallas for a third year. The Mavericks have explored his trade market but have yet to find a deal,multiple sources with rival teams told The Athletic on the condition of anonymity because they were not authorized to discuss any potential negotiations. Thompson is owed $17.5 million this season and is set to become an unrestricted free agent in the summer of 2027.New York Times",
-        "text_html": "At this point, <a href=\"https://www.nytimes.com/athletic/7480545/2026/08/03/the-mavericks-have-16-standard-contracts-whats-their-next-move/?unlocked_article_code=1.2lA.ht2g.QDnT8NBoc7Ec&source=athletic_user_shared_gift_article_copylink&smid=url-share-ta\" target=\"_blank\" style=\"color: #1a73e8;\">it remains unclear if Klay Thompson \u2014 the Mavericks\u2019 leading 3-point shooter in each of the past two seasons \u2014 will be back in Dallas for a third year. The Mavericks have explored his trade market but have yet to find a deal,</a> multiple sources with rival teams told The Athletic on the condition of anonymity because they were not authorized to discuss any potential negotiations. Thompson is owed $17.5 million this season and is set to become an unrestricted free agent in the summer of 2027.",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/7480545/2026/08/03/the-mavericks-have-16-standard-contracts-whats-their-next-move/?unlocked_article_code=1.2lA.ht2g.QDnT8NBoc7Ec&source=athletic_user_shared_gift_article_copylink&smid=url-share-ta"
       }
     ],
     "Brandon Ingram": [
@@ -2285,24 +2233,6 @@
         "outlet": "HoopsMatic",
         "source_url": "https://hoopsmatic.com/"
       }
-    ],
-    "Zeke Nnaji": [
-      {
-        "date": "2026-08-03",
-        "text": "Marc Stein:Their preferred scenario would be finding a trade home for Zeke Nnaji, but you know if you do that you\u2019re attaching draft capital and the Nuggets are not exactly teeming with extra draft capital.YouTube",
-        "text_html": "Marc Stein: <a href=\"https://www.youtube.com/live/mhQ9f9w5nmE?is=pGmRSKV6PolSwXyY\" target=\"_blank\" style=\"color: #1a73e8;\">Their preferred scenario would be finding a trade home for Zeke Nnaji, but you know if you do that you\u2019re attaching draft capital and the Nuggets are not exactly teeming with extra draft capital</a>.",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/live/mhQ9f9w5nmE?is=pGmRSKV6PolSwXyY"
-      }
-    ],
-    "Zach LaVine": [
-      {
-        "date": "2026-08-03",
-        "text": "James Ham:\"Scott Perry was willing to work with Zach LaVine and his representation to find him a new home before he opted into his contract at the end of June.They were more than willing to work on a sign-and-trade with Zach LaVine, and if he could find a home that even paid him less money but a longer-term contract, the Kings were all on board to try and do that.\"YouTube",
-        "text_html": "James Ham: <a href=\"https://www.youtube.com/watch?v=NL0fHbGhBqM&t=198s\" target=\"_blank\" style=\"color: #1a73e8;\">\"Scott Perry was willing to work with Zach LaVine and his representation to find him a new home before he opted into his contract at the end of June.</a> They were more than willing to work on a sign-and-trade with Zach LaVine, and if he could find a home that even paid him less money but a longer-term contract, the Kings were all on board to try and do that.\"",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=NL0fHbGhBqM&t=198s"
-      }
     ]
   },
   "daily_counts": {
@@ -2419,8 +2349,7 @@
       "2026-08-11": 2,
       "2026-08-08": 1,
       "2026-08-06": 3,
-      "2026-08-05": 1,
-      "2026-08-03": 2
+      "2026-08-05": 1
     },
     "Payton Pritchard": {
       "2026-08-23": 1
@@ -2483,8 +2412,7 @@
       "2026-08-17": 1,
       "2026-08-14": 2,
       "2026-08-07": 1,
-      "2026-08-05": 1,
-      "2026-08-03": 2
+      "2026-08-05": 1
     },
     "Brandon Ingram": {
       "2026-08-17": 1,
@@ -2576,12 +2504,6 @@
     },
     "Cade Cunningham": {
       "2026-08-04": 1
-    },
-    "Zeke Nnaji": {
-      "2026-08-03": 1
-    },
-    "Zach LaVine": {
-      "2026-08-03": 1
     }
   }
 }
