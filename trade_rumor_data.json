@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-03T05:29:07.346483",
+  "generated_at": "2026-09-03T16:43:05.834109",
   "scrape_window_days": 28,
   "window_start": "2026-08-06",
   "window_end": "2026-09-03",
-  "total_rumors": 172,
+  "total_rumors": 177,
   "total_players": 70,
   "rankings": [
     {
@@ -31,6 +31,18 @@
       "rank": 2
     },
     {
+      "player": "Luka Doncic",
+      "score": 3.5,
+      "mentions_week1": 2,
+      "mentions_week2": 2,
+      "mentions_weeks3_4": 2,
+      "total_mentions": 6,
+      "first_mention": "2026-08-06",
+      "last_mention": "2026-09-03",
+      "team": "Los Angeles Lakers",
+      "rank": 3
+    },
+    {
       "player": "James Harden",
       "score": 3.25,
       "mentions_week1": 1,
@@ -40,7 +52,7 @@
       "first_mention": "2026-08-11",
       "last_mention": "2026-09-01",
       "team": "Los Angeles Clippers",
-      "rank": 3
+      "rank": 4
     },
     {
       "player": "Kawhi Leonard",
@@ -52,7 +64,7 @@
       "first_mention": "2026-08-10",
       "last_mention": "2026-09-02",
       "team": "Los Angeles Clippers",
-      "rank": 4
+      "rank": 5
     },
     {
       "player": "Dennis Schroeder",
@@ -64,7 +76,7 @@
       "first_mention": "2026-08-08",
       "last_mention": "2026-08-19",
       "team": "Charlotte Hornets",
-      "rank": 5
+      "rank": 6
     },
     {
       "player": "Josh Green",
@@ -76,18 +88,6 @@
       "first_mention": "2026-08-25",
       "last_mention": "2026-08-29",
       "team": "Minnesota Timberwolves",
-      "rank": 6
-    },
-    {
-      "player": "Luka Doncic",
-      "score": 2.5,
-      "mentions_week1": 1,
-      "mentions_week2": 2,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 5,
-      "first_mention": "2026-08-06",
-      "last_mention": "2026-08-31",
-      "team": "Los Angeles Lakers",
       "rank": 7
     },
     {
@@ -163,6 +163,18 @@
       "rank": 13
     },
     {
+      "player": "Darius Garland",
+      "score": 1.75,
+      "mentions_week1": 1,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 3,
+      "first_mention": "2026-08-13",
+      "last_mention": "2026-09-03",
+      "team": "Cleveland Cavaliers",
+      "rank": 14
+    },
+    {
       "player": "Max Strus",
       "score": 1.5,
       "mentions_week1": 0,
@@ -172,7 +184,7 @@
       "first_mention": "2026-08-12",
       "last_mention": "2026-08-19",
       "team": "Cleveland Cavaliers",
-      "rank": 14
+      "rank": 15
     },
     {
       "player": "Jalen Duren",
@@ -184,7 +196,7 @@
       "first_mention": "2026-08-26",
       "last_mention": "2026-08-29",
       "team": "Detroit Pistons",
-      "rank": 15
+      "rank": 16
     },
     {
       "player": "Nikola Jovic",
@@ -196,7 +208,19 @@
       "first_mention": "2026-08-25",
       "last_mention": "2026-08-27",
       "team": "Boston Celtics",
-      "rank": 16
+      "rank": 17
+    },
+    {
+      "player": "Anthony Edwards",
+      "score": 1.25,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 2,
+      "first_mention": "2026-08-16",
+      "last_mention": "2026-09-03",
+      "team": "Minnesota Timberwolves",
+      "rank": 18
     },
     {
       "player": "De'Aaron Fox",
@@ -208,7 +232,31 @@
       "first_mention": "2026-08-10",
       "last_mention": "2026-08-30",
       "team": "San Antonio Spurs",
-      "rank": 17
+      "rank": 19
+    },
+    {
+      "player": "Domantas Sabonis",
+      "score": 1.25,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 2,
+      "first_mention": "2026-08-16",
+      "last_mention": "2026-09-03",
+      "team": "Sacramento Kings",
+      "rank": 20
+    },
+    {
+      "player": "Ivica Zubac",
+      "score": 1.25,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 2,
+      "first_mention": "2026-08-13",
+      "last_mention": "2026-09-03",
+      "team": "Los Angeles Clippers",
+      "rank": 21
     },
     {
       "player": "Klay Thompson",
@@ -220,7 +268,7 @@
       "first_mention": "2026-08-07",
       "last_mention": "2026-08-17",
       "team": "Dallas Mavericks",
-      "rank": 18
+      "rank": 22
     },
     {
       "player": "PJ Washington",
@@ -232,7 +280,7 @@
       "first_mention": "2026-08-06",
       "last_mention": "2026-08-17",
       "team": "Dallas Mavericks",
-      "rank": 19
+      "rank": 23
     },
     {
       "player": "Nikola Jokic",
@@ -244,7 +292,7 @@
       "first_mention": "2026-08-21",
       "last_mention": "2026-08-22",
       "team": "Denver Nuggets",
-      "rank": 20
+      "rank": 24
     },
     {
       "player": "Anthony Davis",
@@ -256,7 +304,7 @@
       "first_mention": "2026-09-01",
       "last_mention": "2026-09-01",
       "team": "Dallas Mavericks",
-      "rank": 21
+      "rank": 25
     },
     {
       "player": "Cooper Flagg",
@@ -268,7 +316,7 @@
       "first_mention": "2026-08-31",
       "last_mention": "2026-08-31",
       "team": "Dallas Mavericks",
-      "rank": 22
+      "rank": 26
     },
     {
       "player": "Davion Mitchell",
@@ -280,7 +328,7 @@
       "first_mention": "2026-08-27",
       "last_mention": "2026-08-27",
       "team": "Boston Celtics",
-      "rank": 23
+      "rank": 27
     },
     {
       "player": "Derrick White",
@@ -292,7 +340,7 @@
       "first_mention": "2026-09-02",
       "last_mention": "2026-09-02",
       "team": "Boston Celtics",
-      "rank": 24
+      "rank": 28
     },
     {
       "player": "Dru Smith",
@@ -304,7 +352,7 @@
       "first_mention": "2026-08-27",
       "last_mention": "2026-08-27",
       "team": "Boston Celtics",
-      "rank": 25
+      "rank": 29
     },
     {
       "player": "Jaden McDaniels",
@@ -316,7 +364,7 @@
       "first_mention": "2026-08-30",
       "last_mention": "2026-08-30",
       "team": "Minnesota Timberwolves",
-      "rank": 26
+      "rank": 30
     },
     {
       "player": "Jaren Jackson Jr",
@@ -328,7 +376,7 @@
       "first_mention": "2026-09-02",
       "last_mention": "2026-09-02",
       "team": "Golden State Warriors",
-      "rank": 27
+      "rank": 31
     },
     {
       "player": "Jarred Vanderbilt",
@@ -340,7 +388,7 @@
       "first_mention": "2026-08-28",
       "last_mention": "2026-08-28",
       "team": "Los Angeles Lakers",
-      "rank": 28
+      "rank": 32
     },
     {
       "player": "Jarrett Allen",
@@ -352,7 +400,7 @@
       "first_mention": "2026-09-02",
       "last_mention": "2026-09-02",
       "team": "Cleveland Cavaliers",
-      "rank": 29
+      "rank": 33
     },
     {
       "player": "Jayson Tatum",
@@ -364,7 +412,7 @@
       "first_mention": "2026-08-31",
       "last_mention": "2026-08-31",
       "team": "Boston Celtics",
-      "rank": 30
+      "rank": 34
     },
     {
       "player": "Jerami Grant",
@@ -376,7 +424,7 @@
       "first_mention": "2026-09-02",
       "last_mention": "2026-09-02",
       "team": "Atlanta Hawks",
-      "rank": 31
+      "rank": 35
     },
     {
       "player": "Luguentz Dort",
@@ -388,7 +436,7 @@
       "first_mention": "2026-09-01",
       "last_mention": "2026-09-01",
       "team": "Atlanta Hawks",
-      "rank": 32
+      "rank": 36
     },
     {
       "player": "Michael Porter",
@@ -400,7 +448,7 @@
       "first_mention": "2026-09-01",
       "last_mention": "2026-09-01",
       "team": "Brooklyn Nets",
-      "rank": 33
+      "rank": 37
     },
     {
       "player": "Nickeil Alexander-Walker",
@@ -412,7 +460,7 @@
       "first_mention": "2026-09-01",
       "last_mention": "2026-09-01",
       "team": "Atlanta Hawks",
-      "rank": 34
+      "rank": 38
     },
     {
       "player": "Paolo Banchero",
@@ -424,7 +472,7 @@
       "first_mention": "2026-08-28",
       "last_mention": "2026-08-28",
       "team": "Orlando Magic",
-      "rank": 35
+      "rank": 39
     },
     {
       "player": "Taylor Hendricks",
@@ -436,7 +484,7 @@
       "first_mention": "2026-08-28",
       "last_mention": "2026-08-28",
       "team": "Los Angeles Lakers",
-      "rank": 36
+      "rank": 40
     },
     {
       "player": "Terance Mann",
@@ -448,19 +496,7 @@
       "first_mention": "2026-08-28",
       "last_mention": "2026-08-28",
       "team": "Los Angeles Lakers",
-      "rank": 37
-    },
-    {
-      "player": "Darius Garland",
-      "score": 0.75,
-      "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 2,
-      "first_mention": "2026-08-13",
-      "last_mention": "2026-08-20",
-      "team": "Cleveland Cavaliers",
-      "rank": 38
+      "rank": 41
     },
     {
       "player": "Brandon Ingram",
@@ -472,7 +508,7 @@
       "first_mention": "2026-08-10",
       "last_mention": "2026-08-17",
       "team": "Toronto Raptors",
-      "rank": 39
+      "rank": 42
     },
     {
       "player": "Gradey Dick",
@@ -484,7 +520,7 @@
       "first_mention": "2026-08-10",
       "last_mention": "2026-08-17",
       "team": "Toronto Raptors",
-      "rank": 40
+      "rank": 43
     },
     {
       "player": "LaMelo Ball",
@@ -496,7 +532,7 @@
       "first_mention": "2026-08-13",
       "last_mention": "2026-08-16",
       "team": "Charlotte Hornets",
-      "rank": 41
+      "rank": 44
     },
     {
       "player": "Stephen Curry",
@@ -508,7 +544,7 @@
       "first_mention": "2026-08-10",
       "last_mention": "2026-08-13",
       "team": "Golden State Warriors",
-      "rank": 42
+      "rank": 45
     },
     {
       "player": "Tyrese Haliburton",
@@ -520,7 +556,7 @@
       "first_mention": "2026-08-13",
       "last_mention": "2026-08-16",
       "team": "Indiana Pacers",
-      "rank": 43
+      "rank": 46
     },
     {
       "player": "Alex Caruso",
@@ -532,7 +568,7 @@
       "first_mention": "2026-08-25",
       "last_mention": "2026-08-25",
       "team": "Chicago Bulls",
-      "rank": 44
+      "rank": 47
     },
     {
       "player": "Brandon Miller",
@@ -544,7 +580,7 @@
       "first_mention": "2026-08-22",
       "last_mention": "2026-08-22",
       "team": "Charlotte Hornets",
-      "rank": 45
+      "rank": 48
     },
     {
       "player": "Jaden Hardy",
@@ -556,7 +592,7 @@
       "first_mention": "2026-08-21",
       "last_mention": "2026-08-21",
       "team": "Atlanta Hawks",
-      "rank": 46
+      "rank": 49
     },
     {
       "player": "Jimmy Butler",
@@ -568,7 +604,7 @@
       "first_mention": "2026-08-25",
       "last_mention": "2026-08-25",
       "team": "Golden State Warriors",
-      "rank": 47
+      "rank": 50
     },
     {
       "player": "Kon Knueppel",
@@ -580,7 +616,7 @@
       "first_mention": "2026-08-22",
       "last_mention": "2026-08-22",
       "team": "Charlotte Hornets",
-      "rank": 48
+      "rank": 51
     },
     {
       "player": "Patrick Williams",
@@ -592,7 +628,7 @@
       "first_mention": "2026-08-25",
       "last_mention": "2026-08-25",
       "team": "Chicago Bulls",
-      "rank": 49
+      "rank": 52
     },
     {
       "player": "Payton Pritchard",
@@ -604,7 +640,7 @@
       "first_mention": "2026-08-23",
       "last_mention": "2026-08-23",
       "team": "Boston Celtics",
-      "rank": 50
+      "rank": 53
     },
     {
       "player": "Tidjane Salaun",
@@ -616,19 +652,7 @@
       "first_mention": "2026-08-22",
       "last_mention": "2026-08-22",
       "team": "Charlotte Hornets",
-      "rank": 51
-    },
-    {
-      "player": "Anthony Edwards",
-      "score": 0.25,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 1,
-      "first_mention": "2026-08-16",
-      "last_mention": "2026-08-16",
-      "team": "Minnesota Timberwolves",
-      "rank": 52
+      "rank": 54
     },
     {
       "player": "Bobby Portis",
@@ -640,7 +664,7 @@
       "first_mention": "2026-08-11",
       "last_mention": "2026-08-11",
       "team": "Milwaukee Bucks",
-      "rank": 53
+      "rank": 55
     },
     {
       "player": "Collin Murray-Boyles",
@@ -652,7 +676,7 @@
       "first_mention": "2026-08-06",
       "last_mention": "2026-08-06",
       "team": "Memphis Grizzlies",
-      "rank": 54
+      "rank": 56
     },
     {
       "player": "D'Angelo Russell",
@@ -664,19 +688,7 @@
       "first_mention": "2026-08-10",
       "last_mention": "2026-08-10",
       "team": "Dallas Mavericks",
-      "rank": 55
-    },
-    {
-      "player": "Domantas Sabonis",
-      "score": 0.25,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 1,
-      "first_mention": "2026-08-16",
-      "last_mention": "2026-08-16",
-      "team": "Sacramento Kings",
-      "rank": 56
+      "rank": 57
     },
     {
       "player": "Donte DiVincenzo",
@@ -688,7 +700,7 @@
       "first_mention": "2026-08-06",
       "last_mention": "2026-08-06",
       "team": "Minnesota Timberwolves",
-      "rank": 57
+      "rank": 58
     },
     {
       "player": "Isaiah Hartenstein",
@@ -700,18 +712,6 @@
       "first_mention": "2026-08-16",
       "last_mention": "2026-08-16",
       "team": "Oklahoma City Thunder",
-      "rank": 58
-    },
-    {
-      "player": "Ivica Zubac",
-      "score": 0.25,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 1,
-      "first_mention": "2026-08-13",
-      "last_mention": "2026-08-13",
-      "team": "Los Angeles Clippers",
       "rank": 59
     },
     {
@@ -848,6 +848,121 @@
     }
   ],
   "player_rumors": {
+    "Domantas Sabonis": [
+      {
+        "date": "2026-09-03",
+        "text": "NBA Trade Machine:Domantas Sabonis appeared in 4.0% of trades built on HoopsMatic over the past 24 hours. Of his trades, his most common destinations were Minnesota (15.4%), LA Clippers (11.5%), and Indiana (11.5%).The players traded for him most often were Anthony Edwards (13.5%), Darius Garland (9.6%), and Luka Doncic (7.7%).HoopsMatic",
+        "text_html": "NBA Trade Machine: <a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">Domantas Sabonis appeared in 4.0% of trades built on HoopsMatic over the past 24 hours. Of his trades, his most common destinations were Minnesota (15.4%), LA Clippers (11.5%), and Indiana (11.5%).</a> The players traded for him most often were Anthony Edwards (13.5%), Darius Garland (9.6%), and Luka Doncic (7.7%).",
+        "outlet": "HoopsMatic",
+        "source_url": "https://hoopsmatic.com/"
+      },
+      {
+        "date": "2026-08-16",
+        "text": "Tyrese Haliburton: \u2018And then I got another call, and it was like, now it was both of my agents, and they were like, and I was like, who is it? And then Woj on the phone. I don't know how he got like, cause I don't know how he was on the phone. He goes, I think it's Indiana. I'm like, who the [expletive] is Indiana? I'm like, I think it's Indiana.And I'm like, then I'm like, oh, after I process that Woj on the phone, I said, Indiana for who? Cause I didn't even know. And they were like, Sabonis. And I was like, oh, word.\u2019YouTube",
+        "text_html": "Tyrese Haliburton: \u2018And then I got another call, and it was like, now it was both of my agents, and they were like, and I was like, who is it? And then Woj on the phone. I don't know how he got like, cause I don't know how he was on the phone. He goes, I think it's Indiana. I'm like, who the [expletive] is Indiana? I'm like, I think it's Indiana. <a href=\"https://www.youtube.com/watch?v=y1komx7R9X0&t=4091s\" target=\"_blank\" style=\"color: #1a73e8;\">And I'm like, then I'm like, oh, after I process that Woj on the phone, I said, Indiana for who? Cause I didn't even know. And they were like, Sabonis. And I was like, oh, word.\u2019</a>",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=y1komx7R9X0&t=4091s"
+      }
+    ],
+    "Luka Doncic": [
+      {
+        "date": "2026-09-03",
+        "text": "NBA Trade Machine:Domantas Sabonis appeared in 4.0% of trades built on HoopsMatic over the past 24 hours. Of his trades, his most common destinations were Minnesota (15.4%), LA Clippers (11.5%), and Indiana (11.5%).The players traded for him most often were Anthony Edwards (13.5%), Darius Garland (9.6%), and Luka Doncic (7.7%).HoopsMatic",
+        "text_html": "NBA Trade Machine: <a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">Domantas Sabonis appeared in 4.0% of trades built on HoopsMatic over the past 24 hours. Of his trades, his most common destinations were Minnesota (15.4%), LA Clippers (11.5%), and Indiana (11.5%).</a> The players traded for him most often were Anthony Edwards (13.5%), Darius Garland (9.6%), and Luka Doncic (7.7%).",
+        "outlet": "HoopsMatic",
+        "source_url": "https://hoopsmatic.com/"
+      },
+      {
+        "date": "2026-08-31",
+        "text": "Similarly, whatever you think of Cuban\u2019s stewardship of the Mavericks during his tenure, we can all agree he would not have green-lit the trade of Luka Doncic to the Lakers as Patrick Dumont did.It took a Cooper Flagg lottery mulligan to begin to stanch the civic bleed that occurred among Mavericks fans after Don\u010di\u010b\u2019s departure. I will never not believe that the team\u2019s new owners simply decided they weren\u2019t going to pay Don\u010di\u0107 the $350 million extension for which he was eligible and, thus, were quite amenable when\u00a0told\u00a0by then-general manager Nico Harrison that he wanted to move on from the young star.New York Times",
+        "text_html": "<a href=\"https://www.nytimes.com/athletic/7537822/2026/08/31/nba-money-owners-rich-franchise-sale/\" target=\"_blank\" style=\"color: #1a73e8;\">Similarly, whatever you think of Cuban\u2019s stewardship of the Mavericks during his tenure, we can all agree he would not have green-lit the trade of Luka Doncic to the Lakers as Patrick Dumont did.</a> It took a Cooper Flagg lottery mulligan to begin to stanch the civic bleed that occurred among Mavericks fans after Don\u010di\u010b\u2019s departure. I will never not believe that the team\u2019s new owners simply decided they weren\u2019t going to pay Don\u010di\u0107 the $350 million extension for which he was eligible and, thus, were quite amenable when told by then-general manager Nico Harrison that he wanted to move on from the young star.",
+        "outlet": "New York Times",
+        "source_url": "https://www.nytimes.com/athletic/7537822/2026/08/31/nba-money-owners-rich-franchise-sale/"
+      },
+      {
+        "date": "2026-08-21",
+        "text": "Tim McMahon:Just like Joker can profess his loyalty to the Nuggets, there's still going to be teams that are positioned themselves and monitoring that and all that kind of thing.It's the same thing with Luka Doncic. He's done nothing but express optimism and excitement about the Lakers since he signed that extension. But it's not that long-term of an extension, and you better believe there's teams around the league that are looking at that situation and saying, \u2018hey, if this thing goes sideways, we'd sure like to get Luka in the midway through his prime.\u2019 Brian Windhorst: I will say this, and if you're Luka, betting on the brand is pretty safe, which is why the Lakers sold for even more money than they sold for a year ago. And chances are if they sold again in a year, they'd sell for even more because you're betting on the brand.YouTube",
+        "text_html": "Tim McMahon: <a href=\"https://www.youtube.com/watch?v=rnrt-BRelPY&t=3997s\" target=\"_blank\" style=\"color: #1a73e8;\">Just like Joker can profess his loyalty to the Nuggets, there's still going to be teams that are positioned themselves and monitoring that and all that kind of thing.</a> It's the same thing with Luka Doncic. He's done nothing but express optimism and excitement about the Lakers since he signed that extension. But it's not that long-term of an extension, and you better believe there's teams around the league that are looking at that situation and saying, \u2018hey, if this thing goes sideways, we'd sure like to get Luka in the midway through his prime.\u2019 Brian Windhorst: I will say this, and if you're Luka, betting on the brand is pretty safe, which is why the Lakers sold for even more money than they sold for a year ago. And chances are if they sold again in a year, they'd sell for even more because you're betting on the brand.",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=rnrt-BRelPY&t=3997s"
+      },
+      {
+        "date": "2026-08-20",
+        "text": "On Tuesday, it appeared Kuminga had three suitors\u00a0remaining in his free-agent sweepstakes: the Minnesota Timberwolves, Cleveland Cavaliers and the Lakers. And on Wednesday, the Cavaliers seemingly took themselves out of contention by instead\u00a0acquiring Peyton Watson in a three-team trade\u00a0with the Los Angeles Clippers and Denver Nuggets.The Lakers have always been the most logical fit for Kuminga, but the two parties haven\u2019t been able to reach an agreement all summer long. The Lakers initially offered the forward a deal for around $10 million annually under the framing that he\u2019d be starting alongside Luka Doncic in Hollywood. But Kuminga and his camp wanted double that amount, which has since created an ongoing stalemate between the 23-year-old and the Lakers. Another possible outcome is a sign-and-trade with the Atlanta Hawks to bring Kuminga to LA.New York Post",
+        "text_html": "On Tuesday, it appeared Kuminga had three suitors remaining in his free-agent sweepstakes: the Minnesota Timberwolves, Cleveland Cavaliers and the Lakers. And on Wednesday, the Cavaliers seemingly took themselves out of contention by instead acquiring Peyton Watson in a three-team trade with the Los Angeles Clippers and Denver Nuggets. <a href=\"https://nypost.com/2026/08/19/sports/jonathan-kuminga-joining-lakers-gains-traction-after-peyton-watson-trade/\" target=\"_blank\" style=\"color: #1a73e8;\">The Lakers have always been the most logical fit for Kuminga, but the two parties haven\u2019t been able to reach an agreement all summer long. The Lakers initially offered the forward a deal for around $10 million annually under the framing that he\u2019d be starting alongside Luka Doncic in Hollywood</a>. But Kuminga and his camp wanted double that amount, which has since created an ongoing stalemate between the 23-year-old and the Lakers. Another possible outcome is a sign-and-trade with the Atlanta Hawks to bring Kuminga to LA.",
+        "outlet": "New York Post",
+        "source_url": "https://nypost.com/2026/08/19/sports/jonathan-kuminga-joining-lakers-gains-traction-after-peyton-watson-trade/"
+      },
+      {
+        "date": "2026-08-06",
+        "text": "The\u00a0Lakers\u2019\u00a0interest\u00a0in PJ Washington\u00a0of the Mavericks is a good example. LA has a need for Washington, who was a teammate of Luka Doncic during the Mavericks\u2019 2024 run to the NBA Finals.And Doncic, we\u2019re\u00a0told, would be in favor of a Washington reunion.But Washington signed a four-year, $89 million extension last September, which\u00a0starts with a $20 million cap\u00a0hit for this season.Heavy.com",
+        "text_html": "The Lakers\u2019 interest in PJ Washington of the Mavericks is a good example. LA has a need for Washington, who was a teammate of Luka Doncic during the Mavericks\u2019 2024 run to the NBA Finals. <a href=\"https://heavy.com/sports/nba/los-angeles-lakers/nba-trade-rumors-trouble-with-lakers-target-mavericks-moves-more/\" target=\"_blank\" style=\"color: #1a73e8;\">And Doncic, we\u2019re told, would be in favor of a Washington reunion.</a> But Washington signed a four-year, $89 million extension last September, which starts with a $20 million cap hit for this season.",
+        "outlet": "Heavy.com",
+        "source_url": "https://heavy.com/sports/nba/los-angeles-lakers/nba-trade-rumors-trouble-with-lakers-target-mavericks-moves-more/"
+      },
+      {
+        "date": "2026-08-06",
+        "text": "But the extension is just as big an issue for the Lakers, says one Western Conference\u00a0executive:\u201cThey don\u2019t want that\u00a0contract. The Mavericks bought a little high on him (in 2025) and he wasn\u2019t as good last year. And you\u2019re\u00a0committing to paying him $22 million, $24 million\u00a0down the road.\u201dHeavy.com",
+        "text_html": "But the extension is just as big an issue for the Lakers, says one Western Conference executive: <a href=\"https://heavy.com/sports/nba/los-angeles-lakers/nba-trade-rumors-trouble-with-lakers-target-mavericks-moves-more/\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cThey don\u2019t want that contract. The Mavericks bought a little high on him (in 2025) and he wasn\u2019t as good last year. And you\u2019re committing to paying him $22 million, $24 million down the road.\u201d</a>",
+        "outlet": "Heavy.com",
+        "source_url": "https://heavy.com/sports/nba/los-angeles-lakers/nba-trade-rumors-trouble-with-lakers-target-mavericks-moves-more/"
+      }
+    ],
+    "Darius Garland": [
+      {
+        "date": "2026-09-03",
+        "text": "NBA Trade Machine:Domantas Sabonis appeared in 4.0% of trades built on HoopsMatic over the past 24 hours. Of his trades, his most common destinations were Minnesota (15.4%), LA Clippers (11.5%), and Indiana (11.5%).The players traded for him most often were Anthony Edwards (13.5%), Darius Garland (9.6%), and Luka Doncic (7.7%).HoopsMatic",
+        "text_html": "NBA Trade Machine: <a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">Domantas Sabonis appeared in 4.0% of trades built on HoopsMatic over the past 24 hours. Of his trades, his most common destinations were Minnesota (15.4%), LA Clippers (11.5%), and Indiana (11.5%).</a> The players traded for him most often were Anthony Edwards (13.5%), Darius Garland (9.6%), and Luka Doncic (7.7%).",
+        "outlet": "HoopsMatic",
+        "source_url": "https://hoopsmatic.com/"
+      },
+      {
+        "date": "2026-08-20",
+        "text": "What was it like getting traded midseason? Was the transition hard? Darius Garland: The trade was actually pretty easy for me, bro, to be honest with you. Which was crazy; we were already in LA, we had a road trip to LA already, so the transition wasn't too hard, to be honest with you. Mentally, it wasn't a shock, but it was still like a shock. I've been here for seven, seven and a half years, and now just to up and pack my bags like that, it was just like, dang. But it's part of the business. I understand the business side of it.So once I got to LA, I was pretty happy. Got to be in a new city, like a real new revamp. So it was cool. Easy transition, though. Super excited to be there. I was pretty happy. I was coming to a new opportunity just to take on a new challenge. So I was excited about that.HoopsHype",
+        "text_html": "What was it like getting traded midseason? Was the transition hard? Darius Garland: The trade was actually pretty easy for me, bro, to be honest with you. Which was crazy; we were already in LA, we had a road trip to LA already, so the transition wasn't too hard, to be honest with you. Mentally, it wasn't a shock, but it was still like a shock. I've been here for seven, seven and a half years, and now just to up and pack my bags like that, it was just like, dang. But it's part of the business. I understand the business side of it. <a href=\"https://www.hoopshype.com/story/sports/nba/clippers/2026/08/20/darius-garland-qa-clippers-toe-injury-new-balance-and-fresh-start/91368132007/\" target=\"_blank\" style=\"color: #1a73e8;\">So once I got to LA, I was pretty happy. Got to be in a new city, like a real new revamp. So it was cool. Easy transition, though. Super excited to be there. I was pretty happy. I was coming to a new opportunity just to take on a new challenge. So I was excited about that</a>.",
+        "outlet": "HoopsHype",
+        "source_url": "https://www.hoopshype.com/story/sports/nba/clippers/2026/08/20/darius-garland-qa-clippers-toe-injury-new-balance-and-fresh-start/91368132007/"
+      },
+      {
+        "date": "2026-08-13",
+        "text": "This season, Cleveland will have 16 sets of back-to-backs, a trio of four-game homestands, a lengthy six-game road trip (March 9-18), four holiday games (Halloween, Veterans Day, New Year\u2019s Eve and MLK Day) and five matinees.James comes to Cleveland with the Sixers twice (Nov. 6 and March 1) this season. The Cavs pursued him in free agency this summer, hoping for a third stint with the franchise that drafted him No. 1 overall in 2003.Former Cavalier Darius Garland will return to Cleveland for the first time since being traded for James Harden last February, with that visit scheduled for Dec. 31. The Western Conference Champion San Antonio Spurs visit for the only time on Dec. 15.Cleveland Plain Dealer",
+        "text_html": "This season, Cleveland will have 16 sets of back-to-backs, a trio of four-game homestands, a lengthy six-game road trip (March 9-18), four holiday games (Halloween, Veterans Day, New Year\u2019s Eve and MLK Day) and five matinees. <a href=\"https://www.cleveland.com/cavs/2026/08/cavs-2026-27-schedule-highlights-17-national-tv-games-home-opener-date-and-darius-garlands-return.html\" target=\"_blank\" style=\"color: #1a73e8;\">James comes to Cleveland with the Sixers twice (Nov. 6 and March 1) this season. The Cavs pursued him in free agency this summer, hoping for a third stint with the franchise that drafted him No. 1 overall in 2003.</a> Former Cavalier Darius Garland will return to Cleveland for the first time since being traded for James Harden last February, with that visit scheduled for Dec. 31. The Western Conference Champion San Antonio Spurs visit for the only time on Dec. 15.",
+        "outlet": "Cleveland Plain Dealer",
+        "source_url": "https://www.cleveland.com/cavs/2026/08/cavs-2026-27-schedule-highlights-17-national-tv-games-home-opener-date-and-darius-garlands-return.html"
+      }
+    ],
+    "Anthony Edwards": [
+      {
+        "date": "2026-09-03",
+        "text": "NBA Trade Machine:Domantas Sabonis appeared in 4.0% of trades built on HoopsMatic over the past 24 hours. Of his trades, his most common destinations were Minnesota (15.4%), LA Clippers (11.5%), and Indiana (11.5%).The players traded for him most often were Anthony Edwards (13.5%), Darius Garland (9.6%), and Luka Doncic (7.7%).HoopsMatic",
+        "text_html": "NBA Trade Machine: <a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">Domantas Sabonis appeared in 4.0% of trades built on HoopsMatic over the past 24 hours. Of his trades, his most common destinations were Minnesota (15.4%), LA Clippers (11.5%), and Indiana (11.5%).</a> The players traded for him most often were Anthony Edwards (13.5%), Darius Garland (9.6%), and Luka Doncic (7.7%).",
+        "outlet": "HoopsMatic",
+        "source_url": "https://hoopsmatic.com/"
+      },
+      {
+        "date": "2026-08-16",
+        "text": "Now, Minnesota is retooling. The Timberwolves pulled off a blockbuster trade Ball\u00a0last month, pairing him with Edwards to form a new-look backcourt. For Anthony Edwards, the move could finally give Minnesota enough firepower to get past the teams that have stood in its way.\"Against those two teams, I think we're going to beat them,\" Edwards\u00a0told\u00a0ESPN about the Timberwolves' chances against the Thunder and Spurs during his visit to Manila.ESPN",
+        "text_html": "Now, Minnesota is retooling. The Timberwolves pulled off a blockbuster trade Ball last month, pairing him with Edwards to form a new-look backcourt. For Anthony Edwards, the move could finally give Minnesota enough firepower to get past the teams that have stood in its way. <a href=\"https://www.espn.ph/nba/story/_/id/49617117/anthony-edwards-backs-minnesota-timberwolves-beat-oklahoma-city-thunder-san-antonio-spurs\" target=\"_blank\" style=\"color: #1a73e8;\">\"Against those two teams, I think we're going to beat them,\" Edwards told ESPN about the Timberwolves' chances against the Thunder and Spurs during his visit to Manila</a>.",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.ph/nba/story/_/id/49617117/anthony-edwards-backs-minnesota-timberwolves-beat-oklahoma-city-thunder-san-antonio-spurs"
+      }
+    ],
+    "Ivica Zubac": [
+      {
+        "date": "2026-09-03",
+        "text": "Tomer Azarly:Saw some confusion about this, but I can confirm per a league source that the LA Clippers will be losing the 2029 first round pick they received from the Indiana Pacers in the Ivica Zubac trade. Believe @ZachLowe_NBA was first to report that.x.com",
+        "text_html": "Tomer Azarly: <a href=\"https://x.com/TomerAzarly/status/2095342009561264482\" target=\"_blank\" style=\"color: #1a73e8;\">Saw some confusion about this, but I can confirm per a league source that the LA Clippers will be losing the 2029 first round pick they received from the Indiana Pacers in the Ivica Zubac trade</a>. Believe @ZachLowe_NBA was first to report that.",
+        "outlet": "x.com",
+        "source_url": "https://x.com/TomerAzarly/status/2095342009561264482"
+      },
+      {
+        "date": "2026-08-13",
+        "text": "Haliburton has said repeatedly that he's pleased with the addition of center Ivica Zubac from a February trade. Zubac played in just five games for the Pacers between an ankle injury and a season-ending fractured rib so he didn't get to play with Siakam let alone Haliburton. Haliburton said they still haven't had a chance to work together.\"I have had zero court time with Zu,\" Haliburton said. \"But I don't think that's a concern. I really don't. He'll get back out here after playing with his country in September-ish. That's typically when we all come in. I really don't have a concern because he's very smart.... There is going to be a transition period for me because the last time I played it was with a guy who really spaced the floor at the 5. But I've never played with a screen setter like this. I've never played with a roller like this. I'm really looking forward to it.\"Indianapolis Star",
+        "text_html": "Haliburton has said repeatedly that he's pleased with the addition of center Ivica Zubac from a February trade. Zubac played in just five games for the Pacers between an ankle injury and a season-ending fractured rib so he didn't get to play with Siakam let alone Haliburton. Haliburton said they still haven't had a chance to work together. <a href=\"https://www.indystar.com/story/sports/nba/pacers/2026/08/12/tyrese-haliburton-says-hed-be-ready-if-season-started-today/91278193007/\" target=\"_blank\" style=\"color: #1a73e8;\">\"I have had zero court time with Zu,\" Haliburton said. \"But I don't think that's a concern. I really don't. He'll get back out here after playing with his country in September-ish. That's typically when we all come in. I really don't have a concern because he's very smart.</a> ... There is going to be a transition period for me because the last time I played it was with a guy who really spaced the floor at the 5. But I've never played with a screen setter like this. I've never played with a roller like this. I'm really looking forward to it.\"",
+        "outlet": "Indianapolis Star",
+        "source_url": "https://www.indystar.com/story/sports/nba/pacers/2026/08/12/tyrese-haliburton-says-hed-be-ready-if-season-started-today/91278193007/"
+      }
+    ],
     "Kawhi Leonard": [
       {
         "date": "2026-09-02",
@@ -1089,43 +1204,6 @@
         "text_html": "Michael Porter Jr., Nets. Porter is in an odd spot because he needs an extension as he heads into the final year of his contract, at $40 million. He showed All-Star ability when given more free reign last year, but that was on a bad Nets team. Brooklyn should be better this year, and Porter will need to show he can keep putting up star numbers on a team that is trying. But if an extension does not get done \u2026 what then? <a href=\"https://heavy.com/sports/nba/golden-state-warriors/nba-trade-rumors-deal-cost-for-kyrie-irving-trey-murphy-more/\" target=\"_blank\" style=\"color: #1a73e8;\">Eastern Conference executive: \u201cI think what he did last year is legit and teams are going to see it that way. But the problem you have is if you trade for him, are you going to extend him and what is the number? The Nuggets overpaid him when they gave him that extension, and if he wants to be paid based on that, that is not going to be an easy sell.</a> If he can accept getting into a salary slot that makes more sense for him, you can make that trade. It\u2019s an expiring deal but the Nets would get a first-round pick for him still.\u201d",
         "outlet": "Heavy.com",
         "source_url": "https://heavy.com/sports/nba/golden-state-warriors/nba-trade-rumors-deal-cost-for-kyrie-irving-trey-murphy-more/"
-      }
-    ],
-    "Luka Doncic": [
-      {
-        "date": "2026-08-31",
-        "text": "Similarly, whatever you think of Cuban\u2019s stewardship of the Mavericks during his tenure, we can all agree he would not have green-lit the trade of Luka Doncic to the Lakers as Patrick Dumont did.It took a Cooper Flagg lottery mulligan to begin to stanch the civic bleed that occurred among Mavericks fans after Don\u010di\u010b\u2019s departure. I will never not believe that the team\u2019s new owners simply decided they weren\u2019t going to pay Don\u010di\u0107 the $350 million extension for which he was eligible and, thus, were quite amenable when\u00a0told\u00a0by then-general manager Nico Harrison that he wanted to move on from the young star.New York Times",
-        "text_html": "<a href=\"https://www.nytimes.com/athletic/7537822/2026/08/31/nba-money-owners-rich-franchise-sale/\" target=\"_blank\" style=\"color: #1a73e8;\">Similarly, whatever you think of Cuban\u2019s stewardship of the Mavericks during his tenure, we can all agree he would not have green-lit the trade of Luka Doncic to the Lakers as Patrick Dumont did.</a> It took a Cooper Flagg lottery mulligan to begin to stanch the civic bleed that occurred among Mavericks fans after Don\u010di\u010b\u2019s departure. I will never not believe that the team\u2019s new owners simply decided they weren\u2019t going to pay Don\u010di\u0107 the $350 million extension for which he was eligible and, thus, were quite amenable when told by then-general manager Nico Harrison that he wanted to move on from the young star.",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/7537822/2026/08/31/nba-money-owners-rich-franchise-sale/"
-      },
-      {
-        "date": "2026-08-21",
-        "text": "Tim McMahon:Just like Joker can profess his loyalty to the Nuggets, there's still going to be teams that are positioned themselves and monitoring that and all that kind of thing.It's the same thing with Luka Doncic. He's done nothing but express optimism and excitement about the Lakers since he signed that extension. But it's not that long-term of an extension, and you better believe there's teams around the league that are looking at that situation and saying, \u2018hey, if this thing goes sideways, we'd sure like to get Luka in the midway through his prime.\u2019 Brian Windhorst: I will say this, and if you're Luka, betting on the brand is pretty safe, which is why the Lakers sold for even more money than they sold for a year ago. And chances are if they sold again in a year, they'd sell for even more because you're betting on the brand.YouTube",
-        "text_html": "Tim McMahon: <a href=\"https://www.youtube.com/watch?v=rnrt-BRelPY&t=3997s\" target=\"_blank\" style=\"color: #1a73e8;\">Just like Joker can profess his loyalty to the Nuggets, there's still going to be teams that are positioned themselves and monitoring that and all that kind of thing.</a> It's the same thing with Luka Doncic. He's done nothing but express optimism and excitement about the Lakers since he signed that extension. But it's not that long-term of an extension, and you better believe there's teams around the league that are looking at that situation and saying, \u2018hey, if this thing goes sideways, we'd sure like to get Luka in the midway through his prime.\u2019 Brian Windhorst: I will say this, and if you're Luka, betting on the brand is pretty safe, which is why the Lakers sold for even more money than they sold for a year ago. And chances are if they sold again in a year, they'd sell for even more because you're betting on the brand.",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=rnrt-BRelPY&t=3997s"
-      },
-      {
-        "date": "2026-08-20",
-        "text": "On Tuesday, it appeared Kuminga had three suitors\u00a0remaining in his free-agent sweepstakes: the Minnesota Timberwolves, Cleveland Cavaliers and the Lakers. And on Wednesday, the Cavaliers seemingly took themselves out of contention by instead\u00a0acquiring Peyton Watson in a three-team trade\u00a0with the Los Angeles Clippers and Denver Nuggets.The Lakers have always been the most logical fit for Kuminga, but the two parties haven\u2019t been able to reach an agreement all summer long. The Lakers initially offered the forward a deal for around $10 million annually under the framing that he\u2019d be starting alongside Luka Doncic in Hollywood. But Kuminga and his camp wanted double that amount, which has since created an ongoing stalemate between the 23-year-old and the Lakers. Another possible outcome is a sign-and-trade with the Atlanta Hawks to bring Kuminga to LA.New York Post",
-        "text_html": "On Tuesday, it appeared Kuminga had three suitors remaining in his free-agent sweepstakes: the Minnesota Timberwolves, Cleveland Cavaliers and the Lakers. And on Wednesday, the Cavaliers seemingly took themselves out of contention by instead acquiring Peyton Watson in a three-team trade with the Los Angeles Clippers and Denver Nuggets. <a href=\"https://nypost.com/2026/08/19/sports/jonathan-kuminga-joining-lakers-gains-traction-after-peyton-watson-trade/\" target=\"_blank\" style=\"color: #1a73e8;\">The Lakers have always been the most logical fit for Kuminga, but the two parties haven\u2019t been able to reach an agreement all summer long. The Lakers initially offered the forward a deal for around $10 million annually under the framing that he\u2019d be starting alongside Luka Doncic in Hollywood</a>. But Kuminga and his camp wanted double that amount, which has since created an ongoing stalemate between the 23-year-old and the Lakers. Another possible outcome is a sign-and-trade with the Atlanta Hawks to bring Kuminga to LA.",
-        "outlet": "New York Post",
-        "source_url": "https://nypost.com/2026/08/19/sports/jonathan-kuminga-joining-lakers-gains-traction-after-peyton-watson-trade/"
-      },
-      {
-        "date": "2026-08-06",
-        "text": "The\u00a0Lakers\u2019\u00a0interest\u00a0in PJ Washington\u00a0of the Mavericks is a good example. LA has a need for Washington, who was a teammate of Luka Doncic during the Mavericks\u2019 2024 run to the NBA Finals.And Doncic, we\u2019re\u00a0told, would be in favor of a Washington reunion.But Washington signed a four-year, $89 million extension last September, which\u00a0starts with a $20 million cap\u00a0hit for this season.Heavy.com",
-        "text_html": "The Lakers\u2019 interest in PJ Washington of the Mavericks is a good example. LA has a need for Washington, who was a teammate of Luka Doncic during the Mavericks\u2019 2024 run to the NBA Finals. <a href=\"https://heavy.com/sports/nba/los-angeles-lakers/nba-trade-rumors-trouble-with-lakers-target-mavericks-moves-more/\" target=\"_blank\" style=\"color: #1a73e8;\">And Doncic, we\u2019re told, would be in favor of a Washington reunion.</a> But Washington signed a four-year, $89 million extension last September, which starts with a $20 million cap hit for this season.",
-        "outlet": "Heavy.com",
-        "source_url": "https://heavy.com/sports/nba/los-angeles-lakers/nba-trade-rumors-trouble-with-lakers-target-mavericks-moves-more/"
-      },
-      {
-        "date": "2026-08-06",
-        "text": "But the extension is just as big an issue for the Lakers, says one Western Conference\u00a0executive:\u201cThey don\u2019t want that\u00a0contract. The Mavericks bought a little high on him (in 2025) and he wasn\u2019t as good last year. And you\u2019re\u00a0committing to paying him $22 million, $24 million\u00a0down the road.\u201dHeavy.com",
-        "text_html": "But the extension is just as big an issue for the Lakers, says one Western Conference executive: <a href=\"https://heavy.com/sports/nba/los-angeles-lakers/nba-trade-rumors-trouble-with-lakers-target-mavericks-moves-more/\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cThey don\u2019t want that contract. The Mavericks bought a little high on him (in 2025) and he wasn\u2019t as good last year. And you\u2019re committing to paying him $22 million, $24 million down the road.\u201d</a>",
-        "outlet": "Heavy.com",
-        "source_url": "https://heavy.com/sports/nba/los-angeles-lakers/nba-trade-rumors-trouble-with-lakers-target-mavericks-moves-more/"
       }
     ],
     "Cooper Flagg": [
@@ -1677,22 +1755,6 @@
         "source_url": "https://www.youtube.com/watch?v=rnrt-BRelPY&t=1926s"
       }
     ],
-    "Darius Garland": [
-      {
-        "date": "2026-08-20",
-        "text": "What was it like getting traded midseason? Was the transition hard? Darius Garland: The trade was actually pretty easy for me, bro, to be honest with you. Which was crazy; we were already in LA, we had a road trip to LA already, so the transition wasn't too hard, to be honest with you. Mentally, it wasn't a shock, but it was still like a shock. I've been here for seven, seven and a half years, and now just to up and pack my bags like that, it was just like, dang. But it's part of the business. I understand the business side of it.So once I got to LA, I was pretty happy. Got to be in a new city, like a real new revamp. So it was cool. Easy transition, though. Super excited to be there. I was pretty happy. I was coming to a new opportunity just to take on a new challenge. So I was excited about that.HoopsHype",
-        "text_html": "What was it like getting traded midseason? Was the transition hard? Darius Garland: The trade was actually pretty easy for me, bro, to be honest with you. Which was crazy; we were already in LA, we had a road trip to LA already, so the transition wasn't too hard, to be honest with you. Mentally, it wasn't a shock, but it was still like a shock. I've been here for seven, seven and a half years, and now just to up and pack my bags like that, it was just like, dang. But it's part of the business. I understand the business side of it. <a href=\"https://www.hoopshype.com/story/sports/nba/clippers/2026/08/20/darius-garland-qa-clippers-toe-injury-new-balance-and-fresh-start/91368132007/\" target=\"_blank\" style=\"color: #1a73e8;\">So once I got to LA, I was pretty happy. Got to be in a new city, like a real new revamp. So it was cool. Easy transition, though. Super excited to be there. I was pretty happy. I was coming to a new opportunity just to take on a new challenge. So I was excited about that</a>.",
-        "outlet": "HoopsHype",
-        "source_url": "https://www.hoopshype.com/story/sports/nba/clippers/2026/08/20/darius-garland-qa-clippers-toe-injury-new-balance-and-fresh-start/91368132007/"
-      },
-      {
-        "date": "2026-08-13",
-        "text": "This season, Cleveland will have 16 sets of back-to-backs, a trio of four-game homestands, a lengthy six-game road trip (March 9-18), four holiday games (Halloween, Veterans Day, New Year\u2019s Eve and MLK Day) and five matinees.James comes to Cleveland with the Sixers twice (Nov. 6 and March 1) this season. The Cavs pursued him in free agency this summer, hoping for a third stint with the franchise that drafted him No. 1 overall in 2003.Former Cavalier Darius Garland will return to Cleveland for the first time since being traded for James Harden last February, with that visit scheduled for Dec. 31. The Western Conference Champion San Antonio Spurs visit for the only time on Dec. 15.Cleveland Plain Dealer",
-        "text_html": "This season, Cleveland will have 16 sets of back-to-backs, a trio of four-game homestands, a lengthy six-game road trip (March 9-18), four holiday games (Halloween, Veterans Day, New Year\u2019s Eve and MLK Day) and five matinees. <a href=\"https://www.cleveland.com/cavs/2026/08/cavs-2026-27-schedule-highlights-17-national-tv-games-home-opener-date-and-darius-garlands-return.html\" target=\"_blank\" style=\"color: #1a73e8;\">James comes to Cleveland with the Sixers twice (Nov. 6 and March 1) this season. The Cavs pursued him in free agency this summer, hoping for a third stint with the franchise that drafted him No. 1 overall in 2003.</a> Former Cavalier Darius Garland will return to Cleveland for the first time since being traded for James Harden last February, with that visit scheduled for Dec. 31. The Western Conference Champion San Antonio Spurs visit for the only time on Dec. 15.",
-        "outlet": "Cleveland Plain Dealer",
-        "source_url": "https://www.cleveland.com/cavs/2026/08/cavs-2026-27-schedule-highlights-17-national-tv-games-home-opener-date-and-darius-garlands-return.html"
-      }
-    ],
     "Tre Mann": [
       {
         "date": "2026-08-19",
@@ -2027,15 +2089,6 @@
         "source_url": "https://www.basketball-world.news/artikel/hartenstein-ueber-dbb-comeback-viele-in-deutschland-sehen-das-vielleicht-anders-1240831"
       }
     ],
-    "Domantas Sabonis": [
-      {
-        "date": "2026-08-16",
-        "text": "Tyrese Haliburton: \u2018And then I got another call, and it was like, now it was both of my agents, and they were like, and I was like, who is it? And then Woj on the phone. I don't know how he got like, cause I don't know how he was on the phone. He goes, I think it's Indiana. I'm like, who the [expletive] is Indiana? I'm like, I think it's Indiana.And I'm like, then I'm like, oh, after I process that Woj on the phone, I said, Indiana for who? Cause I didn't even know. And they were like, Sabonis. And I was like, oh, word.\u2019YouTube",
-        "text_html": "Tyrese Haliburton: \u2018And then I got another call, and it was like, now it was both of my agents, and they were like, and I was like, who is it? And then Woj on the phone. I don't know how he got like, cause I don't know how he was on the phone. He goes, I think it's Indiana. I'm like, who the [expletive] is Indiana? I'm like, I think it's Indiana. <a href=\"https://www.youtube.com/watch?v=y1komx7R9X0&t=4091s\" target=\"_blank\" style=\"color: #1a73e8;\">And I'm like, then I'm like, oh, after I process that Woj on the phone, I said, Indiana for who? Cause I didn't even know. And they were like, Sabonis. And I was like, oh, word.\u2019</a>",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=y1komx7R9X0&t=4091s"
-      }
-    ],
     "Tyrese Haliburton": [
       {
         "date": "2026-08-16",
@@ -2068,15 +2121,6 @@
         "source_url": "https://www.espn.com/nba/story/_/id/49602964/nba-2026-27-schedule-highlighted-january-reunions"
       }
     ],
-    "Anthony Edwards": [
-      {
-        "date": "2026-08-16",
-        "text": "Now, Minnesota is retooling. The Timberwolves pulled off a blockbuster trade Ball\u00a0last month, pairing him with Edwards to form a new-look backcourt. For Anthony Edwards, the move could finally give Minnesota enough firepower to get past the teams that have stood in its way.\"Against those two teams, I think we're going to beat them,\" Edwards\u00a0told\u00a0ESPN about the Timberwolves' chances against the Thunder and Spurs during his visit to Manila.ESPN",
-        "text_html": "Now, Minnesota is retooling. The Timberwolves pulled off a blockbuster trade Ball last month, pairing him with Edwards to form a new-look backcourt. For Anthony Edwards, the move could finally give Minnesota enough firepower to get past the teams that have stood in its way. <a href=\"https://www.espn.ph/nba/story/_/id/49617117/anthony-edwards-backs-minnesota-timberwolves-beat-oklahoma-city-thunder-san-antonio-spurs\" target=\"_blank\" style=\"color: #1a73e8;\">\"Against those two teams, I think we're going to beat them,\" Edwards told ESPN about the Timberwolves' chances against the Thunder and Spurs during his visit to Manila</a>.",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.ph/nba/story/_/id/49617117/anthony-edwards-backs-minnesota-timberwolves-beat-oklahoma-city-thunder-san-antonio-spurs"
-      }
-    ],
     "LeBron James": [
       {
         "date": "2026-08-13",
@@ -2084,15 +2128,6 @@
         "text_html": "This season, Cleveland will have 16 sets of back-to-backs, a trio of four-game homestands, a lengthy six-game road trip (March 9-18), four holiday games (Halloween, Veterans Day, New Year\u2019s Eve and MLK Day) and five matinees. <a href=\"https://www.cleveland.com/cavs/2026/08/cavs-2026-27-schedule-highlights-17-national-tv-games-home-opener-date-and-darius-garlands-return.html\" target=\"_blank\" style=\"color: #1a73e8;\">James comes to Cleveland with the Sixers twice (Nov. 6 and March 1) this season. The Cavs pursued him in free agency this summer, hoping for a third stint with the franchise that drafted him No. 1 overall in 2003.</a> Former Cavalier Darius Garland will return to Cleveland for the first time since being traded for James Harden last February, with that visit scheduled for Dec. 31. The Western Conference Champion San Antonio Spurs visit for the only time on Dec. 15.",
         "outlet": "Cleveland Plain Dealer",
         "source_url": "https://www.cleveland.com/cavs/2026/08/cavs-2026-27-schedule-highlights-17-national-tv-games-home-opener-date-and-darius-garlands-return.html"
-      }
-    ],
-    "Ivica Zubac": [
-      {
-        "date": "2026-08-13",
-        "text": "Haliburton has said repeatedly that he's pleased with the addition of center Ivica Zubac from a February trade. Zubac played in just five games for the Pacers between an ankle injury and a season-ending fractured rib so he didn't get to play with Siakam let alone Haliburton. Haliburton said they still haven't had a chance to work together.\"I have had zero court time with Zu,\" Haliburton said. \"But I don't think that's a concern. I really don't. He'll get back out here after playing with his country in September-ish. That's typically when we all come in. I really don't have a concern because he's very smart.... There is going to be a transition period for me because the last time I played it was with a guy who really spaced the floor at the 5. But I've never played with a screen setter like this. I've never played with a roller like this. I'm really looking forward to it.\"Indianapolis Star",
-        "text_html": "Haliburton has said repeatedly that he's pleased with the addition of center Ivica Zubac from a February trade. Zubac played in just five games for the Pacers between an ankle injury and a season-ending fractured rib so he didn't get to play with Siakam let alone Haliburton. Haliburton said they still haven't had a chance to work together. <a href=\"https://www.indystar.com/story/sports/nba/pacers/2026/08/12/tyrese-haliburton-says-hed-be-ready-if-season-started-today/91278193007/\" target=\"_blank\" style=\"color: #1a73e8;\">\"I have had zero court time with Zu,\" Haliburton said. \"But I don't think that's a concern. I really don't. He'll get back out here after playing with his country in September-ish. That's typically when we all come in. I really don't have a concern because he's very smart.</a> ... There is going to be a transition period for me because the last time I played it was with a guy who really spaced the floor at the 5. But I've never played with a screen setter like this. I've never played with a roller like this. I'm really looking forward to it.\"",
-        "outlet": "Indianapolis Star",
-        "source_url": "https://www.indystar.com/story/sports/nba/pacers/2026/08/12/tyrese-haliburton-says-hed-be-ready-if-season-started-today/91278193007/"
       }
     ],
     "Stephen Curry": [
@@ -2194,6 +2229,30 @@
     ]
   },
   "daily_counts": {
+    "Domantas Sabonis": {
+      "2026-09-03": 1,
+      "2026-08-16": 1
+    },
+    "Luka Doncic": {
+      "2026-09-03": 1,
+      "2026-08-31": 1,
+      "2026-08-21": 1,
+      "2026-08-20": 1,
+      "2026-08-06": 2
+    },
+    "Darius Garland": {
+      "2026-09-03": 1,
+      "2026-08-20": 1,
+      "2026-08-13": 1
+    },
+    "Anthony Edwards": {
+      "2026-09-03": 1,
+      "2026-08-16": 1
+    },
+    "Ivica Zubac": {
+      "2026-09-03": 1,
+      "2026-08-13": 1
+    },
     "Kawhi Leonard": {
       "2026-09-02": 1,
       "2026-08-28": 1,
@@ -2246,12 +2305,6 @@
     },
     "Michael Porter": {
       "2026-09-01": 1
-    },
-    "Luka Doncic": {
-      "2026-08-31": 1,
-      "2026-08-21": 1,
-      "2026-08-20": 1,
-      "2026-08-06": 2
     },
     "Cooper Flagg": {
       "2026-08-31": 1
@@ -2358,10 +2411,6 @@
     "Jaden Hardy": {
       "2026-08-21": 1
     },
-    "Darius Garland": {
-      "2026-08-20": 1,
-      "2026-08-13": 1
-    },
     "Tre Mann": {
       "2026-08-19": 3,
       "2026-08-14": 5
@@ -2412,9 +2461,6 @@
     "Isaiah Hartenstein": {
       "2026-08-16": 1
     },
-    "Domantas Sabonis": {
-      "2026-08-16": 1
-    },
     "Tyrese Haliburton": {
       "2026-08-16": 1,
       "2026-08-13": 1
@@ -2423,13 +2469,7 @@
       "2026-08-16": 1,
       "2026-08-13": 1
     },
-    "Anthony Edwards": {
-      "2026-08-16": 1
-    },
     "LeBron James": {
-      "2026-08-13": 1
-    },
-    "Ivica Zubac": {
       "2026-08-13": 1
     },
     "Stephen Curry": {
