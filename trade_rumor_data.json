@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-10T21:25:55.627888",
+  "generated_at": "2026-09-11T05:38:05.436444",
   "scrape_window_days": 28,
-  "window_start": "2026-08-13",
-  "window_end": "2026-09-10",
-  "total_rumors": 190,
+  "window_start": "2026-08-14",
+  "window_end": "2026-09-11",
+  "total_rumors": 183,
   "total_players": 77,
   "rankings": [
     {
@@ -80,21 +80,21 @@
     },
     {
       "player": "James Harden",
-      "score": 3.25,
+      "score": 2.75,
       "mentions_week1": 1,
       "mentions_week2": 1,
-      "mentions_weeks3_4": 7,
-      "total_mentions": 9,
-      "first_mention": "2026-08-13",
+      "mentions_weeks3_4": 5,
+      "total_mentions": 7,
+      "first_mention": "2026-08-14",
       "last_mention": "2026-09-06",
       "team": "Los Angeles Clippers",
       "rank": 7
     },
     {
       "player": "Domantas Sabonis",
-      "score": 3.25,
-      "mentions_week1": 3,
-      "mentions_week2": 0,
+      "score": 2.75,
+      "mentions_week1": 2,
+      "mentions_week2": 1,
       "mentions_weeks3_4": 1,
       "total_mentions": 4,
       "first_mention": "2026-08-16",
@@ -115,54 +115,6 @@
       "rank": 9
     },
     {
-      "player": "Kyrie Irving",
-      "score": 2.25,
-      "mentions_week1": 1,
-      "mentions_week2": 2,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 4,
-      "first_mention": "2026-08-25",
-      "last_mention": "2026-09-08",
-      "team": "Dallas Mavericks",
-      "rank": 10
-    },
-    {
-      "player": "Brandon Ingram",
-      "score": 2.25,
-      "mentions_week1": 2,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 3,
-      "first_mention": "2026-08-17",
-      "last_mention": "2026-09-09",
-      "team": "Toronto Raptors",
-      "rank": 11
-    },
-    {
-      "player": "Ivica Zubac",
-      "score": 2.25,
-      "mentions_week1": 2,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 3,
-      "first_mention": "2026-08-13",
-      "last_mention": "2026-09-06",
-      "team": "Los Angeles Clippers",
-      "rank": 12
-    },
-    {
-      "player": "LeBron James",
-      "score": 2.25,
-      "mentions_week1": 2,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 3,
-      "first_mention": "2026-08-13",
-      "last_mention": "2026-09-08",
-      "team": "Los Angeles Lakers",
-      "rank": 13
-    },
-    {
       "player": "Tre Mann",
       "score": 2.0,
       "mentions_week1": 0,
@@ -172,7 +124,7 @@
       "first_mention": "2026-08-14",
       "last_mention": "2026-08-19",
       "team": "Cleveland Cavaliers",
-      "rank": 14
+      "rank": 10
     },
     {
       "player": "Bennedict Mathurin",
@@ -184,19 +136,19 @@
       "first_mention": "2026-08-19",
       "last_mention": "2026-09-08",
       "team": "Indiana Pacers",
-      "rank": 15
+      "rank": 11
     },
     {
-      "player": "Luka Doncic",
+      "player": "Kyrie Irving",
       "score": 2.0,
       "mentions_week1": 1,
       "mentions_week2": 1,
       "mentions_weeks3_4": 2,
       "total_mentions": 4,
-      "first_mention": "2026-08-20",
-      "last_mention": "2026-09-03",
-      "team": "Los Angeles Lakers",
-      "rank": 16
+      "first_mention": "2026-08-25",
+      "last_mention": "2026-09-08",
+      "team": "Dallas Mavericks",
+      "rank": 12
     },
     {
       "player": "Jaime Jaquez",
@@ -208,7 +160,7 @@
       "first_mention": "2026-09-07",
       "last_mention": "2026-09-08",
       "team": "Atlanta Hawks",
-      "rank": 17
+      "rank": 13
     },
     {
       "player": "Jrue Holiday",
@@ -220,7 +172,19 @@
       "first_mention": "2026-09-04",
       "last_mention": "2026-09-06",
       "team": "Portland Trail Blazers",
-      "rank": 18
+      "rank": 14
+    },
+    {
+      "player": "LeBron James",
+      "score": 2.0,
+      "mentions_week1": 2,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 2,
+      "first_mention": "2026-09-08",
+      "last_mention": "2026-09-08",
+      "team": "Los Angeles Lakers",
+      "rank": 15
     },
     {
       "player": "Jonathan Kuminga",
@@ -232,7 +196,19 @@
       "first_mention": "2026-08-14",
       "last_mention": "2026-08-29",
       "team": "Golden State Warriors",
-      "rank": 19
+      "rank": 16
+    },
+    {
+      "player": "Brandon Ingram",
+      "score": 1.75,
+      "mentions_week1": 1,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 3,
+      "first_mention": "2026-08-17",
+      "last_mention": "2026-09-09",
+      "team": "Toronto Raptors",
+      "rank": 17
     },
     {
       "player": "Josh Green",
@@ -244,19 +220,31 @@
       "first_mention": "2026-08-25",
       "last_mention": "2026-08-29",
       "team": "Minnesota Timberwolves",
-      "rank": 20
+      "rank": 18
     },
     {
-      "player": "Darius Garland",
+      "player": "Luka Doncic",
+      "score": 1.5,
+      "mentions_week1": 0,
+      "mentions_week2": 2,
+      "mentions_weeks3_4": 2,
+      "total_mentions": 4,
+      "first_mention": "2026-08-20",
+      "last_mention": "2026-09-03",
+      "team": "Los Angeles Lakers",
+      "rank": 19
+    },
+    {
+      "player": "Ivica Zubac",
       "score": 1.5,
       "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 3,
-      "first_mention": "2026-08-13",
-      "last_mention": "2026-09-03",
-      "team": "Cleveland Cavaliers",
-      "rank": 21
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 2,
+      "first_mention": "2026-09-03",
+      "last_mention": "2026-09-06",
+      "team": "Los Angeles Clippers",
+      "rank": 20
     },
     {
       "player": "Jerami Grant",
@@ -268,7 +256,7 @@
       "first_mention": "2026-09-02",
       "last_mention": "2026-09-06",
       "team": "Charlotte Hornets",
-      "rank": 22
+      "rank": 21
     },
     {
       "player": "Max Strus",
@@ -280,31 +268,7 @@
       "first_mention": "2026-08-17",
       "last_mention": "2026-08-19",
       "team": "Cleveland Cavaliers",
-      "rank": 23
-    },
-    {
-      "player": "Anthony Edwards",
-      "score": 1.25,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 2,
-      "first_mention": "2026-08-16",
-      "last_mention": "2026-09-03",
-      "team": "Minnesota Timberwolves",
-      "rank": 24
-    },
-    {
-      "player": "Gradey Dick",
-      "score": 1.25,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 2,
-      "first_mention": "2026-08-17",
-      "last_mention": "2026-09-03",
-      "team": "Toronto Raptors",
-      "rank": 25
+      "rank": 22
     },
     {
       "player": "Fred VanVleet",
@@ -316,7 +280,7 @@
       "first_mention": "2026-08-30",
       "last_mention": "2026-09-02",
       "team": "Atlanta Hawks",
-      "rank": 26
+      "rank": 23
     },
     {
       "player": "Trey Murphy",
@@ -328,19 +292,7 @@
       "first_mention": "2026-08-30",
       "last_mention": "2026-09-01",
       "team": "New Orleans Pelicans",
-      "rank": 27
-    },
-    {
-      "player": "Drew Eubanks",
-      "score": 1.0,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-09-03",
-      "last_mention": "2026-09-03",
-      "team": "New York Knicks",
-      "rank": 28
+      "rank": 24
     },
     {
       "player": "Duncan Robinson",
@@ -352,7 +304,7 @@
       "first_mention": "2026-09-04",
       "last_mention": "2026-09-04",
       "team": "Charlotte Hornets",
-      "rank": 29
+      "rank": 25
     },
     {
       "player": "Ja Morant",
@@ -364,7 +316,7 @@
       "first_mention": "2026-09-08",
       "last_mention": "2026-09-08",
       "team": "Memphis Grizzlies",
-      "rank": 30
+      "rank": 26
     },
     {
       "player": "Joel Embiid",
@@ -376,19 +328,7 @@
       "first_mention": "2026-09-08",
       "last_mention": "2026-09-08",
       "team": "Philadelphia 76ers",
-      "rank": 31
-    },
-    {
-      "player": "John Konchar",
-      "score": 1.0,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-09-03",
-      "last_mention": "2026-09-03",
-      "team": "New York Knicks",
-      "rank": 32
+      "rank": 27
     },
     {
       "player": "Jordan Poole",
@@ -400,7 +340,7 @@
       "first_mention": "2026-09-06",
       "last_mention": "2026-09-06",
       "team": "Charlotte Hornets",
-      "rank": 33
+      "rank": 28
     },
     {
       "player": "Kris Dunn",
@@ -412,7 +352,19 @@
       "first_mention": "2026-09-07",
       "last_mention": "2026-09-07",
       "team": "Denver Nuggets",
-      "rank": 34
+      "rank": 29
+    },
+    {
+      "player": "Miles McBride",
+      "score": 1.0,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-09-10",
+      "last_mention": "2026-09-10",
+      "team": "New York Knicks",
+      "rank": 30
     },
     {
       "player": "Naz Reid",
@@ -424,7 +376,7 @@
       "first_mention": "2026-09-06",
       "last_mention": "2026-09-06",
       "team": "Minnesota Timberwolves",
-      "rank": 35
+      "rank": 31
     },
     {
       "player": "Royce O'Neale",
@@ -436,7 +388,7 @@
       "first_mention": "2026-09-04",
       "last_mention": "2026-09-04",
       "team": "Charlotte Hornets",
-      "rank": 36
+      "rank": 32
     },
     {
       "player": "Shai Gilgeous-Alexander",
@@ -448,7 +400,7 @@
       "first_mention": "2026-09-04",
       "last_mention": "2026-09-04",
       "team": "Oklahoma City Thunder",
-      "rank": 37
+      "rank": 33
     },
     {
       "player": "Tyrese Maxey",
@@ -460,7 +412,7 @@
       "first_mention": "2026-09-08",
       "last_mention": "2026-09-08",
       "team": "Philadelphia 76ers",
-      "rank": 38
+      "rank": 34
     },
     {
       "player": "Klay Thompson",
@@ -472,7 +424,43 @@
       "first_mention": "2026-08-14",
       "last_mention": "2026-08-17",
       "team": "Dallas Mavericks",
-      "rank": 39
+      "rank": 35
+    },
+    {
+      "player": "Anthony Edwards",
+      "score": 0.75,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 2,
+      "first_mention": "2026-08-16",
+      "last_mention": "2026-09-03",
+      "team": "Minnesota Timberwolves",
+      "rank": 36
+    },
+    {
+      "player": "Darius Garland",
+      "score": 0.75,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 2,
+      "first_mention": "2026-08-20",
+      "last_mention": "2026-09-03",
+      "team": "Cleveland Cavaliers",
+      "rank": 37
+    },
+    {
+      "player": "Gradey Dick",
+      "score": 0.75,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 2,
+      "first_mention": "2026-08-17",
+      "last_mention": "2026-09-03",
+      "team": "Toronto Raptors",
+      "rank": 38
     },
     {
       "player": "Jalen Duren",
@@ -484,31 +472,7 @@
       "first_mention": "2026-08-26",
       "last_mention": "2026-08-29",
       "team": "Detroit Pistons",
-      "rank": 40
-    },
-    {
-      "player": "Nikola Jovic",
-      "score": 0.75,
-      "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 2,
-      "first_mention": "2026-08-25",
-      "last_mention": "2026-08-27",
-      "team": "Boston Celtics",
-      "rank": 41
-    },
-    {
-      "player": "LaMelo Ball",
-      "score": 0.5,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 2,
-      "first_mention": "2026-08-13",
-      "last_mention": "2026-08-16",
-      "team": "Charlotte Hornets",
-      "rank": 42
+      "rank": 39
     },
     {
       "player": "Nikola Jokic",
@@ -520,7 +484,19 @@
       "first_mention": "2026-08-21",
       "last_mention": "2026-08-22",
       "team": "Denver Nuggets",
-      "rank": 43
+      "rank": 40
+    },
+    {
+      "player": "Nikola Jovic",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 2,
+      "total_mentions": 2,
+      "first_mention": "2026-08-25",
+      "last_mention": "2026-08-27",
+      "team": "Boston Celtics",
+      "rank": 41
     },
     {
       "player": "PJ Washington",
@@ -532,19 +508,7 @@
       "first_mention": "2026-08-17",
       "last_mention": "2026-08-17",
       "team": "Dallas Mavericks",
-      "rank": 44
-    },
-    {
-      "player": "Tyrese Haliburton",
-      "score": 0.5,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 2,
-      "first_mention": "2026-08-13",
-      "last_mention": "2026-08-16",
-      "team": "Indiana Pacers",
-      "rank": 45
+      "rank": 42
     },
     {
       "player": "Anthony Davis",
@@ -556,7 +520,7 @@
       "first_mention": "2026-09-01",
       "last_mention": "2026-09-01",
       "team": "Dallas Mavericks",
-      "rank": 46
+      "rank": 43
     },
     {
       "player": "Cooper Flagg",
@@ -568,19 +532,7 @@
       "first_mention": "2026-08-31",
       "last_mention": "2026-08-31",
       "team": "Dallas Mavericks",
-      "rank": 47
-    },
-    {
-      "player": "Davion Mitchell",
-      "score": 0.5,
-      "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-08-27",
-      "last_mention": "2026-08-27",
-      "team": "Boston Celtics",
-      "rank": 48
+      "rank": 44
     },
     {
       "player": "De'Aaron Fox",
@@ -592,7 +544,7 @@
       "first_mention": "2026-08-30",
       "last_mention": "2026-08-30",
       "team": "San Antonio Spurs",
-      "rank": 49
+      "rank": 45
     },
     {
       "player": "Derrick White",
@@ -604,19 +556,19 @@
       "first_mention": "2026-09-02",
       "last_mention": "2026-09-02",
       "team": "Boston Celtics",
-      "rank": 50
+      "rank": 46
     },
     {
-      "player": "Dru Smith",
+      "player": "Drew Eubanks",
       "score": 0.5,
       "mentions_week1": 0,
       "mentions_week2": 1,
       "mentions_weeks3_4": 0,
       "total_mentions": 1,
-      "first_mention": "2026-08-27",
-      "last_mention": "2026-08-27",
-      "team": "Boston Celtics",
-      "rank": 51
+      "first_mention": "2026-09-03",
+      "last_mention": "2026-09-03",
+      "team": "New York Knicks",
+      "rank": 47
     },
     {
       "player": "Jaden McDaniels",
@@ -628,7 +580,7 @@
       "first_mention": "2026-08-30",
       "last_mention": "2026-08-30",
       "team": "Minnesota Timberwolves",
-      "rank": 52
+      "rank": 48
     },
     {
       "player": "Jaren Jackson Jr",
@@ -640,7 +592,7 @@
       "first_mention": "2026-09-02",
       "last_mention": "2026-09-02",
       "team": "Golden State Warriors",
-      "rank": 53
+      "rank": 49
     },
     {
       "player": "Jarred Vanderbilt",
@@ -652,7 +604,7 @@
       "first_mention": "2026-08-28",
       "last_mention": "2026-08-28",
       "team": "Los Angeles Lakers",
-      "rank": 54
+      "rank": 50
     },
     {
       "player": "Jarrett Allen",
@@ -664,7 +616,7 @@
       "first_mention": "2026-09-02",
       "last_mention": "2026-09-02",
       "team": "Cleveland Cavaliers",
-      "rank": 55
+      "rank": 51
     },
     {
       "player": "Jayson Tatum",
@@ -676,7 +628,19 @@
       "first_mention": "2026-08-31",
       "last_mention": "2026-08-31",
       "team": "Boston Celtics",
-      "rank": 56
+      "rank": 52
+    },
+    {
+      "player": "John Konchar",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-09-03",
+      "last_mention": "2026-09-03",
+      "team": "New York Knicks",
+      "rank": 53
     },
     {
       "player": "Luguentz Dort",
@@ -688,7 +652,7 @@
       "first_mention": "2026-09-01",
       "last_mention": "2026-09-01",
       "team": "Atlanta Hawks",
-      "rank": 57
+      "rank": 54
     },
     {
       "player": "Michael Porter",
@@ -700,7 +664,7 @@
       "first_mention": "2026-09-01",
       "last_mention": "2026-09-01",
       "team": "Brooklyn Nets",
-      "rank": 58
+      "rank": 55
     },
     {
       "player": "Nickeil Alexander-Walker",
@@ -712,7 +676,7 @@
       "first_mention": "2026-09-01",
       "last_mention": "2026-09-01",
       "team": "Atlanta Hawks",
-      "rank": 59
+      "rank": 56
     },
     {
       "player": "Paolo Banchero",
@@ -724,7 +688,7 @@
       "first_mention": "2026-08-28",
       "last_mention": "2026-08-28",
       "team": "Orlando Magic",
-      "rank": 60
+      "rank": 57
     },
     {
       "player": "Taylor Hendricks",
@@ -736,7 +700,7 @@
       "first_mention": "2026-08-28",
       "last_mention": "2026-08-28",
       "team": "Los Angeles Lakers",
-      "rank": 61
+      "rank": 58
     },
     {
       "player": "Terance Mann",
@@ -748,7 +712,7 @@
       "first_mention": "2026-08-28",
       "last_mention": "2026-08-28",
       "team": "Los Angeles Lakers",
-      "rank": 62
+      "rank": 59
     },
     {
       "player": "Alex Caruso",
@@ -760,7 +724,7 @@
       "first_mention": "2026-08-25",
       "last_mention": "2026-08-25",
       "team": "Chicago Bulls",
-      "rank": 63
+      "rank": 60
     },
     {
       "player": "Brandon Miller",
@@ -772,7 +736,31 @@
       "first_mention": "2026-08-22",
       "last_mention": "2026-08-22",
       "team": "Charlotte Hornets",
-      "rank": 64
+      "rank": 61
+    },
+    {
+      "player": "Davion Mitchell",
+      "score": 0.25,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 1,
+      "first_mention": "2026-08-27",
+      "last_mention": "2026-08-27",
+      "team": "Boston Celtics",
+      "rank": 62
+    },
+    {
+      "player": "Dru Smith",
+      "score": 0.25,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 1,
+      "first_mention": "2026-08-27",
+      "last_mention": "2026-08-27",
+      "team": "Boston Celtics",
+      "rank": 63
     },
     {
       "player": "Isaiah Hartenstein",
@@ -784,7 +772,7 @@
       "first_mention": "2026-08-16",
       "last_mention": "2026-08-16",
       "team": "Oklahoma City Thunder",
-      "rank": 65
+      "rank": 64
     },
     {
       "player": "Jaden Hardy",
@@ -796,7 +784,7 @@
       "first_mention": "2026-08-21",
       "last_mention": "2026-08-21",
       "team": "Atlanta Hawks",
-      "rank": 66
+      "rank": 65
     },
     {
       "player": "Jimmy Butler",
@@ -808,7 +796,7 @@
       "first_mention": "2026-08-25",
       "last_mention": "2026-08-25",
       "team": "Golden State Warriors",
-      "rank": 67
+      "rank": 66
     },
     {
       "player": "John Collins",
@@ -820,7 +808,7 @@
       "first_mention": "2026-08-19",
       "last_mention": "2026-08-19",
       "team": "Los Angeles Clippers",
-      "rank": 68
+      "rank": 67
     },
     {
       "player": "Johni Broome",
@@ -832,7 +820,7 @@
       "first_mention": "2026-08-19",
       "last_mention": "2026-08-19",
       "team": "Cleveland Cavaliers",
-      "rank": 69
+      "rank": 68
     },
     {
       "player": "Kevin Durant",
@@ -844,7 +832,7 @@
       "first_mention": "2026-08-16",
       "last_mention": "2026-08-16",
       "team": "Houston Rockets",
-      "rank": 70
+      "rank": 69
     },
     {
       "player": "Kon Knueppel",
@@ -855,6 +843,18 @@
       "total_mentions": 1,
       "first_mention": "2026-08-22",
       "last_mention": "2026-08-22",
+      "team": "Charlotte Hornets",
+      "rank": 70
+    },
+    {
+      "player": "LaMelo Ball",
+      "score": 0.25,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 1,
+      "first_mention": "2026-08-16",
+      "last_mention": "2026-08-16",
       "team": "Charlotte Hornets",
       "rank": 71
     },
@@ -907,18 +907,6 @@
       "rank": 75
     },
     {
-      "player": "Stephen Curry",
-      "score": 0.25,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 1,
-      "first_mention": "2026-08-13",
-      "last_mention": "2026-08-13",
-      "team": "Golden State Warriors",
-      "rank": 76
-    },
-    {
       "player": "Tidjane Salaun",
       "score": 0.25,
       "mentions_week1": 0,
@@ -928,10 +916,31 @@
       "first_mention": "2026-08-22",
       "last_mention": "2026-08-22",
       "team": "Charlotte Hornets",
+      "rank": 76
+    },
+    {
+      "player": "Tyrese Haliburton",
+      "score": 0.25,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 1,
+      "first_mention": "2026-08-16",
+      "last_mention": "2026-08-16",
+      "team": "Indiana Pacers",
       "rank": 77
     }
   ],
   "player_rumors": {
+    "Miles McBride": [
+      {
+        "date": "2026-09-10",
+        "text": "Things can change, of course. Maybe the Knicks move off of future salary in a trade and open up some money. Maybe Dolan and the Knicks decide to increase future spending without regard for the second apron. It's worth noting that the Knicks and McBride\u2019s representatives have been in regular contact ahead of the season. In a perfect world, those conversations would produce a multi-year extension for McBride. The longest-tenured Knick, McBride loves New York, loves his teammates; he was an integral part of this team\u2019s rise. The fact that he\u2019ll likely have to play this coming season with contract uncertainty is a shame. Yes, McBride on an expiring contract is one of the most valuable trade chips in the league. He would garner significant interest if New York made him available via trade \u2013 either in-season or in the offseason. We\u2019re certainly not there yet. But logic tells you that\u2019s where things could be headed.SportsNet New York",
+        "text_html": "<a href=\"https://sny.tv/articles/knicks-mailbag-miles-mcbride-extension-talks-9-10-26\" target=\"_blank\" style=\"color: #1a73e8;\">Things can change, of course. Maybe the Knicks move off of future salary in a trade and open up some money. Maybe Dolan and the Knicks decide to increase future spending without regard for the second apron. It's worth noting that the Knicks and McBride\u2019s representatives have been in regular contact ahead of the season. In a perfect world, those conversations would produce a multi-year extension for McBride</a>. The longest-tenured Knick, McBride loves New York, loves his teammates; he was an integral part of this team\u2019s rise. The fact that he\u2019ll likely have to play this coming season with contract uncertainty is a shame. Yes, McBride on an expiring contract is one of the most valuable trade chips in the league. He would garner significant interest if New York made him available via trade \u2013 either in-season or in the offseason. We\u2019re certainly not there yet. But logic tells you that\u2019s where things could be headed.",
+        "outlet": "SportsNet New York",
+        "source_url": "https://sny.tv/articles/knicks-mailbag-miles-mcbride-extension-talks-9-10-26"
+      }
+    ],
     "Kawhi Leonard": [
       {
         "date": "2026-09-10",
@@ -1272,13 +1281,6 @@
         "text_html": "<a href=\"https://www.nytimes.com/athletic/7503951/2026/09/08/76ers-roster-lebron-james-jaylen-brown-mike-gansey/\" target=\"_blank\" style=\"color: #1a73e8;\">Getting Brown proved to be the move that unlocked Philadelphia\u2019s ability to recruit LeBron James. But how the Sixers approached this summer provides a window into the new man in charge of the front office</a>. In addition to conversations with Gansey and head coach Nick Nurse, The Athletic spoke with three league sources with direct knowledge of Philadelphia\u2019s offseason maneuvering. The sources spoke on the conditions of anonymity because they were not authorized to publicly discuss private trade talks, negotiations and recruitment efforts.",
         "outlet": "New York Times",
         "source_url": "https://www.nytimes.com/athletic/7503951/2026/09/08/76ers-roster-lebron-james-jaylen-brown-mike-gansey/"
-      },
-      {
-        "date": "2026-08-13",
-        "text": "This season, Cleveland will have 16 sets of back-to-backs, a trio of four-game homestands, a lengthy six-game road trip (March 9-18), four holiday games (Halloween, Veterans Day, New Year\u2019s Eve and MLK Day) and five matinees.James comes to Cleveland with the Sixers twice (Nov. 6 and March 1) this season. The Cavs pursued him in free agency this summer, hoping for a third stint with the franchise that drafted him No. 1 overall in 2003.Former Cavalier Darius Garland will return to Cleveland for the first time since being traded for James Harden last February, with that visit scheduled for Dec. 31. The Western Conference Champion San Antonio Spurs visit for the only time on Dec. 15.Cleveland Plain Dealer",
-        "text_html": "This season, Cleveland will have 16 sets of back-to-backs, a trio of four-game homestands, a lengthy six-game road trip (March 9-18), four holiday games (Halloween, Veterans Day, New Year\u2019s Eve and MLK Day) and five matinees. <a href=\"https://www.cleveland.com/cavs/2026/08/cavs-2026-27-schedule-highlights-17-national-tv-games-home-opener-date-and-darius-garlands-return.html\" target=\"_blank\" style=\"color: #1a73e8;\">James comes to Cleveland with the Sixers twice (Nov. 6 and March 1) this season. The Cavs pursued him in free agency this summer, hoping for a third stint with the franchise that drafted him No. 1 overall in 2003.</a> Former Cavalier Darius Garland will return to Cleveland for the first time since being traded for James Harden last February, with that visit scheduled for Dec. 31. The Western Conference Champion San Antonio Spurs visit for the only time on Dec. 15.",
-        "outlet": "Cleveland Plain Dealer",
-        "source_url": "https://www.cleveland.com/cavs/2026/08/cavs-2026-27-schedule-highlights-17-national-tv-games-home-opener-date-and-darius-garlands-return.html"
       }
     ],
     "Joel Embiid": [
@@ -1517,20 +1519,6 @@
         "text_html": "Yossi Gozlan: <a href=\"https://x.com/YossiGozlan/status/2088345512684740990?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">The Cavaliers free up $6.8 million in this swap. They\u2019re approximately $30 million under the first apron with at least one open roster spot, one of which is for James Harden</a>. They\u2019re also $42 million under the second apron and could still increase payroll up to it.",
         "outlet": "x.com",
         "source_url": "https://x.com/YossiGozlan/status/2088345512684740990?s=20"
-      },
-      {
-        "date": "2026-08-13",
-        "text": "This season, Cleveland will have 16 sets of back-to-backs, a trio of four-game homestands, a lengthy six-game road trip (March 9-18), four holiday games (Halloween, Veterans Day, New Year\u2019s Eve and MLK Day) and five matinees.James comes to Cleveland with the Sixers twice (Nov. 6 and March 1) this season. The Cavs pursued him in free agency this summer, hoping for a third stint with the franchise that drafted him No. 1 overall in 2003.Former Cavalier Darius Garland will return to Cleveland for the first time since being traded for James Harden last February, with that visit scheduled for Dec. 31. The Western Conference Champion San Antonio Spurs visit for the only time on Dec. 15.Cleveland Plain Dealer",
-        "text_html": "This season, Cleveland will have 16 sets of back-to-backs, a trio of four-game homestands, a lengthy six-game road trip (March 9-18), four holiday games (Halloween, Veterans Day, New Year\u2019s Eve and MLK Day) and five matinees. <a href=\"https://www.cleveland.com/cavs/2026/08/cavs-2026-27-schedule-highlights-17-national-tv-games-home-opener-date-and-darius-garlands-return.html\" target=\"_blank\" style=\"color: #1a73e8;\">James comes to Cleveland with the Sixers twice (Nov. 6 and March 1) this season. The Cavs pursued him in free agency this summer, hoping for a third stint with the franchise that drafted him No. 1 overall in 2003.</a> Former Cavalier Darius Garland will return to Cleveland for the first time since being traded for James Harden last February, with that visit scheduled for Dec. 31. The Western Conference Champion San Antonio Spurs visit for the only time on Dec. 15.",
-        "outlet": "Cleveland Plain Dealer",
-        "source_url": "https://www.cleveland.com/cavs/2026/08/cavs-2026-27-schedule-highlights-17-national-tv-games-home-opener-date-and-darius-garlands-return.html"
-      },
-      {
-        "date": "2026-08-13",
-        "text": "Chris Fedor: There's no benefit right now to the Cavs\u00a0getting something locked in with James\u00a0Harden. And there's nothing that is\u00a0preventative for the Cavs to wait. And\u00a0there's nothing preventative for James\u00a0Harden to wait. It may be frustrating\u00a0because you don't have it\u00a0official. It may be frustrating because you don't\u00a0have a specific number, but like I said,\u00a0everybody inside this Cavs organization\u00a0is talking about James Harden, the\u00a0Cleveland Cavalier. Not James Harden,\u00a0the free agent, James Harden, the\u00a0Cleveland Cavalier. It wouldn't be\u00a0surprising if James, wherever he is in\u00a0this off season, is wearing calves\u00a0shorts or calves gear when he's going to\u00a0workouts and stuff like that, because\u00a0everybody expects him to be a member of\u00a0the Cavs, and they're planning for him to\u00a0be a member of the Cavs. Just like they\u00a0have been since they traded for him in\u00a0February. So, I don't sense any kind of situation between the Cavs and James\u00a0where talks are going to break down or\u00a0talks are going to get so bad that\u00a0there's going to be bad blood between\u00a0James and the organization or James'\u00a0camp and the organization.Everybody understands the financial\u00a0aspect of things related to James and I\u00a0think everybody understands how James\u00a0and what\u00a0contract\u00a0he ultimately signs\u00a0with the Cavs is tied to the kind of\u00a0activity that the Cavs can make this off\u00a0season and the kind of improvements that\u00a0they can make as a team.YouTube",
-        "text_html": "Chris Fedor: There's no benefit right now to the Cavs getting something locked in with James Harden. And there's nothing that is preventative for the Cavs to wait. And there's nothing preventative for James Harden to wait. It may be frustrating because you don't have it official. It may be frustrating because you don't have a specific number, but like I said, everybody inside this Cavs organization is talking about James Harden, the Cleveland Cavalier. Not James Harden, the free agent, James Harden, the Cleveland Cavalier. It wouldn't be surprising if James, wherever he is in this off season, is wearing calves shorts or calves gear when he's going to workouts and stuff like that, because everybody expects him to be a member of the Cavs, and they're planning for him to be a member of the Cavs. Just like they have been since they traded for him in February. So, I don't sense any kind of situation between the Cavs and James where talks are going to break down or talks are going to get so bad that there's going to be bad blood between James and the organization or James' camp and the organization. <a href=\"https://www.youtube.com/watch?v=wOZ1QHtAqis&t=657s\" target=\"_blank\" style=\"color: #1a73e8;\">Everybody understands the financial aspect of things related to James and I think everybody understands how James and what contract he ultimately signs with the Cavs is tied to the kind of activity that the Cavs can make this off season and the kind of improvements that they can make as a team.</a>",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=wOZ1QHtAqis&t=657s"
       }
     ],
     "Ivica Zubac": [
@@ -1547,13 +1535,6 @@
         "text_html": "Tomer Azarly: <a href=\"https://x.com/TomerAzarly/status/2095342009561264482\" target=\"_blank\" style=\"color: #1a73e8;\">Saw some confusion about this, but I can confirm per a league source that the LA Clippers will be losing the 2029 first round pick they received from the Indiana Pacers in the Ivica Zubac trade</a>. Believe @ZachLowe_NBA was first to report that.",
         "outlet": "x.com",
         "source_url": "https://x.com/TomerAzarly/status/2095342009561264482"
-      },
-      {
-        "date": "2026-08-13",
-        "text": "Haliburton has said repeatedly that he's pleased with the addition of center Ivica Zubac from a February trade. Zubac played in just five games for the Pacers between an ankle injury and a season-ending fractured rib so he didn't get to play with Siakam let alone Haliburton. Haliburton said they still haven't had a chance to work together.\"I have had zero court time with Zu,\" Haliburton said. \"But I don't think that's a concern. I really don't. He'll get back out here after playing with his country in September-ish. That's typically when we all come in. I really don't have a concern because he's very smart.... There is going to be a transition period for me because the last time I played it was with a guy who really spaced the floor at the 5. But I've never played with a screen setter like this. I've never played with a roller like this. I'm really looking forward to it.\"Indianapolis Star",
-        "text_html": "Haliburton has said repeatedly that he's pleased with the addition of center Ivica Zubac from a February trade. Zubac played in just five games for the Pacers between an ankle injury and a season-ending fractured rib so he didn't get to play with Siakam let alone Haliburton. Haliburton said they still haven't had a chance to work together. <a href=\"https://www.indystar.com/story/sports/nba/pacers/2026/08/12/tyrese-haliburton-says-hed-be-ready-if-season-started-today/91278193007/\" target=\"_blank\" style=\"color: #1a73e8;\">\"I have had zero court time with Zu,\" Haliburton said. \"But I don't think that's a concern. I really don't. He'll get back out here after playing with his country in September-ish. That's typically when we all come in. I really don't have a concern because he's very smart.</a> ... There is going to be a transition period for me because the last time I played it was with a guy who really spaced the floor at the 5. But I've never played with a screen setter like this. I've never played with a roller like this. I'm really looking forward to it.\"",
-        "outlet": "Indianapolis Star",
-        "source_url": "https://www.indystar.com/story/sports/nba/pacers/2026/08/12/tyrese-haliburton-says-hed-be-ready-if-season-started-today/91278193007/"
       }
     ],
     "Jrue Holiday": [
@@ -1711,13 +1692,6 @@
         "text_html": "What was it like getting traded midseason? Was the transition hard? Darius Garland: The trade was actually pretty easy for me, bro, to be honest with you. Which was crazy; we were already in LA, we had a road trip to LA already, so the transition wasn't too hard, to be honest with you. Mentally, it wasn't a shock, but it was still like a shock. I've been here for seven, seven and a half years, and now just to up and pack my bags like that, it was just like, dang. But it's part of the business. I understand the business side of it. <a href=\"https://www.hoopshype.com/story/sports/nba/clippers/2026/08/20/darius-garland-qa-clippers-toe-injury-new-balance-and-fresh-start/91368132007/\" target=\"_blank\" style=\"color: #1a73e8;\">So once I got to LA, I was pretty happy. Got to be in a new city, like a real new revamp. So it was cool. Easy transition, though. Super excited to be there. I was pretty happy. I was coming to a new opportunity just to take on a new challenge. So I was excited about that</a>.",
         "outlet": "HoopsHype",
         "source_url": "https://www.hoopshype.com/story/sports/nba/clippers/2026/08/20/darius-garland-qa-clippers-toe-injury-new-balance-and-fresh-start/91368132007/"
-      },
-      {
-        "date": "2026-08-13",
-        "text": "This season, Cleveland will have 16 sets of back-to-backs, a trio of four-game homestands, a lengthy six-game road trip (March 9-18), four holiday games (Halloween, Veterans Day, New Year\u2019s Eve and MLK Day) and five matinees.James comes to Cleveland with the Sixers twice (Nov. 6 and March 1) this season. The Cavs pursued him in free agency this summer, hoping for a third stint with the franchise that drafted him No. 1 overall in 2003.Former Cavalier Darius Garland will return to Cleveland for the first time since being traded for James Harden last February, with that visit scheduled for Dec. 31. The Western Conference Champion San Antonio Spurs visit for the only time on Dec. 15.Cleveland Plain Dealer",
-        "text_html": "This season, Cleveland will have 16 sets of back-to-backs, a trio of four-game homestands, a lengthy six-game road trip (March 9-18), four holiday games (Halloween, Veterans Day, New Year\u2019s Eve and MLK Day) and five matinees. <a href=\"https://www.cleveland.com/cavs/2026/08/cavs-2026-27-schedule-highlights-17-national-tv-games-home-opener-date-and-darius-garlands-return.html\" target=\"_blank\" style=\"color: #1a73e8;\">James comes to Cleveland with the Sixers twice (Nov. 6 and March 1) this season. The Cavs pursued him in free agency this summer, hoping for a third stint with the franchise that drafted him No. 1 overall in 2003.</a> Former Cavalier Darius Garland will return to Cleveland for the first time since being traded for James Harden last February, with that visit scheduled for Dec. 31. The Western Conference Champion San Antonio Spurs visit for the only time on Dec. 15.",
-        "outlet": "Cleveland Plain Dealer",
-        "source_url": "https://www.cleveland.com/cavs/2026/08/cavs-2026-27-schedule-highlights-17-national-tv-games-home-opener-date-and-darius-garlands-return.html"
       }
     ],
     "Anthony Edwards": [
@@ -2382,13 +2356,6 @@
         "text_html": "Tyrese Haliburton: \u2018And then I got another call, and it was like, now it was both of my agents, and they were like, and I was like, who is it? And then Woj on the phone. I don't know how he got like, cause I don't know how he was on the phone. He goes, I think it's Indiana. I'm like, who the [expletive] is Indiana? I'm like, I think it's Indiana. <a href=\"https://www.youtube.com/watch?v=y1komx7R9X0&t=4091s\" target=\"_blank\" style=\"color: #1a73e8;\">And I'm like, then I'm like, oh, after I process that Woj on the phone, I said, Indiana for who? Cause I didn't even know. And they were like, Sabonis. And I was like, oh, word.\u2019</a>",
         "outlet": "YouTube",
         "source_url": "https://www.youtube.com/watch?v=y1komx7R9X0&t=4091s"
-      },
-      {
-        "date": "2026-08-13",
-        "text": "Haliburton has said repeatedly that he's pleased with the addition of center Ivica Zubac from a February trade. Zubac played in just five games for the Pacers between an ankle injury and a season-ending fractured rib so he didn't get to play with Siakam let alone Haliburton. Haliburton said they still haven't had a chance to work together.\"I have had zero court time with Zu,\" Haliburton said. \"But I don't think that's a concern. I really don't. He'll get back out here after playing with his country in September-ish. That's typically when we all come in. I really don't have a concern because he's very smart.... There is going to be a transition period for me because the last time I played it was with a guy who really spaced the floor at the 5. But I've never played with a screen setter like this. I've never played with a roller like this. I'm really looking forward to it.\"Indianapolis Star",
-        "text_html": "Haliburton has said repeatedly that he's pleased with the addition of center Ivica Zubac from a February trade. Zubac played in just five games for the Pacers between an ankle injury and a season-ending fractured rib so he didn't get to play with Siakam let alone Haliburton. Haliburton said they still haven't had a chance to work together. <a href=\"https://www.indystar.com/story/sports/nba/pacers/2026/08/12/tyrese-haliburton-says-hed-be-ready-if-season-started-today/91278193007/\" target=\"_blank\" style=\"color: #1a73e8;\">\"I have had zero court time with Zu,\" Haliburton said. \"But I don't think that's a concern. I really don't. He'll get back out here after playing with his country in September-ish. That's typically when we all come in. I really don't have a concern because he's very smart.</a> ... There is going to be a transition period for me because the last time I played it was with a guy who really spaced the floor at the 5. But I've never played with a screen setter like this. I've never played with a roller like this. I'm really looking forward to it.\"",
-        "outlet": "Indianapolis Star",
-        "source_url": "https://www.indystar.com/story/sports/nba/pacers/2026/08/12/tyrese-haliburton-says-hed-be-ready-if-season-started-today/91278193007/"
       }
     ],
     "LaMelo Ball": [
@@ -2398,26 +2365,13 @@
         "text_html": "Now, Minnesota is retooling. The Timberwolves pulled off a blockbuster trade Ball last month, pairing him with Edwards to form a new-look backcourt. For Anthony Edwards, the move could finally give Minnesota enough firepower to get past the teams that have stood in its way. <a href=\"https://www.espn.ph/nba/story/_/id/49617117/anthony-edwards-backs-minnesota-timberwolves-beat-oklahoma-city-thunder-san-antonio-spurs\" target=\"_blank\" style=\"color: #1a73e8;\">\"Against those two teams, I think we're going to beat them,\" Edwards told ESPN about the Timberwolves' chances against the Thunder and Spurs during his visit to Manila</a>.",
         "outlet": "ESPN",
         "source_url": "https://www.espn.ph/nba/story/_/id/49617117/anthony-edwards-backs-minnesota-timberwolves-beat-oklahoma-city-thunder-san-antonio-spurs"
-      },
-      {
-        "date": "2026-08-13",
-        "text": "Another juicy reunion will take place Jan. 29 when the Charlotte Hornets play at Minnesota and see their old point guard, LaMelo Ball. The Hornets stunned many around the league when they traded their star point guard after enjoying the second-best turnaround in the league last season and becoming one of the hottest teams in the league after Jan. 1, missing the playoffs by one game when they lost to Orlando in the play-in.Ball, one of the most popular fan favorites in Hornets franchise history, will return to play at Charlotte on Feb. 15.ESPN",
-        "text_html": "Another juicy reunion will take place Jan. 29 when the Charlotte Hornets play at Minnesota and see their old point guard, LaMelo Ball. The Hornets stunned many around the league when they traded their star point guard after enjoying the second-best turnaround in the league last season and becoming one of the hottest teams in the league after Jan. 1, missing the playoffs by one game when they lost to Orlando in the play-in. <a href=\"https://www.espn.com/nba/story/_/id/49602964/nba-2026-27-schedule-highlighted-january-reunions\" target=\"_blank\" style=\"color: #1a73e8;\">Ball, one of the most popular fan favorites in Hornets franchise history, will return to play at Charlotte on Feb. 15</a>.",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/49602964/nba-2026-27-schedule-highlighted-january-reunions"
-      }
-    ],
-    "Stephen Curry": [
-      {
-        "date": "2026-08-13",
-        "text": "Pressed further on whether he could envision Stephen Curry ever raising the idea of leaving, Lacob's answer sharpened considerably. \"No, no, no. I don't think that is even a thing,\" Lacob said. \"This is just a clickbait thing from all these people that do this kind of thing these days, and there seem to be a lot of them. I don't believe any of that is true.I'm very close with Steph \u2014 he lives right near me, he's incredibly happy with the organization, with his life\u2026 I've never\u00a0heard\u00a0a word about that, and I can't imagine it. We certainly don't want him to go anywhere. I just think people are completely making a bunch of crap up.\"Yahoo! Sports",
-        "text_html": "<a href=\"https://sports.yahoo.com/articles/warriors-owner-joe-lacob-dismisses-172212596.html\" target=\"_blank\" style=\"color: #1a73e8;\">Pressed further on whether he could envision Stephen Curry ever raising the idea of leaving, Lacob's answer sharpened considerably. \"No, no, no. I don't think that is even a thing,\" Lacob said. \"This is just a clickbait thing from all these people that do this kind of thing these days, and there seem to be a lot of them. I don't believe any of that is true.</a> I'm very close with Steph \u2014 he lives right near me, he's incredibly happy with the organization, with his life\u2026 I've never heard a word about that, and I can't imagine it. We certainly don't want him to go anywhere. I just think people are completely making a bunch of crap up.\"",
-        "outlet": "Yahoo! Sports",
-        "source_url": "https://sports.yahoo.com/articles/warriors-owner-joe-lacob-dismisses-172212596.html"
       }
     ]
   },
   "daily_counts": {
+    "Miles McBride": {
+      "2026-09-10": 1
+    },
     "Kawhi Leonard": {
       "2026-09-10": 1,
       "2026-09-09": 4,
@@ -2465,8 +2419,7 @@
       "2026-09-08": 1
     },
     "LeBron James": {
-      "2026-09-08": 2,
-      "2026-08-13": 1
+      "2026-09-08": 2
     },
     "Joel Embiid": {
       "2026-09-08": 1
@@ -2499,13 +2452,11 @@
       "2026-09-01": 1,
       "2026-08-20": 1,
       "2026-08-19": 1,
-      "2026-08-14": 3,
-      "2026-08-13": 2
+      "2026-08-14": 3
     },
     "Ivica Zubac": {
       "2026-09-06": 1,
-      "2026-09-03": 1,
-      "2026-08-13": 1
+      "2026-09-03": 1
     },
     "Jrue Holiday": {
       "2026-09-06": 1,
@@ -2548,8 +2499,7 @@
     },
     "Darius Garland": {
       "2026-09-03": 1,
-      "2026-08-20": 1,
-      "2026-08-13": 1
+      "2026-08-20": 1
     },
     "Anthony Edwards": {
       "2026-09-03": 1,
@@ -2701,15 +2651,10 @@
       "2026-08-16": 1
     },
     "Tyrese Haliburton": {
-      "2026-08-16": 1,
-      "2026-08-13": 1
+      "2026-08-16": 1
     },
     "LaMelo Ball": {
-      "2026-08-16": 1,
-      "2026-08-13": 1
-    },
-    "Stephen Curry": {
-      "2026-08-13": 1
+      "2026-08-16": 1
     }
   }
 }
