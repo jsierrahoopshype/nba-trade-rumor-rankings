@@ -1,22 +1,34 @@
 {
-  "generated_at": "2026-09-21T05:55:32.226733",
+  "generated_at": "2026-09-21T18:20:37.634272",
   "scrape_window_days": 28,
   "window_start": "2026-08-24",
   "window_end": "2026-09-21",
-  "total_rumors": 150,
-  "total_players": 68,
+  "total_rumors": 158,
+  "total_players": 73,
   "rankings": [
     {
       "player": "Kawhi Leonard",
-      "score": 18.0,
-      "mentions_week1": 10,
+      "score": 19.0,
+      "mentions_week1": 11,
       "mentions_week2": 14,
       "mentions_weeks3_4": 4,
-      "total_mentions": 28,
+      "total_mentions": 29,
       "first_mention": "2026-08-28",
-      "last_mention": "2026-09-18",
+      "last_mention": "2026-09-21",
       "team": "Los Angeles Clippers",
       "rank": 1
+    },
+    {
+      "player": "Domantas Sabonis",
+      "score": 3.25,
+      "mentions_week1": 2,
+      "mentions_week2": 2,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 5,
+      "first_mention": "2026-09-03",
+      "last_mention": "2026-09-21",
+      "team": "Sacramento Kings",
+      "rank": 2
     },
     {
       "player": "Paul George",
@@ -28,7 +40,7 @@
       "first_mention": "2026-09-14",
       "last_mention": "2026-09-18",
       "team": "Philadelphia 76ers",
-      "rank": 2
+      "rank": 3
     },
     {
       "player": "Jaylen Brown",
@@ -40,7 +52,7 @@
       "first_mention": "2026-08-31",
       "last_mention": "2026-09-16",
       "team": "Boston Celtics",
-      "rank": 3
+      "rank": 4
     },
     {
       "player": "Brandon Ingram",
@@ -52,7 +64,7 @@
       "first_mention": "2026-09-03",
       "last_mention": "2026-09-14",
       "team": "Toronto Raptors",
-      "rank": 4
+      "rank": 5
     },
     {
       "player": "Jordan Hawkins",
@@ -64,18 +76,6 @@
       "first_mention": "2026-09-08",
       "last_mention": "2026-09-09",
       "team": "Memphis Grizzlies",
-      "rank": 5
-    },
-    {
-      "player": "Domantas Sabonis",
-      "score": 2.25,
-      "mentions_week1": 1,
-      "mentions_week2": 2,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 4,
-      "first_mention": "2026-09-03",
-      "last_mention": "2026-09-16",
-      "team": "Sacramento Kings",
       "rank": 6
     },
     {
@@ -211,6 +211,18 @@
       "rank": 17
     },
     {
+      "player": "Naz Reid",
+      "score": 1.25,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 2,
+      "first_mention": "2026-09-06",
+      "last_mention": "2026-09-21",
+      "team": "Minnesota Timberwolves",
+      "rank": 18
+    },
+    {
       "player": "Josh Green",
       "score": 1.0,
       "mentions_week1": 0,
@@ -220,7 +232,7 @@
       "first_mention": "2026-08-25",
       "last_mention": "2026-08-29",
       "team": "Minnesota Timberwolves",
-      "rank": 18
+      "rank": 19
     },
     {
       "player": "Luka Doncic",
@@ -232,7 +244,7 @@
       "first_mention": "2026-08-31",
       "last_mention": "2026-09-11",
       "team": "Los Angeles Lakers",
-      "rank": 19
+      "rank": 20
     },
     {
       "player": "Jaime Jaquez",
@@ -244,7 +256,7 @@
       "first_mention": "2026-09-07",
       "last_mention": "2026-09-08",
       "team": "Atlanta Hawks",
-      "rank": 20
+      "rank": 21
     },
     {
       "player": "Bruce Brown",
@@ -256,7 +268,55 @@
       "first_mention": "2026-09-16",
       "last_mention": "2026-09-16",
       "team": "Denver Nuggets",
-      "rank": 21
+      "rank": 22
+    },
+    {
+      "player": "Buddy Hield",
+      "score": 1.0,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-09-21",
+      "last_mention": "2026-09-21",
+      "team": "Golden State Warriors",
+      "rank": 23
+    },
+    {
+      "player": "Christian Braun",
+      "score": 1.0,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-09-21",
+      "last_mention": "2026-09-21",
+      "team": "Denver Nuggets",
+      "rank": 24
+    },
+    {
+      "player": "Devin Carter",
+      "score": 1.0,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-09-21",
+      "last_mention": "2026-09-21",
+      "team": "Atlanta Hawks",
+      "rank": 25
+    },
+    {
+      "player": "Dorian Finney-Smith",
+      "score": 1.0,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-09-21",
+      "last_mention": "2026-09-21",
+      "team": "Los Angeles Lakers",
+      "rank": 26
     },
     {
       "player": "Hugo Gonzalez",
@@ -268,7 +328,19 @@
       "first_mention": "2026-09-14",
       "last_mention": "2026-09-14",
       "team": "Boston Celtics",
-      "rank": 22
+      "rank": 27
+    },
+    {
+      "player": "Jamal Shead",
+      "score": 1.0,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-09-21",
+      "last_mention": "2026-09-21",
+      "team": "Charlotte Hornets",
+      "rank": 28
     },
     {
       "player": "Kevin McCullar",
@@ -280,7 +352,7 @@
       "first_mention": "2026-09-16",
       "last_mention": "2026-09-16",
       "team": "Indiana Pacers",
-      "rank": 23
+      "rank": 29
     },
     {
       "player": "Saddiq Bey",
@@ -292,7 +364,7 @@
       "first_mention": "2026-09-17",
       "last_mention": "2026-09-17",
       "team": "New Orleans Pelicans",
-      "rank": 24
+      "rank": 30
     },
     {
       "player": "Jonathan Kuminga",
@@ -304,7 +376,7 @@
       "first_mention": "2026-08-24",
       "last_mention": "2026-08-29",
       "team": "Golden State Warriors",
-      "rank": 25
+      "rank": 31
     },
     {
       "player": "Anthony Edwards",
@@ -316,7 +388,7 @@
       "first_mention": "2026-09-03",
       "last_mention": "2026-09-11",
       "team": "Minnesota Timberwolves",
-      "rank": 26
+      "rank": 32
     },
     {
       "player": "De'Aaron Fox",
@@ -328,7 +400,7 @@
       "first_mention": "2026-08-30",
       "last_mention": "2026-09-11",
       "team": "San Antonio Spurs",
-      "rank": 27
+      "rank": 33
     },
     {
       "player": "Fred VanVleet",
@@ -340,7 +412,7 @@
       "first_mention": "2026-08-30",
       "last_mention": "2026-09-02",
       "team": "Atlanta Hawks",
-      "rank": 28
+      "rank": 34
     },
     {
       "player": "Ivica Zubac",
@@ -352,7 +424,7 @@
       "first_mention": "2026-09-03",
       "last_mention": "2026-09-06",
       "team": "Los Angeles Clippers",
-      "rank": 29
+      "rank": 35
     },
     {
       "player": "James Harden",
@@ -364,7 +436,7 @@
       "first_mention": "2026-09-01",
       "last_mention": "2026-09-06",
       "team": "Los Angeles Clippers",
-      "rank": 30
+      "rank": 36
     },
     {
       "player": "Jerami Grant",
@@ -376,7 +448,7 @@
       "first_mention": "2026-09-02",
       "last_mention": "2026-09-06",
       "team": "Charlotte Hornets",
-      "rank": 31
+      "rank": 37
     },
     {
       "player": "Jrue Holiday",
@@ -388,7 +460,7 @@
       "first_mention": "2026-09-04",
       "last_mention": "2026-09-06",
       "team": "Portland Trail Blazers",
-      "rank": 32
+      "rank": 38
     },
     {
       "player": "Nikola Jovic",
@@ -400,7 +472,7 @@
       "first_mention": "2026-08-25",
       "last_mention": "2026-08-27",
       "team": "Boston Celtics",
-      "rank": 33
+      "rank": 39
     },
     {
       "player": "Trey Murphy",
@@ -412,7 +484,7 @@
       "first_mention": "2026-08-30",
       "last_mention": "2026-09-01",
       "team": "New Orleans Pelicans",
-      "rank": 34
+      "rank": 40
     },
     {
       "player": "Derrick Jones",
@@ -424,7 +496,7 @@
       "first_mention": "2026-09-11",
       "last_mention": "2026-09-11",
       "team": "Los Angeles Clippers",
-      "rank": 35
+      "rank": 41
     },
     {
       "player": "Devin Booker",
@@ -436,7 +508,7 @@
       "first_mention": "2026-09-12",
       "last_mention": "2026-09-12",
       "team": "Phoenix Suns",
-      "rank": 36
+      "rank": 42
     },
     {
       "player": "Evan Mobley",
@@ -448,7 +520,7 @@
       "first_mention": "2026-09-11",
       "last_mention": "2026-09-11",
       "team": "Cleveland Cavaliers",
-      "rank": 37
+      "rank": 43
     },
     {
       "player": "Ja Morant",
@@ -460,7 +532,7 @@
       "first_mention": "2026-09-08",
       "last_mention": "2026-09-08",
       "team": "Memphis Grizzlies",
-      "rank": 38
+      "rank": 44
     },
     {
       "player": "Joel Embiid",
@@ -472,7 +544,7 @@
       "first_mention": "2026-09-08",
       "last_mention": "2026-09-08",
       "team": "Philadelphia 76ers",
-      "rank": 39
+      "rank": 45
     },
     {
       "player": "Kris Dunn",
@@ -484,7 +556,7 @@
       "first_mention": "2026-09-07",
       "last_mention": "2026-09-07",
       "team": "Denver Nuggets",
-      "rank": 40
+      "rank": 46
     },
     {
       "player": "Miles McBride",
@@ -496,7 +568,7 @@
       "first_mention": "2026-09-10",
       "last_mention": "2026-09-10",
       "team": "New York Knicks",
-      "rank": 41
+      "rank": 47
     },
     {
       "player": "Peyton Watson",
@@ -508,7 +580,7 @@
       "first_mention": "2026-09-08",
       "last_mention": "2026-09-08",
       "team": "Atlanta Hawks",
-      "rank": 42
+      "rank": 48
     },
     {
       "player": "Tyrese Maxey",
@@ -520,7 +592,7 @@
       "first_mention": "2026-09-08",
       "last_mention": "2026-09-08",
       "team": "Philadelphia 76ers",
-      "rank": 43
+      "rank": 49
     },
     {
       "player": "Alex Caruso",
@@ -532,7 +604,7 @@
       "first_mention": "2026-08-25",
       "last_mention": "2026-08-25",
       "team": "Chicago Bulls",
-      "rank": 44
+      "rank": 50
     },
     {
       "player": "Anthony Davis",
@@ -544,7 +616,7 @@
       "first_mention": "2026-09-01",
       "last_mention": "2026-09-01",
       "team": "Dallas Mavericks",
-      "rank": 45
+      "rank": 51
     },
     {
       "player": "Cooper Flagg",
@@ -556,7 +628,7 @@
       "first_mention": "2026-08-31",
       "last_mention": "2026-08-31",
       "team": "Dallas Mavericks",
-      "rank": 46
+      "rank": 52
     },
     {
       "player": "Darius Garland",
@@ -568,7 +640,7 @@
       "first_mention": "2026-09-03",
       "last_mention": "2026-09-03",
       "team": "Cleveland Cavaliers",
-      "rank": 47
+      "rank": 53
     },
     {
       "player": "Davion Mitchell",
@@ -580,7 +652,7 @@
       "first_mention": "2026-08-27",
       "last_mention": "2026-08-27",
       "team": "Boston Celtics",
-      "rank": 48
+      "rank": 54
     },
     {
       "player": "Derrick White",
@@ -592,7 +664,7 @@
       "first_mention": "2026-09-02",
       "last_mention": "2026-09-02",
       "team": "Boston Celtics",
-      "rank": 49
+      "rank": 55
     },
     {
       "player": "Dru Smith",
@@ -604,7 +676,7 @@
       "first_mention": "2026-08-27",
       "last_mention": "2026-08-27",
       "team": "Boston Celtics",
-      "rank": 50
+      "rank": 56
     },
     {
       "player": "Duncan Robinson",
@@ -616,7 +688,7 @@
       "first_mention": "2026-09-04",
       "last_mention": "2026-09-04",
       "team": "Charlotte Hornets",
-      "rank": 51
+      "rank": 57
     },
     {
       "player": "Jaden McDaniels",
@@ -628,7 +700,7 @@
       "first_mention": "2026-08-30",
       "last_mention": "2026-08-30",
       "team": "Minnesota Timberwolves",
-      "rank": 52
+      "rank": 58
     },
     {
       "player": "Jaren Jackson Jr",
@@ -640,7 +712,7 @@
       "first_mention": "2026-09-02",
       "last_mention": "2026-09-02",
       "team": "Golden State Warriors",
-      "rank": 53
+      "rank": 59
     },
     {
       "player": "Jarred Vanderbilt",
@@ -652,7 +724,7 @@
       "first_mention": "2026-08-28",
       "last_mention": "2026-08-28",
       "team": "Los Angeles Lakers",
-      "rank": 54
+      "rank": 60
     },
     {
       "player": "Jarrett Allen",
@@ -664,7 +736,7 @@
       "first_mention": "2026-09-02",
       "last_mention": "2026-09-02",
       "team": "Cleveland Cavaliers",
-      "rank": 55
+      "rank": 61
     },
     {
       "player": "Jayson Tatum",
@@ -676,7 +748,7 @@
       "first_mention": "2026-08-31",
       "last_mention": "2026-08-31",
       "team": "Boston Celtics",
-      "rank": 56
+      "rank": 62
     },
     {
       "player": "Jimmy Butler",
@@ -688,7 +760,7 @@
       "first_mention": "2026-08-25",
       "last_mention": "2026-08-25",
       "team": "Golden State Warriors",
-      "rank": 57
+      "rank": 63
     },
     {
       "player": "Jordan Poole",
@@ -700,7 +772,7 @@
       "first_mention": "2026-09-06",
       "last_mention": "2026-09-06",
       "team": "Charlotte Hornets",
-      "rank": 58
+      "rank": 64
     },
     {
       "player": "Luguentz Dort",
@@ -712,7 +784,7 @@
       "first_mention": "2026-09-01",
       "last_mention": "2026-09-01",
       "team": "Atlanta Hawks",
-      "rank": 59
+      "rank": 65
     },
     {
       "player": "Michael Porter",
@@ -724,19 +796,7 @@
       "first_mention": "2026-09-01",
       "last_mention": "2026-09-01",
       "team": "Brooklyn Nets",
-      "rank": 60
-    },
-    {
-      "player": "Naz Reid",
-      "score": 0.25,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 1,
-      "first_mention": "2026-09-06",
-      "last_mention": "2026-09-06",
-      "team": "Minnesota Timberwolves",
-      "rank": 61
+      "rank": 66
     },
     {
       "player": "Nickeil Alexander-Walker",
@@ -748,7 +808,7 @@
       "first_mention": "2026-09-01",
       "last_mention": "2026-09-01",
       "team": "Atlanta Hawks",
-      "rank": 62
+      "rank": 67
     },
     {
       "player": "Paolo Banchero",
@@ -760,7 +820,7 @@
       "first_mention": "2026-08-28",
       "last_mention": "2026-08-28",
       "team": "Orlando Magic",
-      "rank": 63
+      "rank": 68
     },
     {
       "player": "Patrick Williams",
@@ -772,7 +832,7 @@
       "first_mention": "2026-08-25",
       "last_mention": "2026-08-25",
       "team": "Chicago Bulls",
-      "rank": 64
+      "rank": 69
     },
     {
       "player": "Royce O'Neale",
@@ -784,7 +844,7 @@
       "first_mention": "2026-09-04",
       "last_mention": "2026-09-04",
       "team": "Charlotte Hornets",
-      "rank": 65
+      "rank": 70
     },
     {
       "player": "Shai Gilgeous-Alexander",
@@ -796,7 +856,7 @@
       "first_mention": "2026-09-04",
       "last_mention": "2026-09-04",
       "team": "Oklahoma City Thunder",
-      "rank": 66
+      "rank": 71
     },
     {
       "player": "Taylor Hendricks",
@@ -808,7 +868,7 @@
       "first_mention": "2026-08-28",
       "last_mention": "2026-08-28",
       "team": "Los Angeles Lakers",
-      "rank": 67
+      "rank": 72
     },
     {
       "player": "Terance Mann",
@@ -820,34 +880,116 @@
       "first_mention": "2026-08-28",
       "last_mention": "2026-08-28",
       "team": "Los Angeles Lakers",
-      "rank": 68
+      "rank": 73
     }
   ],
   "player_rumors": {
-    "Paul George": [
+    "Buddy Hield": [
       {
-        "date": "2026-09-18",
-        "text": "Draymond Green Show: Draymond reacts to Danilo Gallinari's comments on Kawhi Leonard\"I think wishing the NBA took $50 million from a player is disgusting... that also wasn't his first time being traded, so for him to sit and act as if Kawhi Leonard ruined his career, that's bulls**t... I think Gallinari would choose Paul George over himself and if you won't, that's crazy, that's ridiculous... Kawhi Leonard does not have the power to trade a player, he can request... but he don't have the ability to make that trade.\"x.com",
-        "text_html": "Draymond Green Show: Draymond reacts to Danilo Gallinari's comments on Kawhi Leonard <a href=\"https://x.com/DraymondShow/status/2100955504902078801?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">\"I think wishing the NBA took $50 million from a player is disgusting... that also wasn't his first time being traded, so for him to sit and act as if Kawhi Leonard ruined his career, that's bulls**t... I think Gallinari would choose Paul George over himself and if you won't, that's crazy, that's ridiculous... Kawhi Leonard does not have the power to trade a player, he can request... but he don't have the ability to make that trade.\"</a>",
+        "date": "2026-09-21",
+        "text": "Atlanta and Charlotte, league sources say, have engaged in on-and-off trade discussions at various points this month on trade frameworks that would feature the Hornets' Dorian Finney-Smith and the Hawks' Buddy Hield. One version of a proposed trade, league sources say, could have included former lottery pick Devin Carter, but the Hawks elected to waive Carter on Sept. 11, setting up the former Providence star to sign with Boston.marcstein.substack.com",
+        "text_html": "<a href=\"https://marcstein.substack.com/p/lots-of-the-latest-albeit-not-as?utm_source=post-email-title&publication_id=392205&post_id=216645435&utm_campaign=email-post-title&isFreemail=false&r=10980&triedRedirect=true&utm_medium=email\" target=\"_blank\" style=\"color: #1a73e8;\">Atlanta and Charlotte, league sources say, have engaged in on-and-off trade discussions at various points this month on trade frameworks that would feature the Hornets' Dorian Finney-Smith and the Hawks' Buddy Hield</a>. One version of a proposed trade, league sources say, could have included former lottery pick Devin Carter, but the Hawks elected to waive Carter on Sept. 11, setting up the former Providence star to sign with Boston.",
+        "outlet": "marcstein.substack.com",
+        "source_url": "https://marcstein.substack.com/p/lots-of-the-latest-albeit-not-as?utm_source=post-email-title&publication_id=392205&post_id=216645435&utm_campaign=email-post-title&isFreemail=false&r=10980&triedRedirect=true&utm_medium=email"
+      }
+    ],
+    "Dorian Finney-Smith": [
+      {
+        "date": "2026-09-21",
+        "text": "Atlanta and Charlotte, league sources say, have engaged in on-and-off trade discussions at various points this month on trade frameworks that would feature the Hornets' Dorian Finney-Smith and the Hawks' Buddy Hield. One version of a proposed trade, league sources say, could have included former lottery pick Devin Carter, but the Hawks elected to waive Carter on Sept. 11, setting up the former Providence star to sign with Boston.marcstein.substack.com",
+        "text_html": "<a href=\"https://marcstein.substack.com/p/lots-of-the-latest-albeit-not-as?utm_source=post-email-title&publication_id=392205&post_id=216645435&utm_campaign=email-post-title&isFreemail=false&r=10980&triedRedirect=true&utm_medium=email\" target=\"_blank\" style=\"color: #1a73e8;\">Atlanta and Charlotte, league sources say, have engaged in on-and-off trade discussions at various points this month on trade frameworks that would feature the Hornets' Dorian Finney-Smith and the Hawks' Buddy Hield</a>. One version of a proposed trade, league sources say, could have included former lottery pick Devin Carter, but the Hawks elected to waive Carter on Sept. 11, setting up the former Providence star to sign with Boston.",
+        "outlet": "marcstein.substack.com",
+        "source_url": "https://marcstein.substack.com/p/lots-of-the-latest-albeit-not-as?utm_source=post-email-title&publication_id=392205&post_id=216645435&utm_campaign=email-post-title&isFreemail=false&r=10980&triedRedirect=true&utm_medium=email"
+      }
+    ],
+    "Devin Carter": [
+      {
+        "date": "2026-09-21",
+        "text": "Atlanta and Charlotte, league sources say, have engaged in on-and-off trade discussions at various points this month on trade frameworks that would feature the Hornets' Dorian Finney-Smith and the Hawks' Buddy Hield. One version of a proposed trade, league sources say, could have included former lottery pick Devin Carter, but the Hawks elected to waive Carter on Sept. 11, setting up the former Providence star to sign with Boston.marcstein.substack.com",
+        "text_html": "<a href=\"https://marcstein.substack.com/p/lots-of-the-latest-albeit-not-as?utm_source=post-email-title&publication_id=392205&post_id=216645435&utm_campaign=email-post-title&isFreemail=false&r=10980&triedRedirect=true&utm_medium=email\" target=\"_blank\" style=\"color: #1a73e8;\">Atlanta and Charlotte, league sources say, have engaged in on-and-off trade discussions at various points this month on trade frameworks that would feature the Hornets' Dorian Finney-Smith and the Hawks' Buddy Hield</a>. One version of a proposed trade, league sources say, could have included former lottery pick Devin Carter, but the Hawks elected to waive Carter on Sept. 11, setting up the former Providence star to sign with Boston.",
+        "outlet": "marcstein.substack.com",
+        "source_url": "https://marcstein.substack.com/p/lots-of-the-latest-albeit-not-as?utm_source=post-email-title&publication_id=392205&post_id=216645435&utm_campaign=email-post-title&isFreemail=false&r=10980&triedRedirect=true&utm_medium=email"
+      }
+    ],
+    "Domantas Sabonis": [
+      {
+        "date": "2026-09-21",
+        "text": "NBA Trade Machine:Christian Braun appeared in 9.4% of trades built on HoopsMatic over the past 24 hours.Of his trades, his most common destinations were Charlotte (64.2%), Dallas (9.4%), and San Antonio (5.7%). The players traded for him most often were Naz Reid (60.4%), Jamal Shead (39.6%), and Domantas Sabonis (32.1%).HoopsMatic",
+        "text_html": "NBA Trade Machine: <a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">Christian Braun appeared in 9.4% of trades built on HoopsMatic over the past 24 hours.</a> Of his trades, his most common destinations were Charlotte (64.2%), Dallas (9.4%), and San Antonio (5.7%). The players traded for him most often were Naz Reid (60.4%), Jamal Shead (39.6%), and Domantas Sabonis (32.1%).",
+        "outlet": "HoopsMatic",
+        "source_url": "https://hoopsmatic.com/"
+      },
+      {
+        "date": "2026-09-16",
+        "text": "In his Bleacher Report NBA insider updates, Jake Fischer revealed that the Sacramento Kings' asking price remains steep and is unwilling to be met by the Hornets and other teams for Sabonis. \"Right now, there's going to be continued disconnect between the Kings wanting to get back positive value and draft compensation for Sabonis compared to other teams not so eager to give Sabonis the contract extension he's looking for,\" Fischer said.\"I'm skeptical of this juncture how much market there were for Sabonis at the Kings\u2019 current asking price. I don't think Charlotte is really motivated to meet that Kings' asking price.\"BasketNews",
+        "text_html": "In his Bleacher Report NBA insider updates, Jake Fischer revealed that the Sacramento Kings' asking price remains steep and is unwilling to be met by the Hornets and other teams for Sabonis. \"Right now, there's going to be continued disconnect between the Kings wanting to get back positive value and draft compensation for Sabonis compared to other teams not so eager to give Sabonis the contract extension he's looking for,\" Fischer said. <a href=\"https://basketnews.com/news-255543-domantas-sabonis-trade-to-hornets-facing-huge-obstacle-per-nba-insider.html\" target=\"_blank\" style=\"color: #1a73e8;\">\"I'm skeptical of this juncture how much market there were for Sabonis at the Kings\u2019 current asking price. I don't think Charlotte is really motivated to meet that Kings' asking price.\"</a>",
+        "outlet": "BasketNews",
+        "source_url": "https://basketnews.com/news-255543-domantas-sabonis-trade-to-hornets-facing-huge-obstacle-per-nba-insider.html"
+      },
+      {
+        "date": "2026-09-09",
+        "text": "Matt George: This is not true or accurate.The Sacramento Kings have not spoken with the Charlotte Hornets since weeks before the NBA Draftper a league source.x.com",
+        "text_html": "Matt George: This is not true or accurate. <a href=\"https://x.com/MattGeorgeSAC/status/2097515835598463174\" target=\"_blank\" style=\"color: #1a73e8;\">The Sacramento Kings have not spoken with the Charlotte Hornets since weeks before the NBA Draft</a> per a league source.",
         "outlet": "x.com",
-        "source_url": "https://x.com/DraymondShow/status/2100955504902078801?s=20"
+        "source_url": "https://x.com/MattGeorgeSAC/status/2097515835598463174"
       },
       {
-        "date": "2026-09-17",
-        "text": "Danilo Gallinari: \"That was the first time where I got traded not because of an owner or GM or coach situation or request.It was clearly a player request that didn't like what he saw. He wanted his friend or whatever relationship was there with Paul George, and so that was what I didn't like. I didn't say anything bad.\"YouTube",
-        "text_html": "Danilo Gallinari: \"That was the first time where I got traded not because of an owner or GM or coach situation or request. <a href=\"https://www.youtube.com/watch?v=JEFfJ2XU7gY&t=1200s\" target=\"_blank\" style=\"color: #1a73e8;\">It was clearly a player request that didn't like what he saw. He wanted his friend or whatever relationship was there with Paul George, and so that was what I didn't like. I didn't say anything bad.\"</a>",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=JEFfJ2XU7gY&t=1200s"
+        "date": "2026-09-09",
+        "text": "Following his major agency shift, the Lithuanian big man is eyeing a new contract and commitment with another NBA team outside Sacramento.\"There's been some talk that Domantas Sabonis wants out of Sacramento himself, and that seems to be evident by the fact that he changed agents from Wasserman to CAA this summer,\" NBA insider Jake Fischer said on Bleacher Report. \"He's extension-eligible. \u2026 In today's NBA, in this second-apron era, if you're up for an extension, you don't want to get to free agency, you want to secure that next bag from your incumbent team, or you want to get traded to the next team that is willing to do that.\"BasketNews",
+        "text_html": "Following his major agency shift, the Lithuanian big man is eyeing a new contract and commitment with another NBA team outside Sacramento. <a href=\"https://basketnews.com/es/news-255156-domantas-sabonis-wants-kings-exit-after-major-move-per-nba-insider.html\" target=\"_blank\" style=\"color: #1a73e8;\">\"There's been some talk that Domantas Sabonis wants out of Sacramento himself, and that seems to be evident by the fact that he changed agents from Wasserman to CAA this summer,\" NBA insider Jake Fischer said on Bleacher Report</a>. \"He's extension-eligible. \u2026 In today's NBA, in this second-apron era, if you're up for an extension, you don't want to get to free agency, you want to secure that next bag from your incumbent team, or you want to get traded to the next team that is willing to do that.\"",
+        "outlet": "BasketNews",
+        "source_url": "https://basketnews.com/es/news-255156-domantas-sabonis-wants-kings-exit-after-major-move-per-nba-insider.html"
       },
       {
-        "date": "2026-09-14",
-        "text": "Danilo Gallinari strongly criticized the $700,000 fine imposed on Kawhi Leonard by the NBA. \u201cHe should pay all of that $50 million,\u201d Gallinari said on the A Cresta Alta podcast. \u201cHe changed the trajectory of my career and put me in a difficult situation by sending me away from Los Angeles.\u201d Gallinari left the Clippers in 2019 as part of the trade that brought Paul George to LosAngeles, a move that helped secure Leonard\u2019s arrival. \u201cWhat happened to my NBA career wasn\u2019t decided by a general manager or an owner, but by a player who decidedthat team wasn\u2019t good enough and wanted something else.\u201dSportando",
-        "text_html": "Danilo Gallinari strongly criticized the $700,000 fine imposed on Kawhi Leonard by the NBA. \u201cHe should pay all of that $50 million,\u201d Gallinari said on the A Cresta Alta podcast. \u201cHe changed the trajectory of my career and put me in a difficult situation by sending me away from Los Angeles.\u201d Gallinari left the Clippers in 2019 as part of the trade that brought Paul George to Los <a href=\"https://sportando.basketball/en/gallinari-blasts-kawhi-leonard-he-should-pay-all-50-million/\" target=\"_blank\" style=\"color: #1a73e8;\">Angeles, a move that helped secure Leonard\u2019s arrival. \u201cWhat happened to my NBA career wasn\u2019t decided by a general manager or an owner, but by a player who decided</a> that team wasn\u2019t good enough and wanted something else.\u201d",
-        "outlet": "Sportando",
-        "source_url": "https://sportando.basketball/en/gallinari-blasts-kawhi-leonard-he-should-pay-all-50-million/"
+        "date": "2026-09-03",
+        "text": "NBA Trade Machine:Domantas Sabonis appeared in 4.0% of trades built on HoopsMatic over the past 24 hours. Of his trades, his most common destinations were Minnesota (15.4%), LA Clippers (11.5%), and Indiana (11.5%).The players traded for him most often were Anthony Edwards (13.5%), Darius Garland (9.6%), and Luka Doncic (7.7%).HoopsMatic",
+        "text_html": "NBA Trade Machine: <a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">Domantas Sabonis appeared in 4.0% of trades built on HoopsMatic over the past 24 hours. Of his trades, his most common destinations were Minnesota (15.4%), LA Clippers (11.5%), and Indiana (11.5%).</a> The players traded for him most often were Anthony Edwards (13.5%), Darius Garland (9.6%), and Luka Doncic (7.7%).",
+        "outlet": "HoopsMatic",
+        "source_url": "https://hoopsmatic.com/"
+      }
+    ],
+    "Naz Reid": [
+      {
+        "date": "2026-09-21",
+        "text": "NBA Trade Machine:Christian Braun appeared in 9.4% of trades built on HoopsMatic over the past 24 hours.Of his trades, his most common destinations were Charlotte (64.2%), Dallas (9.4%), and San Antonio (5.7%). The players traded for him most often were Naz Reid (60.4%), Jamal Shead (39.6%), and Domantas Sabonis (32.1%).HoopsMatic",
+        "text_html": "NBA Trade Machine: <a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">Christian Braun appeared in 9.4% of trades built on HoopsMatic over the past 24 hours.</a> Of his trades, his most common destinations were Charlotte (64.2%), Dallas (9.4%), and San Antonio (5.7%). The players traded for him most often were Naz Reid (60.4%), Jamal Shead (39.6%), and Domantas Sabonis (32.1%).",
+        "outlet": "HoopsMatic",
+        "source_url": "https://hoopsmatic.com/"
+      },
+      {
+        "date": "2026-09-06",
+        "text": "NBA Trade Machine: Over the past24 hours, Jordan Poole featured in 12.7% of trades built on HoopsMatic.Within his trades, he landed most often in Memphis (25.9%), Charlotte (24.7%), and Portland (17.6%). Most often, he was traded for Jerami Grant (25.9%), Jrue Holiday (17.6%), and Naz Reid (17.6%).HoopsMatic",
+        "text_html": "NBA Trade Machine: Over the past <a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">24 hours, Jordan Poole featured in 12.7% of trades built on HoopsMatic.</a> Within his trades, he landed most often in Memphis (25.9%), Charlotte (24.7%), and Portland (17.6%). Most often, he was traded for Jerami Grant (25.9%), Jrue Holiday (17.6%), and Naz Reid (17.6%).",
+        "outlet": "HoopsMatic",
+        "source_url": "https://hoopsmatic.com/"
+      }
+    ],
+    "Christian Braun": [
+      {
+        "date": "2026-09-21",
+        "text": "NBA Trade Machine:Christian Braun appeared in 9.4% of trades built on HoopsMatic over the past 24 hours.Of his trades, his most common destinations were Charlotte (64.2%), Dallas (9.4%), and San Antonio (5.7%). The players traded for him most often were Naz Reid (60.4%), Jamal Shead (39.6%), and Domantas Sabonis (32.1%).HoopsMatic",
+        "text_html": "NBA Trade Machine: <a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">Christian Braun appeared in 9.4% of trades built on HoopsMatic over the past 24 hours.</a> Of his trades, his most common destinations were Charlotte (64.2%), Dallas (9.4%), and San Antonio (5.7%). The players traded for him most often were Naz Reid (60.4%), Jamal Shead (39.6%), and Domantas Sabonis (32.1%).",
+        "outlet": "HoopsMatic",
+        "source_url": "https://hoopsmatic.com/"
+      }
+    ],
+    "Jamal Shead": [
+      {
+        "date": "2026-09-21",
+        "text": "NBA Trade Machine:Christian Braun appeared in 9.4% of trades built on HoopsMatic over the past 24 hours.Of his trades, his most common destinations were Charlotte (64.2%), Dallas (9.4%), and San Antonio (5.7%). The players traded for him most often were Naz Reid (60.4%), Jamal Shead (39.6%), and Domantas Sabonis (32.1%).HoopsMatic",
+        "text_html": "NBA Trade Machine: <a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">Christian Braun appeared in 9.4% of trades built on HoopsMatic over the past 24 hours.</a> Of his trades, his most common destinations were Charlotte (64.2%), Dallas (9.4%), and San Antonio (5.7%). The players traded for him most often were Naz Reid (60.4%), Jamal Shead (39.6%), and Domantas Sabonis (32.1%).",
+        "outlet": "HoopsMatic",
+        "source_url": "https://hoopsmatic.com/"
       }
     ],
     "Kawhi Leonard": [
+      {
+        "date": "2026-09-21",
+        "text": "The Clippers, sources say, were not willing to offer an extension to Leonard beyond his $50.3 million contract for the 2026-27 season,which was the initial spark that led to trade talks with the Raptors before the summerlong wait for a resolution to the NBA's yearlong external investigation commissioned to address allegations of salary cap circumvention by the Clippers.marcstein.substack.com",
+        "text_html": "<a href=\"https://marcstein.substack.com/p/lots-of-the-latest-albeit-not-as?utm_source=post-email-title&publication_id=392205&post_id=216645435&utm_campaign=email-post-title&isFreemail=false&r=10980&triedRedirect=true&utm_medium=email\" target=\"_blank\" style=\"color: #1a73e8;\">The Clippers, sources say, were not willing to offer an extension to Leonard beyond his $50.3 million contract for the 2026-27 season,</a> which was the initial spark that led to trade talks with the Raptors before the summerlong wait for a resolution to the NBA's yearlong external investigation commissioned to address allegations of salary cap circumvention by the Clippers.",
+        "outlet": "marcstein.substack.com",
+        "source_url": "https://marcstein.substack.com/p/lots-of-the-latest-albeit-not-as?utm_source=post-email-title&publication_id=392205&post_id=216645435&utm_campaign=email-post-title&isFreemail=false&r=10980&triedRedirect=true&utm_medium=email"
+      },
       {
         "date": "2026-09-18",
         "text": "Draymond Green Show: Draymond reacts to Danilo Gallinari's comments on Kawhi Leonard\"I think wishing the NBA took $50 million from a player is disgusting... that also wasn't his first time being traded, so for him to sit and act as if Kawhi Leonard ruined his career, that's bulls**t... I think Gallinari would choose Paul George over himself and if you won't, that's crazy, that's ridiculous... Kawhi Leonard does not have the power to trade a player, he can request... but he don't have the ability to make that trade.\"x.com",
@@ -1045,6 +1187,29 @@
         "source_url": "https://www.youtube.com/watch?v=m8eqLTbhQCw&t=890s"
       }
     ],
+    "Paul George": [
+      {
+        "date": "2026-09-18",
+        "text": "Draymond Green Show: Draymond reacts to Danilo Gallinari's comments on Kawhi Leonard\"I think wishing the NBA took $50 million from a player is disgusting... that also wasn't his first time being traded, so for him to sit and act as if Kawhi Leonard ruined his career, that's bulls**t... I think Gallinari would choose Paul George over himself and if you won't, that's crazy, that's ridiculous... Kawhi Leonard does not have the power to trade a player, he can request... but he don't have the ability to make that trade.\"x.com",
+        "text_html": "Draymond Green Show: Draymond reacts to Danilo Gallinari's comments on Kawhi Leonard <a href=\"https://x.com/DraymondShow/status/2100955504902078801?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">\"I think wishing the NBA took $50 million from a player is disgusting... that also wasn't his first time being traded, so for him to sit and act as if Kawhi Leonard ruined his career, that's bulls**t... I think Gallinari would choose Paul George over himself and if you won't, that's crazy, that's ridiculous... Kawhi Leonard does not have the power to trade a player, he can request... but he don't have the ability to make that trade.\"</a>",
+        "outlet": "x.com",
+        "source_url": "https://x.com/DraymondShow/status/2100955504902078801?s=20"
+      },
+      {
+        "date": "2026-09-17",
+        "text": "Danilo Gallinari: \"That was the first time where I got traded not because of an owner or GM or coach situation or request.It was clearly a player request that didn't like what he saw. He wanted his friend or whatever relationship was there with Paul George, and so that was what I didn't like. I didn't say anything bad.\"YouTube",
+        "text_html": "Danilo Gallinari: \"That was the first time where I got traded not because of an owner or GM or coach situation or request. <a href=\"https://www.youtube.com/watch?v=JEFfJ2XU7gY&t=1200s\" target=\"_blank\" style=\"color: #1a73e8;\">It was clearly a player request that didn't like what he saw. He wanted his friend or whatever relationship was there with Paul George, and so that was what I didn't like. I didn't say anything bad.\"</a>",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=JEFfJ2XU7gY&t=1200s"
+      },
+      {
+        "date": "2026-09-14",
+        "text": "Danilo Gallinari strongly criticized the $700,000 fine imposed on Kawhi Leonard by the NBA. \u201cHe should pay all of that $50 million,\u201d Gallinari said on the A Cresta Alta podcast. \u201cHe changed the trajectory of my career and put me in a difficult situation by sending me away from Los Angeles.\u201d Gallinari left the Clippers in 2019 as part of the trade that brought Paul George to LosAngeles, a move that helped secure Leonard\u2019s arrival. \u201cWhat happened to my NBA career wasn\u2019t decided by a general manager or an owner, but by a player who decidedthat team wasn\u2019t good enough and wanted something else.\u201dSportando",
+        "text_html": "Danilo Gallinari strongly criticized the $700,000 fine imposed on Kawhi Leonard by the NBA. \u201cHe should pay all of that $50 million,\u201d Gallinari said on the A Cresta Alta podcast. \u201cHe changed the trajectory of my career and put me in a difficult situation by sending me away from Los Angeles.\u201d Gallinari left the Clippers in 2019 as part of the trade that brought Paul George to Los <a href=\"https://sportando.basketball/en/gallinari-blasts-kawhi-leonard-he-should-pay-all-50-million/\" target=\"_blank\" style=\"color: #1a73e8;\">Angeles, a move that helped secure Leonard\u2019s arrival. \u201cWhat happened to my NBA career wasn\u2019t decided by a general manager or an owner, but by a player who decided</a> that team wasn\u2019t good enough and wanted something else.\u201d",
+        "outlet": "Sportando",
+        "source_url": "https://sportando.basketball/en/gallinari-blasts-kawhi-leonard-he-should-pay-all-50-million/"
+      }
+    ],
     "Draymond Green": [
       {
         "date": "2026-09-18",
@@ -1194,36 +1359,6 @@
         "text_html": "Also similarly, while Chisholm and his group may have strong feelings for the Celtics as a public trust, they weren\u2019t there when Boston drafted Jaylen Brown in 2016, a year before the Cs took Jayson Tatum. As such, they were not as invested emotionally in Brown\u2019s on-court development over the last decade, his powerful connection to the Black community in Boston or his finals MVP turn in 2024. <a href=\"https://www.nytimes.com/athletic/7537822/2026/08/31/nba-money-owners-rich-franchise-sale/\" target=\"_blank\" style=\"color: #1a73e8;\">Moving Brown to the Philadelphia 76ers \u2014 while not having to commit another $140 million on an extension \u2014 became a palatable off-ramp</a>.",
         "outlet": "New York Times",
         "source_url": "https://www.nytimes.com/athletic/7537822/2026/08/31/nba-money-owners-rich-franchise-sale/"
-      }
-    ],
-    "Domantas Sabonis": [
-      {
-        "date": "2026-09-16",
-        "text": "In his Bleacher Report NBA insider updates, Jake Fischer revealed that the Sacramento Kings' asking price remains steep and is unwilling to be met by the Hornets and other teams for Sabonis. \"Right now, there's going to be continued disconnect between the Kings wanting to get back positive value and draft compensation for Sabonis compared to other teams not so eager to give Sabonis the contract extension he's looking for,\" Fischer said.\"I'm skeptical of this juncture how much market there were for Sabonis at the Kings\u2019 current asking price. I don't think Charlotte is really motivated to meet that Kings' asking price.\"BasketNews",
-        "text_html": "In his Bleacher Report NBA insider updates, Jake Fischer revealed that the Sacramento Kings' asking price remains steep and is unwilling to be met by the Hornets and other teams for Sabonis. \"Right now, there's going to be continued disconnect between the Kings wanting to get back positive value and draft compensation for Sabonis compared to other teams not so eager to give Sabonis the contract extension he's looking for,\" Fischer said. <a href=\"https://basketnews.com/news-255543-domantas-sabonis-trade-to-hornets-facing-huge-obstacle-per-nba-insider.html\" target=\"_blank\" style=\"color: #1a73e8;\">\"I'm skeptical of this juncture how much market there were for Sabonis at the Kings\u2019 current asking price. I don't think Charlotte is really motivated to meet that Kings' asking price.\"</a>",
-        "outlet": "BasketNews",
-        "source_url": "https://basketnews.com/news-255543-domantas-sabonis-trade-to-hornets-facing-huge-obstacle-per-nba-insider.html"
-      },
-      {
-        "date": "2026-09-09",
-        "text": "Matt George: This is not true or accurate.The Sacramento Kings have not spoken with the Charlotte Hornets since weeks before the NBA Draftper a league source.x.com",
-        "text_html": "Matt George: This is not true or accurate. <a href=\"https://x.com/MattGeorgeSAC/status/2097515835598463174\" target=\"_blank\" style=\"color: #1a73e8;\">The Sacramento Kings have not spoken with the Charlotte Hornets since weeks before the NBA Draft</a> per a league source.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/MattGeorgeSAC/status/2097515835598463174"
-      },
-      {
-        "date": "2026-09-09",
-        "text": "Following his major agency shift, the Lithuanian big man is eyeing a new contract and commitment with another NBA team outside Sacramento.\"There's been some talk that Domantas Sabonis wants out of Sacramento himself, and that seems to be evident by the fact that he changed agents from Wasserman to CAA this summer,\" NBA insider Jake Fischer said on Bleacher Report. \"He's extension-eligible. \u2026 In today's NBA, in this second-apron era, if you're up for an extension, you don't want to get to free agency, you want to secure that next bag from your incumbent team, or you want to get traded to the next team that is willing to do that.\"BasketNews",
-        "text_html": "Following his major agency shift, the Lithuanian big man is eyeing a new contract and commitment with another NBA team outside Sacramento. <a href=\"https://basketnews.com/es/news-255156-domantas-sabonis-wants-kings-exit-after-major-move-per-nba-insider.html\" target=\"_blank\" style=\"color: #1a73e8;\">\"There's been some talk that Domantas Sabonis wants out of Sacramento himself, and that seems to be evident by the fact that he changed agents from Wasserman to CAA this summer,\" NBA insider Jake Fischer said on Bleacher Report</a>. \"He's extension-eligible. \u2026 In today's NBA, in this second-apron era, if you're up for an extension, you don't want to get to free agency, you want to secure that next bag from your incumbent team, or you want to get traded to the next team that is willing to do that.\"",
-        "outlet": "BasketNews",
-        "source_url": "https://basketnews.com/es/news-255156-domantas-sabonis-wants-kings-exit-after-major-move-per-nba-insider.html"
-      },
-      {
-        "date": "2026-09-03",
-        "text": "NBA Trade Machine:Domantas Sabonis appeared in 4.0% of trades built on HoopsMatic over the past 24 hours. Of his trades, his most common destinations were Minnesota (15.4%), LA Clippers (11.5%), and Indiana (11.5%).The players traded for him most often were Anthony Edwards (13.5%), Darius Garland (9.6%), and Luka Doncic (7.7%).HoopsMatic",
-        "text_html": "NBA Trade Machine: <a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">Domantas Sabonis appeared in 4.0% of trades built on HoopsMatic over the past 24 hours. Of his trades, his most common destinations were Minnesota (15.4%), LA Clippers (11.5%), and Indiana (11.5%).</a> The players traded for him most often were Anthony Edwards (13.5%), Darius Garland (9.6%), and Luka Doncic (7.7%).",
-        "outlet": "HoopsMatic",
-        "source_url": "https://hoopsmatic.com/"
       }
     ],
     "Jalen Duren": [
@@ -1693,15 +1828,6 @@
         "source_url": "https://hoopsmatic.com/"
       }
     ],
-    "Naz Reid": [
-      {
-        "date": "2026-09-06",
-        "text": "NBA Trade Machine: Over the past24 hours, Jordan Poole featured in 12.7% of trades built on HoopsMatic.Within his trades, he landed most often in Memphis (25.9%), Charlotte (24.7%), and Portland (17.6%). Most often, he was traded for Jerami Grant (25.9%), Jrue Holiday (17.6%), and Naz Reid (17.6%).HoopsMatic",
-        "text_html": "NBA Trade Machine: Over the past <a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">24 hours, Jordan Poole featured in 12.7% of trades built on HoopsMatic.</a> Within his trades, he landed most often in Memphis (25.9%), Charlotte (24.7%), and Portland (17.6%). Most often, he was traded for Jerami Grant (25.9%), Jrue Holiday (17.6%), and Naz Reid (17.6%).",
-        "outlet": "HoopsMatic",
-        "source_url": "https://hoopsmatic.com/"
-      }
-    ],
     "Royce O'Neale": [
       {
         "date": "2026-09-04",
@@ -2012,12 +2138,33 @@
     ]
   },
   "daily_counts": {
-    "Paul George": {
-      "2026-09-18": 1,
-      "2026-09-17": 1,
-      "2026-09-14": 1
+    "Buddy Hield": {
+      "2026-09-21": 1
+    },
+    "Dorian Finney-Smith": {
+      "2026-09-21": 1
+    },
+    "Devin Carter": {
+      "2026-09-21": 1
+    },
+    "Domantas Sabonis": {
+      "2026-09-21": 1,
+      "2026-09-16": 1,
+      "2026-09-09": 2,
+      "2026-09-03": 1
+    },
+    "Naz Reid": {
+      "2026-09-21": 1,
+      "2026-09-06": 1
+    },
+    "Christian Braun": {
+      "2026-09-21": 1
+    },
+    "Jamal Shead": {
+      "2026-09-21": 1
     },
     "Kawhi Leonard": {
+      "2026-09-21": 1,
       "2026-09-18": 1,
       "2026-09-17": 2,
       "2026-09-15": 1,
@@ -2030,6 +2177,11 @@
       "2026-09-05": 2,
       "2026-09-02": 1,
       "2026-08-28": 1
+    },
+    "Paul George": {
+      "2026-09-18": 1,
+      "2026-09-17": 1,
+      "2026-09-14": 1
     },
     "Draymond Green": {
       "2026-09-18": 1,
@@ -2064,11 +2216,6 @@
       "2026-09-09": 1,
       "2026-09-08": 2,
       "2026-08-31": 1
-    },
-    "Domantas Sabonis": {
-      "2026-09-16": 1,
-      "2026-09-09": 2,
-      "2026-09-03": 1
     },
     "Jalen Duren": {
       "2026-09-14": 1,
@@ -2169,9 +2316,6 @@
       "2026-09-02": 1
     },
     "Jordan Poole": {
-      "2026-09-06": 1
-    },
-    "Naz Reid": {
       "2026-09-06": 1
     },
     "Royce O'Neale": {
