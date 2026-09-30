@@ -1,58 +1,22 @@
 {
-  "generated_at": "2026-09-29T22:50:50.276954",
+  "generated_at": "2026-09-30T06:18:21.027112",
   "scrape_window_days": 28,
-  "window_start": "2026-09-01",
-  "window_end": "2026-09-29",
-  "total_rumors": 187,
-  "total_players": 77,
+  "window_start": "2026-09-02",
+  "window_end": "2026-09-30",
+  "total_rumors": 183,
+  "total_players": 74,
   "rankings": [
     {
       "player": "Kawhi Leonard",
-      "score": 8.25,
+      "score": 8.0,
       "mentions_week1": 0,
-      "mentions_week2": 5,
-      "mentions_weeks3_4": 23,
+      "mentions_week2": 4,
+      "mentions_weeks3_4": 24,
       "total_mentions": 28,
       "first_mention": "2026-09-02",
       "last_mention": "2026-09-21",
       "team": "Los Angeles Clippers",
       "rank": 1
-    },
-    {
-      "player": "Buddy Hield",
-      "score": 6.5,
-      "mentions_week1": 6,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 7,
-      "first_mention": "2026-09-21",
-      "last_mention": "2026-09-22",
-      "team": "Golden State Warriors",
-      "rank": 2
-    },
-    {
-      "player": "Dorian Finney-Smith",
-      "score": 6.5,
-      "mentions_week1": 6,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 7,
-      "first_mention": "2026-09-21",
-      "last_mention": "2026-09-22",
-      "team": "Los Angeles Lakers",
-      "rank": 3
-    },
-    {
-      "player": "Ryan Nembhard",
-      "score": 6.0,
-      "mentions_week1": 6,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 6,
-      "first_mention": "2026-09-22",
-      "last_mention": "2026-09-22",
-      "team": "Atlanta Hawks",
-      "rank": 4
     },
     {
       "player": "Domantas Sabonis",
@@ -64,19 +28,31 @@
       "first_mention": "2026-09-03",
       "last_mention": "2026-09-26",
       "team": "Sacramento Kings",
-      "rank": 5
+      "rank": 2
     },
     {
-      "player": "Kyrie Irving",
+      "player": "Buddy Hield",
       "score": 3.5,
-      "mentions_week1": 3,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 5,
-      "first_mention": "2026-09-01",
-      "last_mention": "2026-09-27",
-      "team": "Dallas Mavericks",
-      "rank": 6
+      "mentions_week1": 0,
+      "mentions_week2": 7,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 7,
+      "first_mention": "2026-09-21",
+      "last_mention": "2026-09-22",
+      "team": "Golden State Warriors",
+      "rank": 3
+    },
+    {
+      "player": "Dorian Finney-Smith",
+      "score": 3.5,
+      "mentions_week1": 0,
+      "mentions_week2": 7,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 7,
+      "first_mention": "2026-09-21",
+      "last_mention": "2026-09-22",
+      "team": "Los Angeles Lakers",
+      "rank": 4
     },
     {
       "player": "Jalen Duren",
@@ -88,7 +64,19 @@
       "first_mention": "2026-09-14",
       "last_mention": "2026-09-29",
       "team": "Detroit Pistons",
-      "rank": 7
+      "rank": 5
+    },
+    {
+      "player": "Ryan Nembhard",
+      "score": 3.0,
+      "mentions_week1": 0,
+      "mentions_week2": 6,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 6,
+      "first_mention": "2026-09-22",
+      "last_mention": "2026-09-22",
+      "team": "Atlanta Hawks",
+      "rank": 6
     },
     {
       "player": "Stephen Curry",
@@ -100,7 +88,7 @@
       "first_mention": "2026-09-17",
       "last_mention": "2026-09-24",
       "team": "Golden State Warriors",
-      "rank": 8
+      "rank": 7
     },
     {
       "player": "Luka Doncic",
@@ -112,7 +100,7 @@
       "first_mention": "2026-09-03",
       "last_mention": "2026-09-28",
       "team": "Los Angeles Lakers",
-      "rank": 9
+      "rank": 8
     },
     {
       "player": "Jaylen Brown",
@@ -124,6 +112,18 @@
       "first_mention": "2026-09-08",
       "last_mention": "2026-09-29",
       "team": "Boston Celtics",
+      "rank": 9
+    },
+    {
+      "player": "Kyrie Irving",
+      "score": 2.25,
+      "mentions_week1": 1,
+      "mentions_week2": 2,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 4,
+      "first_mention": "2026-09-08",
+      "last_mention": "2026-09-27",
+      "team": "Dallas Mavericks",
       "rank": 10
     },
     {
@@ -139,15 +139,15 @@
       "rank": 11
     },
     {
-      "player": "Jimmy Butler",
+      "player": "LeBron James",
       "score": 2.0,
-      "mentions_week1": 2,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 2,
-      "first_mention": "2026-09-22",
-      "last_mention": "2026-09-28",
-      "team": "Golden State Warriors",
+      "mentions_week1": 1,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 2,
+      "total_mentions": 4,
+      "first_mention": "2026-09-08",
+      "last_mention": "2026-09-29",
+      "team": "Los Angeles Lakers",
       "rank": 12
     },
     {
@@ -175,6 +175,18 @@
       "rank": 14
     },
     {
+      "player": "Jimmy Butler",
+      "score": 1.5,
+      "mentions_week1": 1,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 2,
+      "first_mention": "2026-09-22",
+      "last_mention": "2026-09-28",
+      "team": "Golden State Warriors",
+      "rank": 15
+    },
+    {
       "player": "Jordan Hawkins",
       "score": 1.25,
       "mentions_week1": 0,
@@ -184,7 +196,7 @@
       "first_mention": "2026-09-08",
       "last_mention": "2026-09-09",
       "team": "Memphis Grizzlies",
-      "rank": 15
+      "rank": 16
     },
     {
       "player": "Paul George",
@@ -196,18 +208,6 @@
       "first_mention": "2026-09-14",
       "last_mention": "2026-09-18",
       "team": "Philadelphia 76ers",
-      "rank": 16
-    },
-    {
-      "player": "Anthony Davis",
-      "score": 1.25,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 2,
-      "first_mention": "2026-09-01",
-      "last_mention": "2026-09-22",
-      "team": "Dallas Mavericks",
       "rank": 17
     },
     {
@@ -235,18 +235,6 @@
       "rank": 19
     },
     {
-      "player": "Devin Booker",
-      "score": 1.25,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 2,
-      "first_mention": "2026-09-12",
-      "last_mention": "2026-09-22",
-      "team": "Phoenix Suns",
-      "rank": 20
-    },
-    {
       "player": "Duncan Robinson",
       "score": 1.25,
       "mentions_week1": 1,
@@ -256,7 +244,7 @@
       "first_mention": "2026-09-04",
       "last_mention": "2026-09-26",
       "team": "Detroit Pistons",
-      "rank": 21
+      "rank": 20
     },
     {
       "player": "Jaren Jackson Jr",
@@ -268,19 +256,7 @@
       "first_mention": "2026-09-02",
       "last_mention": "2026-09-28",
       "team": "Golden State Warriors",
-      "rank": 22
-    },
-    {
-      "player": "Jordan Poole",
-      "score": 1.25,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 2,
-      "first_mention": "2026-09-06",
-      "last_mention": "2026-09-22",
-      "team": "Golden State Warriors",
-      "rank": 23
+      "rank": 21
     },
     {
       "player": "Peyton Watson",
@@ -292,7 +268,19 @@
       "first_mention": "2026-09-08",
       "last_mention": "2026-09-28",
       "team": "Cleveland Cavaliers",
-      "rank": 24
+      "rank": 22
+    },
+    {
+      "player": "Tyrese Maxey",
+      "score": 1.25,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 2,
+      "first_mention": "2026-09-08",
+      "last_mention": "2026-09-29",
+      "team": "Philadelphia 76ers",
+      "rank": 23
     },
     {
       "player": "AJ Johnson",
@@ -304,7 +292,7 @@
       "first_mention": "2026-09-08",
       "last_mention": "2026-09-08",
       "team": "Memphis Grizzlies",
-      "rank": 25
+      "rank": 24
     },
     {
       "player": "Brandon Ingram",
@@ -316,7 +304,7 @@
       "first_mention": "2026-09-03",
       "last_mention": "2026-09-14",
       "team": "Toronto Raptors",
-      "rank": 26
+      "rank": 25
     },
     {
       "player": "Micah Peavy",
@@ -328,19 +316,7 @@
       "first_mention": "2026-09-08",
       "last_mention": "2026-09-08",
       "team": "Memphis Grizzlies",
-      "rank": 27
-    },
-    {
-      "player": "LeBron James",
-      "score": 1.0,
-      "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 3,
-      "first_mention": "2026-09-08",
-      "last_mention": "2026-09-16",
-      "team": "Los Angeles Lakers",
-      "rank": 28
+      "rank": 26
     },
     {
       "player": "Draymond Green",
@@ -352,7 +328,7 @@
       "first_mention": "2026-09-16",
       "last_mention": "2026-09-18",
       "team": "Golden State Warriors",
-      "rank": 29
+      "rank": 27
     },
     {
       "player": "Alperen Sengun",
@@ -364,7 +340,7 @@
       "first_mention": "2026-09-27",
       "last_mention": "2026-09-27",
       "team": "Houston Rockets",
-      "rank": 30
+      "rank": 28
     },
     {
       "player": "Cedric Coward",
@@ -376,7 +352,7 @@
       "first_mention": "2026-09-23",
       "last_mention": "2026-09-23",
       "team": "Denver Nuggets",
-      "rank": 31
+      "rank": 29
     },
     {
       "player": "Damian Lillard",
@@ -388,7 +364,7 @@
       "first_mention": "2026-09-23",
       "last_mention": "2026-09-23",
       "team": "Denver Nuggets",
-      "rank": 32
+      "rank": 30
     },
     {
       "player": "Gary Harris",
@@ -400,7 +376,7 @@
       "first_mention": "2026-09-26",
       "last_mention": "2026-09-26",
       "team": "Detroit Pistons",
-      "rank": 33
+      "rank": 31
     },
     {
       "player": "Jaden Hardy",
@@ -412,7 +388,7 @@
       "first_mention": "2026-09-24",
       "last_mention": "2026-09-24",
       "team": "Charlotte Hornets",
-      "rank": 34
+      "rank": 32
     },
     {
       "player": "Jarred Vanderbilt",
@@ -424,7 +400,7 @@
       "first_mention": "2026-09-29",
       "last_mention": "2026-09-29",
       "team": "Dallas Mavericks",
-      "rank": 35
+      "rank": 33
     },
     {
       "player": "Khaman Maluach",
@@ -436,7 +412,7 @@
       "first_mention": "2026-09-24",
       "last_mention": "2026-09-24",
       "team": "Charlotte Hornets",
-      "rank": 36
+      "rank": 34
     },
     {
       "player": "LaMelo Ball",
@@ -448,7 +424,7 @@
       "first_mention": "2026-09-29",
       "last_mention": "2026-09-29",
       "team": "Charlotte Hornets",
-      "rank": 37
+      "rank": 35
     },
     {
       "player": "Moussa Diabate",
@@ -460,7 +436,7 @@
       "first_mention": "2026-09-25",
       "last_mention": "2026-09-25",
       "team": "Charlotte Hornets",
-      "rank": 38
+      "rank": 36
     },
     {
       "player": "Myles Turner",
@@ -472,7 +448,7 @@
       "first_mention": "2026-09-29",
       "last_mention": "2026-09-29",
       "team": "Milwaukee Bucks",
-      "rank": 39
+      "rank": 37
     },
     {
       "player": "PJ Washington",
@@ -484,7 +460,7 @@
       "first_mention": "2026-09-29",
       "last_mention": "2026-09-29",
       "team": "Dallas Mavericks",
-      "rank": 40
+      "rank": 38
     },
     {
       "player": "Taurean Prince",
@@ -496,7 +472,19 @@
       "first_mention": "2026-09-26",
       "last_mention": "2026-09-26",
       "team": "Detroit Pistons",
-      "rank": 41
+      "rank": 39
+    },
+    {
+      "player": "VJ Edgecombe",
+      "score": 1.0,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-09-29",
+      "last_mention": "2026-09-29",
+      "team": "Philadelphia 76ers",
+      "rank": 40
     },
     {
       "player": "Zaccharie Risacher",
@@ -508,7 +496,7 @@
       "first_mention": "2026-09-27",
       "last_mention": "2026-09-27",
       "team": "Atlanta Hawks",
-      "rank": 42
+      "rank": 41
     },
     {
       "player": "Zach LaVine",
@@ -520,7 +508,7 @@
       "first_mention": "2026-09-27",
       "last_mention": "2026-09-27",
       "team": "Sacramento Kings",
-      "rank": 43
+      "rank": 42
     },
     {
       "player": "Zeke Nnaji",
@@ -532,7 +520,7 @@
       "first_mention": "2026-09-24",
       "last_mention": "2026-09-24",
       "team": "Charlotte Hornets",
-      "rank": 44
+      "rank": 43
     },
     {
       "player": "Zion Williamson",
@@ -544,7 +532,7 @@
       "first_mention": "2026-09-27",
       "last_mention": "2026-09-27",
       "team": "New Orleans Pelicans",
-      "rank": 45
+      "rank": 44
     },
     {
       "player": "Gradey Dick",
@@ -556,6 +544,18 @@
       "first_mention": "2026-09-03",
       "last_mention": "2026-09-14",
       "team": "Toronto Raptors",
+      "rank": 45
+    },
+    {
+      "player": "Devin Booker",
+      "score": 0.75,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 2,
+      "first_mention": "2026-09-12",
+      "last_mention": "2026-09-22",
+      "team": "Phoenix Suns",
       "rank": 46
     },
     {
@@ -583,6 +583,18 @@
       "rank": 48
     },
     {
+      "player": "Jordan Poole",
+      "score": 0.75,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 2,
+      "first_mention": "2026-09-06",
+      "last_mention": "2026-09-22",
+      "team": "Golden State Warriors",
+      "rank": 49
+    },
+    {
       "player": "Naz Reid",
       "score": 0.75,
       "mentions_week1": 0,
@@ -592,7 +604,7 @@
       "first_mention": "2026-09-06",
       "last_mention": "2026-09-21",
       "team": "Minnesota Timberwolves",
-      "rank": 49
+      "rank": 50
     },
     {
       "player": "Anthony Edwards",
@@ -604,7 +616,7 @@
       "first_mention": "2026-09-03",
       "last_mention": "2026-09-11",
       "team": "Minnesota Timberwolves",
-      "rank": 50
+      "rank": 51
     },
     {
       "player": "Ivica Zubac",
@@ -616,7 +628,7 @@
       "first_mention": "2026-09-03",
       "last_mention": "2026-09-06",
       "team": "Los Angeles Clippers",
-      "rank": 51
+      "rank": 52
     },
     {
       "player": "Jaime Jaquez",
@@ -628,18 +640,6 @@
       "first_mention": "2026-09-07",
       "last_mention": "2026-09-08",
       "team": "Atlanta Hawks",
-      "rank": 52
-    },
-    {
-      "player": "James Harden",
-      "score": 0.5,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 2,
-      "first_mention": "2026-09-01",
-      "last_mention": "2026-09-06",
-      "team": "Los Angeles Clippers",
       "rank": 53
     },
     {
@@ -655,6 +655,18 @@
       "rank": 54
     },
     {
+      "player": "Anthony Davis",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-09-22",
+      "last_mention": "2026-09-22",
+      "team": "Dallas Mavericks",
+      "rank": 55
+    },
+    {
       "player": "Bruce Brown",
       "score": 0.5,
       "mentions_week1": 0,
@@ -664,7 +676,7 @@
       "first_mention": "2026-09-16",
       "last_mention": "2026-09-16",
       "team": "Denver Nuggets",
-      "rank": 55
+      "rank": 56
     },
     {
       "player": "Christian Braun",
@@ -676,7 +688,7 @@
       "first_mention": "2026-09-21",
       "last_mention": "2026-09-21",
       "team": "Denver Nuggets",
-      "rank": 56
+      "rank": 57
     },
     {
       "player": "Devin Carter",
@@ -688,7 +700,7 @@
       "first_mention": "2026-09-21",
       "last_mention": "2026-09-21",
       "team": "Atlanta Hawks",
-      "rank": 57
+      "rank": 58
     },
     {
       "player": "Jamal Shead",
@@ -700,7 +712,7 @@
       "first_mention": "2026-09-21",
       "last_mention": "2026-09-21",
       "team": "Charlotte Hornets",
-      "rank": 58
+      "rank": 59
     },
     {
       "player": "Kevin McCullar",
@@ -712,7 +724,7 @@
       "first_mention": "2026-09-16",
       "last_mention": "2026-09-16",
       "team": "Indiana Pacers",
-      "rank": 59
+      "rank": 60
     },
     {
       "player": "Saddiq Bey",
@@ -724,7 +736,7 @@
       "first_mention": "2026-09-17",
       "last_mention": "2026-09-17",
       "team": "New Orleans Pelicans",
-      "rank": 60
+      "rank": 61
     },
     {
       "player": "Bennedict Mathurin",
@@ -736,7 +748,7 @@
       "first_mention": "2026-09-08",
       "last_mention": "2026-09-08",
       "team": "Indiana Pacers",
-      "rank": 61
+      "rank": 62
     },
     {
       "player": "Darius Garland",
@@ -748,7 +760,7 @@
       "first_mention": "2026-09-03",
       "last_mention": "2026-09-03",
       "team": "Cleveland Cavaliers",
-      "rank": 62
+      "rank": 63
     },
     {
       "player": "Derrick White",
@@ -760,7 +772,7 @@
       "first_mention": "2026-09-02",
       "last_mention": "2026-09-02",
       "team": "Boston Celtics",
-      "rank": 63
+      "rank": 64
     },
     {
       "player": "Evan Mobley",
@@ -772,7 +784,7 @@
       "first_mention": "2026-09-11",
       "last_mention": "2026-09-11",
       "team": "Cleveland Cavaliers",
-      "rank": 64
+      "rank": 65
     },
     {
       "player": "Fred VanVleet",
@@ -784,7 +796,7 @@
       "first_mention": "2026-09-02",
       "last_mention": "2026-09-02",
       "team": "Atlanta Hawks",
-      "rank": 65
+      "rank": 66
     },
     {
       "player": "Hugo Gonzalez",
@@ -796,7 +808,19 @@
       "first_mention": "2026-09-14",
       "last_mention": "2026-09-14",
       "team": "Boston Celtics",
-      "rank": 66
+      "rank": 67
+    },
+    {
+      "player": "James Harden",
+      "score": 0.25,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 1,
+      "first_mention": "2026-09-06",
+      "last_mention": "2026-09-06",
+      "team": "Los Angeles Clippers",
+      "rank": 68
     },
     {
       "player": "Jarrett Allen",
@@ -808,7 +832,7 @@
       "first_mention": "2026-09-02",
       "last_mention": "2026-09-02",
       "team": "Cleveland Cavaliers",
-      "rank": 67
+      "rank": 69
     },
     {
       "player": "Joel Embiid",
@@ -820,7 +844,7 @@
       "first_mention": "2026-09-08",
       "last_mention": "2026-09-08",
       "team": "Philadelphia 76ers",
-      "rank": 68
+      "rank": 70
     },
     {
       "player": "Kris Dunn",
@@ -832,30 +856,6 @@
       "first_mention": "2026-09-07",
       "last_mention": "2026-09-07",
       "team": "Denver Nuggets",
-      "rank": 69
-    },
-    {
-      "player": "Luguentz Dort",
-      "score": 0.25,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 1,
-      "first_mention": "2026-09-01",
-      "last_mention": "2026-09-01",
-      "team": "Atlanta Hawks",
-      "rank": 70
-    },
-    {
-      "player": "Michael Porter",
-      "score": 0.25,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 1,
-      "first_mention": "2026-09-01",
-      "last_mention": "2026-09-01",
-      "team": "Brooklyn Nets",
       "rank": 71
     },
     {
@@ -871,18 +871,6 @@
       "rank": 72
     },
     {
-      "player": "Nickeil Alexander-Walker",
-      "score": 0.25,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 1,
-      "first_mention": "2026-09-01",
-      "last_mention": "2026-09-01",
-      "team": "Atlanta Hawks",
-      "rank": 73
-    },
-    {
       "player": "Royce O'Neale",
       "score": 0.25,
       "mentions_week1": 0,
@@ -892,7 +880,7 @@
       "first_mention": "2026-09-04",
       "last_mention": "2026-09-04",
       "team": "Charlotte Hornets",
-      "rank": 74
+      "rank": 73
     },
     {
       "player": "Shai Gilgeous-Alexander",
@@ -904,34 +892,65 @@
       "first_mention": "2026-09-04",
       "last_mention": "2026-09-04",
       "team": "Oklahoma City Thunder",
-      "rank": 75
-    },
-    {
-      "player": "Trey Murphy",
-      "score": 0.25,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 1,
-      "first_mention": "2026-09-01",
-      "last_mention": "2026-09-01",
-      "team": "New Orleans Pelicans",
-      "rank": 76
-    },
-    {
-      "player": "Tyrese Maxey",
-      "score": 0.25,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 1,
-      "first_mention": "2026-09-08",
-      "last_mention": "2026-09-08",
-      "team": "Philadelphia 76ers",
-      "rank": 77
+      "rank": 74
     }
   ],
   "player_rumors": {
+    "LeBron James": [
+      {
+        "date": "2026-09-29",
+        "text": "Edgecombe boasted Monday about creating a get-to-know-you group chat when the Sixers traded for Brown \u2014 but had to ask All-NBA guard Tyrese Maxey to add James once he signed later that month.Though Maxey has consistently spent summers working out with James, a fellow Klutch agency client, this year they could experiment with two-man actions to run as teammates and drill nuances such as angles and the timing of cuts. Brown joined for some sessions that circulated on social media. Maxey also linked with Edgecombe and Simons for on-court work.The Philadelphia Inquirer",
+        "text_html": "<a href=\"https://www.inquirer.com/sixers/sixers-lebron-james-joel-embiid-nick-nurse-practice-training-camp-20260929.html\" target=\"_blank\" style=\"color: #1a73e8;\">Edgecombe boasted Monday about creating a get-to-know-you group chat when the Sixers traded for Brown \u2014 but had to ask All-NBA guard Tyrese Maxey to add James once he signed later that month.</a> Though Maxey has consistently spent summers working out with James, a fellow Klutch agency client, this year they could experiment with two-man actions to run as teammates and drill nuances such as angles and the timing of cuts. Brown joined for some sessions that circulated on social media. Maxey also linked with Edgecombe and Simons for on-court work.",
+        "outlet": "The Philadelphia Inquirer",
+        "source_url": "https://www.inquirer.com/sixers/sixers-lebron-james-joel-embiid-nick-nurse-practice-training-camp-20260929.html"
+      },
+      {
+        "date": "2026-09-16",
+        "text": "After announcing that he would retire after last season, Matt Cord plans to return for his 29th season as the Sixers' public address announcer, he announced on 93.3 WMMR on Wednesday morning. The reasons were quite simple.\"They made a trade for Jaylen Brown on July 1,\" Cord said. \"...And then on July 24, LeBron James signed with the Sixers.\"Cord said the subject of his signature call, Allen Iverson, was one of many people to reach out to him during the summer imploring him to return to the microphone.Philly Voice",
+        "text_html": "After announcing that he would retire after last season, Matt Cord plans to return for his 29th season as the Sixers' public address announcer, he announced on 93.3 WMMR on Wednesday morning. The reasons were quite simple. <a href=\"https://www.phillyvoice.com/sixers-news-analysis-matt-cord-pa-announcer-lineup-intros-video-allen-iverson0retirement-lebron-james-jaylen-brown/\" target=\"_blank\" style=\"color: #1a73e8;\">\"They made a trade for Jaylen Brown on July 1,\" Cord said. \"...And then on July 24, LeBron James signed with the Sixers.\"</a> Cord said the subject of his signature call, Allen Iverson, was one of many people to reach out to him during the summer imploring him to return to the microphone.",
+        "outlet": "Philly Voice",
+        "source_url": "https://www.phillyvoice.com/sixers-news-analysis-matt-cord-pa-announcer-lineup-intros-video-allen-iverson0retirement-lebron-james-jaylen-brown/"
+      },
+      {
+        "date": "2026-09-08",
+        "text": "Once the Sixers completed the trade for Brown, they reached out to LeBron James\u2019 agent Rich Paul. Their initial pitch was also a simple one: James can play on a roster capable of winning at a high level.Over the coming days and weeks, Maxey, Embiid and Brown all took turns recruiting James,\u00a0according to\u00a0league\u00a0sources.The Sixers believed they had more than talent to appeal to one of the greatest players ever to play the game: They also had fit.New York Times",
+        "text_html": "Once the Sixers completed the trade for Brown, they reached out to LeBron James\u2019 agent Rich Paul. Their initial pitch was also a simple one: James can play on a roster capable of winning at a high level. <a href=\"https://www.nytimes.com/athletic/7503951/2026/09/08/76ers-roster-lebron-james-jaylen-brown-mike-gansey/\" target=\"_blank\" style=\"color: #1a73e8;\">Over the coming days and weeks, Maxey, Embiid and Brown all took turns recruiting James, according to league sources.</a> The Sixers believed they had more than talent to appeal to one of the greatest players ever to play the game: They also had fit.",
+        "outlet": "New York Times",
+        "source_url": "https://www.nytimes.com/athletic/7503951/2026/09/08/76ers-roster-lebron-james-jaylen-brown-mike-gansey/"
+      },
+      {
+        "date": "2026-09-08",
+        "text": "Getting Brown proved to be the move that unlocked Philadelphia\u2019s ability to recruit LeBron James. But how the Sixers approached this summer provides a window into the new man in charge of the front office. In addition to conversations with Gansey and head coach Nick Nurse,\u00a0The Athletic\u00a0spoke with three league\u00a0sources\u00a0with direct\u00a0knowledge\u00a0of Philadelphia\u2019s offseason maneuvering. The\u00a0sources\u00a0spoke on the conditions of anonymity because they were not authorized to publicly discuss private trade talks, negotiations and recruitment efforts.New York Times",
+        "text_html": "<a href=\"https://www.nytimes.com/athletic/7503951/2026/09/08/76ers-roster-lebron-james-jaylen-brown-mike-gansey/\" target=\"_blank\" style=\"color: #1a73e8;\">Getting Brown proved to be the move that unlocked Philadelphia\u2019s ability to recruit LeBron James. But how the Sixers approached this summer provides a window into the new man in charge of the front office</a>. In addition to conversations with Gansey and head coach Nick Nurse, The Athletic spoke with three league sources with direct knowledge of Philadelphia\u2019s offseason maneuvering. The sources spoke on the conditions of anonymity because they were not authorized to publicly discuss private trade talks, negotiations and recruitment efforts.",
+        "outlet": "New York Times",
+        "source_url": "https://www.nytimes.com/athletic/7503951/2026/09/08/76ers-roster-lebron-james-jaylen-brown-mike-gansey/"
+      }
+    ],
+    "Tyrese Maxey": [
+      {
+        "date": "2026-09-29",
+        "text": "Edgecombe boasted Monday about creating a get-to-know-you group chat when the Sixers traded for Brown \u2014 but had to ask All-NBA guard Tyrese Maxey to add James once he signed later that month.Though Maxey has consistently spent summers working out with James, a fellow Klutch agency client, this year they could experiment with two-man actions to run as teammates and drill nuances such as angles and the timing of cuts. Brown joined for some sessions that circulated on social media. Maxey also linked with Edgecombe and Simons for on-court work.The Philadelphia Inquirer",
+        "text_html": "<a href=\"https://www.inquirer.com/sixers/sixers-lebron-james-joel-embiid-nick-nurse-practice-training-camp-20260929.html\" target=\"_blank\" style=\"color: #1a73e8;\">Edgecombe boasted Monday about creating a get-to-know-you group chat when the Sixers traded for Brown \u2014 but had to ask All-NBA guard Tyrese Maxey to add James once he signed later that month.</a> Though Maxey has consistently spent summers working out with James, a fellow Klutch agency client, this year they could experiment with two-man actions to run as teammates and drill nuances such as angles and the timing of cuts. Brown joined for some sessions that circulated on social media. Maxey also linked with Edgecombe and Simons for on-court work.",
+        "outlet": "The Philadelphia Inquirer",
+        "source_url": "https://www.inquirer.com/sixers/sixers-lebron-james-joel-embiid-nick-nurse-practice-training-camp-20260929.html"
+      },
+      {
+        "date": "2026-09-08",
+        "text": "Once the Sixers completed the trade for Brown, they reached out to LeBron James\u2019 agent Rich Paul. Their initial pitch was also a simple one: James can play on a roster capable of winning at a high level.Over the coming days and weeks, Maxey, Embiid and Brown all took turns recruiting James,\u00a0according to\u00a0league\u00a0sources.The Sixers believed they had more than talent to appeal to one of the greatest players ever to play the game: They also had fit.New York Times",
+        "text_html": "Once the Sixers completed the trade for Brown, they reached out to LeBron James\u2019 agent Rich Paul. Their initial pitch was also a simple one: James can play on a roster capable of winning at a high level. <a href=\"https://www.nytimes.com/athletic/7503951/2026/09/08/76ers-roster-lebron-james-jaylen-brown-mike-gansey/\" target=\"_blank\" style=\"color: #1a73e8;\">Over the coming days and weeks, Maxey, Embiid and Brown all took turns recruiting James, according to league sources.</a> The Sixers believed they had more than talent to appeal to one of the greatest players ever to play the game: They also had fit.",
+        "outlet": "New York Times",
+        "source_url": "https://www.nytimes.com/athletic/7503951/2026/09/08/76ers-roster-lebron-james-jaylen-brown-mike-gansey/"
+      }
+    ],
+    "VJ Edgecombe": [
+      {
+        "date": "2026-09-29",
+        "text": "Edgecombe boasted Monday about creating a get-to-know-you group chat when the Sixers traded for Brown \u2014 but had to ask All-NBA guard Tyrese Maxey to add James once he signed later that month.Though Maxey has consistently spent summers working out with James, a fellow Klutch agency client, this year they could experiment with two-man actions to run as teammates and drill nuances such as angles and the timing of cuts. Brown joined for some sessions that circulated on social media. Maxey also linked with Edgecombe and Simons for on-court work.The Philadelphia Inquirer",
+        "text_html": "<a href=\"https://www.inquirer.com/sixers/sixers-lebron-james-joel-embiid-nick-nurse-practice-training-camp-20260929.html\" target=\"_blank\" style=\"color: #1a73e8;\">Edgecombe boasted Monday about creating a get-to-know-you group chat when the Sixers traded for Brown \u2014 but had to ask All-NBA guard Tyrese Maxey to add James once he signed later that month.</a> Though Maxey has consistently spent summers working out with James, a fellow Klutch agency client, this year they could experiment with two-man actions to run as teammates and drill nuances such as angles and the timing of cuts. Brown joined for some sessions that circulated on social media. Maxey also linked with Edgecombe and Simons for on-court work.",
+        "outlet": "The Philadelphia Inquirer",
+        "source_url": "https://www.inquirer.com/sixers/sixers-lebron-james-joel-embiid-nick-nurse-practice-training-camp-20260929.html"
+      }
+    ],
     "Jalen Duren": [
       {
         "date": "2026-09-29",
@@ -1219,13 +1238,6 @@
         "text_html": "Teams across the league are intrigued by how, or if, the 34-year-old Kyrie Irving fits in the Mavericks' long-term plans as the franchise prioritizes building around its teenage prodigy. <a href=\"https://www.espn.com/nba/story/_/id/49827564/biggest-injury-returns-2026-27-nba-season-irving-haliburton-doncic-butler-lillard\" target=\"_blank\" style=\"color: #1a73e8;\">A healthy Irving, who has averaged 25.5 points and 5.1 assists per game in a Mavs uniform, could be a prime target for contenders before the trade deadline if new Dallas president Masai Ujiri is willing to engage in those discussions. -- Tim MacMahon</a>",
         "outlet": "ESPN",
         "source_url": "https://www.espn.com/nba/story/_/id/49827564/biggest-injury-returns-2026-27-nba-season-irving-haliburton-doncic-butler-lillard"
-      },
-      {
-        "date": "2026-09-01",
-        "text": "Kyrie Irving has a\u00a0$42 million player option in 2027-28, and him getting dealt to a contender might rest on a handshake deal (like James Harden in Cleveland) on the option year.Western Conference\u00a0executive: \u201cIf you have some sense that, OK, we pay him $40 million this year, and next year he opts out and we can do a two-year deal or a three year deal at a lesser number, then I think you can do something.If he comes back and he is scoring 24, 25 points (per game), then you will have teams willing to give up a first-round pick for him. Maybe more, maybe a young player, too. But with his injury history, I don\u2019t think you give up more than one first.\u201dHeavy.com",
-        "text_html": "Kyrie Irving has a $42 million player option in 2027-28, and him getting dealt to a contender might rest on a handshake deal (like James Harden in Cleveland) on the option year. <a href=\"https://heavy.com/sports/nba/golden-state-warriors/nba-trade-rumors-deal-cost-for-kyrie-irving-trey-murphy-more/\" target=\"_blank\" style=\"color: #1a73e8;\">Western Conference executive: \u201cIf you have some sense that, OK, we pay him $40 million this year, and next year he opts out and we can do a two-year deal or a three year deal at a lesser number, then I think you can do something.</a> If he comes back and he is scoring 24, 25 points (per game), then you will have teams willing to give up a first-round pick for him. Maybe more, maybe a young player, too. But with his injury history, I don\u2019t think you give up more than one first.\u201d",
-        "outlet": "Heavy.com",
-        "source_url": "https://heavy.com/sports/nba/golden-state-warriors/nba-trade-rumors-deal-cost-for-kyrie-irving-trey-murphy-more/"
       }
     ],
     "Zach LaVine": [
@@ -1609,13 +1621,6 @@
         "text_html": "On HoopsMatic over the past 24 hours, <a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">Jimmy Butler showed up in 5.3% of all trades built.</a> Among those, he was most often sent to Washington (11.1%), Phoenix (9.3%), and San Antonio (9.3%), and the return pieces that came up most often were Anthony Davis (11.1%), Devin Booker (9.3%), and Jordan Poole (9.3%).",
         "outlet": "HoopsMatic",
         "source_url": "https://hoopsmatic.com/"
-      },
-      {
-        "date": "2026-09-01",
-        "text": "Ohm Youngmisuk: The Wizards and Anthony Davis mutually decided to wait on talks on a potential extension until after the season starts, but depending how the season begins for Washington, the big man might seek a trade.But if he is healthy and comes back looking like the dominant player he has shown he can be, Washington could make noise in the Eastern Conference.ESPN",
-        "text_html": "Ohm Youngmisuk: The Wizards and Anthony Davis mutually decided to wait on talks on a potential extension until after the season starts, but depending how the season begins for Washington, the big man might seek a trade. <a href=\"https://www.espn.com/nba/story/_/id/49783369/washington-wizards-offseason-recap-2026-27-season-preview-stats-roster-depth-chart\" target=\"_blank\" style=\"color: #1a73e8;\">But if he is healthy and comes back looking like the dominant player he has shown he can be, Washington could make noise in the Eastern Conference</a>.",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/49783369/washington-wizards-offseason-recap-2026-27-season-preview-stats-roster-depth-chart"
       }
     ],
     "Devin Booker": [
@@ -1989,29 +1994,6 @@
         "source_url": "https://x.com/IanBegley/status/2100269786982748430?s=20"
       }
     ],
-    "LeBron James": [
-      {
-        "date": "2026-09-16",
-        "text": "After announcing that he would retire after last season, Matt Cord plans to return for his 29th season as the Sixers' public address announcer, he announced on 93.3 WMMR on Wednesday morning. The reasons were quite simple.\"They made a trade for Jaylen Brown on July 1,\" Cord said. \"...And then on July 24, LeBron James signed with the Sixers.\"Cord said the subject of his signature call, Allen Iverson, was one of many people to reach out to him during the summer imploring him to return to the microphone.Philly Voice",
-        "text_html": "After announcing that he would retire after last season, Matt Cord plans to return for his 29th season as the Sixers' public address announcer, he announced on 93.3 WMMR on Wednesday morning. The reasons were quite simple. <a href=\"https://www.phillyvoice.com/sixers-news-analysis-matt-cord-pa-announcer-lineup-intros-video-allen-iverson0retirement-lebron-james-jaylen-brown/\" target=\"_blank\" style=\"color: #1a73e8;\">\"They made a trade for Jaylen Brown on July 1,\" Cord said. \"...And then on July 24, LeBron James signed with the Sixers.\"</a> Cord said the subject of his signature call, Allen Iverson, was one of many people to reach out to him during the summer imploring him to return to the microphone.",
-        "outlet": "Philly Voice",
-        "source_url": "https://www.phillyvoice.com/sixers-news-analysis-matt-cord-pa-announcer-lineup-intros-video-allen-iverson0retirement-lebron-james-jaylen-brown/"
-      },
-      {
-        "date": "2026-09-08",
-        "text": "Once the Sixers completed the trade for Brown, they reached out to LeBron James\u2019 agent Rich Paul. Their initial pitch was also a simple one: James can play on a roster capable of winning at a high level.Over the coming days and weeks, Maxey, Embiid and Brown all took turns recruiting James,\u00a0according to\u00a0league\u00a0sources.The Sixers believed they had more than talent to appeal to one of the greatest players ever to play the game: They also had fit.New York Times",
-        "text_html": "Once the Sixers completed the trade for Brown, they reached out to LeBron James\u2019 agent Rich Paul. Their initial pitch was also a simple one: James can play on a roster capable of winning at a high level. <a href=\"https://www.nytimes.com/athletic/7503951/2026/09/08/76ers-roster-lebron-james-jaylen-brown-mike-gansey/\" target=\"_blank\" style=\"color: #1a73e8;\">Over the coming days and weeks, Maxey, Embiid and Brown all took turns recruiting James, according to league sources.</a> The Sixers believed they had more than talent to appeal to one of the greatest players ever to play the game: They also had fit.",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/7503951/2026/09/08/76ers-roster-lebron-james-jaylen-brown-mike-gansey/"
-      },
-      {
-        "date": "2026-09-08",
-        "text": "Getting Brown proved to be the move that unlocked Philadelphia\u2019s ability to recruit LeBron James. But how the Sixers approached this summer provides a window into the new man in charge of the front office. In addition to conversations with Gansey and head coach Nick Nurse,\u00a0The Athletic\u00a0spoke with three league\u00a0sources\u00a0with direct\u00a0knowledge\u00a0of Philadelphia\u2019s offseason maneuvering. The\u00a0sources\u00a0spoke on the conditions of anonymity because they were not authorized to publicly discuss private trade talks, negotiations and recruitment efforts.New York Times",
-        "text_html": "<a href=\"https://www.nytimes.com/athletic/7503951/2026/09/08/76ers-roster-lebron-james-jaylen-brown-mike-gansey/\" target=\"_blank\" style=\"color: #1a73e8;\">Getting Brown proved to be the move that unlocked Philadelphia\u2019s ability to recruit LeBron James. But how the Sixers approached this summer provides a window into the new man in charge of the front office</a>. In addition to conversations with Gansey and head coach Nick Nurse, The Athletic spoke with three league sources with direct knowledge of Philadelphia\u2019s offseason maneuvering. The sources spoke on the conditions of anonymity because they were not authorized to publicly discuss private trade talks, negotiations and recruitment efforts.",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/7503951/2026/09/08/76ers-roster-lebron-james-jaylen-brown-mike-gansey/"
-      }
-    ],
     "Brandon Ingram": [
       {
         "date": "2026-09-14",
@@ -2214,15 +2196,6 @@
         "source_url": "https://www.nytimes.com/athletic/7503951/2026/09/08/76ers-roster-lebron-james-jaylen-brown-mike-gansey/"
       }
     ],
-    "Tyrese Maxey": [
-      {
-        "date": "2026-09-08",
-        "text": "Once the Sixers completed the trade for Brown, they reached out to LeBron James\u2019 agent Rich Paul. Their initial pitch was also a simple one: James can play on a roster capable of winning at a high level.Over the coming days and weeks, Maxey, Embiid and Brown all took turns recruiting James,\u00a0according to\u00a0league\u00a0sources.The Sixers believed they had more than talent to appeal to one of the greatest players ever to play the game: They also had fit.New York Times",
-        "text_html": "Once the Sixers completed the trade for Brown, they reached out to LeBron James\u2019 agent Rich Paul. Their initial pitch was also a simple one: James can play on a roster capable of winning at a high level. <a href=\"https://www.nytimes.com/athletic/7503951/2026/09/08/76ers-roster-lebron-james-jaylen-brown-mike-gansey/\" target=\"_blank\" style=\"color: #1a73e8;\">Over the coming days and weeks, Maxey, Embiid and Brown all took turns recruiting James, according to league sources.</a> The Sixers believed they had more than talent to appeal to one of the greatest players ever to play the game: They also had fit.",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/7503951/2026/09/08/76ers-roster-lebron-james-jaylen-brown-mike-gansey/"
-      }
-    ],
     "Jaime Jaquez": [
       {
         "date": "2026-09-08",
@@ -2264,13 +2237,6 @@
         "text_html": "The league is also taking away five first-round draft picks from the Clippers in 2029, 2030, 2031, 2032 and 2033. <a href=\"https://www.inquirer.com/sixers/sixers-clippers-james-harden-trade-fine-punishment-kawhi-leonard-20260903.html\" target=\"_blank\" style=\"color: #1a73e8;\">The 76ers still have some Clippers draft capital from the trade that sent James Harden to Los Angeles in 2023, but that will be unaffected by the league\u2019s punishments,</a> a source confirmed.",
         "outlet": "The Philadelphia Inquirer",
         "source_url": "https://www.inquirer.com/sixers/sixers-clippers-james-harden-trade-fine-punishment-kawhi-leonard-20260903.html"
-      },
-      {
-        "date": "2026-09-01",
-        "text": "Kyrie Irving has a\u00a0$42 million player option in 2027-28, and him getting dealt to a contender might rest on a handshake deal (like James Harden in Cleveland) on the option year.Western Conference\u00a0executive: \u201cIf you have some sense that, OK, we pay him $40 million this year, and next year he opts out and we can do a two-year deal or a three year deal at a lesser number, then I think you can do something.If he comes back and he is scoring 24, 25 points (per game), then you will have teams willing to give up a first-round pick for him. Maybe more, maybe a young player, too. But with his injury history, I don\u2019t think you give up more than one first.\u201dHeavy.com",
-        "text_html": "Kyrie Irving has a $42 million player option in 2027-28, and him getting dealt to a contender might rest on a handshake deal (like James Harden in Cleveland) on the option year. <a href=\"https://heavy.com/sports/nba/golden-state-warriors/nba-trade-rumors-deal-cost-for-kyrie-irving-trey-murphy-more/\" target=\"_blank\" style=\"color: #1a73e8;\">Western Conference executive: \u201cIf you have some sense that, OK, we pay him $40 million this year, and next year he opts out and we can do a two-year deal or a three year deal at a lesser number, then I think you can do something.</a> If he comes back and he is scoring 24, 25 points (per game), then you will have teams willing to give up a first-round pick for him. Maybe more, maybe a young player, too. But with his injury history, I don\u2019t think you give up more than one first.\u201d",
-        "outlet": "Heavy.com",
-        "source_url": "https://heavy.com/sports/nba/golden-state-warriors/nba-trade-rumors-deal-cost-for-kyrie-irving-trey-murphy-more/"
       }
     ],
     "Ivica Zubac": [
@@ -2358,45 +2324,21 @@
         "outlet": "HoopsMatic",
         "source_url": "https://hoopsmatic.com/"
       }
-    ],
-    "Luguentz Dort": [
-      {
-        "date": "2026-09-01",
-        "text": "Clemente Almanza: Luguentz Dort on getting traded to the Hawks:\"It's amazing. Obviously, Nickeil [Alexander-Walker] is one of my closest friends. Played on the same team with Nickeil in high school and against him our whole life, obviously. When I got the call and I knew I was heading there, I hit him right away. I was really happy.He's helped me out throughout this whole transition and with their style of play. I'm glad that I got a guy like him on my team now.\"x.com",
-        "text_html": "Clemente Almanza: Luguentz Dort on getting traded to the Hawks: <a href=\"https://x.com/CAlmanza1007/status/2094611601198592477\" target=\"_blank\" style=\"color: #1a73e8;\">\"It's amazing. Obviously, Nickeil [Alexander-Walker] is one of my closest friends. Played on the same team with Nickeil in high school and against him our whole life, obviously. When I got the call and I knew I was heading there, I hit him right away. I was really happy.</a> He's helped me out throughout this whole transition and with their style of play. I'm glad that I got a guy like him on my team now.\"",
-        "outlet": "x.com",
-        "source_url": "https://x.com/CAlmanza1007/status/2094611601198592477"
-      }
-    ],
-    "Nickeil Alexander-Walker": [
-      {
-        "date": "2026-09-01",
-        "text": "Clemente Almanza: Luguentz Dort on getting traded to the Hawks:\"It's amazing. Obviously, Nickeil [Alexander-Walker] is one of my closest friends. Played on the same team with Nickeil in high school and against him our whole life, obviously. When I got the call and I knew I was heading there, I hit him right away. I was really happy.He's helped me out throughout this whole transition and with their style of play. I'm glad that I got a guy like him on my team now.\"x.com",
-        "text_html": "Clemente Almanza: Luguentz Dort on getting traded to the Hawks: <a href=\"https://x.com/CAlmanza1007/status/2094611601198592477\" target=\"_blank\" style=\"color: #1a73e8;\">\"It's amazing. Obviously, Nickeil [Alexander-Walker] is one of my closest friends. Played on the same team with Nickeil in high school and against him our whole life, obviously. When I got the call and I knew I was heading there, I hit him right away. I was really happy.</a> He's helped me out throughout this whole transition and with their style of play. I'm glad that I got a guy like him on my team now.\"",
-        "outlet": "x.com",
-        "source_url": "https://x.com/CAlmanza1007/status/2094611601198592477"
-      }
-    ],
-    "Trey Murphy": [
-      {
-        "date": "2026-09-01",
-        "text": "Trey Murphy, Pelicans. Murphy\u2019s\u00a0contract\u00a0is not prohibitive (three years, $87 million) and because he is a wing who can play both ways, he has been especially coveted on the market. But the Pelicans have not gotten serious about moving him yet, because he is still only 26 and the team wants to see how the roster comes together. They\u2019ve asked for as much as four-first-round picks, as the Grizzlies got for Desmond Bane, but that price will come down if the Pelicans move him. Western Conference\u00a0executive:\u201cI think they\u2019d still hold firm on three first-rounders for him. They look at the return for Mikal Bridges (five first-rounders) and Bane and they see Murphy in the same category. But those deals, teams are not going to want to do those going forward. So, a good young rotation player and two first-rounders is probably where you land.\u201dHeavy.com",
-        "text_html": "Trey Murphy, Pelicans. Murphy\u2019s contract is not prohibitive (three years, $87 million) and because he is a wing who can play both ways, he has been especially coveted on the market. But the Pelicans have not gotten serious about moving him yet, because he is still only 26 and the team wants to see how the roster comes together. They\u2019ve asked for as much as four-first-round picks, as the Grizzlies got for Desmond Bane, but that price will come down if the Pelicans move him. Western Conference executive: <a href=\"https://heavy.com/sports/nba/golden-state-warriors/nba-trade-rumors-deal-cost-for-kyrie-irving-trey-murphy-more/\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cI think they\u2019d still hold firm on three first-rounders for him. They look at the return for Mikal Bridges (five first-rounders) and Bane and they see Murphy in the same category. But those deals, teams are not going to want to do those going forward. So, a good young rotation player and two first-rounders is probably where you land.\u201d</a>",
-        "outlet": "Heavy.com",
-        "source_url": "https://heavy.com/sports/nba/golden-state-warriors/nba-trade-rumors-deal-cost-for-kyrie-irving-trey-murphy-more/"
-      }
-    ],
-    "Michael Porter": [
-      {
-        "date": "2026-09-01",
-        "text": "Michael Porter Jr., Nets. Porter is in an odd spot because he needs an extension as he heads into the final year of his\u00a0contract, at $40 million. He showed All-Star ability when given more free reign last year, but that was on a bad Nets team. Brooklyn should be better this year, and Porter will need to show he can keep putting up star numbers on a team that is trying. But if an extension does not get done \u2026 what then?Eastern Conference\u00a0executive: \u201cI think what he did last year is legit and teams are going to see it that way. But the problem you have is if you trade for him, are you going to extend him and what is the number? The Nuggets overpaid him when they gave him that extension, and if he wants to be paid based on that, that is not going to be an easy sell.If he can accept getting into a salary slot that makes more sense for him, you can make that trade. It\u2019s an expiring deal but the Nets would get a first-round pick for him still.\u201dHeavy.com",
-        "text_html": "Michael Porter Jr., Nets. Porter is in an odd spot because he needs an extension as he heads into the final year of his contract, at $40 million. He showed All-Star ability when given more free reign last year, but that was on a bad Nets team. Brooklyn should be better this year, and Porter will need to show he can keep putting up star numbers on a team that is trying. But if an extension does not get done \u2026 what then? <a href=\"https://heavy.com/sports/nba/golden-state-warriors/nba-trade-rumors-deal-cost-for-kyrie-irving-trey-murphy-more/\" target=\"_blank\" style=\"color: #1a73e8;\">Eastern Conference executive: \u201cI think what he did last year is legit and teams are going to see it that way. But the problem you have is if you trade for him, are you going to extend him and what is the number? The Nuggets overpaid him when they gave him that extension, and if he wants to be paid based on that, that is not going to be an easy sell.</a> If he can accept getting into a salary slot that makes more sense for him, you can make that trade. It\u2019s an expiring deal but the Nets would get a first-round pick for him still.\u201d",
-        "outlet": "Heavy.com",
-        "source_url": "https://heavy.com/sports/nba/golden-state-warriors/nba-trade-rumors-deal-cost-for-kyrie-irving-trey-murphy-more/"
-      }
     ]
   },
   "daily_counts": {
+    "LeBron James": {
+      "2026-09-29": 1,
+      "2026-09-16": 1,
+      "2026-09-08": 2
+    },
+    "Tyrese Maxey": {
+      "2026-09-29": 1,
+      "2026-09-08": 1
+    },
+    "VJ Edgecombe": {
+      "2026-09-29": 1
+    },
     "Jalen Duren": {
       "2026-09-29": 1,
       "2026-09-28": 1,
@@ -2460,8 +2402,7 @@
     "Kyrie Irving": {
       "2026-09-27": 1,
       "2026-09-22": 2,
-      "2026-09-08": 1,
-      "2026-09-01": 1
+      "2026-09-08": 1
     },
     "Zach LaVine": {
       "2026-09-27": 1
@@ -2531,8 +2472,7 @@
       "2026-09-22": 6
     },
     "Anthony Davis": {
-      "2026-09-22": 1,
-      "2026-09-01": 1
+      "2026-09-22": 1
     },
     "Devin Booker": {
       "2026-09-22": 1,
@@ -2595,10 +2535,6 @@
     "Kevin McCullar": {
       "2026-09-16": 1
     },
-    "LeBron James": {
-      "2026-09-16": 1,
-      "2026-09-08": 2
-    },
     "Brandon Ingram": {
       "2026-09-14": 2,
       "2026-09-09": 1,
@@ -2634,9 +2570,6 @@
     "Joel Embiid": {
       "2026-09-08": 1
     },
-    "Tyrese Maxey": {
-      "2026-09-08": 1
-    },
     "Jaime Jaquez": {
       "2026-09-08": 1,
       "2026-09-07": 1
@@ -2648,8 +2581,7 @@
       "2026-09-07": 1
     },
     "James Harden": {
-      "2026-09-06": 1,
-      "2026-09-01": 1
+      "2026-09-06": 1
     },
     "Ivica Zubac": {
       "2026-09-06": 1,
@@ -2676,18 +2608,6 @@
     },
     "Derrick White": {
       "2026-09-02": 1
-    },
-    "Luguentz Dort": {
-      "2026-09-01": 1
-    },
-    "Nickeil Alexander-Walker": {
-      "2026-09-01": 1
-    },
-    "Trey Murphy": {
-      "2026-09-01": 1
-    },
-    "Michael Porter": {
-      "2026-09-01": 1
     }
   }
 }
