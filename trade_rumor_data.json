@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-06T07:12:56.453110",
+  "generated_at": "2026-10-06T18:39:43.646585",
   "scrape_window_days": 28,
   "window_start": "2026-09-08",
   "window_end": "2026-10-06",
-  "total_rumors": 174,
-  "total_players": 74,
+  "total_rumors": 184,
+  "total_players": 78,
   "rankings": [
     {
       "player": "Kawhi Leonard",
@@ -79,6 +79,18 @@
       "rank": 6
     },
     {
+      "player": "Bronny James",
+      "score": 3.0,
+      "mentions_week1": 3,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 3,
+      "first_mention": "2026-10-04",
+      "last_mention": "2026-10-06",
+      "team": "Charlotte Hornets",
+      "rank": 7
+    },
+    {
       "player": "Kyrie Irving",
       "score": 2.75,
       "mentions_week1": 1,
@@ -88,7 +100,31 @@
       "first_mention": "2026-09-08",
       "last_mention": "2026-09-30",
       "team": "Dallas Mavericks",
-      "rank": 7
+      "rank": 8
+    },
+    {
+      "player": "Draymond Green",
+      "score": 2.5,
+      "mentions_week1": 2,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 2,
+      "total_mentions": 4,
+      "first_mention": "2026-09-16",
+      "last_mention": "2026-10-06",
+      "team": "Golden State Warriors",
+      "rank": 9
+    },
+    {
+      "player": "Jaden Hardy",
+      "score": 2.5,
+      "mentions_week1": 2,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 3,
+      "first_mention": "2026-09-24",
+      "last_mention": "2026-10-06",
+      "team": "Charlotte Hornets",
+      "rank": 10
     },
     {
       "player": "Jaylen Brown",
@@ -100,19 +136,7 @@
       "first_mention": "2026-09-08",
       "last_mention": "2026-09-29",
       "team": "Boston Celtics",
-      "rank": 8
-    },
-    {
-      "player": "Bronny James",
-      "score": 2.0,
-      "mentions_week1": 2,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 2,
-      "first_mention": "2026-10-04",
-      "last_mention": "2026-10-04",
-      "team": "Golden State Warriors",
-      "rank": 9
+      "rank": 11
     },
     {
       "player": "Caris LeVert",
@@ -124,7 +148,19 @@
       "first_mention": "2026-10-02",
       "last_mention": "2026-10-02",
       "team": "Detroit Pistons",
-      "rank": 10
+      "rank": 12
+    },
+    {
+      "player": "Dalton Knecht",
+      "score": 2.0,
+      "mentions_week1": 2,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 2,
+      "first_mention": "2026-10-04",
+      "last_mention": "2026-10-06",
+      "team": "Los Angeles Lakers",
+      "rank": 13
     },
     {
       "player": "Darius Garland",
@@ -136,7 +172,31 @@
       "first_mention": "2026-10-05",
       "last_mention": "2026-10-05",
       "team": "Cleveland Cavaliers",
-      "rank": 11
+      "rank": 14
+    },
+    {
+      "player": "Jarred Vanderbilt",
+      "score": 2.0,
+      "mentions_week1": 2,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 2,
+      "first_mention": "2026-09-29",
+      "last_mention": "2026-10-06",
+      "team": "Detroit Pistons",
+      "rank": 15
+    },
+    {
+      "player": "Mark Williams",
+      "score": 2.0,
+      "mentions_week1": 2,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 2,
+      "first_mention": "2026-10-04",
+      "last_mention": "2026-10-06",
+      "team": "Phoenix Suns",
+      "rank": 16
     },
     {
       "player": "LeBron James",
@@ -148,7 +208,7 @@
       "first_mention": "2026-09-08",
       "last_mention": "2026-09-29",
       "team": "Los Angeles Lakers",
-      "rank": 12
+      "rank": 17
     },
     {
       "player": "Stephen Curry",
@@ -160,19 +220,7 @@
       "first_mention": "2026-09-17",
       "last_mention": "2026-09-24",
       "team": "Golden State Warriors",
-      "rank": 13
-    },
-    {
-      "player": "Draymond Green",
-      "score": 1.5,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 3,
-      "first_mention": "2026-09-16",
-      "last_mention": "2026-10-04",
-      "team": "Golden State Warriors",
-      "rank": 14
+      "rank": 18
     },
     {
       "player": "Anthony Davis",
@@ -184,19 +232,7 @@
       "first_mention": "2026-09-22",
       "last_mention": "2026-10-01",
       "team": "Dallas Mavericks",
-      "rank": 15
-    },
-    {
-      "player": "Jaden Hardy",
-      "score": 1.5,
-      "mentions_week1": 1,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 2,
-      "first_mention": "2026-09-24",
-      "last_mention": "2026-10-04",
-      "team": "Golden State Warriors",
-      "rank": 16
+      "rank": 19
     },
     {
       "player": "Jordan Hawkins",
@@ -208,7 +244,7 @@
       "first_mention": "2026-09-08",
       "last_mention": "2026-09-09",
       "team": "Memphis Grizzlies",
-      "rank": 17
+      "rank": 20
     },
     {
       "player": "Ja Morant",
@@ -220,7 +256,7 @@
       "first_mention": "2026-09-08",
       "last_mention": "2026-09-28",
       "team": "Memphis Grizzlies",
-      "rank": 18
+      "rank": 21
     },
     {
       "player": "Luka Doncic",
@@ -232,7 +268,7 @@
       "first_mention": "2026-09-11",
       "last_mention": "2026-09-28",
       "team": "Los Angeles Lakers",
-      "rank": 19
+      "rank": 22
     },
     {
       "player": "Derrick Jones",
@@ -244,7 +280,7 @@
       "first_mention": "2026-09-11",
       "last_mention": "2026-09-29",
       "team": "Dallas Mavericks",
-      "rank": 20
+      "rank": 23
     },
     {
       "player": "Tyrese Maxey",
@@ -256,7 +292,7 @@
       "first_mention": "2026-09-08",
       "last_mention": "2026-09-29",
       "team": "Philadelphia 76ers",
-      "rank": 21
+      "rank": 24
     },
     {
       "player": "AJ Johnson",
@@ -268,7 +304,7 @@
       "first_mention": "2026-09-08",
       "last_mention": "2026-09-08",
       "team": "Memphis Grizzlies",
-      "rank": 22
+      "rank": 25
     },
     {
       "player": "Micah Peavy",
@@ -280,7 +316,7 @@
       "first_mention": "2026-09-08",
       "last_mention": "2026-09-08",
       "team": "Memphis Grizzlies",
-      "rank": 23
+      "rank": 26
     },
     {
       "player": "Jimmy Butler",
@@ -292,7 +328,7 @@
       "first_mention": "2026-09-22",
       "last_mention": "2026-09-28",
       "team": "Golden State Warriors",
-      "rank": 24
+      "rank": 27
     },
     {
       "player": "Pacome Dadiet",
@@ -304,19 +340,19 @@
       "first_mention": "2026-09-25",
       "last_mention": "2026-09-25",
       "team": "Charlotte Hornets",
-      "rank": 25
+      "rank": 28
     },
     {
-      "player": "Dalton Knecht",
+      "player": "Corey Kispert",
       "score": 1.0,
       "mentions_week1": 1,
       "mentions_week2": 0,
       "mentions_weeks3_4": 0,
       "total_mentions": 1,
-      "first_mention": "2026-10-04",
-      "last_mention": "2026-10-04",
-      "team": "Los Angeles Lakers",
-      "rank": 26
+      "first_mention": "2026-10-06",
+      "last_mention": "2026-10-06",
+      "team": "Atlanta Hawks",
+      "rank": 29
     },
     {
       "player": "Giannis Antetokounmpo",
@@ -328,7 +364,7 @@
       "first_mention": "2026-09-30",
       "last_mention": "2026-09-30",
       "team": "Milwaukee Bucks",
-      "rank": 27
+      "rank": 30
     },
     {
       "player": "Jalen Brunson",
@@ -340,19 +376,7 @@
       "first_mention": "2026-10-03",
       "last_mention": "2026-10-03",
       "team": "New York Knicks",
-      "rank": 28
-    },
-    {
-      "player": "Jarred Vanderbilt",
-      "score": 1.0,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-09-29",
-      "last_mention": "2026-09-29",
-      "team": "Dallas Mavericks",
-      "rank": 29
+      "rank": 31
     },
     {
       "player": "Josh Giddey",
@@ -364,7 +388,7 @@
       "first_mention": "2026-10-04",
       "last_mention": "2026-10-04",
       "team": "Chicago Bulls",
-      "rank": 30
+      "rank": 32
     },
     {
       "player": "LaMelo Ball",
@@ -376,19 +400,19 @@
       "first_mention": "2026-09-29",
       "last_mention": "2026-09-29",
       "team": "Charlotte Hornets",
-      "rank": 31
+      "rank": 33
     },
     {
-      "player": "Mark Williams",
+      "player": "Moses Moody",
       "score": 1.0,
       "mentions_week1": 1,
       "mentions_week2": 0,
       "mentions_weeks3_4": 0,
       "total_mentions": 1,
-      "first_mention": "2026-10-04",
-      "last_mention": "2026-10-04",
-      "team": "Phoenix Suns",
-      "rank": 32
+      "first_mention": "2026-10-06",
+      "last_mention": "2026-10-06",
+      "team": "Golden State Warriors",
+      "rank": 34
     },
     {
       "player": "Myles Turner",
@@ -400,7 +424,7 @@
       "first_mention": "2026-09-29",
       "last_mention": "2026-09-29",
       "team": "Milwaukee Bucks",
-      "rank": 33
+      "rank": 35
     },
     {
       "player": "Norman Powell",
@@ -412,7 +436,7 @@
       "first_mention": "2026-10-04",
       "last_mention": "2026-10-04",
       "team": "Miami Heat",
-      "rank": 34
+      "rank": 36
     },
     {
       "player": "PJ Washington",
@@ -424,7 +448,31 @@
       "first_mention": "2026-09-29",
       "last_mention": "2026-09-29",
       "team": "Dallas Mavericks",
-      "rank": 35
+      "rank": 37
+    },
+    {
+      "player": "Ron Holland",
+      "score": 1.0,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-10-06",
+      "last_mention": "2026-10-06",
+      "team": "Detroit Pistons",
+      "rank": 38
+    },
+    {
+      "player": "Terance Mann",
+      "score": 1.0,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-10-06",
+      "last_mention": "2026-10-06",
+      "team": "Detroit Pistons",
+      "rank": 39
     },
     {
       "player": "Trae Young",
@@ -436,7 +484,7 @@
       "first_mention": "2026-10-03",
       "last_mention": "2026-10-03",
       "team": "Atlanta Hawks",
-      "rank": 36
+      "rank": 40
     },
     {
       "player": "VJ Edgecombe",
@@ -448,7 +496,7 @@
       "first_mention": "2026-09-29",
       "last_mention": "2026-09-29",
       "team": "Philadelphia 76ers",
-      "rank": 37
+      "rank": 41
     },
     {
       "player": "Brandon Ingram",
@@ -460,7 +508,7 @@
       "first_mention": "2026-09-09",
       "last_mention": "2026-09-14",
       "team": "Toronto Raptors",
-      "rank": 38
+      "rank": 42
     },
     {
       "player": "Paul George",
@@ -472,7 +520,7 @@
       "first_mention": "2026-09-14",
       "last_mention": "2026-09-18",
       "team": "Philadelphia 76ers",
-      "rank": 39
+      "rank": 43
     },
     {
       "player": "De'Aaron Fox",
@@ -484,7 +532,7 @@
       "first_mention": "2026-09-11",
       "last_mention": "2026-09-28",
       "team": "San Antonio Spurs",
-      "rank": 40
+      "rank": 44
     },
     {
       "player": "Devin Booker",
@@ -496,7 +544,7 @@
       "first_mention": "2026-09-12",
       "last_mention": "2026-09-22",
       "team": "Phoenix Suns",
-      "rank": 41
+      "rank": 45
     },
     {
       "player": "Peyton Watson",
@@ -508,7 +556,7 @@
       "first_mention": "2026-09-08",
       "last_mention": "2026-09-28",
       "team": "Cleveland Cavaliers",
-      "rank": 42
+      "rank": 46
     },
     {
       "player": "Gradey Dick",
@@ -520,7 +568,7 @@
       "first_mention": "2026-09-14",
       "last_mention": "2026-09-14",
       "team": "Toronto Raptors",
-      "rank": 43
+      "rank": 47
     },
     {
       "player": "Alperen Sengun",
@@ -532,7 +580,7 @@
       "first_mention": "2026-09-27",
       "last_mention": "2026-09-27",
       "team": "Houston Rockets",
-      "rank": 44
+      "rank": 48
     },
     {
       "player": "Cedric Coward",
@@ -544,7 +592,7 @@
       "first_mention": "2026-09-23",
       "last_mention": "2026-09-23",
       "team": "Denver Nuggets",
-      "rank": 45
+      "rank": 49
     },
     {
       "player": "Damian Lillard",
@@ -556,7 +604,7 @@
       "first_mention": "2026-09-23",
       "last_mention": "2026-09-23",
       "team": "Denver Nuggets",
-      "rank": 46
+      "rank": 50
     },
     {
       "player": "Duncan Robinson",
@@ -568,7 +616,7 @@
       "first_mention": "2026-09-26",
       "last_mention": "2026-09-26",
       "team": "Detroit Pistons",
-      "rank": 47
+      "rank": 51
     },
     {
       "player": "Gary Harris",
@@ -580,7 +628,7 @@
       "first_mention": "2026-09-26",
       "last_mention": "2026-09-26",
       "team": "Detroit Pistons",
-      "rank": 48
+      "rank": 52
     },
     {
       "player": "Jaren Jackson Jr",
@@ -592,7 +640,7 @@
       "first_mention": "2026-09-28",
       "last_mention": "2026-09-28",
       "team": "Golden State Warriors",
-      "rank": 49
+      "rank": 53
     },
     {
       "player": "Jordan Poole",
@@ -604,7 +652,7 @@
       "first_mention": "2026-09-22",
       "last_mention": "2026-09-22",
       "team": "Golden State Warriors",
-      "rank": 50
+      "rank": 54
     },
     {
       "player": "Jrue Holiday",
@@ -616,7 +664,7 @@
       "first_mention": "2026-09-28",
       "last_mention": "2026-09-28",
       "team": "Portland Trail Blazers",
-      "rank": 51
+      "rank": 55
     },
     {
       "player": "Khaman Maluach",
@@ -628,7 +676,7 @@
       "first_mention": "2026-09-24",
       "last_mention": "2026-09-24",
       "team": "Charlotte Hornets",
-      "rank": 52
+      "rank": 56
     },
     {
       "player": "Moussa Diabate",
@@ -640,7 +688,7 @@
       "first_mention": "2026-09-25",
       "last_mention": "2026-09-25",
       "team": "Charlotte Hornets",
-      "rank": 53
+      "rank": 57
     },
     {
       "player": "Taurean Prince",
@@ -652,7 +700,7 @@
       "first_mention": "2026-09-26",
       "last_mention": "2026-09-26",
       "team": "Detroit Pistons",
-      "rank": 54
+      "rank": 58
     },
     {
       "player": "Zaccharie Risacher",
@@ -664,7 +712,7 @@
       "first_mention": "2026-09-27",
       "last_mention": "2026-09-27",
       "team": "Atlanta Hawks",
-      "rank": 55
+      "rank": 59
     },
     {
       "player": "Zach LaVine",
@@ -676,7 +724,7 @@
       "first_mention": "2026-09-27",
       "last_mention": "2026-09-27",
       "team": "Sacramento Kings",
-      "rank": 56
+      "rank": 60
     },
     {
       "player": "Zeke Nnaji",
@@ -688,7 +736,7 @@
       "first_mention": "2026-09-24",
       "last_mention": "2026-09-24",
       "team": "Charlotte Hornets",
-      "rank": 57
+      "rank": 61
     },
     {
       "player": "Zion Williamson",
@@ -700,7 +748,7 @@
       "first_mention": "2026-09-27",
       "last_mention": "2026-09-27",
       "team": "New Orleans Pelicans",
-      "rank": 58
+      "rank": 62
     },
     {
       "player": "Anthony Edwards",
@@ -712,7 +760,7 @@
       "first_mention": "2026-09-11",
       "last_mention": "2026-09-11",
       "team": "Minnesota Timberwolves",
-      "rank": 59
+      "rank": 63
     },
     {
       "player": "Bennedict Mathurin",
@@ -724,7 +772,7 @@
       "first_mention": "2026-09-08",
       "last_mention": "2026-09-08",
       "team": "Indiana Pacers",
-      "rank": 60
+      "rank": 64
     },
     {
       "player": "Bruce Brown",
@@ -736,7 +784,7 @@
       "first_mention": "2026-09-16",
       "last_mention": "2026-09-16",
       "team": "Denver Nuggets",
-      "rank": 61
+      "rank": 65
     },
     {
       "player": "Christian Braun",
@@ -748,7 +796,7 @@
       "first_mention": "2026-09-21",
       "last_mention": "2026-09-21",
       "team": "Denver Nuggets",
-      "rank": 62
+      "rank": 66
     },
     {
       "player": "Devin Carter",
@@ -760,7 +808,7 @@
       "first_mention": "2026-09-21",
       "last_mention": "2026-09-21",
       "team": "Atlanta Hawks",
-      "rank": 63
+      "rank": 67
     },
     {
       "player": "Drew Eubanks",
@@ -772,7 +820,7 @@
       "first_mention": "2026-09-16",
       "last_mention": "2026-09-16",
       "team": "Indiana Pacers",
-      "rank": 64
+      "rank": 68
     },
     {
       "player": "Evan Mobley",
@@ -784,7 +832,7 @@
       "first_mention": "2026-09-11",
       "last_mention": "2026-09-11",
       "team": "Cleveland Cavaliers",
-      "rank": 65
+      "rank": 69
     },
     {
       "player": "Hugo Gonzalez",
@@ -796,7 +844,7 @@
       "first_mention": "2026-09-14",
       "last_mention": "2026-09-14",
       "team": "Boston Celtics",
-      "rank": 66
+      "rank": 70
     },
     {
       "player": "Jaime Jaquez",
@@ -808,7 +856,7 @@
       "first_mention": "2026-09-08",
       "last_mention": "2026-09-08",
       "team": "Atlanta Hawks",
-      "rank": 67
+      "rank": 71
     },
     {
       "player": "Jamal Shead",
@@ -820,7 +868,7 @@
       "first_mention": "2026-09-21",
       "last_mention": "2026-09-21",
       "team": "Charlotte Hornets",
-      "rank": 68
+      "rank": 72
     },
     {
       "player": "Joel Embiid",
@@ -832,7 +880,7 @@
       "first_mention": "2026-09-08",
       "last_mention": "2026-09-08",
       "team": "Philadelphia 76ers",
-      "rank": 69
+      "rank": 73
     },
     {
       "player": "John Konchar",
@@ -844,7 +892,7 @@
       "first_mention": "2026-09-16",
       "last_mention": "2026-09-16",
       "team": "Indiana Pacers",
-      "rank": 70
+      "rank": 74
     },
     {
       "player": "Kevin McCullar",
@@ -856,7 +904,7 @@
       "first_mention": "2026-09-16",
       "last_mention": "2026-09-16",
       "team": "Indiana Pacers",
-      "rank": 71
+      "rank": 75
     },
     {
       "player": "Miles McBride",
@@ -868,7 +916,7 @@
       "first_mention": "2026-09-10",
       "last_mention": "2026-09-10",
       "team": "New York Knicks",
-      "rank": 72
+      "rank": 76
     },
     {
       "player": "Naz Reid",
@@ -880,7 +928,7 @@
       "first_mention": "2026-09-21",
       "last_mention": "2026-09-21",
       "team": "Minnesota Timberwolves",
-      "rank": 73
+      "rank": 77
     },
     {
       "player": "Saddiq Bey",
@@ -892,10 +940,170 @@
       "first_mention": "2026-09-17",
       "last_mention": "2026-09-17",
       "team": "New Orleans Pelicans",
-      "rank": 74
+      "rank": 78
     }
   ],
   "player_rumors": {
+    "Corey Kispert": [
+      {
+        "date": "2026-10-06",
+        "text": "Corey Kispert: \u201cPeople always told me that getting traded was hard and getting traded in the middle of the season\u2019s even harder. And I guess I believed them, but you don\u2019t really know until you do it.And so showing up here, they made it as easy as possible. The staff here, the players, the team, all of it, it made it as easy as it could be. But it\u2019s really difficult, having to show up and you feel like you\u2019re treading water and you\u2019re figuring out a new system and you\u2019re trying to fit in with the guys. And everything feels chaotic. And so yes, being a shooter, like you want comfort and you want familiarity and you want to feel good.\u201dYouTube",
+        "text_html": "<a href=\"https://www.youtube.com/watch?v=Rro5Bi_W0nI&t=406s\" target=\"_blank\" style=\"color: #1a73e8;\">Corey Kispert: \u201cPeople always told me that getting traded was hard and getting traded in the middle of the season\u2019s even harder. And I guess I believed them, but you don\u2019t really know until you do it.</a> And so showing up here, they made it as easy as possible. The staff here, the players, the team, all of it, it made it as easy as it could be. But it\u2019s really difficult, having to show up and you feel like you\u2019re treading water and you\u2019re figuring out a new system and you\u2019re trying to fit in with the guys. And everything feels chaotic. And so yes, being a shooter, like you want comfort and you want familiarity and you want to feel good.\u201d",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=Rro5Bi_W0nI&t=406s"
+      }
+    ],
+    "Draymond Green": [
+      {
+        "date": "2026-10-06",
+        "text": "As things have taken a new, difficult turn for the Lakers' young forward, Green pointed to Knecht's representatives as the reason behind his struggles in LA.\"Dalton Knecht is not expected to make the Lakers' regular-season roster, as the team has 16 guaranteed contracts and can only carry 15. Apparently, Bronny James and Jaden Hardy have outplayed him in camp, making him the odd man out.It's crazy because Knecht seemed to have some promise, but after the trade that would have sent him to the Hornets and brought Mark Williams to the Lakers was voided, he has been in purgatory ever since,\" the Golden State Warriors star said on the latest episode of his The Draymond Green Show. \"Ultimately, I think it ruined him. I blame his agent because, the moment the trade fell through, the agent should have been working to get him out of LA.\"BasketNews",
+        "text_html": "As things have taken a new, difficult turn for the Lakers' young forward, Green pointed to Knecht's representatives as the reason behind his struggles in LA. <a href=\"https://basketnews.com/news-256735-draymond-green-names-who-is-to-blame-for-lakers-top-trade-candidate.html\" target=\"_blank\" style=\"color: #1a73e8;\">\"Dalton Knecht is not expected to make the Lakers' regular-season roster, as the team has 16 guaranteed contracts and can only carry 15. Apparently, Bronny James and Jaden Hardy have outplayed him in camp, making him the odd man out.</a> It's crazy because Knecht seemed to have some promise, but after the trade that would have sent him to the Hornets and brought Mark Williams to the Lakers was voided, he has been in purgatory ever since,\" the Golden State Warriors star said on the latest episode of his The Draymond Green Show. \"Ultimately, I think it ruined him. I blame his agent because, the moment the trade fell through, the agent should have been working to get him out of LA.\"",
+        "outlet": "BasketNews",
+        "source_url": "https://basketnews.com/news-256735-draymond-green-names-who-is-to-blame-for-lakers-top-trade-candidate.html"
+      },
+      {
+        "date": "2026-10-04",
+        "text": "Draymond Green: \"Dalton Knecht is not expected to make the Lakers' regular season roster. Lakers have 16 guaranteed contracts and going into the season you can only have 15 guaranteed contracts. Apparently, Bronny James and Jaden Hardy have been outplaying him in campand he's viewed as the odd man out. And it's crazy because Dalton Knecht seemed to like he had a little bit of promise to him, but after that trade that got voided by the Hornets to bring him in and send Mark Williams to the Lakers, the Lakers voided the trade because of Mark Williams' back. Dalton Knecht just been in purgatory ever since and ultimately I think it ruined him.\"YouTube",
+        "text_html": "<a href=\"https://www.youtube.com/watch?v=HCaWNSa0Cz8&t=1916s\" target=\"_blank\" style=\"color: #1a73e8;\">Draymond Green: \"Dalton Knecht is not expected to make the Lakers' regular season roster. Lakers have 16 guaranteed contracts and going into the season you can only have 15 guaranteed contracts. Apparently, Bronny James and Jaden Hardy have been outplaying him in camp</a> and he's viewed as the odd man out. And it's crazy because Dalton Knecht seemed to like he had a little bit of promise to him, but after that trade that got voided by the Hornets to bring him in and send Mark Williams to the Lakers, the Lakers voided the trade because of Mark Williams' back. Dalton Knecht just been in purgatory ever since and ultimately I think it ruined him.\"",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=HCaWNSa0Cz8&t=1916s"
+      },
+      {
+        "date": "2026-09-18",
+        "text": "Draymond Green Show: Draymond reacts to Danilo Gallinari's comments on Kawhi Leonard\"I think wishing the NBA took $50 million from a player is disgusting... that also wasn't his first time being traded, so for him to sit and act as if Kawhi Leonard ruined his career, that's bulls**t... I think Gallinari would choose Paul George over himself and if you won't, that's crazy, that's ridiculous... Kawhi Leonard does not have the power to trade a player, he can request... but he don't have the ability to make that trade.\"x.com",
+        "text_html": "Draymond Green Show: Draymond reacts to Danilo Gallinari's comments on Kawhi Leonard <a href=\"https://x.com/DraymondShow/status/2100955504902078801?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">\"I think wishing the NBA took $50 million from a player is disgusting... that also wasn't his first time being traded, so for him to sit and act as if Kawhi Leonard ruined his career, that's bulls**t... I think Gallinari would choose Paul George over himself and if you won't, that's crazy, that's ridiculous... Kawhi Leonard does not have the power to trade a player, he can request... but he don't have the ability to make that trade.\"</a>",
+        "outlet": "x.com",
+        "source_url": "https://x.com/DraymondShow/status/2100955504902078801?s=20"
+      },
+      {
+        "date": "2026-09-16",
+        "text": "Whether Green can navigate that contradiction could determine more than Golden State\u2019s early-season record. Warriors insider Marcus Thompson II has suggested a poor start could force the franchise to confront an outcome once considered unthinkable.\u201cDraymond could be traded at the trade deadline,\u201d Thompson said.New York Post",
+        "text_html": "Whether Green can navigate that contradiction could determine more than Golden State\u2019s early-season record. Warriors insider Marcus Thompson II has suggested a poor start could force the franchise to confront an outcome once considered unthinkable. <a href=\"https://nypost.com/2026/09/15/sports/steve-kerr-warns-draymond-green-frustrating-warriors-adjustment/?utm_medium=social&utm_source=twitter&utm_campaign=nypost\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cDraymond could be traded at the trade deadline,\u201d Thompson said</a>.",
+        "outlet": "New York Post",
+        "source_url": "https://nypost.com/2026/09/15/sports/steve-kerr-warns-draymond-green-frustrating-warriors-adjustment/?utm_medium=social&utm_source=twitter&utm_campaign=nypost"
+      }
+    ],
+    "Bronny James": [
+      {
+        "date": "2026-10-06",
+        "text": "As things have taken a new, difficult turn for the Lakers' young forward, Green pointed to Knecht's representatives as the reason behind his struggles in LA.\"Dalton Knecht is not expected to make the Lakers' regular-season roster, as the team has 16 guaranteed contracts and can only carry 15. Apparently, Bronny James and Jaden Hardy have outplayed him in camp, making him the odd man out.It's crazy because Knecht seemed to have some promise, but after the trade that would have sent him to the Hornets and brought Mark Williams to the Lakers was voided, he has been in purgatory ever since,\" the Golden State Warriors star said on the latest episode of his The Draymond Green Show. \"Ultimately, I think it ruined him. I blame his agent because, the moment the trade fell through, the agent should have been working to get him out of LA.\"BasketNews",
+        "text_html": "As things have taken a new, difficult turn for the Lakers' young forward, Green pointed to Knecht's representatives as the reason behind his struggles in LA. <a href=\"https://basketnews.com/news-256735-draymond-green-names-who-is-to-blame-for-lakers-top-trade-candidate.html\" target=\"_blank\" style=\"color: #1a73e8;\">\"Dalton Knecht is not expected to make the Lakers' regular-season roster, as the team has 16 guaranteed contracts and can only carry 15. Apparently, Bronny James and Jaden Hardy have outplayed him in camp, making him the odd man out.</a> It's crazy because Knecht seemed to have some promise, but after the trade that would have sent him to the Hornets and brought Mark Williams to the Lakers was voided, he has been in purgatory ever since,\" the Golden State Warriors star said on the latest episode of his The Draymond Green Show. \"Ultimately, I think it ruined him. I blame his agent because, the moment the trade fell through, the agent should have been working to get him out of LA.\"",
+        "outlet": "BasketNews",
+        "source_url": "https://basketnews.com/news-256735-draymond-green-names-who-is-to-blame-for-lakers-top-trade-candidate.html"
+      },
+      {
+        "date": "2026-10-04",
+        "text": "Draymond Green: \"Dalton Knecht is not expected to make the Lakers' regular season roster. Lakers have 16 guaranteed contracts and going into the season you can only have 15 guaranteed contracts. Apparently, Bronny James and Jaden Hardy have been outplaying him in campand he's viewed as the odd man out. And it's crazy because Dalton Knecht seemed to like he had a little bit of promise to him, but after that trade that got voided by the Hornets to bring him in and send Mark Williams to the Lakers, the Lakers voided the trade because of Mark Williams' back. Dalton Knecht just been in purgatory ever since and ultimately I think it ruined him.\"YouTube",
+        "text_html": "<a href=\"https://www.youtube.com/watch?v=HCaWNSa0Cz8&t=1916s\" target=\"_blank\" style=\"color: #1a73e8;\">Draymond Green: \"Dalton Knecht is not expected to make the Lakers' regular season roster. Lakers have 16 guaranteed contracts and going into the season you can only have 15 guaranteed contracts. Apparently, Bronny James and Jaden Hardy have been outplaying him in camp</a> and he's viewed as the odd man out. And it's crazy because Dalton Knecht seemed to like he had a little bit of promise to him, but after that trade that got voided by the Hornets to bring him in and send Mark Williams to the Lakers, the Lakers voided the trade because of Mark Williams' back. Dalton Knecht just been in purgatory ever since and ultimately I think it ruined him.\"",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=HCaWNSa0Cz8&t=1916s"
+      },
+      {
+        "date": "2026-10-04",
+        "text": "But don\u2019t rule outa Bronny James trade, not because the Lakers are seeking to sump him but because he could bring in draft assets\u2013even a second rounder or two, which is what James would bring.\u201cThere\u2019s definitely interest there,\u201d one executive said of other teams nosing around on James. \u201cHe\u2019s gotten much better in a short period. He knows his role, and it\u2019s hard to find young guys who just want to excel in their role.\u201dAgain, we\u2019re not talking first-round picks, and dumping Knecht is still probably the Lakers\u2019 path. But Bronny James being traded because of his own ability and not because of his dad would be a great story.Heavy.com",
+        "text_html": "But don\u2019t rule outa Bronny James trade, not because the Lakers are seeking to sump him but because he could bring in draft assets\u2013even a second rounder or two, which is what James would bring. <a href=\"https://heavy.com/sports/nba/los-angeles-lakers/nba-trade-rumors-lakers-bronny-james-domantas-sabonis-warriors-more/\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cThere\u2019s definitely interest there,\u201d one executive said of other teams nosing around on James. \u201cHe\u2019s gotten much better in a short period. He knows his role, and it\u2019s hard to find young guys who just want to excel in their role.\u201d</a> Again, we\u2019re not talking first-round picks, and dumping Knecht is still probably the Lakers\u2019 path. But Bronny James being traded because of his own ability and not because of his dad would be a great story.",
+        "outlet": "Heavy.com",
+        "source_url": "https://heavy.com/sports/nba/los-angeles-lakers/nba-trade-rumors-lakers-bronny-james-domantas-sabonis-warriors-more/"
+      }
+    ],
+    "Jaden Hardy": [
+      {
+        "date": "2026-10-06",
+        "text": "As things have taken a new, difficult turn for the Lakers' young forward, Green pointed to Knecht's representatives as the reason behind his struggles in LA.\"Dalton Knecht is not expected to make the Lakers' regular-season roster, as the team has 16 guaranteed contracts and can only carry 15. Apparently, Bronny James and Jaden Hardy have outplayed him in camp, making him the odd man out.It's crazy because Knecht seemed to have some promise, but after the trade that would have sent him to the Hornets and brought Mark Williams to the Lakers was voided, he has been in purgatory ever since,\" the Golden State Warriors star said on the latest episode of his The Draymond Green Show. \"Ultimately, I think it ruined him. I blame his agent because, the moment the trade fell through, the agent should have been working to get him out of LA.\"BasketNews",
+        "text_html": "As things have taken a new, difficult turn for the Lakers' young forward, Green pointed to Knecht's representatives as the reason behind his struggles in LA. <a href=\"https://basketnews.com/news-256735-draymond-green-names-who-is-to-blame-for-lakers-top-trade-candidate.html\" target=\"_blank\" style=\"color: #1a73e8;\">\"Dalton Knecht is not expected to make the Lakers' regular-season roster, as the team has 16 guaranteed contracts and can only carry 15. Apparently, Bronny James and Jaden Hardy have outplayed him in camp, making him the odd man out.</a> It's crazy because Knecht seemed to have some promise, but after the trade that would have sent him to the Hornets and brought Mark Williams to the Lakers was voided, he has been in purgatory ever since,\" the Golden State Warriors star said on the latest episode of his The Draymond Green Show. \"Ultimately, I think it ruined him. I blame his agent because, the moment the trade fell through, the agent should have been working to get him out of LA.\"",
+        "outlet": "BasketNews",
+        "source_url": "https://basketnews.com/news-256735-draymond-green-names-who-is-to-blame-for-lakers-top-trade-candidate.html"
+      },
+      {
+        "date": "2026-10-04",
+        "text": "Draymond Green: \"Dalton Knecht is not expected to make the Lakers' regular season roster. Lakers have 16 guaranteed contracts and going into the season you can only have 15 guaranteed contracts. Apparently, Bronny James and Jaden Hardy have been outplaying him in campand he's viewed as the odd man out. And it's crazy because Dalton Knecht seemed to like he had a little bit of promise to him, but after that trade that got voided by the Hornets to bring him in and send Mark Williams to the Lakers, the Lakers voided the trade because of Mark Williams' back. Dalton Knecht just been in purgatory ever since and ultimately I think it ruined him.\"YouTube",
+        "text_html": "<a href=\"https://www.youtube.com/watch?v=HCaWNSa0Cz8&t=1916s\" target=\"_blank\" style=\"color: #1a73e8;\">Draymond Green: \"Dalton Knecht is not expected to make the Lakers' regular season roster. Lakers have 16 guaranteed contracts and going into the season you can only have 15 guaranteed contracts. Apparently, Bronny James and Jaden Hardy have been outplaying him in camp</a> and he's viewed as the odd man out. And it's crazy because Dalton Knecht seemed to like he had a little bit of promise to him, but after that trade that got voided by the Hornets to bring him in and send Mark Williams to the Lakers, the Lakers voided the trade because of Mark Williams' back. Dalton Knecht just been in purgatory ever since and ultimately I think it ruined him.\"",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=HCaWNSa0Cz8&t=1916s"
+      },
+      {
+        "date": "2026-09-24",
+        "text": "NBA Trade Machine: Over the past 24 hours,Zeke Nnaji featured in 4.4% of trades built on HoopsMatic.Within his trades, he landed most often in Chicago (16.7%), LA Lakers (14.8%), and Charlotte (11.1%). Most often, he was traded for Stephen Curry (9.3%), Jaden Hardy (7.4%), and Khaman Maluach (7.4%).HoopsMatic",
+        "text_html": "NBA Trade Machine: Over the past 24 hours, <a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">Zeke Nnaji featured in 4.4% of trades built on HoopsMatic.</a> Within his trades, he landed most often in Chicago (16.7%), LA Lakers (14.8%), and Charlotte (11.1%). Most often, he was traded for Stephen Curry (9.3%), Jaden Hardy (7.4%), and Khaman Maluach (7.4%).",
+        "outlet": "HoopsMatic",
+        "source_url": "https://hoopsmatic.com/"
+      }
+    ],
+    "Mark Williams": [
+      {
+        "date": "2026-10-06",
+        "text": "As things have taken a new, difficult turn for the Lakers' young forward, Green pointed to Knecht's representatives as the reason behind his struggles in LA.\"Dalton Knecht is not expected to make the Lakers' regular-season roster, as the team has 16 guaranteed contracts and can only carry 15. Apparently, Bronny James and Jaden Hardy have outplayed him in camp, making him the odd man out.It's crazy because Knecht seemed to have some promise, but after the trade that would have sent him to the Hornets and brought Mark Williams to the Lakers was voided, he has been in purgatory ever since,\" the Golden State Warriors star said on the latest episode of his The Draymond Green Show. \"Ultimately, I think it ruined him. I blame his agent because, the moment the trade fell through, the agent should have been working to get him out of LA.\"BasketNews",
+        "text_html": "As things have taken a new, difficult turn for the Lakers' young forward, Green pointed to Knecht's representatives as the reason behind his struggles in LA. <a href=\"https://basketnews.com/news-256735-draymond-green-names-who-is-to-blame-for-lakers-top-trade-candidate.html\" target=\"_blank\" style=\"color: #1a73e8;\">\"Dalton Knecht is not expected to make the Lakers' regular-season roster, as the team has 16 guaranteed contracts and can only carry 15. Apparently, Bronny James and Jaden Hardy have outplayed him in camp, making him the odd man out.</a> It's crazy because Knecht seemed to have some promise, but after the trade that would have sent him to the Hornets and brought Mark Williams to the Lakers was voided, he has been in purgatory ever since,\" the Golden State Warriors star said on the latest episode of his The Draymond Green Show. \"Ultimately, I think it ruined him. I blame his agent because, the moment the trade fell through, the agent should have been working to get him out of LA.\"",
+        "outlet": "BasketNews",
+        "source_url": "https://basketnews.com/news-256735-draymond-green-names-who-is-to-blame-for-lakers-top-trade-candidate.html"
+      },
+      {
+        "date": "2026-10-04",
+        "text": "Draymond Green: \"Dalton Knecht is not expected to make the Lakers' regular season roster. Lakers have 16 guaranteed contracts and going into the season you can only have 15 guaranteed contracts. Apparently, Bronny James and Jaden Hardy have been outplaying him in campand he's viewed as the odd man out. And it's crazy because Dalton Knecht seemed to like he had a little bit of promise to him, but after that trade that got voided by the Hornets to bring him in and send Mark Williams to the Lakers, the Lakers voided the trade because of Mark Williams' back. Dalton Knecht just been in purgatory ever since and ultimately I think it ruined him.\"YouTube",
+        "text_html": "<a href=\"https://www.youtube.com/watch?v=HCaWNSa0Cz8&t=1916s\" target=\"_blank\" style=\"color: #1a73e8;\">Draymond Green: \"Dalton Knecht is not expected to make the Lakers' regular season roster. Lakers have 16 guaranteed contracts and going into the season you can only have 15 guaranteed contracts. Apparently, Bronny James and Jaden Hardy have been outplaying him in camp</a> and he's viewed as the odd man out. And it's crazy because Dalton Knecht seemed to like he had a little bit of promise to him, but after that trade that got voided by the Hornets to bring him in and send Mark Williams to the Lakers, the Lakers voided the trade because of Mark Williams' back. Dalton Knecht just been in purgatory ever since and ultimately I think it ruined him.\"",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=HCaWNSa0Cz8&t=1916s"
+      }
+    ],
+    "Dalton Knecht": [
+      {
+        "date": "2026-10-06",
+        "text": "As things have taken a new, difficult turn for the Lakers' young forward, Green pointed to Knecht's representatives as the reason behind his struggles in LA.\"Dalton Knecht is not expected to make the Lakers' regular-season roster, as the team has 16 guaranteed contracts and can only carry 15. Apparently, Bronny James and Jaden Hardy have outplayed him in camp, making him the odd man out.It's crazy because Knecht seemed to have some promise, but after the trade that would have sent him to the Hornets and brought Mark Williams to the Lakers was voided, he has been in purgatory ever since,\" the Golden State Warriors star said on the latest episode of his The Draymond Green Show. \"Ultimately, I think it ruined him. I blame his agent because, the moment the trade fell through, the agent should have been working to get him out of LA.\"BasketNews",
+        "text_html": "As things have taken a new, difficult turn for the Lakers' young forward, Green pointed to Knecht's representatives as the reason behind his struggles in LA. <a href=\"https://basketnews.com/news-256735-draymond-green-names-who-is-to-blame-for-lakers-top-trade-candidate.html\" target=\"_blank\" style=\"color: #1a73e8;\">\"Dalton Knecht is not expected to make the Lakers' regular-season roster, as the team has 16 guaranteed contracts and can only carry 15. Apparently, Bronny James and Jaden Hardy have outplayed him in camp, making him the odd man out.</a> It's crazy because Knecht seemed to have some promise, but after the trade that would have sent him to the Hornets and brought Mark Williams to the Lakers was voided, he has been in purgatory ever since,\" the Golden State Warriors star said on the latest episode of his The Draymond Green Show. \"Ultimately, I think it ruined him. I blame his agent because, the moment the trade fell through, the agent should have been working to get him out of LA.\"",
+        "outlet": "BasketNews",
+        "source_url": "https://basketnews.com/news-256735-draymond-green-names-who-is-to-blame-for-lakers-top-trade-candidate.html"
+      },
+      {
+        "date": "2026-10-04",
+        "text": "Draymond Green: \"Dalton Knecht is not expected to make the Lakers' regular season roster. Lakers have 16 guaranteed contracts and going into the season you can only have 15 guaranteed contracts. Apparently, Bronny James and Jaden Hardy have been outplaying him in campand he's viewed as the odd man out. And it's crazy because Dalton Knecht seemed to like he had a little bit of promise to him, but after that trade that got voided by the Hornets to bring him in and send Mark Williams to the Lakers, the Lakers voided the trade because of Mark Williams' back. Dalton Knecht just been in purgatory ever since and ultimately I think it ruined him.\"YouTube",
+        "text_html": "<a href=\"https://www.youtube.com/watch?v=HCaWNSa0Cz8&t=1916s\" target=\"_blank\" style=\"color: #1a73e8;\">Draymond Green: \"Dalton Knecht is not expected to make the Lakers' regular season roster. Lakers have 16 guaranteed contracts and going into the season you can only have 15 guaranteed contracts. Apparently, Bronny James and Jaden Hardy have been outplaying him in camp</a> and he's viewed as the odd man out. And it's crazy because Dalton Knecht seemed to like he had a little bit of promise to him, but after that trade that got voided by the Hornets to bring him in and send Mark Williams to the Lakers, the Lakers voided the trade because of Mark Williams' back. Dalton Knecht just been in purgatory ever since and ultimately I think it ruined him.\"",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=HCaWNSa0Cz8&t=1916s"
+      }
+    ],
+    "Jarred Vanderbilt": [
+      {
+        "date": "2026-10-06",
+        "text": "NBA Trade Machine: Over the past 24 hours,Terance Mann featured in 9.1% of trades built on HoopsMatic.Within his trades, he landed most often in Detroit (11.3%), Memphis (9.9%), and Utah (8.5%). Most often, he was traded for Ron Holland (7.1%), Jarred Vanderbilt (7.1%), and Moses Moody (5.7%).HoopsMatic",
+        "text_html": "NBA Trade Machine: Over the past 24 hours, <a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">Terance Mann featured in 9.1% of trades built on HoopsMatic.</a> Within his trades, he landed most often in Detroit (11.3%), Memphis (9.9%), and Utah (8.5%). Most often, he was traded for Ron Holland (7.1%), Jarred Vanderbilt (7.1%), and Moses Moody (5.7%).",
+        "outlet": "HoopsMatic",
+        "source_url": "https://hoopsmatic.com/"
+      },
+      {
+        "date": "2026-09-29",
+        "text": "NBA Trade Machine:Jarred Vanderbilt was part of 7.3% of the trades built on HoopsMatic over the past 24 hours.Of those trades, his top destinations were Dallas (55.2%), Milwaukee (7.8%), and Miami (4.3%). The most common players sent back for him were PJ Washington (55.2%), Derrick Jones (6.9%), and Myles Turner (6.9%).HoopsMatic",
+        "text_html": "NBA Trade Machine: <a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">Jarred Vanderbilt was part of 7.3% of the trades built on HoopsMatic over the past 24 hours.</a> Of those trades, his top destinations were Dallas (55.2%), Milwaukee (7.8%), and Miami (4.3%). The most common players sent back for him were PJ Washington (55.2%), Derrick Jones (6.9%), and Myles Turner (6.9%).",
+        "outlet": "HoopsMatic",
+        "source_url": "https://hoopsmatic.com/"
+      }
+    ],
+    "Terance Mann": [
+      {
+        "date": "2026-10-06",
+        "text": "NBA Trade Machine: Over the past 24 hours,Terance Mann featured in 9.1% of trades built on HoopsMatic.Within his trades, he landed most often in Detroit (11.3%), Memphis (9.9%), and Utah (8.5%). Most often, he was traded for Ron Holland (7.1%), Jarred Vanderbilt (7.1%), and Moses Moody (5.7%).HoopsMatic",
+        "text_html": "NBA Trade Machine: Over the past 24 hours, <a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">Terance Mann featured in 9.1% of trades built on HoopsMatic.</a> Within his trades, he landed most often in Detroit (11.3%), Memphis (9.9%), and Utah (8.5%). Most often, he was traded for Ron Holland (7.1%), Jarred Vanderbilt (7.1%), and Moses Moody (5.7%).",
+        "outlet": "HoopsMatic",
+        "source_url": "https://hoopsmatic.com/"
+      }
+    ],
+    "Moses Moody": [
+      {
+        "date": "2026-10-06",
+        "text": "NBA Trade Machine: Over the past 24 hours,Terance Mann featured in 9.1% of trades built on HoopsMatic.Within his trades, he landed most often in Detroit (11.3%), Memphis (9.9%), and Utah (8.5%). Most often, he was traded for Ron Holland (7.1%), Jarred Vanderbilt (7.1%), and Moses Moody (5.7%).HoopsMatic",
+        "text_html": "NBA Trade Machine: Over the past 24 hours, <a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">Terance Mann featured in 9.1% of trades built on HoopsMatic.</a> Within his trades, he landed most often in Detroit (11.3%), Memphis (9.9%), and Utah (8.5%). Most often, he was traded for Ron Holland (7.1%), Jarred Vanderbilt (7.1%), and Moses Moody (5.7%).",
+        "outlet": "HoopsMatic",
+        "source_url": "https://hoopsmatic.com/"
+      }
+    ],
+    "Ron Holland": [
+      {
+        "date": "2026-10-06",
+        "text": "NBA Trade Machine: Over the past 24 hours,Terance Mann featured in 9.1% of trades built on HoopsMatic.Within his trades, he landed most often in Detroit (11.3%), Memphis (9.9%), and Utah (8.5%). Most often, he was traded for Ron Holland (7.1%), Jarred Vanderbilt (7.1%), and Moses Moody (5.7%).HoopsMatic",
+        "text_html": "NBA Trade Machine: Over the past 24 hours, <a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">Terance Mann featured in 9.1% of trades built on HoopsMatic.</a> Within his trades, he landed most often in Detroit (11.3%), Memphis (9.9%), and Utah (8.5%). Most often, he was traded for Ron Holland (7.1%), Jarred Vanderbilt (7.1%), and Moses Moody (5.7%).",
+        "outlet": "HoopsMatic",
+        "source_url": "https://hoopsmatic.com/"
+      }
+    ],
     "Darius Garland": [
       {
         "date": "2026-10-05",
@@ -928,79 +1136,6 @@
         "text_html": "<a href=\"https://chicago.suntimes.com/bulls/2026/10/04/bulls-excited-matas-buzelis-caleb-wilson-team-up-looks-like\" target=\"_blank\" style=\"color: #1a73e8;\">While coach Tiago Splitter wouldn\u2019t tip his hand on a starting five, it\u2019s felt chalky since the summer when the team signed veteran shooter Norman Powell and acquired Nic Claxton in a trade.</a> That means Josh Giddey and Powell in the backcourt and Claxton, Wilson and Buzelis making up the frontcourt.",
         "outlet": "Chicago Sun-Times",
         "source_url": "https://chicago.suntimes.com/bulls/2026/10/04/bulls-excited-matas-buzelis-caleb-wilson-team-up-looks-like"
-      }
-    ],
-    "Draymond Green": [
-      {
-        "date": "2026-10-04",
-        "text": "Draymond Green: \"Dalton Knecht is not expected to make the Lakers' regular season roster. Lakers have 16 guaranteed contracts and going into the season you can only have 15 guaranteed contracts. Apparently, Bronny James and Jaden Hardy have been outplaying him in campand he's viewed as the odd man out. And it's crazy because Dalton Knecht seemed to like he had a little bit of promise to him, but after that trade that got voided by the Hornets to bring him in and send Mark Williams to the Lakers, the Lakers voided the trade because of Mark Williams' back. Dalton Knecht just been in purgatory ever since and ultimately I think it ruined him.\"YouTube",
-        "text_html": "<a href=\"https://www.youtube.com/watch?v=HCaWNSa0Cz8&t=1916s\" target=\"_blank\" style=\"color: #1a73e8;\">Draymond Green: \"Dalton Knecht is not expected to make the Lakers' regular season roster. Lakers have 16 guaranteed contracts and going into the season you can only have 15 guaranteed contracts. Apparently, Bronny James and Jaden Hardy have been outplaying him in camp</a> and he's viewed as the odd man out. And it's crazy because Dalton Knecht seemed to like he had a little bit of promise to him, but after that trade that got voided by the Hornets to bring him in and send Mark Williams to the Lakers, the Lakers voided the trade because of Mark Williams' back. Dalton Knecht just been in purgatory ever since and ultimately I think it ruined him.\"",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=HCaWNSa0Cz8&t=1916s"
-      },
-      {
-        "date": "2026-09-18",
-        "text": "Draymond Green Show: Draymond reacts to Danilo Gallinari's comments on Kawhi Leonard\"I think wishing the NBA took $50 million from a player is disgusting... that also wasn't his first time being traded, so for him to sit and act as if Kawhi Leonard ruined his career, that's bulls**t... I think Gallinari would choose Paul George over himself and if you won't, that's crazy, that's ridiculous... Kawhi Leonard does not have the power to trade a player, he can request... but he don't have the ability to make that trade.\"x.com",
-        "text_html": "Draymond Green Show: Draymond reacts to Danilo Gallinari's comments on Kawhi Leonard <a href=\"https://x.com/DraymondShow/status/2100955504902078801?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">\"I think wishing the NBA took $50 million from a player is disgusting... that also wasn't his first time being traded, so for him to sit and act as if Kawhi Leonard ruined his career, that's bulls**t... I think Gallinari would choose Paul George over himself and if you won't, that's crazy, that's ridiculous... Kawhi Leonard does not have the power to trade a player, he can request... but he don't have the ability to make that trade.\"</a>",
-        "outlet": "x.com",
-        "source_url": "https://x.com/DraymondShow/status/2100955504902078801?s=20"
-      },
-      {
-        "date": "2026-09-16",
-        "text": "Whether Green can navigate that contradiction could determine more than Golden State\u2019s early-season record. Warriors insider Marcus Thompson II has suggested a poor start could force the franchise to confront an outcome once considered unthinkable.\u201cDraymond could be traded at the trade deadline,\u201d Thompson said.New York Post",
-        "text_html": "Whether Green can navigate that contradiction could determine more than Golden State\u2019s early-season record. Warriors insider Marcus Thompson II has suggested a poor start could force the franchise to confront an outcome once considered unthinkable. <a href=\"https://nypost.com/2026/09/15/sports/steve-kerr-warns-draymond-green-frustrating-warriors-adjustment/?utm_medium=social&utm_source=twitter&utm_campaign=nypost\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cDraymond could be traded at the trade deadline,\u201d Thompson said</a>.",
-        "outlet": "New York Post",
-        "source_url": "https://nypost.com/2026/09/15/sports/steve-kerr-warns-draymond-green-frustrating-warriors-adjustment/?utm_medium=social&utm_source=twitter&utm_campaign=nypost"
-      }
-    ],
-    "Bronny James": [
-      {
-        "date": "2026-10-04",
-        "text": "Draymond Green: \"Dalton Knecht is not expected to make the Lakers' regular season roster. Lakers have 16 guaranteed contracts and going into the season you can only have 15 guaranteed contracts. Apparently, Bronny James and Jaden Hardy have been outplaying him in campand he's viewed as the odd man out. And it's crazy because Dalton Knecht seemed to like he had a little bit of promise to him, but after that trade that got voided by the Hornets to bring him in and send Mark Williams to the Lakers, the Lakers voided the trade because of Mark Williams' back. Dalton Knecht just been in purgatory ever since and ultimately I think it ruined him.\"YouTube",
-        "text_html": "<a href=\"https://www.youtube.com/watch?v=HCaWNSa0Cz8&t=1916s\" target=\"_blank\" style=\"color: #1a73e8;\">Draymond Green: \"Dalton Knecht is not expected to make the Lakers' regular season roster. Lakers have 16 guaranteed contracts and going into the season you can only have 15 guaranteed contracts. Apparently, Bronny James and Jaden Hardy have been outplaying him in camp</a> and he's viewed as the odd man out. And it's crazy because Dalton Knecht seemed to like he had a little bit of promise to him, but after that trade that got voided by the Hornets to bring him in and send Mark Williams to the Lakers, the Lakers voided the trade because of Mark Williams' back. Dalton Knecht just been in purgatory ever since and ultimately I think it ruined him.\"",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=HCaWNSa0Cz8&t=1916s"
-      },
-      {
-        "date": "2026-10-04",
-        "text": "But don\u2019t rule outa Bronny James trade, not because the Lakers are seeking to sump him but because he could bring in draft assets\u2013even a second rounder or two, which is what James would bring.\u201cThere\u2019s definitely interest there,\u201d one executive said of other teams nosing around on James. \u201cHe\u2019s gotten much better in a short period. He knows his role, and it\u2019s hard to find young guys who just want to excel in their role.\u201dAgain, we\u2019re not talking first-round picks, and dumping Knecht is still probably the Lakers\u2019 path. But Bronny James being traded because of his own ability and not because of his dad would be a great story.Heavy.com",
-        "text_html": "But don\u2019t rule outa Bronny James trade, not because the Lakers are seeking to sump him but because he could bring in draft assets\u2013even a second rounder or two, which is what James would bring. <a href=\"https://heavy.com/sports/nba/los-angeles-lakers/nba-trade-rumors-lakers-bronny-james-domantas-sabonis-warriors-more/\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cThere\u2019s definitely interest there,\u201d one executive said of other teams nosing around on James. \u201cHe\u2019s gotten much better in a short period. He knows his role, and it\u2019s hard to find young guys who just want to excel in their role.\u201d</a> Again, we\u2019re not talking first-round picks, and dumping Knecht is still probably the Lakers\u2019 path. But Bronny James being traded because of his own ability and not because of his dad would be a great story.",
-        "outlet": "Heavy.com",
-        "source_url": "https://heavy.com/sports/nba/los-angeles-lakers/nba-trade-rumors-lakers-bronny-james-domantas-sabonis-warriors-more/"
-      }
-    ],
-    "Jaden Hardy": [
-      {
-        "date": "2026-10-04",
-        "text": "Draymond Green: \"Dalton Knecht is not expected to make the Lakers' regular season roster. Lakers have 16 guaranteed contracts and going into the season you can only have 15 guaranteed contracts. Apparently, Bronny James and Jaden Hardy have been outplaying him in campand he's viewed as the odd man out. And it's crazy because Dalton Knecht seemed to like he had a little bit of promise to him, but after that trade that got voided by the Hornets to bring him in and send Mark Williams to the Lakers, the Lakers voided the trade because of Mark Williams' back. Dalton Knecht just been in purgatory ever since and ultimately I think it ruined him.\"YouTube",
-        "text_html": "<a href=\"https://www.youtube.com/watch?v=HCaWNSa0Cz8&t=1916s\" target=\"_blank\" style=\"color: #1a73e8;\">Draymond Green: \"Dalton Knecht is not expected to make the Lakers' regular season roster. Lakers have 16 guaranteed contracts and going into the season you can only have 15 guaranteed contracts. Apparently, Bronny James and Jaden Hardy have been outplaying him in camp</a> and he's viewed as the odd man out. And it's crazy because Dalton Knecht seemed to like he had a little bit of promise to him, but after that trade that got voided by the Hornets to bring him in and send Mark Williams to the Lakers, the Lakers voided the trade because of Mark Williams' back. Dalton Knecht just been in purgatory ever since and ultimately I think it ruined him.\"",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=HCaWNSa0Cz8&t=1916s"
-      },
-      {
-        "date": "2026-09-24",
-        "text": "NBA Trade Machine: Over the past 24 hours,Zeke Nnaji featured in 4.4% of trades built on HoopsMatic.Within his trades, he landed most often in Chicago (16.7%), LA Lakers (14.8%), and Charlotte (11.1%). Most often, he was traded for Stephen Curry (9.3%), Jaden Hardy (7.4%), and Khaman Maluach (7.4%).HoopsMatic",
-        "text_html": "NBA Trade Machine: Over the past 24 hours, <a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">Zeke Nnaji featured in 4.4% of trades built on HoopsMatic.</a> Within his trades, he landed most often in Chicago (16.7%), LA Lakers (14.8%), and Charlotte (11.1%). Most often, he was traded for Stephen Curry (9.3%), Jaden Hardy (7.4%), and Khaman Maluach (7.4%).",
-        "outlet": "HoopsMatic",
-        "source_url": "https://hoopsmatic.com/"
-      }
-    ],
-    "Mark Williams": [
-      {
-        "date": "2026-10-04",
-        "text": "Draymond Green: \"Dalton Knecht is not expected to make the Lakers' regular season roster. Lakers have 16 guaranteed contracts and going into the season you can only have 15 guaranteed contracts. Apparently, Bronny James and Jaden Hardy have been outplaying him in campand he's viewed as the odd man out. And it's crazy because Dalton Knecht seemed to like he had a little bit of promise to him, but after that trade that got voided by the Hornets to bring him in and send Mark Williams to the Lakers, the Lakers voided the trade because of Mark Williams' back. Dalton Knecht just been in purgatory ever since and ultimately I think it ruined him.\"YouTube",
-        "text_html": "<a href=\"https://www.youtube.com/watch?v=HCaWNSa0Cz8&t=1916s\" target=\"_blank\" style=\"color: #1a73e8;\">Draymond Green: \"Dalton Knecht is not expected to make the Lakers' regular season roster. Lakers have 16 guaranteed contracts and going into the season you can only have 15 guaranteed contracts. Apparently, Bronny James and Jaden Hardy have been outplaying him in camp</a> and he's viewed as the odd man out. And it's crazy because Dalton Knecht seemed to like he had a little bit of promise to him, but after that trade that got voided by the Hornets to bring him in and send Mark Williams to the Lakers, the Lakers voided the trade because of Mark Williams' back. Dalton Knecht just been in purgatory ever since and ultimately I think it ruined him.\"",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=HCaWNSa0Cz8&t=1916s"
-      }
-    ],
-    "Dalton Knecht": [
-      {
-        "date": "2026-10-04",
-        "text": "Draymond Green: \"Dalton Knecht is not expected to make the Lakers' regular season roster. Lakers have 16 guaranteed contracts and going into the season you can only have 15 guaranteed contracts. Apparently, Bronny James and Jaden Hardy have been outplaying him in campand he's viewed as the odd man out. And it's crazy because Dalton Knecht seemed to like he had a little bit of promise to him, but after that trade that got voided by the Hornets to bring him in and send Mark Williams to the Lakers, the Lakers voided the trade because of Mark Williams' back. Dalton Knecht just been in purgatory ever since and ultimately I think it ruined him.\"YouTube",
-        "text_html": "<a href=\"https://www.youtube.com/watch?v=HCaWNSa0Cz8&t=1916s\" target=\"_blank\" style=\"color: #1a73e8;\">Draymond Green: \"Dalton Knecht is not expected to make the Lakers' regular season roster. Lakers have 16 guaranteed contracts and going into the season you can only have 15 guaranteed contracts. Apparently, Bronny James and Jaden Hardy have been outplaying him in camp</a> and he's viewed as the odd man out. And it's crazy because Dalton Knecht seemed to like he had a little bit of promise to him, but after that trade that got voided by the Hornets to bring him in and send Mark Williams to the Lakers, the Lakers voided the trade because of Mark Williams' back. Dalton Knecht just been in purgatory ever since and ultimately I think it ruined him.\"",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=HCaWNSa0Cz8&t=1916s"
       }
     ],
     "Jalen Brunson": [
@@ -1319,15 +1454,6 @@
       }
     ],
     "PJ Washington": [
-      {
-        "date": "2026-09-29",
-        "text": "NBA Trade Machine:Jarred Vanderbilt was part of 7.3% of the trades built on HoopsMatic over the past 24 hours.Of those trades, his top destinations were Dallas (55.2%), Milwaukee (7.8%), and Miami (4.3%). The most common players sent back for him were PJ Washington (55.2%), Derrick Jones (6.9%), and Myles Turner (6.9%).HoopsMatic",
-        "text_html": "NBA Trade Machine: <a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">Jarred Vanderbilt was part of 7.3% of the trades built on HoopsMatic over the past 24 hours.</a> Of those trades, his top destinations were Dallas (55.2%), Milwaukee (7.8%), and Miami (4.3%). The most common players sent back for him were PJ Washington (55.2%), Derrick Jones (6.9%), and Myles Turner (6.9%).",
-        "outlet": "HoopsMatic",
-        "source_url": "https://hoopsmatic.com/"
-      }
-    ],
-    "Jarred Vanderbilt": [
       {
         "date": "2026-09-29",
         "text": "NBA Trade Machine:Jarred Vanderbilt was part of 7.3% of the trades built on HoopsMatic over the past 24 hours.Of those trades, his top destinations were Dallas (55.2%), Milwaukee (7.8%), and Miami (4.3%). The most common players sent back for him were PJ Washington (55.2%), Derrick Jones (6.9%), and Myles Turner (6.9%).HoopsMatic",
@@ -2264,6 +2390,45 @@
     ]
   },
   "daily_counts": {
+    "Corey Kispert": {
+      "2026-10-06": 1
+    },
+    "Draymond Green": {
+      "2026-10-06": 1,
+      "2026-10-04": 1,
+      "2026-09-18": 1,
+      "2026-09-16": 1
+    },
+    "Bronny James": {
+      "2026-10-06": 1,
+      "2026-10-04": 2
+    },
+    "Jaden Hardy": {
+      "2026-10-06": 1,
+      "2026-10-04": 1,
+      "2026-09-24": 1
+    },
+    "Mark Williams": {
+      "2026-10-06": 1,
+      "2026-10-04": 1
+    },
+    "Dalton Knecht": {
+      "2026-10-06": 1,
+      "2026-10-04": 1
+    },
+    "Jarred Vanderbilt": {
+      "2026-10-06": 1,
+      "2026-09-29": 1
+    },
+    "Terance Mann": {
+      "2026-10-06": 1
+    },
+    "Moses Moody": {
+      "2026-10-06": 1
+    },
+    "Ron Holland": {
+      "2026-10-06": 1
+    },
     "Darius Garland": {
       "2026-10-05": 2
     },
@@ -2271,24 +2436,6 @@
       "2026-10-04": 1
     },
     "Josh Giddey": {
-      "2026-10-04": 1
-    },
-    "Draymond Green": {
-      "2026-10-04": 1,
-      "2026-09-18": 1,
-      "2026-09-16": 1
-    },
-    "Bronny James": {
-      "2026-10-04": 2
-    },
-    "Jaden Hardy": {
-      "2026-10-04": 1,
-      "2026-09-24": 1
-    },
-    "Mark Williams": {
-      "2026-10-04": 1
-    },
-    "Dalton Knecht": {
       "2026-10-04": 1
     },
     "Jalen Brunson": {
@@ -2355,9 +2502,6 @@
       "2026-09-11": 1
     },
     "PJ Washington": {
-      "2026-09-29": 1
-    },
-    "Jarred Vanderbilt": {
       "2026-09-29": 1
     },
     "LaMelo Ball": {
