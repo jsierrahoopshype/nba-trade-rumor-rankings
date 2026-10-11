@@ -1,11 +1,23 @@
 {
-  "generated_at": "2026-10-11T06:49:02.666339",
+  "generated_at": "2026-10-11T17:49:12.703954",
   "scrape_window_days": 28,
   "window_start": "2026-09-13",
   "window_end": "2026-10-11",
-  "total_rumors": 153,
-  "total_players": 80,
+  "total_rumors": 159,
+  "total_players": 84,
   "rankings": [
+    {
+      "player": "Jaden Hardy",
+      "score": 3.25,
+      "mentions_week1": 3,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 4,
+      "first_mention": "2026-09-24",
+      "last_mention": "2026-10-11",
+      "team": "Los Angeles Lakers",
+      "rank": 1
+    },
     {
       "player": "Kawhi Leonard",
       "score": 3.0,
@@ -16,7 +28,7 @@
       "first_mention": "2026-09-13",
       "last_mention": "2026-09-21",
       "team": "Los Angeles Clippers",
-      "rank": 1
+      "rank": 2
     },
     {
       "player": "Bronny James",
@@ -28,7 +40,7 @@
       "first_mention": "2026-10-04",
       "last_mention": "2026-10-06",
       "team": "Charlotte Hornets",
-      "rank": 2
+      "rank": 3
     },
     {
       "player": "Jaylen Brown",
@@ -40,7 +52,7 @@
       "first_mention": "2026-09-16",
       "last_mention": "2026-10-10",
       "team": "Boston Celtics",
-      "rank": 3
+      "rank": 4
     },
     {
       "player": "Jalen Duren",
@@ -52,7 +64,7 @@
       "first_mention": "2026-09-14",
       "last_mention": "2026-10-01",
       "team": "Detroit Pistons",
-      "rank": 4
+      "rank": 5
     },
     {
       "player": "Draymond Green",
@@ -64,18 +76,6 @@
       "first_mention": "2026-09-16",
       "last_mention": "2026-10-06",
       "team": "Golden State Warriors",
-      "rank": 5
-    },
-    {
-      "player": "Jaden Hardy",
-      "score": 2.25,
-      "mentions_week1": 2,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 3,
-      "first_mention": "2026-09-24",
-      "last_mention": "2026-10-06",
-      "team": "Charlotte Hornets",
       "rank": 6
     },
     {
@@ -199,6 +199,18 @@
       "rank": 16
     },
     {
+      "player": "De'Aaron Fox",
+      "score": 1.5,
+      "mentions_week1": 1,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 2,
+      "first_mention": "2026-09-28",
+      "last_mention": "2026-10-11",
+      "team": "San Antonio Spurs",
+      "rank": 17
+    },
+    {
       "player": "Jarred Vanderbilt",
       "score": 1.5,
       "mentions_week1": 1,
@@ -208,7 +220,7 @@
       "first_mention": "2026-09-29",
       "last_mention": "2026-10-06",
       "team": "Detroit Pistons",
-      "rank": 17
+      "rank": 18
     },
     {
       "player": "Peyton Watson",
@@ -220,7 +232,7 @@
       "first_mention": "2026-09-28",
       "last_mention": "2026-10-06",
       "team": "Cleveland Cavaliers",
-      "rank": 18
+      "rank": 19
     },
     {
       "player": "Trae Young",
@@ -232,7 +244,7 @@
       "first_mention": "2026-10-03",
       "last_mention": "2026-10-10",
       "team": "Atlanta Hawks",
-      "rank": 19
+      "rank": 20
     },
     {
       "player": "Stephen Curry",
@@ -244,7 +256,7 @@
       "first_mention": "2026-09-17",
       "last_mention": "2026-09-24",
       "team": "Golden State Warriors",
-      "rank": 20
+      "rank": 21
     },
     {
       "player": "Caris LeVert",
@@ -256,7 +268,19 @@
       "first_mention": "2026-10-02",
       "last_mention": "2026-10-02",
       "team": "Detroit Pistons",
-      "rank": 21
+      "rank": 22
+    },
+    {
+      "player": "Anthony Edwards",
+      "score": 1.0,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-10-11",
+      "last_mention": "2026-10-11",
+      "team": "Minnesota Timberwolves",
+      "rank": 23
     },
     {
       "player": "Brandin Podziemski",
@@ -268,7 +292,19 @@
       "first_mention": "2026-10-10",
       "last_mention": "2026-10-10",
       "team": "Golden State Warriors",
-      "rank": 22
+      "rank": 24
+    },
+    {
+      "player": "Cade Cunningham",
+      "score": 1.0,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-10-11",
+      "last_mention": "2026-10-11",
+      "team": "Detroit Pistons",
+      "rank": 25
     },
     {
       "player": "Caleb Martin",
@@ -280,7 +316,7 @@
       "first_mention": "2026-10-07",
       "last_mention": "2026-10-07",
       "team": "Dallas Mavericks",
-      "rank": 23
+      "rank": 26
     },
     {
       "player": "Corey Kispert",
@@ -292,7 +328,7 @@
       "first_mention": "2026-10-06",
       "last_mention": "2026-10-06",
       "team": "Atlanta Hawks",
-      "rank": 24
+      "rank": 27
     },
     {
       "player": "Craig Porter",
@@ -304,7 +340,19 @@
       "first_mention": "2026-10-06",
       "last_mention": "2026-10-06",
       "team": "Cleveland Cavaliers",
-      "rank": 25
+      "rank": 28
+    },
+    {
+      "player": "D'Angelo Russell",
+      "score": 1.0,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-10-11",
+      "last_mention": "2026-10-11",
+      "team": "Dallas Mavericks",
+      "rank": 29
     },
     {
       "player": "Derrick White",
@@ -316,7 +364,7 @@
       "first_mention": "2026-10-07",
       "last_mention": "2026-10-07",
       "team": "Boston Celtics",
-      "rank": 26
+      "rank": 30
     },
     {
       "player": "Jarrett Allen",
@@ -328,7 +376,7 @@
       "first_mention": "2026-10-09",
       "last_mention": "2026-10-09",
       "team": "Cleveland Cavaliers",
-      "rank": 27
+      "rank": 31
     },
     {
       "player": "Joel Embiid",
@@ -340,7 +388,7 @@
       "first_mention": "2026-10-10",
       "last_mention": "2026-10-10",
       "team": "Philadelphia 76ers",
-      "rank": 28
+      "rank": 32
     },
     {
       "player": "Josh Giddey",
@@ -352,7 +400,7 @@
       "first_mention": "2026-10-04",
       "last_mention": "2026-10-04",
       "team": "Chicago Bulls",
-      "rank": 29
+      "rank": 33
     },
     {
       "player": "Kevin Durant",
@@ -364,7 +412,7 @@
       "first_mention": "2026-10-09",
       "last_mention": "2026-10-09",
       "team": "Houston Rockets",
-      "rank": 30
+      "rank": 34
     },
     {
       "player": "Max Strus",
@@ -376,7 +424,7 @@
       "first_mention": "2026-10-06",
       "last_mention": "2026-10-06",
       "team": "Cleveland Cavaliers",
-      "rank": 31
+      "rank": 35
     },
     {
       "player": "Mitchell Robinson",
@@ -388,7 +436,7 @@
       "first_mention": "2026-10-08",
       "last_mention": "2026-10-08",
       "team": "Boston Celtics",
-      "rank": 32
+      "rank": 36
     },
     {
       "player": "Moses Moody",
@@ -400,7 +448,19 @@
       "first_mention": "2026-10-06",
       "last_mention": "2026-10-06",
       "team": "Golden State Warriors",
-      "rank": 33
+      "rank": 37
+    },
+    {
+      "player": "Nicolas Claxton",
+      "score": 1.0,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-10-11",
+      "last_mention": "2026-10-11",
+      "team": "Chicago Bulls",
+      "rank": 38
     },
     {
       "player": "Nikola Jovic",
@@ -412,7 +472,7 @@
       "first_mention": "2026-10-07",
       "last_mention": "2026-10-07",
       "team": "Chicago Bulls",
-      "rank": 34
+      "rank": 39
     },
     {
       "player": "Norman Powell",
@@ -424,7 +484,7 @@
       "first_mention": "2026-10-04",
       "last_mention": "2026-10-04",
       "team": "Miami Heat",
-      "rank": 35
+      "rank": 40
     },
     {
       "player": "Patrick Williams",
@@ -436,7 +496,7 @@
       "first_mention": "2026-10-07",
       "last_mention": "2026-10-07",
       "team": "Chicago Bulls",
-      "rank": 36
+      "rank": 41
     },
     {
       "player": "Terance Mann",
@@ -448,7 +508,7 @@
       "first_mention": "2026-10-06",
       "last_mention": "2026-10-06",
       "team": "Detroit Pistons",
-      "rank": 37
+      "rank": 42
     },
     {
       "player": "Paul George",
@@ -460,7 +520,7 @@
       "first_mention": "2026-09-14",
       "last_mention": "2026-09-18",
       "team": "Philadelphia 76ers",
-      "rank": 38
+      "rank": 43
     },
     {
       "player": "Anthony Davis",
@@ -472,7 +532,7 @@
       "first_mention": "2026-09-22",
       "last_mention": "2026-10-01",
       "team": "Dallas Mavericks",
-      "rank": 39
+      "rank": 44
     },
     {
       "player": "Ja Morant",
@@ -484,7 +544,7 @@
       "first_mention": "2026-09-23",
       "last_mention": "2026-09-28",
       "team": "Memphis Grizzlies",
-      "rank": 40
+      "rank": 45
     },
     {
       "player": "Jimmy Butler",
@@ -496,7 +556,7 @@
       "first_mention": "2026-09-22",
       "last_mention": "2026-09-28",
       "team": "Golden State Warriors",
-      "rank": 41
+      "rank": 46
     },
     {
       "player": "Luka Doncic",
@@ -508,7 +568,7 @@
       "first_mention": "2026-09-26",
       "last_mention": "2026-09-28",
       "team": "Los Angeles Lakers",
-      "rank": 42
+      "rank": 47
     },
     {
       "player": "Brandon Ingram",
@@ -520,7 +580,7 @@
       "first_mention": "2026-09-14",
       "last_mention": "2026-09-14",
       "team": "Toronto Raptors",
-      "rank": 43
+      "rank": 48
     },
     {
       "player": "Gradey Dick",
@@ -532,7 +592,7 @@
       "first_mention": "2026-09-14",
       "last_mention": "2026-09-14",
       "team": "Toronto Raptors",
-      "rank": 44
+      "rank": 49
     },
     {
       "player": "Pacome Dadiet",
@@ -544,7 +604,7 @@
       "first_mention": "2026-09-25",
       "last_mention": "2026-09-25",
       "team": "Charlotte Hornets",
-      "rank": 45
+      "rank": 50
     },
     {
       "player": "Alperen Sengun",
@@ -556,19 +616,7 @@
       "first_mention": "2026-09-27",
       "last_mention": "2026-09-27",
       "team": "Houston Rockets",
-      "rank": 46
-    },
-    {
-      "player": "De'Aaron Fox",
-      "score": 0.5,
-      "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-09-28",
-      "last_mention": "2026-09-28",
-      "team": "San Antonio Spurs",
-      "rank": 47
+      "rank": 51
     },
     {
       "player": "Derrick Jones",
@@ -580,7 +628,7 @@
       "first_mention": "2026-09-29",
       "last_mention": "2026-09-29",
       "team": "Dallas Mavericks",
-      "rank": 48
+      "rank": 52
     },
     {
       "player": "Giannis Antetokounmpo",
@@ -592,7 +640,7 @@
       "first_mention": "2026-09-30",
       "last_mention": "2026-09-30",
       "team": "Milwaukee Bucks",
-      "rank": 49
+      "rank": 53
     },
     {
       "player": "Jalen Brunson",
@@ -604,7 +652,7 @@
       "first_mention": "2026-10-03",
       "last_mention": "2026-10-03",
       "team": "New York Knicks",
-      "rank": 50
+      "rank": 54
     },
     {
       "player": "Jaren Jackson Jr",
@@ -616,7 +664,7 @@
       "first_mention": "2026-09-28",
       "last_mention": "2026-09-28",
       "team": "Golden State Warriors",
-      "rank": 51
+      "rank": 55
     },
     {
       "player": "Jrue Holiday",
@@ -628,7 +676,7 @@
       "first_mention": "2026-09-28",
       "last_mention": "2026-09-28",
       "team": "Portland Trail Blazers",
-      "rank": 52
+      "rank": 56
     },
     {
       "player": "LaMelo Ball",
@@ -640,7 +688,7 @@
       "first_mention": "2026-09-29",
       "last_mention": "2026-09-29",
       "team": "Charlotte Hornets",
-      "rank": 53
+      "rank": 57
     },
     {
       "player": "Myles Turner",
@@ -652,7 +700,7 @@
       "first_mention": "2026-09-29",
       "last_mention": "2026-09-29",
       "team": "Milwaukee Bucks",
-      "rank": 54
+      "rank": 58
     },
     {
       "player": "PJ Washington",
@@ -664,7 +712,7 @@
       "first_mention": "2026-09-29",
       "last_mention": "2026-09-29",
       "team": "Dallas Mavericks",
-      "rank": 55
+      "rank": 59
     },
     {
       "player": "Tyrese Maxey",
@@ -676,7 +724,7 @@
       "first_mention": "2026-09-29",
       "last_mention": "2026-09-29",
       "team": "Philadelphia 76ers",
-      "rank": 56
+      "rank": 60
     },
     {
       "player": "VJ Edgecombe",
@@ -688,7 +736,7 @@
       "first_mention": "2026-09-29",
       "last_mention": "2026-09-29",
       "team": "Philadelphia 76ers",
-      "rank": 57
+      "rank": 61
     },
     {
       "player": "Zaccharie Risacher",
@@ -700,7 +748,7 @@
       "first_mention": "2026-09-27",
       "last_mention": "2026-09-27",
       "team": "Atlanta Hawks",
-      "rank": 58
+      "rank": 62
     },
     {
       "player": "Zach LaVine",
@@ -712,7 +760,7 @@
       "first_mention": "2026-09-27",
       "last_mention": "2026-09-27",
       "team": "Sacramento Kings",
-      "rank": 59
+      "rank": 63
     },
     {
       "player": "Zion Williamson",
@@ -724,7 +772,7 @@
       "first_mention": "2026-09-27",
       "last_mention": "2026-09-27",
       "team": "New Orleans Pelicans",
-      "rank": 60
+      "rank": 64
     },
     {
       "player": "Bruce Brown",
@@ -736,7 +784,7 @@
       "first_mention": "2026-09-16",
       "last_mention": "2026-09-16",
       "team": "Denver Nuggets",
-      "rank": 61
+      "rank": 65
     },
     {
       "player": "Cedric Coward",
@@ -748,7 +796,7 @@
       "first_mention": "2026-09-23",
       "last_mention": "2026-09-23",
       "team": "Denver Nuggets",
-      "rank": 62
+      "rank": 66
     },
     {
       "player": "Christian Braun",
@@ -760,7 +808,7 @@
       "first_mention": "2026-09-21",
       "last_mention": "2026-09-21",
       "team": "Denver Nuggets",
-      "rank": 63
+      "rank": 67
     },
     {
       "player": "Damian Lillard",
@@ -772,7 +820,7 @@
       "first_mention": "2026-09-23",
       "last_mention": "2026-09-23",
       "team": "Denver Nuggets",
-      "rank": 64
+      "rank": 68
     },
     {
       "player": "Devin Booker",
@@ -784,7 +832,7 @@
       "first_mention": "2026-09-22",
       "last_mention": "2026-09-22",
       "team": "Phoenix Suns",
-      "rank": 65
+      "rank": 69
     },
     {
       "player": "Devin Carter",
@@ -796,7 +844,7 @@
       "first_mention": "2026-09-21",
       "last_mention": "2026-09-21",
       "team": "Atlanta Hawks",
-      "rank": 66
+      "rank": 70
     },
     {
       "player": "Drew Eubanks",
@@ -808,7 +856,7 @@
       "first_mention": "2026-09-16",
       "last_mention": "2026-09-16",
       "team": "Indiana Pacers",
-      "rank": 67
+      "rank": 71
     },
     {
       "player": "Duncan Robinson",
@@ -820,7 +868,7 @@
       "first_mention": "2026-09-26",
       "last_mention": "2026-09-26",
       "team": "Detroit Pistons",
-      "rank": 68
+      "rank": 72
     },
     {
       "player": "Gary Harris",
@@ -832,7 +880,7 @@
       "first_mention": "2026-09-26",
       "last_mention": "2026-09-26",
       "team": "Detroit Pistons",
-      "rank": 69
+      "rank": 73
     },
     {
       "player": "Hugo Gonzalez",
@@ -844,7 +892,7 @@
       "first_mention": "2026-09-14",
       "last_mention": "2026-09-14",
       "team": "Boston Celtics",
-      "rank": 70
+      "rank": 74
     },
     {
       "player": "Jamal Shead",
@@ -856,7 +904,7 @@
       "first_mention": "2026-09-21",
       "last_mention": "2026-09-21",
       "team": "Charlotte Hornets",
-      "rank": 71
+      "rank": 75
     },
     {
       "player": "John Konchar",
@@ -868,7 +916,7 @@
       "first_mention": "2026-09-16",
       "last_mention": "2026-09-16",
       "team": "Indiana Pacers",
-      "rank": 72
+      "rank": 76
     },
     {
       "player": "Jordan Poole",
@@ -880,7 +928,7 @@
       "first_mention": "2026-09-22",
       "last_mention": "2026-09-22",
       "team": "Golden State Warriors",
-      "rank": 73
+      "rank": 77
     },
     {
       "player": "Kevin McCullar",
@@ -892,7 +940,7 @@
       "first_mention": "2026-09-16",
       "last_mention": "2026-09-16",
       "team": "Indiana Pacers",
-      "rank": 74
+      "rank": 78
     },
     {
       "player": "Khaman Maluach",
@@ -904,7 +952,7 @@
       "first_mention": "2026-09-24",
       "last_mention": "2026-09-24",
       "team": "Charlotte Hornets",
-      "rank": 75
+      "rank": 79
     },
     {
       "player": "Moussa Diabate",
@@ -916,7 +964,7 @@
       "first_mention": "2026-09-25",
       "last_mention": "2026-09-25",
       "team": "Charlotte Hornets",
-      "rank": 76
+      "rank": 80
     },
     {
       "player": "Naz Reid",
@@ -928,7 +976,7 @@
       "first_mention": "2026-09-21",
       "last_mention": "2026-09-21",
       "team": "Minnesota Timberwolves",
-      "rank": 77
+      "rank": 81
     },
     {
       "player": "Saddiq Bey",
@@ -940,7 +988,7 @@
       "first_mention": "2026-09-17",
       "last_mention": "2026-09-17",
       "team": "New Orleans Pelicans",
-      "rank": 78
+      "rank": 82
     },
     {
       "player": "Taurean Prince",
@@ -952,7 +1000,7 @@
       "first_mention": "2026-09-26",
       "last_mention": "2026-09-26",
       "team": "Detroit Pistons",
-      "rank": 79
+      "rank": 83
     },
     {
       "player": "Zeke Nnaji",
@@ -964,10 +1012,92 @@
       "first_mention": "2026-09-24",
       "last_mention": "2026-09-24",
       "team": "Charlotte Hornets",
-      "rank": 80
+      "rank": 84
     }
   ],
   "player_rumors": {
+    "De'Aaron Fox": [
+      {
+        "date": "2026-10-11",
+        "text": "NBA Trade Machine:De'Aaron Fox was part of 6.3% of the trades built on HoopsMatic over the past 24 hours.Of those trades, his top destinations were Detroit (10.3%), Minnesota (10.3%), and Chicago (10.3%). The most common players sent back for him were Cade Cunningham (10.3%), Anthony Edwards (10.3%), and Nicolas Claxton (10.3%).HoopsMatic",
+        "text_html": "NBA Trade Machine: <a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">De'Aaron Fox was part of 6.3% of the trades built on HoopsMatic over the past 24 hours.</a> Of those trades, his top destinations were Detroit (10.3%), Minnesota (10.3%), and Chicago (10.3%). The most common players sent back for him were Cade Cunningham (10.3%), Anthony Edwards (10.3%), and Nicolas Claxton (10.3%).",
+        "outlet": "HoopsMatic",
+        "source_url": "https://hoopsmatic.com/"
+      },
+      {
+        "date": "2026-09-28",
+        "text": "On HoopsMatic over the past 24 hours, De'Aaron Fox showed up in 7.8% of all trades built.Among those, he was most often sent to Golden State (12.5%), LA Lakers (12.5%), and Utah (10.2%), and the return pieces that came up most often were Jimmy Butler (13.6%), Luka Doncic (12.5%), and Jaren Jackson Jr (8.0%).HoopsMatic",
+        "text_html": "<a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">On HoopsMatic over the past 24 hours, De'Aaron Fox showed up in 7.8% of all trades built.</a> Among those, he was most often sent to Golden State (12.5%), LA Lakers (12.5%), and Utah (10.2%), and the return pieces that came up most often were Jimmy Butler (13.6%), Luka Doncic (12.5%), and Jaren Jackson Jr (8.0%).",
+        "outlet": "HoopsMatic",
+        "source_url": "https://hoopsmatic.com/"
+      }
+    ],
+    "Nicolas Claxton": [
+      {
+        "date": "2026-10-11",
+        "text": "NBA Trade Machine:De'Aaron Fox was part of 6.3% of the trades built on HoopsMatic over the past 24 hours.Of those trades, his top destinations were Detroit (10.3%), Minnesota (10.3%), and Chicago (10.3%). The most common players sent back for him were Cade Cunningham (10.3%), Anthony Edwards (10.3%), and Nicolas Claxton (10.3%).HoopsMatic",
+        "text_html": "NBA Trade Machine: <a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">De'Aaron Fox was part of 6.3% of the trades built on HoopsMatic over the past 24 hours.</a> Of those trades, his top destinations were Detroit (10.3%), Minnesota (10.3%), and Chicago (10.3%). The most common players sent back for him were Cade Cunningham (10.3%), Anthony Edwards (10.3%), and Nicolas Claxton (10.3%).",
+        "outlet": "HoopsMatic",
+        "source_url": "https://hoopsmatic.com/"
+      }
+    ],
+    "Anthony Edwards": [
+      {
+        "date": "2026-10-11",
+        "text": "NBA Trade Machine:De'Aaron Fox was part of 6.3% of the trades built on HoopsMatic over the past 24 hours.Of those trades, his top destinations were Detroit (10.3%), Minnesota (10.3%), and Chicago (10.3%). The most common players sent back for him were Cade Cunningham (10.3%), Anthony Edwards (10.3%), and Nicolas Claxton (10.3%).HoopsMatic",
+        "text_html": "NBA Trade Machine: <a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">De'Aaron Fox was part of 6.3% of the trades built on HoopsMatic over the past 24 hours.</a> Of those trades, his top destinations were Detroit (10.3%), Minnesota (10.3%), and Chicago (10.3%). The most common players sent back for him were Cade Cunningham (10.3%), Anthony Edwards (10.3%), and Nicolas Claxton (10.3%).",
+        "outlet": "HoopsMatic",
+        "source_url": "https://hoopsmatic.com/"
+      }
+    ],
+    "Cade Cunningham": [
+      {
+        "date": "2026-10-11",
+        "text": "NBA Trade Machine:De'Aaron Fox was part of 6.3% of the trades built on HoopsMatic over the past 24 hours.Of those trades, his top destinations were Detroit (10.3%), Minnesota (10.3%), and Chicago (10.3%). The most common players sent back for him were Cade Cunningham (10.3%), Anthony Edwards (10.3%), and Nicolas Claxton (10.3%).HoopsMatic",
+        "text_html": "NBA Trade Machine: <a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">De'Aaron Fox was part of 6.3% of the trades built on HoopsMatic over the past 24 hours.</a> Of those trades, his top destinations were Detroit (10.3%), Minnesota (10.3%), and Chicago (10.3%). The most common players sent back for him were Cade Cunningham (10.3%), Anthony Edwards (10.3%), and Nicolas Claxton (10.3%).",
+        "outlet": "HoopsMatic",
+        "source_url": "https://hoopsmatic.com/"
+      }
+    ],
+    "Jaden Hardy": [
+      {
+        "date": "2026-10-11",
+        "text": "Jovan Buha:The funny thing is the Lakers are going to be trying to trade Jaden Hardy.So I don't know if Washington wants to take him back and what that price would\u2026 I mean are the Lakers just going to end up sending back the Wizards picks and get Coulibaly or Champagnie instead of Hardy, like that would kind of be funny, but I think those are a couple names that could make some sense.YouTube",
+        "text_html": "Jovan Buha: <a href=\"https://www.youtube.com/watch?v=9ha0P2di2Vw&t=2925s\" target=\"_blank\" style=\"color: #1a73e8;\">The funny thing is the Lakers are going to be trying to trade Jaden Hardy.</a> So I don't know if Washington wants to take him back and what that price would\u2026 I mean are the Lakers just going to end up sending back the Wizards picks and get Coulibaly or Champagnie instead of Hardy, like that would kind of be funny, but I think those are a couple names that could make some sense.",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=9ha0P2di2Vw&t=2925s"
+      },
+      {
+        "date": "2026-10-06",
+        "text": "As things have taken a new, difficult turn for the Lakers' young forward, Green pointed to Knecht's representatives as the reason behind his struggles in LA.\"Dalton Knecht is not expected to make the Lakers' regular-season roster, as the team has 16 guaranteed contracts and can only carry 15. Apparently, Bronny James and Jaden Hardy have outplayed him in camp, making him the odd man out.It's crazy because Knecht seemed to have some promise, but after the trade that would have sent him to the Hornets and brought Mark Williams to the Lakers was voided, he has been in purgatory ever since,\" the Golden State Warriors star said on the latest episode of his The Draymond Green Show. \"Ultimately, I think it ruined him. I blame his agent because, the moment the trade fell through, the agent should have been working to get him out of LA.\"BasketNews",
+        "text_html": "As things have taken a new, difficult turn for the Lakers' young forward, Green pointed to Knecht's representatives as the reason behind his struggles in LA. <a href=\"https://basketnews.com/news-256735-draymond-green-names-who-is-to-blame-for-lakers-top-trade-candidate.html\" target=\"_blank\" style=\"color: #1a73e8;\">\"Dalton Knecht is not expected to make the Lakers' regular-season roster, as the team has 16 guaranteed contracts and can only carry 15. Apparently, Bronny James and Jaden Hardy have outplayed him in camp, making him the odd man out.</a> It's crazy because Knecht seemed to have some promise, but after the trade that would have sent him to the Hornets and brought Mark Williams to the Lakers was voided, he has been in purgatory ever since,\" the Golden State Warriors star said on the latest episode of his The Draymond Green Show. \"Ultimately, I think it ruined him. I blame his agent because, the moment the trade fell through, the agent should have been working to get him out of LA.\"",
+        "outlet": "BasketNews",
+        "source_url": "https://basketnews.com/news-256735-draymond-green-names-who-is-to-blame-for-lakers-top-trade-candidate.html"
+      },
+      {
+        "date": "2026-10-04",
+        "text": "Draymond Green: \"Dalton Knecht is not expected to make the Lakers' regular season roster. Lakers have 16 guaranteed contracts and going into the season you can only have 15 guaranteed contracts. Apparently, Bronny James and Jaden Hardy have been outplaying him in campand he's viewed as the odd man out. And it's crazy because Dalton Knecht seemed to like he had a little bit of promise to him, but after that trade that got voided by the Hornets to bring him in and send Mark Williams to the Lakers, the Lakers voided the trade because of Mark Williams' back. Dalton Knecht just been in purgatory ever since and ultimately I think it ruined him.\"YouTube",
+        "text_html": "<a href=\"https://www.youtube.com/watch?v=HCaWNSa0Cz8&t=1916s\" target=\"_blank\" style=\"color: #1a73e8;\">Draymond Green: \"Dalton Knecht is not expected to make the Lakers' regular season roster. Lakers have 16 guaranteed contracts and going into the season you can only have 15 guaranteed contracts. Apparently, Bronny James and Jaden Hardy have been outplaying him in camp</a> and he's viewed as the odd man out. And it's crazy because Dalton Knecht seemed to like he had a little bit of promise to him, but after that trade that got voided by the Hornets to bring him in and send Mark Williams to the Lakers, the Lakers voided the trade because of Mark Williams' back. Dalton Knecht just been in purgatory ever since and ultimately I think it ruined him.\"",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=HCaWNSa0Cz8&t=1916s"
+      },
+      {
+        "date": "2026-09-24",
+        "text": "NBA Trade Machine: Over the past 24 hours,Zeke Nnaji featured in 4.4% of trades built on HoopsMatic.Within his trades, he landed most often in Chicago (16.7%), LA Lakers (14.8%), and Charlotte (11.1%). Most often, he was traded for Stephen Curry (9.3%), Jaden Hardy (7.4%), and Khaman Maluach (7.4%).HoopsMatic",
+        "text_html": "NBA Trade Machine: Over the past 24 hours, <a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">Zeke Nnaji featured in 4.4% of trades built on HoopsMatic.</a> Within his trades, he landed most often in Chicago (16.7%), LA Lakers (14.8%), and Charlotte (11.1%). Most often, he was traded for Stephen Curry (9.3%), Jaden Hardy (7.4%), and Khaman Maluach (7.4%).",
+        "outlet": "HoopsMatic",
+        "source_url": "https://hoopsmatic.com/"
+      }
+    ],
+    "D'Angelo Russell": [
+      {
+        "date": "2026-10-11",
+        "text": "Bob Myers: \"Trading Andre Iguodala, who had won three championships with the team, in 2019 to sign D'Angelo Russell. The way he took it, the professionalism, made it, as far as a player handling a tough thing, I've never seen one do it as well as he did in that moment. To call a guy that, when you talk about personal, making it personal, and to say we are trading you to Memphis, and he knew it was not a team that was trying to win. By the way, he ended up going to the Heat and going to the finals again after that. But Andre looked at me and he said, I understand. You got to do what you got to do. And it wasn't a bitter, I mean, of course I'm sure he felt a certain way, but it wasn't like it wasn't fair. It wasn't right.When you do things where a player does so much for you and your organization, and you make a decision where he deserved better.\"YouTube",
+        "text_html": "Bob Myers: \"Trading Andre Iguodala, who had won three championships with the team, in 2019 to sign D'Angelo Russell. The way he took it, the professionalism, made it, as far as a player handling a tough thing, I've never seen one do it as well as he did in that moment. To call a guy that, when you talk about personal, making it personal, and to say we are trading you to Memphis, and he knew it was not a team that was trying to win. By the way, he ended up going to the Heat and going to the finals again after that. But Andre looked at me and he said, I understand. You got to do what you got to do. And it wasn't a bitter, I mean, of course I'm sure he felt a certain way, but it wasn't like it wasn't fair. It wasn't right. <a href=\"https://www.youtube.com/watch?v=JfK7talh5aY&t=362s\" target=\"_blank\" style=\"color: #1a73e8;\">When you do things where a player does so much for you and your organization, and you make a decision where he deserved better.\"</a>",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=JfK7talh5aY&t=362s"
+      }
+    ],
     "LeBron James": [
       {
         "date": "2026-10-10",
@@ -1228,29 +1358,6 @@
         "text_html": "But don\u2019t rule outa Bronny James trade, not because the Lakers are seeking to sump him but because he could bring in draft assets\u2013even a second rounder or two, which is what James would bring. <a href=\"https://heavy.com/sports/nba/los-angeles-lakers/nba-trade-rumors-lakers-bronny-james-domantas-sabonis-warriors-more/\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cThere\u2019s definitely interest there,\u201d one executive said of other teams nosing around on James. \u201cHe\u2019s gotten much better in a short period. He knows his role, and it\u2019s hard to find young guys who just want to excel in their role.\u201d</a> Again, we\u2019re not talking first-round picks, and dumping Knecht is still probably the Lakers\u2019 path. But Bronny James being traded because of his own ability and not because of his dad would be a great story.",
         "outlet": "Heavy.com",
         "source_url": "https://heavy.com/sports/nba/los-angeles-lakers/nba-trade-rumors-lakers-bronny-james-domantas-sabonis-warriors-more/"
-      }
-    ],
-    "Jaden Hardy": [
-      {
-        "date": "2026-10-06",
-        "text": "As things have taken a new, difficult turn for the Lakers' young forward, Green pointed to Knecht's representatives as the reason behind his struggles in LA.\"Dalton Knecht is not expected to make the Lakers' regular-season roster, as the team has 16 guaranteed contracts and can only carry 15. Apparently, Bronny James and Jaden Hardy have outplayed him in camp, making him the odd man out.It's crazy because Knecht seemed to have some promise, but after the trade that would have sent him to the Hornets and brought Mark Williams to the Lakers was voided, he has been in purgatory ever since,\" the Golden State Warriors star said on the latest episode of his The Draymond Green Show. \"Ultimately, I think it ruined him. I blame his agent because, the moment the trade fell through, the agent should have been working to get him out of LA.\"BasketNews",
-        "text_html": "As things have taken a new, difficult turn for the Lakers' young forward, Green pointed to Knecht's representatives as the reason behind his struggles in LA. <a href=\"https://basketnews.com/news-256735-draymond-green-names-who-is-to-blame-for-lakers-top-trade-candidate.html\" target=\"_blank\" style=\"color: #1a73e8;\">\"Dalton Knecht is not expected to make the Lakers' regular-season roster, as the team has 16 guaranteed contracts and can only carry 15. Apparently, Bronny James and Jaden Hardy have outplayed him in camp, making him the odd man out.</a> It's crazy because Knecht seemed to have some promise, but after the trade that would have sent him to the Hornets and brought Mark Williams to the Lakers was voided, he has been in purgatory ever since,\" the Golden State Warriors star said on the latest episode of his The Draymond Green Show. \"Ultimately, I think it ruined him. I blame his agent because, the moment the trade fell through, the agent should have been working to get him out of LA.\"",
-        "outlet": "BasketNews",
-        "source_url": "https://basketnews.com/news-256735-draymond-green-names-who-is-to-blame-for-lakers-top-trade-candidate.html"
-      },
-      {
-        "date": "2026-10-04",
-        "text": "Draymond Green: \"Dalton Knecht is not expected to make the Lakers' regular season roster. Lakers have 16 guaranteed contracts and going into the season you can only have 15 guaranteed contracts. Apparently, Bronny James and Jaden Hardy have been outplaying him in campand he's viewed as the odd man out. And it's crazy because Dalton Knecht seemed to like he had a little bit of promise to him, but after that trade that got voided by the Hornets to bring him in and send Mark Williams to the Lakers, the Lakers voided the trade because of Mark Williams' back. Dalton Knecht just been in purgatory ever since and ultimately I think it ruined him.\"YouTube",
-        "text_html": "<a href=\"https://www.youtube.com/watch?v=HCaWNSa0Cz8&t=1916s\" target=\"_blank\" style=\"color: #1a73e8;\">Draymond Green: \"Dalton Knecht is not expected to make the Lakers' regular season roster. Lakers have 16 guaranteed contracts and going into the season you can only have 15 guaranteed contracts. Apparently, Bronny James and Jaden Hardy have been outplaying him in camp</a> and he's viewed as the odd man out. And it's crazy because Dalton Knecht seemed to like he had a little bit of promise to him, but after that trade that got voided by the Hornets to bring him in and send Mark Williams to the Lakers, the Lakers voided the trade because of Mark Williams' back. Dalton Knecht just been in purgatory ever since and ultimately I think it ruined him.\"",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=HCaWNSa0Cz8&t=1916s"
-      },
-      {
-        "date": "2026-09-24",
-        "text": "NBA Trade Machine: Over the past 24 hours,Zeke Nnaji featured in 4.4% of trades built on HoopsMatic.Within his trades, he landed most often in Chicago (16.7%), LA Lakers (14.8%), and Charlotte (11.1%). Most often, he was traded for Stephen Curry (9.3%), Jaden Hardy (7.4%), and Khaman Maluach (7.4%).HoopsMatic",
-        "text_html": "NBA Trade Machine: Over the past 24 hours, <a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">Zeke Nnaji featured in 4.4% of trades built on HoopsMatic.</a> Within his trades, he landed most often in Chicago (16.7%), LA Lakers (14.8%), and Charlotte (11.1%). Most often, he was traded for Stephen Curry (9.3%), Jaden Hardy (7.4%), and Khaman Maluach (7.4%).",
-        "outlet": "HoopsMatic",
-        "source_url": "https://hoopsmatic.com/"
       }
     ],
     "Mark Williams": [
@@ -1630,15 +1737,6 @@
         "text_html": "While the volume includes archival photos and stories from across the franchise\u2019s past, the Slovenian superstar\u2019s contribution quickly went viral online after excerpts were shared in an Instagram post by jdeez. Luka Doncic offers a candid look into his mindset since joining the Lakers in February 2025 following an unexpected blockbuster trade from the Dallas Mavericks. In the text, he admits that wearing purple and gold still feels surreal. However, he sets a clear standard for his time in Los Angeles, writing that he simply won\u2019t rest until securing more banners. <a href=\"https://www.eurohoops.net/en/nba-news/2011503/luka-doncic-talks-los-angeles-lakers-nba-2/\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cI\u2019m not sure that I ever could have imagined being here,\u201d he wrote. \u201cIt\u2019s a wonderful surprise and it feels amazing and now I desperately want what all Lakers want: To win it all.\u201d</a> Tracing his path from Slovenia and Real Madrid to the NBA, he also remembered when Lakers governor Jeanie Buss invited him into her office and made it clear that he has the opportunity to build a unique legacy. The interaction reinforced his belief that his move to Los Angeles is more than just a change of teams. \u201cThis is a city that is used to winning and winning big. I am so honored and grateful that I get the chance now to write my own championship chapters,\u201d added the 27-year-old playmaker.",
         "outlet": "EuroHoops.net",
         "source_url": "https://www.eurohoops.net/en/nba-news/2011503/luka-doncic-talks-los-angeles-lakers-nba-2/"
-      }
-    ],
-    "De'Aaron Fox": [
-      {
-        "date": "2026-09-28",
-        "text": "On HoopsMatic over the past 24 hours, De'Aaron Fox showed up in 7.8% of all trades built.Among those, he was most often sent to Golden State (12.5%), LA Lakers (12.5%), and Utah (10.2%), and the return pieces that came up most often were Jimmy Butler (13.6%), Luka Doncic (12.5%), and Jaren Jackson Jr (8.0%).HoopsMatic",
-        "text_html": "<a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">On HoopsMatic over the past 24 hours, De'Aaron Fox showed up in 7.8% of all trades built.</a> Among those, he was most often sent to Golden State (12.5%), LA Lakers (12.5%), and Utah (10.2%), and the return pieces that came up most often were Jimmy Butler (13.6%), Luka Doncic (12.5%), and Jaren Jackson Jr (8.0%).",
-        "outlet": "HoopsMatic",
-        "source_url": "https://hoopsmatic.com/"
       }
     ],
     "Jaren Jackson Jr": [
@@ -2201,6 +2299,28 @@
     ]
   },
   "daily_counts": {
+    "De'Aaron Fox": {
+      "2026-10-11": 1,
+      "2026-09-28": 1
+    },
+    "Nicolas Claxton": {
+      "2026-10-11": 1
+    },
+    "Anthony Edwards": {
+      "2026-10-11": 1
+    },
+    "Cade Cunningham": {
+      "2026-10-11": 1
+    },
+    "Jaden Hardy": {
+      "2026-10-11": 1,
+      "2026-10-06": 1,
+      "2026-10-04": 1,
+      "2026-09-24": 1
+    },
+    "D'Angelo Russell": {
+      "2026-10-11": 1
+    },
     "LeBron James": {
       "2026-10-10": 1,
       "2026-09-29": 1,
@@ -2269,11 +2389,6 @@
     "Bronny James": {
       "2026-10-06": 1,
       "2026-10-04": 2
-    },
-    "Jaden Hardy": {
-      "2026-10-06": 1,
-      "2026-10-04": 1,
-      "2026-09-24": 1
     },
     "Mark Williams": {
       "2026-10-06": 1,
@@ -2367,9 +2482,6 @@
     "Luka Doncic": {
       "2026-09-28": 1,
       "2026-09-26": 1
-    },
-    "De'Aaron Fox": {
-      "2026-09-28": 1
     },
     "Jaren Jackson Jr": {
       "2026-09-28": 1
