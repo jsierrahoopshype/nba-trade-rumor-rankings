@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-10T22:14:46.460825",
+  "generated_at": "2026-10-11T06:49:02.666339",
   "scrape_window_days": 28,
-  "window_start": "2026-09-12",
-  "window_end": "2026-10-10",
-  "total_rumors": 151,
-  "total_players": 79,
+  "window_start": "2026-09-13",
+  "window_end": "2026-10-11",
+  "total_rumors": 153,
+  "total_players": 80,
   "rankings": [
     {
       "player": "Kawhi Leonard",
@@ -31,16 +31,28 @@
       "rank": 2
     },
     {
-      "player": "Jalen Duren",
+      "player": "Jaylen Brown",
       "score": 2.75,
-      "mentions_week1": 0,
-      "mentions_week2": 5,
+      "mentions_week1": 2,
+      "mentions_week2": 1,
       "mentions_weeks3_4": 1,
+      "total_mentions": 4,
+      "first_mention": "2026-09-16",
+      "last_mention": "2026-10-10",
+      "team": "Boston Celtics",
+      "rank": 3
+    },
+    {
+      "player": "Jalen Duren",
+      "score": 2.5,
+      "mentions_week1": 0,
+      "mentions_week2": 4,
+      "mentions_weeks3_4": 2,
       "total_mentions": 6,
       "first_mention": "2026-09-14",
       "last_mention": "2026-10-01",
       "team": "Detroit Pistons",
-      "rank": 3
+      "rank": 4
     },
     {
       "player": "Draymond Green",
@@ -52,7 +64,7 @@
       "first_mention": "2026-09-16",
       "last_mention": "2026-10-06",
       "team": "Golden State Warriors",
-      "rank": 4
+      "rank": 5
     },
     {
       "player": "Jaden Hardy",
@@ -64,18 +76,6 @@
       "first_mention": "2026-09-24",
       "last_mention": "2026-10-06",
       "team": "Charlotte Hornets",
-      "rank": 5
-    },
-    {
-      "player": "Domantas Sabonis",
-      "score": 2.0,
-      "mentions_week1": 0,
-      "mentions_week2": 2,
-      "mentions_weeks3_4": 4,
-      "total_mentions": 6,
-      "first_mention": "2026-09-16",
-      "last_mention": "2026-10-02",
-      "team": "Sacramento Kings",
       "rank": 6
     },
     {
@@ -127,18 +127,6 @@
       "rank": 10
     },
     {
-      "player": "Trae Young",
-      "score": 2.0,
-      "mentions_week1": 2,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 2,
-      "first_mention": "2026-10-03",
-      "last_mention": "2026-10-10",
-      "team": "Atlanta Hawks",
-      "rank": 11
-    },
-    {
       "player": "Buddy Hield",
       "score": 1.75,
       "mentions_week1": 0,
@@ -148,7 +136,7 @@
       "first_mention": "2026-09-21",
       "last_mention": "2026-09-22",
       "team": "Golden State Warriors",
-      "rank": 12
+      "rank": 11
     },
     {
       "player": "Dorian Finney-Smith",
@@ -160,18 +148,30 @@
       "first_mention": "2026-09-21",
       "last_mention": "2026-09-22",
       "team": "Los Angeles Lakers",
+      "rank": 12
+    },
+    {
+      "player": "Domantas Sabonis",
+      "score": 1.75,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 5,
+      "total_mentions": 6,
+      "first_mention": "2026-09-16",
+      "last_mention": "2026-10-02",
+      "team": "Sacramento Kings",
       "rank": 13
     },
     {
-      "player": "Jaylen Brown",
+      "player": "LeBron James",
       "score": 1.75,
       "mentions_week1": 1,
       "mentions_week2": 1,
       "mentions_weeks3_4": 1,
       "total_mentions": 3,
       "first_mention": "2026-09-16",
-      "last_mention": "2026-10-08",
-      "team": "Boston Celtics",
+      "last_mention": "2026-10-10",
+      "team": "Los Angeles Lakers",
       "rank": 14
     },
     {
@@ -223,6 +223,18 @@
       "rank": 18
     },
     {
+      "player": "Trae Young",
+      "score": 1.5,
+      "mentions_week1": 1,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 2,
+      "first_mention": "2026-10-03",
+      "last_mention": "2026-10-10",
+      "team": "Atlanta Hawks",
+      "rank": 19
+    },
+    {
       "player": "Stephen Curry",
       "score": 1.0,
       "mentions_week1": 0,
@@ -232,7 +244,7 @@
       "first_mention": "2026-09-17",
       "last_mention": "2026-09-24",
       "team": "Golden State Warriors",
-      "rank": 19
+      "rank": 20
     },
     {
       "player": "Caris LeVert",
@@ -244,18 +256,6 @@
       "first_mention": "2026-10-02",
       "last_mention": "2026-10-02",
       "team": "Detroit Pistons",
-      "rank": 20
-    },
-    {
-      "player": "Luka Doncic",
-      "score": 1.0,
-      "mentions_week1": 0,
-      "mentions_week2": 2,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 2,
-      "first_mention": "2026-09-26",
-      "last_mention": "2026-09-28",
-      "team": "Los Angeles Lakers",
       "rank": 21
     },
     {
@@ -319,18 +319,6 @@
       "rank": 26
     },
     {
-      "player": "Jalen Brunson",
-      "score": 1.0,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-10-03",
-      "last_mention": "2026-10-03",
-      "team": "New York Knicks",
-      "rank": 27
-    },
-    {
       "player": "Jarrett Allen",
       "score": 1.0,
       "mentions_week1": 1,
@@ -340,6 +328,18 @@
       "first_mention": "2026-10-09",
       "last_mention": "2026-10-09",
       "team": "Cleveland Cavaliers",
+      "rank": 27
+    },
+    {
+      "player": "Joel Embiid",
+      "score": 1.0,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-10-10",
+      "last_mention": "2026-10-10",
+      "team": "Philadelphia 76ers",
       "rank": 28
     },
     {
@@ -499,14 +499,14 @@
       "rank": 41
     },
     {
-      "player": "LeBron James",
+      "player": "Luka Doncic",
       "score": 0.75,
       "mentions_week1": 0,
       "mentions_week2": 1,
       "mentions_weeks3_4": 1,
       "total_mentions": 2,
-      "first_mention": "2026-09-16",
-      "last_mention": "2026-09-29",
+      "first_mention": "2026-09-26",
+      "last_mention": "2026-09-28",
       "team": "Los Angeles Lakers",
       "rank": 42
     },
@@ -523,18 +523,6 @@
       "rank": 43
     },
     {
-      "player": "Devin Booker",
-      "score": 0.5,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 2,
-      "first_mention": "2026-09-12",
-      "last_mention": "2026-09-22",
-      "team": "Phoenix Suns",
-      "rank": 44
-    },
-    {
       "player": "Gradey Dick",
       "score": 0.5,
       "mentions_week1": 0,
@@ -544,7 +532,7 @@
       "first_mention": "2026-09-14",
       "last_mention": "2026-09-14",
       "team": "Toronto Raptors",
-      "rank": 45
+      "rank": 44
     },
     {
       "player": "Pacome Dadiet",
@@ -556,7 +544,7 @@
       "first_mention": "2026-09-25",
       "last_mention": "2026-09-25",
       "team": "Charlotte Hornets",
-      "rank": 46
+      "rank": 45
     },
     {
       "player": "Alperen Sengun",
@@ -568,7 +556,7 @@
       "first_mention": "2026-09-27",
       "last_mention": "2026-09-27",
       "team": "Houston Rockets",
-      "rank": 47
+      "rank": 46
     },
     {
       "player": "De'Aaron Fox",
@@ -580,7 +568,7 @@
       "first_mention": "2026-09-28",
       "last_mention": "2026-09-28",
       "team": "San Antonio Spurs",
-      "rank": 48
+      "rank": 47
     },
     {
       "player": "Derrick Jones",
@@ -592,31 +580,7 @@
       "first_mention": "2026-09-29",
       "last_mention": "2026-09-29",
       "team": "Dallas Mavericks",
-      "rank": 49
-    },
-    {
-      "player": "Duncan Robinson",
-      "score": 0.5,
-      "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-09-26",
-      "last_mention": "2026-09-26",
-      "team": "Detroit Pistons",
-      "rank": 50
-    },
-    {
-      "player": "Gary Harris",
-      "score": 0.5,
-      "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-09-26",
-      "last_mention": "2026-09-26",
-      "team": "Detroit Pistons",
-      "rank": 51
+      "rank": 48
     },
     {
       "player": "Giannis Antetokounmpo",
@@ -628,7 +592,19 @@
       "first_mention": "2026-09-30",
       "last_mention": "2026-09-30",
       "team": "Milwaukee Bucks",
-      "rank": 52
+      "rank": 49
+    },
+    {
+      "player": "Jalen Brunson",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-10-03",
+      "last_mention": "2026-10-03",
+      "team": "New York Knicks",
+      "rank": 50
     },
     {
       "player": "Jaren Jackson Jr",
@@ -640,7 +616,7 @@
       "first_mention": "2026-09-28",
       "last_mention": "2026-09-28",
       "team": "Golden State Warriors",
-      "rank": 53
+      "rank": 51
     },
     {
       "player": "Jrue Holiday",
@@ -652,7 +628,7 @@
       "first_mention": "2026-09-28",
       "last_mention": "2026-09-28",
       "team": "Portland Trail Blazers",
-      "rank": 54
+      "rank": 52
     },
     {
       "player": "LaMelo Ball",
@@ -664,7 +640,7 @@
       "first_mention": "2026-09-29",
       "last_mention": "2026-09-29",
       "team": "Charlotte Hornets",
-      "rank": 55
+      "rank": 53
     },
     {
       "player": "Myles Turner",
@@ -676,7 +652,7 @@
       "first_mention": "2026-09-29",
       "last_mention": "2026-09-29",
       "team": "Milwaukee Bucks",
-      "rank": 56
+      "rank": 54
     },
     {
       "player": "PJ Washington",
@@ -688,19 +664,7 @@
       "first_mention": "2026-09-29",
       "last_mention": "2026-09-29",
       "team": "Dallas Mavericks",
-      "rank": 57
-    },
-    {
-      "player": "Taurean Prince",
-      "score": 0.5,
-      "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-09-26",
-      "last_mention": "2026-09-26",
-      "team": "Detroit Pistons",
-      "rank": 58
+      "rank": 55
     },
     {
       "player": "Tyrese Maxey",
@@ -712,7 +676,7 @@
       "first_mention": "2026-09-29",
       "last_mention": "2026-09-29",
       "team": "Philadelphia 76ers",
-      "rank": 59
+      "rank": 56
     },
     {
       "player": "VJ Edgecombe",
@@ -724,7 +688,7 @@
       "first_mention": "2026-09-29",
       "last_mention": "2026-09-29",
       "team": "Philadelphia 76ers",
-      "rank": 60
+      "rank": 57
     },
     {
       "player": "Zaccharie Risacher",
@@ -736,7 +700,7 @@
       "first_mention": "2026-09-27",
       "last_mention": "2026-09-27",
       "team": "Atlanta Hawks",
-      "rank": 61
+      "rank": 58
     },
     {
       "player": "Zach LaVine",
@@ -748,7 +712,7 @@
       "first_mention": "2026-09-27",
       "last_mention": "2026-09-27",
       "team": "Sacramento Kings",
-      "rank": 62
+      "rank": 59
     },
     {
       "player": "Zion Williamson",
@@ -760,7 +724,7 @@
       "first_mention": "2026-09-27",
       "last_mention": "2026-09-27",
       "team": "New Orleans Pelicans",
-      "rank": 63
+      "rank": 60
     },
     {
       "player": "Bruce Brown",
@@ -772,7 +736,7 @@
       "first_mention": "2026-09-16",
       "last_mention": "2026-09-16",
       "team": "Denver Nuggets",
-      "rank": 64
+      "rank": 61
     },
     {
       "player": "Cedric Coward",
@@ -784,7 +748,7 @@
       "first_mention": "2026-09-23",
       "last_mention": "2026-09-23",
       "team": "Denver Nuggets",
-      "rank": 65
+      "rank": 62
     },
     {
       "player": "Christian Braun",
@@ -796,7 +760,7 @@
       "first_mention": "2026-09-21",
       "last_mention": "2026-09-21",
       "team": "Denver Nuggets",
-      "rank": 66
+      "rank": 63
     },
     {
       "player": "Damian Lillard",
@@ -808,7 +772,19 @@
       "first_mention": "2026-09-23",
       "last_mention": "2026-09-23",
       "team": "Denver Nuggets",
-      "rank": 67
+      "rank": 64
+    },
+    {
+      "player": "Devin Booker",
+      "score": 0.25,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 1,
+      "first_mention": "2026-09-22",
+      "last_mention": "2026-09-22",
+      "team": "Phoenix Suns",
+      "rank": 65
     },
     {
       "player": "Devin Carter",
@@ -820,7 +796,7 @@
       "first_mention": "2026-09-21",
       "last_mention": "2026-09-21",
       "team": "Atlanta Hawks",
-      "rank": 68
+      "rank": 66
     },
     {
       "player": "Drew Eubanks",
@@ -832,6 +808,30 @@
       "first_mention": "2026-09-16",
       "last_mention": "2026-09-16",
       "team": "Indiana Pacers",
+      "rank": 67
+    },
+    {
+      "player": "Duncan Robinson",
+      "score": 0.25,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 1,
+      "first_mention": "2026-09-26",
+      "last_mention": "2026-09-26",
+      "team": "Detroit Pistons",
+      "rank": 68
+    },
+    {
+      "player": "Gary Harris",
+      "score": 0.25,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 1,
+      "first_mention": "2026-09-26",
+      "last_mention": "2026-09-26",
+      "team": "Detroit Pistons",
       "rank": 69
     },
     {
@@ -943,6 +943,18 @@
       "rank": 78
     },
     {
+      "player": "Taurean Prince",
+      "score": 0.25,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 1,
+      "first_mention": "2026-09-26",
+      "last_mention": "2026-09-26",
+      "team": "Detroit Pistons",
+      "rank": 79
+    },
+    {
       "player": "Zeke Nnaji",
       "score": 0.25,
       "mentions_week1": 0,
@@ -952,10 +964,72 @@
       "first_mention": "2026-09-24",
       "last_mention": "2026-09-24",
       "team": "Charlotte Hornets",
-      "rank": 79
+      "rank": 80
     }
   ],
   "player_rumors": {
+    "LeBron James": [
+      {
+        "date": "2026-10-10",
+        "text": "Gina Mizell:LeBron James, Joel Embiid and Jaylen Brown are all out for tonight\u2019s preseason game in Boston.Bluesky",
+        "text_html": "Gina Mizell: <a href=\"https://bsky.app/profile/ginamizell.bsky.social/post/3mxkkcjqfls2p\" target=\"_blank\" style=\"color: #1a73e8;\">LeBron James, Joel Embiid and Jaylen Brown are all out for tonight\u2019s preseason game in Boston</a>.",
+        "outlet": "Bluesky",
+        "source_url": "https://bsky.app/profile/ginamizell.bsky.social/post/3mxkkcjqfls2p"
+      },
+      {
+        "date": "2026-09-29",
+        "text": "Edgecombe boasted Monday about creating a get-to-know-you group chat when the Sixers traded for Brown \u2014 but had to ask All-NBA guard Tyrese Maxey to add James once he signed later that month.Though Maxey has consistently spent summers working out with James, a fellow Klutch agency client, this year they could experiment with two-man actions to run as teammates and drill nuances such as angles and the timing of cuts. Brown joined for some sessions that circulated on social media. Maxey also linked with Edgecombe and Simons for on-court work.The Philadelphia Inquirer",
+        "text_html": "<a href=\"https://www.inquirer.com/sixers/sixers-lebron-james-joel-embiid-nick-nurse-practice-training-camp-20260929.html\" target=\"_blank\" style=\"color: #1a73e8;\">Edgecombe boasted Monday about creating a get-to-know-you group chat when the Sixers traded for Brown \u2014 but had to ask All-NBA guard Tyrese Maxey to add James once he signed later that month.</a> Though Maxey has consistently spent summers working out with James, a fellow Klutch agency client, this year they could experiment with two-man actions to run as teammates and drill nuances such as angles and the timing of cuts. Brown joined for some sessions that circulated on social media. Maxey also linked with Edgecombe and Simons for on-court work.",
+        "outlet": "The Philadelphia Inquirer",
+        "source_url": "https://www.inquirer.com/sixers/sixers-lebron-james-joel-embiid-nick-nurse-practice-training-camp-20260929.html"
+      },
+      {
+        "date": "2026-09-16",
+        "text": "After announcing that he would retire after last season, Matt Cord plans to return for his 29th season as the Sixers' public address announcer, he announced on 93.3 WMMR on Wednesday morning. The reasons were quite simple.\"They made a trade for Jaylen Brown on July 1,\" Cord said. \"...And then on July 24, LeBron James signed with the Sixers.\"Cord said the subject of his signature call, Allen Iverson, was one of many people to reach out to him during the summer imploring him to return to the microphone.Philly Voice",
+        "text_html": "After announcing that he would retire after last season, Matt Cord plans to return for his 29th season as the Sixers' public address announcer, he announced on 93.3 WMMR on Wednesday morning. The reasons were quite simple. <a href=\"https://www.phillyvoice.com/sixers-news-analysis-matt-cord-pa-announcer-lineup-intros-video-allen-iverson0retirement-lebron-james-jaylen-brown/\" target=\"_blank\" style=\"color: #1a73e8;\">\"They made a trade for Jaylen Brown on July 1,\" Cord said. \"...And then on July 24, LeBron James signed with the Sixers.\"</a> Cord said the subject of his signature call, Allen Iverson, was one of many people to reach out to him during the summer imploring him to return to the microphone.",
+        "outlet": "Philly Voice",
+        "source_url": "https://www.phillyvoice.com/sixers-news-analysis-matt-cord-pa-announcer-lineup-intros-video-allen-iverson0retirement-lebron-james-jaylen-brown/"
+      }
+    ],
+    "Joel Embiid": [
+      {
+        "date": "2026-10-10",
+        "text": "Gina Mizell:LeBron James, Joel Embiid and Jaylen Brown are all out for tonight\u2019s preseason game in Boston.Bluesky",
+        "text_html": "Gina Mizell: <a href=\"https://bsky.app/profile/ginamizell.bsky.social/post/3mxkkcjqfls2p\" target=\"_blank\" style=\"color: #1a73e8;\">LeBron James, Joel Embiid and Jaylen Brown are all out for tonight\u2019s preseason game in Boston</a>.",
+        "outlet": "Bluesky",
+        "source_url": "https://bsky.app/profile/ginamizell.bsky.social/post/3mxkkcjqfls2p"
+      }
+    ],
+    "Jaylen Brown": [
+      {
+        "date": "2026-10-10",
+        "text": "Gina Mizell:LeBron James, Joel Embiid and Jaylen Brown are all out for tonight\u2019s preseason game in Boston.Bluesky",
+        "text_html": "Gina Mizell: <a href=\"https://bsky.app/profile/ginamizell.bsky.social/post/3mxkkcjqfls2p\" target=\"_blank\" style=\"color: #1a73e8;\">LeBron James, Joel Embiid and Jaylen Brown are all out for tonight\u2019s preseason game in Boston</a>.",
+        "outlet": "Bluesky",
+        "source_url": "https://bsky.app/profile/ginamizell.bsky.social/post/3mxkkcjqfls2p"
+      },
+      {
+        "date": "2026-10-08",
+        "text": "Brian Windhorst: \"Everybody seems to think that they made a terrible mistake in trading Jaylen Brown. Not that I'm necessarily on board with the trade, but they are very confident that their trade is going to work for them.They are very confident that Mitchell Robinson, who they signed, will be a big addition to them, and I think they believe that they have a good chance to win the East this year.\"YouTube",
+        "text_html": "<a href=\"https://www.youtube.com/watch?v=NfZfaGd02yo&t=1497s\" target=\"_blank\" style=\"color: #1a73e8;\">Brian Windhorst: \"Everybody seems to think that they made a terrible mistake in trading Jaylen Brown. Not that I'm necessarily on board with the trade, but they are very confident that their trade is going to work for them.</a> They are very confident that Mitchell Robinson, who they signed, will be a big addition to them, and I think they believe that they have a good chance to win the East this year.\"",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=NfZfaGd02yo&t=1497s"
+      },
+      {
+        "date": "2026-09-29",
+        "text": "Charles Oakley and J.R. Smith offered their theory on the Celtics\u2019 decision during their recent appearance on the \u201cFor the Fellas\u201d podcast with Brian McIntosh. \u201cHe played the game. I mean, he played the right way. All year, he put the team in the place last year to make the playoffs without your main tailor, so Brown, he carried the whole team. I can\u2019t believe they jumped to the conclusion to trade him. This other guy just tore his Achilles. And you gonna take a chance?\u201d said Oakley.\u201cThat\u2019s what I said,\u201d Smith butted in. \u201cThat\u2019s Boston. The darker skin go, he gonna go.\u201dBasketball Network",
+        "text_html": "Charles Oakley and J.R. Smith offered their theory on the Celtics\u2019 decision during their recent appearance on the \u201cFor the Fellas\u201d podcast with Brian McIntosh. \u201cHe played the game. I mean, he played the right way. All year, he put the team in the place last year to make the playoffs without your main tailor, so Brown, he carried the whole team. I can\u2019t believe they jumped to the conclusion to trade him. This other guy just tore his Achilles. And you gonna take a chance?\u201d said Oakley. <a href=\"https://www.basketballnetwork.net/latest-news/jr-smith-claims-race-influenced-jaylen-brown-trade\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cThat\u2019s what I said,\u201d Smith butted in. \u201cThat\u2019s Boston. The darker skin go, he gonna go.\u201d</a>",
+        "outlet": "Basketball Network",
+        "source_url": "https://www.basketballnetwork.net/latest-news/jr-smith-claims-race-influenced-jaylen-brown-trade"
+      },
+      {
+        "date": "2026-09-16",
+        "text": "After announcing that he would retire after last season, Matt Cord plans to return for his 29th season as the Sixers' public address announcer, he announced on 93.3 WMMR on Wednesday morning. The reasons were quite simple.\"They made a trade for Jaylen Brown on July 1,\" Cord said. \"...And then on July 24, LeBron James signed with the Sixers.\"Cord said the subject of his signature call, Allen Iverson, was one of many people to reach out to him during the summer imploring him to return to the microphone.Philly Voice",
+        "text_html": "After announcing that he would retire after last season, Matt Cord plans to return for his 29th season as the Sixers' public address announcer, he announced on 93.3 WMMR on Wednesday morning. The reasons were quite simple. <a href=\"https://www.phillyvoice.com/sixers-news-analysis-matt-cord-pa-announcer-lineup-intros-video-allen-iverson0retirement-lebron-james-jaylen-brown/\" target=\"_blank\" style=\"color: #1a73e8;\">\"They made a trade for Jaylen Brown on July 1,\" Cord said. \"...And then on July 24, LeBron James signed with the Sixers.\"</a> Cord said the subject of his signature call, Allen Iverson, was one of many people to reach out to him during the summer imploring him to return to the microphone.",
+        "outlet": "Philly Voice",
+        "source_url": "https://www.phillyvoice.com/sixers-news-analysis-matt-cord-pa-announcer-lineup-intros-video-allen-iverson0retirement-lebron-james-jaylen-brown/"
+      }
+    ],
     "Brandin Podziemski": [
       {
         "date": "2026-10-10",
@@ -997,29 +1071,6 @@
         "text_html": "Nacho <a href=\"https://www.youtube.com/watch?v=Ymq3II8M4CE&t=578s\" target=\"_blank\" style=\"color: #1a73e8;\">Losilla: How do you react to trade rumors? Jarrett Allen: \"You just hear about it, you understand that it's a possibility and you just have to live with it. At the end of the day, it's not my choice about where I want to go.</a> It's not my choice about a lot of the things I do in my job. I just have to go out there and be the best player I can be and in the summer I have to focus on improving even more. So I hear the noise, I listen to it, I understand it, but I don't let it impact my life on or off the court.\"",
         "outlet": "YouTube",
         "source_url": "https://www.youtube.com/watch?v=Ymq3II8M4CE&t=578s"
-      }
-    ],
-    "Jaylen Brown": [
-      {
-        "date": "2026-10-08",
-        "text": "Brian Windhorst: \"Everybody seems to think that they made a terrible mistake in trading Jaylen Brown. Not that I'm necessarily on board with the trade, but they are very confident that their trade is going to work for them.They are very confident that Mitchell Robinson, who they signed, will be a big addition to them, and I think they believe that they have a good chance to win the East this year.\"YouTube",
-        "text_html": "<a href=\"https://www.youtube.com/watch?v=NfZfaGd02yo&t=1497s\" target=\"_blank\" style=\"color: #1a73e8;\">Brian Windhorst: \"Everybody seems to think that they made a terrible mistake in trading Jaylen Brown. Not that I'm necessarily on board with the trade, but they are very confident that their trade is going to work for them.</a> They are very confident that Mitchell Robinson, who they signed, will be a big addition to them, and I think they believe that they have a good chance to win the East this year.\"",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=NfZfaGd02yo&t=1497s"
-      },
-      {
-        "date": "2026-09-29",
-        "text": "Charles Oakley and J.R. Smith offered their theory on the Celtics\u2019 decision during their recent appearance on the \u201cFor the Fellas\u201d podcast with Brian McIntosh. \u201cHe played the game. I mean, he played the right way. All year, he put the team in the place last year to make the playoffs without your main tailor, so Brown, he carried the whole team. I can\u2019t believe they jumped to the conclusion to trade him. This other guy just tore his Achilles. And you gonna take a chance?\u201d said Oakley.\u201cThat\u2019s what I said,\u201d Smith butted in. \u201cThat\u2019s Boston. The darker skin go, he gonna go.\u201dBasketball Network",
-        "text_html": "Charles Oakley and J.R. Smith offered their theory on the Celtics\u2019 decision during their recent appearance on the \u201cFor the Fellas\u201d podcast with Brian McIntosh. \u201cHe played the game. I mean, he played the right way. All year, he put the team in the place last year to make the playoffs without your main tailor, so Brown, he carried the whole team. I can\u2019t believe they jumped to the conclusion to trade him. This other guy just tore his Achilles. And you gonna take a chance?\u201d said Oakley. <a href=\"https://www.basketballnetwork.net/latest-news/jr-smith-claims-race-influenced-jaylen-brown-trade\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cThat\u2019s what I said,\u201d Smith butted in. \u201cThat\u2019s Boston. The darker skin go, he gonna go.\u201d</a>",
-        "outlet": "Basketball Network",
-        "source_url": "https://www.basketballnetwork.net/latest-news/jr-smith-claims-race-influenced-jaylen-brown-trade"
-      },
-      {
-        "date": "2026-09-16",
-        "text": "After announcing that he would retire after last season, Matt Cord plans to return for his 29th season as the Sixers' public address announcer, he announced on 93.3 WMMR on Wednesday morning. The reasons were quite simple.\"They made a trade for Jaylen Brown on July 1,\" Cord said. \"...And then on July 24, LeBron James signed with the Sixers.\"Cord said the subject of his signature call, Allen Iverson, was one of many people to reach out to him during the summer imploring him to return to the microphone.Philly Voice",
-        "text_html": "After announcing that he would retire after last season, Matt Cord plans to return for his 29th season as the Sixers' public address announcer, he announced on 93.3 WMMR on Wednesday morning. The reasons were quite simple. <a href=\"https://www.phillyvoice.com/sixers-news-analysis-matt-cord-pa-announcer-lineup-intros-video-allen-iverson0retirement-lebron-james-jaylen-brown/\" target=\"_blank\" style=\"color: #1a73e8;\">\"They made a trade for Jaylen Brown on July 1,\" Cord said. \"...And then on July 24, LeBron James signed with the Sixers.\"</a> Cord said the subject of his signature call, Allen Iverson, was one of many people to reach out to him during the summer imploring him to return to the microphone.",
-        "outlet": "Philly Voice",
-        "source_url": "https://www.phillyvoice.com/sixers-news-analysis-matt-cord-pa-announcer-lineup-intros-video-allen-iverson0retirement-lebron-james-jaylen-brown/"
       }
     ],
     "Mitchell Robinson": [
@@ -1470,22 +1521,6 @@
         "source_url": "https://www.nytimes.com/athletic/7618092/2026/09/30/karl-anthony-towns-nba-championship-work-ethic/"
       }
     ],
-    "LeBron James": [
-      {
-        "date": "2026-09-29",
-        "text": "Edgecombe boasted Monday about creating a get-to-know-you group chat when the Sixers traded for Brown \u2014 but had to ask All-NBA guard Tyrese Maxey to add James once he signed later that month.Though Maxey has consistently spent summers working out with James, a fellow Klutch agency client, this year they could experiment with two-man actions to run as teammates and drill nuances such as angles and the timing of cuts. Brown joined for some sessions that circulated on social media. Maxey also linked with Edgecombe and Simons for on-court work.The Philadelphia Inquirer",
-        "text_html": "<a href=\"https://www.inquirer.com/sixers/sixers-lebron-james-joel-embiid-nick-nurse-practice-training-camp-20260929.html\" target=\"_blank\" style=\"color: #1a73e8;\">Edgecombe boasted Monday about creating a get-to-know-you group chat when the Sixers traded for Brown \u2014 but had to ask All-NBA guard Tyrese Maxey to add James once he signed later that month.</a> Though Maxey has consistently spent summers working out with James, a fellow Klutch agency client, this year they could experiment with two-man actions to run as teammates and drill nuances such as angles and the timing of cuts. Brown joined for some sessions that circulated on social media. Maxey also linked with Edgecombe and Simons for on-court work.",
-        "outlet": "The Philadelphia Inquirer",
-        "source_url": "https://www.inquirer.com/sixers/sixers-lebron-james-joel-embiid-nick-nurse-practice-training-camp-20260929.html"
-      },
-      {
-        "date": "2026-09-16",
-        "text": "After announcing that he would retire after last season, Matt Cord plans to return for his 29th season as the Sixers' public address announcer, he announced on 93.3 WMMR on Wednesday morning. The reasons were quite simple.\"They made a trade for Jaylen Brown on July 1,\" Cord said. \"...And then on July 24, LeBron James signed with the Sixers.\"Cord said the subject of his signature call, Allen Iverson, was one of many people to reach out to him during the summer imploring him to return to the microphone.Philly Voice",
-        "text_html": "After announcing that he would retire after last season, Matt Cord plans to return for his 29th season as the Sixers' public address announcer, he announced on 93.3 WMMR on Wednesday morning. The reasons were quite simple. <a href=\"https://www.phillyvoice.com/sixers-news-analysis-matt-cord-pa-announcer-lineup-intros-video-allen-iverson0retirement-lebron-james-jaylen-brown/\" target=\"_blank\" style=\"color: #1a73e8;\">\"They made a trade for Jaylen Brown on July 1,\" Cord said. \"...And then on July 24, LeBron James signed with the Sixers.\"</a> Cord said the subject of his signature call, Allen Iverson, was one of many people to reach out to him during the summer imploring him to return to the microphone.",
-        "outlet": "Philly Voice",
-        "source_url": "https://www.phillyvoice.com/sixers-news-analysis-matt-cord-pa-announcer-lineup-intros-video-allen-iverson0retirement-lebron-james-jaylen-brown/"
-      }
-    ],
     "Tyrese Maxey": [
       {
         "date": "2026-09-29",
@@ -1922,13 +1957,6 @@
         "text_html": "On HoopsMatic over the past 24 hours, <a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">Jimmy Butler showed up in 5.3% of all trades built.</a> Among those, he was most often sent to Washington (11.1%), Phoenix (9.3%), and San Antonio (9.3%), and the return pieces that came up most often were Anthony Davis (11.1%), Devin Booker (9.3%), and Jordan Poole (9.3%).",
         "outlet": "HoopsMatic",
         "source_url": "https://hoopsmatic.com/"
-      },
-      {
-        "date": "2026-09-12",
-        "text": "If there is a chance, Steve Kerr and the Golden State Warriors would love to have Devin Booker join their side. According to seasoned Warriors and Bay Area reporter Tim Kawakami, the Dubs are ready to surrender tons of assets that would let them have the Phoenix Suns star.\u201cI think the Warriors like him too much, if you ask me. But they love him. Steve loves him. Booker loved playing for Steve,\" Kawakami claimed. \"I know the Warriors would be first in line saying, \u2018We got three first-round picks we can give you.\u2019\u201dBasketNews",
-        "text_html": "If there is a chance, Steve Kerr and the Golden State Warriors would love to have Devin Booker join their side. According to seasoned Warriors and Bay Area reporter Tim Kawakami, the Dubs are ready to surrender tons of assets that would let them have the Phoenix Suns star. <a href=\"https://basketnews.com/news-255366-warriors-to-pursue-devin-booker-in-steve-kerr-dream-scenario.html\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cI think the Warriors like him too much, if you ask me. But they love him. Steve loves him. Booker loved playing for Steve,\" Kawakami claimed. \"I know the Warriors would be first in line saying, \u2018We got three first-round picks we can give you.\u2019\u201d</a>",
-        "outlet": "BasketNews",
-        "source_url": "https://basketnews.com/news-255366-warriors-to-pursue-devin-booker-in-steve-kerr-dream-scenario.html"
       }
     ],
     "Jordan Poole": [
@@ -2173,6 +2201,20 @@
     ]
   },
   "daily_counts": {
+    "LeBron James": {
+      "2026-10-10": 1,
+      "2026-09-29": 1,
+      "2026-09-16": 1
+    },
+    "Joel Embiid": {
+      "2026-10-10": 1
+    },
+    "Jaylen Brown": {
+      "2026-10-10": 1,
+      "2026-10-08": 1,
+      "2026-09-29": 1,
+      "2026-09-16": 1
+    },
     "Brandin Podziemski": {
       "2026-10-10": 1
     },
@@ -2185,11 +2227,6 @@
     },
     "Jarrett Allen": {
       "2026-10-09": 1
-    },
-    "Jaylen Brown": {
-      "2026-10-08": 1,
-      "2026-09-29": 1,
-      "2026-09-16": 1
     },
     "Mitchell Robinson": {
       "2026-10-08": 1
@@ -2298,10 +2335,6 @@
     "Giannis Antetokounmpo": {
       "2026-09-30": 1
     },
-    "LeBron James": {
-      "2026-09-29": 1,
-      "2026-09-16": 1
-    },
     "Tyrese Maxey": {
       "2026-09-29": 1
     },
@@ -2397,8 +2430,7 @@
       "2026-09-22": 6
     },
     "Devin Booker": {
-      "2026-09-22": 1,
-      "2026-09-12": 1
+      "2026-09-22": 1
     },
     "Jordan Poole": {
       "2026-09-22": 1
