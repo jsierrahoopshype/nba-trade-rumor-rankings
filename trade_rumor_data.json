@@ -1,34 +1,22 @@
 {
-  "generated_at": "2026-10-14T22:03:08.398708",
+  "generated_at": "2026-10-15T05:35:01.677343",
   "scrape_window_days": 28,
-  "window_start": "2026-09-16",
-  "window_end": "2026-10-14",
-  "total_rumors": 159,
-  "total_players": 88,
+  "window_start": "2026-09-17",
+  "window_end": "2026-10-15",
+  "total_rumors": 151,
+  "total_players": 84,
   "rankings": [
     {
       "player": "Kyrie Irving",
-      "score": 4.25,
+      "score": 4.0,
       "mentions_week1": 3,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 3,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 4,
       "total_mentions": 7,
       "first_mention": "2026-09-22",
       "last_mention": "2026-10-14",
       "team": "Dallas Mavericks",
       "rank": 1
-    },
-    {
-      "player": "Jaylen Brown",
-      "score": 2.5,
-      "mentions_week1": 2,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 4,
-      "first_mention": "2026-09-16",
-      "last_mention": "2026-10-10",
-      "team": "Boston Celtics",
-      "rank": 2
     },
     {
       "player": "Jaden Hardy",
@@ -40,6 +28,18 @@
       "first_mention": "2026-09-24",
       "last_mention": "2026-10-11",
       "team": "Los Angeles Lakers",
+      "rank": 2
+    },
+    {
+      "player": "Jaylen Brown",
+      "score": 2.25,
+      "mentions_week1": 2,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 3,
+      "first_mention": "2026-09-29",
+      "last_mention": "2026-10-10",
+      "team": "Boston Celtics",
       "rank": 3
     },
     {
@@ -67,30 +67,6 @@
       "rank": 5
     },
     {
-      "player": "Domantas Sabonis",
-      "score": 1.75,
-      "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 5,
-      "total_mentions": 6,
-      "first_mention": "2026-09-16",
-      "last_mention": "2026-10-02",
-      "team": "Sacramento Kings",
-      "rank": 6
-    },
-    {
-      "player": "Jalen Duren",
-      "score": 1.75,
-      "mentions_week1": 0,
-      "mentions_week2": 2,
-      "mentions_weeks3_4": 3,
-      "total_mentions": 5,
-      "first_mention": "2026-09-26",
-      "last_mention": "2026-10-01",
-      "team": "Detroit Pistons",
-      "rank": 7
-    },
-    {
       "player": "Ryan Nembhard",
       "score": 1.5,
       "mentions_week1": 0,
@@ -100,19 +76,31 @@
       "first_mention": "2026-09-22",
       "last_mention": "2026-09-22",
       "team": "Atlanta Hawks",
-      "rank": 8
+      "rank": 6
     },
     {
-      "player": "Draymond Green",
+      "player": "Domantas Sabonis",
       "score": 1.5,
       "mentions_week1": 0,
-      "mentions_week2": 2,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 4,
-      "first_mention": "2026-09-16",
-      "last_mention": "2026-10-06",
-      "team": "Golden State Warriors",
-      "rank": 9
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 4,
+      "total_mentions": 5,
+      "first_mention": "2026-09-21",
+      "last_mention": "2026-10-02",
+      "team": "Sacramento Kings",
+      "rank": 7
+    },
+    {
+      "player": "Jalen Duren",
+      "score": 1.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 4,
+      "total_mentions": 5,
+      "first_mention": "2026-09-26",
+      "last_mention": "2026-10-01",
+      "team": "Detroit Pistons",
+      "rank": 8
     },
     {
       "player": "Bronny James",
@@ -124,7 +112,7 @@
       "first_mention": "2026-10-04",
       "last_mention": "2026-10-06",
       "team": "Charlotte Hornets",
-      "rank": 10
+      "rank": 9
     },
     {
       "player": "Ja Morant",
@@ -136,43 +124,7 @@
       "first_mention": "2026-09-23",
       "last_mention": "2026-10-13",
       "team": "Memphis Grizzlies",
-      "rank": 11
-    },
-    {
-      "player": "LeBron James",
-      "score": 1.5,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 3,
-      "first_mention": "2026-09-16",
-      "last_mention": "2026-10-10",
-      "team": "Los Angeles Lakers",
-      "rank": 12
-    },
-    {
-      "player": "Giannis Antetokounmpo",
-      "score": 1.5,
-      "mentions_week1": 1,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 2,
-      "first_mention": "2026-09-30",
-      "last_mention": "2026-10-14",
-      "team": "Milwaukee Bucks",
-      "rank": 13
-    },
-    {
-      "player": "Ron Holland",
-      "score": 1.5,
-      "mentions_week1": 1,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 2,
-      "first_mention": "2026-10-06",
-      "last_mention": "2026-10-07",
-      "team": "Chicago Bulls",
-      "rank": 14
+      "rank": 10
     },
     {
       "player": "Trae Young",
@@ -184,7 +136,19 @@
       "first_mention": "2026-10-03",
       "last_mention": "2026-10-10",
       "team": "Atlanta Hawks",
-      "rank": 15
+      "rank": 11
+    },
+    {
+      "player": "Draymond Green",
+      "score": 1.25,
+      "mentions_week1": 0,
+      "mentions_week2": 2,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 3,
+      "first_mention": "2026-09-18",
+      "last_mention": "2026-10-06",
+      "team": "Golden State Warriors",
+      "rank": 12
     },
     {
       "player": "De'Aaron Fox",
@@ -196,7 +160,19 @@
       "first_mention": "2026-09-28",
       "last_mention": "2026-10-11",
       "team": "San Antonio Spurs",
-      "rank": 16
+      "rank": 13
+    },
+    {
+      "player": "Giannis Antetokounmpo",
+      "score": 1.25,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 2,
+      "first_mention": "2026-09-30",
+      "last_mention": "2026-10-14",
+      "team": "Milwaukee Bucks",
+      "rank": 14
     },
     {
       "player": "LaMelo Ball",
@@ -208,7 +184,19 @@
       "first_mention": "2026-09-29",
       "last_mention": "2026-10-14",
       "team": "Charlotte Hornets",
-      "rank": 17
+      "rank": 15
+    },
+    {
+      "player": "LeBron James",
+      "score": 1.25,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 2,
+      "first_mention": "2026-09-29",
+      "last_mention": "2026-10-10",
+      "team": "Los Angeles Lakers",
+      "rank": 16
     },
     {
       "player": "Myles Turner",
@@ -220,7 +208,7 @@
       "first_mention": "2026-09-29",
       "last_mention": "2026-10-13",
       "team": "Milwaukee Bucks",
-      "rank": 18
+      "rank": 17
     },
     {
       "player": "Naz Reid",
@@ -232,7 +220,7 @@
       "first_mention": "2026-09-21",
       "last_mention": "2026-10-14",
       "team": "Minnesota Timberwolves",
-      "rank": 19
+      "rank": 18
     },
     {
       "player": "Kawhi Leonard",
@@ -244,7 +232,7 @@
       "first_mention": "2026-09-17",
       "last_mention": "2026-09-21",
       "team": "Los Angeles Clippers",
-      "rank": 20
+      "rank": 19
     },
     {
       "player": "Stephen Curry",
@@ -256,7 +244,7 @@
       "first_mention": "2026-09-17",
       "last_mention": "2026-09-24",
       "team": "Golden State Warriors",
-      "rank": 21
+      "rank": 20
     },
     {
       "player": "Caris LeVert",
@@ -268,7 +256,7 @@
       "first_mention": "2026-10-02",
       "last_mention": "2026-10-02",
       "team": "Detroit Pistons",
-      "rank": 22
+      "rank": 21
     },
     {
       "player": "Dalton Knecht",
@@ -280,7 +268,7 @@
       "first_mention": "2026-10-04",
       "last_mention": "2026-10-06",
       "team": "Los Angeles Lakers",
-      "rank": 23
+      "rank": 22
     },
     {
       "player": "Darius Garland",
@@ -292,7 +280,7 @@
       "first_mention": "2026-10-05",
       "last_mention": "2026-10-05",
       "team": "Cleveland Cavaliers",
-      "rank": 24
+      "rank": 23
     },
     {
       "player": "Mark Williams",
@@ -304,6 +292,18 @@
       "first_mention": "2026-10-04",
       "last_mention": "2026-10-06",
       "team": "Phoenix Suns",
+      "rank": 24
+    },
+    {
+      "player": "Ron Holland",
+      "score": 1.0,
+      "mentions_week1": 0,
+      "mentions_week2": 2,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 2,
+      "first_mention": "2026-10-06",
+      "last_mention": "2026-10-07",
+      "team": "Chicago Bulls",
       "rank": 25
     },
     {
@@ -355,18 +355,6 @@
       "rank": 29
     },
     {
-      "player": "Caleb Martin",
-      "score": 1.0,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-10-07",
-      "last_mention": "2026-10-07",
-      "team": "Dallas Mavericks",
-      "rank": 30
-    },
-    {
       "player": "Cam Christie",
       "score": 1.0,
       "mentions_week1": 1,
@@ -376,7 +364,7 @@
       "first_mention": "2026-10-14",
       "last_mention": "2026-10-14",
       "team": "Charlotte Hornets",
-      "rank": 31
+      "rank": 30
     },
     {
       "player": "D'Angelo Russell",
@@ -388,19 +376,7 @@
       "first_mention": "2026-10-11",
       "last_mention": "2026-10-11",
       "team": "Dallas Mavericks",
-      "rank": 32
-    },
-    {
-      "player": "Derrick White",
-      "score": 1.0,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-10-07",
-      "last_mention": "2026-10-07",
-      "team": "Boston Celtics",
-      "rank": 33
+      "rank": 31
     },
     {
       "player": "Ivica Zubac",
@@ -412,7 +388,7 @@
       "first_mention": "2026-10-13",
       "last_mention": "2026-10-13",
       "team": "Los Angeles Clippers",
-      "rank": 34
+      "rank": 32
     },
     {
       "player": "Jaden McDaniels",
@@ -424,7 +400,7 @@
       "first_mention": "2026-10-14",
       "last_mention": "2026-10-14",
       "team": "Minnesota Timberwolves",
-      "rank": 35
+      "rank": 33
     },
     {
       "player": "James Harden",
@@ -436,7 +412,7 @@
       "first_mention": "2026-10-13",
       "last_mention": "2026-10-13",
       "team": "Los Angeles Clippers",
-      "rank": 36
+      "rank": 34
     },
     {
       "player": "Jarrett Allen",
@@ -448,7 +424,7 @@
       "first_mention": "2026-10-09",
       "last_mention": "2026-10-09",
       "team": "Cleveland Cavaliers",
-      "rank": 37
+      "rank": 35
     },
     {
       "player": "Joel Embiid",
@@ -460,7 +436,7 @@
       "first_mention": "2026-10-10",
       "last_mention": "2026-10-10",
       "team": "Philadelphia 76ers",
-      "rank": 38
+      "rank": 36
     },
     {
       "player": "Julius Randle",
@@ -472,7 +448,7 @@
       "first_mention": "2026-10-14",
       "last_mention": "2026-10-14",
       "team": "Minnesota Timberwolves",
-      "rank": 39
+      "rank": 37
     },
     {
       "player": "Kevin Durant",
@@ -484,7 +460,7 @@
       "first_mention": "2026-10-09",
       "last_mention": "2026-10-09",
       "team": "Houston Rockets",
-      "rank": 40
+      "rank": 38
     },
     {
       "player": "Mitchell Robinson",
@@ -496,7 +472,7 @@
       "first_mention": "2026-10-08",
       "last_mention": "2026-10-08",
       "team": "Boston Celtics",
-      "rank": 41
+      "rank": 39
     },
     {
       "player": "Nicolas Claxton",
@@ -508,19 +484,7 @@
       "first_mention": "2026-10-11",
       "last_mention": "2026-10-11",
       "team": "Chicago Bulls",
-      "rank": 42
-    },
-    {
-      "player": "Nikola Jovic",
-      "score": 1.0,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-10-07",
-      "last_mention": "2026-10-07",
-      "team": "Chicago Bulls",
-      "rank": 43
+      "rank": 40
     },
     {
       "player": "Pat Connaughton",
@@ -532,19 +496,7 @@
       "first_mention": "2026-10-14",
       "last_mention": "2026-10-14",
       "team": "Charlotte Hornets",
-      "rank": 44
-    },
-    {
-      "player": "Patrick Williams",
-      "score": 1.0,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-10-07",
-      "last_mention": "2026-10-07",
-      "team": "Chicago Bulls",
-      "rank": 45
+      "rank": 41
     },
     {
       "player": "Anthony Davis",
@@ -556,7 +508,7 @@
       "first_mention": "2026-09-22",
       "last_mention": "2026-10-01",
       "team": "Dallas Mavericks",
-      "rank": 46
+      "rank": 42
     },
     {
       "player": "Jarred Vanderbilt",
@@ -568,7 +520,7 @@
       "first_mention": "2026-09-29",
       "last_mention": "2026-10-06",
       "team": "Detroit Pistons",
-      "rank": 47
+      "rank": 43
     },
     {
       "player": "Peyton Watson",
@@ -580,7 +532,7 @@
       "first_mention": "2026-09-28",
       "last_mention": "2026-10-06",
       "team": "Cleveland Cavaliers",
-      "rank": 48
+      "rank": 44
     },
     {
       "player": "Jimmy Butler",
@@ -592,7 +544,7 @@
       "first_mention": "2026-09-22",
       "last_mention": "2026-09-28",
       "team": "Golden State Warriors",
-      "rank": 49
+      "rank": 45
     },
     {
       "player": "Luka Doncic",
@@ -604,7 +556,7 @@
       "first_mention": "2026-09-26",
       "last_mention": "2026-09-28",
       "team": "Los Angeles Lakers",
-      "rank": 50
+      "rank": 46
     },
     {
       "player": "Pacome Dadiet",
@@ -616,7 +568,7 @@
       "first_mention": "2026-09-25",
       "last_mention": "2026-09-25",
       "team": "Charlotte Hornets",
-      "rank": 51
+      "rank": 47
     },
     {
       "player": "Paul George",
@@ -628,7 +580,19 @@
       "first_mention": "2026-09-17",
       "last_mention": "2026-09-18",
       "team": "Philadelphia 76ers",
-      "rank": 52
+      "rank": 48
+    },
+    {
+      "player": "Caleb Martin",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-10-07",
+      "last_mention": "2026-10-07",
+      "team": "Dallas Mavericks",
+      "rank": 49
     },
     {
       "player": "Corey Kispert",
@@ -640,7 +604,7 @@
       "first_mention": "2026-10-06",
       "last_mention": "2026-10-06",
       "team": "Atlanta Hawks",
-      "rank": 53
+      "rank": 50
     },
     {
       "player": "Craig Porter",
@@ -652,7 +616,19 @@
       "first_mention": "2026-10-06",
       "last_mention": "2026-10-06",
       "team": "Cleveland Cavaliers",
-      "rank": 54
+      "rank": 51
+    },
+    {
+      "player": "Derrick White",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-10-07",
+      "last_mention": "2026-10-07",
+      "team": "Boston Celtics",
+      "rank": 52
     },
     {
       "player": "Jalen Brunson",
@@ -664,7 +640,7 @@
       "first_mention": "2026-10-03",
       "last_mention": "2026-10-03",
       "team": "New York Knicks",
-      "rank": 55
+      "rank": 53
     },
     {
       "player": "Josh Giddey",
@@ -676,7 +652,7 @@
       "first_mention": "2026-10-04",
       "last_mention": "2026-10-04",
       "team": "Chicago Bulls",
-      "rank": 56
+      "rank": 54
     },
     {
       "player": "Max Strus",
@@ -688,7 +664,7 @@
       "first_mention": "2026-10-06",
       "last_mention": "2026-10-06",
       "team": "Cleveland Cavaliers",
-      "rank": 57
+      "rank": 55
     },
     {
       "player": "Moses Moody",
@@ -700,7 +676,19 @@
       "first_mention": "2026-10-06",
       "last_mention": "2026-10-06",
       "team": "Golden State Warriors",
-      "rank": 58
+      "rank": 56
+    },
+    {
+      "player": "Nikola Jovic",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-10-07",
+      "last_mention": "2026-10-07",
+      "team": "Chicago Bulls",
+      "rank": 57
     },
     {
       "player": "Norman Powell",
@@ -712,6 +700,18 @@
       "first_mention": "2026-10-04",
       "last_mention": "2026-10-04",
       "team": "Miami Heat",
+      "rank": 58
+    },
+    {
+      "player": "Patrick Williams",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-10-07",
+      "last_mention": "2026-10-07",
+      "team": "Chicago Bulls",
       "rank": 59
     },
     {
@@ -739,18 +739,6 @@
       "rank": 61
     },
     {
-      "player": "Bruce Brown",
-      "score": 0.25,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 1,
-      "first_mention": "2026-09-16",
-      "last_mention": "2026-09-16",
-      "team": "Denver Nuggets",
-      "rank": 62
-    },
-    {
       "player": "Cedric Coward",
       "score": 0.25,
       "mentions_week1": 0,
@@ -760,7 +748,7 @@
       "first_mention": "2026-09-23",
       "last_mention": "2026-09-23",
       "team": "Denver Nuggets",
-      "rank": 63
+      "rank": 62
     },
     {
       "player": "Christian Braun",
@@ -772,7 +760,7 @@
       "first_mention": "2026-09-21",
       "last_mention": "2026-09-21",
       "team": "Denver Nuggets",
-      "rank": 64
+      "rank": 63
     },
     {
       "player": "Damian Lillard",
@@ -784,7 +772,7 @@
       "first_mention": "2026-09-23",
       "last_mention": "2026-09-23",
       "team": "Denver Nuggets",
-      "rank": 65
+      "rank": 64
     },
     {
       "player": "Derrick Jones",
@@ -796,7 +784,7 @@
       "first_mention": "2026-09-29",
       "last_mention": "2026-09-29",
       "team": "Dallas Mavericks",
-      "rank": 66
+      "rank": 65
     },
     {
       "player": "Devin Booker",
@@ -808,7 +796,7 @@
       "first_mention": "2026-09-22",
       "last_mention": "2026-09-22",
       "team": "Phoenix Suns",
-      "rank": 67
+      "rank": 66
     },
     {
       "player": "Devin Carter",
@@ -820,19 +808,7 @@
       "first_mention": "2026-09-21",
       "last_mention": "2026-09-21",
       "team": "Atlanta Hawks",
-      "rank": 68
-    },
-    {
-      "player": "Drew Eubanks",
-      "score": 0.25,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 1,
-      "first_mention": "2026-09-16",
-      "last_mention": "2026-09-16",
-      "team": "Indiana Pacers",
-      "rank": 69
+      "rank": 67
     },
     {
       "player": "Duncan Robinson",
@@ -844,7 +820,7 @@
       "first_mention": "2026-09-26",
       "last_mention": "2026-09-26",
       "team": "Detroit Pistons",
-      "rank": 70
+      "rank": 68
     },
     {
       "player": "Gary Harris",
@@ -856,7 +832,7 @@
       "first_mention": "2026-09-26",
       "last_mention": "2026-09-26",
       "team": "Detroit Pistons",
-      "rank": 71
+      "rank": 69
     },
     {
       "player": "Jamal Shead",
@@ -868,7 +844,7 @@
       "first_mention": "2026-09-21",
       "last_mention": "2026-09-21",
       "team": "Charlotte Hornets",
-      "rank": 72
+      "rank": 70
     },
     {
       "player": "Jaren Jackson Jr",
@@ -880,19 +856,7 @@
       "first_mention": "2026-09-28",
       "last_mention": "2026-09-28",
       "team": "Golden State Warriors",
-      "rank": 73
-    },
-    {
-      "player": "John Konchar",
-      "score": 0.25,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 1,
-      "first_mention": "2026-09-16",
-      "last_mention": "2026-09-16",
-      "team": "Indiana Pacers",
-      "rank": 74
+      "rank": 71
     },
     {
       "player": "Jordan Poole",
@@ -904,7 +868,7 @@
       "first_mention": "2026-09-22",
       "last_mention": "2026-09-22",
       "team": "Golden State Warriors",
-      "rank": 75
+      "rank": 72
     },
     {
       "player": "Jrue Holiday",
@@ -916,19 +880,7 @@
       "first_mention": "2026-09-28",
       "last_mention": "2026-09-28",
       "team": "Portland Trail Blazers",
-      "rank": 76
-    },
-    {
-      "player": "Kevin McCullar",
-      "score": 0.25,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 1,
-      "first_mention": "2026-09-16",
-      "last_mention": "2026-09-16",
-      "team": "Indiana Pacers",
-      "rank": 77
+      "rank": 73
     },
     {
       "player": "Khaman Maluach",
@@ -940,7 +892,7 @@
       "first_mention": "2026-09-24",
       "last_mention": "2026-09-24",
       "team": "Charlotte Hornets",
-      "rank": 78
+      "rank": 74
     },
     {
       "player": "Moussa Diabate",
@@ -952,7 +904,7 @@
       "first_mention": "2026-09-25",
       "last_mention": "2026-09-25",
       "team": "Charlotte Hornets",
-      "rank": 79
+      "rank": 75
     },
     {
       "player": "PJ Washington",
@@ -964,7 +916,7 @@
       "first_mention": "2026-09-29",
       "last_mention": "2026-09-29",
       "team": "Dallas Mavericks",
-      "rank": 80
+      "rank": 76
     },
     {
       "player": "Saddiq Bey",
@@ -976,7 +928,7 @@
       "first_mention": "2026-09-17",
       "last_mention": "2026-09-17",
       "team": "New Orleans Pelicans",
-      "rank": 81
+      "rank": 77
     },
     {
       "player": "Taurean Prince",
@@ -988,7 +940,7 @@
       "first_mention": "2026-09-26",
       "last_mention": "2026-09-26",
       "team": "Detroit Pistons",
-      "rank": 82
+      "rank": 78
     },
     {
       "player": "Tyrese Maxey",
@@ -1000,7 +952,7 @@
       "first_mention": "2026-09-29",
       "last_mention": "2026-09-29",
       "team": "Philadelphia 76ers",
-      "rank": 83
+      "rank": 79
     },
     {
       "player": "VJ Edgecombe",
@@ -1012,7 +964,7 @@
       "first_mention": "2026-09-29",
       "last_mention": "2026-09-29",
       "team": "Philadelphia 76ers",
-      "rank": 84
+      "rank": 80
     },
     {
       "player": "Zaccharie Risacher",
@@ -1024,7 +976,7 @@
       "first_mention": "2026-09-27",
       "last_mention": "2026-09-27",
       "team": "Atlanta Hawks",
-      "rank": 85
+      "rank": 81
     },
     {
       "player": "Zach LaVine",
@@ -1036,7 +988,7 @@
       "first_mention": "2026-09-27",
       "last_mention": "2026-09-27",
       "team": "Sacramento Kings",
-      "rank": 86
+      "rank": 82
     },
     {
       "player": "Zeke Nnaji",
@@ -1048,7 +1000,7 @@
       "first_mention": "2026-09-24",
       "last_mention": "2026-09-24",
       "team": "Charlotte Hornets",
-      "rank": 87
+      "rank": 83
     },
     {
       "player": "Zion Williamson",
@@ -1060,7 +1012,7 @@
       "first_mention": "2026-09-27",
       "last_mention": "2026-09-27",
       "team": "New Orleans Pelicans",
-      "rank": 88
+      "rank": 84
     }
   ],
   "player_rumors": {
@@ -1361,13 +1313,6 @@
         "text_html": "<a href=\"https://www.inquirer.com/sixers/sixers-lebron-james-joel-embiid-nick-nurse-practice-training-camp-20260929.html\" target=\"_blank\" style=\"color: #1a73e8;\">Edgecombe boasted Monday about creating a get-to-know-you group chat when the Sixers traded for Brown \u2014 but had to ask All-NBA guard Tyrese Maxey to add James once he signed later that month.</a> Though Maxey has consistently spent summers working out with James, a fellow Klutch agency client, this year they could experiment with two-man actions to run as teammates and drill nuances such as angles and the timing of cuts. Brown joined for some sessions that circulated on social media. Maxey also linked with Edgecombe and Simons for on-court work.",
         "outlet": "The Philadelphia Inquirer",
         "source_url": "https://www.inquirer.com/sixers/sixers-lebron-james-joel-embiid-nick-nurse-practice-training-camp-20260929.html"
-      },
-      {
-        "date": "2026-09-16",
-        "text": "After announcing that he would retire after last season, Matt Cord plans to return for his 29th season as the Sixers' public address announcer, he announced on 93.3 WMMR on Wednesday morning. The reasons were quite simple.\"They made a trade for Jaylen Brown on July 1,\" Cord said. \"...And then on July 24, LeBron James signed with the Sixers.\"Cord said the subject of his signature call, Allen Iverson, was one of many people to reach out to him during the summer imploring him to return to the microphone.Philly Voice",
-        "text_html": "After announcing that he would retire after last season, Matt Cord plans to return for his 29th season as the Sixers' public address announcer, he announced on 93.3 WMMR on Wednesday morning. The reasons were quite simple. <a href=\"https://www.phillyvoice.com/sixers-news-analysis-matt-cord-pa-announcer-lineup-intros-video-allen-iverson0retirement-lebron-james-jaylen-brown/\" target=\"_blank\" style=\"color: #1a73e8;\">\"They made a trade for Jaylen Brown on July 1,\" Cord said. \"...And then on July 24, LeBron James signed with the Sixers.\"</a> Cord said the subject of his signature call, Allen Iverson, was one of many people to reach out to him during the summer imploring him to return to the microphone.",
-        "outlet": "Philly Voice",
-        "source_url": "https://www.phillyvoice.com/sixers-news-analysis-matt-cord-pa-announcer-lineup-intros-video-allen-iverson0retirement-lebron-james-jaylen-brown/"
       }
     ],
     "Joel Embiid": [
@@ -1400,13 +1345,6 @@
         "text_html": "Charles Oakley and J.R. Smith offered their theory on the Celtics\u2019 decision during their recent appearance on the \u201cFor the Fellas\u201d podcast with Brian McIntosh. \u201cHe played the game. I mean, he played the right way. All year, he put the team in the place last year to make the playoffs without your main tailor, so Brown, he carried the whole team. I can\u2019t believe they jumped to the conclusion to trade him. This other guy just tore his Achilles. And you gonna take a chance?\u201d said Oakley. <a href=\"https://www.basketballnetwork.net/latest-news/jr-smith-claims-race-influenced-jaylen-brown-trade\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cThat\u2019s what I said,\u201d Smith butted in. \u201cThat\u2019s Boston. The darker skin go, he gonna go.\u201d</a>",
         "outlet": "Basketball Network",
         "source_url": "https://www.basketballnetwork.net/latest-news/jr-smith-claims-race-influenced-jaylen-brown-trade"
-      },
-      {
-        "date": "2026-09-16",
-        "text": "After announcing that he would retire after last season, Matt Cord plans to return for his 29th season as the Sixers' public address announcer, he announced on 93.3 WMMR on Wednesday morning. The reasons were quite simple.\"They made a trade for Jaylen Brown on July 1,\" Cord said. \"...And then on July 24, LeBron James signed with the Sixers.\"Cord said the subject of his signature call, Allen Iverson, was one of many people to reach out to him during the summer imploring him to return to the microphone.Philly Voice",
-        "text_html": "After announcing that he would retire after last season, Matt Cord plans to return for his 29th season as the Sixers' public address announcer, he announced on 93.3 WMMR on Wednesday morning. The reasons were quite simple. <a href=\"https://www.phillyvoice.com/sixers-news-analysis-matt-cord-pa-announcer-lineup-intros-video-allen-iverson0retirement-lebron-james-jaylen-brown/\" target=\"_blank\" style=\"color: #1a73e8;\">\"They made a trade for Jaylen Brown on July 1,\" Cord said. \"...And then on July 24, LeBron James signed with the Sixers.\"</a> Cord said the subject of his signature call, Allen Iverson, was one of many people to reach out to him during the summer imploring him to return to the microphone.",
-        "outlet": "Philly Voice",
-        "source_url": "https://www.phillyvoice.com/sixers-news-analysis-matt-cord-pa-announcer-lineup-intros-video-allen-iverson0retirement-lebron-james-jaylen-brown/"
       }
     ],
     "Brandin Podziemski": [
@@ -1577,13 +1515,6 @@
         "text_html": "Draymond Green Show: Draymond reacts to Danilo Gallinari's comments on Kawhi Leonard <a href=\"https://x.com/DraymondShow/status/2100955504902078801?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">\"I think wishing the NBA took $50 million from a player is disgusting... that also wasn't his first time being traded, so for him to sit and act as if Kawhi Leonard ruined his career, that's bulls**t... I think Gallinari would choose Paul George over himself and if you won't, that's crazy, that's ridiculous... Kawhi Leonard does not have the power to trade a player, he can request... but he don't have the ability to make that trade.\"</a>",
         "outlet": "x.com",
         "source_url": "https://x.com/DraymondShow/status/2100955504902078801?s=20"
-      },
-      {
-        "date": "2026-09-16",
-        "text": "Whether Green can navigate that contradiction could determine more than Golden State\u2019s early-season record. Warriors insider Marcus Thompson II has suggested a poor start could force the franchise to confront an outcome once considered unthinkable.\u201cDraymond could be traded at the trade deadline,\u201d Thompson said.New York Post",
-        "text_html": "Whether Green can navigate that contradiction could determine more than Golden State\u2019s early-season record. Warriors insider Marcus Thompson II has suggested a poor start could force the franchise to confront an outcome once considered unthinkable. <a href=\"https://nypost.com/2026/09/15/sports/steve-kerr-warns-draymond-green-frustrating-warriors-adjustment/?utm_medium=social&utm_source=twitter&utm_campaign=nypost\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cDraymond could be traded at the trade deadline,\u201d Thompson said</a>.",
-        "outlet": "New York Post",
-        "source_url": "https://nypost.com/2026/09/15/sports/steve-kerr-warns-draymond-green-frustrating-warriors-adjustment/?utm_medium=social&utm_source=twitter&utm_campaign=nypost"
       }
     ],
     "Bronny James": [
@@ -1753,13 +1684,6 @@
         "text_html": "NBA Trade Machine: <a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">Christian Braun appeared in 9.4% of trades built on HoopsMatic over the past 24 hours.</a> Of his trades, his most common destinations were Charlotte (64.2%), Dallas (9.4%), and San Antonio (5.7%). The players traded for him most often were Naz Reid (60.4%), Jamal Shead (39.6%), and Domantas Sabonis (32.1%).",
         "outlet": "HoopsMatic",
         "source_url": "https://hoopsmatic.com/"
-      },
-      {
-        "date": "2026-09-16",
-        "text": "In his Bleacher Report NBA insider updates, Jake Fischer revealed that the Sacramento Kings' asking price remains steep and is unwilling to be met by the Hornets and other teams for Sabonis. \"Right now, there's going to be continued disconnect between the Kings wanting to get back positive value and draft compensation for Sabonis compared to other teams not so eager to give Sabonis the contract extension he's looking for,\" Fischer said.\"I'm skeptical of this juncture how much market there were for Sabonis at the Kings\u2019 current asking price. I don't think Charlotte is really motivated to meet that Kings' asking price.\"BasketNews",
-        "text_html": "In his Bleacher Report NBA insider updates, Jake Fischer revealed that the Sacramento Kings' asking price remains steep and is unwilling to be met by the Hornets and other teams for Sabonis. \"Right now, there's going to be continued disconnect between the Kings wanting to get back positive value and draft compensation for Sabonis compared to other teams not so eager to give Sabonis the contract extension he's looking for,\" Fischer said. <a href=\"https://basketnews.com/news-255543-domantas-sabonis-trade-to-hornets-facing-huge-obstacle-per-nba-insider.html\" target=\"_blank\" style=\"color: #1a73e8;\">\"I'm skeptical of this juncture how much market there were for Sabonis at the Kings\u2019 current asking price. I don't think Charlotte is really motivated to meet that Kings' asking price.\"</a>",
-        "outlet": "BasketNews",
-        "source_url": "https://basketnews.com/news-255543-domantas-sabonis-trade-to-hornets-facing-huge-obstacle-per-nba-insider.html"
       }
     ],
     "Caris LeVert": [
@@ -2316,42 +2240,6 @@
         "outlet": "x.com",
         "source_url": "https://x.com/ShamsCharania/status/2100709974087200878?s=20"
       }
-    ],
-    "Drew Eubanks": [
-      {
-        "date": "2026-09-16",
-        "text": "Ian Begley:All of the veterans - John Konchar, Bruce Brown, Ochai Agbaji, James Wiseman, Drew Eubanks - are on training camp deals.They will compete for open roster spot. Knicks would have to trade player on NBA deal if they wanted to keep two vets. If not, they\u2019ll likely have to choose between a big man and a wing. Knicks have all two-ways open. Liam Robbins will have chance to compete for 2 way. I assume Tyler Nickel gets a two way deal. Kevin McCullar Jr. has been working out with Knick players this month, remains on NYK radar.x.com",
-        "text_html": "Ian Begley: <a href=\"https://x.com/IanBegley/status/2100269786982748430?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">All of the veterans - John Konchar, Bruce Brown, Ochai Agbaji, James Wiseman, Drew Eubanks - are on training camp deals.</a> They will compete for open roster spot. Knicks would have to trade player on NBA deal if they wanted to keep two vets. If not, they\u2019ll likely have to choose between a big man and a wing. Knicks have all two-ways open. Liam Robbins will have chance to compete for 2 way. I assume Tyler Nickel gets a two way deal. Kevin McCullar Jr. has been working out with Knick players this month, remains on NYK radar.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/IanBegley/status/2100269786982748430?s=20"
-      }
-    ],
-    "Bruce Brown": [
-      {
-        "date": "2026-09-16",
-        "text": "Ian Begley:All of the veterans - John Konchar, Bruce Brown, Ochai Agbaji, James Wiseman, Drew Eubanks - are on training camp deals.They will compete for open roster spot. Knicks would have to trade player on NBA deal if they wanted to keep two vets. If not, they\u2019ll likely have to choose between a big man and a wing. Knicks have all two-ways open. Liam Robbins will have chance to compete for 2 way. I assume Tyler Nickel gets a two way deal. Kevin McCullar Jr. has been working out with Knick players this month, remains on NYK radar.x.com",
-        "text_html": "Ian Begley: <a href=\"https://x.com/IanBegley/status/2100269786982748430?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">All of the veterans - John Konchar, Bruce Brown, Ochai Agbaji, James Wiseman, Drew Eubanks - are on training camp deals.</a> They will compete for open roster spot. Knicks would have to trade player on NBA deal if they wanted to keep two vets. If not, they\u2019ll likely have to choose between a big man and a wing. Knicks have all two-ways open. Liam Robbins will have chance to compete for 2 way. I assume Tyler Nickel gets a two way deal. Kevin McCullar Jr. has been working out with Knick players this month, remains on NYK radar.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/IanBegley/status/2100269786982748430?s=20"
-      }
-    ],
-    "John Konchar": [
-      {
-        "date": "2026-09-16",
-        "text": "Ian Begley:All of the veterans - John Konchar, Bruce Brown, Ochai Agbaji, James Wiseman, Drew Eubanks - are on training camp deals.They will compete for open roster spot. Knicks would have to trade player on NBA deal if they wanted to keep two vets. If not, they\u2019ll likely have to choose between a big man and a wing. Knicks have all two-ways open. Liam Robbins will have chance to compete for 2 way. I assume Tyler Nickel gets a two way deal. Kevin McCullar Jr. has been working out with Knick players this month, remains on NYK radar.x.com",
-        "text_html": "Ian Begley: <a href=\"https://x.com/IanBegley/status/2100269786982748430?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">All of the veterans - John Konchar, Bruce Brown, Ochai Agbaji, James Wiseman, Drew Eubanks - are on training camp deals.</a> They will compete for open roster spot. Knicks would have to trade player on NBA deal if they wanted to keep two vets. If not, they\u2019ll likely have to choose between a big man and a wing. Knicks have all two-ways open. Liam Robbins will have chance to compete for 2 way. I assume Tyler Nickel gets a two way deal. Kevin McCullar Jr. has been working out with Knick players this month, remains on NYK radar.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/IanBegley/status/2100269786982748430?s=20"
-      }
-    ],
-    "Kevin McCullar": [
-      {
-        "date": "2026-09-16",
-        "text": "Ian Begley:All of the veterans - John Konchar, Bruce Brown, Ochai Agbaji, James Wiseman, Drew Eubanks - are on training camp deals.They will compete for open roster spot. Knicks would have to trade player on NBA deal if they wanted to keep two vets. If not, they\u2019ll likely have to choose between a big man and a wing. Knicks have all two-ways open. Liam Robbins will have chance to compete for 2 way. I assume Tyler Nickel gets a two way deal. Kevin McCullar Jr. has been working out with Knick players this month, remains on NYK radar.x.com",
-        "text_html": "Ian Begley: <a href=\"https://x.com/IanBegley/status/2100269786982748430?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">All of the veterans - John Konchar, Bruce Brown, Ochai Agbaji, James Wiseman, Drew Eubanks - are on training camp deals.</a> They will compete for open roster spot. Knicks would have to trade player on NBA deal if they wanted to keep two vets. If not, they\u2019ll likely have to choose between a big man and a wing. Knicks have all two-ways open. Liam Robbins will have chance to compete for 2 way. I assume Tyler Nickel gets a two way deal. Kevin McCullar Jr. has been working out with Knick players this month, remains on NYK radar.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/IanBegley/status/2100269786982748430?s=20"
-      }
     ]
   },
   "daily_counts": {
@@ -2428,8 +2316,7 @@
     },
     "LeBron James": {
       "2026-10-10": 1,
-      "2026-09-29": 1,
-      "2026-09-16": 1
+      "2026-09-29": 1
     },
     "Joel Embiid": {
       "2026-10-10": 1
@@ -2437,8 +2324,7 @@
     "Jaylen Brown": {
       "2026-10-10": 1,
       "2026-10-08": 1,
-      "2026-09-29": 1,
-      "2026-09-16": 1
+      "2026-09-29": 1
     },
     "Brandin Podziemski": {
       "2026-10-10": 1
@@ -2488,8 +2374,7 @@
     "Draymond Green": {
       "2026-10-06": 1,
       "2026-10-04": 1,
-      "2026-09-18": 1,
-      "2026-09-16": 1
+      "2026-09-18": 1
     },
     "Bronny James": {
       "2026-10-06": 1,
@@ -2529,8 +2414,7 @@
       "2026-10-02": 1,
       "2026-09-26": 1,
       "2026-09-23": 2,
-      "2026-09-21": 1,
-      "2026-09-16": 1
+      "2026-09-21": 1
     },
     "Caris LeVert": {
       "2026-10-02": 2
@@ -2653,18 +2537,6 @@
     },
     "Saddiq Bey": {
       "2026-09-17": 1
-    },
-    "Drew Eubanks": {
-      "2026-09-16": 1
-    },
-    "Bruce Brown": {
-      "2026-09-16": 1
-    },
-    "John Konchar": {
-      "2026-09-16": 1
-    },
-    "Kevin McCullar": {
-      "2026-09-16": 1
     }
   }
 }
