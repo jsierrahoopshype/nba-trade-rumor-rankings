@@ -1,22 +1,46 @@
 {
-  "generated_at": "2026-10-17T05:20:14.633999",
+  "generated_at": "2026-10-17T15:59:54.605085",
   "scrape_window_days": 28,
   "window_start": "2026-09-19",
   "window_end": "2026-10-17",
-  "total_rumors": 158,
-  "total_players": 89,
+  "total_rumors": 166,
+  "total_players": 91,
   "rankings": [
     {
       "player": "Kyrie Irving",
-      "score": 4.0,
-      "mentions_week1": 3,
+      "score": 5.0,
+      "mentions_week1": 4,
       "mentions_week2": 0,
       "mentions_weeks3_4": 4,
-      "total_mentions": 7,
+      "total_mentions": 8,
       "first_mention": "2026-09-22",
-      "last_mention": "2026-10-14",
+      "last_mention": "2026-10-17",
       "team": "Dallas Mavericks",
       "rank": 1
+    },
+    {
+      "player": "Dalton Knecht",
+      "score": 4.0,
+      "mentions_week1": 3,
+      "mentions_week2": 2,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 5,
+      "first_mention": "2026-10-04",
+      "last_mention": "2026-10-17",
+      "team": "Los Angeles Lakers",
+      "rank": 2
+    },
+    {
+      "player": "Jimmy Butler",
+      "score": 3.5,
+      "mentions_week1": 3,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 2,
+      "total_mentions": 5,
+      "first_mention": "2026-09-22",
+      "last_mention": "2026-10-17",
+      "team": "Golden State Warriors",
+      "rank": 3
     },
     {
       "player": "Jaylen Brown",
@@ -28,19 +52,7 @@
       "first_mention": "2026-09-29",
       "last_mention": "2026-10-16",
       "team": "Boston Celtics",
-      "rank": 2
-    },
-    {
-      "player": "Jimmy Butler",
-      "score": 2.5,
-      "mentions_week1": 2,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 4,
-      "first_mention": "2026-09-22",
-      "last_mention": "2026-10-16",
-      "team": "Golden State Warriors",
-      "rank": 3
+      "rank": 4
     },
     {
       "player": "Jaden Hardy",
@@ -52,7 +64,7 @@
       "first_mention": "2026-09-24",
       "last_mention": "2026-10-11",
       "team": "Los Angeles Lakers",
-      "rank": 4
+      "rank": 5
     },
     {
       "player": "Giannis Antetokounmpo",
@@ -64,18 +76,6 @@
       "first_mention": "2026-09-30",
       "last_mention": "2026-10-16",
       "team": "Milwaukee Bucks",
-      "rank": 5
-    },
-    {
-      "player": "Dalton Knecht",
-      "score": 2.0,
-      "mentions_week1": 1,
-      "mentions_week2": 2,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 3,
-      "first_mention": "2026-10-04",
-      "last_mention": "2026-10-16",
-      "team": "Los Angeles Lakers",
       "rank": 6
     },
     {
@@ -175,6 +175,18 @@
       "rank": 14
     },
     {
+      "player": "Luka Doncic",
+      "score": 1.5,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 2,
+      "total_mentions": 3,
+      "first_mention": "2026-09-26",
+      "last_mention": "2026-10-17",
+      "team": "Los Angeles Lakers",
+      "rank": 15
+    },
+    {
       "player": "Pacome Dadiet",
       "score": 1.5,
       "mentions_week1": 1,
@@ -184,7 +196,7 @@
       "first_mention": "2026-09-25",
       "last_mention": "2026-10-16",
       "team": "Charlotte Hornets",
-      "rank": 15
+      "rank": 16
     },
     {
       "player": "Trae Young",
@@ -196,7 +208,7 @@
       "first_mention": "2026-10-03",
       "last_mention": "2026-10-10",
       "team": "Atlanta Hawks",
-      "rank": 16
+      "rank": 17
     },
     {
       "player": "Domantas Sabonis",
@@ -208,7 +220,7 @@
       "first_mention": "2026-09-21",
       "last_mention": "2026-10-02",
       "team": "Sacramento Kings",
-      "rank": 17
+      "rank": 18
     },
     {
       "player": "Jalen Duren",
@@ -220,7 +232,7 @@
       "first_mention": "2026-09-26",
       "last_mention": "2026-10-01",
       "team": "Detroit Pistons",
-      "rank": 18
+      "rank": 19
     },
     {
       "player": "De'Aaron Fox",
@@ -232,7 +244,7 @@
       "first_mention": "2026-09-28",
       "last_mention": "2026-10-11",
       "team": "San Antonio Spurs",
-      "rank": 19
+      "rank": 20
     },
     {
       "player": "LaMelo Ball",
@@ -244,7 +256,7 @@
       "first_mention": "2026-09-29",
       "last_mention": "2026-10-14",
       "team": "Charlotte Hornets",
-      "rank": 20
+      "rank": 21
     },
     {
       "player": "LeBron James",
@@ -256,7 +268,7 @@
       "first_mention": "2026-09-29",
       "last_mention": "2026-10-10",
       "team": "Los Angeles Lakers",
-      "rank": 21
+      "rank": 22
     },
     {
       "player": "Myles Turner",
@@ -268,7 +280,7 @@
       "first_mention": "2026-09-29",
       "last_mention": "2026-10-13",
       "team": "Milwaukee Bucks",
-      "rank": 22
+      "rank": 23
     },
     {
       "player": "Naz Reid",
@@ -280,7 +292,19 @@
       "first_mention": "2026-09-21",
       "last_mention": "2026-10-14",
       "team": "Minnesota Timberwolves",
-      "rank": 23
+      "rank": 24
+    },
+    {
+      "player": "Zion Williamson",
+      "score": 1.25,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 2,
+      "first_mention": "2026-09-27",
+      "last_mention": "2026-10-17",
+      "team": "New Orleans Pelicans",
+      "rank": 25
     },
     {
       "player": "Darius Garland",
@@ -292,7 +316,7 @@
       "first_mention": "2026-10-05",
       "last_mention": "2026-10-05",
       "team": "Cleveland Cavaliers",
-      "rank": 24
+      "rank": 26
     },
     {
       "player": "Mark Williams",
@@ -304,7 +328,7 @@
       "first_mention": "2026-10-04",
       "last_mention": "2026-10-06",
       "team": "Phoenix Suns",
-      "rank": 25
+      "rank": 27
     },
     {
       "player": "Ron Holland",
@@ -316,7 +340,7 @@
       "first_mention": "2026-10-06",
       "last_mention": "2026-10-07",
       "team": "Chicago Bulls",
-      "rank": 26
+      "rank": 28
     },
     {
       "player": "Aaron Nesmith",
@@ -328,7 +352,7 @@
       "first_mention": "2026-10-13",
       "last_mention": "2026-10-13",
       "team": "Indiana Pacers",
-      "rank": 27
+      "rank": 29
     },
     {
       "player": "Anthony Edwards",
@@ -340,7 +364,7 @@
       "first_mention": "2026-10-11",
       "last_mention": "2026-10-11",
       "team": "Minnesota Timberwolves",
-      "rank": 28
+      "rank": 30
     },
     {
       "player": "Brandin Podziemski",
@@ -352,7 +376,7 @@
       "first_mention": "2026-10-10",
       "last_mention": "2026-10-10",
       "team": "Golden State Warriors",
-      "rank": 29
+      "rank": 31
     },
     {
       "player": "Cade Cunningham",
@@ -364,7 +388,7 @@
       "first_mention": "2026-10-11",
       "last_mention": "2026-10-11",
       "team": "Detroit Pistons",
-      "rank": 30
+      "rank": 32
     },
     {
       "player": "Cam Christie",
@@ -376,7 +400,7 @@
       "first_mention": "2026-10-14",
       "last_mention": "2026-10-14",
       "team": "Charlotte Hornets",
-      "rank": 31
+      "rank": 33
     },
     {
       "player": "D'Angelo Russell",
@@ -388,7 +412,7 @@
       "first_mention": "2026-10-11",
       "last_mention": "2026-10-11",
       "team": "Dallas Mavericks",
-      "rank": 32
+      "rank": 34
     },
     {
       "player": "Drew Eubanks",
@@ -400,7 +424,7 @@
       "first_mention": "2026-10-15",
       "last_mention": "2026-10-15",
       "team": "New York Knicks",
-      "rank": 33
+      "rank": 35
     },
     {
       "player": "GG Jackson",
@@ -412,7 +436,7 @@
       "first_mention": "2026-10-16",
       "last_mention": "2026-10-16",
       "team": "Memphis Grizzlies",
-      "rank": 34
+      "rank": 36
     },
     {
       "player": "Ivica Zubac",
@@ -424,7 +448,7 @@
       "first_mention": "2026-10-13",
       "last_mention": "2026-10-13",
       "team": "Los Angeles Clippers",
-      "rank": 35
+      "rank": 37
     },
     {
       "player": "Jaden McDaniels",
@@ -436,7 +460,7 @@
       "first_mention": "2026-10-14",
       "last_mention": "2026-10-14",
       "team": "Minnesota Timberwolves",
-      "rank": 36
+      "rank": 38
     },
     {
       "player": "James Harden",
@@ -448,7 +472,7 @@
       "first_mention": "2026-10-13",
       "last_mention": "2026-10-13",
       "team": "Los Angeles Clippers",
-      "rank": 37
+      "rank": 39
     },
     {
       "player": "Jericho Sims",
@@ -460,7 +484,7 @@
       "first_mention": "2026-10-16",
       "last_mention": "2026-10-16",
       "team": "Los Angeles Lakers",
-      "rank": 38
+      "rank": 40
     },
     {
       "player": "Joel Embiid",
@@ -472,7 +496,7 @@
       "first_mention": "2026-10-10",
       "last_mention": "2026-10-10",
       "team": "Philadelphia 76ers",
-      "rank": 39
+      "rank": 41
     },
     {
       "player": "Julius Randle",
@@ -484,7 +508,31 @@
       "first_mention": "2026-10-14",
       "last_mention": "2026-10-14",
       "team": "Minnesota Timberwolves",
-      "rank": 40
+      "rank": 42
+    },
+    {
+      "player": "Kristaps Porzingis",
+      "score": 1.0,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-10-17",
+      "last_mention": "2026-10-17",
+      "team": "Golden State Warriors",
+      "rank": 43
+    },
+    {
+      "player": "Michael Porter",
+      "score": 1.0,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-10-17",
+      "last_mention": "2026-10-17",
+      "team": "Boston Celtics",
+      "rank": 44
     },
     {
       "player": "Nicolas Claxton",
@@ -496,7 +544,7 @@
       "first_mention": "2026-10-11",
       "last_mention": "2026-10-11",
       "team": "Chicago Bulls",
-      "rank": 41
+      "rank": 45
     },
     {
       "player": "Pat Connaughton",
@@ -508,7 +556,7 @@
       "first_mention": "2026-10-14",
       "last_mention": "2026-10-14",
       "team": "Charlotte Hornets",
-      "rank": 42
+      "rank": 46
     },
     {
       "player": "Tidjane Salaun",
@@ -520,7 +568,7 @@
       "first_mention": "2026-10-16",
       "last_mention": "2026-10-16",
       "team": "Charlotte Hornets",
-      "rank": 43
+      "rank": 47
     },
     {
       "player": "Tyler Kolek",
@@ -532,7 +580,7 @@
       "first_mention": "2026-10-16",
       "last_mention": "2026-10-16",
       "team": "Charlotte Hornets",
-      "rank": 44
+      "rank": 48
     },
     {
       "player": "Walter Clayton",
@@ -544,7 +592,7 @@
       "first_mention": "2026-10-16",
       "last_mention": "2026-10-16",
       "team": "Memphis Grizzlies",
-      "rank": 45
+      "rank": 49
     },
     {
       "player": "Jarred Vanderbilt",
@@ -556,7 +604,7 @@
       "first_mention": "2026-09-29",
       "last_mention": "2026-10-06",
       "team": "Detroit Pistons",
-      "rank": 46
+      "rank": 50
     },
     {
       "player": "Peyton Watson",
@@ -568,7 +616,7 @@
       "first_mention": "2026-09-28",
       "last_mention": "2026-10-06",
       "team": "Cleveland Cavaliers",
-      "rank": 47
+      "rank": 51
     },
     {
       "player": "Caris LeVert",
@@ -580,19 +628,7 @@
       "first_mention": "2026-10-02",
       "last_mention": "2026-10-02",
       "team": "Detroit Pistons",
-      "rank": 48
-    },
-    {
-      "player": "Luka Doncic",
-      "score": 0.5,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 2,
-      "first_mention": "2026-09-26",
-      "last_mention": "2026-09-28",
-      "team": "Los Angeles Lakers",
-      "rank": 49
+      "rank": 52
     },
     {
       "player": "Stephen Curry",
@@ -604,7 +640,7 @@
       "first_mention": "2026-09-23",
       "last_mention": "2026-09-24",
       "team": "Golden State Warriors",
-      "rank": 50
+      "rank": 53
     },
     {
       "player": "Caleb Martin",
@@ -616,7 +652,7 @@
       "first_mention": "2026-10-07",
       "last_mention": "2026-10-07",
       "team": "Dallas Mavericks",
-      "rank": 51
+      "rank": 54
     },
     {
       "player": "Corey Kispert",
@@ -628,7 +664,7 @@
       "first_mention": "2026-10-06",
       "last_mention": "2026-10-06",
       "team": "Atlanta Hawks",
-      "rank": 52
+      "rank": 55
     },
     {
       "player": "Craig Porter",
@@ -640,7 +676,7 @@
       "first_mention": "2026-10-06",
       "last_mention": "2026-10-06",
       "team": "Cleveland Cavaliers",
-      "rank": 53
+      "rank": 56
     },
     {
       "player": "Derrick White",
@@ -652,7 +688,7 @@
       "first_mention": "2026-10-07",
       "last_mention": "2026-10-07",
       "team": "Boston Celtics",
-      "rank": 54
+      "rank": 57
     },
     {
       "player": "Jalen Brunson",
@@ -664,7 +700,7 @@
       "first_mention": "2026-10-03",
       "last_mention": "2026-10-03",
       "team": "New York Knicks",
-      "rank": 55
+      "rank": 58
     },
     {
       "player": "Jarrett Allen",
@@ -676,7 +712,7 @@
       "first_mention": "2026-10-09",
       "last_mention": "2026-10-09",
       "team": "Cleveland Cavaliers",
-      "rank": 56
+      "rank": 59
     },
     {
       "player": "Josh Giddey",
@@ -688,7 +724,7 @@
       "first_mention": "2026-10-04",
       "last_mention": "2026-10-04",
       "team": "Chicago Bulls",
-      "rank": 57
+      "rank": 60
     },
     {
       "player": "Kevin Durant",
@@ -700,7 +736,7 @@
       "first_mention": "2026-10-09",
       "last_mention": "2026-10-09",
       "team": "Houston Rockets",
-      "rank": 58
+      "rank": 61
     },
     {
       "player": "Max Strus",
@@ -712,7 +748,7 @@
       "first_mention": "2026-10-06",
       "last_mention": "2026-10-06",
       "team": "Cleveland Cavaliers",
-      "rank": 59
+      "rank": 62
     },
     {
       "player": "Mitchell Robinson",
@@ -724,7 +760,7 @@
       "first_mention": "2026-10-08",
       "last_mention": "2026-10-08",
       "team": "Boston Celtics",
-      "rank": 60
+      "rank": 63
     },
     {
       "player": "Moses Moody",
@@ -736,7 +772,7 @@
       "first_mention": "2026-10-06",
       "last_mention": "2026-10-06",
       "team": "Golden State Warriors",
-      "rank": 61
+      "rank": 64
     },
     {
       "player": "Nikola Jovic",
@@ -748,7 +784,7 @@
       "first_mention": "2026-10-07",
       "last_mention": "2026-10-07",
       "team": "Chicago Bulls",
-      "rank": 62
+      "rank": 65
     },
     {
       "player": "Norman Powell",
@@ -760,7 +796,7 @@
       "first_mention": "2026-10-04",
       "last_mention": "2026-10-04",
       "team": "Miami Heat",
-      "rank": 63
+      "rank": 66
     },
     {
       "player": "Patrick Williams",
@@ -772,7 +808,7 @@
       "first_mention": "2026-10-07",
       "last_mention": "2026-10-07",
       "team": "Chicago Bulls",
-      "rank": 64
+      "rank": 67
     },
     {
       "player": "Terance Mann",
@@ -784,7 +820,7 @@
       "first_mention": "2026-10-06",
       "last_mention": "2026-10-06",
       "team": "Detroit Pistons",
-      "rank": 65
+      "rank": 68
     },
     {
       "player": "Alperen Sengun",
@@ -796,7 +832,7 @@
       "first_mention": "2026-09-27",
       "last_mention": "2026-09-27",
       "team": "Houston Rockets",
-      "rank": 66
+      "rank": 69
     },
     {
       "player": "Cedric Coward",
@@ -808,7 +844,7 @@
       "first_mention": "2026-09-23",
       "last_mention": "2026-09-23",
       "team": "Denver Nuggets",
-      "rank": 67
+      "rank": 70
     },
     {
       "player": "Christian Braun",
@@ -820,7 +856,7 @@
       "first_mention": "2026-09-21",
       "last_mention": "2026-09-21",
       "team": "Denver Nuggets",
-      "rank": 68
+      "rank": 71
     },
     {
       "player": "Damian Lillard",
@@ -832,7 +868,7 @@
       "first_mention": "2026-09-23",
       "last_mention": "2026-09-23",
       "team": "Denver Nuggets",
-      "rank": 69
+      "rank": 72
     },
     {
       "player": "Derrick Jones",
@@ -844,7 +880,7 @@
       "first_mention": "2026-09-29",
       "last_mention": "2026-09-29",
       "team": "Dallas Mavericks",
-      "rank": 70
+      "rank": 73
     },
     {
       "player": "Devin Booker",
@@ -856,7 +892,7 @@
       "first_mention": "2026-09-22",
       "last_mention": "2026-09-22",
       "team": "Phoenix Suns",
-      "rank": 71
+      "rank": 74
     },
     {
       "player": "Devin Carter",
@@ -868,7 +904,7 @@
       "first_mention": "2026-09-21",
       "last_mention": "2026-09-21",
       "team": "Atlanta Hawks",
-      "rank": 72
+      "rank": 75
     },
     {
       "player": "Duncan Robinson",
@@ -880,7 +916,7 @@
       "first_mention": "2026-09-26",
       "last_mention": "2026-09-26",
       "team": "Detroit Pistons",
-      "rank": 73
+      "rank": 76
     },
     {
       "player": "Gary Harris",
@@ -892,7 +928,7 @@
       "first_mention": "2026-09-26",
       "last_mention": "2026-09-26",
       "team": "Detroit Pistons",
-      "rank": 74
+      "rank": 77
     },
     {
       "player": "Jamal Shead",
@@ -904,7 +940,7 @@
       "first_mention": "2026-09-21",
       "last_mention": "2026-09-21",
       "team": "Charlotte Hornets",
-      "rank": 75
+      "rank": 78
     },
     {
       "player": "Jaren Jackson Jr",
@@ -916,7 +952,7 @@
       "first_mention": "2026-09-28",
       "last_mention": "2026-09-28",
       "team": "Golden State Warriors",
-      "rank": 76
+      "rank": 79
     },
     {
       "player": "Jordan Poole",
@@ -928,7 +964,7 @@
       "first_mention": "2026-09-22",
       "last_mention": "2026-09-22",
       "team": "Golden State Warriors",
-      "rank": 77
+      "rank": 80
     },
     {
       "player": "Jrue Holiday",
@@ -940,7 +976,7 @@
       "first_mention": "2026-09-28",
       "last_mention": "2026-09-28",
       "team": "Portland Trail Blazers",
-      "rank": 78
+      "rank": 81
     },
     {
       "player": "Kawhi Leonard",
@@ -952,7 +988,7 @@
       "first_mention": "2026-09-21",
       "last_mention": "2026-09-21",
       "team": "Los Angeles Clippers",
-      "rank": 79
+      "rank": 82
     },
     {
       "player": "Khaman Maluach",
@@ -964,7 +1000,7 @@
       "first_mention": "2026-09-24",
       "last_mention": "2026-09-24",
       "team": "Charlotte Hornets",
-      "rank": 80
+      "rank": 83
     },
     {
       "player": "Moussa Diabate",
@@ -976,7 +1012,7 @@
       "first_mention": "2026-09-25",
       "last_mention": "2026-09-25",
       "team": "Charlotte Hornets",
-      "rank": 81
+      "rank": 84
     },
     {
       "player": "PJ Washington",
@@ -988,7 +1024,7 @@
       "first_mention": "2026-09-29",
       "last_mention": "2026-09-29",
       "team": "Dallas Mavericks",
-      "rank": 82
+      "rank": 85
     },
     {
       "player": "Taurean Prince",
@@ -1000,7 +1036,7 @@
       "first_mention": "2026-09-26",
       "last_mention": "2026-09-26",
       "team": "Detroit Pistons",
-      "rank": 83
+      "rank": 86
     },
     {
       "player": "Tyrese Maxey",
@@ -1012,7 +1048,7 @@
       "first_mention": "2026-09-29",
       "last_mention": "2026-09-29",
       "team": "Philadelphia 76ers",
-      "rank": 84
+      "rank": 87
     },
     {
       "player": "VJ Edgecombe",
@@ -1024,7 +1060,7 @@
       "first_mention": "2026-09-29",
       "last_mention": "2026-09-29",
       "team": "Philadelphia 76ers",
-      "rank": 85
+      "rank": 88
     },
     {
       "player": "Zaccharie Risacher",
@@ -1036,7 +1072,7 @@
       "first_mention": "2026-09-27",
       "last_mention": "2026-09-27",
       "team": "Atlanta Hawks",
-      "rank": 86
+      "rank": 89
     },
     {
       "player": "Zach LaVine",
@@ -1048,7 +1084,7 @@
       "first_mention": "2026-09-27",
       "last_mention": "2026-09-27",
       "team": "Sacramento Kings",
-      "rank": 87
+      "rank": 90
     },
     {
       "player": "Zeke Nnaji",
@@ -1060,23 +1096,18 @@
       "first_mention": "2026-09-24",
       "last_mention": "2026-09-24",
       "team": "Charlotte Hornets",
-      "rank": 88
-    },
-    {
-      "player": "Zion Williamson",
-      "score": 0.25,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 1,
-      "first_mention": "2026-09-27",
-      "last_mention": "2026-09-27",
-      "team": "New Orleans Pelicans",
-      "rank": 89
+      "rank": 91
     }
   ],
   "player_rumors": {
     "Jimmy Butler": [
+      {
+        "date": "2026-10-17",
+        "text": "The rest of the season was a slow nightmare. Curry was sidelined for two months to tend to a persistent knee issue. They traded for Kristaps Porzingis, who was in and out of the lineup. They went 12-26 after the Jimmy Butler injury, fading to the background in a season that opened with quiet title belief.\"I really felt like I let Steph down,\" Butler said. \"I let Draymond down. I let Steve down. Because they took a chance. If you don't know me and you haven't been around me, you don't know what I'm about because of the things that you may read and hear.But they said, 'F--- all of that s---. This motherf---er knows how to win.' They took a chance, and I felt I let them down.\"ESPN",
+        "text_html": "The rest of the season was a slow nightmare. Curry was sidelined for two months to tend to a persistent knee issue. They traded for Kristaps Porzingis, who was in and out of the lineup. They went 12-26 after the Jimmy Butler injury, fading to the background in a season that opened with quiet title belief. <a href=\"https://www.espn.com/nba/story/_/id/50182801/jimmy-butler-acl-injury-return-warriors-title\" target=\"_blank\" style=\"color: #1a73e8;\">\"I really felt like I let Steph down,\" Butler said. \"I let Draymond down. I let Steve down. Because they took a chance. If you don't know me and you haven't been around me, you don't know what I'm about because of the things that you may read and hear.</a> But they said, 'F--- all of that s---. This motherf---er knows how to win.' They took a chance, and I felt I let them down.\"",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/50182801/jimmy-butler-acl-injury-return-warriors-title"
+      },
       {
         "date": "2026-10-16",
         "text": "The Warriors didn't show an appetite to offer Butler for Anthony Davis or Jaylen Brown this summer, considering the pick packages required and contracts attached to both.All other Butler-plus-picks conversations -- for what the Warriors believe are ultimately lesser players once Butler returns -- were shut down, team sources said.ESPN",
@@ -1102,6 +1133,158 @@
         "date": "2026-09-22",
         "text": "On HoopsMatic over the past 24 hours,Jimmy Butler showed up in 5.3% of all trades built.Among those, he was most often sent to Washington (11.1%), Phoenix (9.3%), and San Antonio (9.3%), and the return pieces that came up most often were Anthony Davis (11.1%), Devin Booker (9.3%), and Jordan Poole (9.3%).HoopsMatic",
         "text_html": "On HoopsMatic over the past 24 hours, <a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">Jimmy Butler showed up in 5.3% of all trades built.</a> Among those, he was most often sent to Washington (11.1%), Phoenix (9.3%), and San Antonio (9.3%), and the return pieces that came up most often were Anthony Davis (11.1%), Devin Booker (9.3%), and Jordan Poole (9.3%).",
+        "outlet": "HoopsMatic",
+        "source_url": "https://hoopsmatic.com/"
+      }
+    ],
+    "Kristaps Porzingis": [
+      {
+        "date": "2026-10-17",
+        "text": "The rest of the season was a slow nightmare. Curry was sidelined for two months to tend to a persistent knee issue. They traded for Kristaps Porzingis, who was in and out of the lineup. They went 12-26 after the Jimmy Butler injury, fading to the background in a season that opened with quiet title belief.\"I really felt like I let Steph down,\" Butler said. \"I let Draymond down. I let Steve down. Because they took a chance. If you don't know me and you haven't been around me, you don't know what I'm about because of the things that you may read and hear.But they said, 'F--- all of that s---. This motherf---er knows how to win.' They took a chance, and I felt I let them down.\"ESPN",
+        "text_html": "The rest of the season was a slow nightmare. Curry was sidelined for two months to tend to a persistent knee issue. They traded for Kristaps Porzingis, who was in and out of the lineup. They went 12-26 after the Jimmy Butler injury, fading to the background in a season that opened with quiet title belief. <a href=\"https://www.espn.com/nba/story/_/id/50182801/jimmy-butler-acl-injury-return-warriors-title\" target=\"_blank\" style=\"color: #1a73e8;\">\"I really felt like I let Steph down,\" Butler said. \"I let Draymond down. I let Steve down. Because they took a chance. If you don't know me and you haven't been around me, you don't know what I'm about because of the things that you may read and hear.</a> But they said, 'F--- all of that s---. This motherf---er knows how to win.' They took a chance, and I felt I let them down.\"",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/50182801/jimmy-butler-acl-injury-return-warriors-title"
+      }
+    ],
+    "Dalton Knecht": [
+      {
+        "date": "2026-10-17",
+        "text": "Dalton Knecht left the arena Friday night after taking a single shot in the Lakers\u2019 121-106 loss to the Nuggets. He finished the preseason just 3-of-12 from the field and 1-of-7 from three. And with the Lakers needing to cut their roster down from 16 guaranteed contracts to 15, his time with the team could certainly be nearing it\u2019s end.\u201cThey haven\u2019t talked to me nothing about that,\u201d Knecht told The Athletic on Friday when asked about the Lakers\u2019 upcoming roster decisions.New York Times",
+        "text_html": "Dalton Knecht left the arena Friday night after taking a single shot in the Lakers\u2019 121-106 loss to the Nuggets. He finished the preseason just 3-of-12 from the field and 1-of-7 from three. And with the Lakers needing to cut their roster down from 16 guaranteed contracts to 15, his time with the team could certainly be nearing it\u2019s end. <a href=\"https://www.nytimes.com/athletic/7698077/2026/10/17/lakers-dalton-knecht-roster-spot/\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cThey haven\u2019t talked to me nothing about that,\u201d Knecht told The Athletic on Friday when asked about the Lakers\u2019 upcoming roster decisions</a>.",
+        "outlet": "New York Times",
+        "source_url": "https://www.nytimes.com/athletic/7698077/2026/10/17/lakers-dalton-knecht-roster-spot/"
+      },
+      {
+        "date": "2026-10-17",
+        "text": "Knecht, like Redick, said he thinks he\u2019s a better basketball player today than when he was on that heater to start his pro career. \u201cI think I got better all-around. I think the game\u2019s kinda slowed down a little bit, easier for me to see different reads, going out there and making adjustments on the fly, what JJ tells us,\u201d Knecht said. \u201cI don\u2019t think anything has changed as a player.I still go out there, I still think I am the best player and best shooter when I step out on the court. \u201cSo nothing has really changed about that type of stuff.\u201dNew York Times",
+        "text_html": "Knecht, like Redick, said he thinks he\u2019s a better basketball player today than when he was on that heater to start his pro career. \u201cI think I got better all-around. I think the game\u2019s kinda slowed down a little bit, easier for me to see different reads, going out there and making adjustments on the fly, what JJ tells us,\u201d Knecht said. \u201cI don\u2019t think anything has changed as a player. <a href=\"https://www.nytimes.com/athletic/7698077/2026/10/17/lakers-dalton-knecht-roster-spot/\" target=\"_blank\" style=\"color: #1a73e8;\">I still go out there, I still think I am the best player and best shooter when I step out on the court. \u201cSo nothing has really changed about that type of stuff.\u201d</a>",
+        "outlet": "New York Times",
+        "source_url": "https://www.nytimes.com/athletic/7698077/2026/10/17/lakers-dalton-knecht-roster-spot/"
+      },
+      {
+        "date": "2026-10-16",
+        "text": "League sources say that theLakers and Bucks have held exploratory trade discussions on a framework that would ship former first-round selection Dalton Knecht to Milwaukee (along with second-round draft capital) in exchange for big man Jericho Sims.Yet it must be said that I've also heard some pessimism from sources briefed on those talks that such a trade will actually go through. The Lakers might be forced, if no deal materializes between now and Monday's deadline, to simply waive Knecht to get down to 15.marcstein.substack.com",
+        "text_html": "League sources say that the <a href=\"https://marcstein.substack.com/p/the-nbas-latest-late-night-intel\" target=\"_blank\" style=\"color: #1a73e8;\">Lakers and Bucks have held exploratory trade discussions on a framework that would ship former first-round selection Dalton Knecht to Milwaukee (along with second-round draft capital) in exchange for big man Jericho Sims.</a> Yet it must be said that I've also heard some pessimism from sources briefed on those talks that such a trade will actually go through. The Lakers might be forced, if no deal materializes between now and Monday's deadline, to simply waive Knecht to get down to 15.",
+        "outlet": "marcstein.substack.com",
+        "source_url": "https://marcstein.substack.com/p/the-nbas-latest-late-night-intel"
+      },
+      {
+        "date": "2026-10-06",
+        "text": "As things have taken a new, difficult turn for the Lakers' young forward, Green pointed to Knecht's representatives as the reason behind his struggles in LA.\"Dalton Knecht is not expected to make the Lakers' regular-season roster, as the team has 16 guaranteed contracts and can only carry 15. Apparently, Bronny James and Jaden Hardy have outplayed him in camp, making him the odd man out.It's crazy because Knecht seemed to have some promise, but after the trade that would have sent him to the Hornets and brought Mark Williams to the Lakers was voided, he has been in purgatory ever since,\" the Golden State Warriors star said on the latest episode of his The Draymond Green Show. \"Ultimately, I think it ruined him. I blame his agent because, the moment the trade fell through, the agent should have been working to get him out of LA.\"BasketNews",
+        "text_html": "As things have taken a new, difficult turn for the Lakers' young forward, Green pointed to Knecht's representatives as the reason behind his struggles in LA. <a href=\"https://basketnews.com/news-256735-draymond-green-names-who-is-to-blame-for-lakers-top-trade-candidate.html\" target=\"_blank\" style=\"color: #1a73e8;\">\"Dalton Knecht is not expected to make the Lakers' regular-season roster, as the team has 16 guaranteed contracts and can only carry 15. Apparently, Bronny James and Jaden Hardy have outplayed him in camp, making him the odd man out.</a> It's crazy because Knecht seemed to have some promise, but after the trade that would have sent him to the Hornets and brought Mark Williams to the Lakers was voided, he has been in purgatory ever since,\" the Golden State Warriors star said on the latest episode of his The Draymond Green Show. \"Ultimately, I think it ruined him. I blame his agent because, the moment the trade fell through, the agent should have been working to get him out of LA.\"",
+        "outlet": "BasketNews",
+        "source_url": "https://basketnews.com/news-256735-draymond-green-names-who-is-to-blame-for-lakers-top-trade-candidate.html"
+      },
+      {
+        "date": "2026-10-04",
+        "text": "Draymond Green: \"Dalton Knecht is not expected to make the Lakers' regular season roster. Lakers have 16 guaranteed contracts and going into the season you can only have 15 guaranteed contracts. Apparently, Bronny James and Jaden Hardy have been outplaying him in campand he's viewed as the odd man out. And it's crazy because Dalton Knecht seemed to like he had a little bit of promise to him, but after that trade that got voided by the Hornets to bring him in and send Mark Williams to the Lakers, the Lakers voided the trade because of Mark Williams' back. Dalton Knecht just been in purgatory ever since and ultimately I think it ruined him.\"YouTube",
+        "text_html": "<a href=\"https://www.youtube.com/watch?v=HCaWNSa0Cz8&t=1916s\" target=\"_blank\" style=\"color: #1a73e8;\">Draymond Green: \"Dalton Knecht is not expected to make the Lakers' regular season roster. Lakers have 16 guaranteed contracts and going into the season you can only have 15 guaranteed contracts. Apparently, Bronny James and Jaden Hardy have been outplaying him in camp</a> and he's viewed as the odd man out. And it's crazy because Dalton Knecht seemed to like he had a little bit of promise to him, but after that trade that got voided by the Hornets to bring him in and send Mark Williams to the Lakers, the Lakers voided the trade because of Mark Williams' back. Dalton Knecht just been in purgatory ever since and ultimately I think it ruined him.\"",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=HCaWNSa0Cz8&t=1916s"
+      }
+    ],
+    "Kyrie Irving": [
+      {
+        "date": "2026-10-17",
+        "text": "NBA Trade Machine:Michael Porter was part of 4.1% of the trades built on HoopsMatic over the past 24 hours. Of those trades, his top destinations were New Orleans (21.7%), Boston (13.0%), and LA Lakers (10.9%).The most common players sent back for him were Zion Williamson (17.4%), Luka Doncic (8.7%), and Kyrie Irving (8.7%).HoopsMatic",
+        "text_html": "NBA Trade Machine: <a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">Michael Porter was part of 4.1% of the trades built on HoopsMatic over the past 24 hours. Of those trades, his top destinations were New Orleans (21.7%), Boston (13.0%), and LA Lakers (10.9%).</a> The most common players sent back for him were Zion Williamson (17.4%), Luka Doncic (8.7%), and Kyrie Irving (8.7%).",
+        "outlet": "HoopsMatic",
+        "source_url": "https://hoopsmatic.com/"
+      },
+      {
+        "date": "2026-10-14",
+        "text": "NBA insider Jake Fischer is convinced Irving will be a key trade candidate for many teams before the deadline.\"I still believe that Kyrie Irving is someone we are going to talking about through the February 11th trade deadline as a trade target for rival teams,\" Fischer said on Bleacher Report. \"He just does not fit the timeline, he is almost a decade and a half older than Cooper Flagg. He himself is going into the end of a very lucrative contract where he\u2019s want to get paid.\"BasketNews",
+        "text_html": "NBA insider Jake Fischer is convinced Irving will be a key trade candidate for many teams before the deadline. <a href=\"https://basketnews.com/news-257295-nba-insider-drops-massive-verdict-on-kyrie-irving-trade-situation-for-dallas.html\" target=\"_blank\" style=\"color: #1a73e8;\">\"I still believe that Kyrie Irving is someone we are going to talking about through the February 11th trade deadline as a trade target for rival teams,\" Fischer said on Bleacher Report</a>. \"He just does not fit the timeline, he is almost a decade and a half older than Cooper Flagg. He himself is going into the end of a very lucrative contract where he\u2019s want to get paid.\"",
+        "outlet": "BasketNews",
+        "source_url": "https://basketnews.com/news-257295-nba-insider-drops-massive-verdict-on-kyrie-irving-trade-situation-for-dallas.html"
+      },
+      {
+        "date": "2026-10-12",
+        "text": "Ujiri has made it clear that the franchise is committed to keeping Irving with Flagg, who is 15 years younger than the star point guard.Rival front offices question whether Dallas can stick to that plan with roster holes elsewhere and the two stars on different career timelines. That is certainly a backdrop. But Flagg is now on stage, and he is giving off the vibes that he's ready. As they watch him do it every day, the rest of the Mavs feel it.ESPN",
+        "text_html": "Ujiri has made it clear that the franchise is committed to keeping Irving with Flagg, who is 15 years younger than the star point guard. <a href=\"https://www.espn.com/nba/story/_/id/50163354/cooper-flagg-kyrie-irving-mavericks-china\" target=\"_blank\" style=\"color: #1a73e8;\">Rival front offices question whether Dallas can stick to that plan with roster holes elsewhere and the two stars on different career timelines</a>. That is certainly a backdrop. But Flagg is now on stage, and he is giving off the vibes that he's ready. As they watch him do it every day, the rest of the Mavs feel it.",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/50163354/cooper-flagg-kyrie-irving-mavericks-china"
+      },
+      {
+        "date": "2026-10-12",
+        "text": "Tim MacMahon:\"There's a lot of intrigue around the league as far as whether the Mavericks will be willing to entertain trade discussions for Kyrie.It's not because the Mavericks don't love Kyrie, they absolutely do, but the charge from Masai is to build a sustainable contender around Cooper Flagg. Could a path forward, or at least part of a path forward, be capitalized on the value that Kyrie would have in the trade market?\"YouTube",
+        "text_html": "Tim MacMahon: <a href=\"https://www.youtube.com/watch?v=gz7dwlfP9uc&t=186s\" target=\"_blank\" style=\"color: #1a73e8;\">\"There's a lot of intrigue around the league as far as whether the Mavericks will be willing to entertain trade discussions for Kyrie.</a> It's not because the Mavericks don't love Kyrie, they absolutely do, but the charge from Masai is to build a sustainable contender around Cooper Flagg. Could a path forward, or at least part of a path forward, be capitalized on the value that Kyrie would have in the trade market?\"",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=gz7dwlfP9uc&t=186s"
+      },
+      {
+        "date": "2026-09-30",
+        "text": "Prominent NBA insider Jake Fischer believes the Miami Heat could be a potential landing spot for Irving this upcoming season, reporting that Miami has already shown interest in acquiring the Mavs' star guard. \"There's already been some rumblings of the Heat having interest in him,\" Fischer said on Bleacher Report.\"Miami with their point guard depth \u2013 are the early spots that people around the league are looking at as potential Kyrie Irving trade destinations.\"BasketNews",
+        "text_html": "Prominent NBA insider Jake Fischer believes the Miami Heat could be a potential landing spot for Irving this upcoming season, reporting that Miami has already shown interest in acquiring the Mavs' star guard. \"There's already been some rumblings of the Heat having interest in him,\" Fischer said on Bleacher Report. <a href=\"https://basketnews.com/news-256464-kyrie-irving-miami-heat-new-trade-suitor.html\" target=\"_blank\" style=\"color: #1a73e8;\">\"Miami with their point guard depth \u2013 are the early spots that people around the league are looking at as potential Kyrie Irving trade destinations.\"</a>",
+        "outlet": "BasketNews",
+        "source_url": "https://basketnews.com/news-256464-kyrie-irving-miami-heat-new-trade-suitor.html"
+      },
+      {
+        "date": "2026-09-27",
+        "text": "NBA Trade Machine:Zion Williamson appeared in 10.8% of trades built on HoopsMatic over the past 24 hours.Of his trades, his most common destinations were Sacramento (12.3%), Dallas (9.9%), and Houston (9.9%). The players traded for him most often were Kyrie Irving (7.4%), Alperen Sengun (7.4%), and Zach LaVine (6.2%).HoopsMatic",
+        "text_html": "NBA Trade Machine: <a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">Zion Williamson appeared in 10.8% of trades built on HoopsMatic over the past 24 hours.</a> Of his trades, his most common destinations were Sacramento (12.3%), Dallas (9.9%), and Houston (9.9%). The players traded for him most often were Kyrie Irving (7.4%), Alperen Sengun (7.4%), and Zach LaVine (6.2%).",
+        "outlet": "HoopsMatic",
+        "source_url": "https://hoopsmatic.com/"
+      },
+      {
+        "date": "2026-09-22",
+        "text": "Since their timelines are not in sync, MacMahon believes several teams will keep an eye on this situation. The league insider acknowledged on Monday's episode of \"NBA Today\" that Irving is still the team's veteran leader. However, that might not be the case for long. \"The question that's being asked around the league is 'for how long?'\" MacMahon said. \"How long is this fit with Kyrie and the Mavericks?\" MacMahon clarified that the reason is that Flagg is now the team's centerpiece, and not because Irving and the Mavericks no longer see eye to eye.\"Would it make sense for both sides to find a contender for Kyrie to go to?\" MacMahon continued. \"These are the kind of things that people around the league will be monitoring leading up to the trade deadline.\"Yahoo! Sports",
+        "text_html": "Since their timelines are not in sync, MacMahon believes several teams will keep an eye on this situation. The league insider acknowledged on Monday's episode of \"NBA Today\" that Irving is still the team's veteran leader. However, that might not be the case for long. \"The question that's being asked around the league is 'for how long?'\" MacMahon said. \"How long is this fit with Kyrie and the Mavericks?\" MacMahon clarified that the reason is that Flagg is now the team's centerpiece, and not because Irving and the Mavericks no longer see eye to eye. <a href=\"https://sports.yahoo.com/articles/people-around-league-monitoring-nba-210650862.html\" target=\"_blank\" style=\"color: #1a73e8;\">\"Would it make sense for both sides to find a contender for Kyrie to go to?\" MacMahon continued. \"These are the kind of things that people around the league will be monitoring leading up to the trade deadline.\"</a>",
+        "outlet": "Yahoo! Sports",
+        "source_url": "https://sports.yahoo.com/articles/people-around-league-monitoring-nba-210650862.html"
+      },
+      {
+        "date": "2026-09-22",
+        "text": "Spears later added that if they decided to move on from each other, it would be an amicable split. He highlighted the strong relationship between Irving and Mavericks president Masai Ujiri as the reason for this.\"Masai also has a really good relationship, with Kyrie Irving,\" Spears said. \"I think it's the kind of relationship where if Kyrie says, 'hey Masai, like this isn't for me,' I think they could work together to get something done.\"Yahoo! Sports",
+        "text_html": "Spears later added that if they decided to move on from each other, it would be an amicable split. He highlighted the strong relationship between Irving and Mavericks president Masai Ujiri as the reason for this. <a href=\"https://sports.yahoo.com/articles/people-around-league-monitoring-nba-210650862.html\" target=\"_blank\" style=\"color: #1a73e8;\">\"Masai also has a really good relationship, with Kyrie Irving,\" Spears said. \"I think it's the kind of relationship where if Kyrie says, 'hey Masai, like this isn't for me,' I think they could work together to get something done.\"</a>",
+        "outlet": "Yahoo! Sports",
+        "source_url": "https://sports.yahoo.com/articles/people-around-league-monitoring-nba-210650862.html"
+      }
+    ],
+    "Luka Doncic": [
+      {
+        "date": "2026-10-17",
+        "text": "NBA Trade Machine:Michael Porter was part of 4.1% of the trades built on HoopsMatic over the past 24 hours. Of those trades, his top destinations were New Orleans (21.7%), Boston (13.0%), and LA Lakers (10.9%).The most common players sent back for him were Zion Williamson (17.4%), Luka Doncic (8.7%), and Kyrie Irving (8.7%).HoopsMatic",
+        "text_html": "NBA Trade Machine: <a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">Michael Porter was part of 4.1% of the trades built on HoopsMatic over the past 24 hours. Of those trades, his top destinations were New Orleans (21.7%), Boston (13.0%), and LA Lakers (10.9%).</a> The most common players sent back for him were Zion Williamson (17.4%), Luka Doncic (8.7%), and Kyrie Irving (8.7%).",
+        "outlet": "HoopsMatic",
+        "source_url": "https://hoopsmatic.com/"
+      },
+      {
+        "date": "2026-09-28",
+        "text": "On HoopsMatic over the past 24 hours, De'Aaron Fox showed up in 7.8% of all trades built.Among those, he was most often sent to Golden State (12.5%), LA Lakers (12.5%), and Utah (10.2%), and the return pieces that came up most often were Jimmy Butler (13.6%), Luka Doncic (12.5%), and Jaren Jackson Jr (8.0%).HoopsMatic",
+        "text_html": "<a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">On HoopsMatic over the past 24 hours, De'Aaron Fox showed up in 7.8% of all trades built.</a> Among those, he was most often sent to Golden State (12.5%), LA Lakers (12.5%), and Utah (10.2%), and the return pieces that came up most often were Jimmy Butler (13.6%), Luka Doncic (12.5%), and Jaren Jackson Jr (8.0%).",
+        "outlet": "HoopsMatic",
+        "source_url": "https://hoopsmatic.com/"
+      },
+      {
+        "date": "2026-09-26",
+        "text": "While the volume includes archival photos and stories from across the franchise\u2019s past, the Slovenian superstar\u2019s contribution quickly went viral online after excerpts were shared in an Instagram post by jdeez. Luka Doncic offers a candid look into his mindset since joining the Lakers in February 2025 following an unexpected blockbuster trade from the Dallas Mavericks. In the text, he admits that wearing purple and gold still feels surreal. However, he sets a clear standard for his time in Los Angeles, writing that he simply won\u2019t rest until securing more banners.\u201cI\u2019m not sure that I ever could have imagined being here,\u201d he wrote. \u201cIt\u2019s a wonderful surprise and it feels amazing and now I desperately want what all Lakers want: To win it all.\u201dTracing his path from Slovenia and Real Madrid to the NBA, he also remembered when Lakers governor Jeanie Buss invited him into her office and made it clear that he has the opportunity to build a unique legacy. The interaction reinforced his belief that his move to Los Angeles is more than just a change of teams. \u201cThis is a city that is used to winning and winning big. I am so honored and grateful that I get the chance now to write my own championship chapters,\u201d added the 27-year-old playmaker.EuroHoops.net",
+        "text_html": "While the volume includes archival photos and stories from across the franchise\u2019s past, the Slovenian superstar\u2019s contribution quickly went viral online after excerpts were shared in an Instagram post by jdeez. Luka Doncic offers a candid look into his mindset since joining the Lakers in February 2025 following an unexpected blockbuster trade from the Dallas Mavericks. In the text, he admits that wearing purple and gold still feels surreal. However, he sets a clear standard for his time in Los Angeles, writing that he simply won\u2019t rest until securing more banners. <a href=\"https://www.eurohoops.net/en/nba-news/2011503/luka-doncic-talks-los-angeles-lakers-nba-2/\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cI\u2019m not sure that I ever could have imagined being here,\u201d he wrote. \u201cIt\u2019s a wonderful surprise and it feels amazing and now I desperately want what all Lakers want: To win it all.\u201d</a> Tracing his path from Slovenia and Real Madrid to the NBA, he also remembered when Lakers governor Jeanie Buss invited him into her office and made it clear that he has the opportunity to build a unique legacy. The interaction reinforced his belief that his move to Los Angeles is more than just a change of teams. \u201cThis is a city that is used to winning and winning big. I am so honored and grateful that I get the chance now to write my own championship chapters,\u201d added the 27-year-old playmaker.",
+        "outlet": "EuroHoops.net",
+        "source_url": "https://www.eurohoops.net/en/nba-news/2011503/luka-doncic-talks-los-angeles-lakers-nba-2/"
+      }
+    ],
+    "Michael Porter": [
+      {
+        "date": "2026-10-17",
+        "text": "NBA Trade Machine:Michael Porter was part of 4.1% of the trades built on HoopsMatic over the past 24 hours. Of those trades, his top destinations were New Orleans (21.7%), Boston (13.0%), and LA Lakers (10.9%).The most common players sent back for him were Zion Williamson (17.4%), Luka Doncic (8.7%), and Kyrie Irving (8.7%).HoopsMatic",
+        "text_html": "NBA Trade Machine: <a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">Michael Porter was part of 4.1% of the trades built on HoopsMatic over the past 24 hours. Of those trades, his top destinations were New Orleans (21.7%), Boston (13.0%), and LA Lakers (10.9%).</a> The most common players sent back for him were Zion Williamson (17.4%), Luka Doncic (8.7%), and Kyrie Irving (8.7%).",
+        "outlet": "HoopsMatic",
+        "source_url": "https://hoopsmatic.com/"
+      }
+    ],
+    "Zion Williamson": [
+      {
+        "date": "2026-10-17",
+        "text": "NBA Trade Machine:Michael Porter was part of 4.1% of the trades built on HoopsMatic over the past 24 hours. Of those trades, his top destinations were New Orleans (21.7%), Boston (13.0%), and LA Lakers (10.9%).The most common players sent back for him were Zion Williamson (17.4%), Luka Doncic (8.7%), and Kyrie Irving (8.7%).HoopsMatic",
+        "text_html": "NBA Trade Machine: <a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">Michael Porter was part of 4.1% of the trades built on HoopsMatic over the past 24 hours. Of those trades, his top destinations were New Orleans (21.7%), Boston (13.0%), and LA Lakers (10.9%).</a> The most common players sent back for him were Zion Williamson (17.4%), Luka Doncic (8.7%), and Kyrie Irving (8.7%).",
+        "outlet": "HoopsMatic",
+        "source_url": "https://hoopsmatic.com/"
+      },
+      {
+        "date": "2026-09-27",
+        "text": "NBA Trade Machine:Zion Williamson appeared in 10.8% of trades built on HoopsMatic over the past 24 hours.Of his trades, his most common destinations were Sacramento (12.3%), Dallas (9.9%), and Houston (9.9%). The players traded for him most often were Kyrie Irving (7.4%), Alperen Sengun (7.4%), and Zach LaVine (6.2%).HoopsMatic",
+        "text_html": "NBA Trade Machine: <a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">Zion Williamson appeared in 10.8% of trades built on HoopsMatic over the past 24 hours.</a> Of his trades, his most common destinations were Sacramento (12.3%), Dallas (9.9%), and Houston (9.9%). The players traded for him most often were Kyrie Irving (7.4%), Alperen Sengun (7.4%), and Zach LaVine (6.2%).",
         "outlet": "HoopsMatic",
         "source_url": "https://hoopsmatic.com/"
       }
@@ -1262,29 +1445,6 @@
         "source_url": "https://marcstein.substack.com/p/the-nbas-latest-late-night-intel"
       }
     ],
-    "Dalton Knecht": [
-      {
-        "date": "2026-10-16",
-        "text": "League sources say that theLakers and Bucks have held exploratory trade discussions on a framework that would ship former first-round selection Dalton Knecht to Milwaukee (along with second-round draft capital) in exchange for big man Jericho Sims.Yet it must be said that I've also heard some pessimism from sources briefed on those talks that such a trade will actually go through. The Lakers might be forced, if no deal materializes between now and Monday's deadline, to simply waive Knecht to get down to 15.marcstein.substack.com",
-        "text_html": "League sources say that the <a href=\"https://marcstein.substack.com/p/the-nbas-latest-late-night-intel\" target=\"_blank\" style=\"color: #1a73e8;\">Lakers and Bucks have held exploratory trade discussions on a framework that would ship former first-round selection Dalton Knecht to Milwaukee (along with second-round draft capital) in exchange for big man Jericho Sims.</a> Yet it must be said that I've also heard some pessimism from sources briefed on those talks that such a trade will actually go through. The Lakers might be forced, if no deal materializes between now and Monday's deadline, to simply waive Knecht to get down to 15.",
-        "outlet": "marcstein.substack.com",
-        "source_url": "https://marcstein.substack.com/p/the-nbas-latest-late-night-intel"
-      },
-      {
-        "date": "2026-10-06",
-        "text": "As things have taken a new, difficult turn for the Lakers' young forward, Green pointed to Knecht's representatives as the reason behind his struggles in LA.\"Dalton Knecht is not expected to make the Lakers' regular-season roster, as the team has 16 guaranteed contracts and can only carry 15. Apparently, Bronny James and Jaden Hardy have outplayed him in camp, making him the odd man out.It's crazy because Knecht seemed to have some promise, but after the trade that would have sent him to the Hornets and brought Mark Williams to the Lakers was voided, he has been in purgatory ever since,\" the Golden State Warriors star said on the latest episode of his The Draymond Green Show. \"Ultimately, I think it ruined him. I blame his agent because, the moment the trade fell through, the agent should have been working to get him out of LA.\"BasketNews",
-        "text_html": "As things have taken a new, difficult turn for the Lakers' young forward, Green pointed to Knecht's representatives as the reason behind his struggles in LA. <a href=\"https://basketnews.com/news-256735-draymond-green-names-who-is-to-blame-for-lakers-top-trade-candidate.html\" target=\"_blank\" style=\"color: #1a73e8;\">\"Dalton Knecht is not expected to make the Lakers' regular-season roster, as the team has 16 guaranteed contracts and can only carry 15. Apparently, Bronny James and Jaden Hardy have outplayed him in camp, making him the odd man out.</a> It's crazy because Knecht seemed to have some promise, but after the trade that would have sent him to the Hornets and brought Mark Williams to the Lakers was voided, he has been in purgatory ever since,\" the Golden State Warriors star said on the latest episode of his The Draymond Green Show. \"Ultimately, I think it ruined him. I blame his agent because, the moment the trade fell through, the agent should have been working to get him out of LA.\"",
-        "outlet": "BasketNews",
-        "source_url": "https://basketnews.com/news-256735-draymond-green-names-who-is-to-blame-for-lakers-top-trade-candidate.html"
-      },
-      {
-        "date": "2026-10-04",
-        "text": "Draymond Green: \"Dalton Knecht is not expected to make the Lakers' regular season roster. Lakers have 16 guaranteed contracts and going into the season you can only have 15 guaranteed contracts. Apparently, Bronny James and Jaden Hardy have been outplaying him in campand he's viewed as the odd man out. And it's crazy because Dalton Knecht seemed to like he had a little bit of promise to him, but after that trade that got voided by the Hornets to bring him in and send Mark Williams to the Lakers, the Lakers voided the trade because of Mark Williams' back. Dalton Knecht just been in purgatory ever since and ultimately I think it ruined him.\"YouTube",
-        "text_html": "<a href=\"https://www.youtube.com/watch?v=HCaWNSa0Cz8&t=1916s\" target=\"_blank\" style=\"color: #1a73e8;\">Draymond Green: \"Dalton Knecht is not expected to make the Lakers' regular season roster. Lakers have 16 guaranteed contracts and going into the season you can only have 15 guaranteed contracts. Apparently, Bronny James and Jaden Hardy have been outplaying him in camp</a> and he's viewed as the odd man out. And it's crazy because Dalton Knecht seemed to like he had a little bit of promise to him, but after that trade that got voided by the Hornets to bring him in and send Mark Williams to the Lakers, the Lakers voided the trade because of Mark Williams' back. Dalton Knecht just been in purgatory ever since and ultimately I think it ruined him.\"",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=HCaWNSa0Cz8&t=1916s"
-      }
-    ],
     "Tidjane Salaun": [
       {
         "date": "2026-10-16",
@@ -1387,57 +1547,6 @@
         "text_html": "NBABase: Julius Randle was \"one of the culprits\" behind Minnesota\u2019s moody locker room last season, per @JonKrawczynski \u201cEveryone immediately looks at Julius Randle and he is certainly one of the culprits... They could be every once in a while... Julius certainly was a part of that when his name got brought up in the Giannis Antetokounmpo trade talks. He didn't really like that at all and he wears his heart on his sleeve, so you could see that.\u201d \u201cBut <a href=\"https://x.com/TheNBABase/status/2110343515117084975\" target=\"_blank\" style=\"color: #1a73e8;\">Naz Reid could get moody, Jaden McDaniels could get moody. Like, there's a lot of quiet, brooding personalities that were in the locker room last year. You bring LaMelo Ball in here and he's much more upbeat and energetic, so there's definitely been a vibe shift.\u201d</a> (Via @bballilluminati)",
         "outlet": "x.com",
         "source_url": "https://x.com/TheNBABase/status/2110343515117084975"
-      }
-    ],
-    "Kyrie Irving": [
-      {
-        "date": "2026-10-14",
-        "text": "NBA insider Jake Fischer is convinced Irving will be a key trade candidate for many teams before the deadline.\"I still believe that Kyrie Irving is someone we are going to talking about through the February 11th trade deadline as a trade target for rival teams,\" Fischer said on Bleacher Report. \"He just does not fit the timeline, he is almost a decade and a half older than Cooper Flagg. He himself is going into the end of a very lucrative contract where he\u2019s want to get paid.\"BasketNews",
-        "text_html": "NBA insider Jake Fischer is convinced Irving will be a key trade candidate for many teams before the deadline. <a href=\"https://basketnews.com/news-257295-nba-insider-drops-massive-verdict-on-kyrie-irving-trade-situation-for-dallas.html\" target=\"_blank\" style=\"color: #1a73e8;\">\"I still believe that Kyrie Irving is someone we are going to talking about through the February 11th trade deadline as a trade target for rival teams,\" Fischer said on Bleacher Report</a>. \"He just does not fit the timeline, he is almost a decade and a half older than Cooper Flagg. He himself is going into the end of a very lucrative contract where he\u2019s want to get paid.\"",
-        "outlet": "BasketNews",
-        "source_url": "https://basketnews.com/news-257295-nba-insider-drops-massive-verdict-on-kyrie-irving-trade-situation-for-dallas.html"
-      },
-      {
-        "date": "2026-10-12",
-        "text": "Ujiri has made it clear that the franchise is committed to keeping Irving with Flagg, who is 15 years younger than the star point guard.Rival front offices question whether Dallas can stick to that plan with roster holes elsewhere and the two stars on different career timelines. That is certainly a backdrop. But Flagg is now on stage, and he is giving off the vibes that he's ready. As they watch him do it every day, the rest of the Mavs feel it.ESPN",
-        "text_html": "Ujiri has made it clear that the franchise is committed to keeping Irving with Flagg, who is 15 years younger than the star point guard. <a href=\"https://www.espn.com/nba/story/_/id/50163354/cooper-flagg-kyrie-irving-mavericks-china\" target=\"_blank\" style=\"color: #1a73e8;\">Rival front offices question whether Dallas can stick to that plan with roster holes elsewhere and the two stars on different career timelines</a>. That is certainly a backdrop. But Flagg is now on stage, and he is giving off the vibes that he's ready. As they watch him do it every day, the rest of the Mavs feel it.",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/50163354/cooper-flagg-kyrie-irving-mavericks-china"
-      },
-      {
-        "date": "2026-10-12",
-        "text": "Tim MacMahon:\"There's a lot of intrigue around the league as far as whether the Mavericks will be willing to entertain trade discussions for Kyrie.It's not because the Mavericks don't love Kyrie, they absolutely do, but the charge from Masai is to build a sustainable contender around Cooper Flagg. Could a path forward, or at least part of a path forward, be capitalized on the value that Kyrie would have in the trade market?\"YouTube",
-        "text_html": "Tim MacMahon: <a href=\"https://www.youtube.com/watch?v=gz7dwlfP9uc&t=186s\" target=\"_blank\" style=\"color: #1a73e8;\">\"There's a lot of intrigue around the league as far as whether the Mavericks will be willing to entertain trade discussions for Kyrie.</a> It's not because the Mavericks don't love Kyrie, they absolutely do, but the charge from Masai is to build a sustainable contender around Cooper Flagg. Could a path forward, or at least part of a path forward, be capitalized on the value that Kyrie would have in the trade market?\"",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=gz7dwlfP9uc&t=186s"
-      },
-      {
-        "date": "2026-09-30",
-        "text": "Prominent NBA insider Jake Fischer believes the Miami Heat could be a potential landing spot for Irving this upcoming season, reporting that Miami has already shown interest in acquiring the Mavs' star guard. \"There's already been some rumblings of the Heat having interest in him,\" Fischer said on Bleacher Report.\"Miami with their point guard depth \u2013 are the early spots that people around the league are looking at as potential Kyrie Irving trade destinations.\"BasketNews",
-        "text_html": "Prominent NBA insider Jake Fischer believes the Miami Heat could be a potential landing spot for Irving this upcoming season, reporting that Miami has already shown interest in acquiring the Mavs' star guard. \"There's already been some rumblings of the Heat having interest in him,\" Fischer said on Bleacher Report. <a href=\"https://basketnews.com/news-256464-kyrie-irving-miami-heat-new-trade-suitor.html\" target=\"_blank\" style=\"color: #1a73e8;\">\"Miami with their point guard depth \u2013 are the early spots that people around the league are looking at as potential Kyrie Irving trade destinations.\"</a>",
-        "outlet": "BasketNews",
-        "source_url": "https://basketnews.com/news-256464-kyrie-irving-miami-heat-new-trade-suitor.html"
-      },
-      {
-        "date": "2026-09-27",
-        "text": "NBA Trade Machine:Zion Williamson appeared in 10.8% of trades built on HoopsMatic over the past 24 hours.Of his trades, his most common destinations were Sacramento (12.3%), Dallas (9.9%), and Houston (9.9%). The players traded for him most often were Kyrie Irving (7.4%), Alperen Sengun (7.4%), and Zach LaVine (6.2%).HoopsMatic",
-        "text_html": "NBA Trade Machine: <a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">Zion Williamson appeared in 10.8% of trades built on HoopsMatic over the past 24 hours.</a> Of his trades, his most common destinations were Sacramento (12.3%), Dallas (9.9%), and Houston (9.9%). The players traded for him most often were Kyrie Irving (7.4%), Alperen Sengun (7.4%), and Zach LaVine (6.2%).",
-        "outlet": "HoopsMatic",
-        "source_url": "https://hoopsmatic.com/"
-      },
-      {
-        "date": "2026-09-22",
-        "text": "Since their timelines are not in sync, MacMahon believes several teams will keep an eye on this situation. The league insider acknowledged on Monday's episode of \"NBA Today\" that Irving is still the team's veteran leader. However, that might not be the case for long. \"The question that's being asked around the league is 'for how long?'\" MacMahon said. \"How long is this fit with Kyrie and the Mavericks?\" MacMahon clarified that the reason is that Flagg is now the team's centerpiece, and not because Irving and the Mavericks no longer see eye to eye.\"Would it make sense for both sides to find a contender for Kyrie to go to?\" MacMahon continued. \"These are the kind of things that people around the league will be monitoring leading up to the trade deadline.\"Yahoo! Sports",
-        "text_html": "Since their timelines are not in sync, MacMahon believes several teams will keep an eye on this situation. The league insider acknowledged on Monday's episode of \"NBA Today\" that Irving is still the team's veteran leader. However, that might not be the case for long. \"The question that's being asked around the league is 'for how long?'\" MacMahon said. \"How long is this fit with Kyrie and the Mavericks?\" MacMahon clarified that the reason is that Flagg is now the team's centerpiece, and not because Irving and the Mavericks no longer see eye to eye. <a href=\"https://sports.yahoo.com/articles/people-around-league-monitoring-nba-210650862.html\" target=\"_blank\" style=\"color: #1a73e8;\">\"Would it make sense for both sides to find a contender for Kyrie to go to?\" MacMahon continued. \"These are the kind of things that people around the league will be monitoring leading up to the trade deadline.\"</a>",
-        "outlet": "Yahoo! Sports",
-        "source_url": "https://sports.yahoo.com/articles/people-around-league-monitoring-nba-210650862.html"
-      },
-      {
-        "date": "2026-09-22",
-        "text": "Spears later added that if they decided to move on from each other, it would be an amicable split. He highlighted the strong relationship between Irving and Mavericks president Masai Ujiri as the reason for this.\"Masai also has a really good relationship, with Kyrie Irving,\" Spears said. \"I think it's the kind of relationship where if Kyrie says, 'hey Masai, like this isn't for me,' I think they could work together to get something done.\"Yahoo! Sports",
-        "text_html": "Spears later added that if they decided to move on from each other, it would be an amicable split. He highlighted the strong relationship between Irving and Mavericks president Masai Ujiri as the reason for this. <a href=\"https://sports.yahoo.com/articles/people-around-league-monitoring-nba-210650862.html\" target=\"_blank\" style=\"color: #1a73e8;\">\"Masai also has a really good relationship, with Kyrie Irving,\" Spears said. \"I think it's the kind of relationship where if Kyrie says, 'hey Masai, like this isn't for me,' I think they could work together to get something done.\"</a>",
-        "outlet": "Yahoo! Sports",
-        "source_url": "https://sports.yahoo.com/articles/people-around-league-monitoring-nba-210650862.html"
       }
     ],
     "James Harden": [
@@ -2011,22 +2120,6 @@
         "source_url": "https://bsky.app/profile/highkin.bsky.social/post/3mwlwsfabil2l"
       }
     ],
-    "Luka Doncic": [
-      {
-        "date": "2026-09-28",
-        "text": "On HoopsMatic over the past 24 hours, De'Aaron Fox showed up in 7.8% of all trades built.Among those, he was most often sent to Golden State (12.5%), LA Lakers (12.5%), and Utah (10.2%), and the return pieces that came up most often were Jimmy Butler (13.6%), Luka Doncic (12.5%), and Jaren Jackson Jr (8.0%).HoopsMatic",
-        "text_html": "<a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">On HoopsMatic over the past 24 hours, De'Aaron Fox showed up in 7.8% of all trades built.</a> Among those, he was most often sent to Golden State (12.5%), LA Lakers (12.5%), and Utah (10.2%), and the return pieces that came up most often were Jimmy Butler (13.6%), Luka Doncic (12.5%), and Jaren Jackson Jr (8.0%).",
-        "outlet": "HoopsMatic",
-        "source_url": "https://hoopsmatic.com/"
-      },
-      {
-        "date": "2026-09-26",
-        "text": "While the volume includes archival photos and stories from across the franchise\u2019s past, the Slovenian superstar\u2019s contribution quickly went viral online after excerpts were shared in an Instagram post by jdeez. Luka Doncic offers a candid look into his mindset since joining the Lakers in February 2025 following an unexpected blockbuster trade from the Dallas Mavericks. In the text, he admits that wearing purple and gold still feels surreal. However, he sets a clear standard for his time in Los Angeles, writing that he simply won\u2019t rest until securing more banners.\u201cI\u2019m not sure that I ever could have imagined being here,\u201d he wrote. \u201cIt\u2019s a wonderful surprise and it feels amazing and now I desperately want what all Lakers want: To win it all.\u201dTracing his path from Slovenia and Real Madrid to the NBA, he also remembered when Lakers governor Jeanie Buss invited him into her office and made it clear that he has the opportunity to build a unique legacy. The interaction reinforced his belief that his move to Los Angeles is more than just a change of teams. \u201cThis is a city that is used to winning and winning big. I am so honored and grateful that I get the chance now to write my own championship chapters,\u201d added the 27-year-old playmaker.EuroHoops.net",
-        "text_html": "While the volume includes archival photos and stories from across the franchise\u2019s past, the Slovenian superstar\u2019s contribution quickly went viral online after excerpts were shared in an Instagram post by jdeez. Luka Doncic offers a candid look into his mindset since joining the Lakers in February 2025 following an unexpected blockbuster trade from the Dallas Mavericks. In the text, he admits that wearing purple and gold still feels surreal. However, he sets a clear standard for his time in Los Angeles, writing that he simply won\u2019t rest until securing more banners. <a href=\"https://www.eurohoops.net/en/nba-news/2011503/luka-doncic-talks-los-angeles-lakers-nba-2/\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cI\u2019m not sure that I ever could have imagined being here,\u201d he wrote. \u201cIt\u2019s a wonderful surprise and it feels amazing and now I desperately want what all Lakers want: To win it all.\u201d</a> Tracing his path from Slovenia and Real Madrid to the NBA, he also remembered when Lakers governor Jeanie Buss invited him into her office and made it clear that he has the opportunity to build a unique legacy. The interaction reinforced his belief that his move to Los Angeles is more than just a change of teams. \u201cThis is a city that is used to winning and winning big. I am so honored and grateful that I get the chance now to write my own championship chapters,\u201d added the 27-year-old playmaker.",
-        "outlet": "EuroHoops.net",
-        "source_url": "https://www.eurohoops.net/en/nba-news/2011503/luka-doncic-talks-los-angeles-lakers-nba-2/"
-      }
-    ],
     "Jaren Jackson Jr": [
       {
         "date": "2026-09-28",
@@ -2037,15 +2130,6 @@
       }
     ],
     "Zach LaVine": [
-      {
-        "date": "2026-09-27",
-        "text": "NBA Trade Machine:Zion Williamson appeared in 10.8% of trades built on HoopsMatic over the past 24 hours.Of his trades, his most common destinations were Sacramento (12.3%), Dallas (9.9%), and Houston (9.9%). The players traded for him most often were Kyrie Irving (7.4%), Alperen Sengun (7.4%), and Zach LaVine (6.2%).HoopsMatic",
-        "text_html": "NBA Trade Machine: <a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">Zion Williamson appeared in 10.8% of trades built on HoopsMatic over the past 24 hours.</a> Of his trades, his most common destinations were Sacramento (12.3%), Dallas (9.9%), and Houston (9.9%). The players traded for him most often were Kyrie Irving (7.4%), Alperen Sengun (7.4%), and Zach LaVine (6.2%).",
-        "outlet": "HoopsMatic",
-        "source_url": "https://hoopsmatic.com/"
-      }
-    ],
-    "Zion Williamson": [
       {
         "date": "2026-09-27",
         "text": "NBA Trade Machine:Zion Williamson appeared in 10.8% of trades built on HoopsMatic over the past 24 hours.Of his trades, his most common destinations were Sacramento (12.3%), Dallas (9.9%), and Houston (9.9%). The players traded for him most often were Kyrie Irving (7.4%), Alperen Sengun (7.4%), and Zach LaVine (6.2%).HoopsMatic",
@@ -2363,9 +2447,39 @@
   },
   "daily_counts": {
     "Jimmy Butler": {
+      "2026-10-17": 1,
       "2026-10-16": 2,
       "2026-09-28": 1,
       "2026-09-22": 1
+    },
+    "Kristaps Porzingis": {
+      "2026-10-17": 1
+    },
+    "Dalton Knecht": {
+      "2026-10-17": 2,
+      "2026-10-16": 1,
+      "2026-10-06": 1,
+      "2026-10-04": 1
+    },
+    "Kyrie Irving": {
+      "2026-10-17": 1,
+      "2026-10-14": 1,
+      "2026-10-12": 2,
+      "2026-09-30": 1,
+      "2026-09-27": 1,
+      "2026-09-22": 2
+    },
+    "Luka Doncic": {
+      "2026-10-17": 1,
+      "2026-09-28": 1,
+      "2026-09-26": 1
+    },
+    "Michael Porter": {
+      "2026-10-17": 1
+    },
+    "Zion Williamson": {
+      "2026-10-17": 1,
+      "2026-09-27": 1
     },
     "Anthony Davis": {
       "2026-10-16": 1,
@@ -2402,11 +2516,6 @@
     "Jericho Sims": {
       "2026-10-16": 1
     },
-    "Dalton Knecht": {
-      "2026-10-16": 1,
-      "2026-10-06": 1,
-      "2026-10-04": 1
-    },
     "Tidjane Salaun": {
       "2026-10-16": 1
     },
@@ -2438,13 +2547,6 @@
     },
     "Jaden McDaniels": {
       "2026-10-14": 1
-    },
-    "Kyrie Irving": {
-      "2026-10-14": 1,
-      "2026-10-12": 2,
-      "2026-09-30": 1,
-      "2026-09-27": 1,
-      "2026-09-22": 2
     },
     "James Harden": {
       "2026-10-13": 1
@@ -2599,17 +2701,10 @@
     "Jrue Holiday": {
       "2026-09-28": 1
     },
-    "Luka Doncic": {
-      "2026-09-28": 1,
-      "2026-09-26": 1
-    },
     "Jaren Jackson Jr": {
       "2026-09-28": 1
     },
     "Zach LaVine": {
-      "2026-09-27": 1
-    },
-    "Zion Williamson": {
       "2026-09-27": 1
     },
     "Alperen Sengun": {
