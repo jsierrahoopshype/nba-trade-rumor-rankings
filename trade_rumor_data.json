@@ -1,11 +1,23 @@
 {
-  "generated_at": "2026-10-20T17:35:21.445546",
+  "generated_at": "2026-10-20T22:08:01.129880",
   "scrape_window_days": 28,
   "window_start": "2026-09-22",
   "window_end": "2026-10-20",
-  "total_rumors": 170,
+  "total_rumors": 171,
   "total_players": 92,
   "rankings": [
+    {
+      "player": "Walter Clayton",
+      "score": 5.0,
+      "mentions_week1": 5,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 5,
+      "first_mention": "2026-10-16",
+      "last_mention": "2026-10-20",
+      "team": "Dallas Mavericks",
+      "rank": 1
+    },
     {
       "player": "Dalton Knecht",
       "score": 4.75,
@@ -16,7 +28,7 @@
       "first_mention": "2026-10-04",
       "last_mention": "2026-10-19",
       "team": "Los Angeles Lakers",
-      "rank": 1
+      "rank": 2
     },
     {
       "player": "Kyrie Irving",
@@ -28,18 +40,6 @@
       "first_mention": "2026-09-22",
       "last_mention": "2026-10-17",
       "team": "Dallas Mavericks",
-      "rank": 2
-    },
-    {
-      "player": "Walter Clayton",
-      "score": 4.0,
-      "mentions_week1": 4,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 4,
-      "first_mention": "2026-10-16",
-      "last_mention": "2026-10-19",
-      "team": "Los Angeles Lakers",
       "rank": 3
     },
     {
@@ -1112,6 +1112,43 @@
     }
   ],
   "player_rumors": {
+    "Walter Clayton": [
+      {
+        "date": "2026-10-20",
+        "text": "Marc Stein:The Kings also covet Walter Clayton Jr. after pursuing him via trade over the weekend, but league sources say it is understood now is that the former No. 18 overall pick is likely to land in Dallas if he clears waivers.x.com",
+        "text_html": "Marc Stein: <a href=\"https://x.com/TheSteinLine/status/2112618848822423923?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">The Kings also covet Walter Clayton Jr. after pursuing him via trade over the weekend, but league sources say it is understood now is that the former No. 18 overall pick is likely to land in Dallas if he clears waivers</a>.",
+        "outlet": "x.com",
+        "source_url": "https://x.com/TheSteinLine/status/2112618848822423923?s=20"
+      },
+      {
+        "date": "2026-10-19",
+        "text": "Marc Stein: TheBucks, Grizzlies and Lakers all pursued trades in recent days in hopes of resolving their roster crunches but couldn't find palatable matches ... leading to Kevin Porter Jr., Walter Clayton Jr. and Dalton Knecht all being waived to beat the 5 PM ET roster cutdown deadline.x.com",
+        "text_html": "Marc Stein: The <a href=\"https://x.com/TheSteinLine/status/2112288052236493071\" target=\"_blank\" style=\"color: #1a73e8;\">Bucks, Grizzlies and Lakers all pursued trades in recent days in hopes of resolving their roster crunches but couldn't find palatable matches ... leading to Kevin Porter Jr., Walter Clayton Jr. and Dalton Knecht all being waived to beat the 5 PM ET roster cutdown deadline</a>.",
+        "outlet": "x.com",
+        "source_url": "https://x.com/TheSteinLine/status/2112288052236493071"
+      },
+      {
+        "date": "2026-10-19",
+        "text": "Marc Stein:The Grizzlies are actively trying to find a new home via trade for Walter Clayton Jr. before today's 5 PM ET roster cutdown deadline,league sources tell @JakeLFischer and me, with Sacramento emerging as a possible destination.x.com",
+        "text_html": "Marc Stein: <a href=\"https://x.com/TheSteinLine/status/2112212426967994640\" target=\"_blank\" style=\"color: #1a73e8;\">The Grizzlies are actively trying to find a new home via trade for Walter Clayton Jr. before today's 5 PM ET roster cutdown deadline,</a> league sources tell @JakeLFischer and me, with Sacramento emerging as a possible destination.",
+        "outlet": "x.com",
+        "source_url": "https://x.com/TheSteinLine/status/2112212426967994640"
+      },
+      {
+        "date": "2026-10-19",
+        "text": "Jake Fischer:The Kings are considering point guard reinforcements, sources say, after the sudden loss of Ben Simmons to a season-ending Achilles tear during practice on Sunday.x.com",
+        "text_html": "Jake Fischer: <a href=\"https://x.com/JakeLFischer/status/2112213039852536097?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">The Kings are considering point guard reinforcements, sources say, after the sudden loss of Ben Simmons to a season-ending Achilles tear during practice on Sunday</a>.",
+        "outlet": "x.com",
+        "source_url": "https://x.com/JakeLFischer/status/2112213039852536097?s=20"
+      },
+      {
+        "date": "2026-10-16",
+        "text": "I'm told, however, that theGrizzlies have been exploring potential trade markets for GG Jackson II and Walter Clayton Jr.Which is quite a turn from Memphis' original stance on Clayton.marcstein.substack.com",
+        "text_html": "I'm told, however, that the <a href=\"https://marcstein.substack.com/p/the-nbas-latest-late-night-intel\" target=\"_blank\" style=\"color: #1a73e8;\">Grizzlies have been exploring potential trade markets for GG Jackson II and Walter Clayton Jr.</a> Which is quite a turn from Memphis' original stance on Clayton.",
+        "outlet": "marcstein.substack.com",
+        "source_url": "https://marcstein.substack.com/p/the-nbas-latest-late-night-intel"
+      }
+    ],
     "Jalen Brunson": [
       {
         "date": "2026-10-20",
@@ -1167,36 +1204,6 @@
         "text_html": "Jake Fischer: <a href=\"https://x.com/JakeLFischer/status/2112217739222028546?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">Another name I've heard the Kings have called about acquiring before today's roster cut-down deadline: Milwaukee guard Kevin Porter Jr</a>.",
         "outlet": "x.com",
         "source_url": "https://x.com/JakeLFischer/status/2112217739222028546?s=20"
-      }
-    ],
-    "Walter Clayton": [
-      {
-        "date": "2026-10-19",
-        "text": "Marc Stein: TheBucks, Grizzlies and Lakers all pursued trades in recent days in hopes of resolving their roster crunches but couldn't find palatable matches ... leading to Kevin Porter Jr., Walter Clayton Jr. and Dalton Knecht all being waived to beat the 5 PM ET roster cutdown deadline.x.com",
-        "text_html": "Marc Stein: The <a href=\"https://x.com/TheSteinLine/status/2112288052236493071\" target=\"_blank\" style=\"color: #1a73e8;\">Bucks, Grizzlies and Lakers all pursued trades in recent days in hopes of resolving their roster crunches but couldn't find palatable matches ... leading to Kevin Porter Jr., Walter Clayton Jr. and Dalton Knecht all being waived to beat the 5 PM ET roster cutdown deadline</a>.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/TheSteinLine/status/2112288052236493071"
-      },
-      {
-        "date": "2026-10-19",
-        "text": "Marc Stein:The Grizzlies are actively trying to find a new home via trade for Walter Clayton Jr. before today's 5 PM ET roster cutdown deadline,league sources tell @JakeLFischer and me, with Sacramento emerging as a possible destination.x.com",
-        "text_html": "Marc Stein: <a href=\"https://x.com/TheSteinLine/status/2112212426967994640\" target=\"_blank\" style=\"color: #1a73e8;\">The Grizzlies are actively trying to find a new home via trade for Walter Clayton Jr. before today's 5 PM ET roster cutdown deadline,</a> league sources tell @JakeLFischer and me, with Sacramento emerging as a possible destination.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/TheSteinLine/status/2112212426967994640"
-      },
-      {
-        "date": "2026-10-19",
-        "text": "Jake Fischer:The Kings are considering point guard reinforcements, sources say, after the sudden loss of Ben Simmons to a season-ending Achilles tear during practice on Sunday.x.com",
-        "text_html": "Jake Fischer: <a href=\"https://x.com/JakeLFischer/status/2112213039852536097?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">The Kings are considering point guard reinforcements, sources say, after the sudden loss of Ben Simmons to a season-ending Achilles tear during practice on Sunday</a>.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/JakeLFischer/status/2112213039852536097?s=20"
-      },
-      {
-        "date": "2026-10-16",
-        "text": "I'm told, however, that theGrizzlies have been exploring potential trade markets for GG Jackson II and Walter Clayton Jr.Which is quite a turn from Memphis' original stance on Clayton.marcstein.substack.com",
-        "text_html": "I'm told, however, that the <a href=\"https://marcstein.substack.com/p/the-nbas-latest-late-night-intel\" target=\"_blank\" style=\"color: #1a73e8;\">Grizzlies have been exploring potential trade markets for GG Jackson II and Walter Clayton Jr.</a> Which is quite a turn from Memphis' original stance on Clayton.",
-        "outlet": "marcstein.substack.com",
-        "source_url": "https://marcstein.substack.com/p/the-nbas-latest-late-night-intel"
       }
     ],
     "Dalton Knecht": [
@@ -2488,6 +2495,11 @@
     ]
   },
   "daily_counts": {
+    "Walter Clayton": {
+      "2026-10-20": 1,
+      "2026-10-19": 3,
+      "2026-10-16": 1
+    },
     "Jalen Brunson": {
       "2026-10-20": 1,
       "2026-10-03": 1
@@ -2501,10 +2513,6 @@
     },
     "Kevin Porter": {
       "2026-10-19": 2
-    },
-    "Walter Clayton": {
-      "2026-10-19": 3,
-      "2026-10-16": 1
     },
     "Dalton Knecht": {
       "2026-10-19": 1,
