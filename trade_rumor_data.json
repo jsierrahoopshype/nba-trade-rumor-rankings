@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-20T22:08:01.129880",
+  "generated_at": "2026-10-21T05:44:29.719675",
   "scrape_window_days": 28,
-  "window_start": "2026-09-22",
-  "window_end": "2026-10-20",
-  "total_rumors": 171,
-  "total_players": 92,
+  "window_start": "2026-09-23",
+  "window_end": "2026-10-21",
+  "total_rumors": 147,
+  "total_players": 87,
   "rankings": [
     {
       "player": "Walter Clayton",
@@ -20,10 +20,10 @@
     },
     {
       "player": "Dalton Knecht",
-      "score": 4.75,
+      "score": 4.5,
       "mentions_week1": 4,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 2,
       "total_mentions": 6,
       "first_mention": "2026-10-04",
       "last_mention": "2026-10-19",
@@ -32,24 +32,24 @@
     },
     {
       "player": "Kyrie Irving",
-      "score": 4.0,
+      "score": 3.5,
       "mentions_week1": 2,
       "mentions_week2": 2,
-      "mentions_weeks3_4": 4,
-      "total_mentions": 8,
-      "first_mention": "2026-09-22",
+      "mentions_weeks3_4": 2,
+      "total_mentions": 6,
+      "first_mention": "2026-09-27",
       "last_mention": "2026-10-17",
       "team": "Dallas Mavericks",
       "rank": 3
     },
     {
       "player": "Jimmy Butler",
-      "score": 3.5,
+      "score": 3.25,
       "mentions_week1": 3,
       "mentions_week2": 0,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 5,
-      "first_mention": "2026-09-22",
+      "mentions_weeks3_4": 1,
+      "total_mentions": 4,
+      "first_mention": "2026-09-28",
       "last_mention": "2026-10-17",
       "team": "Golden State Warriors",
       "rank": 4
@@ -104,87 +104,15 @@
     },
     {
       "player": "Draymond Green",
-      "score": 1.75,
+      "score": 1.5,
       "mentions_week1": 1,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 2,
       "total_mentions": 3,
       "first_mention": "2026-10-04",
       "last_mention": "2026-10-16",
       "team": "Golden State Warriors",
       "rank": 9
-    },
-    {
-      "player": "Buddy Hield",
-      "score": 1.5,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 6,
-      "total_mentions": 6,
-      "first_mention": "2026-09-22",
-      "last_mention": "2026-09-22",
-      "team": "Golden State Warriors",
-      "rank": 10
-    },
-    {
-      "player": "Dorian Finney-Smith",
-      "score": 1.5,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 6,
-      "total_mentions": 6,
-      "first_mention": "2026-09-22",
-      "last_mention": "2026-09-22",
-      "team": "Los Angeles Lakers",
-      "rank": 11
-    },
-    {
-      "player": "Ryan Nembhard",
-      "score": 1.5,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 6,
-      "total_mentions": 6,
-      "first_mention": "2026-09-22",
-      "last_mention": "2026-09-22",
-      "team": "Atlanta Hawks",
-      "rank": 12
-    },
-    {
-      "player": "Jaden Hardy",
-      "score": 1.5,
-      "mentions_week1": 0,
-      "mentions_week2": 2,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 4,
-      "first_mention": "2026-09-24",
-      "last_mention": "2026-10-11",
-      "team": "Los Angeles Lakers",
-      "rank": 13
-    },
-    {
-      "player": "Anthony Davis",
-      "score": 1.5,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 3,
-      "first_mention": "2026-09-22",
-      "last_mention": "2026-10-16",
-      "team": "Dallas Mavericks",
-      "rank": 14
-    },
-    {
-      "player": "Ja Morant",
-      "score": 1.5,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 3,
-      "first_mention": "2026-09-23",
-      "last_mention": "2026-10-13",
-      "team": "Memphis Grizzlies",
-      "rank": 15
     },
     {
       "player": "Luka Doncic",
@@ -196,7 +124,7 @@
       "first_mention": "2026-09-26",
       "last_mention": "2026-10-17",
       "team": "Los Angeles Lakers",
-      "rank": 16
+      "rank": 10
     },
     {
       "player": "Pacome Dadiet",
@@ -208,7 +136,7 @@
       "first_mention": "2026-09-25",
       "last_mention": "2026-10-16",
       "team": "Charlotte Hornets",
-      "rank": 17
+      "rank": 11
     },
     {
       "player": "Derrick White",
@@ -220,7 +148,7 @@
       "first_mention": "2026-10-07",
       "last_mention": "2026-10-20",
       "team": "Boston Celtics",
-      "rank": 18
+      "rank": 12
     },
     {
       "player": "Jalen Duren",
@@ -232,7 +160,31 @@
       "first_mention": "2026-09-26",
       "last_mention": "2026-10-01",
       "team": "Detroit Pistons",
-      "rank": 19
+      "rank": 13
+    },
+    {
+      "player": "Jaden Hardy",
+      "score": 1.25,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 3,
+      "total_mentions": 4,
+      "first_mention": "2026-09-24",
+      "last_mention": "2026-10-11",
+      "team": "Los Angeles Lakers",
+      "rank": 14
+    },
+    {
+      "player": "Anthony Davis",
+      "score": 1.25,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 2,
+      "first_mention": "2026-10-01",
+      "last_mention": "2026-10-16",
+      "team": "Dallas Mavericks",
+      "rank": 15
     },
     {
       "player": "Jalen Brunson",
@@ -244,7 +196,7 @@
       "first_mention": "2026-10-03",
       "last_mention": "2026-10-20",
       "team": "New York Knicks",
-      "rank": 20
+      "rank": 16
     },
     {
       "player": "LaMelo Ball",
@@ -256,19 +208,7 @@
       "first_mention": "2026-09-29",
       "last_mention": "2026-10-14",
       "team": "Charlotte Hornets",
-      "rank": 21
-    },
-    {
-      "player": "Myles Turner",
-      "score": 1.25,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 2,
-      "first_mention": "2026-09-29",
-      "last_mention": "2026-10-13",
-      "team": "Milwaukee Bucks",
-      "rank": 22
+      "rank": 17
     },
     {
       "player": "Zion Williamson",
@@ -280,7 +220,7 @@
       "first_mention": "2026-09-27",
       "last_mention": "2026-10-17",
       "team": "New Orleans Pelicans",
-      "rank": 23
+      "rank": 18
     },
     {
       "player": "Domantas Sabonis",
@@ -292,43 +232,19 @@
       "first_mention": "2026-09-23",
       "last_mention": "2026-10-02",
       "team": "Sacramento Kings",
-      "rank": 24
+      "rank": 19
     },
     {
-      "player": "Bronny James",
+      "player": "Ja Morant",
       "score": 1.0,
       "mentions_week1": 0,
       "mentions_week2": 1,
       "mentions_weeks3_4": 2,
       "total_mentions": 3,
-      "first_mention": "2026-10-04",
-      "last_mention": "2026-10-06",
-      "team": "Charlotte Hornets",
-      "rank": 25
-    },
-    {
-      "player": "Ron Holland",
-      "score": 1.0,
-      "mentions_week1": 0,
-      "mentions_week2": 2,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 2,
-      "first_mention": "2026-10-06",
-      "last_mention": "2026-10-07",
-      "team": "Chicago Bulls",
-      "rank": 26
-    },
-    {
-      "player": "Aaron Nesmith",
-      "score": 1.0,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-10-13",
+      "first_mention": "2026-09-23",
       "last_mention": "2026-10-13",
-      "team": "Indiana Pacers",
-      "rank": 27
+      "team": "Memphis Grizzlies",
+      "rank": 20
     },
     {
       "player": "Anthony Black",
@@ -340,7 +256,7 @@
       "first_mention": "2026-10-19",
       "last_mention": "2026-10-19",
       "team": "Orlando Magic",
-      "rank": 28
+      "rank": 21
     },
     {
       "player": "Cam Christie",
@@ -352,7 +268,7 @@
       "first_mention": "2026-10-14",
       "last_mention": "2026-10-14",
       "team": "Charlotte Hornets",
-      "rank": 29
+      "rank": 22
     },
     {
       "player": "Drew Eubanks",
@@ -364,7 +280,7 @@
       "first_mention": "2026-10-15",
       "last_mention": "2026-10-15",
       "team": "New York Knicks",
-      "rank": 30
+      "rank": 23
     },
     {
       "player": "GG Jackson",
@@ -376,19 +292,7 @@
       "first_mention": "2026-10-16",
       "last_mention": "2026-10-16",
       "team": "Memphis Grizzlies",
-      "rank": 31
-    },
-    {
-      "player": "Ivica Zubac",
-      "score": 1.0,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-10-13",
-      "last_mention": "2026-10-13",
-      "team": "Los Angeles Clippers",
-      "rank": 32
+      "rank": 24
     },
     {
       "player": "Jaden McDaniels",
@@ -400,7 +304,7 @@
       "first_mention": "2026-10-14",
       "last_mention": "2026-10-14",
       "team": "Minnesota Timberwolves",
-      "rank": 33
+      "rank": 25
     },
     {
       "player": "Jalen Green",
@@ -412,19 +316,7 @@
       "first_mention": "2026-10-20",
       "last_mention": "2026-10-20",
       "team": "Phoenix Suns",
-      "rank": 34
-    },
-    {
-      "player": "James Harden",
-      "score": 1.0,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-10-13",
-      "last_mention": "2026-10-13",
-      "team": "Los Angeles Clippers",
-      "rank": 35
+      "rank": 26
     },
     {
       "player": "Jericho Sims",
@@ -436,7 +328,7 @@
       "first_mention": "2026-10-16",
       "last_mention": "2026-10-16",
       "team": "Los Angeles Lakers",
-      "rank": 36
+      "rank": 27
     },
     {
       "player": "Julius Randle",
@@ -448,7 +340,7 @@
       "first_mention": "2026-10-14",
       "last_mention": "2026-10-14",
       "team": "Minnesota Timberwolves",
-      "rank": 37
+      "rank": 28
     },
     {
       "player": "Karl-Anthony Towns",
@@ -460,7 +352,7 @@
       "first_mention": "2026-10-19",
       "last_mention": "2026-10-19",
       "team": "New York Knicks",
-      "rank": 38
+      "rank": 29
     },
     {
       "player": "Kristaps Porzingis",
@@ -472,7 +364,7 @@
       "first_mention": "2026-10-17",
       "last_mention": "2026-10-17",
       "team": "Golden State Warriors",
-      "rank": 39
+      "rank": 30
     },
     {
       "player": "Michael Porter",
@@ -484,7 +376,7 @@
       "first_mention": "2026-10-17",
       "last_mention": "2026-10-17",
       "team": "Boston Celtics",
-      "rank": 40
+      "rank": 31
     },
     {
       "player": "Miles McBride",
@@ -496,7 +388,7 @@
       "first_mention": "2026-10-18",
       "last_mention": "2026-10-18",
       "team": "New York Knicks",
-      "rank": 41
+      "rank": 32
     },
     {
       "player": "Naz Reid",
@@ -508,7 +400,7 @@
       "first_mention": "2026-10-14",
       "last_mention": "2026-10-14",
       "team": "Minnesota Timberwolves",
-      "rank": 42
+      "rank": 33
     },
     {
       "player": "Pat Connaughton",
@@ -520,7 +412,7 @@
       "first_mention": "2026-10-14",
       "last_mention": "2026-10-14",
       "team": "Charlotte Hornets",
-      "rank": 43
+      "rank": 34
     },
     {
       "player": "Tidjane Salaun",
@@ -532,7 +424,7 @@
       "first_mention": "2026-10-16",
       "last_mention": "2026-10-16",
       "team": "Charlotte Hornets",
-      "rank": 44
+      "rank": 35
     },
     {
       "player": "Tyler Kolek",
@@ -544,7 +436,19 @@
       "first_mention": "2026-10-16",
       "last_mention": "2026-10-16",
       "team": "Charlotte Hornets",
-      "rank": 45
+      "rank": 36
+    },
+    {
+      "player": "Bronny James",
+      "score": 0.75,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 3,
+      "total_mentions": 3,
+      "first_mention": "2026-10-04",
+      "last_mention": "2026-10-06",
+      "team": "Charlotte Hornets",
+      "rank": 37
     },
     {
       "player": "De'Aaron Fox",
@@ -556,19 +460,7 @@
       "first_mention": "2026-09-28",
       "last_mention": "2026-10-11",
       "team": "San Antonio Spurs",
-      "rank": 46
-    },
-    {
-      "player": "Jarred Vanderbilt",
-      "score": 0.75,
-      "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 2,
-      "first_mention": "2026-09-29",
-      "last_mention": "2026-10-06",
-      "team": "Detroit Pistons",
-      "rank": 47
+      "rank": 38
     },
     {
       "player": "LeBron James",
@@ -580,31 +472,31 @@
       "first_mention": "2026-09-29",
       "last_mention": "2026-10-10",
       "team": "Los Angeles Lakers",
-      "rank": 48
+      "rank": 39
     },
     {
-      "player": "Mark Williams",
+      "player": "Myles Turner",
       "score": 0.75,
       "mentions_week1": 0,
       "mentions_week2": 1,
       "mentions_weeks3_4": 1,
       "total_mentions": 2,
-      "first_mention": "2026-10-04",
-      "last_mention": "2026-10-06",
-      "team": "Phoenix Suns",
-      "rank": 49
+      "first_mention": "2026-09-29",
+      "last_mention": "2026-10-13",
+      "team": "Milwaukee Bucks",
+      "rank": 40
     },
     {
-      "player": "Peyton Watson",
+      "player": "Ron Holland",
       "score": 0.75,
       "mentions_week1": 0,
       "mentions_week2": 1,
       "mentions_weeks3_4": 1,
       "total_mentions": 2,
-      "first_mention": "2026-09-28",
-      "last_mention": "2026-10-06",
-      "team": "Cleveland Cavaliers",
-      "rank": 50
+      "first_mention": "2026-10-06",
+      "last_mention": "2026-10-07",
+      "team": "Chicago Bulls",
+      "rank": 41
     },
     {
       "player": "Trae Young",
@@ -616,7 +508,7 @@
       "first_mention": "2026-10-03",
       "last_mention": "2026-10-10",
       "team": "Atlanta Hawks",
-      "rank": 51
+      "rank": 42
     },
     {
       "player": "Caris LeVert",
@@ -628,7 +520,7 @@
       "first_mention": "2026-10-02",
       "last_mention": "2026-10-02",
       "team": "Detroit Pistons",
-      "rank": 52
+      "rank": 43
     },
     {
       "player": "Darius Garland",
@@ -640,7 +532,43 @@
       "first_mention": "2026-10-05",
       "last_mention": "2026-10-05",
       "team": "Cleveland Cavaliers",
-      "rank": 53
+      "rank": 44
+    },
+    {
+      "player": "Jarred Vanderbilt",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 2,
+      "total_mentions": 2,
+      "first_mention": "2026-09-29",
+      "last_mention": "2026-10-06",
+      "team": "Detroit Pistons",
+      "rank": 45
+    },
+    {
+      "player": "Mark Williams",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 2,
+      "total_mentions": 2,
+      "first_mention": "2026-10-04",
+      "last_mention": "2026-10-06",
+      "team": "Phoenix Suns",
+      "rank": 46
+    },
+    {
+      "player": "Peyton Watson",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 2,
+      "total_mentions": 2,
+      "first_mention": "2026-09-28",
+      "last_mention": "2026-10-06",
+      "team": "Cleveland Cavaliers",
+      "rank": 47
     },
     {
       "player": "Stephen Curry",
@@ -652,7 +580,19 @@
       "first_mention": "2026-09-23",
       "last_mention": "2026-09-24",
       "team": "Golden State Warriors",
-      "rank": 54
+      "rank": 48
+    },
+    {
+      "player": "Aaron Nesmith",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-10-13",
+      "last_mention": "2026-10-13",
+      "team": "Indiana Pacers",
+      "rank": 49
     },
     {
       "player": "Anthony Edwards",
@@ -664,7 +604,7 @@
       "first_mention": "2026-10-11",
       "last_mention": "2026-10-11",
       "team": "Minnesota Timberwolves",
-      "rank": 55
+      "rank": 50
     },
     {
       "player": "Brandin Podziemski",
@@ -676,7 +616,7 @@
       "first_mention": "2026-10-10",
       "last_mention": "2026-10-10",
       "team": "Golden State Warriors",
-      "rank": 56
+      "rank": 51
     },
     {
       "player": "Cade Cunningham",
@@ -688,7 +628,7 @@
       "first_mention": "2026-10-11",
       "last_mention": "2026-10-11",
       "team": "Detroit Pistons",
-      "rank": 57
+      "rank": 52
     },
     {
       "player": "Caleb Martin",
@@ -700,31 +640,7 @@
       "first_mention": "2026-10-07",
       "last_mention": "2026-10-07",
       "team": "Dallas Mavericks",
-      "rank": 58
-    },
-    {
-      "player": "Corey Kispert",
-      "score": 0.5,
-      "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-10-06",
-      "last_mention": "2026-10-06",
-      "team": "Atlanta Hawks",
-      "rank": 59
-    },
-    {
-      "player": "Craig Porter",
-      "score": 0.5,
-      "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-10-06",
-      "last_mention": "2026-10-06",
-      "team": "Cleveland Cavaliers",
-      "rank": 60
+      "rank": 53
     },
     {
       "player": "D'Angelo Russell",
@@ -736,7 +652,31 @@
       "first_mention": "2026-10-11",
       "last_mention": "2026-10-11",
       "team": "Dallas Mavericks",
-      "rank": 61
+      "rank": 54
+    },
+    {
+      "player": "Ivica Zubac",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-10-13",
+      "last_mention": "2026-10-13",
+      "team": "Los Angeles Clippers",
+      "rank": 55
+    },
+    {
+      "player": "James Harden",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-10-13",
+      "last_mention": "2026-10-13",
+      "team": "Los Angeles Clippers",
+      "rank": 56
     },
     {
       "player": "Jarrett Allen",
@@ -748,7 +688,7 @@
       "first_mention": "2026-10-09",
       "last_mention": "2026-10-09",
       "team": "Cleveland Cavaliers",
-      "rank": 62
+      "rank": 57
     },
     {
       "player": "Joel Embiid",
@@ -760,7 +700,7 @@
       "first_mention": "2026-10-10",
       "last_mention": "2026-10-10",
       "team": "Philadelphia 76ers",
-      "rank": 63
+      "rank": 58
     },
     {
       "player": "Kevin Durant",
@@ -772,19 +712,7 @@
       "first_mention": "2026-10-09",
       "last_mention": "2026-10-09",
       "team": "Houston Rockets",
-      "rank": 64
-    },
-    {
-      "player": "Max Strus",
-      "score": 0.5,
-      "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-10-06",
-      "last_mention": "2026-10-06",
-      "team": "Cleveland Cavaliers",
-      "rank": 65
+      "rank": 59
     },
     {
       "player": "Mitchell Robinson",
@@ -796,19 +724,7 @@
       "first_mention": "2026-10-08",
       "last_mention": "2026-10-08",
       "team": "Boston Celtics",
-      "rank": 66
-    },
-    {
-      "player": "Moses Moody",
-      "score": 0.5,
-      "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-10-06",
-      "last_mention": "2026-10-06",
-      "team": "Golden State Warriors",
-      "rank": 67
+      "rank": 60
     },
     {
       "player": "Nicolas Claxton",
@@ -820,7 +736,7 @@
       "first_mention": "2026-10-11",
       "last_mention": "2026-10-11",
       "team": "Chicago Bulls",
-      "rank": 68
+      "rank": 61
     },
     {
       "player": "Nikola Jovic",
@@ -832,7 +748,7 @@
       "first_mention": "2026-10-07",
       "last_mention": "2026-10-07",
       "team": "Chicago Bulls",
-      "rank": 69
+      "rank": 62
     },
     {
       "player": "Patrick Williams",
@@ -844,19 +760,7 @@
       "first_mention": "2026-10-07",
       "last_mention": "2026-10-07",
       "team": "Chicago Bulls",
-      "rank": 70
-    },
-    {
-      "player": "Terance Mann",
-      "score": 0.5,
-      "mentions_week1": 0,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-10-06",
-      "last_mention": "2026-10-06",
-      "team": "Detroit Pistons",
-      "rank": 71
+      "rank": 63
     },
     {
       "player": "Alperen Sengun",
@@ -868,7 +772,7 @@
       "first_mention": "2026-09-27",
       "last_mention": "2026-09-27",
       "team": "Houston Rockets",
-      "rank": 72
+      "rank": 64
     },
     {
       "player": "Cedric Coward",
@@ -880,7 +784,31 @@
       "first_mention": "2026-09-23",
       "last_mention": "2026-09-23",
       "team": "Denver Nuggets",
-      "rank": 73
+      "rank": 65
+    },
+    {
+      "player": "Corey Kispert",
+      "score": 0.25,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 1,
+      "first_mention": "2026-10-06",
+      "last_mention": "2026-10-06",
+      "team": "Atlanta Hawks",
+      "rank": 66
+    },
+    {
+      "player": "Craig Porter",
+      "score": 0.25,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 1,
+      "first_mention": "2026-10-06",
+      "last_mention": "2026-10-06",
+      "team": "Cleveland Cavaliers",
+      "rank": 67
     },
     {
       "player": "Damian Lillard",
@@ -892,7 +820,7 @@
       "first_mention": "2026-09-23",
       "last_mention": "2026-09-23",
       "team": "Denver Nuggets",
-      "rank": 74
+      "rank": 68
     },
     {
       "player": "Derrick Jones",
@@ -904,19 +832,7 @@
       "first_mention": "2026-09-29",
       "last_mention": "2026-09-29",
       "team": "Dallas Mavericks",
-      "rank": 75
-    },
-    {
-      "player": "Devin Booker",
-      "score": 0.25,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 1,
-      "first_mention": "2026-09-22",
-      "last_mention": "2026-09-22",
-      "team": "Phoenix Suns",
-      "rank": 76
+      "rank": 69
     },
     {
       "player": "Duncan Robinson",
@@ -928,7 +844,7 @@
       "first_mention": "2026-09-26",
       "last_mention": "2026-09-26",
       "team": "Detroit Pistons",
-      "rank": 77
+      "rank": 70
     },
     {
       "player": "Gary Harris",
@@ -940,7 +856,7 @@
       "first_mention": "2026-09-26",
       "last_mention": "2026-09-26",
       "team": "Detroit Pistons",
-      "rank": 78
+      "rank": 71
     },
     {
       "player": "Jaren Jackson Jr",
@@ -952,19 +868,7 @@
       "first_mention": "2026-09-28",
       "last_mention": "2026-09-28",
       "team": "Golden State Warriors",
-      "rank": 79
-    },
-    {
-      "player": "Jordan Poole",
-      "score": 0.25,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 1,
-      "first_mention": "2026-09-22",
-      "last_mention": "2026-09-22",
-      "team": "Golden State Warriors",
-      "rank": 80
+      "rank": 72
     },
     {
       "player": "Josh Giddey",
@@ -976,7 +880,7 @@
       "first_mention": "2026-10-04",
       "last_mention": "2026-10-04",
       "team": "Chicago Bulls",
-      "rank": 81
+      "rank": 73
     },
     {
       "player": "Jrue Holiday",
@@ -988,7 +892,7 @@
       "first_mention": "2026-09-28",
       "last_mention": "2026-09-28",
       "team": "Portland Trail Blazers",
-      "rank": 82
+      "rank": 74
     },
     {
       "player": "Khaman Maluach",
@@ -1000,7 +904,31 @@
       "first_mention": "2026-09-24",
       "last_mention": "2026-09-24",
       "team": "Charlotte Hornets",
-      "rank": 83
+      "rank": 75
+    },
+    {
+      "player": "Max Strus",
+      "score": 0.25,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 1,
+      "first_mention": "2026-10-06",
+      "last_mention": "2026-10-06",
+      "team": "Cleveland Cavaliers",
+      "rank": 76
+    },
+    {
+      "player": "Moses Moody",
+      "score": 0.25,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 1,
+      "first_mention": "2026-10-06",
+      "last_mention": "2026-10-06",
+      "team": "Golden State Warriors",
+      "rank": 77
     },
     {
       "player": "Moussa Diabate",
@@ -1012,7 +940,7 @@
       "first_mention": "2026-09-25",
       "last_mention": "2026-09-25",
       "team": "Charlotte Hornets",
-      "rank": 84
+      "rank": 78
     },
     {
       "player": "Norman Powell",
@@ -1024,7 +952,7 @@
       "first_mention": "2026-10-04",
       "last_mention": "2026-10-04",
       "team": "Miami Heat",
-      "rank": 85
+      "rank": 79
     },
     {
       "player": "PJ Washington",
@@ -1036,7 +964,7 @@
       "first_mention": "2026-09-29",
       "last_mention": "2026-09-29",
       "team": "Dallas Mavericks",
-      "rank": 86
+      "rank": 80
     },
     {
       "player": "Taurean Prince",
@@ -1048,7 +976,19 @@
       "first_mention": "2026-09-26",
       "last_mention": "2026-09-26",
       "team": "Detroit Pistons",
-      "rank": 87
+      "rank": 81
+    },
+    {
+      "player": "Terance Mann",
+      "score": 0.25,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 1,
+      "first_mention": "2026-10-06",
+      "last_mention": "2026-10-06",
+      "team": "Detroit Pistons",
+      "rank": 82
     },
     {
       "player": "Tyrese Maxey",
@@ -1060,7 +1000,7 @@
       "first_mention": "2026-09-29",
       "last_mention": "2026-09-29",
       "team": "Philadelphia 76ers",
-      "rank": 88
+      "rank": 83
     },
     {
       "player": "VJ Edgecombe",
@@ -1072,7 +1012,7 @@
       "first_mention": "2026-09-29",
       "last_mention": "2026-09-29",
       "team": "Philadelphia 76ers",
-      "rank": 89
+      "rank": 84
     },
     {
       "player": "Zaccharie Risacher",
@@ -1084,7 +1024,7 @@
       "first_mention": "2026-09-27",
       "last_mention": "2026-09-27",
       "team": "Atlanta Hawks",
-      "rank": 90
+      "rank": 85
     },
     {
       "player": "Zach LaVine",
@@ -1096,7 +1036,7 @@
       "first_mention": "2026-09-27",
       "last_mention": "2026-09-27",
       "team": "Sacramento Kings",
-      "rank": 91
+      "rank": 86
     },
     {
       "player": "Zeke Nnaji",
@@ -1108,7 +1048,7 @@
       "first_mention": "2026-09-24",
       "last_mention": "2026-09-24",
       "team": "Charlotte Hornets",
-      "rank": 92
+      "rank": 87
     }
   ],
   "player_rumors": {
@@ -1305,13 +1245,6 @@
         "text_html": "<a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">On HoopsMatic over the past 24 hours, De'Aaron Fox showed up in 7.8% of all trades built.</a> Among those, he was most often sent to Golden State (12.5%), LA Lakers (12.5%), and Utah (10.2%), and the return pieces that came up most often were Jimmy Butler (13.6%), Luka Doncic (12.5%), and Jaren Jackson Jr (8.0%).",
         "outlet": "HoopsMatic",
         "source_url": "https://hoopsmatic.com/"
-      },
-      {
-        "date": "2026-09-22",
-        "text": "On HoopsMatic over the past 24 hours,Jimmy Butler showed up in 5.3% of all trades built.Among those, he was most often sent to Washington (11.1%), Phoenix (9.3%), and San Antonio (9.3%), and the return pieces that came up most often were Anthony Davis (11.1%), Devin Booker (9.3%), and Jordan Poole (9.3%).HoopsMatic",
-        "text_html": "On HoopsMatic over the past 24 hours, <a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">Jimmy Butler showed up in 5.3% of all trades built.</a> Among those, he was most often sent to Washington (11.1%), Phoenix (9.3%), and San Antonio (9.3%), and the return pieces that came up most often were Anthony Davis (11.1%), Devin Booker (9.3%), and Jordan Poole (9.3%).",
-        "outlet": "HoopsMatic",
-        "source_url": "https://hoopsmatic.com/"
       }
     ],
     "Kristaps Porzingis": [
@@ -1365,20 +1298,6 @@
         "text_html": "NBA Trade Machine: <a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">Zion Williamson appeared in 10.8% of trades built on HoopsMatic over the past 24 hours.</a> Of his trades, his most common destinations were Sacramento (12.3%), Dallas (9.9%), and Houston (9.9%). The players traded for him most often were Kyrie Irving (7.4%), Alperen Sengun (7.4%), and Zach LaVine (6.2%).",
         "outlet": "HoopsMatic",
         "source_url": "https://hoopsmatic.com/"
-      },
-      {
-        "date": "2026-09-22",
-        "text": "Since their timelines are not in sync, MacMahon believes several teams will keep an eye on this situation. The league insider acknowledged on Monday's episode of \"NBA Today\" that Irving is still the team's veteran leader. However, that might not be the case for long. \"The question that's being asked around the league is 'for how long?'\" MacMahon said. \"How long is this fit with Kyrie and the Mavericks?\" MacMahon clarified that the reason is that Flagg is now the team's centerpiece, and not because Irving and the Mavericks no longer see eye to eye.\"Would it make sense for both sides to find a contender for Kyrie to go to?\" MacMahon continued. \"These are the kind of things that people around the league will be monitoring leading up to the trade deadline.\"Yahoo! Sports",
-        "text_html": "Since their timelines are not in sync, MacMahon believes several teams will keep an eye on this situation. The league insider acknowledged on Monday's episode of \"NBA Today\" that Irving is still the team's veteran leader. However, that might not be the case for long. \"The question that's being asked around the league is 'for how long?'\" MacMahon said. \"How long is this fit with Kyrie and the Mavericks?\" MacMahon clarified that the reason is that Flagg is now the team's centerpiece, and not because Irving and the Mavericks no longer see eye to eye. <a href=\"https://sports.yahoo.com/articles/people-around-league-monitoring-nba-210650862.html\" target=\"_blank\" style=\"color: #1a73e8;\">\"Would it make sense for both sides to find a contender for Kyrie to go to?\" MacMahon continued. \"These are the kind of things that people around the league will be monitoring leading up to the trade deadline.\"</a>",
-        "outlet": "Yahoo! Sports",
-        "source_url": "https://sports.yahoo.com/articles/people-around-league-monitoring-nba-210650862.html"
-      },
-      {
-        "date": "2026-09-22",
-        "text": "Spears later added that if they decided to move on from each other, it would be an amicable split. He highlighted the strong relationship between Irving and Mavericks president Masai Ujiri as the reason for this.\"Masai also has a really good relationship, with Kyrie Irving,\" Spears said. \"I think it's the kind of relationship where if Kyrie says, 'hey Masai, like this isn't for me,' I think they could work together to get something done.\"Yahoo! Sports",
-        "text_html": "Spears later added that if they decided to move on from each other, it would be an amicable split. He highlighted the strong relationship between Irving and Mavericks president Masai Ujiri as the reason for this. <a href=\"https://sports.yahoo.com/articles/people-around-league-monitoring-nba-210650862.html\" target=\"_blank\" style=\"color: #1a73e8;\">\"Masai also has a really good relationship, with Kyrie Irving,\" Spears said. \"I think it's the kind of relationship where if Kyrie says, 'hey Masai, like this isn't for me,' I think they could work together to get something done.\"</a>",
-        "outlet": "Yahoo! Sports",
-        "source_url": "https://sports.yahoo.com/articles/people-around-league-monitoring-nba-210650862.html"
       }
     ],
     "Luka Doncic": [
@@ -1443,13 +1362,6 @@
         "text_html": "A report published Wednesday by The Athletic's Sam Amick and Hunter Patterson initially corroborated Spears. At first, the article \"confirmed an ESPN report indicating that the Washington Wizards would have interest in a Duren-for-Anthony Davis trade,\" which was supposedly not of interest to Detroit. <a href=\"https://sports.yahoo.com/articles/conflicting-reports-emerge-wizards-interest-031910625.html\" target=\"_blank\" style=\"color: #1a73e8;\">The Athletic later removed the Wizards mention from the article entirely and included an amendment clarifying that the earlier reporting was erroneous. \"An earlier version of this article incorrectly reported that the Wizards would have interest in a potential Duren-Anthony Davis sign-and-trade. The article has been corrected by removing that reference,\" the amendment read</a>.",
         "outlet": "Yahoo! Sports",
         "source_url": "https://sports.yahoo.com/articles/conflicting-reports-emerge-wizards-interest-031910625.html"
-      },
-      {
-        "date": "2026-09-22",
-        "text": "On HoopsMatic over the past 24 hours,Jimmy Butler showed up in 5.3% of all trades built.Among those, he was most often sent to Washington (11.1%), Phoenix (9.3%), and San Antonio (9.3%), and the return pieces that came up most often were Anthony Davis (11.1%), Devin Booker (9.3%), and Jordan Poole (9.3%).HoopsMatic",
-        "text_html": "On HoopsMatic over the past 24 hours, <a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">Jimmy Butler showed up in 5.3% of all trades built.</a> Among those, he was most often sent to Washington (11.1%), Phoenix (9.3%), and San Antonio (9.3%), and the return pieces that came up most often were Anthony Davis (11.1%), Devin Booker (9.3%), and Jordan Poole (9.3%).",
-        "outlet": "HoopsMatic",
-        "source_url": "https://hoopsmatic.com/"
       }
     ],
     "Jaylen Brown": [
@@ -2342,156 +2254,6 @@
         "outlet": "HoopsMatic",
         "source_url": "https://hoopsmatic.com/"
       }
-    ],
-    "Buddy Hield": [
-      {
-        "date": "2026-09-22",
-        "text": "Yossi Gozlan: The Hawks resolve their roster crunch heading into the season but inch closer to the luxury tax line ($1.7 million below).The Hornets create a $4.5 million trade exception but complicate their roster crunch. They\u2019re also now at the 21 player maximum for the offseason.x.com",
-        "text_html": "Yossi Gozlan: The Hawks resolve their roster crunch heading into the season but inch closer to the luxury tax line ($1.7 million below). <a href=\"https://x.com/YossiGozlan/status/2102488832730108399?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">The Hornets create a $4.5 million trade exception but complicate their roster crunch. They\u2019re also now at the 21 player maximum for the offseason</a>.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/YossiGozlan/status/2102488832730108399?s=20"
-      },
-      {
-        "date": "2026-09-22",
-        "text": "Keith Smith:Hawks are taking on about $2.4M by acquiring Dorian Finney-Smith for Buddy Hield and Ryan Nembhard. Atlanta will be about $1.4M under the luxury tax with 15 players on standard contracts. Hornets will have 18 players on standard deals, necessitating three waivers.x.com",
-        "text_html": "Keith Smith: <a href=\"https://x.com/KeithSmithNBA/status/2102487907810292167?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">Hawks are taking on about $2.4M by acquiring Dorian Finney-Smith for Buddy Hield and Ryan Nembhard</a>. Atlanta will be about $1.4M under the luxury tax with 15 players on standard contracts. Hornets will have 18 players on standard deals, necessitating three waivers.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/KeithSmithNBA/status/2102487907810292167?s=20"
-      },
-      {
-        "date": "2026-09-22",
-        "text": "Bobby Marks: To Atlanta Dorian Finney-Smith: $14.1M, $13.3M ($0 GTY), $13.3M (0 GTY) Atlanta creates a $2.1M Trade Exception To Charlotte Buddy Hield: $9.7M, $10.1M (0 GTY) Ryan Nembhard: $2.1MThe Hornets likely create a $4.5M Trade Exceptionx.com",
-        "text_html": "Bobby Marks: To Atlanta Dorian Finney-Smith: $14.1M, $13.3M ($0 GTY), $13.3M (0 GTY) Atlanta creates a $2.1M Trade Exception To Charlotte Buddy Hield: $9.7M, $10.1M (0 GTY) Ryan Nembhard: $2.1M <a href=\"https://x.com/BobbyMarks42/status/2102487282414731367?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">The Hornets likely create a $4.5M Trade Exception</a>",
-        "outlet": "x.com",
-        "source_url": "https://x.com/BobbyMarks42/status/2102487282414731367?s=20"
-      },
-      {
-        "date": "2026-09-22",
-        "text": "Shams Charania:The Atlanta Hawks are trading Buddy Hield, Ryan Nembhard and cash to the Charlotte Hornets for Dorian Finney-Smith,sources tell ESPN.x.com",
-        "text_html": "Shams Charania: <a href=\"https://x.com/ShamsCharania/status/2102486115089301743?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">The Atlanta Hawks are trading Buddy Hield, Ryan Nembhard and cash to the Charlotte Hornets for Dorian Finney-Smith,</a> sources tell ESPN.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/ShamsCharania/status/2102486115089301743?s=20"
-      },
-      {
-        "date": "2026-09-22",
-        "text": "Michael Scotto: JUST IN:The Atlanta Hawks are trading Buddy Hield and Ryan Nembhard to the Charlotte Hornets in exchange for Dorian Finney-Smith,league sources told @hoopshype .x.com",
-        "text_html": "Michael Scotto: JUST IN: <a href=\"https://x.com/MikeAScotto/status/2102486261579530427?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">The Atlanta Hawks are trading Buddy Hield and Ryan Nembhard to the Charlotte Hornets in exchange for Dorian Finney-Smith,</a> league sources told @hoopshype .",
-        "outlet": "x.com",
-        "source_url": "https://x.com/MikeAScotto/status/2102486261579530427?s=20"
-      },
-      {
-        "date": "2026-09-22",
-        "text": "Jake Fischer:There\u2019s been renewed talks today between the Hawks and Hornets, sources say. Trade structure that\u2019s been discussed today, per sources: Buddy Hield and Ryan Nembhard to Charlotte, Dorian Finney-Smith to Atlanta.x.com",
-        "text_html": "Jake Fischer: <a href=\"https://x.com/JakeLFischer/status/2102485976492953937?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">There\u2019s been renewed talks today between the Hawks and Hornets, sources say. Trade structure that\u2019s been discussed today, per sources: Buddy Hield and Ryan Nembhard to Charlotte, Dorian Finney-Smith to Atlanta</a>.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/JakeLFischer/status/2102485976492953937?s=20"
-      }
-    ],
-    "Dorian Finney-Smith": [
-      {
-        "date": "2026-09-22",
-        "text": "Yossi Gozlan: The Hawks resolve their roster crunch heading into the season but inch closer to the luxury tax line ($1.7 million below).The Hornets create a $4.5 million trade exception but complicate their roster crunch. They\u2019re also now at the 21 player maximum for the offseason.x.com",
-        "text_html": "Yossi Gozlan: The Hawks resolve their roster crunch heading into the season but inch closer to the luxury tax line ($1.7 million below). <a href=\"https://x.com/YossiGozlan/status/2102488832730108399?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">The Hornets create a $4.5 million trade exception but complicate their roster crunch. They\u2019re also now at the 21 player maximum for the offseason</a>.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/YossiGozlan/status/2102488832730108399?s=20"
-      },
-      {
-        "date": "2026-09-22",
-        "text": "Keith Smith:Hawks are taking on about $2.4M by acquiring Dorian Finney-Smith for Buddy Hield and Ryan Nembhard. Atlanta will be about $1.4M under the luxury tax with 15 players on standard contracts. Hornets will have 18 players on standard deals, necessitating three waivers.x.com",
-        "text_html": "Keith Smith: <a href=\"https://x.com/KeithSmithNBA/status/2102487907810292167?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">Hawks are taking on about $2.4M by acquiring Dorian Finney-Smith for Buddy Hield and Ryan Nembhard</a>. Atlanta will be about $1.4M under the luxury tax with 15 players on standard contracts. Hornets will have 18 players on standard deals, necessitating three waivers.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/KeithSmithNBA/status/2102487907810292167?s=20"
-      },
-      {
-        "date": "2026-09-22",
-        "text": "Bobby Marks: To Atlanta Dorian Finney-Smith: $14.1M, $13.3M ($0 GTY), $13.3M (0 GTY) Atlanta creates a $2.1M Trade Exception To Charlotte Buddy Hield: $9.7M, $10.1M (0 GTY) Ryan Nembhard: $2.1MThe Hornets likely create a $4.5M Trade Exceptionx.com",
-        "text_html": "Bobby Marks: To Atlanta Dorian Finney-Smith: $14.1M, $13.3M ($0 GTY), $13.3M (0 GTY) Atlanta creates a $2.1M Trade Exception To Charlotte Buddy Hield: $9.7M, $10.1M (0 GTY) Ryan Nembhard: $2.1M <a href=\"https://x.com/BobbyMarks42/status/2102487282414731367?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">The Hornets likely create a $4.5M Trade Exception</a>",
-        "outlet": "x.com",
-        "source_url": "https://x.com/BobbyMarks42/status/2102487282414731367?s=20"
-      },
-      {
-        "date": "2026-09-22",
-        "text": "Shams Charania:The Atlanta Hawks are trading Buddy Hield, Ryan Nembhard and cash to the Charlotte Hornets for Dorian Finney-Smith,sources tell ESPN.x.com",
-        "text_html": "Shams Charania: <a href=\"https://x.com/ShamsCharania/status/2102486115089301743?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">The Atlanta Hawks are trading Buddy Hield, Ryan Nembhard and cash to the Charlotte Hornets for Dorian Finney-Smith,</a> sources tell ESPN.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/ShamsCharania/status/2102486115089301743?s=20"
-      },
-      {
-        "date": "2026-09-22",
-        "text": "Michael Scotto: JUST IN:The Atlanta Hawks are trading Buddy Hield and Ryan Nembhard to the Charlotte Hornets in exchange for Dorian Finney-Smith,league sources told @hoopshype .x.com",
-        "text_html": "Michael Scotto: JUST IN: <a href=\"https://x.com/MikeAScotto/status/2102486261579530427?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">The Atlanta Hawks are trading Buddy Hield and Ryan Nembhard to the Charlotte Hornets in exchange for Dorian Finney-Smith,</a> league sources told @hoopshype .",
-        "outlet": "x.com",
-        "source_url": "https://x.com/MikeAScotto/status/2102486261579530427?s=20"
-      },
-      {
-        "date": "2026-09-22",
-        "text": "Jake Fischer:There\u2019s been renewed talks today between the Hawks and Hornets, sources say. Trade structure that\u2019s been discussed today, per sources: Buddy Hield and Ryan Nembhard to Charlotte, Dorian Finney-Smith to Atlanta.x.com",
-        "text_html": "Jake Fischer: <a href=\"https://x.com/JakeLFischer/status/2102485976492953937?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">There\u2019s been renewed talks today between the Hawks and Hornets, sources say. Trade structure that\u2019s been discussed today, per sources: Buddy Hield and Ryan Nembhard to Charlotte, Dorian Finney-Smith to Atlanta</a>.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/JakeLFischer/status/2102485976492953937?s=20"
-      }
-    ],
-    "Ryan Nembhard": [
-      {
-        "date": "2026-09-22",
-        "text": "Yossi Gozlan: The Hawks resolve their roster crunch heading into the season but inch closer to the luxury tax line ($1.7 million below).The Hornets create a $4.5 million trade exception but complicate their roster crunch. They\u2019re also now at the 21 player maximum for the offseason.x.com",
-        "text_html": "Yossi Gozlan: The Hawks resolve their roster crunch heading into the season but inch closer to the luxury tax line ($1.7 million below). <a href=\"https://x.com/YossiGozlan/status/2102488832730108399?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">The Hornets create a $4.5 million trade exception but complicate their roster crunch. They\u2019re also now at the 21 player maximum for the offseason</a>.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/YossiGozlan/status/2102488832730108399?s=20"
-      },
-      {
-        "date": "2026-09-22",
-        "text": "Keith Smith:Hawks are taking on about $2.4M by acquiring Dorian Finney-Smith for Buddy Hield and Ryan Nembhard. Atlanta will be about $1.4M under the luxury tax with 15 players on standard contracts. Hornets will have 18 players on standard deals, necessitating three waivers.x.com",
-        "text_html": "Keith Smith: <a href=\"https://x.com/KeithSmithNBA/status/2102487907810292167?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">Hawks are taking on about $2.4M by acquiring Dorian Finney-Smith for Buddy Hield and Ryan Nembhard</a>. Atlanta will be about $1.4M under the luxury tax with 15 players on standard contracts. Hornets will have 18 players on standard deals, necessitating three waivers.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/KeithSmithNBA/status/2102487907810292167?s=20"
-      },
-      {
-        "date": "2026-09-22",
-        "text": "Bobby Marks: To Atlanta Dorian Finney-Smith: $14.1M, $13.3M ($0 GTY), $13.3M (0 GTY) Atlanta creates a $2.1M Trade Exception To Charlotte Buddy Hield: $9.7M, $10.1M (0 GTY) Ryan Nembhard: $2.1MThe Hornets likely create a $4.5M Trade Exceptionx.com",
-        "text_html": "Bobby Marks: To Atlanta Dorian Finney-Smith: $14.1M, $13.3M ($0 GTY), $13.3M (0 GTY) Atlanta creates a $2.1M Trade Exception To Charlotte Buddy Hield: $9.7M, $10.1M (0 GTY) Ryan Nembhard: $2.1M <a href=\"https://x.com/BobbyMarks42/status/2102487282414731367?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">The Hornets likely create a $4.5M Trade Exception</a>",
-        "outlet": "x.com",
-        "source_url": "https://x.com/BobbyMarks42/status/2102487282414731367?s=20"
-      },
-      {
-        "date": "2026-09-22",
-        "text": "Shams Charania:The Atlanta Hawks are trading Buddy Hield, Ryan Nembhard and cash to the Charlotte Hornets for Dorian Finney-Smith,sources tell ESPN.x.com",
-        "text_html": "Shams Charania: <a href=\"https://x.com/ShamsCharania/status/2102486115089301743?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">The Atlanta Hawks are trading Buddy Hield, Ryan Nembhard and cash to the Charlotte Hornets for Dorian Finney-Smith,</a> sources tell ESPN.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/ShamsCharania/status/2102486115089301743?s=20"
-      },
-      {
-        "date": "2026-09-22",
-        "text": "Michael Scotto: JUST IN:The Atlanta Hawks are trading Buddy Hield and Ryan Nembhard to the Charlotte Hornets in exchange for Dorian Finney-Smith,league sources told @hoopshype .x.com",
-        "text_html": "Michael Scotto: JUST IN: <a href=\"https://x.com/MikeAScotto/status/2102486261579530427?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">The Atlanta Hawks are trading Buddy Hield and Ryan Nembhard to the Charlotte Hornets in exchange for Dorian Finney-Smith,</a> league sources told @hoopshype .",
-        "outlet": "x.com",
-        "source_url": "https://x.com/MikeAScotto/status/2102486261579530427?s=20"
-      },
-      {
-        "date": "2026-09-22",
-        "text": "Jake Fischer:There\u2019s been renewed talks today between the Hawks and Hornets, sources say. Trade structure that\u2019s been discussed today, per sources: Buddy Hield and Ryan Nembhard to Charlotte, Dorian Finney-Smith to Atlanta.x.com",
-        "text_html": "Jake Fischer: <a href=\"https://x.com/JakeLFischer/status/2102485976492953937?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">There\u2019s been renewed talks today between the Hawks and Hornets, sources say. Trade structure that\u2019s been discussed today, per sources: Buddy Hield and Ryan Nembhard to Charlotte, Dorian Finney-Smith to Atlanta</a>.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/JakeLFischer/status/2102485976492953937?s=20"
-      }
-    ],
-    "Devin Booker": [
-      {
-        "date": "2026-09-22",
-        "text": "On HoopsMatic over the past 24 hours,Jimmy Butler showed up in 5.3% of all trades built.Among those, he was most often sent to Washington (11.1%), Phoenix (9.3%), and San Antonio (9.3%), and the return pieces that came up most often were Anthony Davis (11.1%), Devin Booker (9.3%), and Jordan Poole (9.3%).HoopsMatic",
-        "text_html": "On HoopsMatic over the past 24 hours, <a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">Jimmy Butler showed up in 5.3% of all trades built.</a> Among those, he was most often sent to Washington (11.1%), Phoenix (9.3%), and San Antonio (9.3%), and the return pieces that came up most often were Anthony Davis (11.1%), Devin Booker (9.3%), and Jordan Poole (9.3%).",
-        "outlet": "HoopsMatic",
-        "source_url": "https://hoopsmatic.com/"
-      }
-    ],
-    "Jordan Poole": [
-      {
-        "date": "2026-09-22",
-        "text": "On HoopsMatic over the past 24 hours,Jimmy Butler showed up in 5.3% of all trades built.Among those, he was most often sent to Washington (11.1%), Phoenix (9.3%), and San Antonio (9.3%), and the return pieces that came up most often were Anthony Davis (11.1%), Devin Booker (9.3%), and Jordan Poole (9.3%).HoopsMatic",
-        "text_html": "On HoopsMatic over the past 24 hours, <a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">Jimmy Butler showed up in 5.3% of all trades built.</a> Among those, he was most often sent to Washington (11.1%), Phoenix (9.3%), and San Antonio (9.3%), and the return pieces that came up most often were Anthony Davis (11.1%), Devin Booker (9.3%), and Jordan Poole (9.3%).",
-        "outlet": "HoopsMatic",
-        "source_url": "https://hoopsmatic.com/"
-      }
     ]
   },
   "daily_counts": {
@@ -2533,8 +2295,7 @@
     "Jimmy Butler": {
       "2026-10-17": 1,
       "2026-10-16": 2,
-      "2026-09-28": 1,
-      "2026-09-22": 1
+      "2026-09-28": 1
     },
     "Kristaps Porzingis": {
       "2026-10-17": 1
@@ -2544,8 +2305,7 @@
       "2026-10-14": 1,
       "2026-10-12": 2,
       "2026-09-30": 1,
-      "2026-09-27": 1,
-      "2026-09-22": 2
+      "2026-09-27": 1
     },
     "Luka Doncic": {
       "2026-10-17": 1,
@@ -2561,8 +2321,7 @@
     },
     "Anthony Davis": {
       "2026-10-16": 1,
-      "2026-10-01": 1,
-      "2026-09-22": 1
+      "2026-10-01": 1
     },
     "Jaylen Brown": {
       "2026-10-16": 1,
@@ -2807,21 +2566,6 @@
     },
     "Cedric Coward": {
       "2026-09-23": 1
-    },
-    "Buddy Hield": {
-      "2026-09-22": 6
-    },
-    "Dorian Finney-Smith": {
-      "2026-09-22": 6
-    },
-    "Ryan Nembhard": {
-      "2026-09-22": 6
-    },
-    "Devin Booker": {
-      "2026-09-22": 1
-    },
-    "Jordan Poole": {
-      "2026-09-22": 1
     }
   }
 }
