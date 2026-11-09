@@ -1,22 +1,34 @@
 {
-  "generated_at": "2026-11-09T07:40:13.695620",
+  "generated_at": "2026-11-09T22:45:07.253439",
   "scrape_window_days": 28,
   "window_start": "2026-10-12",
   "window_end": "2026-11-09",
-  "total_rumors": 207,
-  "total_players": 102,
+  "total_rumors": 215,
+  "total_players": 106,
   "rankings": [
     {
       "player": "Kristaps Porzingis",
-      "score": 13.75,
-      "mentions_week1": 10,
+      "score": 14.75,
+      "mentions_week1": 11,
       "mentions_week2": 3,
       "mentions_weeks3_4": 9,
-      "total_mentions": 22,
+      "total_mentions": 23,
       "first_mention": "2026-10-17",
-      "last_mention": "2026-11-06",
+      "last_mention": "2026-11-09",
       "team": "Golden State Warriors",
       "rank": 1
+    },
+    {
+      "player": "Kyrie Irving",
+      "score": 6.0,
+      "mentions_week1": 3,
+      "mentions_week2": 4,
+      "mentions_weeks3_4": 4,
+      "total_mentions": 11,
+      "first_mention": "2026-10-12",
+      "last_mention": "2026-11-09",
+      "team": "Dallas Mavericks",
+      "rank": 2
     },
     {
       "player": "Domantas Sabonis",
@@ -28,29 +40,17 @@
       "first_mention": "2026-10-25",
       "last_mention": "2026-11-06",
       "team": "Sacramento Kings",
-      "rank": 2
-    },
-    {
-      "player": "Kyrie Irving",
-      "score": 5.0,
-      "mentions_week1": 2,
-      "mentions_week2": 4,
-      "mentions_weeks3_4": 4,
-      "total_mentions": 10,
-      "first_mention": "2026-10-12",
-      "last_mention": "2026-11-02",
-      "team": "Dallas Mavericks",
       "rank": 3
     },
     {
       "player": "Jaylen Brown",
-      "score": 4.0,
-      "mentions_week1": 0,
+      "score": 5.0,
+      "mentions_week1": 1,
       "mentions_week2": 6,
       "mentions_weeks3_4": 4,
-      "total_mentions": 10,
+      "total_mentions": 11,
       "first_mention": "2026-10-16",
-      "last_mention": "2026-10-28",
+      "last_mention": "2026-11-09",
       "team": "Boston Celtics",
       "rank": 4
     },
@@ -127,19 +127,19 @@
       "rank": 10
     },
     {
-      "player": "Kris Dunn",
+      "player": "Jamal Murray",
       "score": 2.0,
       "mentions_week1": 2,
       "mentions_week2": 0,
       "mentions_weeks3_4": 0,
       "total_mentions": 2,
-      "first_mention": "2026-11-06",
-      "last_mention": "2026-11-08",
-      "team": "Los Angeles Clippers",
+      "first_mention": "2026-11-05",
+      "last_mention": "2026-11-09",
+      "team": "Denver Nuggets",
       "rank": 11
     },
     {
-      "player": "Max Strus",
+      "player": "Kris Dunn",
       "score": 2.0,
       "mentions_week1": 2,
       "mentions_week2": 0,
@@ -151,6 +151,18 @@
       "rank": 12
     },
     {
+      "player": "Max Strus",
+      "score": 2.0,
+      "mentions_week1": 2,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 2,
+      "first_mention": "2026-11-06",
+      "last_mention": "2026-11-08",
+      "team": "Los Angeles Clippers",
+      "rank": 13
+    },
+    {
       "player": "Nikola Jokic",
       "score": 2.0,
       "mentions_week1": 2,
@@ -160,7 +172,7 @@
       "first_mention": "2026-11-04",
       "last_mention": "2026-11-05",
       "team": "Denver Nuggets",
-      "rank": 13
+      "rank": 14
     },
     {
       "player": "Rui Hachimura",
@@ -172,7 +184,7 @@
       "first_mention": "2026-11-06",
       "last_mention": "2026-11-08",
       "team": "Los Angeles Lakers",
-      "rank": 14
+      "rank": 15
     },
     {
       "player": "Zach LaVine",
@@ -184,7 +196,7 @@
       "first_mention": "2026-11-03",
       "last_mention": "2026-11-06",
       "team": "Sacramento Kings",
-      "rank": 15
+      "rank": 16
     },
     {
       "player": "Giannis Antetokounmpo",
@@ -196,7 +208,7 @@
       "first_mention": "2026-10-14",
       "last_mention": "2026-11-04",
       "team": "Milwaukee Bucks",
-      "rank": 16
+      "rank": 17
     },
     {
       "player": "Kevin Porter",
@@ -208,7 +220,7 @@
       "first_mention": "2026-10-19",
       "last_mention": "2026-11-08",
       "team": "Milwaukee Bucks",
-      "rank": 17
+      "rank": 18
     },
     {
       "player": "Ja Morant",
@@ -220,7 +232,7 @@
       "first_mention": "2026-10-13",
       "last_mention": "2026-11-03",
       "team": "Memphis Grizzlies",
-      "rank": 18
+      "rank": 19
     },
     {
       "player": "Jalen Green",
@@ -232,7 +244,7 @@
       "first_mention": "2026-10-20",
       "last_mention": "2026-11-08",
       "team": "Phoenix Suns",
-      "rank": 19
+      "rank": 20
     },
     {
       "player": "Michael Porter",
@@ -244,7 +256,7 @@
       "first_mention": "2026-10-17",
       "last_mention": "2026-11-07",
       "team": "Atlanta Hawks",
-      "rank": 20
+      "rank": 21
     },
     {
       "player": "Herb Jones",
@@ -256,7 +268,7 @@
       "first_mention": "2026-10-28",
       "last_mention": "2026-10-29",
       "team": "New Orleans Pelicans",
-      "rank": 21
+      "rank": 22
     },
     {
       "player": "Trey Murphy",
@@ -268,7 +280,7 @@
       "first_mention": "2026-10-27",
       "last_mention": "2026-10-29",
       "team": "New Orleans Pelicans",
-      "rank": 22
+      "rank": 23
     },
     {
       "player": "Chet Holmgren",
@@ -280,7 +292,7 @@
       "first_mention": "2026-10-27",
       "last_mention": "2026-11-05",
       "team": "Oklahoma City Thunder",
-      "rank": 23
+      "rank": 24
     },
     {
       "player": "Jalen Duren",
@@ -292,7 +304,7 @@
       "first_mention": "2026-10-30",
       "last_mention": "2026-11-06",
       "team": "Detroit Pistons",
-      "rank": 24
+      "rank": 25
     },
     {
       "player": "Marcus Sasser",
@@ -304,7 +316,7 @@
       "first_mention": "2026-10-30",
       "last_mention": "2026-11-08",
       "team": "Boston Celtics",
-      "rank": 25
+      "rank": 26
     },
     {
       "player": "Walter Clayton",
@@ -316,7 +328,7 @@
       "first_mention": "2026-10-16",
       "last_mention": "2026-10-20",
       "team": "Dallas Mavericks",
-      "rank": 26
+      "rank": 27
     },
     {
       "player": "Ty Jerome",
@@ -328,7 +340,7 @@
       "first_mention": "2026-10-23",
       "last_mention": "2026-10-28",
       "team": "Cleveland Cavaliers",
-      "rank": 27
+      "rank": 28
     },
     {
       "player": "Derrick White",
@@ -340,7 +352,7 @@
       "first_mention": "2026-10-20",
       "last_mention": "2026-11-07",
       "team": "Boston Celtics",
-      "rank": 28
+      "rank": 29
     },
     {
       "player": "Draymond Green",
@@ -352,7 +364,7 @@
       "first_mention": "2026-10-16",
       "last_mention": "2026-11-06",
       "team": "Golden State Warriors",
-      "rank": 29
+      "rank": 30
     },
     {
       "player": "Jaren Jackson Jr",
@@ -364,7 +376,7 @@
       "first_mention": "2026-10-25",
       "last_mention": "2026-11-03",
       "team": "Cleveland Cavaliers",
-      "rank": 30
+      "rank": 31
     },
     {
       "player": "Julius Randle",
@@ -376,7 +388,7 @@
       "first_mention": "2026-10-14",
       "last_mention": "2026-11-04",
       "team": "Minnesota Timberwolves",
-      "rank": 31
+      "rank": 32
     },
     {
       "player": "LaMelo Ball",
@@ -388,7 +400,7 @@
       "first_mention": "2026-10-14",
       "last_mention": "2026-11-04",
       "team": "Charlotte Hornets",
-      "rank": 32
+      "rank": 33
     },
     {
       "player": "Myles Turner",
@@ -400,7 +412,7 @@
       "first_mention": "2026-10-13",
       "last_mention": "2026-11-04",
       "team": "Milwaukee Bucks",
-      "rank": 33
+      "rank": 34
     },
     {
       "player": "Dalton Knecht",
@@ -412,7 +424,7 @@
       "first_mention": "2026-10-16",
       "last_mention": "2026-10-19",
       "team": "Los Angeles Lakers",
-      "rank": 34
+      "rank": 35
     },
     {
       "player": "Jimmy Butler",
@@ -424,7 +436,7 @@
       "first_mention": "2026-10-16",
       "last_mention": "2026-10-23",
       "team": "Golden State Warriors",
-      "rank": 35
+      "rank": 36
     },
     {
       "player": "Aaron Wiggins",
@@ -436,7 +448,7 @@
       "first_mention": "2026-11-08",
       "last_mention": "2026-11-08",
       "team": "Atlanta Hawks",
-      "rank": 36
+      "rank": 37
     },
     {
       "player": "Ariel Hukporti",
@@ -448,7 +460,7 @@
       "first_mention": "2026-11-06",
       "last_mention": "2026-11-06",
       "team": "Philadelphia 76ers",
-      "rank": 37
+      "rank": 38
     },
     {
       "player": "Ausar Thompson",
@@ -460,7 +472,7 @@
       "first_mention": "2026-11-06",
       "last_mention": "2026-11-06",
       "team": "Detroit Pistons",
-      "rank": 38
+      "rank": 39
     },
     {
       "player": "Austin Reaves",
@@ -472,7 +484,7 @@
       "first_mention": "2026-11-06",
       "last_mention": "2026-11-06",
       "team": "Los Angeles Lakers",
-      "rank": 39
+      "rank": 40
     },
     {
       "player": "Ayo Dosunmu",
@@ -484,7 +496,7 @@
       "first_mention": "2026-11-05",
       "last_mention": "2026-11-05",
       "team": "Chicago Bulls",
-      "rank": 40
+      "rank": 41
     },
     {
       "player": "Brandon Miller",
@@ -496,7 +508,7 @@
       "first_mention": "2026-11-04",
       "last_mention": "2026-11-04",
       "team": "Charlotte Hornets",
-      "rank": 41
+      "rank": 42
     },
     {
       "player": "Caleb Martin",
@@ -508,7 +520,7 @@
       "first_mention": "2026-11-08",
       "last_mention": "2026-11-08",
       "team": "Dallas Mavericks",
-      "rank": 42
+      "rank": 43
     },
     {
       "player": "Dalen Terry",
@@ -520,7 +532,7 @@
       "first_mention": "2026-11-08",
       "last_mention": "2026-11-08",
       "team": "Golden State Warriors",
-      "rank": 43
+      "rank": 44
     },
     {
       "player": "Daniel Gafford",
@@ -532,7 +544,19 @@
       "first_mention": "2026-11-08",
       "last_mention": "2026-11-08",
       "team": "Dallas Mavericks",
-      "rank": 44
+      "rank": 45
+    },
+    {
+      "player": "De'Aaron Fox",
+      "score": 1.0,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-11-09",
+      "last_mention": "2026-11-09",
+      "team": "San Antonio Spurs",
+      "rank": 46
     },
     {
       "player": "Deni Avdija",
@@ -544,7 +568,19 @@
       "first_mention": "2026-11-03",
       "last_mention": "2026-11-03",
       "team": "Portland Trail Blazers",
-      "rank": 45
+      "rank": 47
+    },
+    {
+      "player": "Desmond Bane",
+      "score": 1.0,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-11-09",
+      "last_mention": "2026-11-09",
+      "team": "Orlando Magic",
+      "rank": 48
     },
     {
       "player": "Evan Mobley",
@@ -556,7 +592,31 @@
       "first_mention": "2026-11-03",
       "last_mention": "2026-11-03",
       "team": "Cleveland Cavaliers",
-      "rank": 46
+      "rank": 49
+    },
+    {
+      "player": "Grant Williams",
+      "score": 1.0,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-11-09",
+      "last_mention": "2026-11-09",
+      "team": "Charlotte Hornets",
+      "rank": 50
+    },
+    {
+      "player": "Grayson Allen",
+      "score": 1.0,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-11-09",
+      "last_mention": "2026-11-09",
+      "team": "Phoenix Suns",
+      "rank": 51
     },
     {
       "player": "Jakob Poeltl",
@@ -568,7 +628,7 @@
       "first_mention": "2026-11-04",
       "last_mention": "2026-11-04",
       "team": "Toronto Raptors",
-      "rank": 47
+      "rank": 52
     },
     {
       "player": "Jalen Smith",
@@ -580,19 +640,7 @@
       "first_mention": "2026-11-04",
       "last_mention": "2026-11-04",
       "team": "Chicago Bulls",
-      "rank": 48
-    },
-    {
-      "player": "Jamal Murray",
-      "score": 1.0,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-11-05",
-      "last_mention": "2026-11-05",
-      "team": "Denver Nuggets",
-      "rank": 49
+      "rank": 53
     },
     {
       "player": "Jamaree Bouyea",
@@ -604,7 +652,7 @@
       "first_mention": "2026-11-04",
       "last_mention": "2026-11-04",
       "team": "Philadelphia 76ers",
-      "rank": 50
+      "rank": 54
     },
     {
       "player": "Jarrett Allen",
@@ -616,7 +664,7 @@
       "first_mention": "2026-11-07",
       "last_mention": "2026-11-07",
       "team": "Cleveland Cavaliers",
-      "rank": 51
+      "rank": 55
     },
     {
       "player": "Jerami Grant",
@@ -628,7 +676,7 @@
       "first_mention": "2026-11-07",
       "last_mention": "2026-11-07",
       "team": "Atlanta Hawks",
-      "rank": 52
+      "rank": 56
     },
     {
       "player": "Kevon Looney",
@@ -640,7 +688,7 @@
       "first_mention": "2026-11-06",
       "last_mention": "2026-11-06",
       "team": "Los Angeles Lakers",
-      "rank": 53
+      "rank": 57
     },
     {
       "player": "Kon Knueppel",
@@ -652,7 +700,7 @@
       "first_mention": "2026-11-04",
       "last_mention": "2026-11-04",
       "team": "Charlotte Hornets",
-      "rank": 54
+      "rank": 58
     },
     {
       "player": "LeBron James",
@@ -664,7 +712,7 @@
       "first_mention": "2026-11-05",
       "last_mention": "2026-11-05",
       "team": "Los Angeles Lakers",
-      "rank": 55
+      "rank": 59
     },
     {
       "player": "Malik Monk",
@@ -676,7 +724,7 @@
       "first_mention": "2026-11-06",
       "last_mention": "2026-11-06",
       "team": "Sacramento Kings",
-      "rank": 56
+      "rank": 60
     },
     {
       "player": "Paul George",
@@ -688,7 +736,7 @@
       "first_mention": "2026-11-05",
       "last_mention": "2026-11-05",
       "team": "Philadelphia 76ers",
-      "rank": 57
+      "rank": 61
     },
     {
       "player": "Stephen Curry",
@@ -700,7 +748,7 @@
       "first_mention": "2026-11-05",
       "last_mention": "2026-11-05",
       "team": "Golden State Warriors",
-      "rank": 58
+      "rank": 62
     },
     {
       "player": "Tyrese Maxey",
@@ -712,7 +760,7 @@
       "first_mention": "2026-11-04",
       "last_mention": "2026-11-04",
       "team": "Philadelphia 76ers",
-      "rank": 59
+      "rank": 63
     },
     {
       "player": "Jayson Tatum",
@@ -724,7 +772,7 @@
       "first_mention": "2026-10-23",
       "last_mention": "2026-10-24",
       "team": "Boston Celtics",
-      "rank": 60
+      "rank": 64
     },
     {
       "player": "Luka Doncic",
@@ -736,7 +784,7 @@
       "first_mention": "2026-10-17",
       "last_mention": "2026-10-31",
       "team": "Los Angeles Lakers",
-      "rank": 61
+      "rank": 65
     },
     {
       "player": "Scoot Henderson",
@@ -748,7 +796,7 @@
       "first_mention": "2026-10-24",
       "last_mention": "2026-11-01",
       "team": "Portland Trail Blazers",
-      "rank": 62
+      "rank": 66
     },
     {
       "player": "Zach Edey",
@@ -760,7 +808,7 @@
       "first_mention": "2026-10-23",
       "last_mention": "2026-10-27",
       "team": "Memphis Grizzlies",
-      "rank": 63
+      "rank": 67
     },
     {
       "player": "Bruce Brown",
@@ -772,7 +820,7 @@
       "first_mention": "2026-10-15",
       "last_mention": "2026-10-16",
       "team": "Denver Nuggets",
-      "rank": 64
+      "rank": 68
     },
     {
       "player": "James Harden",
@@ -784,7 +832,7 @@
       "first_mention": "2026-10-13",
       "last_mention": "2026-10-21",
       "team": "Los Angeles Clippers",
-      "rank": 65
+      "rank": 69
     },
     {
       "player": "Karl-Anthony Towns",
@@ -796,7 +844,7 @@
       "first_mention": "2026-10-19",
       "last_mention": "2026-10-22",
       "team": "New York Knicks",
-      "rank": 66
+      "rank": 70
     },
     {
       "player": "Cade Cunningham",
@@ -808,7 +856,7 @@
       "first_mention": "2026-10-31",
       "last_mention": "2026-10-31",
       "team": "Detroit Pistons",
-      "rank": 67
+      "rank": 71
     },
     {
       "player": "Cason Wallace",
@@ -820,7 +868,7 @@
       "first_mention": "2026-10-28",
       "last_mention": "2026-10-28",
       "team": "Oklahoma City Thunder",
-      "rank": 68
+      "rank": 72
     },
     {
       "player": "Cedric Coward",
@@ -832,7 +880,7 @@
       "first_mention": "2026-10-27",
       "last_mention": "2026-10-27",
       "team": "Memphis Grizzlies",
-      "rank": 69
+      "rank": 73
     },
     {
       "player": "Damian Lillard",
@@ -844,7 +892,7 @@
       "first_mention": "2026-11-01",
       "last_mention": "2026-11-01",
       "team": "Portland Trail Blazers",
-      "rank": 70
+      "rank": 74
     },
     {
       "player": "Dejounte Murray",
@@ -856,7 +904,7 @@
       "first_mention": "2026-10-28",
       "last_mention": "2026-10-28",
       "team": "New Orleans Pelicans",
-      "rank": 71
+      "rank": 75
     },
     {
       "player": "Dennis Schroeder",
@@ -868,7 +916,7 @@
       "first_mention": "2026-10-31",
       "last_mention": "2026-10-31",
       "team": "Charlotte Hornets",
-      "rank": 72
+      "rank": 76
     },
     {
       "player": "Dereck Lively",
@@ -880,7 +928,7 @@
       "first_mention": "2026-10-30",
       "last_mention": "2026-10-30",
       "team": "Dallas Mavericks",
-      "rank": 73
+      "rank": 77
     },
     {
       "player": "Gradey Dick",
@@ -892,7 +940,7 @@
       "first_mention": "2026-10-27",
       "last_mention": "2026-10-27",
       "team": "Toronto Raptors",
-      "rank": 74
+      "rank": 78
     },
     {
       "player": "Isaiah Hartenstein",
@@ -904,7 +952,7 @@
       "first_mention": "2026-10-27",
       "last_mention": "2026-10-27",
       "team": "Oklahoma City Thunder",
-      "rank": 75
+      "rank": 79
     },
     {
       "player": "Jordan Poole",
@@ -916,7 +964,7 @@
       "first_mention": "2026-10-28",
       "last_mention": "2026-10-28",
       "team": "New Orleans Pelicans",
-      "rank": 76
+      "rank": 80
     },
     {
       "player": "Yves Missi",
@@ -928,7 +976,7 @@
       "first_mention": "2026-10-28",
       "last_mention": "2026-10-28",
       "team": "Golden State Warriors",
-      "rank": 77
+      "rank": 81
     },
     {
       "player": "Aaron Nesmith",
@@ -940,7 +988,7 @@
       "first_mention": "2026-10-13",
       "last_mention": "2026-10-13",
       "team": "Indiana Pacers",
-      "rank": 78
+      "rank": 82
     },
     {
       "player": "Alperen Sengun",
@@ -952,7 +1000,7 @@
       "first_mention": "2026-10-22",
       "last_mention": "2026-10-22",
       "team": "Houston Rockets",
-      "rank": 79
+      "rank": 83
     },
     {
       "player": "Anthony Black",
@@ -964,7 +1012,7 @@
       "first_mention": "2026-10-19",
       "last_mention": "2026-10-19",
       "team": "Orlando Magic",
-      "rank": 80
+      "rank": 84
     },
     {
       "player": "Anthony Davis",
@@ -976,7 +1024,7 @@
       "first_mention": "2026-10-16",
       "last_mention": "2026-10-16",
       "team": "Dallas Mavericks",
-      "rank": 81
+      "rank": 85
     },
     {
       "player": "Cam Christie",
@@ -988,7 +1036,7 @@
       "first_mention": "2026-10-14",
       "last_mention": "2026-10-14",
       "team": "Charlotte Hornets",
-      "rank": 82
+      "rank": 86
     },
     {
       "player": "Drew Eubanks",
@@ -1000,7 +1048,7 @@
       "first_mention": "2026-10-15",
       "last_mention": "2026-10-15",
       "team": "New York Knicks",
-      "rank": 83
+      "rank": 87
     },
     {
       "player": "Dyson Daniels",
@@ -1012,7 +1060,7 @@
       "first_mention": "2026-10-25",
       "last_mention": "2026-10-25",
       "team": "Atlanta Hawks",
-      "rank": 84
+      "rank": 88
     },
     {
       "player": "GG Jackson",
@@ -1024,7 +1072,7 @@
       "first_mention": "2026-10-16",
       "last_mention": "2026-10-16",
       "team": "Memphis Grizzlies",
-      "rank": 85
+      "rank": 89
     },
     {
       "player": "Ivica Zubac",
@@ -1036,7 +1084,7 @@
       "first_mention": "2026-10-13",
       "last_mention": "2026-10-13",
       "team": "Los Angeles Clippers",
-      "rank": 86
+      "rank": 90
     },
     {
       "player": "Jabari Smith",
@@ -1048,7 +1096,7 @@
       "first_mention": "2026-10-22",
       "last_mention": "2026-10-22",
       "team": "Denver Nuggets",
-      "rank": 87
+      "rank": 91
     },
     {
       "player": "Jaden McDaniels",
@@ -1060,7 +1108,7 @@
       "first_mention": "2026-10-14",
       "last_mention": "2026-10-14",
       "team": "Minnesota Timberwolves",
-      "rank": 88
+      "rank": 92
     },
     {
       "player": "Jalen Brunson",
@@ -1072,7 +1120,7 @@
       "first_mention": "2026-10-20",
       "last_mention": "2026-10-20",
       "team": "New York Knicks",
-      "rank": 89
+      "rank": 93
     },
     {
       "player": "Jericho Sims",
@@ -1084,7 +1132,7 @@
       "first_mention": "2026-10-16",
       "last_mention": "2026-10-16",
       "team": "Los Angeles Lakers",
-      "rank": 90
+      "rank": 94
     },
     {
       "player": "Jrue Holiday",
@@ -1096,7 +1144,7 @@
       "first_mention": "2026-10-24",
       "last_mention": "2026-10-24",
       "team": "Portland Trail Blazers",
-      "rank": 91
+      "rank": 95
     },
     {
       "player": "Kasparas Jakucionis",
@@ -1108,7 +1156,7 @@
       "first_mention": "2026-10-25",
       "last_mention": "2026-10-25",
       "team": "Chicago Bulls",
-      "rank": 92
+      "rank": 96
     },
     {
       "player": "Miles McBride",
@@ -1120,7 +1168,7 @@
       "first_mention": "2026-10-18",
       "last_mention": "2026-10-18",
       "team": "New York Knicks",
-      "rank": 93
+      "rank": 97
     },
     {
       "player": "Naz Reid",
@@ -1132,7 +1180,7 @@
       "first_mention": "2026-10-14",
       "last_mention": "2026-10-14",
       "team": "Minnesota Timberwolves",
-      "rank": 94
+      "rank": 98
     },
     {
       "player": "Pacome Dadiet",
@@ -1144,7 +1192,7 @@
       "first_mention": "2026-10-16",
       "last_mention": "2026-10-16",
       "team": "Charlotte Hornets",
-      "rank": 95
+      "rank": 99
     },
     {
       "player": "Pat Connaughton",
@@ -1156,7 +1204,7 @@
       "first_mention": "2026-10-14",
       "last_mention": "2026-10-14",
       "team": "Charlotte Hornets",
-      "rank": 96
+      "rank": 100
     },
     {
       "player": "Reed Sheppard",
@@ -1168,7 +1216,7 @@
       "first_mention": "2026-10-22",
       "last_mention": "2026-10-22",
       "team": "Houston Rockets",
-      "rank": 97
+      "rank": 101
     },
     {
       "player": "Tidjane Salaun",
@@ -1180,7 +1228,7 @@
       "first_mention": "2026-10-16",
       "last_mention": "2026-10-16",
       "team": "Charlotte Hornets",
-      "rank": 98
+      "rank": 102
     },
     {
       "player": "Tyler Kolek",
@@ -1192,7 +1240,7 @@
       "first_mention": "2026-10-16",
       "last_mention": "2026-10-16",
       "team": "Charlotte Hornets",
-      "rank": 99
+      "rank": 103
     },
     {
       "player": "Tyrese Haliburton",
@@ -1204,7 +1252,7 @@
       "first_mention": "2026-10-25",
       "last_mention": "2026-10-25",
       "team": "Indiana Pacers",
-      "rank": 100
+      "rank": 104
     },
     {
       "player": "Zeke Nnaji",
@@ -1216,7 +1264,7 @@
       "first_mention": "2026-10-24",
       "last_mention": "2026-10-24",
       "team": "Denver Nuggets",
-      "rank": 101
+      "rank": 105
     },
     {
       "player": "Zion Williamson",
@@ -1228,10 +1276,383 @@
       "first_mention": "2026-10-17",
       "last_mention": "2026-10-17",
       "team": "New Orleans Pelicans",
-      "rank": 102
+      "rank": 106
     }
   ],
   "player_rumors": {
+    "Kyrie Irving": [
+      {
+        "date": "2026-11-09",
+        "text": "Jaylen Brown never asked for a trade, but once informed the Celtics were shopping him, he submitted a list of his preferred destinations and teams he preferred not to play for. Philadelphia was on neither list. According to NBA sources, Brown was interested in the Nets,but Brooklyn management was wary because of his past support of Kyrie Irving during Irving\u2019s controversial tenure with the team, which included a suspension over sharing posts on social media containing antisemitic tropes.Boston Globe",
+        "text_html": "<a href=\"https://www.bostonglobe.com/2026/11/09/sports/jayson-tatum-jaylen-brown-relationship/\" target=\"_blank\" style=\"color: #1a73e8;\">Jaylen Brown never asked for a trade, but once informed the Celtics were shopping him, he submitted a list of his preferred destinations and teams he preferred not to play for. Philadelphia was on neither list. According to NBA sources, Brown was interested in the Nets,</a> but Brooklyn management was wary because of his past support of Kyrie Irving during Irving\u2019s controversial tenure with the team, which included a suspension over sharing posts on social media containing antisemitic tropes.",
+        "outlet": "Boston Globe",
+        "source_url": "https://www.bostonglobe.com/2026/11/09/sports/jayson-tatum-jaylen-brown-relationship/"
+      },
+      {
+        "date": "2026-11-02",
+        "text": "SiriusXM NBA Radio:\"The Mavs have consistently told teams they don't even want to field your call\"@TheSteinLine tells @BGeltzNBA why Kyrie Irving isn't availablex.com",
+        "text_html": "SiriusXM NBA Radio: <a href=\"https://x.com/SiriusXMNBA/status/2117358801456091453?a=BUdG_bYWXHMfeKkgarA&s=20\" target=\"_blank\" style=\"color: #1a73e8;\">\"The Mavs have consistently told teams they don't even want to field your call\"</a> @TheSteinLine tells @BGeltzNBA why Kyrie Irving isn't available",
+        "outlet": "x.com",
+        "source_url": "https://x.com/SiriusXMNBA/status/2117358801456091453?a=BUdG_bYWXHMfeKkgarA&s=20"
+      },
+      {
+        "date": "2026-11-02",
+        "text": "Tim MacMahon on Kyrie Irving:\"Going into the season, I would have said more likely than not, he gets moved by the deadline, but I didn't feel super strong about it. The more I see the team, the more I think it's going to be awfully hard to trade him.Not that there won't be a big market, there will be, but if they've got a chance to compete for a play-in, playoff spot, I just think it's going to be really tough to move Kyrie. Also, as much as he means to that locker room as well as he's working with Luka, it was beautiful basketball.\"YouTube",
+        "text_html": "Tim MacMahon on Kyrie Irving: <a href=\"https://www.youtube.com/watch?v=v2NpIFU-Pxg&t=613s\" target=\"_blank\" style=\"color: #1a73e8;\">\"Going into the season, I would have said more likely than not, he gets moved by the deadline, but I didn't feel super strong about it. The more I see the team, the more I think it's going to be awfully hard to trade him.</a> Not that there won't be a big market, there will be, but if they've got a chance to compete for a play-in, playoff spot, I just think it's going to be really tough to move Kyrie. Also, as much as he means to that locker room as well as he's working with Luka, it was beautiful basketball.\"",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=v2NpIFU-Pxg&t=613s"
+      },
+      {
+        "date": "2026-11-01",
+        "text": "Chris Mannix: \"I think Kyrie Irving is a separate topic.I think he's going to be the most in-demand player at the trade deadline because he's not on the Mavericks' timeline. I think Detroit is another team that will be salivating over getting Kyrie Irving.They're off to a great start. I think the Mavericks have a chance to get some real assets back in return for a player that's been good for them.\"YouTube",
+        "text_html": "Chris Mannix: \"I think Kyrie Irving is a separate topic. <a href=\"https://www.youtube.com/watch?v=elTX1ZC_XaI&t=373s\" target=\"_blank\" style=\"color: #1a73e8;\">I think he's going to be the most in-demand player at the trade deadline because he's not on the Mavericks' timeline. I think Detroit is another team that will be salivating over getting Kyrie Irving.</a> They're off to a great start. I think the Mavericks have a chance to get some real assets back in return for a player that's been good for them.\"",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=elTX1ZC_XaI&t=373s"
+      },
+      {
+        "date": "2026-10-30",
+        "text": "Ethan J. Skolnick on Kyrie Irving:\u201cI think we've both heard that he's interested in playing down in Miami. I also know Spoelstra holds him in very high regard.I know there are concerns about other stuff.\u201dSpotify",
+        "text_html": "Ethan J. Skolnick on Kyrie Irving: <a href=\"https://open.spotify.com/episode/2Zslqbc384lRt9dtqPpakb?nd=1&dlsi=73818e89336e4d00\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cI think we've both heard that he's interested in playing down in Miami. I also know Spoelstra holds him in very high regard.</a> I know there are concerns about other stuff.\u201d",
+        "outlet": "Spotify",
+        "source_url": "https://open.spotify.com/episode/2Zslqbc384lRt9dtqPpakb?nd=1&dlsi=73818e89336e4d00"
+      },
+      {
+        "date": "2026-10-30",
+        "text": "NBA Trade Machine:Over the past 24 hours, Jalen Green featured in 10.5% of trades built on HoopsMatic.Within his trades, he landed most often in Dallas (82.4%), New Orleans (2.6%), and LA Clippers (2.0%). Most often, he was traded for Marcus Sasser (24.8%), Dereck Lively (23.5%), and Kyrie Irving (23.5%).HoopsMatic",
+        "text_html": "NBA Trade Machine: <a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">Over the past 24 hours, Jalen Green featured in 10.5% of trades built on HoopsMatic.</a> Within his trades, he landed most often in Dallas (82.4%), New Orleans (2.6%), and LA Clippers (2.0%). Most often, he was traded for Marcus Sasser (24.8%), Dereck Lively (23.5%), and Kyrie Irving (23.5%).",
+        "outlet": "HoopsMatic",
+        "source_url": "https://hoopsmatic.com/"
+      },
+      {
+        "date": "2026-10-28",
+        "text": "Shams Charania:\"There's a slew of teams now that are monitoring Kyrie Irving. He's in the last year of his deal,he's got a player option next year. And so if you're a contending team and if the Mavericks are not really contending come trade deadline, do they look to trade him potentially to a contender for draft picks? That is what's also at the forefront of other teams' minds.\"YouTube",
+        "text_html": "Shams Charania: <a href=\"https://www.youtube.com/watch?v=YAIu-s-mR7k&t=517s\" target=\"_blank\" style=\"color: #1a73e8;\">\"There's a slew of teams now that are monitoring Kyrie Irving. He's in the last year of his deal,</a> he's got a player option next year. And so if you're a contending team and if the Mavericks are not really contending come trade deadline, do they look to trade him potentially to a contender for draft picks? That is what's also at the forefront of other teams' minds.\"",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=YAIu-s-mR7k&t=517s"
+      },
+      {
+        "date": "2026-10-17",
+        "text": "NBA Trade Machine:Michael Porter was part of 4.1% of the trades built on HoopsMatic over the past 24 hours. Of those trades, his top destinations were New Orleans (21.7%), Boston (13.0%), and LA Lakers (10.9%).The most common players sent back for him were Zion Williamson (17.4%), Luka Doncic (8.7%), and Kyrie Irving (8.7%).HoopsMatic",
+        "text_html": "NBA Trade Machine: <a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">Michael Porter was part of 4.1% of the trades built on HoopsMatic over the past 24 hours. Of those trades, his top destinations were New Orleans (21.7%), Boston (13.0%), and LA Lakers (10.9%).</a> The most common players sent back for him were Zion Williamson (17.4%), Luka Doncic (8.7%), and Kyrie Irving (8.7%).",
+        "outlet": "HoopsMatic",
+        "source_url": "https://hoopsmatic.com/"
+      },
+      {
+        "date": "2026-10-14",
+        "text": "NBA insider Jake Fischer is convinced Irving will be a key trade candidate for many teams before the deadline.\"I still believe that Kyrie Irving is someone we are going to talking about through the February 11th trade deadline as a trade target for rival teams,\" Fischer said on Bleacher Report. \"He just does not fit the timeline, he is almost a decade and a half older than Cooper Flagg. He himself is going into the end of a very lucrative contract where he\u2019s want to get paid.\"BasketNews",
+        "text_html": "NBA insider Jake Fischer is convinced Irving will be a key trade candidate for many teams before the deadline. <a href=\"https://basketnews.com/news-257295-nba-insider-drops-massive-verdict-on-kyrie-irving-trade-situation-for-dallas.html\" target=\"_blank\" style=\"color: #1a73e8;\">\"I still believe that Kyrie Irving is someone we are going to talking about through the February 11th trade deadline as a trade target for rival teams,\" Fischer said on Bleacher Report</a>. \"He just does not fit the timeline, he is almost a decade and a half older than Cooper Flagg. He himself is going into the end of a very lucrative contract where he\u2019s want to get paid.\"",
+        "outlet": "BasketNews",
+        "source_url": "https://basketnews.com/news-257295-nba-insider-drops-massive-verdict-on-kyrie-irving-trade-situation-for-dallas.html"
+      },
+      {
+        "date": "2026-10-12",
+        "text": "Ujiri has made it clear that the franchise is committed to keeping Irving with Flagg, who is 15 years younger than the star point guard.Rival front offices question whether Dallas can stick to that plan with roster holes elsewhere and the two stars on different career timelines. That is certainly a backdrop. But Flagg is now on stage, and he is giving off the vibes that he's ready. As they watch him do it every day, the rest of the Mavs feel it.ESPN",
+        "text_html": "Ujiri has made it clear that the franchise is committed to keeping Irving with Flagg, who is 15 years younger than the star point guard. <a href=\"https://www.espn.com/nba/story/_/id/50163354/cooper-flagg-kyrie-irving-mavericks-china\" target=\"_blank\" style=\"color: #1a73e8;\">Rival front offices question whether Dallas can stick to that plan with roster holes elsewhere and the two stars on different career timelines</a>. That is certainly a backdrop. But Flagg is now on stage, and he is giving off the vibes that he's ready. As they watch him do it every day, the rest of the Mavs feel it.",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/50163354/cooper-flagg-kyrie-irving-mavericks-china"
+      },
+      {
+        "date": "2026-10-12",
+        "text": "Tim MacMahon:\"There's a lot of intrigue around the league as far as whether the Mavericks will be willing to entertain trade discussions for Kyrie.It's not because the Mavericks don't love Kyrie, they absolutely do, but the charge from Masai is to build a sustainable contender around Cooper Flagg. Could a path forward, or at least part of a path forward, be capitalized on the value that Kyrie would have in the trade market?\"YouTube",
+        "text_html": "Tim MacMahon: <a href=\"https://www.youtube.com/watch?v=gz7dwlfP9uc&t=186s\" target=\"_blank\" style=\"color: #1a73e8;\">\"There's a lot of intrigue around the league as far as whether the Mavericks will be willing to entertain trade discussions for Kyrie.</a> It's not because the Mavericks don't love Kyrie, they absolutely do, but the charge from Masai is to build a sustainable contender around Cooper Flagg. Could a path forward, or at least part of a path forward, be capitalized on the value that Kyrie would have in the trade market?\"",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=gz7dwlfP9uc&t=186s"
+      }
+    ],
+    "Jaylen Brown": [
+      {
+        "date": "2026-11-09",
+        "text": "Jaylen Brown never asked for a trade, but once informed the Celtics were shopping him, he submitted a list of his preferred destinations and teams he preferred not to play for. Philadelphia was on neither list. According to NBA sources, Brown was interested in the Nets,but Brooklyn management was wary because of his past support of Kyrie Irving during Irving\u2019s controversial tenure with the team, which included a suspension over sharing posts on social media containing antisemitic tropes.Boston Globe",
+        "text_html": "<a href=\"https://www.bostonglobe.com/2026/11/09/sports/jayson-tatum-jaylen-brown-relationship/\" target=\"_blank\" style=\"color: #1a73e8;\">Jaylen Brown never asked for a trade, but once informed the Celtics were shopping him, he submitted a list of his preferred destinations and teams he preferred not to play for. Philadelphia was on neither list. According to NBA sources, Brown was interested in the Nets,</a> but Brooklyn management was wary because of his past support of Kyrie Irving during Irving\u2019s controversial tenure with the team, which included a suspension over sharing posts on social media containing antisemitic tropes.",
+        "outlet": "Boston Globe",
+        "source_url": "https://www.bostonglobe.com/2026/11/09/sports/jayson-tatum-jaylen-brown-relationship/"
+      },
+      {
+        "date": "2026-10-28",
+        "text": "Gina Mizell: Jaylen Brown responds to Brian Scalabrine\u2019s report (then walked-back report?) he demanded a trade out of Boston:\u201cI have no interest in letting any false allegations (follow) me into my next chapter here in Philadelphia. I never demanded a trade. Never made a list of ultimatums.\u201dx.com",
+        "text_html": "Gina Mizell: Jaylen Brown responds to Brian Scalabrine\u2019s report (then walked-back report?) he demanded a trade out of Boston: <a href=\"https://x.com/ginamizell/status/2115640999850418363\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cI have no interest in letting any false allegations (follow) me into my next chapter here in Philadelphia. I never demanded a trade. Never made a list of ultimatums.\u201d</a>",
+        "outlet": "x.com",
+        "source_url": "https://x.com/ginamizell/status/2115640999850418363"
+      },
+      {
+        "date": "2026-10-28",
+        "text": "NBACentral:Brian Scalabrine goes OFF on Jaylen Brown?\u201cJaylen Brown wants to be the victim in all of this,and this is the way he\u2019s doing it now. He\u2019s using me, or his PR team, or whatever it is, to play the victim, and he\u2019s not going to take responsibility for it. That\u2019s fine\u2026I just feel like he wants to say whatever he wants, and he doesn\u2019t want to be held accountable, just like on his Twitch. He wants his legacy to remain intact, and he\u2019s not going to take responsibility for the other stuff that he brings up. And this is just the beginning of it.\u201dx.com",
+        "text_html": "NBACentral: <a href=\"https://x.com/thedunkcentral/status/2115164996610973804?s=46\" target=\"_blank\" style=\"color: #1a73e8;\">Brian Scalabrine goes OFF on Jaylen Brown</a> ? <a class=\"quote\" href=\"https://x.com/thedunkcentral/status/2115164996610973804?s=46\" onclick=\"return HHRumors.OpenLink(this,'g6MD-rMJAB');\" rel=\"nofollow\" title=\"Read more on x.com\">\u201cJaylen Brown wants to be the victim in all of this,</a> and this is the way he\u2019s doing it now. He\u2019s using me, or his PR team, or whatever it is, to play the victim, and he\u2019s not going to take responsibility for it. That\u2019s fine\u2026I just feel like he wants to say whatever he wants, and he doesn\u2019t want to be held accountable, just like on his Twitch. He wants his legacy to remain intact, and he\u2019s not going to take responsibility for the other stuff that he brings up. And this is just the beginning of it.\u201d",
+        "outlet": "x.com",
+        "source_url": "https://x.com/thedunkcentral/status/2115164996610973804?s=46"
+      },
+      {
+        "date": "2026-10-27",
+        "text": "\u201cMy understanding of this thing is that (Brown) demanded to be traded,\u201d Scalabrine said. \u201cNot through the media, but to the organization.\u201d Hours later, Scalabrine walked back parts of that report during NBC Sports Boston\u2019s pregame show\u201cTo be fair, after the 48 calls I\u2019ve fended today and I listened, he technically didn\u2019t demand any trade,\u201d he said. \u201c\u2026 I just summed it all up. I summed up the entire word salad and kept it simple. But I think that\u2019s what kind of got me in trouble there.\u201dBoston Herald",
+        "text_html": "\u201cMy understanding of this thing is that (Brown) demanded to be traded,\u201d Scalabrine said. \u201cNot through the media, but to the organization.\u201d Hours later, Scalabrine walked back parts of that report during NBC Sports Boston\u2019s pregame show <a href=\"https://www.bostonherald.com/2026/10/26/celtics-broadcaster-says-jaylen-brown-demanded-to-be-traded/\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cTo be fair, after the 48 calls I\u2019ve fended today and I listened, he technically didn\u2019t demand any trade,\u201d he said. \u201c\u2026 I just summed it all up. I summed up the entire word salad and kept it simple. But I think that\u2019s what kind of got me in trouble there.\u201d</a>",
+        "outlet": "Boston Herald",
+        "source_url": "https://www.bostonherald.com/2026/10/26/celtics-broadcaster-says-jaylen-brown-demanded-to-be-traded/"
+      },
+      {
+        "date": "2026-10-27",
+        "text": "He added: \u201cI don\u2019t know what the ultimatum was or the demands or whatever it was. So he technically did not demand to be traded. It was, \u2018Do these things right here or else.\u2019 And one of them might have been, like, \u2018Give me the $140 million extension\u2019(for which Brown would have been eligible this offseason). I haven\u2019t gotten to the bottom of all of that. I didn\u2019t even know this was going to be a thing.\u201dBoston Herald",
+        "text_html": "<a href=\"https://www.bostonherald.com/2026/10/26/celtics-broadcaster-says-jaylen-brown-demanded-to-be-traded/\" target=\"_blank\" style=\"color: #1a73e8;\">He added: \u201cI don\u2019t know what the ultimatum was or the demands or whatever it was. So he technically did not demand to be traded. It was, \u2018Do these things right here or else.\u2019 And one of them might have been, like, \u2018Give me the $140 million extension\u2019</a> (for which Brown would have been eligible this offseason). I haven\u2019t gotten to the bottom of all of that. I didn\u2019t even know this was going to be a thing.\u201d",
+        "outlet": "Boston Herald",
+        "source_url": "https://www.bostonherald.com/2026/10/26/celtics-broadcaster-says-jaylen-brown-demanded-to-be-traded/"
+      },
+      {
+        "date": "2026-10-26",
+        "text": "Kris Rhim:A representative from Jaylen Brown\u2019s team told ESPN that reports that he demanded a trade or presented the Celtics with a list of demands are \u201c10000% a lie.\u201dBrown never requested a trade to Milwaukee, the representative said. After the deal fell through and Boston informed him he\u2019d be traded, his only request was to have input on his destination.x.com",
+        "text_html": "Kris Rhim: <a href=\"https://x.com/krisrhim1/status/2114892130745516172\" target=\"_blank\" style=\"color: #1a73e8;\">A representative from Jaylen Brown\u2019s team told ESPN that reports that he demanded a trade or presented the Celtics with a list of demands are \u201c10000% a lie.\u201d</a> Brown never requested a trade to Milwaukee, the representative said. After the deal fell through and Boston informed him he\u2019d be traded, his only request was to have input on his destination.",
+        "outlet": "x.com",
+        "source_url": "https://x.com/krisrhim1/status/2114892130745516172"
+      },
+      {
+        "date": "2026-10-26",
+        "text": "Fullcourtpass:Jaylen Brown gave the Celtics front office a list of demands and told them to complete them all or trade him,per @Scalabrine Brown was pushing for a trade to Milwaukee and even contacted his teammates about trying to team up there (Via @SiriusXMNBA, h/t @JaysEnjoyer_)x.com",
+        "text_html": "Fullcourtpass: <a href=\"https://x.com/Fullcourtpass/status/2114809519557529987\" target=\"_blank\" style=\"color: #1a73e8;\">Jaylen Brown gave the Celtics front office a list of demands and told them to complete them all or trade him,</a> per @Scalabrine Brown was pushing for a trade to Milwaukee and even contacted his teammates about trying to team up there (Via @SiriusXMNBA, h/t @JaysEnjoyer_)",
+        "outlet": "x.com",
+        "source_url": "https://x.com/Fullcourtpass/status/2114809519557529987"
+      },
+      {
+        "date": "2026-10-24",
+        "text": "\"I reached out to him the day he was traded. I called, I texted,\" Tatum said. \"I understand people process things differently. At this point in our lives, we're too old to be having our relationship discussed on the internet. If there's a conversation to be had, we can definitely have the conversation. \"I welcome that. I've always wanted the best for him, wished the best for him. I've always publicly said those things.\"ESPN",
+        "text_html": "<a href=\"https://www.espn.com/nba/story/_/id/50263591/celtics-jayson-tatum-insists-no-beef-76ers-jaylen-brown-wake-trade\" target=\"_blank\" style=\"color: #1a73e8;\">\"I reached out to him the day he was traded. I called, I texted,\" Tatum said. \"I understand people process things differently. At this point in our lives, we're too old to be having our relationship discussed on the internet. If there's a conversation to be had, we can definitely have the conversation</a>. \"I welcome that. I've always wanted the best for him, wished the best for him. I've always publicly said those things.\"",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/50263591/celtics-jayson-tatum-insists-no-beef-76ers-jaylen-brown-wake-trade"
+      },
+      {
+        "date": "2026-10-23",
+        "text": "Raheem Palmer:I can confirm this is 100% true. He was in Vegas for summer league with Amile who was coaching the summer league team. He also had a camp he was throwing. People want there to be beef with him and Jaylen but Tatum had absolutely nothing to do with this trade and was just as shocked as everyone else. Kalshi Hoops: Jayson Tatum says he had no idea the Celtics were trading Jaylen Brown and was surprised they traded him to Philly: \"Bro we was in Vegas, I just got done playing pickup. Sham walked over. He hand me the towel. He like, 'Yo, put this over your face. Don't react. They just traded him (Jaylen).' I'm like, oh sh*t. I'm like, where? He said Philly. I said, you traded him down the street? So I was just as much caught off guard as the rest of the world.x.com",
+        "text_html": "Raheem Palmer: <a href=\"https://x.com/iamrahstradamus/status/2113411287208296809\" target=\"_blank\" style=\"color: #1a73e8;\">I can confirm this is 100% true. He was in Vegas for summer league with Amile who was coaching the summer league team. He also had a camp he was throwing. People want there to be beef with him and Jaylen but Tatum had absolutely nothing to do with this trade and was just as shocked as everyone else</a>. Kalshi Hoops: Jayson Tatum says he had no idea the Celtics were trading Jaylen Brown and was surprised they traded him to Philly: \"Bro we was in Vegas, I just got done playing pickup. Sham walked over. He hand me the towel. He like, 'Yo, put this over your face. Don't react. They just traded him (Jaylen).' I'm like, oh sh*t. I'm like, where? He said Philly. I said, you traded him down the street? So I was just as much caught off guard as the rest of the world.",
+        "outlet": "x.com",
+        "source_url": "https://x.com/iamrahstradamus/status/2113411287208296809"
+      },
+      {
+        "date": "2026-10-23",
+        "text": "Jaylen Brown helped the Philadelphia 76ers topple the Cleveland Cavaliers on Thursday night. Then, after the big comeback win, he appeared to take aim at former Boston Celtics teammate Jayson Tatum.In an Instagram comments section, Brown posted a blue hat \u2014 the symbol for \u201ccap,\u201d meaning someone is being untruthful \u2014 in response to a story Tatum told about the day the Boston Celtics traded Brown.Tatum, who shared the story in a documentary that was released on his own YouTube channel, said he was \u201cjust as much caught off guard as the rest of the world\u201d when Boston dealt Brown to the 76ers this summer. Tatum said he was in Las Vegas when someone with him informed him of the news after a pickup basketball game.New York Times",
+        "text_html": "Jaylen Brown helped the Philadelphia 76ers topple the Cleveland Cavaliers on Thursday night. Then, after the big comeback win, he appeared to take aim at former Boston Celtics teammate Jayson Tatum. <a href=\"https://www.nytimes.com/athletic/7716223/2026/10/23/jaylen-brown-jayson-tatum-76ers-celtics-trade/\" target=\"_blank\" style=\"color: #1a73e8;\">In an Instagram comments section, Brown posted a blue hat \u2014 the symbol for \u201ccap,\u201d meaning someone is being untruthful \u2014 in response to a story Tatum told about the day the Boston Celtics traded Brown.</a> Tatum, who shared the story in a documentary that was released on his own YouTube channel, said he was \u201cjust as much caught off guard as the rest of the world\u201d when Boston dealt Brown to the 76ers this summer. Tatum said he was in Las Vegas when someone with him informed him of the news after a pickup basketball game.",
+        "outlet": "New York Times",
+        "source_url": "https://www.nytimes.com/athletic/7716223/2026/10/23/jaylen-brown-jayson-tatum-76ers-celtics-trade/"
+      },
+      {
+        "date": "2026-10-16",
+        "text": "The Warriors didn't show an appetite to offer Butler for Anthony Davis or Jaylen Brown this summer, considering the pick packages required and contracts attached to both.All other Butler-plus-picks conversations -- for what the Warriors believe are ultimately lesser players once Butler returns -- were shut down, team sources said.ESPN",
+        "text_html": "<a href=\"https://www.espn.com/nba/story/_/id/50182801/jimmy-butler-acl-injury-return-warriors-title\" target=\"_blank\" style=\"color: #1a73e8;\">The Warriors didn't show an appetite to offer Butler for Anthony Davis or Jaylen Brown this summer, considering the pick packages required and contracts attached to both.</a> All other Butler-plus-picks conversations -- for what the Warriors believe are ultimately lesser players once Butler returns -- were shut down, team sources said.",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/50182801/jimmy-butler-acl-injury-return-warriors-title"
+      }
+    ],
+    "Kristaps Porzingis": [
+      {
+        "date": "2026-11-09",
+        "text": "Brian Windhorst: \"It essentially functions as a trade exception, and not even that because a trade exception allows you to acquire the player.When you trade for a player, and it depends on what team is making the trade because different teams have different rules based on where they are on the aprons, but you can get up to 125 percent of the salary back. It could be a 25 million dollar trade exception that just existsbecause that's the thing about trade exception, you could just trade for a player, acquire the player, and the other team doesn't have to pay. I wouldn't be surprised if they are considering exactly what you did because this was not, and I don't think the Warriors knew this. I think the Warriors were expecting him to report to camp.\"YouTube",
+        "text_html": "Brian Windhorst: \"It essentially functions as a trade exception, and not even that because a trade exception allows you to acquire the player. <a href=\"https://www.youtube.com/watch?v=i000zF459LQ&t=135s\" target=\"_blank\" style=\"color: #1a73e8;\">When you trade for a player, and it depends on what team is making the trade because different teams have different rules based on where they are on the aprons, but you can get up to 125 percent of the salary back. It could be a 25 million dollar trade exception that just exists</a> because that's the thing about trade exception, you could just trade for a player, acquire the player, and the other team doesn't have to pay. I wouldn't be surprised if they are considering exactly what you did because this was not, and I don't think the Warriors knew this. I think the Warriors were expecting him to report to camp.\"",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=i000zF459LQ&t=135s"
+      },
+      {
+        "date": "2026-11-06",
+        "text": "Anthony Slater: Kristaps Porzingis announces he is stepping away from basketball.This doesn\u2019t change his status/situation with the Warriors as a usable trade chip leading up to deadline,per source. He said within statement he is working with Warriors to find \u201csolution that makes sense.x.com",
+        "text_html": "Anthony Slater: Kristaps Porzingis announces he is stepping away from basketball. <a href=\"https://x.com/anthonyVslater/status/2118816536546935013?a=pf2iC0Xin-NdaJC2Kr4&s=20\" target=\"_blank\" style=\"color: #1a73e8;\">This doesn\u2019t change his status/situation with the Warriors as a usable trade chip leading up to deadline,</a> per source. He said within statement he is working with Warriors to find \u201csolution that makes sense.",
+        "outlet": "x.com",
+        "source_url": "https://x.com/anthonyVslater/status/2118816536546935013?a=pf2iC0Xin-NdaJC2Kr4&s=20"
+      },
+      {
+        "date": "2026-11-06",
+        "text": "Brian Windhorst: \"I was at the Detroit airport yesterday when this news came out. In the report, Shams Charania is like, they're not paying him, Porzingis is not fighting it, and they're still trying to trade him. I was listening to these two guys sitting behind me and they were like, what do you mean? This is the NBA. What do you mean they're trying to trade him? So wait a minute,he's not playing, we're not paying him, but we're trying to trade him?\" Tim Bontemps: \"It actually increases his value in the trade market because now, not only is it a quasi-expiring contract, but you're going to get a discount because he'll take a buyout.\"Brian Windhorst: \"Why would you take a buyout to pay him at all? A buyout means you got to pay him some of the salary.\" Vince Goodwill: \"A buyout means he got to show up. If he out here getting new teeth, then he ain't, I don't think he's showing up for nobody's physical.\"YouTube",
+        "text_html": "Brian Windhorst: \"I was at the Detroit airport yesterday when this news came out. In the report, Shams Charania is like, they're not paying him, Porzingis is not fighting it, and they're still trying to trade him. I was listening to these two guys sitting behind me and they were like, what do you mean? This is the NBA. What do you mean they're trying to trade him? So wait a minute, <a href=\"https://www.youtube.com/watch?v=V8JicTpjui8&t=3630s\" target=\"_blank\" style=\"color: #1a73e8;\">he's not playing, we're not paying him, but we're trying to trade him?\" Tim Bontemps: \"It actually increases his value in the trade market because now, not only is it a quasi-expiring contract, but you're going to get a discount because he'll take a buyout.\"</a> Brian Windhorst: \"Why would you take a buyout to pay him at all? A buyout means you got to pay him some of the salary.\" Vince Goodwill: \"A buyout means he got to show up. If he out here getting new teeth, then he ain't, I don't think he's showing up for nobody's physical.\"",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=V8JicTpjui8&t=3630s"
+      },
+      {
+        "date": "2026-11-06",
+        "text": "With the 6-foot-6 Green filling in at Kristaps Porzingis\u2019 old spot for the sixth time in nine games this season during their 120-100 rout of the Miami Heat, battling the kind of big men that he says give him a bit of a \u201cNapoleon complex\u201d in this job born out of sheer necessity, the truth is that no one is more qualified to speak on the matter. And so he did. \u201cSince I\u2019ve been here on this team, it\u2019s never been about bickering, never about \u2018Shame on this guy,\u2019 \u2018Shame on that guy,\u2019\u201d Green told The Athletic. \u201cWe\u2019ve never had that culture here. So the same goes for (Porzingis). No one\u2019s sitting around bashing this guy or even worried about him, for that matter. In our minds, we\u2019ve moved forward with the players that we have here. \u201c(Does) everyone in here think he can help us? Of course. We know what type of player he is. ButI don\u2019t think anyone in here is sitting around waiting on him to walk through that door. Everybody\u2019s moved on in their mindset.\u201dNew York Times",
+        "text_html": "With the 6-foot-6 Green filling in at Kristaps Porzingis\u2019 old spot for the sixth time in nine games this season during their 120-100 rout of the Miami Heat, battling the kind of big men that he says give him a bit of a \u201cNapoleon complex\u201d in this job born out of sheer necessity, the truth is that no one is more qualified to speak on the matter. And so he did. \u201cSince I\u2019ve been here on this team, it\u2019s never been about bickering, never about \u2018Shame on this guy,\u2019 \u2018Shame on that guy,\u2019\u201d Green told The Athletic. \u201cWe\u2019ve never had that culture here. So the same goes for (Porzingis). No one\u2019s sitting around bashing this guy or even worried about him, for that matter. In our minds, we\u2019ve moved forward with the players that we have here. \u201c(Does) everyone in here think he can help us? Of course. We know what type of player he is. But <a href=\"https://www.nytimes.com/athletic/7758885/2026/11/06/kristaps-porzingis-warriors-spurs-heat-nba/\" target=\"_blank\" style=\"color: #1a73e8;\">I don\u2019t think anyone in here is sitting around waiting on him to walk through that door. Everybody\u2019s moved on in their mindset.\u201d</a>",
+        "outlet": "New York Times",
+        "source_url": "https://www.nytimes.com/athletic/7758885/2026/11/06/kristaps-porzingis-warriors-spurs-heat-nba/"
+      },
+      {
+        "date": "2026-11-04",
+        "text": "Ian Begley: On Warriors withholding salary from Kristaps Porzingis, sources close to the NBPA/Porzingis say the NBPA has been kept in loop on developments and is aligned with the player.Porzingis doesn\u2019t want to challenge Warriors\u2019 stance right now & NBPA is following his leadx.com",
+        "text_html": "Ian Begley: On Warriors withholding salary from Kristaps Porzingis, sources close to the NBPA/Porzingis say the NBPA has been kept in loop on developments and is aligned with the player. <a href=\"https://x.com/IanBegley/status/2118033209417957632?a=f5yytGSlj-HJP2RFUAs&s=20\" target=\"_blank\" style=\"color: #1a73e8;\">Porzingis doesn\u2019t want to challenge Warriors\u2019 stance right now & NBPA is following his lead</a>",
+        "outlet": "x.com",
+        "source_url": "https://x.com/IanBegley/status/2118033209417957632?a=f5yytGSlj-HJP2RFUAs&s=20"
+      },
+      {
+        "date": "2026-11-04",
+        "text": "To give you a glimpse into how Golden State views its options:Sources say that the Warriors do not have Milwaukee's Myles Turner high on their list of potential targets.Golden State did show past interest in Turner when he was making less than $20 million annually in Indiana, but Turner's $26 million salary on a contract that runs through the 2028-29 season does not hold the same appeal. Golden State, sources say, would be seeking draft capital or other forms of incentive from the Bucks to consider a deal for Turner now.marcstein.substack.com",
+        "text_html": "To give you a glimpse into how Golden State views its options: <a href=\"https://marcstein.substack.com/\" target=\"_blank\" style=\"color: #1a73e8;\">Sources say that the Warriors do not have Milwaukee's Myles Turner high on their list of potential targets.</a> Golden State did show past interest in Turner when he was making less than $20 million annually in Indiana, but Turner's $26 million salary on a contract that runs through the 2028-29 season does not hold the same appeal. Golden State, sources say, would be seeking draft capital or other forms of incentive from the Bucks to consider a deal for Turner now.",
+        "outlet": "marcstein.substack.com",
+        "source_url": "https://marcstein.substack.com/"
+      },
+      {
+        "date": "2026-11-04",
+        "text": "The Warriors have called Chicago, sources say, because the Bulls theoretically offer a potential short-term answer: Jalen Smith.The 26-year-old has some floor-spacing ability and is earning roughly half of what Porzi\u0146\u0123is is making this season at $9.4 million on the final season of a three-year, $27 million contract.marcstein.substack.com",
+        "text_html": "<a href=\"https://marcstein.substack.com/\" target=\"_blank\" style=\"color: #1a73e8;\">The Warriors have called Chicago, sources say, because the Bulls theoretically offer a potential short-term answer: Jalen Smith.</a> The 26-year-old has some floor-spacing ability and is earning roughly half of what Porzi\u0146\u0123is is making this season at $9.4 million on the final season of a three-year, $27 million contract.",
+        "outlet": "marcstein.substack.com",
+        "source_url": "https://marcstein.substack.com/"
+      },
+      {
+        "date": "2026-11-04",
+        "text": "The Golden State Warriors are not delivering semimonthly payments to veteran center Kristaps Porzingis on his $20 million salary, league sources told ESPN, ruling that the currently absent center is not rendering his services.General manager Mike Dunleavy and the Warriors' front office are still actively pursuing trade avenues utilizing Porzingis' contract even as the 31-year-old leans toward ending his NBA career. For rival teams, absorbing Porzingis' near-expiring salary could either allow them to move a longer-term salary out to save money (plus clear a roster spot via buyout) or theoretically net a draft asset, depending on what the Warriors are willing to attach.ESPN",
+        "text_html": "The Golden State Warriors are not delivering semimonthly payments to veteran center Kristaps Porzingis on his $20 million salary, league sources told ESPN, ruling that the currently absent center is not rendering his services. <a href=\"https://www.espn.com/nba/story/_/id/50379460/warriors-not-making-payments-porzingis-sources-say\" target=\"_blank\" style=\"color: #1a73e8;\">General manager Mike Dunleavy and the Warriors' front office are still actively pursuing trade avenues utilizing Porzingis' contract even as the 31-year-old leans toward ending his NBA career</a>. For rival teams, absorbing Porzingis' near-expiring salary could either allow them to move a longer-term salary out to save money (plus clear a roster spot via buyout) or theoretically net a draft asset, depending on what the Warriors are willing to attach.",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/50379460/warriors-not-making-payments-porzingis-sources-say"
+      },
+      {
+        "date": "2026-11-04",
+        "text": "The Warriors have no current plans on voiding Porzingis' contract, team sources said,maintaining trade flexibility up until the Feb. 11 deadline. Porzingis is not disputing the lack of payments, league sources said.ESPN",
+        "text_html": "<a href=\"https://www.espn.com/nba/story/_/id/50379460/warriors-not-making-payments-porzingis-sources-say\" target=\"_blank\" style=\"color: #1a73e8;\">The Warriors have no current plans on voiding Porzingis' contract, team sources said,</a> maintaining trade flexibility up until the Feb. 11 deadline. Porzingis is not disputing the lack of payments, league sources said.",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/50379460/warriors-not-making-payments-porzingis-sources-say"
+      },
+      {
+        "date": "2026-11-04",
+        "text": "Shams Charania:The Warriors are not delivering payments to Kristaps Porzingis on his $20 million salary, ruling that he is not rendering services,sources tell me and @anthonyVslater . Golden State is permitted to move his contract at any point before the Feb. 11 deadline even without paying him currently, and will continue exhausting trade avenues as the 31-year-old leans toward ending his NBA career. Absorbing Porzingis' near-expiring deal would allow a rival team to move a salary out and save money and clear a roster spot via a buyout.x.com",
+        "text_html": "Shams Charania: <a href=\"https://x.com/ShamsCharania/status/2118005429468827713\" target=\"_blank\" style=\"color: #1a73e8;\">The Warriors are not delivering payments to Kristaps Porzingis on his $20 million salary, ruling that he is not rendering services,</a> sources tell me and @anthonyVslater . Golden State is permitted to move his contract at any point before the Feb. 11 deadline even without paying him currently, and will continue exhausting trade avenues as the 31-year-old leans toward ending his NBA career. Absorbing Porzingis' near-expiring deal would allow a rival team to move a salary out and save money and clear a roster spot via a buyout.",
+        "outlet": "x.com",
+        "source_url": "https://x.com/ShamsCharania/status/2118005429468827713"
+      },
+      {
+        "date": "2026-11-04",
+        "text": "Bobby Marks:Failure to render services is costing Kristaps Porzingis $218,341 (1/91.6 pergame). His $20M salary continues to count against the cap/tax/apron.x.com",
+        "text_html": "Bobby Marks: <a href=\"https://x.com/BobbyMarks42/status/2118006927875612843?a=DJEdqBBtoht738zGexg&s=20\" target=\"_blank\" style=\"color: #1a73e8;\">Failure to render services is costing Kristaps Porzingis $218,341 (1/91.6 per</a> game). His $20M salary continues to count against the cap/tax/apron.",
+        "outlet": "x.com",
+        "source_url": "https://x.com/BobbyMarks42/status/2118006927875612843?a=DJEdqBBtoht738zGexg&s=20"
+      },
+      {
+        "date": "2026-10-28",
+        "text": "Team sources continue to express an extreme level of pessimism that Kristaps Porzingis will ever play for the Warriors again,but he could end up helping the organization in another way, because his contract, which is only guaranteed for $3 million next season, could still prove to be valuable in executing a trade. Here is everything we know as the situation remains in limbo.ESPN",
+        "text_html": "<a href=\"https://www.espn.com/nba/story/_/id/50299136/golden-state-warriors-kristaps-porzingis-options-trade\" target=\"_blank\" style=\"color: #1a73e8;\">Team sources continue to express an extreme level of pessimism that Kristaps Porzingis will ever play for the Warriors again,</a> but he could end up helping the organization in another way, because his contract, which is only guaranteed for $3 million next season, could still prove to be valuable in executing a trade. Here is everything we know as the situation remains in limbo.",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/50299136/golden-state-warriors-kristaps-porzingis-options-trade"
+      },
+      {
+        "date": "2026-10-28",
+        "text": "Dunleavy has already gauged the temperature on the trade market, league sources said, but this is traditionally a quiet time in that respect.Front offices are typically in fact-gathering mode about their roster before making bigger-picture decisions closer to January and February. Right now, the Warriors are showing a willingness to remain patient with the Kristaps Porzingis contract and let the market materialize, league sources said. If Porzingis proves willing to give back a large chunk of money in a buyout, his expiring $20 million deal could become even more financially appealing for an eventual trade partner attempting to gain some financial benefit.ESPN",
+        "text_html": "<a href=\"https://www.espn.com/nba/story/_/id/50299136/golden-state-warriors-kristaps-porzingis-options-trade\" target=\"_blank\" style=\"color: #1a73e8;\">Dunleavy has already gauged the temperature on the trade market, league sources said, but this is traditionally a quiet time in that respect.</a> Front offices are typically in fact-gathering mode about their roster before making bigger-picture decisions closer to January and February. Right now, the Warriors are showing a willingness to remain patient with the Kristaps Porzingis contract and let the market materialize, league sources said. If Porzingis proves willing to give back a large chunk of money in a buyout, his expiring $20 million deal could become even more financially appealing for an eventual trade partner attempting to gain some financial benefit.",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/50299136/golden-state-warriors-kristaps-porzingis-options-trade"
+      },
+      {
+        "date": "2026-10-28",
+        "text": "After a meeting with Celebrini and Dunleavy in early October, the team sent out a statement declaring he would be around. It didn't last. Porzingis hasn't returned to the facility and the organization shifted his official status from out with \"general illness\" (as they'd listed during his absences last season) to \"not with team,\" a purposeful change. This can no longer be described as an excused absence for the center.Porzingis' unwillingness to be present at the Warriors' facility could be deemed a failure to render his services -- a reality that has been raised internally, sources said -- and could be used in an attempt to void his entire contract.But that would present its own complications, unless Porzingis expressed an intention to retire and willingly gave all the money back.ESPN",
+        "text_html": "After a meeting with Celebrini and Dunleavy in early October, the team sent out a statement declaring he would be around. It didn't last. Porzingis hasn't returned to the facility and the organization shifted his official status from out with \"general illness\" (as they'd listed during his absences last season) to \"not with team,\" a purposeful change. This can no longer be described as an excused absence for the center. <a href=\"https://www.espn.com/nba/story/_/id/50299136/golden-state-warriors-kristaps-porzingis-options-trade\" target=\"_blank\" style=\"color: #1a73e8;\">Porzingis' unwillingness to be present at the Warriors' facility could be deemed a failure to render his services -- a reality that has been raised internally, sources said -- and could be used in an attempt to void his entire contract.</a> But that would present its own complications, unless Porzingis expressed an intention to retire and willingly gave all the money back.",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/50299136/golden-state-warriors-kristaps-porzingis-options-trade"
+      },
+      {
+        "date": "2026-10-23",
+        "text": "Chef: Draymond talks about the Kristaps Porzingis news:\"I wouldn't necessarily say the news was a distraction yesterday more so than like you kind of have forgot about it. We've gone a whole training camp and preseason without him, so you've kind of just got accustomed to the guys who were there and then that news comes out and it just makes you think about it again. . . I saw Shams reported that the Warriors would be looking at a trade. Shams knows better than we do, so we'll see what happens. I still wish him well. I hope he's healthy. I hope he can get himself to a space health-wise that he feels great about, whether he plays basketball or not, it's not my concern. I just always want people in good health. Having bad health sucks.\"x.com",
+        "text_html": "Chef: Draymond talks about the Kristaps Porzingis news: <a href=\"https://x.com/CurryForGame/status/2113683339454693821?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">\"I wouldn't necessarily say the news was a distraction yesterday more so than like you kind of have forgot about it. We've gone a whole training camp and preseason without him, so you've kind of just got accustomed to the guys who were there and then that news comes out and it just makes you think about it again</a> . . . I saw Shams reported that the Warriors would be looking at a trade. Shams knows better than we do, so we'll see what happens. I still wish him well. I hope he's healthy. I hope he can get himself to a space health-wise that he feels great about, whether he plays basketball or not, it's not my concern. I just always want people in good health. Having bad health sucks.\"",
+        "outlet": "x.com",
+        "source_url": "https://x.com/CurryForGame/status/2113683339454693821?s=20"
+      },
+      {
+        "date": "2026-10-23",
+        "text": "Anthony Slater on Kristaps Porzingis: Clearly, this is something as you mentioned that that Mike Dunleavy's called around the league and explored. And as you (Brian Windhorst) laid out, I think there was this immediate reaction of this combo report that said guy contemplating his future retirement potentially on the table. Also, Warriors trying to trade him. And there was a confusion of how.But yeah, it's an expiring deal with the Warriors have draft picks. They could take on future salary for a tradable first.YouTube",
+        "text_html": "Anthony Slater on Kristaps Porzingis: Clearly, this is something as you mentioned that that Mike Dunleavy's called around the league and explored. And as you (Brian Windhorst) laid out, I think there was this immediate reaction of this combo report that said guy contemplating his future retirement potentially on the table. Also, Warriors trying to trade him. And there was a confusion of how. <a href=\"https://www.youtube.com/watch?v=KuYZpoPyl58&t=1311s\" target=\"_blank\" style=\"color: #1a73e8;\">But yeah, it's an expiring deal with the Warriors have draft picks. They could take on future salary for a tradable first.</a>",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=KuYZpoPyl58&t=1311s"
+      },
+      {
+        "date": "2026-10-23",
+        "text": "Anthony Slater on Kristaps Porzingis: 'He played 15 of the last 20 games last year that had them like decently confident enough that they can maybe maintain his health to provide every other game type support for them this season. He was around the team in the week leading up to training camp. He went to this event with Jimmy Butler in San Diego, but if you talk to the players and people at that event, he wasn't getting on the court, he wasn't in the weight room.He would show up to kind of more of the dinners and the fun stuff, but it seemed clear right before camp that he was fading away from basketball, obviously dealing with his health issue and thinking about his future.'YouTube",
+        "text_html": "Anthony Slater on Kristaps Porzingis: 'He played 15 of the last 20 games last year that had them like decently confident enough that they can maybe maintain his health to provide every other game type support for them this season. He was around the team in the week leading up to training camp. He went to this event with Jimmy Butler in San Diego, but if you talk to the players and people at that event, he wasn't getting on the court, he wasn't in the weight room. <a href=\"https://www.youtube.com/watch?v=KuYZpoPyl58&t=1203s\" target=\"_blank\" style=\"color: #1a73e8;\">He would show up to kind of more of the dinners and the fun stuff, but it seemed clear right before camp that he was fading away from basketball, obviously dealing with his health issue and thinking about his future.'</a>",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=KuYZpoPyl58&t=1203s"
+      },
+      {
+        "date": "2026-10-23",
+        "text": "Brian Windhorst: 'The Warriors started making calls looking for availability for Kristaps Porzingis\u2019 trades and that all of a sudden popped up on the radar of Shams and others.That\u2019s what happened here. And only in the NBA you know if this was another um another sport you know you heard a player was facing ing a career-threatening situation. You would say, \"Oh, man, that's awful.\" But you wouldn't hear players facing a career-threatening situation and then he might get traded. You would say, \"Well, this doesn't make sense. How could a player who may not play this year don't be traded?\" Well, that's not the NBA. In the NBA, you have a player that now as he deals with this health thing, and we hope that he is able to find some resolution there, that contract now becomes something that the Warriors\u2026 They are in a tough spot now. They don't have a starting center and so now they've got to deal with it.'YouTube",
+        "text_html": "<a href=\"https://www.youtube.com/watch?v=KuYZpoPyl58&t=1139s\" target=\"_blank\" style=\"color: #1a73e8;\">Brian Windhorst: 'The Warriors started making calls looking for availability for Kristaps Porzingis\u2019 trades and that all of a sudden popped up on the radar of Shams and others.</a> That\u2019s what happened here. And only in the NBA you know if this was another um another sport you know you heard a player was facing ing a career-threatening situation. You would say, \"Oh, man, that's awful.\" But you wouldn't hear players facing a career-threatening situation and then he might get traded. You would say, \"Well, this doesn't make sense. How could a player who may not play this year don't be traded?\" Well, that's not the NBA. In the NBA, you have a player that now as he deals with this health thing, and we hope that he is able to find some resolution there, that contract now becomes something that the Warriors\u2026 They are in a tough spot now. They don't have a starting center and so now they've got to deal with it.'",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=KuYZpoPyl58&t=1139s"
+      },
+      {
+        "date": "2026-10-21",
+        "text": "Marc Stein: TheWarriors in a statement on Kristaps Porzi\u0146\u0123is\u2019 status say \u201cthey are not going to comment on trade speculation or reports regarding his health-related matter or future\u201d but concede that they \u201care not anticipating Kristaps being around the team in the immediate future.\u201dx.com",
+        "text_html": "Marc Stein: The <a href=\"https://x.com/TheSteinLine/status/2113009512764371429\" target=\"_blank\" style=\"color: #1a73e8;\">Warriors in a statement on Kristaps Porzi\u0146\u0123is\u2019 status say \u201cthey are not going to comment on trade speculation or reports regarding his health-related matter or future\u201d but concede that they \u201care not anticipating Kristaps being around the team in the immediate future.\u201d</a>",
+        "outlet": "x.com",
+        "source_url": "https://x.com/TheSteinLine/status/2113009512764371429"
+      },
+      {
+        "date": "2026-10-21",
+        "text": "Bobby Marks:Kristaps Porzingis is eligible to be traded, despite signing a 2 year/$40M extension on June 30. His salary for next season is guaranteed for only $3M. Golden State is a second apron team and are not allowed to take back more salary in any trade.x.com",
+        "text_html": "Bobby Marks: <a href=\"https://x.com/BobbyMarks42/status/2112974644063932581\" target=\"_blank\" style=\"color: #1a73e8;\">Kristaps Porzingis is eligible to be traded, despite signing a 2 year/$40M extension on June 30</a>. His salary for next season is guaranteed for only $3M. Golden State is a second apron team and are not allowed to take back more salary in any trade.",
+        "outlet": "x.com",
+        "source_url": "https://x.com/BobbyMarks42/status/2112974644063932581"
+      },
+      {
+        "date": "2026-10-21",
+        "text": "Shams Charania:Golden State has started exploring trade routes for Kristaps Porzingis, who is now seriously contemplating his future in basketball as he deals with recurring symptoms from the autoimmune condition termed as POTS (postural orthostatic tachycardia syndrome),sources tell ESPN.x.com",
+        "text_html": "Shams Charania: <a href=\"https://x.com/ShamsCharania/status/2112971771683147998\" target=\"_blank\" style=\"color: #1a73e8;\">Golden State has started exploring trade routes for Kristaps Porzingis, who is now seriously contemplating his future in basketball as he deals with recurring symptoms from the autoimmune condition termed as POTS (postural orthostatic tachycardia syndrome),</a> sources tell ESPN.",
+        "outlet": "x.com",
+        "source_url": "https://x.com/ShamsCharania/status/2112971771683147998"
+      },
+      {
+        "date": "2026-10-21",
+        "text": "Shams Charania: Porzingis is on a trade-flexible contract for $20 million this season and a small partial next year, serving as essentially an expiring deal that the Warriors can utilize, potentially with their pool of assets.He first revealed his POTS diagnosis last year and has had ups and downs with the issue. If there is no breakthrough in recovery, stepping away from basketball -- for good -- is possible.x.com",
+        "text_html": "Shams Charania: Porzingis is on a trade-flexible contract for $20 million this season and a small partial next year, serving as essentially an expiring deal that the Warriors can utilize, potentially with their pool of assets. <a href=\"https://x.com/ShamsCharania/status/2112972839863329002?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">He first revealed his POTS diagnosis last year and has had ups and downs with the issue. If there is no breakthrough in recovery, stepping away from basketball -- for good -- is possible</a>.",
+        "outlet": "x.com",
+        "source_url": "https://x.com/ShamsCharania/status/2112972839863329002?s=20"
+      },
+      {
+        "date": "2026-10-17",
+        "text": "The rest of the season was a slow nightmare. Curry was sidelined for two months to tend to a persistent knee issue. They traded for Kristaps Porzingis, who was in and out of the lineup. They went 12-26 after the Jimmy Butler injury, fading to the background in a season that opened with quiet title belief.\"I really felt like I let Steph down,\" Butler said. \"I let Draymond down. I let Steve down. Because they took a chance. If you don't know me and you haven't been around me, you don't know what I'm about because of the things that you may read and hear.But they said, 'F--- all of that s---. This motherf---er knows how to win.' They took a chance, and I felt I let them down.\"ESPN",
+        "text_html": "The rest of the season was a slow nightmare. Curry was sidelined for two months to tend to a persistent knee issue. They traded for Kristaps Porzingis, who was in and out of the lineup. They went 12-26 after the Jimmy Butler injury, fading to the background in a season that opened with quiet title belief. <a href=\"https://www.espn.com/nba/story/_/id/50182801/jimmy-butler-acl-injury-return-warriors-title\" target=\"_blank\" style=\"color: #1a73e8;\">\"I really felt like I let Steph down,\" Butler said. \"I let Draymond down. I let Steve down. Because they took a chance. If you don't know me and you haven't been around me, you don't know what I'm about because of the things that you may read and hear.</a> But they said, 'F--- all of that s---. This motherf---er knows how to win.' They took a chance, and I felt I let them down.\"",
+        "outlet": "ESPN",
+        "source_url": "https://www.espn.com/nba/story/_/id/50182801/jimmy-butler-acl-injury-return-warriors-title"
+      }
+    ],
+    "Jamal Murray": [
+      {
+        "date": "2026-11-09",
+        "text": "The Ringer\u2019s Zach Lowe this week brought up a Murray trade as a potential escape hatch in Denver, a \u201csurprise\u201d trade candidate. As he said, \u201cIf this team isn\u2019t good, I think something is gonna crack here. I\u2019m not closing the door.\u201dMurray is off to an excellent start, again averaging 25.4 points this season, and making 47.4% of his shots and 50.9% (!) of his 3-pointers. With three years and $161 million on his contract, he is not an easy guy to trade. But Lowe is right\u2013if things go South for this team, his name could crop back up in late January, or next summer.Heavy.com",
+        "text_html": "<a href=\"https://heavy.com/sports/nba/los-angeles-lakers/nba-trade-rumors-seismic-jamal-murray-talk-bulls-draymond-green/\" target=\"_blank\" style=\"color: #1a73e8;\">The Ringer\u2019s Zach Lowe this week brought up a Murray trade as a potential escape hatch in Denver, a \u201csurprise\u201d trade candidate. As he said, \u201cIf this team isn\u2019t good, I think something is gonna crack here. I\u2019m not closing the door.\u201d</a> Murray is off to an excellent start, again averaging 25.4 points this season, and making 47.4% of his shots and 50.9% (!) of his 3-pointers. With three years and $161 million on his contract, he is not an easy guy to trade. But Lowe is right\u2013if things go South for this team, his name could crop back up in late January, or next summer.",
+        "outlet": "Heavy.com",
+        "source_url": "https://heavy.com/sports/nba/los-angeles-lakers/nba-trade-rumors-seismic-jamal-murray-talk-bulls-draymond-green/"
+      },
+      {
+        "date": "2026-11-05",
+        "text": "NBABase: Zach Lowe says Jamal Murray could be a surprise trade candidate if the Nuggets struggle this season ?\u201cI said Jamal Murray just because if this team isn\u2019t good, I think something is gonna crack here. I\u2019m not closing the door.\u201dx.com",
+        "text_html": "NBABase: Zach Lowe says Jamal Murray could be a surprise trade candidate if the Nuggets struggle this season ? <a href=\"https://x.com/TheNBABase/status/2118481419702022267\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cI said Jamal Murray just because if this team isn\u2019t good, I think something is gonna crack here. I\u2019m not closing the door.\u201d</a>",
+        "outlet": "x.com",
+        "source_url": "https://x.com/TheNBABase/status/2118481419702022267"
+      }
+    ],
+    "Grayson Allen": [
+      {
+        "date": "2026-11-09",
+        "text": "NBA Trade Machine:On HoopsMatic over the past 24 hours, De'Aaron Fox showed up in 7.6% of all trades built.Among those, he was most often sent to Charlotte (10.2%), Orlando (8.0%), and Chicago (6.8%), and the return pieces that came up most often were Grayson Allen (9.1%), Desmond Bane (8.0%), and Grant Williams (6.8%).HoopsMatic",
+        "text_html": "NBA Trade Machine: <a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">On HoopsMatic over the past 24 hours, De'Aaron Fox showed up in 7.6% of all trades built.</a> Among those, he was most often sent to Charlotte (10.2%), Orlando (8.0%), and Chicago (6.8%), and the return pieces that came up most often were Grayson Allen (9.1%), Desmond Bane (8.0%), and Grant Williams (6.8%).",
+        "outlet": "HoopsMatic",
+        "source_url": "https://hoopsmatic.com/"
+      }
+    ],
+    "De'Aaron Fox": [
+      {
+        "date": "2026-11-09",
+        "text": "NBA Trade Machine:On HoopsMatic over the past 24 hours, De'Aaron Fox showed up in 7.6% of all trades built.Among those, he was most often sent to Charlotte (10.2%), Orlando (8.0%), and Chicago (6.8%), and the return pieces that came up most often were Grayson Allen (9.1%), Desmond Bane (8.0%), and Grant Williams (6.8%).HoopsMatic",
+        "text_html": "NBA Trade Machine: <a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">On HoopsMatic over the past 24 hours, De'Aaron Fox showed up in 7.6% of all trades built.</a> Among those, he was most often sent to Charlotte (10.2%), Orlando (8.0%), and Chicago (6.8%), and the return pieces that came up most often were Grayson Allen (9.1%), Desmond Bane (8.0%), and Grant Williams (6.8%).",
+        "outlet": "HoopsMatic",
+        "source_url": "https://hoopsmatic.com/"
+      }
+    ],
+    "Grant Williams": [
+      {
+        "date": "2026-11-09",
+        "text": "NBA Trade Machine:On HoopsMatic over the past 24 hours, De'Aaron Fox showed up in 7.6% of all trades built.Among those, he was most often sent to Charlotte (10.2%), Orlando (8.0%), and Chicago (6.8%), and the return pieces that came up most often were Grayson Allen (9.1%), Desmond Bane (8.0%), and Grant Williams (6.8%).HoopsMatic",
+        "text_html": "NBA Trade Machine: <a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">On HoopsMatic over the past 24 hours, De'Aaron Fox showed up in 7.6% of all trades built.</a> Among those, he was most often sent to Charlotte (10.2%), Orlando (8.0%), and Chicago (6.8%), and the return pieces that came up most often were Grayson Allen (9.1%), Desmond Bane (8.0%), and Grant Williams (6.8%).",
+        "outlet": "HoopsMatic",
+        "source_url": "https://hoopsmatic.com/"
+      }
+    ],
+    "Desmond Bane": [
+      {
+        "date": "2026-11-09",
+        "text": "NBA Trade Machine:On HoopsMatic over the past 24 hours, De'Aaron Fox showed up in 7.6% of all trades built.Among those, he was most often sent to Charlotte (10.2%), Orlando (8.0%), and Chicago (6.8%), and the return pieces that came up most often were Grayson Allen (9.1%), Desmond Bane (8.0%), and Grant Williams (6.8%).HoopsMatic",
+        "text_html": "NBA Trade Machine: <a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">On HoopsMatic over the past 24 hours, De'Aaron Fox showed up in 7.6% of all trades built.</a> Among those, he was most often sent to Charlotte (10.2%), Orlando (8.0%), and Chicago (6.8%), and the return pieces that came up most often were Grayson Allen (9.1%), Desmond Bane (8.0%), and Grant Williams (6.8%).",
+        "outlet": "HoopsMatic",
+        "source_url": "https://hoopsmatic.com/"
+      }
+    ],
     "Nique Clifford": [
       {
         "date": "2026-11-08",
@@ -1520,162 +1941,6 @@
         "source_url": "https://hoopsmatic.com/"
       }
     ],
-    "Kristaps Porzingis": [
-      {
-        "date": "2026-11-06",
-        "text": "Anthony Slater: Kristaps Porzingis announces he is stepping away from basketball.This doesn\u2019t change his status/situation with the Warriors as a usable trade chip leading up to deadline,per source. He said within statement he is working with Warriors to find \u201csolution that makes sense.x.com",
-        "text_html": "Anthony Slater: Kristaps Porzingis announces he is stepping away from basketball. <a href=\"https://x.com/anthonyVslater/status/2118816536546935013?a=pf2iC0Xin-NdaJC2Kr4&s=20\" target=\"_blank\" style=\"color: #1a73e8;\">This doesn\u2019t change his status/situation with the Warriors as a usable trade chip leading up to deadline,</a> per source. He said within statement he is working with Warriors to find \u201csolution that makes sense.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/anthonyVslater/status/2118816536546935013?a=pf2iC0Xin-NdaJC2Kr4&s=20"
-      },
-      {
-        "date": "2026-11-06",
-        "text": "Brian Windhorst: \"I was at the Detroit airport yesterday when this news came out. In the report, Shams Charania is like, they're not paying him, Porzingis is not fighting it, and they're still trying to trade him. I was listening to these two guys sitting behind me and they were like, what do you mean? This is the NBA. What do you mean they're trying to trade him? So wait a minute,he's not playing, we're not paying him, but we're trying to trade him?\" Tim Bontemps: \"It actually increases his value in the trade market because now, not only is it a quasi-expiring contract, but you're going to get a discount because he'll take a buyout.\"Brian Windhorst: \"Why would you take a buyout to pay him at all? A buyout means you got to pay him some of the salary.\" Vince Goodwill: \"A buyout means he got to show up. If he out here getting new teeth, then he ain't, I don't think he's showing up for nobody's physical.\"YouTube",
-        "text_html": "Brian Windhorst: \"I was at the Detroit airport yesterday when this news came out. In the report, Shams Charania is like, they're not paying him, Porzingis is not fighting it, and they're still trying to trade him. I was listening to these two guys sitting behind me and they were like, what do you mean? This is the NBA. What do you mean they're trying to trade him? So wait a minute, <a href=\"https://www.youtube.com/watch?v=V8JicTpjui8&t=3630s\" target=\"_blank\" style=\"color: #1a73e8;\">he's not playing, we're not paying him, but we're trying to trade him?\" Tim Bontemps: \"It actually increases his value in the trade market because now, not only is it a quasi-expiring contract, but you're going to get a discount because he'll take a buyout.\"</a> Brian Windhorst: \"Why would you take a buyout to pay him at all? A buyout means you got to pay him some of the salary.\" Vince Goodwill: \"A buyout means he got to show up. If he out here getting new teeth, then he ain't, I don't think he's showing up for nobody's physical.\"",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=V8JicTpjui8&t=3630s"
-      },
-      {
-        "date": "2026-11-06",
-        "text": "With the 6-foot-6 Green filling in at Kristaps Porzingis\u2019 old spot for the sixth time in nine games this season during their 120-100 rout of the Miami Heat, battling the kind of big men that he says give him a bit of a \u201cNapoleon complex\u201d in this job born out of sheer necessity, the truth is that no one is more qualified to speak on the matter. And so he did. \u201cSince I\u2019ve been here on this team, it\u2019s never been about bickering, never about \u2018Shame on this guy,\u2019 \u2018Shame on that guy,\u2019\u201d Green told The Athletic. \u201cWe\u2019ve never had that culture here. So the same goes for (Porzingis). No one\u2019s sitting around bashing this guy or even worried about him, for that matter. In our minds, we\u2019ve moved forward with the players that we have here. \u201c(Does) everyone in here think he can help us? Of course. We know what type of player he is. ButI don\u2019t think anyone in here is sitting around waiting on him to walk through that door. Everybody\u2019s moved on in their mindset.\u201dNew York Times",
-        "text_html": "With the 6-foot-6 Green filling in at Kristaps Porzingis\u2019 old spot for the sixth time in nine games this season during their 120-100 rout of the Miami Heat, battling the kind of big men that he says give him a bit of a \u201cNapoleon complex\u201d in this job born out of sheer necessity, the truth is that no one is more qualified to speak on the matter. And so he did. \u201cSince I\u2019ve been here on this team, it\u2019s never been about bickering, never about \u2018Shame on this guy,\u2019 \u2018Shame on that guy,\u2019\u201d Green told The Athletic. \u201cWe\u2019ve never had that culture here. So the same goes for (Porzingis). No one\u2019s sitting around bashing this guy or even worried about him, for that matter. In our minds, we\u2019ve moved forward with the players that we have here. \u201c(Does) everyone in here think he can help us? Of course. We know what type of player he is. But <a href=\"https://www.nytimes.com/athletic/7758885/2026/11/06/kristaps-porzingis-warriors-spurs-heat-nba/\" target=\"_blank\" style=\"color: #1a73e8;\">I don\u2019t think anyone in here is sitting around waiting on him to walk through that door. Everybody\u2019s moved on in their mindset.\u201d</a>",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/7758885/2026/11/06/kristaps-porzingis-warriors-spurs-heat-nba/"
-      },
-      {
-        "date": "2026-11-04",
-        "text": "Ian Begley: On Warriors withholding salary from Kristaps Porzingis, sources close to the NBPA/Porzingis say the NBPA has been kept in loop on developments and is aligned with the player.Porzingis doesn\u2019t want to challenge Warriors\u2019 stance right now & NBPA is following his leadx.com",
-        "text_html": "Ian Begley: On Warriors withholding salary from Kristaps Porzingis, sources close to the NBPA/Porzingis say the NBPA has been kept in loop on developments and is aligned with the player. <a href=\"https://x.com/IanBegley/status/2118033209417957632?a=f5yytGSlj-HJP2RFUAs&s=20\" target=\"_blank\" style=\"color: #1a73e8;\">Porzingis doesn\u2019t want to challenge Warriors\u2019 stance right now & NBPA is following his lead</a>",
-        "outlet": "x.com",
-        "source_url": "https://x.com/IanBegley/status/2118033209417957632?a=f5yytGSlj-HJP2RFUAs&s=20"
-      },
-      {
-        "date": "2026-11-04",
-        "text": "To give you a glimpse into how Golden State views its options:Sources say that the Warriors do not have Milwaukee's Myles Turner high on their list of potential targets.Golden State did show past interest in Turner when he was making less than $20 million annually in Indiana, but Turner's $26 million salary on a contract that runs through the 2028-29 season does not hold the same appeal. Golden State, sources say, would be seeking draft capital or other forms of incentive from the Bucks to consider a deal for Turner now.marcstein.substack.com",
-        "text_html": "To give you a glimpse into how Golden State views its options: <a href=\"https://marcstein.substack.com/\" target=\"_blank\" style=\"color: #1a73e8;\">Sources say that the Warriors do not have Milwaukee's Myles Turner high on their list of potential targets.</a> Golden State did show past interest in Turner when he was making less than $20 million annually in Indiana, but Turner's $26 million salary on a contract that runs through the 2028-29 season does not hold the same appeal. Golden State, sources say, would be seeking draft capital or other forms of incentive from the Bucks to consider a deal for Turner now.",
-        "outlet": "marcstein.substack.com",
-        "source_url": "https://marcstein.substack.com/"
-      },
-      {
-        "date": "2026-11-04",
-        "text": "The Warriors have called Chicago, sources say, because the Bulls theoretically offer a potential short-term answer: Jalen Smith.The 26-year-old has some floor-spacing ability and is earning roughly half of what Porzi\u0146\u0123is is making this season at $9.4 million on the final season of a three-year, $27 million contract.marcstein.substack.com",
-        "text_html": "<a href=\"https://marcstein.substack.com/\" target=\"_blank\" style=\"color: #1a73e8;\">The Warriors have called Chicago, sources say, because the Bulls theoretically offer a potential short-term answer: Jalen Smith.</a> The 26-year-old has some floor-spacing ability and is earning roughly half of what Porzi\u0146\u0123is is making this season at $9.4 million on the final season of a three-year, $27 million contract.",
-        "outlet": "marcstein.substack.com",
-        "source_url": "https://marcstein.substack.com/"
-      },
-      {
-        "date": "2026-11-04",
-        "text": "The Golden State Warriors are not delivering semimonthly payments to veteran center Kristaps Porzingis on his $20 million salary, league sources told ESPN, ruling that the currently absent center is not rendering his services.General manager Mike Dunleavy and the Warriors' front office are still actively pursuing trade avenues utilizing Porzingis' contract even as the 31-year-old leans toward ending his NBA career. For rival teams, absorbing Porzingis' near-expiring salary could either allow them to move a longer-term salary out to save money (plus clear a roster spot via buyout) or theoretically net a draft asset, depending on what the Warriors are willing to attach.ESPN",
-        "text_html": "The Golden State Warriors are not delivering semimonthly payments to veteran center Kristaps Porzingis on his $20 million salary, league sources told ESPN, ruling that the currently absent center is not rendering his services. <a href=\"https://www.espn.com/nba/story/_/id/50379460/warriors-not-making-payments-porzingis-sources-say\" target=\"_blank\" style=\"color: #1a73e8;\">General manager Mike Dunleavy and the Warriors' front office are still actively pursuing trade avenues utilizing Porzingis' contract even as the 31-year-old leans toward ending his NBA career</a>. For rival teams, absorbing Porzingis' near-expiring salary could either allow them to move a longer-term salary out to save money (plus clear a roster spot via buyout) or theoretically net a draft asset, depending on what the Warriors are willing to attach.",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/50379460/warriors-not-making-payments-porzingis-sources-say"
-      },
-      {
-        "date": "2026-11-04",
-        "text": "The Warriors have no current plans on voiding Porzingis' contract, team sources said,maintaining trade flexibility up until the Feb. 11 deadline. Porzingis is not disputing the lack of payments, league sources said.ESPN",
-        "text_html": "<a href=\"https://www.espn.com/nba/story/_/id/50379460/warriors-not-making-payments-porzingis-sources-say\" target=\"_blank\" style=\"color: #1a73e8;\">The Warriors have no current plans on voiding Porzingis' contract, team sources said,</a> maintaining trade flexibility up until the Feb. 11 deadline. Porzingis is not disputing the lack of payments, league sources said.",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/50379460/warriors-not-making-payments-porzingis-sources-say"
-      },
-      {
-        "date": "2026-11-04",
-        "text": "Shams Charania:The Warriors are not delivering payments to Kristaps Porzingis on his $20 million salary, ruling that he is not rendering services,sources tell me and @anthonyVslater . Golden State is permitted to move his contract at any point before the Feb. 11 deadline even without paying him currently, and will continue exhausting trade avenues as the 31-year-old leans toward ending his NBA career. Absorbing Porzingis' near-expiring deal would allow a rival team to move a salary out and save money and clear a roster spot via a buyout.x.com",
-        "text_html": "Shams Charania: <a href=\"https://x.com/ShamsCharania/status/2118005429468827713\" target=\"_blank\" style=\"color: #1a73e8;\">The Warriors are not delivering payments to Kristaps Porzingis on his $20 million salary, ruling that he is not rendering services,</a> sources tell me and @anthonyVslater . Golden State is permitted to move his contract at any point before the Feb. 11 deadline even without paying him currently, and will continue exhausting trade avenues as the 31-year-old leans toward ending his NBA career. Absorbing Porzingis' near-expiring deal would allow a rival team to move a salary out and save money and clear a roster spot via a buyout.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/ShamsCharania/status/2118005429468827713"
-      },
-      {
-        "date": "2026-11-04",
-        "text": "Bobby Marks:Failure to render services is costing Kristaps Porzingis $218,341 (1/91.6 pergame). His $20M salary continues to count against the cap/tax/apron.x.com",
-        "text_html": "Bobby Marks: <a href=\"https://x.com/BobbyMarks42/status/2118006927875612843?a=DJEdqBBtoht738zGexg&s=20\" target=\"_blank\" style=\"color: #1a73e8;\">Failure to render services is costing Kristaps Porzingis $218,341 (1/91.6 per</a> game). His $20M salary continues to count against the cap/tax/apron.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/BobbyMarks42/status/2118006927875612843?a=DJEdqBBtoht738zGexg&s=20"
-      },
-      {
-        "date": "2026-10-28",
-        "text": "Team sources continue to express an extreme level of pessimism that Kristaps Porzingis will ever play for the Warriors again,but he could end up helping the organization in another way, because his contract, which is only guaranteed for $3 million next season, could still prove to be valuable in executing a trade. Here is everything we know as the situation remains in limbo.ESPN",
-        "text_html": "<a href=\"https://www.espn.com/nba/story/_/id/50299136/golden-state-warriors-kristaps-porzingis-options-trade\" target=\"_blank\" style=\"color: #1a73e8;\">Team sources continue to express an extreme level of pessimism that Kristaps Porzingis will ever play for the Warriors again,</a> but he could end up helping the organization in another way, because his contract, which is only guaranteed for $3 million next season, could still prove to be valuable in executing a trade. Here is everything we know as the situation remains in limbo.",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/50299136/golden-state-warriors-kristaps-porzingis-options-trade"
-      },
-      {
-        "date": "2026-10-28",
-        "text": "Dunleavy has already gauged the temperature on the trade market, league sources said, but this is traditionally a quiet time in that respect.Front offices are typically in fact-gathering mode about their roster before making bigger-picture decisions closer to January and February. Right now, the Warriors are showing a willingness to remain patient with the Kristaps Porzingis contract and let the market materialize, league sources said. If Porzingis proves willing to give back a large chunk of money in a buyout, his expiring $20 million deal could become even more financially appealing for an eventual trade partner attempting to gain some financial benefit.ESPN",
-        "text_html": "<a href=\"https://www.espn.com/nba/story/_/id/50299136/golden-state-warriors-kristaps-porzingis-options-trade\" target=\"_blank\" style=\"color: #1a73e8;\">Dunleavy has already gauged the temperature on the trade market, league sources said, but this is traditionally a quiet time in that respect.</a> Front offices are typically in fact-gathering mode about their roster before making bigger-picture decisions closer to January and February. Right now, the Warriors are showing a willingness to remain patient with the Kristaps Porzingis contract and let the market materialize, league sources said. If Porzingis proves willing to give back a large chunk of money in a buyout, his expiring $20 million deal could become even more financially appealing for an eventual trade partner attempting to gain some financial benefit.",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/50299136/golden-state-warriors-kristaps-porzingis-options-trade"
-      },
-      {
-        "date": "2026-10-28",
-        "text": "After a meeting with Celebrini and Dunleavy in early October, the team sent out a statement declaring he would be around. It didn't last. Porzingis hasn't returned to the facility and the organization shifted his official status from out with \"general illness\" (as they'd listed during his absences last season) to \"not with team,\" a purposeful change. This can no longer be described as an excused absence for the center.Porzingis' unwillingness to be present at the Warriors' facility could be deemed a failure to render his services -- a reality that has been raised internally, sources said -- and could be used in an attempt to void his entire contract.But that would present its own complications, unless Porzingis expressed an intention to retire and willingly gave all the money back.ESPN",
-        "text_html": "After a meeting with Celebrini and Dunleavy in early October, the team sent out a statement declaring he would be around. It didn't last. Porzingis hasn't returned to the facility and the organization shifted his official status from out with \"general illness\" (as they'd listed during his absences last season) to \"not with team,\" a purposeful change. This can no longer be described as an excused absence for the center. <a href=\"https://www.espn.com/nba/story/_/id/50299136/golden-state-warriors-kristaps-porzingis-options-trade\" target=\"_blank\" style=\"color: #1a73e8;\">Porzingis' unwillingness to be present at the Warriors' facility could be deemed a failure to render his services -- a reality that has been raised internally, sources said -- and could be used in an attempt to void his entire contract.</a> But that would present its own complications, unless Porzingis expressed an intention to retire and willingly gave all the money back.",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/50299136/golden-state-warriors-kristaps-porzingis-options-trade"
-      },
-      {
-        "date": "2026-10-23",
-        "text": "Chef: Draymond talks about the Kristaps Porzingis news:\"I wouldn't necessarily say the news was a distraction yesterday more so than like you kind of have forgot about it. We've gone a whole training camp and preseason without him, so you've kind of just got accustomed to the guys who were there and then that news comes out and it just makes you think about it again. . . I saw Shams reported that the Warriors would be looking at a trade. Shams knows better than we do, so we'll see what happens. I still wish him well. I hope he's healthy. I hope he can get himself to a space health-wise that he feels great about, whether he plays basketball or not, it's not my concern. I just always want people in good health. Having bad health sucks.\"x.com",
-        "text_html": "Chef: Draymond talks about the Kristaps Porzingis news: <a href=\"https://x.com/CurryForGame/status/2113683339454693821?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">\"I wouldn't necessarily say the news was a distraction yesterday more so than like you kind of have forgot about it. We've gone a whole training camp and preseason without him, so you've kind of just got accustomed to the guys who were there and then that news comes out and it just makes you think about it again</a> . . . I saw Shams reported that the Warriors would be looking at a trade. Shams knows better than we do, so we'll see what happens. I still wish him well. I hope he's healthy. I hope he can get himself to a space health-wise that he feels great about, whether he plays basketball or not, it's not my concern. I just always want people in good health. Having bad health sucks.\"",
-        "outlet": "x.com",
-        "source_url": "https://x.com/CurryForGame/status/2113683339454693821?s=20"
-      },
-      {
-        "date": "2026-10-23",
-        "text": "Anthony Slater on Kristaps Porzingis: Clearly, this is something as you mentioned that that Mike Dunleavy's called around the league and explored. And as you (Brian Windhorst) laid out, I think there was this immediate reaction of this combo report that said guy contemplating his future retirement potentially on the table. Also, Warriors trying to trade him. And there was a confusion of how.But yeah, it's an expiring deal with the Warriors have draft picks. They could take on future salary for a tradable first.YouTube",
-        "text_html": "Anthony Slater on Kristaps Porzingis: Clearly, this is something as you mentioned that that Mike Dunleavy's called around the league and explored. And as you (Brian Windhorst) laid out, I think there was this immediate reaction of this combo report that said guy contemplating his future retirement potentially on the table. Also, Warriors trying to trade him. And there was a confusion of how. <a href=\"https://www.youtube.com/watch?v=KuYZpoPyl58&t=1311s\" target=\"_blank\" style=\"color: #1a73e8;\">But yeah, it's an expiring deal with the Warriors have draft picks. They could take on future salary for a tradable first.</a>",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=KuYZpoPyl58&t=1311s"
-      },
-      {
-        "date": "2026-10-23",
-        "text": "Anthony Slater on Kristaps Porzingis: 'He played 15 of the last 20 games last year that had them like decently confident enough that they can maybe maintain his health to provide every other game type support for them this season. He was around the team in the week leading up to training camp. He went to this event with Jimmy Butler in San Diego, but if you talk to the players and people at that event, he wasn't getting on the court, he wasn't in the weight room.He would show up to kind of more of the dinners and the fun stuff, but it seemed clear right before camp that he was fading away from basketball, obviously dealing with his health issue and thinking about his future.'YouTube",
-        "text_html": "Anthony Slater on Kristaps Porzingis: 'He played 15 of the last 20 games last year that had them like decently confident enough that they can maybe maintain his health to provide every other game type support for them this season. He was around the team in the week leading up to training camp. He went to this event with Jimmy Butler in San Diego, but if you talk to the players and people at that event, he wasn't getting on the court, he wasn't in the weight room. <a href=\"https://www.youtube.com/watch?v=KuYZpoPyl58&t=1203s\" target=\"_blank\" style=\"color: #1a73e8;\">He would show up to kind of more of the dinners and the fun stuff, but it seemed clear right before camp that he was fading away from basketball, obviously dealing with his health issue and thinking about his future.'</a>",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=KuYZpoPyl58&t=1203s"
-      },
-      {
-        "date": "2026-10-23",
-        "text": "Brian Windhorst: 'The Warriors started making calls looking for availability for Kristaps Porzingis\u2019 trades and that all of a sudden popped up on the radar of Shams and others.That\u2019s what happened here. And only in the NBA you know if this was another um another sport you know you heard a player was facing ing a career-threatening situation. You would say, \"Oh, man, that's awful.\" But you wouldn't hear players facing a career-threatening situation and then he might get traded. You would say, \"Well, this doesn't make sense. How could a player who may not play this year don't be traded?\" Well, that's not the NBA. In the NBA, you have a player that now as he deals with this health thing, and we hope that he is able to find some resolution there, that contract now becomes something that the Warriors\u2026 They are in a tough spot now. They don't have a starting center and so now they've got to deal with it.'YouTube",
-        "text_html": "<a href=\"https://www.youtube.com/watch?v=KuYZpoPyl58&t=1139s\" target=\"_blank\" style=\"color: #1a73e8;\">Brian Windhorst: 'The Warriors started making calls looking for availability for Kristaps Porzingis\u2019 trades and that all of a sudden popped up on the radar of Shams and others.</a> That\u2019s what happened here. And only in the NBA you know if this was another um another sport you know you heard a player was facing ing a career-threatening situation. You would say, \"Oh, man, that's awful.\" But you wouldn't hear players facing a career-threatening situation and then he might get traded. You would say, \"Well, this doesn't make sense. How could a player who may not play this year don't be traded?\" Well, that's not the NBA. In the NBA, you have a player that now as he deals with this health thing, and we hope that he is able to find some resolution there, that contract now becomes something that the Warriors\u2026 They are in a tough spot now. They don't have a starting center and so now they've got to deal with it.'",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=KuYZpoPyl58&t=1139s"
-      },
-      {
-        "date": "2026-10-21",
-        "text": "Marc Stein: TheWarriors in a statement on Kristaps Porzi\u0146\u0123is\u2019 status say \u201cthey are not going to comment on trade speculation or reports regarding his health-related matter or future\u201d but concede that they \u201care not anticipating Kristaps being around the team in the immediate future.\u201dx.com",
-        "text_html": "Marc Stein: The <a href=\"https://x.com/TheSteinLine/status/2113009512764371429\" target=\"_blank\" style=\"color: #1a73e8;\">Warriors in a statement on Kristaps Porzi\u0146\u0123is\u2019 status say \u201cthey are not going to comment on trade speculation or reports regarding his health-related matter or future\u201d but concede that they \u201care not anticipating Kristaps being around the team in the immediate future.\u201d</a>",
-        "outlet": "x.com",
-        "source_url": "https://x.com/TheSteinLine/status/2113009512764371429"
-      },
-      {
-        "date": "2026-10-21",
-        "text": "Bobby Marks:Kristaps Porzingis is eligible to be traded, despite signing a 2 year/$40M extension on June 30. His salary for next season is guaranteed for only $3M. Golden State is a second apron team and are not allowed to take back more salary in any trade.x.com",
-        "text_html": "Bobby Marks: <a href=\"https://x.com/BobbyMarks42/status/2112974644063932581\" target=\"_blank\" style=\"color: #1a73e8;\">Kristaps Porzingis is eligible to be traded, despite signing a 2 year/$40M extension on June 30</a>. His salary for next season is guaranteed for only $3M. Golden State is a second apron team and are not allowed to take back more salary in any trade.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/BobbyMarks42/status/2112974644063932581"
-      },
-      {
-        "date": "2026-10-21",
-        "text": "Shams Charania:Golden State has started exploring trade routes for Kristaps Porzingis, who is now seriously contemplating his future in basketball as he deals with recurring symptoms from the autoimmune condition termed as POTS (postural orthostatic tachycardia syndrome),sources tell ESPN.x.com",
-        "text_html": "Shams Charania: <a href=\"https://x.com/ShamsCharania/status/2112971771683147998\" target=\"_blank\" style=\"color: #1a73e8;\">Golden State has started exploring trade routes for Kristaps Porzingis, who is now seriously contemplating his future in basketball as he deals with recurring symptoms from the autoimmune condition termed as POTS (postural orthostatic tachycardia syndrome),</a> sources tell ESPN.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/ShamsCharania/status/2112971771683147998"
-      },
-      {
-        "date": "2026-10-21",
-        "text": "Shams Charania: Porzingis is on a trade-flexible contract for $20 million this season and a small partial next year, serving as essentially an expiring deal that the Warriors can utilize, potentially with their pool of assets.He first revealed his POTS diagnosis last year and has had ups and downs with the issue. If there is no breakthrough in recovery, stepping away from basketball -- for good -- is possible.x.com",
-        "text_html": "Shams Charania: Porzingis is on a trade-flexible contract for $20 million this season and a small partial next year, serving as essentially an expiring deal that the Warriors can utilize, potentially with their pool of assets. <a href=\"https://x.com/ShamsCharania/status/2112972839863329002?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">He first revealed his POTS diagnosis last year and has had ups and downs with the issue. If there is no breakthrough in recovery, stepping away from basketball -- for good -- is possible</a>.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/ShamsCharania/status/2112972839863329002?s=20"
-      },
-      {
-        "date": "2026-10-17",
-        "text": "The rest of the season was a slow nightmare. Curry was sidelined for two months to tend to a persistent knee issue. They traded for Kristaps Porzingis, who was in and out of the lineup. They went 12-26 after the Jimmy Butler injury, fading to the background in a season that opened with quiet title belief.\"I really felt like I let Steph down,\" Butler said. \"I let Draymond down. I let Steve down. Because they took a chance. If you don't know me and you haven't been around me, you don't know what I'm about because of the things that you may read and hear.But they said, 'F--- all of that s---. This motherf---er knows how to win.' They took a chance, and I felt I let them down.\"ESPN",
-        "text_html": "The rest of the season was a slow nightmare. Curry was sidelined for two months to tend to a persistent knee issue. They traded for Kristaps Porzingis, who was in and out of the lineup. They went 12-26 after the Jimmy Butler injury, fading to the background in a season that opened with quiet title belief. <a href=\"https://www.espn.com/nba/story/_/id/50182801/jimmy-butler-acl-injury-return-warriors-title\" target=\"_blank\" style=\"color: #1a73e8;\">\"I really felt like I let Steph down,\" Butler said. \"I let Draymond down. I let Steve down. Because they took a chance. If you don't know me and you haven't been around me, you don't know what I'm about because of the things that you may read and hear.</a> But they said, 'F--- all of that s---. This motherf---er knows how to win.' They took a chance, and I felt I let them down.\"",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/50182801/jimmy-butler-acl-injury-return-warriors-title"
-      }
-    ],
     "Draymond Green": [
       {
         "date": "2026-11-06",
@@ -1827,15 +2092,6 @@
         "text_html": "<a href=\"https://www.theplayerstribune.com/ayo-dosunmu-nba-basketball-minnesota-timberwolves\" target=\"_blank\" style=\"color: #1a73e8;\">Ayo Dosunmu: I know I came here at the trade deadline last year as a \u201cwait and see.\u201d That\u2019s what the whole league was saying. I\u2019m a basketball junkie, so I knew the deal. When you get traded, it\u2019s like a breakup. Except in basketball, you can\u2019t pick your new girl! You don\u2019t know how it\u2019s gonna go! Might be a good fit, might not be</a>. Thank God, from the first day, everybody embraced me here. I got on the plane to Minnesota with 2 bags, and I literally just kept those two bags all through the playoff run. My fianc\u00e9e was texting me like, \u201cAre you sure you don\u2019t want me to bring you some new clothes?\u201d But I was so locked in that I didn\u2019t even want to think about anything but ball. I had spent my entire life in Chicago, in my cocoon with my family, all the way from a kid to Illinois to the Bulls. So it felt like God was telling me, \u201cAlright, it\u2019s time to grow up. I\u2019m throwing you in the deep end for the first time. You gotta ADAPT or sink.\u201d",
         "outlet": "The Players' Tribune",
         "source_url": "https://www.theplayerstribune.com/ayo-dosunmu-nba-basketball-minnesota-timberwolves"
-      }
-    ],
-    "Jamal Murray": [
-      {
-        "date": "2026-11-05",
-        "text": "NBABase: Zach Lowe says Jamal Murray could be a surprise trade candidate if the Nuggets struggle this season ?\u201cI said Jamal Murray just because if this team isn\u2019t good, I think something is gonna crack here. I\u2019m not closing the door.\u201dx.com",
-        "text_html": "NBABase: Zach Lowe says Jamal Murray could be a surprise trade candidate if the Nuggets struggle this season ? <a href=\"https://x.com/TheNBABase/status/2118481419702022267\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cI said Jamal Murray just because if this team isn\u2019t good, I think something is gonna crack here. I\u2019m not closing the door.\u201d</a>",
-        "outlet": "x.com",
-        "source_url": "https://x.com/TheNBABase/status/2118481419702022267"
       }
     ],
     "Nikola Jokic": [
@@ -2132,78 +2388,6 @@
         "source_url": "https://hoopsmatic.com/"
       }
     ],
-    "Kyrie Irving": [
-      {
-        "date": "2026-11-02",
-        "text": "SiriusXM NBA Radio:\"The Mavs have consistently told teams they don't even want to field your call\"@TheSteinLine tells @BGeltzNBA why Kyrie Irving isn't availablex.com",
-        "text_html": "SiriusXM NBA Radio: <a href=\"https://x.com/SiriusXMNBA/status/2117358801456091453?a=BUdG_bYWXHMfeKkgarA&s=20\" target=\"_blank\" style=\"color: #1a73e8;\">\"The Mavs have consistently told teams they don't even want to field your call\"</a> @TheSteinLine tells @BGeltzNBA why Kyrie Irving isn't available",
-        "outlet": "x.com",
-        "source_url": "https://x.com/SiriusXMNBA/status/2117358801456091453?a=BUdG_bYWXHMfeKkgarA&s=20"
-      },
-      {
-        "date": "2026-11-02",
-        "text": "Tim MacMahon on Kyrie Irving:\"Going into the season, I would have said more likely than not, he gets moved by the deadline, but I didn't feel super strong about it. The more I see the team, the more I think it's going to be awfully hard to trade him.Not that there won't be a big market, there will be, but if they've got a chance to compete for a play-in, playoff spot, I just think it's going to be really tough to move Kyrie. Also, as much as he means to that locker room as well as he's working with Luka, it was beautiful basketball.\"YouTube",
-        "text_html": "Tim MacMahon on Kyrie Irving: <a href=\"https://www.youtube.com/watch?v=v2NpIFU-Pxg&t=613s\" target=\"_blank\" style=\"color: #1a73e8;\">\"Going into the season, I would have said more likely than not, he gets moved by the deadline, but I didn't feel super strong about it. The more I see the team, the more I think it's going to be awfully hard to trade him.</a> Not that there won't be a big market, there will be, but if they've got a chance to compete for a play-in, playoff spot, I just think it's going to be really tough to move Kyrie. Also, as much as he means to that locker room as well as he's working with Luka, it was beautiful basketball.\"",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=v2NpIFU-Pxg&t=613s"
-      },
-      {
-        "date": "2026-11-01",
-        "text": "Chris Mannix: \"I think Kyrie Irving is a separate topic.I think he's going to be the most in-demand player at the trade deadline because he's not on the Mavericks' timeline. I think Detroit is another team that will be salivating over getting Kyrie Irving.They're off to a great start. I think the Mavericks have a chance to get some real assets back in return for a player that's been good for them.\"YouTube",
-        "text_html": "Chris Mannix: \"I think Kyrie Irving is a separate topic. <a href=\"https://www.youtube.com/watch?v=elTX1ZC_XaI&t=373s\" target=\"_blank\" style=\"color: #1a73e8;\">I think he's going to be the most in-demand player at the trade deadline because he's not on the Mavericks' timeline. I think Detroit is another team that will be salivating over getting Kyrie Irving.</a> They're off to a great start. I think the Mavericks have a chance to get some real assets back in return for a player that's been good for them.\"",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=elTX1ZC_XaI&t=373s"
-      },
-      {
-        "date": "2026-10-30",
-        "text": "Ethan J. Skolnick on Kyrie Irving:\u201cI think we've both heard that he's interested in playing down in Miami. I also know Spoelstra holds him in very high regard.I know there are concerns about other stuff.\u201dSpotify",
-        "text_html": "Ethan J. Skolnick on Kyrie Irving: <a href=\"https://open.spotify.com/episode/2Zslqbc384lRt9dtqPpakb?nd=1&dlsi=73818e89336e4d00\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cI think we've both heard that he's interested in playing down in Miami. I also know Spoelstra holds him in very high regard.</a> I know there are concerns about other stuff.\u201d",
-        "outlet": "Spotify",
-        "source_url": "https://open.spotify.com/episode/2Zslqbc384lRt9dtqPpakb?nd=1&dlsi=73818e89336e4d00"
-      },
-      {
-        "date": "2026-10-30",
-        "text": "NBA Trade Machine:Over the past 24 hours, Jalen Green featured in 10.5% of trades built on HoopsMatic.Within his trades, he landed most often in Dallas (82.4%), New Orleans (2.6%), and LA Clippers (2.0%). Most often, he was traded for Marcus Sasser (24.8%), Dereck Lively (23.5%), and Kyrie Irving (23.5%).HoopsMatic",
-        "text_html": "NBA Trade Machine: <a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">Over the past 24 hours, Jalen Green featured in 10.5% of trades built on HoopsMatic.</a> Within his trades, he landed most often in Dallas (82.4%), New Orleans (2.6%), and LA Clippers (2.0%). Most often, he was traded for Marcus Sasser (24.8%), Dereck Lively (23.5%), and Kyrie Irving (23.5%).",
-        "outlet": "HoopsMatic",
-        "source_url": "https://hoopsmatic.com/"
-      },
-      {
-        "date": "2026-10-28",
-        "text": "Shams Charania:\"There's a slew of teams now that are monitoring Kyrie Irving. He's in the last year of his deal,he's got a player option next year. And so if you're a contending team and if the Mavericks are not really contending come trade deadline, do they look to trade him potentially to a contender for draft picks? That is what's also at the forefront of other teams' minds.\"YouTube",
-        "text_html": "Shams Charania: <a href=\"https://www.youtube.com/watch?v=YAIu-s-mR7k&t=517s\" target=\"_blank\" style=\"color: #1a73e8;\">\"There's a slew of teams now that are monitoring Kyrie Irving. He's in the last year of his deal,</a> he's got a player option next year. And so if you're a contending team and if the Mavericks are not really contending come trade deadline, do they look to trade him potentially to a contender for draft picks? That is what's also at the forefront of other teams' minds.\"",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=YAIu-s-mR7k&t=517s"
-      },
-      {
-        "date": "2026-10-17",
-        "text": "NBA Trade Machine:Michael Porter was part of 4.1% of the trades built on HoopsMatic over the past 24 hours. Of those trades, his top destinations were New Orleans (21.7%), Boston (13.0%), and LA Lakers (10.9%).The most common players sent back for him were Zion Williamson (17.4%), Luka Doncic (8.7%), and Kyrie Irving (8.7%).HoopsMatic",
-        "text_html": "NBA Trade Machine: <a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">Michael Porter was part of 4.1% of the trades built on HoopsMatic over the past 24 hours. Of those trades, his top destinations were New Orleans (21.7%), Boston (13.0%), and LA Lakers (10.9%).</a> The most common players sent back for him were Zion Williamson (17.4%), Luka Doncic (8.7%), and Kyrie Irving (8.7%).",
-        "outlet": "HoopsMatic",
-        "source_url": "https://hoopsmatic.com/"
-      },
-      {
-        "date": "2026-10-14",
-        "text": "NBA insider Jake Fischer is convinced Irving will be a key trade candidate for many teams before the deadline.\"I still believe that Kyrie Irving is someone we are going to talking about through the February 11th trade deadline as a trade target for rival teams,\" Fischer said on Bleacher Report. \"He just does not fit the timeline, he is almost a decade and a half older than Cooper Flagg. He himself is going into the end of a very lucrative contract where he\u2019s want to get paid.\"BasketNews",
-        "text_html": "NBA insider Jake Fischer is convinced Irving will be a key trade candidate for many teams before the deadline. <a href=\"https://basketnews.com/news-257295-nba-insider-drops-massive-verdict-on-kyrie-irving-trade-situation-for-dallas.html\" target=\"_blank\" style=\"color: #1a73e8;\">\"I still believe that Kyrie Irving is someone we are going to talking about through the February 11th trade deadline as a trade target for rival teams,\" Fischer said on Bleacher Report</a>. \"He just does not fit the timeline, he is almost a decade and a half older than Cooper Flagg. He himself is going into the end of a very lucrative contract where he\u2019s want to get paid.\"",
-        "outlet": "BasketNews",
-        "source_url": "https://basketnews.com/news-257295-nba-insider-drops-massive-verdict-on-kyrie-irving-trade-situation-for-dallas.html"
-      },
-      {
-        "date": "2026-10-12",
-        "text": "Ujiri has made it clear that the franchise is committed to keeping Irving with Flagg, who is 15 years younger than the star point guard.Rival front offices question whether Dallas can stick to that plan with roster holes elsewhere and the two stars on different career timelines. That is certainly a backdrop. But Flagg is now on stage, and he is giving off the vibes that he's ready. As they watch him do it every day, the rest of the Mavs feel it.ESPN",
-        "text_html": "Ujiri has made it clear that the franchise is committed to keeping Irving with Flagg, who is 15 years younger than the star point guard. <a href=\"https://www.espn.com/nba/story/_/id/50163354/cooper-flagg-kyrie-irving-mavericks-china\" target=\"_blank\" style=\"color: #1a73e8;\">Rival front offices question whether Dallas can stick to that plan with roster holes elsewhere and the two stars on different career timelines</a>. That is certainly a backdrop. But Flagg is now on stage, and he is giving off the vibes that he's ready. As they watch him do it every day, the rest of the Mavs feel it.",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/50163354/cooper-flagg-kyrie-irving-mavericks-china"
-      },
-      {
-        "date": "2026-10-12",
-        "text": "Tim MacMahon:\"There's a lot of intrigue around the league as far as whether the Mavericks will be willing to entertain trade discussions for Kyrie.It's not because the Mavericks don't love Kyrie, they absolutely do, but the charge from Masai is to build a sustainable contender around Cooper Flagg. Could a path forward, or at least part of a path forward, be capitalized on the value that Kyrie would have in the trade market?\"YouTube",
-        "text_html": "Tim MacMahon: <a href=\"https://www.youtube.com/watch?v=gz7dwlfP9uc&t=186s\" target=\"_blank\" style=\"color: #1a73e8;\">\"There's a lot of intrigue around the league as far as whether the Mavericks will be willing to entertain trade discussions for Kyrie.</a> It's not because the Mavericks don't love Kyrie, they absolutely do, but the charge from Masai is to build a sustainable contender around Cooper Flagg. Could a path forward, or at least part of a path forward, be capitalized on the value that Kyrie would have in the trade market?\"",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=gz7dwlfP9uc&t=186s"
-      }
-    ],
     "Damian Lillard": [
       {
         "date": "2026-11-01",
@@ -2316,78 +2500,6 @@
         "text_html": "As Bobby notes, Oklahoma City's financial situation will make it difficult to trade for another high-salary contributor. The only Thunder players making more than $7.8 million this season are effectively untradeable: Williams, Gilgeous-Alexander, Caruso, Chet Holmgren and Isaiah Hartenstein. <a href=\"https://www.espn.com/nba/story/_/id/50287191/jalen-williams-cason-wallace-injured-next-thunder\" target=\"_blank\" style=\"color: #1a73e8;\">Barring a shocking trade of one of those players -- a swap involving Williams is perhaps feasible in a vacuum if the Thunder want to maximize their championship chances this season, but it seems inconceivable in context -- the Thunder won't be able to match the salaries of potential targets such as Trey Murphy III (New Orleans) or Michael Porter Jr. (Brooklyn). Nor will they be able to replace Williams' rare combination of offense, defense and size</a>.",
         "outlet": "ESPN",
         "source_url": "https://www.espn.com/nba/story/_/id/50287191/jalen-williams-cason-wallace-injured-next-thunder"
-      }
-    ],
-    "Jaylen Brown": [
-      {
-        "date": "2026-10-28",
-        "text": "Gina Mizell: Jaylen Brown responds to Brian Scalabrine\u2019s report (then walked-back report?) he demanded a trade out of Boston:\u201cI have no interest in letting any false allegations (follow) me into my next chapter here in Philadelphia. I never demanded a trade. Never made a list of ultimatums.\u201dx.com",
-        "text_html": "Gina Mizell: Jaylen Brown responds to Brian Scalabrine\u2019s report (then walked-back report?) he demanded a trade out of Boston: <a href=\"https://x.com/ginamizell/status/2115640999850418363\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cI have no interest in letting any false allegations (follow) me into my next chapter here in Philadelphia. I never demanded a trade. Never made a list of ultimatums.\u201d</a>",
-        "outlet": "x.com",
-        "source_url": "https://x.com/ginamizell/status/2115640999850418363"
-      },
-      {
-        "date": "2026-10-28",
-        "text": "NBACentral:Brian Scalabrine goes OFF on Jaylen Brown?\u201cJaylen Brown wants to be the victim in all of this,and this is the way he\u2019s doing it now. He\u2019s using me, or his PR team, or whatever it is, to play the victim, and he\u2019s not going to take responsibility for it. That\u2019s fine\u2026I just feel like he wants to say whatever he wants, and he doesn\u2019t want to be held accountable, just like on his Twitch. He wants his legacy to remain intact, and he\u2019s not going to take responsibility for the other stuff that he brings up. And this is just the beginning of it.\u201dx.com",
-        "text_html": "NBACentral: <a href=\"https://x.com/thedunkcentral/status/2115164996610973804?s=46\" target=\"_blank\" style=\"color: #1a73e8;\">Brian Scalabrine goes OFF on Jaylen Brown</a> ? <a class=\"quote\" href=\"https://x.com/thedunkcentral/status/2115164996610973804?s=46\" onclick=\"return HHRumors.OpenLink(this,'g6MD-rMJAB');\" rel=\"nofollow\" title=\"Read more on x.com\">\u201cJaylen Brown wants to be the victim in all of this,</a> and this is the way he\u2019s doing it now. He\u2019s using me, or his PR team, or whatever it is, to play the victim, and he\u2019s not going to take responsibility for it. That\u2019s fine\u2026I just feel like he wants to say whatever he wants, and he doesn\u2019t want to be held accountable, just like on his Twitch. He wants his legacy to remain intact, and he\u2019s not going to take responsibility for the other stuff that he brings up. And this is just the beginning of it.\u201d",
-        "outlet": "x.com",
-        "source_url": "https://x.com/thedunkcentral/status/2115164996610973804?s=46"
-      },
-      {
-        "date": "2026-10-27",
-        "text": "\u201cMy understanding of this thing is that (Brown) demanded to be traded,\u201d Scalabrine said. \u201cNot through the media, but to the organization.\u201d Hours later, Scalabrine walked back parts of that report during NBC Sports Boston\u2019s pregame show\u201cTo be fair, after the 48 calls I\u2019ve fended today and I listened, he technically didn\u2019t demand any trade,\u201d he said. \u201c\u2026 I just summed it all up. I summed up the entire word salad and kept it simple. But I think that\u2019s what kind of got me in trouble there.\u201dBoston Herald",
-        "text_html": "\u201cMy understanding of this thing is that (Brown) demanded to be traded,\u201d Scalabrine said. \u201cNot through the media, but to the organization.\u201d Hours later, Scalabrine walked back parts of that report during NBC Sports Boston\u2019s pregame show <a href=\"https://www.bostonherald.com/2026/10/26/celtics-broadcaster-says-jaylen-brown-demanded-to-be-traded/\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cTo be fair, after the 48 calls I\u2019ve fended today and I listened, he technically didn\u2019t demand any trade,\u201d he said. \u201c\u2026 I just summed it all up. I summed up the entire word salad and kept it simple. But I think that\u2019s what kind of got me in trouble there.\u201d</a>",
-        "outlet": "Boston Herald",
-        "source_url": "https://www.bostonherald.com/2026/10/26/celtics-broadcaster-says-jaylen-brown-demanded-to-be-traded/"
-      },
-      {
-        "date": "2026-10-27",
-        "text": "He added: \u201cI don\u2019t know what the ultimatum was or the demands or whatever it was. So he technically did not demand to be traded. It was, \u2018Do these things right here or else.\u2019 And one of them might have been, like, \u2018Give me the $140 million extension\u2019(for which Brown would have been eligible this offseason). I haven\u2019t gotten to the bottom of all of that. I didn\u2019t even know this was going to be a thing.\u201dBoston Herald",
-        "text_html": "<a href=\"https://www.bostonherald.com/2026/10/26/celtics-broadcaster-says-jaylen-brown-demanded-to-be-traded/\" target=\"_blank\" style=\"color: #1a73e8;\">He added: \u201cI don\u2019t know what the ultimatum was or the demands or whatever it was. So he technically did not demand to be traded. It was, \u2018Do these things right here or else.\u2019 And one of them might have been, like, \u2018Give me the $140 million extension\u2019</a> (for which Brown would have been eligible this offseason). I haven\u2019t gotten to the bottom of all of that. I didn\u2019t even know this was going to be a thing.\u201d",
-        "outlet": "Boston Herald",
-        "source_url": "https://www.bostonherald.com/2026/10/26/celtics-broadcaster-says-jaylen-brown-demanded-to-be-traded/"
-      },
-      {
-        "date": "2026-10-26",
-        "text": "Kris Rhim:A representative from Jaylen Brown\u2019s team told ESPN that reports that he demanded a trade or presented the Celtics with a list of demands are \u201c10000% a lie.\u201dBrown never requested a trade to Milwaukee, the representative said. After the deal fell through and Boston informed him he\u2019d be traded, his only request was to have input on his destination.x.com",
-        "text_html": "Kris Rhim: <a href=\"https://x.com/krisrhim1/status/2114892130745516172\" target=\"_blank\" style=\"color: #1a73e8;\">A representative from Jaylen Brown\u2019s team told ESPN that reports that he demanded a trade or presented the Celtics with a list of demands are \u201c10000% a lie.\u201d</a> Brown never requested a trade to Milwaukee, the representative said. After the deal fell through and Boston informed him he\u2019d be traded, his only request was to have input on his destination.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/krisrhim1/status/2114892130745516172"
-      },
-      {
-        "date": "2026-10-26",
-        "text": "Fullcourtpass:Jaylen Brown gave the Celtics front office a list of demands and told them to complete them all or trade him,per @Scalabrine Brown was pushing for a trade to Milwaukee and even contacted his teammates about trying to team up there (Via @SiriusXMNBA, h/t @JaysEnjoyer_)x.com",
-        "text_html": "Fullcourtpass: <a href=\"https://x.com/Fullcourtpass/status/2114809519557529987\" target=\"_blank\" style=\"color: #1a73e8;\">Jaylen Brown gave the Celtics front office a list of demands and told them to complete them all or trade him,</a> per @Scalabrine Brown was pushing for a trade to Milwaukee and even contacted his teammates about trying to team up there (Via @SiriusXMNBA, h/t @JaysEnjoyer_)",
-        "outlet": "x.com",
-        "source_url": "https://x.com/Fullcourtpass/status/2114809519557529987"
-      },
-      {
-        "date": "2026-10-24",
-        "text": "\"I reached out to him the day he was traded. I called, I texted,\" Tatum said. \"I understand people process things differently. At this point in our lives, we're too old to be having our relationship discussed on the internet. If there's a conversation to be had, we can definitely have the conversation. \"I welcome that. I've always wanted the best for him, wished the best for him. I've always publicly said those things.\"ESPN",
-        "text_html": "<a href=\"https://www.espn.com/nba/story/_/id/50263591/celtics-jayson-tatum-insists-no-beef-76ers-jaylen-brown-wake-trade\" target=\"_blank\" style=\"color: #1a73e8;\">\"I reached out to him the day he was traded. I called, I texted,\" Tatum said. \"I understand people process things differently. At this point in our lives, we're too old to be having our relationship discussed on the internet. If there's a conversation to be had, we can definitely have the conversation</a>. \"I welcome that. I've always wanted the best for him, wished the best for him. I've always publicly said those things.\"",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/50263591/celtics-jayson-tatum-insists-no-beef-76ers-jaylen-brown-wake-trade"
-      },
-      {
-        "date": "2026-10-23",
-        "text": "Raheem Palmer:I can confirm this is 100% true. He was in Vegas for summer league with Amile who was coaching the summer league team. He also had a camp he was throwing. People want there to be beef with him and Jaylen but Tatum had absolutely nothing to do with this trade and was just as shocked as everyone else. Kalshi Hoops: Jayson Tatum says he had no idea the Celtics were trading Jaylen Brown and was surprised they traded him to Philly: \"Bro we was in Vegas, I just got done playing pickup. Sham walked over. He hand me the towel. He like, 'Yo, put this over your face. Don't react. They just traded him (Jaylen).' I'm like, oh sh*t. I'm like, where? He said Philly. I said, you traded him down the street? So I was just as much caught off guard as the rest of the world.x.com",
-        "text_html": "Raheem Palmer: <a href=\"https://x.com/iamrahstradamus/status/2113411287208296809\" target=\"_blank\" style=\"color: #1a73e8;\">I can confirm this is 100% true. He was in Vegas for summer league with Amile who was coaching the summer league team. He also had a camp he was throwing. People want there to be beef with him and Jaylen but Tatum had absolutely nothing to do with this trade and was just as shocked as everyone else</a>. Kalshi Hoops: Jayson Tatum says he had no idea the Celtics were trading Jaylen Brown and was surprised they traded him to Philly: \"Bro we was in Vegas, I just got done playing pickup. Sham walked over. He hand me the towel. He like, 'Yo, put this over your face. Don't react. They just traded him (Jaylen).' I'm like, oh sh*t. I'm like, where? He said Philly. I said, you traded him down the street? So I was just as much caught off guard as the rest of the world.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/iamrahstradamus/status/2113411287208296809"
-      },
-      {
-        "date": "2026-10-23",
-        "text": "Jaylen Brown helped the Philadelphia 76ers topple the Cleveland Cavaliers on Thursday night. Then, after the big comeback win, he appeared to take aim at former Boston Celtics teammate Jayson Tatum.In an Instagram comments section, Brown posted a blue hat \u2014 the symbol for \u201ccap,\u201d meaning someone is being untruthful \u2014 in response to a story Tatum told about the day the Boston Celtics traded Brown.Tatum, who shared the story in a documentary that was released on his own YouTube channel, said he was \u201cjust as much caught off guard as the rest of the world\u201d when Boston dealt Brown to the 76ers this summer. Tatum said he was in Las Vegas when someone with him informed him of the news after a pickup basketball game.New York Times",
-        "text_html": "Jaylen Brown helped the Philadelphia 76ers topple the Cleveland Cavaliers on Thursday night. Then, after the big comeback win, he appeared to take aim at former Boston Celtics teammate Jayson Tatum. <a href=\"https://www.nytimes.com/athletic/7716223/2026/10/23/jaylen-brown-jayson-tatum-76ers-celtics-trade/\" target=\"_blank\" style=\"color: #1a73e8;\">In an Instagram comments section, Brown posted a blue hat \u2014 the symbol for \u201ccap,\u201d meaning someone is being untruthful \u2014 in response to a story Tatum told about the day the Boston Celtics traded Brown.</a> Tatum, who shared the story in a documentary that was released on his own YouTube channel, said he was \u201cjust as much caught off guard as the rest of the world\u201d when Boston dealt Brown to the 76ers this summer. Tatum said he was in Las Vegas when someone with him informed him of the news after a pickup basketball game.",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/7716223/2026/10/23/jaylen-brown-jayson-tatum-76ers-celtics-trade/"
-      },
-      {
-        "date": "2026-10-16",
-        "text": "The Warriors didn't show an appetite to offer Butler for Anthony Davis or Jaylen Brown this summer, considering the pick packages required and contracts attached to both.All other Butler-plus-picks conversations -- for what the Warriors believe are ultimately lesser players once Butler returns -- were shut down, team sources said.ESPN",
-        "text_html": "<a href=\"https://www.espn.com/nba/story/_/id/50182801/jimmy-butler-acl-injury-return-warriors-title\" target=\"_blank\" style=\"color: #1a73e8;\">The Warriors didn't show an appetite to offer Butler for Anthony Davis or Jaylen Brown this summer, considering the pick packages required and contracts attached to both.</a> All other Butler-plus-picks conversations -- for what the Warriors believe are ultimately lesser players once Butler returns -- were shut down, team sources said.",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/50182801/jimmy-butler-acl-injury-return-warriors-title"
       }
     ],
     "Jordan Poole": [
@@ -2887,6 +2999,50 @@
     ]
   },
   "daily_counts": {
+    "Kyrie Irving": {
+      "2026-11-09": 1,
+      "2026-11-02": 2,
+      "2026-11-01": 1,
+      "2026-10-30": 2,
+      "2026-10-28": 1,
+      "2026-10-17": 1,
+      "2026-10-14": 1,
+      "2026-10-12": 2
+    },
+    "Jaylen Brown": {
+      "2026-11-09": 1,
+      "2026-10-28": 2,
+      "2026-10-27": 2,
+      "2026-10-26": 2,
+      "2026-10-24": 1,
+      "2026-10-23": 2,
+      "2026-10-16": 1
+    },
+    "Kristaps Porzingis": {
+      "2026-11-09": 1,
+      "2026-11-06": 3,
+      "2026-11-04": 7,
+      "2026-10-28": 3,
+      "2026-10-23": 4,
+      "2026-10-21": 4,
+      "2026-10-17": 1
+    },
+    "Jamal Murray": {
+      "2026-11-09": 1,
+      "2026-11-05": 1
+    },
+    "Grayson Allen": {
+      "2026-11-09": 1
+    },
+    "De'Aaron Fox": {
+      "2026-11-09": 1
+    },
+    "Grant Williams": {
+      "2026-11-09": 1
+    },
+    "Desmond Bane": {
+      "2026-11-09": 1
+    },
     "Nique Clifford": {
       "2026-11-08": 4
     },
@@ -2955,14 +3111,6 @@
       "2026-10-27": 1,
       "2026-10-17": 1
     },
-    "Kristaps Porzingis": {
-      "2026-11-06": 3,
-      "2026-11-04": 7,
-      "2026-10-28": 3,
-      "2026-10-23": 4,
-      "2026-10-21": 4,
-      "2026-10-17": 1
-    },
     "Draymond Green": {
       "2026-11-06": 1,
       "2026-10-16": 1
@@ -2999,9 +3147,6 @@
       "2026-11-06": 1
     },
     "Ayo Dosunmu": {
-      "2026-11-05": 1
-    },
-    "Jamal Murray": {
       "2026-11-05": 1
     },
     "Nikola Jokic": {
@@ -3082,15 +3227,6 @@
     "Evan Mobley": {
       "2026-11-03": 1
     },
-    "Kyrie Irving": {
-      "2026-11-02": 2,
-      "2026-11-01": 1,
-      "2026-10-30": 2,
-      "2026-10-28": 1,
-      "2026-10-17": 1,
-      "2026-10-14": 1,
-      "2026-10-12": 2
-    },
     "Damian Lillard": {
       "2026-11-01": 1
     },
@@ -3119,14 +3255,6 @@
       "2026-10-29": 1,
       "2026-10-28": 1,
       "2026-10-27": 1
-    },
-    "Jaylen Brown": {
-      "2026-10-28": 2,
-      "2026-10-27": 2,
-      "2026-10-26": 2,
-      "2026-10-24": 1,
-      "2026-10-23": 2,
-      "2026-10-16": 1
     },
     "Jordan Poole": {
       "2026-10-28": 1
