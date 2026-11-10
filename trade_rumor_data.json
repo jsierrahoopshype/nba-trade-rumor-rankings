@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-09T22:45:07.253439",
+  "generated_at": "2026-11-10T01:53:41.349238",
   "scrape_window_days": 28,
-  "window_start": "2026-10-12",
-  "window_end": "2026-11-09",
-  "total_rumors": 215,
+  "window_start": "2026-10-13",
+  "window_end": "2026-11-10",
+  "total_rumors": 213,
   "total_players": 106,
   "rankings": [
     {
@@ -19,18 +19,6 @@
       "rank": 1
     },
     {
-      "player": "Kyrie Irving",
-      "score": 6.0,
-      "mentions_week1": 3,
-      "mentions_week2": 4,
-      "mentions_weeks3_4": 4,
-      "total_mentions": 11,
-      "first_mention": "2026-10-12",
-      "last_mention": "2026-11-09",
-      "team": "Dallas Mavericks",
-      "rank": 2
-    },
-    {
       "player": "Domantas Sabonis",
       "score": 5.25,
       "mentions_week1": 4,
@@ -40,18 +28,30 @@
       "first_mention": "2026-10-25",
       "last_mention": "2026-11-06",
       "team": "Sacramento Kings",
-      "rank": 3
+      "rank": 2
     },
     {
       "player": "Jaylen Brown",
-      "score": 5.0,
+      "score": 4.5,
       "mentions_week1": 1,
-      "mentions_week2": 6,
-      "mentions_weeks3_4": 4,
+      "mentions_week2": 4,
+      "mentions_weeks3_4": 6,
       "total_mentions": 11,
       "first_mention": "2026-10-16",
       "last_mention": "2026-11-09",
       "team": "Boston Celtics",
+      "rank": 3
+    },
+    {
+      "player": "Kyrie Irving",
+      "score": 4.5,
+      "mentions_week1": 1,
+      "mentions_week2": 6,
+      "mentions_weeks3_4": 2,
+      "total_mentions": 9,
+      "first_mention": "2026-10-14",
+      "last_mention": "2026-11-09",
+      "team": "Dallas Mavericks",
       "rank": 4
     },
     {
@@ -79,18 +79,6 @@
       "rank": 6
     },
     {
-      "player": "Jalen Williams",
-      "score": 2.0,
-      "mentions_week1": 1,
-      "mentions_week2": 2,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 3,
-      "first_mention": "2026-10-26",
-      "last_mention": "2026-11-05",
-      "team": "Oklahoma City Thunder",
-      "rank": 7
-    },
-    {
       "player": "Brook Lopez",
       "score": 2.0,
       "mentions_week1": 2,
@@ -100,7 +88,7 @@
       "first_mention": "2026-11-06",
       "last_mention": "2026-11-08",
       "team": "Los Angeles Clippers",
-      "rank": 8
+      "rank": 7
     },
     {
       "player": "Derrick Jones",
@@ -112,7 +100,7 @@
       "first_mention": "2026-11-06",
       "last_mention": "2026-11-08",
       "team": "Los Angeles Clippers",
-      "rank": 9
+      "rank": 8
     },
     {
       "player": "Isaiah Stewart",
@@ -124,7 +112,7 @@
       "first_mention": "2026-11-06",
       "last_mention": "2026-11-07",
       "team": "Detroit Pistons",
-      "rank": 10
+      "rank": 9
     },
     {
       "player": "Jamal Murray",
@@ -136,7 +124,7 @@
       "first_mention": "2026-11-05",
       "last_mention": "2026-11-09",
       "team": "Denver Nuggets",
-      "rank": 11
+      "rank": 10
     },
     {
       "player": "Kris Dunn",
@@ -148,7 +136,7 @@
       "first_mention": "2026-11-06",
       "last_mention": "2026-11-08",
       "team": "Los Angeles Clippers",
-      "rank": 12
+      "rank": 11
     },
     {
       "player": "Max Strus",
@@ -160,7 +148,7 @@
       "first_mention": "2026-11-06",
       "last_mention": "2026-11-08",
       "team": "Los Angeles Clippers",
-      "rank": 13
+      "rank": 12
     },
     {
       "player": "Nikola Jokic",
@@ -172,7 +160,7 @@
       "first_mention": "2026-11-04",
       "last_mention": "2026-11-05",
       "team": "Denver Nuggets",
-      "rank": 14
+      "rank": 13
     },
     {
       "player": "Rui Hachimura",
@@ -184,7 +172,7 @@
       "first_mention": "2026-11-06",
       "last_mention": "2026-11-08",
       "team": "Los Angeles Lakers",
-      "rank": 15
+      "rank": 14
     },
     {
       "player": "Zach LaVine",
@@ -196,7 +184,7 @@
       "first_mention": "2026-11-03",
       "last_mention": "2026-11-06",
       "team": "Sacramento Kings",
-      "rank": 16
+      "rank": 15
     },
     {
       "player": "Giannis Antetokounmpo",
@@ -208,7 +196,7 @@
       "first_mention": "2026-10-14",
       "last_mention": "2026-11-04",
       "team": "Milwaukee Bucks",
-      "rank": 17
+      "rank": 16
     },
     {
       "player": "Kevin Porter",
@@ -220,7 +208,7 @@
       "first_mention": "2026-10-19",
       "last_mention": "2026-11-08",
       "team": "Milwaukee Bucks",
-      "rank": 18
+      "rank": 17
     },
     {
       "player": "Ja Morant",
@@ -232,7 +220,7 @@
       "first_mention": "2026-10-13",
       "last_mention": "2026-11-03",
       "team": "Memphis Grizzlies",
-      "rank": 19
+      "rank": 18
     },
     {
       "player": "Jalen Green",
@@ -244,6 +232,18 @@
       "first_mention": "2026-10-20",
       "last_mention": "2026-11-08",
       "team": "Phoenix Suns",
+      "rank": 19
+    },
+    {
+      "player": "Jalen Williams",
+      "score": 1.75,
+      "mentions_week1": 1,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 3,
+      "first_mention": "2026-10-26",
+      "last_mention": "2026-11-05",
+      "team": "Oklahoma City Thunder",
       "rank": 20
     },
     {
@@ -1343,20 +1343,6 @@
         "text_html": "NBA insider Jake Fischer is convinced Irving will be a key trade candidate for many teams before the deadline. <a href=\"https://basketnews.com/news-257295-nba-insider-drops-massive-verdict-on-kyrie-irving-trade-situation-for-dallas.html\" target=\"_blank\" style=\"color: #1a73e8;\">\"I still believe that Kyrie Irving is someone we are going to talking about through the February 11th trade deadline as a trade target for rival teams,\" Fischer said on Bleacher Report</a>. \"He just does not fit the timeline, he is almost a decade and a half older than Cooper Flagg. He himself is going into the end of a very lucrative contract where he\u2019s want to get paid.\"",
         "outlet": "BasketNews",
         "source_url": "https://basketnews.com/news-257295-nba-insider-drops-massive-verdict-on-kyrie-irving-trade-situation-for-dallas.html"
-      },
-      {
-        "date": "2026-10-12",
-        "text": "Ujiri has made it clear that the franchise is committed to keeping Irving with Flagg, who is 15 years younger than the star point guard.Rival front offices question whether Dallas can stick to that plan with roster holes elsewhere and the two stars on different career timelines. That is certainly a backdrop. But Flagg is now on stage, and he is giving off the vibes that he's ready. As they watch him do it every day, the rest of the Mavs feel it.ESPN",
-        "text_html": "Ujiri has made it clear that the franchise is committed to keeping Irving with Flagg, who is 15 years younger than the star point guard. <a href=\"https://www.espn.com/nba/story/_/id/50163354/cooper-flagg-kyrie-irving-mavericks-china\" target=\"_blank\" style=\"color: #1a73e8;\">Rival front offices question whether Dallas can stick to that plan with roster holes elsewhere and the two stars on different career timelines</a>. That is certainly a backdrop. But Flagg is now on stage, and he is giving off the vibes that he's ready. As they watch him do it every day, the rest of the Mavs feel it.",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/50163354/cooper-flagg-kyrie-irving-mavericks-china"
-      },
-      {
-        "date": "2026-10-12",
-        "text": "Tim MacMahon:\"There's a lot of intrigue around the league as far as whether the Mavericks will be willing to entertain trade discussions for Kyrie.It's not because the Mavericks don't love Kyrie, they absolutely do, but the charge from Masai is to build a sustainable contender around Cooper Flagg. Could a path forward, or at least part of a path forward, be capitalized on the value that Kyrie would have in the trade market?\"YouTube",
-        "text_html": "Tim MacMahon: <a href=\"https://www.youtube.com/watch?v=gz7dwlfP9uc&t=186s\" target=\"_blank\" style=\"color: #1a73e8;\">\"There's a lot of intrigue around the league as far as whether the Mavericks will be willing to entertain trade discussions for Kyrie.</a> It's not because the Mavericks don't love Kyrie, they absolutely do, but the charge from Masai is to build a sustainable contender around Cooper Flagg. Could a path forward, or at least part of a path forward, be capitalized on the value that Kyrie would have in the trade market?\"",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=gz7dwlfP9uc&t=186s"
       }
     ],
     "Jaylen Brown": [
@@ -3006,8 +2992,7 @@
       "2026-10-30": 2,
       "2026-10-28": 1,
       "2026-10-17": 1,
-      "2026-10-14": 1,
-      "2026-10-12": 2
+      "2026-10-14": 1
     },
     "Jaylen Brown": {
       "2026-11-09": 1,
