@@ -1,11 +1,23 @@
 {
-  "generated_at": "2026-11-14T07:22:18.463305",
+  "generated_at": "2026-11-14T18:32:35.562545",
   "scrape_window_days": 28,
   "window_start": "2026-10-17",
   "window_end": "2026-11-14",
-  "total_rumors": 222,
+  "total_rumors": 230,
   "total_players": 100,
   "rankings": [
+    {
+      "player": "Dejounte Murray",
+      "score": 12.25,
+      "mentions_week1": 12,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 13,
+      "first_mention": "2026-10-28",
+      "last_mention": "2026-11-14",
+      "team": "New Orleans Pelicans",
+      "rank": 1
+    },
     {
       "player": "Kristaps Porzingis",
       "score": 10.0,
@@ -16,18 +28,6 @@
       "first_mention": "2026-10-17",
       "last_mention": "2026-11-13",
       "team": "Golden State Warriors",
-      "rank": 1
-    },
-    {
-      "player": "Dejounte Murray",
-      "score": 9.25,
-      "mentions_week1": 9,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 10,
-      "first_mention": "2026-10-28",
-      "last_mention": "2026-11-13",
-      "team": "New Orleans Pelicans",
       "rank": 2
     },
     {
@@ -43,6 +43,18 @@
       "rank": 3
     },
     {
+      "player": "Kyrie Irving",
+      "score": 5.5,
+      "mentions_week1": 3,
+      "mentions_week2": 3,
+      "mentions_weeks3_4": 4,
+      "total_mentions": 10,
+      "first_mention": "2026-10-17",
+      "last_mention": "2026-11-14",
+      "team": "Dallas Mavericks",
+      "rank": 4
+    },
+    {
       "player": "Nique Clifford",
       "score": 5.0,
       "mentions_week1": 5,
@@ -52,18 +64,6 @@
       "first_mention": "2026-11-08",
       "last_mention": "2026-11-10",
       "team": "Oklahoma City Thunder",
-      "rank": 4
-    },
-    {
-      "player": "Kyrie Irving",
-      "score": 4.5,
-      "mentions_week1": 2,
-      "mentions_week2": 3,
-      "mentions_weeks3_4": 4,
-      "total_mentions": 9,
-      "first_mention": "2026-10-17",
-      "last_mention": "2026-11-10",
-      "team": "Dallas Mavericks",
       "rank": 5
     },
     {
@@ -79,6 +79,30 @@
       "rank": 6
     },
     {
+      "player": "Anthony Black",
+      "score": 3.25,
+      "mentions_week1": 3,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 4,
+      "first_mention": "2026-10-19",
+      "last_mention": "2026-11-14",
+      "team": "Orlando Magic",
+      "rank": 7
+    },
+    {
+      "player": "Zion Williamson",
+      "score": 3.25,
+      "mentions_week1": 3,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 4,
+      "first_mention": "2026-10-17",
+      "last_mention": "2026-11-14",
+      "team": "New Orleans Pelicans",
+      "rank": 8
+    },
+    {
       "player": "Domantas Sabonis",
       "score": 3.0,
       "mentions_week1": 0,
@@ -88,7 +112,7 @@
       "first_mention": "2026-10-25",
       "last_mention": "2026-11-06",
       "team": "Sacramento Kings",
-      "rank": 7
+      "rank": 9
     },
     {
       "player": "Michael Porter",
@@ -100,7 +124,7 @@
       "first_mention": "2026-10-17",
       "last_mention": "2026-11-13",
       "team": "Brooklyn Nets",
-      "rank": 8
+      "rank": 10
     },
     {
       "player": "Jalen Smith",
@@ -112,19 +136,7 @@
       "first_mention": "2026-11-04",
       "last_mention": "2026-11-13",
       "team": "Chicago Bulls",
-      "rank": 9
-    },
-    {
-      "player": "Zion Williamson",
-      "score": 2.25,
-      "mentions_week1": 2,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 3,
-      "first_mention": "2026-10-17",
-      "last_mention": "2026-11-13",
-      "team": "New Orleans Pelicans",
-      "rank": 10
+      "rank": 11
     },
     {
       "player": "Desmond Bane",
@@ -136,7 +148,7 @@
       "first_mention": "2026-11-09",
       "last_mention": "2026-11-13",
       "team": "Orlando Magic",
-      "rank": 11
+      "rank": 12
     },
     {
       "player": "Naz Reid",
@@ -148,7 +160,19 @@
       "first_mention": "2026-11-12",
       "last_mention": "2026-11-12",
       "team": "Minnesota Timberwolves",
-      "rank": 12
+      "rank": 13
+    },
+    {
+      "player": "Herb Jones",
+      "score": 1.75,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 3,
+      "total_mentions": 4,
+      "first_mention": "2026-10-28",
+      "last_mention": "2026-11-14",
+      "team": "New Orleans Pelicans",
+      "rank": 14
     },
     {
       "player": "Jayson Tatum",
@@ -160,7 +184,7 @@
       "first_mention": "2026-10-23",
       "last_mention": "2026-11-10",
       "team": "Boston Celtics",
-      "rank": 13
+      "rank": 15
     },
     {
       "player": "Kevin Porter",
@@ -172,7 +196,7 @@
       "first_mention": "2026-10-19",
       "last_mention": "2026-11-08",
       "team": "Milwaukee Bucks",
-      "rank": 14
+      "rank": 16
     },
     {
       "player": "Luka Doncic",
@@ -184,7 +208,7 @@
       "first_mention": "2026-10-17",
       "last_mention": "2026-11-13",
       "team": "Los Angeles Lakers",
-      "rank": 15
+      "rank": 17
     },
     {
       "player": "Bam Adebayo",
@@ -196,7 +220,7 @@
       "first_mention": "2026-11-03",
       "last_mention": "2026-11-05",
       "team": "Miami Heat",
-      "rank": 16
+      "rank": 18
     },
     {
       "player": "Brook Lopez",
@@ -208,7 +232,7 @@
       "first_mention": "2026-11-06",
       "last_mention": "2026-11-08",
       "team": "Los Angeles Clippers",
-      "rank": 17
+      "rank": 19
     },
     {
       "player": "Derrick Jones",
@@ -220,7 +244,7 @@
       "first_mention": "2026-11-06",
       "last_mention": "2026-11-08",
       "team": "Los Angeles Clippers",
-      "rank": 18
+      "rank": 20
     },
     {
       "player": "Isaiah Stewart",
@@ -232,7 +256,7 @@
       "first_mention": "2026-11-06",
       "last_mention": "2026-11-07",
       "team": "Detroit Pistons",
-      "rank": 19
+      "rank": 21
     },
     {
       "player": "Jamal Murray",
@@ -244,7 +268,7 @@
       "first_mention": "2026-11-05",
       "last_mention": "2026-11-09",
       "team": "Denver Nuggets",
-      "rank": 20
+      "rank": 22
     },
     {
       "player": "Julius Randle",
@@ -256,7 +280,7 @@
       "first_mention": "2026-11-04",
       "last_mention": "2026-11-13",
       "team": "Minnesota Timberwolves",
-      "rank": 21
+      "rank": 23
     },
     {
       "player": "Kris Dunn",
@@ -268,7 +292,7 @@
       "first_mention": "2026-11-06",
       "last_mention": "2026-11-08",
       "team": "Los Angeles Clippers",
-      "rank": 22
+      "rank": 24
     },
     {
       "player": "Max Strus",
@@ -280,7 +304,7 @@
       "first_mention": "2026-11-06",
       "last_mention": "2026-11-08",
       "team": "Los Angeles Clippers",
-      "rank": 23
+      "rank": 25
     },
     {
       "player": "Rui Hachimura",
@@ -292,19 +316,7 @@
       "first_mention": "2026-11-06",
       "last_mention": "2026-11-08",
       "team": "Los Angeles Lakers",
-      "rank": 24
-    },
-    {
-      "player": "Anthony Black",
-      "score": 1.25,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 2,
-      "first_mention": "2026-10-19",
-      "last_mention": "2026-11-13",
-      "team": "Orlando Magic",
-      "rank": 25
+      "rank": 26
     },
     {
       "player": "Derrick White",
@@ -316,7 +328,7 @@
       "first_mention": "2026-10-20",
       "last_mention": "2026-11-07",
       "team": "Boston Celtics",
-      "rank": 26
+      "rank": 27
     },
     {
       "player": "Marcus Sasser",
@@ -328,7 +340,7 @@
       "first_mention": "2026-10-30",
       "last_mention": "2026-11-08",
       "team": "Boston Celtics",
-      "rank": 27
+      "rank": 28
     },
     {
       "player": "Walter Clayton",
@@ -340,7 +352,7 @@
       "first_mention": "2026-10-19",
       "last_mention": "2026-10-20",
       "team": "Dallas Mavericks",
-      "rank": 28
+      "rank": 29
     },
     {
       "player": "Jalen Williams",
@@ -352,7 +364,7 @@
       "first_mention": "2026-10-26",
       "last_mention": "2026-11-05",
       "team": "Oklahoma City Thunder",
-      "rank": 29
+      "rank": 30
     },
     {
       "player": "Nikola Jokic",
@@ -364,7 +376,7 @@
       "first_mention": "2026-11-04",
       "last_mention": "2026-11-05",
       "team": "Denver Nuggets",
-      "rank": 30
+      "rank": 31
     },
     {
       "player": "Zach LaVine",
@@ -376,7 +388,7 @@
       "first_mention": "2026-11-03",
       "last_mention": "2026-11-06",
       "team": "Sacramento Kings",
-      "rank": 31
+      "rank": 32
     },
     {
       "player": "Aaron Wiggins",
@@ -388,7 +400,7 @@
       "first_mention": "2026-11-08",
       "last_mention": "2026-11-08",
       "team": "Atlanta Hawks",
-      "rank": 32
+      "rank": 33
     },
     {
       "player": "Anthony Davis",
@@ -400,7 +412,7 @@
       "first_mention": "2026-11-12",
       "last_mention": "2026-11-12",
       "team": "Dallas Mavericks",
-      "rank": 33
+      "rank": 34
     },
     {
       "player": "Caleb Martin",
@@ -412,7 +424,7 @@
       "first_mention": "2026-11-08",
       "last_mention": "2026-11-08",
       "team": "Dallas Mavericks",
-      "rank": 34
+      "rank": 35
     },
     {
       "player": "Dalen Terry",
@@ -424,7 +436,7 @@
       "first_mention": "2026-11-08",
       "last_mention": "2026-11-08",
       "team": "Golden State Warriors",
-      "rank": 35
+      "rank": 36
     },
     {
       "player": "Daniel Gafford",
@@ -436,7 +448,7 @@
       "first_mention": "2026-11-08",
       "last_mention": "2026-11-08",
       "team": "Dallas Mavericks",
-      "rank": 36
+      "rank": 37
     },
     {
       "player": "Darius Garland",
@@ -448,7 +460,7 @@
       "first_mention": "2026-11-13",
       "last_mention": "2026-11-13",
       "team": "Cleveland Cavaliers",
-      "rank": 37
+      "rank": 38
     },
     {
       "player": "De'Aaron Fox",
@@ -460,7 +472,7 @@
       "first_mention": "2026-11-09",
       "last_mention": "2026-11-09",
       "team": "San Antonio Spurs",
-      "rank": 38
+      "rank": 39
     },
     {
       "player": "Devin Booker",
@@ -472,7 +484,7 @@
       "first_mention": "2026-11-13",
       "last_mention": "2026-11-13",
       "team": "Phoenix Suns",
-      "rank": 39
+      "rank": 40
     },
     {
       "player": "Franz Wagner",
@@ -484,7 +496,7 @@
       "first_mention": "2026-11-13",
       "last_mention": "2026-11-13",
       "team": "Orlando Magic",
-      "rank": 40
+      "rank": 41
     },
     {
       "player": "Grant Williams",
@@ -496,7 +508,7 @@
       "first_mention": "2026-11-09",
       "last_mention": "2026-11-09",
       "team": "Charlotte Hornets",
-      "rank": 41
+      "rank": 42
     },
     {
       "player": "Grayson Allen",
@@ -508,7 +520,7 @@
       "first_mention": "2026-11-09",
       "last_mention": "2026-11-09",
       "team": "Phoenix Suns",
-      "rank": 42
+      "rank": 43
     },
     {
       "player": "Jalen Suggs",
@@ -520,7 +532,7 @@
       "first_mention": "2026-11-13",
       "last_mention": "2026-11-13",
       "team": "Orlando Magic",
-      "rank": 43
+      "rank": 44
     },
     {
       "player": "Jarrett Allen",
@@ -532,7 +544,7 @@
       "first_mention": "2026-11-07",
       "last_mention": "2026-11-07",
       "team": "Cleveland Cavaliers",
-      "rank": 44
+      "rank": 45
     },
     {
       "player": "Jerami Grant",
@@ -544,7 +556,7 @@
       "first_mention": "2026-11-07",
       "last_mention": "2026-11-07",
       "team": "Atlanta Hawks",
-      "rank": 45
+      "rank": 46
     },
     {
       "player": "Paolo Banchero",
@@ -556,7 +568,7 @@
       "first_mention": "2026-11-13",
       "last_mention": "2026-11-13",
       "team": "Orlando Magic",
-      "rank": 46
+      "rank": 47
     },
     {
       "player": "Rob Dillingham",
@@ -568,7 +580,7 @@
       "first_mention": "2026-11-13",
       "last_mention": "2026-11-13",
       "team": "Chicago Bulls",
-      "rank": 47
+      "rank": 48
     },
     {
       "player": "Dalton Knecht",
@@ -580,18 +592,6 @@
       "first_mention": "2026-10-17",
       "last_mention": "2026-10-19",
       "team": "Los Angeles Lakers",
-      "rank": 48
-    },
-    {
-      "player": "Herb Jones",
-      "score": 0.75,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 3,
-      "total_mentions": 3,
-      "first_mention": "2026-10-28",
-      "last_mention": "2026-10-29",
-      "team": "New Orleans Pelicans",
       "rank": 49
     },
     {
@@ -1208,7 +1208,58 @@
     }
   ],
   "player_rumors": {
+    "Zion Williamson": [
+      {
+        "date": "2026-11-14",
+        "text": "Tim MacMahon: \"I was texting with an executive asking about a potential Zion market.He says, can you trade Zion? Sure. Can you get a big return for him? No way.\"YouTube",
+        "text_html": "Tim MacMahon: \"I was texting with an executive asking about a potential Zion market. <a href=\"https://www.youtube.com/watch?v=ayD_Q-G3iio&t=254s\" target=\"_blank\" style=\"color: #1a73e8;\">He says, can you trade Zion? Sure. Can you get a big return for him? No way.\"</a>",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=ayD_Q-G3iio&t=254s"
+      },
+      {
+        "date": "2026-11-13",
+        "text": "APHoops:The market for Zion Williamson would likely not result in New Orleans getting a big return,per @BannedMacMahon on NBA Today. \u201cI was texting with an executive about a potential Zion market. He said \u2018Can you trade Zion? Sure. Can you get a big return for him? No way.\u201dx.com",
+        "text_html": "APHoops: <a href=\"https://x.com/APH00PS/status/2121336395960816123?a=GMHCY7rIIYU3bJM6ALw&s=20\" target=\"_blank\" style=\"color: #1a73e8;\">The market for Zion Williamson would likely not result in New Orleans getting a big return,</a> per @BannedMacMahon on NBA Today. \u201cI was texting with an executive about a potential Zion market. He said \u2018Can you trade Zion? Sure. Can you get a big return for him? No way.\u201d",
+        "outlet": "x.com",
+        "source_url": "https://x.com/APH00PS/status/2121336395960816123?a=GMHCY7rIIYU3bJM6ALw&s=20"
+      },
+      {
+        "date": "2026-11-13",
+        "text": "NBA Trade Machine:Jalen Green was involved in 4.8% of all trades built on HoopsMatic over the past 24 hours.Of those, his top destinations were New Orleans (10.9%), LA Clippers (8.9%), and Orlando (8.9%). Players traded for him most often: Zion Williamson (7.9%), Darius Garland (5.9%), and Luka Doncic (5.9%).HoopsMatic",
+        "text_html": "NBA Trade Machine: <a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">Jalen Green was involved in 4.8% of all trades built on HoopsMatic over the past 24 hours.</a> Of those, his top destinations were New Orleans (10.9%), LA Clippers (8.9%), and Orlando (8.9%). Players traded for him most often: Zion Williamson (7.9%), Darius Garland (5.9%), and Luka Doncic (5.9%).",
+        "outlet": "HoopsMatic",
+        "source_url": "https://hoopsmatic.com/"
+      },
+      {
+        "date": "2026-10-17",
+        "text": "NBA Trade Machine:Michael Porter was part of 4.1% of the trades built on HoopsMatic over the past 24 hours. Of those trades, his top destinations were New Orleans (21.7%), Boston (13.0%), and LA Lakers (10.9%).The most common players sent back for him were Zion Williamson (17.4%), Luka Doncic (8.7%), and Kyrie Irving (8.7%).HoopsMatic",
+        "text_html": "NBA Trade Machine: <a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">Michael Porter was part of 4.1% of the trades built on HoopsMatic over the past 24 hours. Of those trades, his top destinations were New Orleans (21.7%), Boston (13.0%), and LA Lakers (10.9%).</a> The most common players sent back for him were Zion Williamson (17.4%), Luka Doncic (8.7%), and Kyrie Irving (8.7%).",
+        "outlet": "HoopsMatic",
+        "source_url": "https://hoopsmatic.com/"
+      }
+    ],
     "Dejounte Murray": [
+      {
+        "date": "2026-11-14",
+        "text": "Tim MacMahon: \"It has not been a great run for Joe Dumars since he has been in that chair in New Orleans. He got ridiculed for what he gave up to get Derek Queen. He got ridiculed for the CJ McCollum for Jordan Poole trade. Andso when teams are calling, hey, we are interested in trading Dejounte Murray, Herb Jones, he is asking for the moon. It is like he is almost overcompensating trying to make sure that he can win a press conference after getting just hammered in the media over the deals that he has made.\"YouTube",
+        "text_html": "Tim MacMahon: \"It has not been a great run for Joe Dumars since he has been in that chair in New Orleans. He got ridiculed for what he gave up to get Derek Queen. He got ridiculed for the CJ McCollum for Jordan Poole trade. And <a href=\"https://www.youtube.com/watch?v=ayD_Q-G3iio&t=71s\" target=\"_blank\" style=\"color: #1a73e8;\">so when teams are calling, hey, we are interested in trading Dejounte Murray, Herb Jones, he is asking for the moon. It is like he is almost overcompensating trying to make sure that he can win a press conference after getting just hammered in the media over the deals that he has made.\"</a>",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=ayD_Q-G3iio&t=71s"
+      },
+      {
+        "date": "2026-11-14",
+        "text": "Jamahl Mosley on Dejounte Murray: \u201cHe will not be in the building from what I\u2019ve been told.\u201dYouTube",
+        "text_html": "<a href=\"https://www.youtube.com/watch?v=RfaqD9CLzf0&t=466s\" target=\"_blank\" style=\"color: #1a73e8;\">Jamahl Mosley on Dejounte Murray: \u201cHe will not be in the building from what I\u2019ve been told.\u201d</a>",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=RfaqD9CLzf0&t=466s"
+      },
+      {
+        "date": "2026-11-14",
+        "text": "Jamahl Mosley: \u201cThere\u2019s no more light than the statements that have both been put out by both parties.And I think that\u2019s for when it comes to that matter, we\u2019re leaving it at that when it comes to both the statements being made.\u201dYouTube",
+        "text_html": "<a href=\"https://www.youtube.com/watch?v=RfaqD9CLzf0&t=346s\" target=\"_blank\" style=\"color: #1a73e8;\">Jamahl Mosley: \u201cThere\u2019s no more light than the statements that have both been put out by both parties.</a> And I think that\u2019s for when it comes to that matter, we\u2019re leaving it at that when it comes to both the statements being made.\u201d",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=RfaqD9CLzf0&t=346s"
+      },
       {
         "date": "2026-11-13",
         "text": "Marc Stein:The early expectation, league sources say, is Dejounte Murray will be away from the Pelicans in the short term as the team and Murray's reps try to find him a new home via trade. How quickly a trade partner can be found: Not yet clear. More NBA: tinyurl.com/rf29kr6mx.com",
@@ -1280,6 +1331,138 @@
         "source_url": "https://intheno.net/herb-jones-career-low-minutes-raises-questions-for-the-pelicans/"
       }
     ],
+    "Herb Jones": [
+      {
+        "date": "2026-11-14",
+        "text": "Tim MacMahon: \"It has not been a great run for Joe Dumars since he has been in that chair in New Orleans. He got ridiculed for what he gave up to get Derek Queen. He got ridiculed for the CJ McCollum for Jordan Poole trade. Andso when teams are calling, hey, we are interested in trading Dejounte Murray, Herb Jones, he is asking for the moon. It is like he is almost overcompensating trying to make sure that he can win a press conference after getting just hammered in the media over the deals that he has made.\"YouTube",
+        "text_html": "Tim MacMahon: \"It has not been a great run for Joe Dumars since he has been in that chair in New Orleans. He got ridiculed for what he gave up to get Derek Queen. He got ridiculed for the CJ McCollum for Jordan Poole trade. And <a href=\"https://www.youtube.com/watch?v=ayD_Q-G3iio&t=71s\" target=\"_blank\" style=\"color: #1a73e8;\">so when teams are calling, hey, we are interested in trading Dejounte Murray, Herb Jones, he is asking for the moon. It is like he is almost overcompensating trying to make sure that he can win a press conference after getting just hammered in the media over the deals that he has made.\"</a>",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=ayD_Q-G3iio&t=71s"
+      },
+      {
+        "date": "2026-10-29",
+        "text": "Marc Stein: \"I imagine that Herb Jones's name will be suggested as a dream target. And look again, the Thunder have picks galore to offer because teams have been trying to pilfer for Herb Jones from the Pelicans for ages now.And New Orleans last season basically was telling teams, trade Trey Murphy and Herb Jones if they are not untouchable, it's pretty dang close. You're going to have to offer us three firsts for Trey Murphy or two firsts for Herb Jones.\"YouTube",
+        "text_html": "<a href=\"https://www.youtube.com/watch?v=PjvlYiKhIHA&t=365s\" target=\"_blank\" style=\"color: #1a73e8;\">Marc Stein: \"I imagine that Herb Jones's name will be suggested as a dream target. And look again, the Thunder have picks galore to offer because teams have been trying to pilfer for Herb Jones from the Pelicans for ages now.</a> And New Orleans last season basically was telling teams, trade Trey Murphy and Herb Jones if they are not untouchable, it's pretty dang close. You're going to have to offer us three firsts for Trey Murphy or two firsts for Herb Jones.\"",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=PjvlYiKhIHA&t=365s"
+      },
+      {
+        "date": "2026-10-28",
+        "text": "League sources say the Pelicans have held firm at an asking price near two first-round picks, though no team has met that figure.Many in the league believe Jones' value will continue to go down if his minutes continue to be sporadic.In The N.O.",
+        "text_html": "<a href=\"https://intheno.net/herb-jones-career-low-minutes-raises-questions-for-the-pelicans/\" target=\"_blank\" style=\"color: #1a73e8;\">League sources say the Pelicans have held firm at an asking price near two first-round picks, though no team has met that figure.</a> Many in the league believe Jones' value will continue to go down if his minutes continue to be sporadic.",
+        "outlet": "In The N.O.",
+        "source_url": "https://intheno.net/herb-jones-career-low-minutes-raises-questions-for-the-pelicans/"
+      },
+      {
+        "date": "2026-10-28",
+        "text": "Marc Stein:Just spoke to a Pelicans official who tells @TheSteinLine that the team has not indicated a willingness to trade Herb Jones. Jones played sparingly in the Pels' first three games. They have maintained a high threshold on trade interest in Trey Murphy III and Jones for months.x.com",
+        "text_html": "Marc Stein: <a href=\"https://x.com/TheSteinLine/status/2115543881915781212\" target=\"_blank\" style=\"color: #1a73e8;\">Just spoke to a Pelicans official who tells @TheSteinLine that the team has not indicated a willingness to trade Herb Jones</a>. Jones played sparingly in the Pels' first three games. They have maintained a high threshold on trade interest in Trey Murphy III and Jones for months.",
+        "outlet": "x.com",
+        "source_url": "https://x.com/TheSteinLine/status/2115543881915781212"
+      }
+    ],
+    "Kyrie Irving": [
+      {
+        "date": "2026-11-14",
+        "text": "Kyrie Irving may not be traded before the deadline, what with the Mavericks (7-5) looking better than expected and their 34-year-old point guard fitting in so well alongside their young franchise centerpiece, 19-year-old Cooper Flagg. Their blowout loss to Minnesota on Thursday night notwithstanding. All in all, I\u2019d lean strongly toward Irving staying put at this point. Yet when you talk to rival teams about players who would truly change the playoff landscape if they were dealt, and who are widely expected to generate serious interest because of that belief, Irving still tops the list.Never mind that the Mavericks, and Irving for that matter, have shown no signs of wanting a split. Quite the opposite, in fact.New York Times",
+        "text_html": "Kyrie Irving may not be traded before the deadline, what with the Mavericks (7-5) looking better than expected and their 34-year-old point guard fitting in so well alongside their young franchise centerpiece, 19-year-old Cooper Flagg. Their blowout loss to Minnesota on Thursday night notwithstanding. All in all, I\u2019d lean strongly toward Irving staying put at this point. Yet when you talk to rival teams about players who would truly change the playoff landscape if they were dealt, and who are widely expected to generate serious interest because of that belief, Irving still tops the list. <a href=\"https://www.nytimes.com/athletic/7778064/2026/11/13/nba-trade-buzz-kyrie-irving-anthony-davis/\" target=\"_blank\" style=\"color: #1a73e8;\">Never mind that the Mavericks, and Irving for that matter, have shown no signs of wanting a split. Quite the opposite, in fact</a>.",
+        "outlet": "New York Times",
+        "source_url": "https://www.nytimes.com/athletic/7778064/2026/11/13/nba-trade-buzz-kyrie-irving-anthony-davis/"
+      },
+      {
+        "date": "2026-11-10",
+        "text": "Noah Weber: I asked Kyrie Irving what the Mavericks are doing well amid their 7-4 start:\u201cI think we\u2019re smart about our motivation and what motivates us in the locker room. I think we heard a lot of the noise before the season and some of the predictions\u2026Ilet the team know out of my own mouth that these trade rumors, anything that\u2019s going on with me, do not let this infiltrate our locker room. Don\u2019t let this get in the way of what we have building here\u2026We should not let any external distractions or any external voices that don\u2019t support us unconditionally or want to see us do well to infiltrate our locker room, so I think that\u2019s one of the contributing factors, I think another one is Dusty\u2019s doing a great job of confronting us when we\u2019re not doing things right or when we\u2019re not living up to our standards\u2026\u201dx.com",
+        "text_html": "Noah Weber: I asked Kyrie Irving what the Mavericks are doing well amid their 7-4 start: <a href=\"https://x.com/noahweber00/status/2120026099371385189?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cI think we\u2019re smart about our motivation and what motivates us in the locker room. I think we heard a lot of the noise before the season and some of the predictions\u2026I</a> let the team know out of my own mouth that these trade rumors, anything that\u2019s going on with me, do not let this infiltrate our locker room. Don\u2019t let this get in the way of what we have building here\u2026We should not let any external distractions or any external voices that don\u2019t support us unconditionally or want to see us do well to infiltrate our locker room, so I think that\u2019s one of the contributing factors, I think another one is Dusty\u2019s doing a great job of confronting us when we\u2019re not doing things right or when we\u2019re not living up to our standards\u2026\u201d",
+        "outlet": "x.com",
+        "source_url": "https://x.com/noahweber00/status/2120026099371385189?s=20"
+      },
+      {
+        "date": "2026-11-09",
+        "text": "Jaylen Brown never asked for a trade, but once informed the Celtics were shopping him, he submitted a list of his preferred destinations and teams he preferred not to play for. Philadelphia was on neither list. According to NBA sources, Brown was interested in the Nets,but Brooklyn management was wary because of his past support of Kyrie Irving during Irving\u2019s controversial tenure with the team, which included a suspension over sharing posts on social media containing antisemitic tropes.Boston Globe",
+        "text_html": "<a href=\"https://www.bostonglobe.com/2026/11/09/sports/jayson-tatum-jaylen-brown-relationship/\" target=\"_blank\" style=\"color: #1a73e8;\">Jaylen Brown never asked for a trade, but once informed the Celtics were shopping him, he submitted a list of his preferred destinations and teams he preferred not to play for. Philadelphia was on neither list. According to NBA sources, Brown was interested in the Nets,</a> but Brooklyn management was wary because of his past support of Kyrie Irving during Irving\u2019s controversial tenure with the team, which included a suspension over sharing posts on social media containing antisemitic tropes.",
+        "outlet": "Boston Globe",
+        "source_url": "https://www.bostonglobe.com/2026/11/09/sports/jayson-tatum-jaylen-brown-relationship/"
+      },
+      {
+        "date": "2026-11-02",
+        "text": "SiriusXM NBA Radio:\"The Mavs have consistently told teams they don't even want to field your call\"@TheSteinLine tells @BGeltzNBA why Kyrie Irving isn't availablex.com",
+        "text_html": "SiriusXM NBA Radio: <a href=\"https://x.com/SiriusXMNBA/status/2117358801456091453?a=BUdG_bYWXHMfeKkgarA&s=20\" target=\"_blank\" style=\"color: #1a73e8;\">\"The Mavs have consistently told teams they don't even want to field your call\"</a> @TheSteinLine tells @BGeltzNBA why Kyrie Irving isn't available",
+        "outlet": "x.com",
+        "source_url": "https://x.com/SiriusXMNBA/status/2117358801456091453?a=BUdG_bYWXHMfeKkgarA&s=20"
+      },
+      {
+        "date": "2026-11-02",
+        "text": "Tim MacMahon on Kyrie Irving:\"Going into the season, I would have said more likely than not, he gets moved by the deadline, but I didn't feel super strong about it. The more I see the team, the more I think it's going to be awfully hard to trade him.Not that there won't be a big market, there will be, but if they've got a chance to compete for a play-in, playoff spot, I just think it's going to be really tough to move Kyrie. Also, as much as he means to that locker room as well as he's working with Luka, it was beautiful basketball.\"YouTube",
+        "text_html": "Tim MacMahon on Kyrie Irving: <a href=\"https://www.youtube.com/watch?v=v2NpIFU-Pxg&t=613s\" target=\"_blank\" style=\"color: #1a73e8;\">\"Going into the season, I would have said more likely than not, he gets moved by the deadline, but I didn't feel super strong about it. The more I see the team, the more I think it's going to be awfully hard to trade him.</a> Not that there won't be a big market, there will be, but if they've got a chance to compete for a play-in, playoff spot, I just think it's going to be really tough to move Kyrie. Also, as much as he means to that locker room as well as he's working with Luka, it was beautiful basketball.\"",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=v2NpIFU-Pxg&t=613s"
+      },
+      {
+        "date": "2026-11-01",
+        "text": "Chris Mannix: \"I think Kyrie Irving is a separate topic.I think he's going to be the most in-demand player at the trade deadline because he's not on the Mavericks' timeline. I think Detroit is another team that will be salivating over getting Kyrie Irving.They're off to a great start. I think the Mavericks have a chance to get some real assets back in return for a player that's been good for them.\"YouTube",
+        "text_html": "Chris Mannix: \"I think Kyrie Irving is a separate topic. <a href=\"https://www.youtube.com/watch?v=elTX1ZC_XaI&t=373s\" target=\"_blank\" style=\"color: #1a73e8;\">I think he's going to be the most in-demand player at the trade deadline because he's not on the Mavericks' timeline. I think Detroit is another team that will be salivating over getting Kyrie Irving.</a> They're off to a great start. I think the Mavericks have a chance to get some real assets back in return for a player that's been good for them.\"",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=elTX1ZC_XaI&t=373s"
+      },
+      {
+        "date": "2026-10-30",
+        "text": "Ethan J. Skolnick on Kyrie Irving:\u201cI think we've both heard that he's interested in playing down in Miami. I also know Spoelstra holds him in very high regard.I know there are concerns about other stuff.\u201dSpotify",
+        "text_html": "Ethan J. Skolnick on Kyrie Irving: <a href=\"https://open.spotify.com/episode/2Zslqbc384lRt9dtqPpakb?nd=1&dlsi=73818e89336e4d00\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cI think we've both heard that he's interested in playing down in Miami. I also know Spoelstra holds him in very high regard.</a> I know there are concerns about other stuff.\u201d",
+        "outlet": "Spotify",
+        "source_url": "https://open.spotify.com/episode/2Zslqbc384lRt9dtqPpakb?nd=1&dlsi=73818e89336e4d00"
+      },
+      {
+        "date": "2026-10-30",
+        "text": "NBA Trade Machine:Over the past 24 hours, Jalen Green featured in 10.5% of trades built on HoopsMatic.Within his trades, he landed most often in Dallas (82.4%), New Orleans (2.6%), and LA Clippers (2.0%). Most often, he was traded for Marcus Sasser (24.8%), Dereck Lively (23.5%), and Kyrie Irving (23.5%).HoopsMatic",
+        "text_html": "NBA Trade Machine: <a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">Over the past 24 hours, Jalen Green featured in 10.5% of trades built on HoopsMatic.</a> Within his trades, he landed most often in Dallas (82.4%), New Orleans (2.6%), and LA Clippers (2.0%). Most often, he was traded for Marcus Sasser (24.8%), Dereck Lively (23.5%), and Kyrie Irving (23.5%).",
+        "outlet": "HoopsMatic",
+        "source_url": "https://hoopsmatic.com/"
+      },
+      {
+        "date": "2026-10-28",
+        "text": "Shams Charania:\"There's a slew of teams now that are monitoring Kyrie Irving. He's in the last year of his deal,he's got a player option next year. And so if you're a contending team and if the Mavericks are not really contending come trade deadline, do they look to trade him potentially to a contender for draft picks? That is what's also at the forefront of other teams' minds.\"YouTube",
+        "text_html": "Shams Charania: <a href=\"https://www.youtube.com/watch?v=YAIu-s-mR7k&t=517s\" target=\"_blank\" style=\"color: #1a73e8;\">\"There's a slew of teams now that are monitoring Kyrie Irving. He's in the last year of his deal,</a> he's got a player option next year. And so if you're a contending team and if the Mavericks are not really contending come trade deadline, do they look to trade him potentially to a contender for draft picks? That is what's also at the forefront of other teams' minds.\"",
+        "outlet": "YouTube",
+        "source_url": "https://www.youtube.com/watch?v=YAIu-s-mR7k&t=517s"
+      },
+      {
+        "date": "2026-10-17",
+        "text": "NBA Trade Machine:Michael Porter was part of 4.1% of the trades built on HoopsMatic over the past 24 hours. Of those trades, his top destinations were New Orleans (21.7%), Boston (13.0%), and LA Lakers (10.9%).The most common players sent back for him were Zion Williamson (17.4%), Luka Doncic (8.7%), and Kyrie Irving (8.7%).HoopsMatic",
+        "text_html": "NBA Trade Machine: <a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">Michael Porter was part of 4.1% of the trades built on HoopsMatic over the past 24 hours. Of those trades, his top destinations were New Orleans (21.7%), Boston (13.0%), and LA Lakers (10.9%).</a> The most common players sent back for him were Zion Williamson (17.4%), Luka Doncic (8.7%), and Kyrie Irving (8.7%).",
+        "outlet": "HoopsMatic",
+        "source_url": "https://hoopsmatic.com/"
+      }
+    ],
+    "Anthony Black": [
+      {
+        "date": "2026-11-14",
+        "text": "With a payroll like this (just $2.5 million below the dreaded second apron threshold), and a playoff track record that hardly justifies the exorbitant cost (three consecutive first-round losses), tough roster choices are coming for the team\u2019s president of basketball operations, Jeff Weltman. Especially if history repeats itself \u2014 or even worse \u2014 this time around.All of which has rival executives wondering if Anthony Black might eventually be available.New York Times",
+        "text_html": "With a payroll like this (just $2.5 million below the dreaded second apron threshold), and a playoff track record that hardly justifies the exorbitant cost (three consecutive first-round losses), tough roster choices are coming for the team\u2019s president of basketball operations, Jeff Weltman. Especially if history repeats itself \u2014 or even worse \u2014 this time around. <a href=\"https://www.nytimes.com/athletic/7778064/2026/11/13/nba-trade-buzz-kyrie-irving-anthony-davis/\" target=\"_blank\" style=\"color: #1a73e8;\">All of which has rival executives wondering if Anthony Black might eventually be available</a>.",
+        "outlet": "New York Times",
+        "source_url": "https://www.nytimes.com/athletic/7778064/2026/11/13/nba-trade-buzz-kyrie-irving-anthony-davis/"
+      },
+      {
+        "date": "2026-11-14",
+        "text": "Yet team and league sources with knowledge of the Magic\u2019s thinking pushed back on the idea that Black might ultimately be the odd man out.Depending on what happens from here, the notion of Orlando breaking up its core (outside of Black) if the Magic fall short of expectations again is clearly in play.New York Times",
+        "text_html": "<a href=\"https://www.nytimes.com/athletic/7778064/2026/11/13/nba-trade-buzz-kyrie-irving-anthony-davis/\" target=\"_blank\" style=\"color: #1a73e8;\">Yet team and league sources with knowledge of the Magic\u2019s thinking pushed back on the idea that Black might ultimately be the odd man out.</a> Depending on what happens from here, the notion of Orlando breaking up its core (outside of Black) if the Magic fall short of expectations again is clearly in play.",
+        "outlet": "New York Times",
+        "source_url": "https://www.nytimes.com/athletic/7778064/2026/11/13/nba-trade-buzz-kyrie-irving-anthony-davis/"
+      },
+      {
+        "date": "2026-11-13",
+        "text": "All of which has rival executives wondering if Anthony Black might eventually be available.The 22-year-old guard didn\u2019t come to terms with the Magic on an extension during the summer, and is now on track to be a restricted free agent next offseason. And considering the massive deals already on Orlando\u2019s books, with Franz Wagner, Paolo Banchero, Desmond Bane and Jalen Suggs all making north of $30 million annually on long-term deals, the confusion about how Black\u2019s payday might fit in has heightened the curiosity among his admirers. Yet team and league sources with knowledge of the Magic\u2019s thinking pushed back on the idea that Black might ultimately be the odd man out.New York Times",
+        "text_html": "<a href=\"https://www.nytimes.com/athletic/7778064/2026/11/13/nba-trade-buzz-kyrie-irving-anthony-davis/\" target=\"_blank\" style=\"color: #1a73e8;\">All of which has rival executives wondering if Anthony Black might eventually be available.</a> The 22-year-old guard didn\u2019t come to terms with the Magic on an extension during the summer, and is now on track to be a restricted free agent next offseason. And considering the massive deals already on Orlando\u2019s books, with Franz Wagner, Paolo Banchero, Desmond Bane and Jalen Suggs all making north of $30 million annually on long-term deals, the confusion about how Black\u2019s payday might fit in has heightened the curiosity among his admirers. Yet team and league sources with knowledge of the Magic\u2019s thinking pushed back on the idea that Black might ultimately be the odd man out.",
+        "outlet": "New York Times",
+        "source_url": "https://www.nytimes.com/athletic/7778064/2026/11/13/nba-trade-buzz-kyrie-irving-anthony-davis/"
+      },
+      {
+        "date": "2026-10-19",
+        "text": "As The Stein Line first reported last Sunday, however, Orlando's Anthony Black is not expected to join that group after scant discussion between the sides to this point.The Magic remain big fans of the 22-year-old and don't want to trade him,league sources say, but Orlando also knows that its payroll can't withstand another pricey long-term deal with Paolo Banchero, Franz Wagner, Jalen Suggs and Desmond Bane all on long-term pacts and each of them making between $32.4 million (Suggs) and $41.8 million (Wagner) this season.marcstein.substack.com",
+        "text_html": "As The Stein Line first reported last Sunday, however, Orlando's Anthony Black is not expected to join that group after scant discussion between the sides to this point. <a href=\"https://marcstein.substack.com/p/more-of-the-latest-late-night-nba-a2b?utm_source=post-email-title&publication_id=392205&post_id=221069075&utm_campaign=email-post-title&isFreemail=false&r=10980&triedRedirect=true&utm_medium=email\" target=\"_blank\" style=\"color: #1a73e8;\">The Magic remain big fans of the 22-year-old and don't want to trade him,</a> league sources say, but Orlando also knows that its payroll can't withstand another pricey long-term deal with Paolo Banchero, Franz Wagner, Jalen Suggs and Desmond Bane all on long-term pacts and each of them making between $32.4 million (Suggs) and $41.8 million (Wagner) this season.",
+        "outlet": "marcstein.substack.com",
+        "source_url": "https://marcstein.substack.com/p/more-of-the-latest-late-night-nba-a2b?utm_source=post-email-title&publication_id=392205&post_id=221069075&utm_campaign=email-post-title&isFreemail=false&r=10980&triedRedirect=true&utm_medium=email"
+      }
+    ],
     "Rob Dillingham": [
       {
         "date": "2026-11-13",
@@ -1329,29 +1512,6 @@
         "date": "2026-10-20",
         "text": "NBA Trade Machine:Derrick White was involved in 5.1% of all trades built on HoopsMatic over the past 24 hours.Of those, his top destinations were New York (28.4%), Phoenix (17.9%), and Brooklyn (7.5%). Players traded for him most often: Jalen Brunson (28.4%), Jalen Green (17.9%), and CJ Huntley (6.0%).HoopsMatic",
         "text_html": "NBA Trade Machine: <a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">Derrick White was involved in 5.1% of all trades built on HoopsMatic over the past 24 hours.</a> Of those, his top destinations were New York (28.4%), Phoenix (17.9%), and Brooklyn (7.5%). Players traded for him most often: Jalen Brunson (28.4%), Jalen Green (17.9%), and CJ Huntley (6.0%).",
-        "outlet": "HoopsMatic",
-        "source_url": "https://hoopsmatic.com/"
-      }
-    ],
-    "Zion Williamson": [
-      {
-        "date": "2026-11-13",
-        "text": "APHoops:The market for Zion Williamson would likely not result in New Orleans getting a big return,per @BannedMacMahon on NBA Today. \u201cI was texting with an executive about a potential Zion market. He said \u2018Can you trade Zion? Sure. Can you get a big return for him? No way.\u201dx.com",
-        "text_html": "APHoops: <a href=\"https://x.com/APH00PS/status/2121336395960816123?a=GMHCY7rIIYU3bJM6ALw&s=20\" target=\"_blank\" style=\"color: #1a73e8;\">The market for Zion Williamson would likely not result in New Orleans getting a big return,</a> per @BannedMacMahon on NBA Today. \u201cI was texting with an executive about a potential Zion market. He said \u2018Can you trade Zion? Sure. Can you get a big return for him? No way.\u201d",
-        "outlet": "x.com",
-        "source_url": "https://x.com/APH00PS/status/2121336395960816123?a=GMHCY7rIIYU3bJM6ALw&s=20"
-      },
-      {
-        "date": "2026-11-13",
-        "text": "NBA Trade Machine:Jalen Green was involved in 4.8% of all trades built on HoopsMatic over the past 24 hours.Of those, his top destinations were New Orleans (10.9%), LA Clippers (8.9%), and Orlando (8.9%). Players traded for him most often: Zion Williamson (7.9%), Darius Garland (5.9%), and Luka Doncic (5.9%).HoopsMatic",
-        "text_html": "NBA Trade Machine: <a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">Jalen Green was involved in 4.8% of all trades built on HoopsMatic over the past 24 hours.</a> Of those, his top destinations were New Orleans (10.9%), LA Clippers (8.9%), and Orlando (8.9%). Players traded for him most often: Zion Williamson (7.9%), Darius Garland (5.9%), and Luka Doncic (5.9%).",
-        "outlet": "HoopsMatic",
-        "source_url": "https://hoopsmatic.com/"
-      },
-      {
-        "date": "2026-10-17",
-        "text": "NBA Trade Machine:Michael Porter was part of 4.1% of the trades built on HoopsMatic over the past 24 hours. Of those trades, his top destinations were New Orleans (21.7%), Boston (13.0%), and LA Lakers (10.9%).The most common players sent back for him were Zion Williamson (17.4%), Luka Doncic (8.7%), and Kyrie Irving (8.7%).HoopsMatic",
-        "text_html": "NBA Trade Machine: <a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">Michael Porter was part of 4.1% of the trades built on HoopsMatic over the past 24 hours. Of those trades, his top destinations were New Orleans (21.7%), Boston (13.0%), and LA Lakers (10.9%).</a> The most common players sent back for him were Zion Williamson (17.4%), Luka Doncic (8.7%), and Kyrie Irving (8.7%).",
         "outlet": "HoopsMatic",
         "source_url": "https://hoopsmatic.com/"
       }
@@ -1406,22 +1566,6 @@
         "text_html": "<a href=\"https://www.nytimes.com/athletic/7778064/2026/11/13/nba-trade-buzz-kyrie-irving-anthony-davis/\" target=\"_blank\" style=\"color: #1a73e8;\">All of which has rival executives wondering if Anthony Black might eventually be available.</a> The 22-year-old guard didn\u2019t come to terms with the Magic on an extension during the summer, and is now on track to be a restricted free agent next offseason. And considering the massive deals already on Orlando\u2019s books, with Franz Wagner, Paolo Banchero, Desmond Bane and Jalen Suggs all making north of $30 million annually on long-term deals, the confusion about how Black\u2019s payday might fit in has heightened the curiosity among his admirers. Yet team and league sources with knowledge of the Magic\u2019s thinking pushed back on the idea that Black might ultimately be the odd man out.",
         "outlet": "New York Times",
         "source_url": "https://www.nytimes.com/athletic/7778064/2026/11/13/nba-trade-buzz-kyrie-irving-anthony-davis/"
-      }
-    ],
-    "Anthony Black": [
-      {
-        "date": "2026-11-13",
-        "text": "All of which has rival executives wondering if Anthony Black might eventually be available.The 22-year-old guard didn\u2019t come to terms with the Magic on an extension during the summer, and is now on track to be a restricted free agent next offseason. And considering the massive deals already on Orlando\u2019s books, with Franz Wagner, Paolo Banchero, Desmond Bane and Jalen Suggs all making north of $30 million annually on long-term deals, the confusion about how Black\u2019s payday might fit in has heightened the curiosity among his admirers. Yet team and league sources with knowledge of the Magic\u2019s thinking pushed back on the idea that Black might ultimately be the odd man out.New York Times",
-        "text_html": "<a href=\"https://www.nytimes.com/athletic/7778064/2026/11/13/nba-trade-buzz-kyrie-irving-anthony-davis/\" target=\"_blank\" style=\"color: #1a73e8;\">All of which has rival executives wondering if Anthony Black might eventually be available.</a> The 22-year-old guard didn\u2019t come to terms with the Magic on an extension during the summer, and is now on track to be a restricted free agent next offseason. And considering the massive deals already on Orlando\u2019s books, with Franz Wagner, Paolo Banchero, Desmond Bane and Jalen Suggs all making north of $30 million annually on long-term deals, the confusion about how Black\u2019s payday might fit in has heightened the curiosity among his admirers. Yet team and league sources with knowledge of the Magic\u2019s thinking pushed back on the idea that Black might ultimately be the odd man out.",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/7778064/2026/11/13/nba-trade-buzz-kyrie-irving-anthony-davis/"
-      },
-      {
-        "date": "2026-10-19",
-        "text": "As The Stein Line first reported last Sunday, however, Orlando's Anthony Black is not expected to join that group after scant discussion between the sides to this point.The Magic remain big fans of the 22-year-old and don't want to trade him,league sources say, but Orlando also knows that its payroll can't withstand another pricey long-term deal with Paolo Banchero, Franz Wagner, Jalen Suggs and Desmond Bane all on long-term pacts and each of them making between $32.4 million (Suggs) and $41.8 million (Wagner) this season.marcstein.substack.com",
-        "text_html": "As The Stein Line first reported last Sunday, however, Orlando's Anthony Black is not expected to join that group after scant discussion between the sides to this point. <a href=\"https://marcstein.substack.com/p/more-of-the-latest-late-night-nba-a2b?utm_source=post-email-title&publication_id=392205&post_id=221069075&utm_campaign=email-post-title&isFreemail=false&r=10980&triedRedirect=true&utm_medium=email\" target=\"_blank\" style=\"color: #1a73e8;\">The Magic remain big fans of the 22-year-old and don't want to trade him,</a> league sources say, but Orlando also knows that its payroll can't withstand another pricey long-term deal with Paolo Banchero, Franz Wagner, Jalen Suggs and Desmond Bane all on long-term pacts and each of them making between $32.4 million (Suggs) and $41.8 million (Wagner) this season.",
-        "outlet": "marcstein.substack.com",
-        "source_url": "https://marcstein.substack.com/p/more-of-the-latest-late-night-nba-a2b?utm_source=post-email-title&publication_id=392205&post_id=221069075&utm_campaign=email-post-title&isFreemail=false&r=10980&triedRedirect=true&utm_medium=email"
       }
     ],
     "Julius Randle": [
@@ -1885,71 +2029,6 @@
         "text_html": "Jaylen Brown helped the Philadelphia 76ers topple the Cleveland Cavaliers on Thursday night. Then, after the big comeback win, he appeared to take aim at former Boston Celtics teammate Jayson Tatum. <a href=\"https://www.nytimes.com/athletic/7716223/2026/10/23/jaylen-brown-jayson-tatum-76ers-celtics-trade/\" target=\"_blank\" style=\"color: #1a73e8;\">In an Instagram comments section, Brown posted a blue hat \u2014 the symbol for \u201ccap,\u201d meaning someone is being untruthful \u2014 in response to a story Tatum told about the day the Boston Celtics traded Brown.</a> Tatum, who shared the story in a documentary that was released on his own YouTube channel, said he was \u201cjust as much caught off guard as the rest of the world\u201d when Boston dealt Brown to the 76ers this summer. Tatum said he was in Las Vegas when someone with him informed him of the news after a pickup basketball game.",
         "outlet": "New York Times",
         "source_url": "https://www.nytimes.com/athletic/7716223/2026/10/23/jaylen-brown-jayson-tatum-76ers-celtics-trade/"
-      }
-    ],
-    "Kyrie Irving": [
-      {
-        "date": "2026-11-10",
-        "text": "Noah Weber: I asked Kyrie Irving what the Mavericks are doing well amid their 7-4 start:\u201cI think we\u2019re smart about our motivation and what motivates us in the locker room. I think we heard a lot of the noise before the season and some of the predictions\u2026Ilet the team know out of my own mouth that these trade rumors, anything that\u2019s going on with me, do not let this infiltrate our locker room. Don\u2019t let this get in the way of what we have building here\u2026We should not let any external distractions or any external voices that don\u2019t support us unconditionally or want to see us do well to infiltrate our locker room, so I think that\u2019s one of the contributing factors, I think another one is Dusty\u2019s doing a great job of confronting us when we\u2019re not doing things right or when we\u2019re not living up to our standards\u2026\u201dx.com",
-        "text_html": "Noah Weber: I asked Kyrie Irving what the Mavericks are doing well amid their 7-4 start: <a href=\"https://x.com/noahweber00/status/2120026099371385189?s=20\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cI think we\u2019re smart about our motivation and what motivates us in the locker room. I think we heard a lot of the noise before the season and some of the predictions\u2026I</a> let the team know out of my own mouth that these trade rumors, anything that\u2019s going on with me, do not let this infiltrate our locker room. Don\u2019t let this get in the way of what we have building here\u2026We should not let any external distractions or any external voices that don\u2019t support us unconditionally or want to see us do well to infiltrate our locker room, so I think that\u2019s one of the contributing factors, I think another one is Dusty\u2019s doing a great job of confronting us when we\u2019re not doing things right or when we\u2019re not living up to our standards\u2026\u201d",
-        "outlet": "x.com",
-        "source_url": "https://x.com/noahweber00/status/2120026099371385189?s=20"
-      },
-      {
-        "date": "2026-11-09",
-        "text": "Jaylen Brown never asked for a trade, but once informed the Celtics were shopping him, he submitted a list of his preferred destinations and teams he preferred not to play for. Philadelphia was on neither list. According to NBA sources, Brown was interested in the Nets,but Brooklyn management was wary because of his past support of Kyrie Irving during Irving\u2019s controversial tenure with the team, which included a suspension over sharing posts on social media containing antisemitic tropes.Boston Globe",
-        "text_html": "<a href=\"https://www.bostonglobe.com/2026/11/09/sports/jayson-tatum-jaylen-brown-relationship/\" target=\"_blank\" style=\"color: #1a73e8;\">Jaylen Brown never asked for a trade, but once informed the Celtics were shopping him, he submitted a list of his preferred destinations and teams he preferred not to play for. Philadelphia was on neither list. According to NBA sources, Brown was interested in the Nets,</a> but Brooklyn management was wary because of his past support of Kyrie Irving during Irving\u2019s controversial tenure with the team, which included a suspension over sharing posts on social media containing antisemitic tropes.",
-        "outlet": "Boston Globe",
-        "source_url": "https://www.bostonglobe.com/2026/11/09/sports/jayson-tatum-jaylen-brown-relationship/"
-      },
-      {
-        "date": "2026-11-02",
-        "text": "SiriusXM NBA Radio:\"The Mavs have consistently told teams they don't even want to field your call\"@TheSteinLine tells @BGeltzNBA why Kyrie Irving isn't availablex.com",
-        "text_html": "SiriusXM NBA Radio: <a href=\"https://x.com/SiriusXMNBA/status/2117358801456091453?a=BUdG_bYWXHMfeKkgarA&s=20\" target=\"_blank\" style=\"color: #1a73e8;\">\"The Mavs have consistently told teams they don't even want to field your call\"</a> @TheSteinLine tells @BGeltzNBA why Kyrie Irving isn't available",
-        "outlet": "x.com",
-        "source_url": "https://x.com/SiriusXMNBA/status/2117358801456091453?a=BUdG_bYWXHMfeKkgarA&s=20"
-      },
-      {
-        "date": "2026-11-02",
-        "text": "Tim MacMahon on Kyrie Irving:\"Going into the season, I would have said more likely than not, he gets moved by the deadline, but I didn't feel super strong about it. The more I see the team, the more I think it's going to be awfully hard to trade him.Not that there won't be a big market, there will be, but if they've got a chance to compete for a play-in, playoff spot, I just think it's going to be really tough to move Kyrie. Also, as much as he means to that locker room as well as he's working with Luka, it was beautiful basketball.\"YouTube",
-        "text_html": "Tim MacMahon on Kyrie Irving: <a href=\"https://www.youtube.com/watch?v=v2NpIFU-Pxg&t=613s\" target=\"_blank\" style=\"color: #1a73e8;\">\"Going into the season, I would have said more likely than not, he gets moved by the deadline, but I didn't feel super strong about it. The more I see the team, the more I think it's going to be awfully hard to trade him.</a> Not that there won't be a big market, there will be, but if they've got a chance to compete for a play-in, playoff spot, I just think it's going to be really tough to move Kyrie. Also, as much as he means to that locker room as well as he's working with Luka, it was beautiful basketball.\"",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=v2NpIFU-Pxg&t=613s"
-      },
-      {
-        "date": "2026-11-01",
-        "text": "Chris Mannix: \"I think Kyrie Irving is a separate topic.I think he's going to be the most in-demand player at the trade deadline because he's not on the Mavericks' timeline. I think Detroit is another team that will be salivating over getting Kyrie Irving.They're off to a great start. I think the Mavericks have a chance to get some real assets back in return for a player that's been good for them.\"YouTube",
-        "text_html": "Chris Mannix: \"I think Kyrie Irving is a separate topic. <a href=\"https://www.youtube.com/watch?v=elTX1ZC_XaI&t=373s\" target=\"_blank\" style=\"color: #1a73e8;\">I think he's going to be the most in-demand player at the trade deadline because he's not on the Mavericks' timeline. I think Detroit is another team that will be salivating over getting Kyrie Irving.</a> They're off to a great start. I think the Mavericks have a chance to get some real assets back in return for a player that's been good for them.\"",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=elTX1ZC_XaI&t=373s"
-      },
-      {
-        "date": "2026-10-30",
-        "text": "Ethan J. Skolnick on Kyrie Irving:\u201cI think we've both heard that he's interested in playing down in Miami. I also know Spoelstra holds him in very high regard.I know there are concerns about other stuff.\u201dSpotify",
-        "text_html": "Ethan J. Skolnick on Kyrie Irving: <a href=\"https://open.spotify.com/episode/2Zslqbc384lRt9dtqPpakb?nd=1&dlsi=73818e89336e4d00\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cI think we've both heard that he's interested in playing down in Miami. I also know Spoelstra holds him in very high regard.</a> I know there are concerns about other stuff.\u201d",
-        "outlet": "Spotify",
-        "source_url": "https://open.spotify.com/episode/2Zslqbc384lRt9dtqPpakb?nd=1&dlsi=73818e89336e4d00"
-      },
-      {
-        "date": "2026-10-30",
-        "text": "NBA Trade Machine:Over the past 24 hours, Jalen Green featured in 10.5% of trades built on HoopsMatic.Within his trades, he landed most often in Dallas (82.4%), New Orleans (2.6%), and LA Clippers (2.0%). Most often, he was traded for Marcus Sasser (24.8%), Dereck Lively (23.5%), and Kyrie Irving (23.5%).HoopsMatic",
-        "text_html": "NBA Trade Machine: <a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">Over the past 24 hours, Jalen Green featured in 10.5% of trades built on HoopsMatic.</a> Within his trades, he landed most often in Dallas (82.4%), New Orleans (2.6%), and LA Clippers (2.0%). Most often, he was traded for Marcus Sasser (24.8%), Dereck Lively (23.5%), and Kyrie Irving (23.5%).",
-        "outlet": "HoopsMatic",
-        "source_url": "https://hoopsmatic.com/"
-      },
-      {
-        "date": "2026-10-28",
-        "text": "Shams Charania:\"There's a slew of teams now that are monitoring Kyrie Irving. He's in the last year of his deal,he's got a player option next year. And so if you're a contending team and if the Mavericks are not really contending come trade deadline, do they look to trade him potentially to a contender for draft picks? That is what's also at the forefront of other teams' minds.\"YouTube",
-        "text_html": "Shams Charania: <a href=\"https://www.youtube.com/watch?v=YAIu-s-mR7k&t=517s\" target=\"_blank\" style=\"color: #1a73e8;\">\"There's a slew of teams now that are monitoring Kyrie Irving. He's in the last year of his deal,</a> he's got a player option next year. And so if you're a contending team and if the Mavericks are not really contending come trade deadline, do they look to trade him potentially to a contender for draft picks? That is what's also at the forefront of other teams' minds.\"",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=YAIu-s-mR7k&t=517s"
-      },
-      {
-        "date": "2026-10-17",
-        "text": "NBA Trade Machine:Michael Porter was part of 4.1% of the trades built on HoopsMatic over the past 24 hours. Of those trades, his top destinations were New Orleans (21.7%), Boston (13.0%), and LA Lakers (10.9%).The most common players sent back for him were Zion Williamson (17.4%), Luka Doncic (8.7%), and Kyrie Irving (8.7%).HoopsMatic",
-        "text_html": "NBA Trade Machine: <a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">Michael Porter was part of 4.1% of the trades built on HoopsMatic over the past 24 hours. Of those trades, his top destinations were New Orleans (21.7%), Boston (13.0%), and LA Lakers (10.9%).</a> The most common players sent back for him were Zion Williamson (17.4%), Luka Doncic (8.7%), and Kyrie Irving (8.7%).",
-        "outlet": "HoopsMatic",
-        "source_url": "https://hoopsmatic.com/"
       }
     ],
     "Jamal Murray": [
@@ -2639,29 +2718,6 @@
         "source_url": "https://hoopsmatic.com/"
       }
     ],
-    "Herb Jones": [
-      {
-        "date": "2026-10-29",
-        "text": "Marc Stein: \"I imagine that Herb Jones's name will be suggested as a dream target. And look again, the Thunder have picks galore to offer because teams have been trying to pilfer for Herb Jones from the Pelicans for ages now.And New Orleans last season basically was telling teams, trade Trey Murphy and Herb Jones if they are not untouchable, it's pretty dang close. You're going to have to offer us three firsts for Trey Murphy or two firsts for Herb Jones.\"YouTube",
-        "text_html": "<a href=\"https://www.youtube.com/watch?v=PjvlYiKhIHA&t=365s\" target=\"_blank\" style=\"color: #1a73e8;\">Marc Stein: \"I imagine that Herb Jones's name will be suggested as a dream target. And look again, the Thunder have picks galore to offer because teams have been trying to pilfer for Herb Jones from the Pelicans for ages now.</a> And New Orleans last season basically was telling teams, trade Trey Murphy and Herb Jones if they are not untouchable, it's pretty dang close. You're going to have to offer us three firsts for Trey Murphy or two firsts for Herb Jones.\"",
-        "outlet": "YouTube",
-        "source_url": "https://www.youtube.com/watch?v=PjvlYiKhIHA&t=365s"
-      },
-      {
-        "date": "2026-10-28",
-        "text": "League sources say the Pelicans have held firm at an asking price near two first-round picks, though no team has met that figure.Many in the league believe Jones' value will continue to go down if his minutes continue to be sporadic.In The N.O.",
-        "text_html": "<a href=\"https://intheno.net/herb-jones-career-low-minutes-raises-questions-for-the-pelicans/\" target=\"_blank\" style=\"color: #1a73e8;\">League sources say the Pelicans have held firm at an asking price near two first-round picks, though no team has met that figure.</a> Many in the league believe Jones' value will continue to go down if his minutes continue to be sporadic.",
-        "outlet": "In The N.O.",
-        "source_url": "https://intheno.net/herb-jones-career-low-minutes-raises-questions-for-the-pelicans/"
-      },
-      {
-        "date": "2026-10-28",
-        "text": "Marc Stein:Just spoke to a Pelicans official who tells @TheSteinLine that the team has not indicated a willingness to trade Herb Jones. Jones played sparingly in the Pels' first three games. They have maintained a high threshold on trade interest in Trey Murphy III and Jones for months.x.com",
-        "text_html": "Marc Stein: <a href=\"https://x.com/TheSteinLine/status/2115543881915781212\" target=\"_blank\" style=\"color: #1a73e8;\">Just spoke to a Pelicans official who tells @TheSteinLine that the team has not indicated a willingness to trade Herb Jones</a>. Jones played sparingly in the Pels' first three games. They have maintained a high threshold on trade interest in Trey Murphy III and Jones for months.",
-        "outlet": "x.com",
-        "source_url": "https://x.com/TheSteinLine/status/2115543881915781212"
-      }
-    ],
     "Trey Murphy": [
       {
         "date": "2026-10-29",
@@ -2964,9 +3020,35 @@
     ]
   },
   "daily_counts": {
+    "Zion Williamson": {
+      "2026-11-14": 1,
+      "2026-11-13": 2,
+      "2026-10-17": 1
+    },
     "Dejounte Murray": {
+      "2026-11-14": 3,
       "2026-11-13": 9,
       "2026-10-28": 1
+    },
+    "Herb Jones": {
+      "2026-11-14": 1,
+      "2026-10-29": 1,
+      "2026-10-28": 2
+    },
+    "Kyrie Irving": {
+      "2026-11-14": 1,
+      "2026-11-10": 1,
+      "2026-11-09": 1,
+      "2026-11-02": 2,
+      "2026-11-01": 1,
+      "2026-10-30": 2,
+      "2026-10-28": 1,
+      "2026-10-17": 1
+    },
+    "Anthony Black": {
+      "2026-11-14": 2,
+      "2026-11-13": 1,
+      "2026-10-19": 1
     },
     "Rob Dillingham": {
       "2026-11-13": 1
@@ -2976,10 +3058,6 @@
       "2026-11-08": 1,
       "2026-10-30": 1,
       "2026-10-20": 1
-    },
-    "Zion Williamson": {
-      "2026-11-13": 2,
-      "2026-10-17": 1
     },
     "Devin Booker": {
       "2026-11-13": 1
@@ -2996,10 +3074,6 @@
     },
     "Paolo Banchero": {
       "2026-11-13": 1
-    },
-    "Anthony Black": {
-      "2026-11-13": 1,
-      "2026-10-19": 1
     },
     "Julius Randle": {
       "2026-11-13": 1,
@@ -3056,15 +3130,6 @@
       "2026-11-10": 1,
       "2026-10-24": 1,
       "2026-10-23": 2
-    },
-    "Kyrie Irving": {
-      "2026-11-10": 1,
-      "2026-11-09": 1,
-      "2026-11-02": 2,
-      "2026-11-01": 1,
-      "2026-10-30": 2,
-      "2026-10-28": 1,
-      "2026-10-17": 1
     },
     "Jamal Murray": {
       "2026-11-09": 1,
@@ -3252,10 +3317,6 @@
     },
     "Dereck Lively": {
       "2026-10-30": 1
-    },
-    "Herb Jones": {
-      "2026-10-29": 1,
-      "2026-10-28": 2
     },
     "Trey Murphy": {
       "2026-10-29": 1,
