@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-15T23:19:01.841967",
+  "generated_at": "2026-11-16T07:40:15.036827",
   "scrape_window_days": 28,
-  "window_start": "2026-10-18",
-  "window_end": "2026-11-15",
-  "total_rumors": 229,
-  "total_players": 104,
+  "window_start": "2026-10-19",
+  "window_end": "2026-11-16",
+  "total_rumors": 228,
+  "total_players": 103,
   "rankings": [
     {
       "player": "Dejounte Murray",
@@ -43,40 +43,28 @@
       "rank": 3
     },
     {
+      "player": "Kyrie Irving",
+      "score": 5.0,
+      "mentions_week1": 3,
+      "mentions_week2": 2,
+      "mentions_weeks3_4": 4,
+      "total_mentions": 9,
+      "first_mention": "2026-10-28",
+      "last_mention": "2026-11-14",
+      "team": "Dallas Mavericks",
+      "rank": 4
+    },
+    {
       "player": "Jalen Green",
-      "score": 5.5,
-      "mentions_week1": 5,
-      "mentions_week2": 0,
+      "score": 5.0,
+      "mentions_week1": 4,
+      "mentions_week2": 1,
       "mentions_weeks3_4": 2,
       "total_mentions": 7,
       "first_mention": "2026-10-20",
       "last_mention": "2026-11-15",
       "team": "Phoenix Suns",
-      "rank": 4
-    },
-    {
-      "player": "Kyrie Irving",
-      "score": 5.25,
-      "mentions_week1": 3,
-      "mentions_week2": 3,
-      "mentions_weeks3_4": 3,
-      "total_mentions": 9,
-      "first_mention": "2026-10-28",
-      "last_mention": "2026-11-14",
-      "team": "Dallas Mavericks",
       "rank": 5
-    },
-    {
-      "player": "Nique Clifford",
-      "score": 5.0,
-      "mentions_week1": 5,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 5,
-      "first_mention": "2026-11-08",
-      "last_mention": "2026-11-10",
-      "team": "Oklahoma City Thunder",
-      "rank": 6
     },
     {
       "player": "Anthony Black",
@@ -88,6 +76,18 @@
       "first_mention": "2026-10-19",
       "last_mention": "2026-11-14",
       "team": "Orlando Magic",
+      "rank": 6
+    },
+    {
+      "player": "Nique Clifford",
+      "score": 3.0,
+      "mentions_week1": 1,
+      "mentions_week2": 4,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 5,
+      "first_mention": "2026-11-08",
+      "last_mention": "2026-11-10",
+      "team": "Oklahoma City Thunder",
       "rank": 7
     },
     {
@@ -187,18 +187,6 @@
       "rank": 15
     },
     {
-      "player": "Kevin Porter",
-      "score": 1.75,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 3,
-      "total_mentions": 4,
-      "first_mention": "2026-10-19",
-      "last_mention": "2026-11-08",
-      "team": "Milwaukee Bucks",
-      "rank": 16
-    },
-    {
       "player": "Michael Porter",
       "score": 1.75,
       "mentions_week1": 1,
@@ -208,7 +196,7 @@
       "first_mention": "2026-10-27",
       "last_mention": "2026-11-13",
       "team": "Brooklyn Nets",
-      "rank": 17
+      "rank": 16
     },
     {
       "player": "Bam Adebayo",
@@ -220,31 +208,7 @@
       "first_mention": "2026-11-03",
       "last_mention": "2026-11-05",
       "team": "Miami Heat",
-      "rank": 18
-    },
-    {
-      "player": "Brook Lopez",
-      "score": 1.5,
-      "mentions_week1": 1,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 2,
-      "first_mention": "2026-11-06",
-      "last_mention": "2026-11-08",
-      "team": "Los Angeles Clippers",
-      "rank": 19
-    },
-    {
-      "player": "Derrick Jones",
-      "score": 1.5,
-      "mentions_week1": 1,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 2,
-      "first_mention": "2026-11-06",
-      "last_mention": "2026-11-08",
-      "team": "Los Angeles Clippers",
-      "rank": 20
+      "rank": 17
     },
     {
       "player": "Jamal Murray",
@@ -256,7 +220,7 @@
       "first_mention": "2026-11-05",
       "last_mention": "2026-11-09",
       "team": "Denver Nuggets",
-      "rank": 21
+      "rank": 18
     },
     {
       "player": "Julius Randle",
@@ -268,55 +232,19 @@
       "first_mention": "2026-11-04",
       "last_mention": "2026-11-13",
       "team": "Minnesota Timberwolves",
-      "rank": 22
+      "rank": 19
     },
     {
-      "player": "Kris Dunn",
-      "score": 1.5,
-      "mentions_week1": 1,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 2,
-      "first_mention": "2026-11-06",
-      "last_mention": "2026-11-08",
-      "team": "Los Angeles Clippers",
-      "rank": 23
-    },
-    {
-      "player": "Max Strus",
-      "score": 1.5,
-      "mentions_week1": 1,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 2,
-      "first_mention": "2026-11-06",
-      "last_mention": "2026-11-08",
-      "team": "Los Angeles Clippers",
-      "rank": 24
-    },
-    {
-      "player": "Rui Hachimura",
-      "score": 1.5,
-      "mentions_week1": 1,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 2,
-      "first_mention": "2026-11-06",
-      "last_mention": "2026-11-08",
-      "team": "Los Angeles Lakers",
-      "rank": 25
-    },
-    {
-      "player": "Marcus Sasser",
+      "player": "Kevin Porter",
       "score": 1.25,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 2,
-      "first_mention": "2026-10-30",
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 3,
+      "total_mentions": 4,
+      "first_mention": "2026-10-19",
       "last_mention": "2026-11-08",
-      "team": "Boston Celtics",
-      "rank": 26
+      "team": "Milwaukee Bucks",
+      "rank": 20
     },
     {
       "player": "Walter Clayton",
@@ -328,7 +256,7 @@
       "first_mention": "2026-10-19",
       "last_mention": "2026-10-20",
       "team": "Dallas Mavericks",
-      "rank": 27
+      "rank": 21
     },
     {
       "player": "Jalen Williams",
@@ -340,7 +268,31 @@
       "first_mention": "2026-10-26",
       "last_mention": "2026-11-05",
       "team": "Oklahoma City Thunder",
-      "rank": 28
+      "rank": 22
+    },
+    {
+      "player": "Brook Lopez",
+      "score": 1.0,
+      "mentions_week1": 0,
+      "mentions_week2": 2,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 2,
+      "first_mention": "2026-11-06",
+      "last_mention": "2026-11-08",
+      "team": "Los Angeles Clippers",
+      "rank": 23
+    },
+    {
+      "player": "Derrick Jones",
+      "score": 1.0,
+      "mentions_week1": 0,
+      "mentions_week2": 2,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 2,
+      "first_mention": "2026-11-06",
+      "last_mention": "2026-11-08",
+      "team": "Los Angeles Clippers",
+      "rank": 24
     },
     {
       "player": "Isaiah Stewart",
@@ -352,7 +304,31 @@
       "first_mention": "2026-11-06",
       "last_mention": "2026-11-07",
       "team": "Detroit Pistons",
-      "rank": 29
+      "rank": 25
+    },
+    {
+      "player": "Kris Dunn",
+      "score": 1.0,
+      "mentions_week1": 0,
+      "mentions_week2": 2,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 2,
+      "first_mention": "2026-11-06",
+      "last_mention": "2026-11-08",
+      "team": "Los Angeles Clippers",
+      "rank": 26
+    },
+    {
+      "player": "Max Strus",
+      "score": 1.0,
+      "mentions_week1": 0,
+      "mentions_week2": 2,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 2,
+      "first_mention": "2026-11-06",
+      "last_mention": "2026-11-08",
+      "team": "Los Angeles Clippers",
+      "rank": 27
     },
     {
       "player": "Nikola Jokic",
@@ -364,7 +340,19 @@
       "first_mention": "2026-11-04",
       "last_mention": "2026-11-05",
       "team": "Denver Nuggets",
-      "rank": 30
+      "rank": 28
+    },
+    {
+      "player": "Rui Hachimura",
+      "score": 1.0,
+      "mentions_week1": 0,
+      "mentions_week2": 2,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 2,
+      "first_mention": "2026-11-06",
+      "last_mention": "2026-11-08",
+      "team": "Los Angeles Lakers",
+      "rank": 29
     },
     {
       "player": "Zach LaVine",
@@ -376,19 +364,7 @@
       "first_mention": "2026-11-03",
       "last_mention": "2026-11-06",
       "team": "Sacramento Kings",
-      "rank": 31
-    },
-    {
-      "player": "Aaron Wiggins",
-      "score": 1.0,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-11-08",
-      "last_mention": "2026-11-08",
-      "team": "Atlanta Hawks",
-      "rank": 32
+      "rank": 30
     },
     {
       "player": "Anthony Davis",
@@ -400,43 +376,7 @@
       "first_mention": "2026-11-12",
       "last_mention": "2026-11-12",
       "team": "Dallas Mavericks",
-      "rank": 33
-    },
-    {
-      "player": "Caleb Martin",
-      "score": 1.0,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-11-08",
-      "last_mention": "2026-11-08",
-      "team": "Dallas Mavericks",
-      "rank": 34
-    },
-    {
-      "player": "Dalen Terry",
-      "score": 1.0,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-11-08",
-      "last_mention": "2026-11-08",
-      "team": "Golden State Warriors",
-      "rank": 35
-    },
-    {
-      "player": "Daniel Gafford",
-      "score": 1.0,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-11-08",
-      "last_mention": "2026-11-08",
-      "team": "Dallas Mavericks",
-      "rank": 36
+      "rank": 31
     },
     {
       "player": "Darius Garland",
@@ -448,7 +388,7 @@
       "first_mention": "2026-11-13",
       "last_mention": "2026-11-13",
       "team": "Cleveland Cavaliers",
-      "rank": 37
+      "rank": 32
     },
     {
       "player": "Davion Mitchell",
@@ -460,7 +400,7 @@
       "first_mention": "2026-11-15",
       "last_mention": "2026-11-15",
       "team": "Charlotte Hornets",
-      "rank": 38
+      "rank": 33
     },
     {
       "player": "De'Aaron Fox",
@@ -472,7 +412,7 @@
       "first_mention": "2026-11-09",
       "last_mention": "2026-11-09",
       "team": "San Antonio Spurs",
-      "rank": 39
+      "rank": 34
     },
     {
       "player": "Devin Booker",
@@ -484,7 +424,7 @@
       "first_mention": "2026-11-13",
       "last_mention": "2026-11-13",
       "team": "Phoenix Suns",
-      "rank": 40
+      "rank": 35
     },
     {
       "player": "Franz Wagner",
@@ -496,7 +436,7 @@
       "first_mention": "2026-11-13",
       "last_mention": "2026-11-13",
       "team": "Orlando Magic",
-      "rank": 41
+      "rank": 36
     },
     {
       "player": "Grant Williams",
@@ -508,7 +448,7 @@
       "first_mention": "2026-11-09",
       "last_mention": "2026-11-09",
       "team": "Charlotte Hornets",
-      "rank": 42
+      "rank": 37
     },
     {
       "player": "Grayson Allen",
@@ -520,7 +460,7 @@
       "first_mention": "2026-11-09",
       "last_mention": "2026-11-09",
       "team": "Phoenix Suns",
-      "rank": 43
+      "rank": 38
     },
     {
       "player": "Jalen Suggs",
@@ -532,7 +472,7 @@
       "first_mention": "2026-11-13",
       "last_mention": "2026-11-13",
       "team": "Orlando Magic",
-      "rank": 44
+      "rank": 39
     },
     {
       "player": "Marvin Bagley",
@@ -544,7 +484,7 @@
       "first_mention": "2026-11-14",
       "last_mention": "2026-11-14",
       "team": "Atlanta Hawks",
-      "rank": 45
+      "rank": 40
     },
     {
       "player": "Max Christie",
@@ -556,7 +496,7 @@
       "first_mention": "2026-11-15",
       "last_mention": "2026-11-15",
       "team": "Dallas Mavericks",
-      "rank": 46
+      "rank": 41
     },
     {
       "player": "Nikola Jovic",
@@ -568,7 +508,7 @@
       "first_mention": "2026-11-15",
       "last_mention": "2026-11-15",
       "team": "Charlotte Hornets",
-      "rank": 47
+      "rank": 42
     },
     {
       "player": "Paolo Banchero",
@@ -580,7 +520,7 @@
       "first_mention": "2026-11-13",
       "last_mention": "2026-11-13",
       "team": "Orlando Magic",
-      "rank": 48
+      "rank": 43
     },
     {
       "player": "Rob Dillingham",
@@ -592,7 +532,7 @@
       "first_mention": "2026-11-13",
       "last_mention": "2026-11-13",
       "team": "Chicago Bulls",
-      "rank": 49
+      "rank": 44
     },
     {
       "player": "Trey Murphy",
@@ -604,7 +544,7 @@
       "first_mention": "2026-10-27",
       "last_mention": "2026-10-29",
       "team": "New Orleans Pelicans",
-      "rank": 50
+      "rank": 45
     },
     {
       "player": "Ty Jerome",
@@ -616,7 +556,7 @@
       "first_mention": "2026-10-23",
       "last_mention": "2026-10-28",
       "team": "Cleveland Cavaliers",
-      "rank": 51
+      "rank": 46
     },
     {
       "player": "Chet Holmgren",
@@ -628,7 +568,7 @@
       "first_mention": "2026-10-27",
       "last_mention": "2026-11-05",
       "team": "Oklahoma City Thunder",
-      "rank": 52
+      "rank": 47
     },
     {
       "player": "Derrick White",
@@ -640,7 +580,7 @@
       "first_mention": "2026-10-20",
       "last_mention": "2026-11-07",
       "team": "Boston Celtics",
-      "rank": 53
+      "rank": 48
     },
     {
       "player": "Giannis Antetokounmpo",
@@ -652,7 +592,7 @@
       "first_mention": "2026-10-25",
       "last_mention": "2026-11-04",
       "team": "Milwaukee Bucks",
-      "rank": 54
+      "rank": 49
     },
     {
       "player": "Ja Morant",
@@ -664,7 +604,7 @@
       "first_mention": "2026-10-28",
       "last_mention": "2026-11-03",
       "team": "Memphis Grizzlies",
-      "rank": 55
+      "rank": 50
     },
     {
       "player": "Jalen Duren",
@@ -676,7 +616,7 @@
       "first_mention": "2026-10-30",
       "last_mention": "2026-11-06",
       "team": "Detroit Pistons",
-      "rank": 56
+      "rank": 51
     },
     {
       "player": "Jaren Jackson Jr",
@@ -688,19 +628,19 @@
       "first_mention": "2026-10-25",
       "last_mention": "2026-11-03",
       "team": "Cleveland Cavaliers",
-      "rank": 57
+      "rank": 52
     },
     {
-      "player": "Scoot Henderson",
+      "player": "Marcus Sasser",
       "score": 0.75,
       "mentions_week1": 0,
       "mentions_week2": 1,
       "mentions_weeks3_4": 1,
       "total_mentions": 2,
-      "first_mention": "2026-10-24",
-      "last_mention": "2026-11-01",
-      "team": "Portland Trail Blazers",
-      "rank": 58
+      "first_mention": "2026-10-30",
+      "last_mention": "2026-11-08",
+      "team": "Boston Celtics",
+      "rank": 53
     },
     {
       "player": "Karl-Anthony Towns",
@@ -712,7 +652,19 @@
       "first_mention": "2026-10-19",
       "last_mention": "2026-10-22",
       "team": "New York Knicks",
-      "rank": 59
+      "rank": 54
+    },
+    {
+      "player": "Scoot Henderson",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 2,
+      "total_mentions": 2,
+      "first_mention": "2026-10-24",
+      "last_mention": "2026-11-01",
+      "team": "Portland Trail Blazers",
+      "rank": 55
     },
     {
       "player": "Zach Edey",
@@ -724,7 +676,19 @@
       "first_mention": "2026-10-23",
       "last_mention": "2026-10-27",
       "team": "Memphis Grizzlies",
-      "rank": 60
+      "rank": 56
+    },
+    {
+      "player": "Aaron Wiggins",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-11-08",
+      "last_mention": "2026-11-08",
+      "team": "Atlanta Hawks",
+      "rank": 57
     },
     {
       "player": "Ariel Hukporti",
@@ -736,7 +700,7 @@
       "first_mention": "2026-11-06",
       "last_mention": "2026-11-06",
       "team": "Philadelphia 76ers",
-      "rank": 61
+      "rank": 58
     },
     {
       "player": "Ausar Thompson",
@@ -748,7 +712,7 @@
       "first_mention": "2026-11-06",
       "last_mention": "2026-11-06",
       "team": "Detroit Pistons",
-      "rank": 62
+      "rank": 59
     },
     {
       "player": "Austin Reaves",
@@ -760,7 +724,7 @@
       "first_mention": "2026-11-06",
       "last_mention": "2026-11-06",
       "team": "Los Angeles Lakers",
-      "rank": 63
+      "rank": 60
     },
     {
       "player": "Ayo Dosunmu",
@@ -772,7 +736,7 @@
       "first_mention": "2026-11-05",
       "last_mention": "2026-11-05",
       "team": "Chicago Bulls",
-      "rank": 64
+      "rank": 61
     },
     {
       "player": "Brandon Miller",
@@ -784,19 +748,43 @@
       "first_mention": "2026-11-04",
       "last_mention": "2026-11-04",
       "team": "Charlotte Hornets",
-      "rank": 65
+      "rank": 62
     },
     {
-      "player": "Damian Lillard",
+      "player": "Caleb Martin",
       "score": 0.5,
       "mentions_week1": 0,
       "mentions_week2": 1,
       "mentions_weeks3_4": 0,
       "total_mentions": 1,
-      "first_mention": "2026-11-01",
-      "last_mention": "2026-11-01",
-      "team": "Portland Trail Blazers",
-      "rank": 66
+      "first_mention": "2026-11-08",
+      "last_mention": "2026-11-08",
+      "team": "Dallas Mavericks",
+      "rank": 63
+    },
+    {
+      "player": "Dalen Terry",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-11-08",
+      "last_mention": "2026-11-08",
+      "team": "Golden State Warriors",
+      "rank": 64
+    },
+    {
+      "player": "Daniel Gafford",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-11-08",
+      "last_mention": "2026-11-08",
+      "team": "Dallas Mavericks",
+      "rank": 65
     },
     {
       "player": "Deni Avdija",
@@ -808,7 +796,7 @@
       "first_mention": "2026-11-03",
       "last_mention": "2026-11-03",
       "team": "Portland Trail Blazers",
-      "rank": 67
+      "rank": 66
     },
     {
       "player": "Draymond Green",
@@ -820,7 +808,7 @@
       "first_mention": "2026-11-06",
       "last_mention": "2026-11-06",
       "team": "Golden State Warriors",
-      "rank": 68
+      "rank": 67
     },
     {
       "player": "Evan Mobley",
@@ -832,7 +820,7 @@
       "first_mention": "2026-11-03",
       "last_mention": "2026-11-03",
       "team": "Cleveland Cavaliers",
-      "rank": 69
+      "rank": 68
     },
     {
       "player": "Jakob Poeltl",
@@ -844,7 +832,7 @@
       "first_mention": "2026-11-04",
       "last_mention": "2026-11-04",
       "team": "Toronto Raptors",
-      "rank": 70
+      "rank": 69
     },
     {
       "player": "Jamaree Bouyea",
@@ -856,7 +844,7 @@
       "first_mention": "2026-11-04",
       "last_mention": "2026-11-04",
       "team": "Philadelphia 76ers",
-      "rank": 71
+      "rank": 70
     },
     {
       "player": "Jarrett Allen",
@@ -868,7 +856,7 @@
       "first_mention": "2026-11-07",
       "last_mention": "2026-11-07",
       "team": "Cleveland Cavaliers",
-      "rank": 72
+      "rank": 71
     },
     {
       "player": "Jerami Grant",
@@ -880,7 +868,7 @@
       "first_mention": "2026-11-07",
       "last_mention": "2026-11-07",
       "team": "Atlanta Hawks",
-      "rank": 73
+      "rank": 72
     },
     {
       "player": "Kevon Looney",
@@ -892,7 +880,7 @@
       "first_mention": "2026-11-06",
       "last_mention": "2026-11-06",
       "team": "Los Angeles Lakers",
-      "rank": 74
+      "rank": 73
     },
     {
       "player": "Kon Knueppel",
@@ -904,7 +892,7 @@
       "first_mention": "2026-11-04",
       "last_mention": "2026-11-04",
       "team": "Charlotte Hornets",
-      "rank": 75
+      "rank": 74
     },
     {
       "player": "LaMelo Ball",
@@ -916,7 +904,7 @@
       "first_mention": "2026-11-04",
       "last_mention": "2026-11-04",
       "team": "Charlotte Hornets",
-      "rank": 76
+      "rank": 75
     },
     {
       "player": "LeBron James",
@@ -928,7 +916,7 @@
       "first_mention": "2026-11-05",
       "last_mention": "2026-11-05",
       "team": "Los Angeles Lakers",
-      "rank": 77
+      "rank": 76
     },
     {
       "player": "Malik Monk",
@@ -940,7 +928,7 @@
       "first_mention": "2026-11-06",
       "last_mention": "2026-11-06",
       "team": "Sacramento Kings",
-      "rank": 78
+      "rank": 77
     },
     {
       "player": "Myles Turner",
@@ -952,7 +940,7 @@
       "first_mention": "2026-11-04",
       "last_mention": "2026-11-04",
       "team": "Milwaukee Bucks",
-      "rank": 79
+      "rank": 78
     },
     {
       "player": "Paul George",
@@ -964,7 +952,7 @@
       "first_mention": "2026-11-05",
       "last_mention": "2026-11-05",
       "team": "Philadelphia 76ers",
-      "rank": 80
+      "rank": 79
     },
     {
       "player": "Stephen Curry",
@@ -976,7 +964,7 @@
       "first_mention": "2026-11-05",
       "last_mention": "2026-11-05",
       "team": "Golden State Warriors",
-      "rank": 81
+      "rank": 80
     },
     {
       "player": "Tyrese Maxey",
@@ -988,7 +976,7 @@
       "first_mention": "2026-11-04",
       "last_mention": "2026-11-04",
       "team": "Philadelphia 76ers",
-      "rank": 82
+      "rank": 81
     },
     {
       "player": "Alperen Sengun",
@@ -1000,7 +988,7 @@
       "first_mention": "2026-10-22",
       "last_mention": "2026-10-22",
       "team": "Houston Rockets",
-      "rank": 83
+      "rank": 82
     },
     {
       "player": "Cade Cunningham",
@@ -1012,7 +1000,7 @@
       "first_mention": "2026-10-31",
       "last_mention": "2026-10-31",
       "team": "Detroit Pistons",
-      "rank": 84
+      "rank": 83
     },
     {
       "player": "Cason Wallace",
@@ -1024,7 +1012,7 @@
       "first_mention": "2026-10-28",
       "last_mention": "2026-10-28",
       "team": "Oklahoma City Thunder",
-      "rank": 85
+      "rank": 84
     },
     {
       "player": "Cedric Coward",
@@ -1036,7 +1024,7 @@
       "first_mention": "2026-10-27",
       "last_mention": "2026-10-27",
       "team": "Memphis Grizzlies",
-      "rank": 86
+      "rank": 85
     },
     {
       "player": "Dalton Knecht",
@@ -1048,6 +1036,18 @@
       "first_mention": "2026-10-19",
       "last_mention": "2026-10-19",
       "team": "Los Angeles Lakers",
+      "rank": 86
+    },
+    {
+      "player": "Damian Lillard",
+      "score": 0.25,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 1,
+      "first_mention": "2026-11-01",
+      "last_mention": "2026-11-01",
+      "team": "Portland Trail Blazers",
       "rank": 87
     },
     {
@@ -1195,18 +1195,6 @@
       "rank": 99
     },
     {
-      "player": "Miles McBride",
-      "score": 0.25,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 1,
-      "first_mention": "2026-10-18",
-      "last_mention": "2026-10-18",
-      "team": "New York Knicks",
-      "rank": 100
-    },
-    {
       "player": "Reed Sheppard",
       "score": 0.25,
       "mentions_week1": 0,
@@ -1216,7 +1204,7 @@
       "first_mention": "2026-10-22",
       "last_mention": "2026-10-22",
       "team": "Houston Rockets",
-      "rank": 101
+      "rank": 100
     },
     {
       "player": "Tyrese Haliburton",
@@ -1228,7 +1216,7 @@
       "first_mention": "2026-10-25",
       "last_mention": "2026-10-25",
       "team": "Indiana Pacers",
-      "rank": 102
+      "rank": 101
     },
     {
       "player": "Yves Missi",
@@ -1240,7 +1228,7 @@
       "first_mention": "2026-10-28",
       "last_mention": "2026-10-28",
       "team": "Golden State Warriors",
-      "rank": 103
+      "rank": 102
     },
     {
       "player": "Zeke Nnaji",
@@ -1252,7 +1240,7 @@
       "first_mention": "2026-10-24",
       "last_mention": "2026-10-24",
       "team": "Denver Nuggets",
-      "rank": 104
+      "rank": 103
     }
   ],
   "player_rumors": {
@@ -3057,15 +3045,6 @@
         "outlet": "x.com",
         "source_url": "https://x.com/TheSteinLine/status/2112288052236493071"
       }
-    ],
-    "Miles McBride": [
-      {
-        "date": "2026-10-18",
-        "text": "Miles McBride is set to make just under $4 million in the final year of his contract this season and will be in line for a dramatic raise if he hits free agency next summer. Operating under owner James Dolan\u2019s demand to stay under the second apron, it will be extremely difficult for the Knicks to have all five starters on big contracts and still have space left over to give a significant contract to a bench player.That makes Miles McBride the most likely trade candidate on the roster before the Knicks potentially lose him for nothing in the summer.New York Post",
-        "text_html": "Miles McBride is set to make just under $4 million in the final year of his contract this season and will be in line for a dramatic raise if he hits free agency next summer. Operating under owner James Dolan\u2019s demand to stay under the second apron, it will be extremely difficult for the Knicks to have all five starters on big contracts and still have space left over to give a significant contract to a bench player. <a href=\"https://nypost.com/2026/10/17/sports/miles-mcbrides-agent-leaves-door-open-for-future-talks-with-knicks/\" target=\"_blank\" style=\"color: #1a73e8;\">That makes Miles McBride the most likely trade candidate on the roster before the Knicks potentially lose him for nothing in the summer</a>.",
-        "outlet": "New York Post",
-        "source_url": "https://nypost.com/2026/10/17/sports/miles-mcbrides-agent-leaves-door-open-for-future-talks-with-knicks/"
-      }
     ]
   },
   "daily_counts": {
@@ -3452,9 +3431,6 @@
     },
     "Dalton Knecht": {
       "2026-10-19": 1
-    },
-    "Miles McBride": {
-      "2026-10-18": 1
     }
   }
 }
