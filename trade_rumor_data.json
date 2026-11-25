@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-24T22:48:21.460089",
+  "generated_at": "2026-11-25T02:56:22.542571",
   "scrape_window_days": 28,
-  "window_start": "2026-10-27",
-  "window_end": "2026-11-24",
-  "total_rumors": 275,
-  "total_players": 118,
+  "window_start": "2026-10-28",
+  "window_end": "2026-11-25",
+  "total_rumors": 266,
+  "total_players": 115,
   "rankings": [
     {
       "player": "Dejounte Murray",
-      "score": 22.25,
-      "mentions_week1": 14,
-      "mentions_week2": 16,
+      "score": 20.25,
+      "mentions_week1": 10,
+      "mentions_week2": 20,
       "mentions_weeks3_4": 1,
       "total_mentions": 31,
       "first_mention": "2026-10-28",
@@ -20,9 +20,9 @@
     },
     {
       "player": "Jalen Green",
-      "score": 8.0,
-      "mentions_week1": 5,
-      "mentions_week2": 5,
+      "score": 7.0,
+      "mentions_week1": 3,
+      "mentions_week2": 7,
       "mentions_weeks3_4": 2,
       "total_mentions": 12,
       "first_mention": "2026-10-30",
@@ -32,27 +32,15 @@
     },
     {
       "player": "Kyrie Irving",
-      "score": 5.75,
+      "score": 5.5,
       "mentions_week1": 3,
-      "mentions_week2": 2,
-      "mentions_weeks3_4": 7,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 8,
       "total_mentions": 12,
       "first_mention": "2026-10-28",
       "last_mention": "2026-11-20",
       "team": "Dallas Mavericks",
       "rank": 3
-    },
-    {
-      "player": "Jaylen Brown",
-      "score": 5.25,
-      "mentions_week1": 2,
-      "mentions_week2": 4,
-      "mentions_weeks3_4": 5,
-      "total_mentions": 11,
-      "first_mention": "2026-10-27",
-      "last_mention": "2026-11-20",
-      "team": "Boston Celtics",
-      "rank": 4
     },
     {
       "player": "Anthony Davis",
@@ -64,7 +52,7 @@
       "first_mention": "2026-11-12",
       "last_mention": "2026-11-21",
       "team": "Dallas Mavericks",
-      "rank": 5
+      "rank": 4
     },
     {
       "player": "Kristaps Porzingis",
@@ -76,79 +64,43 @@
       "first_mention": "2026-10-28",
       "last_mention": "2026-11-13",
       "team": "Golden State Warriors",
-      "rank": 6
+      "rank": 5
     },
     {
       "player": "Trey Murphy",
-      "score": 3.75,
+      "score": 3.5,
       "mentions_week1": 3,
       "mentions_week2": 0,
-      "mentions_weeks3_4": 3,
-      "total_mentions": 6,
-      "first_mention": "2026-10-27",
+      "mentions_weeks3_4": 2,
+      "total_mentions": 5,
+      "first_mention": "2026-10-28",
       "last_mention": "2026-11-20",
       "team": "New Orleans Pelicans",
+      "rank": 6
+    },
+    {
+      "player": "Jaylen Brown",
+      "score": 3.25,
+      "mentions_week1": 1,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 7,
+      "total_mentions": 9,
+      "first_mention": "2026-10-28",
+      "last_mention": "2026-11-20",
+      "team": "Boston Celtics",
       "rank": 7
     },
     {
-      "player": "Giannis Antetokounmpo",
-      "score": 3.25,
-      "mentions_week1": 3,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 4,
-      "first_mention": "2026-11-04",
-      "last_mention": "2026-11-19",
-      "team": "Milwaukee Bucks",
-      "rank": 8
-    },
-    {
       "player": "Nique Clifford",
-      "score": 3.0,
+      "score": 2.75,
       "mentions_week1": 1,
-      "mentions_week2": 2,
-      "mentions_weeks3_4": 4,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 5,
       "total_mentions": 7,
       "first_mention": "2026-11-08",
       "last_mention": "2026-11-18",
       "team": "Oklahoma City Thunder",
-      "rank": 9
-    },
-    {
-      "player": "Naz Reid",
-      "score": 3.0,
-      "mentions_week1": 2,
-      "mentions_week2": 2,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 4,
-      "first_mention": "2026-11-12",
-      "last_mention": "2026-11-24",
-      "team": "Minnesota Timberwolves",
-      "rank": 10
-    },
-    {
-      "player": "Jeremiah Fears",
-      "score": 3.0,
-      "mentions_week1": 3,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 3,
-      "first_mention": "2026-11-17",
-      "last_mention": "2026-11-18",
-      "team": "Golden State Warriors",
-      "rank": 11
-    },
-    {
-      "player": "Tyrese Haliburton",
-      "score": 3.0,
-      "mentions_week1": 3,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 3,
-      "first_mention": "2026-11-17",
-      "last_mention": "2026-11-20",
-      "team": "Indiana Pacers",
-      "rank": 12
+      "rank": 8
     },
     {
       "player": "Zion Williamson",
@@ -160,7 +112,7 @@
       "first_mention": "2026-11-13",
       "last_mention": "2026-11-16",
       "team": "New Orleans Pelicans",
-      "rank": 13
+      "rank": 9
     },
     {
       "player": "Max Strus",
@@ -172,7 +124,31 @@
       "first_mention": "2026-11-06",
       "last_mention": "2026-11-23",
       "team": "Los Angeles Clippers",
-      "rank": 14
+      "rank": 10
+    },
+    {
+      "player": "Naz Reid",
+      "score": 2.5,
+      "mentions_week1": 1,
+      "mentions_week2": 3,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 4,
+      "first_mention": "2026-11-12",
+      "last_mention": "2026-11-24",
+      "team": "Minnesota Timberwolves",
+      "rank": 11
+    },
+    {
+      "player": "Tyrese Haliburton",
+      "score": 2.5,
+      "mentions_week1": 2,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 3,
+      "first_mention": "2026-11-17",
+      "last_mention": "2026-11-20",
+      "team": "Indiana Pacers",
+      "rank": 12
     },
     {
       "player": "Herb Jones",
@@ -184,7 +160,19 @@
       "first_mention": "2026-10-28",
       "last_mention": "2026-11-20",
       "team": "New Orleans Pelicans",
-      "rank": 15
+      "rank": 13
+    },
+    {
+      "player": "Giannis Antetokounmpo",
+      "score": 2.25,
+      "mentions_week1": 1,
+      "mentions_week2": 2,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 4,
+      "first_mention": "2026-11-04",
+      "last_mention": "2026-11-19",
+      "team": "Milwaukee Bucks",
+      "rank": 14
     },
     {
       "player": "Jalen Smith",
@@ -196,7 +184,7 @@
       "first_mention": "2026-11-04",
       "last_mention": "2026-11-24",
       "team": "Chicago Bulls",
-      "rank": 16
+      "rank": 15
     },
     {
       "player": "Draymond Green",
@@ -206,6 +194,18 @@
       "mentions_weeks3_4": 1,
       "total_mentions": 3,
       "first_mention": "2026-11-06",
+      "last_mention": "2026-11-18",
+      "team": "Golden State Warriors",
+      "rank": 16
+    },
+    {
+      "player": "Jeremiah Fears",
+      "score": 2.0,
+      "mentions_week1": 1,
+      "mentions_week2": 2,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 3,
+      "first_mention": "2026-11-17",
       "last_mention": "2026-11-18",
       "team": "Golden State Warriors",
       "rank": 17
@@ -247,6 +247,18 @@
       "rank": 20
     },
     {
+      "player": "Michael Porter",
+      "score": 1.75,
+      "mentions_week1": 1,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 3,
+      "first_mention": "2026-11-07",
+      "last_mention": "2026-11-24",
+      "team": "Brooklyn Nets",
+      "rank": 21
+    },
+    {
       "player": "Domantas Sabonis",
       "score": 1.5,
       "mentions_week1": 0,
@@ -256,7 +268,7 @@
       "first_mention": "2026-10-30",
       "last_mention": "2026-11-06",
       "team": "Sacramento Kings",
-      "rank": 21
+      "rank": 22
     },
     {
       "player": "Anthony Black",
@@ -268,7 +280,7 @@
       "first_mention": "2026-11-13",
       "last_mention": "2026-11-14",
       "team": "Orlando Magic",
-      "rank": 22
+      "rank": 23
     },
     {
       "player": "Brook Lopez",
@@ -280,7 +292,7 @@
       "first_mention": "2026-11-06",
       "last_mention": "2026-11-23",
       "team": "Los Angeles Clippers",
-      "rank": 23
+      "rank": 24
     },
     {
       "player": "Isaiah Stewart",
@@ -292,7 +304,7 @@
       "first_mention": "2026-11-06",
       "last_mention": "2026-11-18",
       "team": "Charlotte Hornets",
-      "rank": 24
+      "rank": 25
     },
     {
       "player": "Rui Hachimura",
@@ -304,18 +316,6 @@
       "first_mention": "2026-11-06",
       "last_mention": "2026-11-23",
       "team": "Los Angeles Lakers",
-      "rank": 25
-    },
-    {
-      "player": "Zach LaVine",
-      "score": 1.5,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 3,
-      "first_mention": "2026-11-03",
-      "last_mention": "2026-11-17",
-      "team": "Sacramento Kings",
       "rank": 26
     },
     {
@@ -331,18 +331,6 @@
       "rank": 27
     },
     {
-      "player": "Jayson Tatum",
-      "score": 1.5,
-      "mentions_week1": 1,
-      "mentions_week2": 1,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 2,
-      "first_mention": "2026-11-10",
-      "last_mention": "2026-11-17",
-      "team": "Boston Celtics",
-      "rank": 28
-    },
-    {
       "player": "Luka Doncic",
       "score": 1.25,
       "mentions_week1": 0,
@@ -352,7 +340,7 @@
       "first_mention": "2026-10-31",
       "last_mention": "2026-11-14",
       "team": "Los Angeles Lakers",
-      "rank": 29
+      "rank": 28
     },
     {
       "player": "Damian Lillard",
@@ -364,31 +352,19 @@
       "first_mention": "2026-11-01",
       "last_mention": "2026-11-19",
       "team": "Miami Heat",
-      "rank": 30
+      "rank": 29
     },
     {
-      "player": "Gradey Dick",
-      "score": 1.25,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 2,
-      "first_mention": "2026-10-27",
-      "last_mention": "2026-11-18",
-      "team": "Toronto Raptors",
-      "rank": 31
-    },
-    {
-      "player": "Michael Porter",
+      "player": "Zach LaVine",
       "score": 1.0,
       "mentions_week1": 0,
       "mentions_week2": 1,
       "mentions_weeks3_4": 2,
       "total_mentions": 3,
-      "first_mention": "2026-10-27",
-      "last_mention": "2026-11-13",
-      "team": "Brooklyn Nets",
-      "rank": 32
+      "first_mention": "2026-11-03",
+      "last_mention": "2026-11-17",
+      "team": "Sacramento Kings",
+      "rank": 30
     },
     {
       "player": "Ajay Mitchell",
@@ -400,7 +376,7 @@
       "first_mention": "2026-11-18",
       "last_mention": "2026-11-18",
       "team": "Oklahoma City Thunder",
-      "rank": 33
+      "rank": 31
     },
     {
       "player": "Brandin Podziemski",
@@ -412,7 +388,7 @@
       "first_mention": "2026-11-20",
       "last_mention": "2026-11-20",
       "team": "Golden State Warriors",
-      "rank": 34
+      "rank": 32
     },
     {
       "player": "Duncan Robinson",
@@ -424,19 +400,7 @@
       "first_mention": "2026-11-18",
       "last_mention": "2026-11-18",
       "team": "Charlotte Hornets",
-      "rank": 35
-    },
-    {
-      "player": "Dyson Daniels",
-      "score": 1.0,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-11-17",
-      "last_mention": "2026-11-17",
-      "team": "Atlanta Hawks",
-      "rank": 36
+      "rank": 33
     },
     {
       "player": "Garrett Temple",
@@ -448,7 +412,19 @@
       "first_mention": "2026-11-18",
       "last_mention": "2026-11-18",
       "team": "Los Angeles Clippers",
-      "rank": 37
+      "rank": 34
+    },
+    {
+      "player": "Gradey Dick",
+      "score": 1.0,
+      "mentions_week1": 1,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-11-18",
+      "last_mention": "2026-11-18",
+      "team": "Toronto Raptors",
+      "rank": 35
     },
     {
       "player": "Gui Santos",
@@ -460,7 +436,7 @@
       "first_mention": "2026-11-20",
       "last_mention": "2026-11-20",
       "team": "Denver Nuggets",
-      "rank": 38
+      "rank": 36
     },
     {
       "player": "Jared McCain",
@@ -472,7 +448,7 @@
       "first_mention": "2026-11-18",
       "last_mention": "2026-11-18",
       "team": "Philadelphia 76ers",
-      "rank": 39
+      "rank": 37
     },
     {
       "player": "Jarred Vanderbilt",
@@ -484,7 +460,7 @@
       "first_mention": "2026-11-18",
       "last_mention": "2026-11-18",
       "team": "Charlotte Hornets",
-      "rank": 40
+      "rank": 38
     },
     {
       "player": "Jimmy Butler",
@@ -496,7 +472,7 @@
       "first_mention": "2026-11-20",
       "last_mention": "2026-11-20",
       "team": "Golden State Warriors",
-      "rank": 41
+      "rank": 39
     },
     {
       "player": "Jose Alvarado",
@@ -508,7 +484,7 @@
       "first_mention": "2026-11-19",
       "last_mention": "2026-11-19",
       "team": "New Orleans Pelicans",
-      "rank": 42
+      "rank": 40
     },
     {
       "player": "Josh Giddey",
@@ -520,7 +496,7 @@
       "first_mention": "2026-11-21",
       "last_mention": "2026-11-21",
       "team": "Boston Celtics",
-      "rank": 43
+      "rank": 41
     },
     {
       "player": "Josh Hart",
@@ -532,7 +508,7 @@
       "first_mention": "2026-11-19",
       "last_mention": "2026-11-19",
       "team": "New York Knicks",
-      "rank": 44
+      "rank": 42
     },
     {
       "player": "Lauri Markkanen",
@@ -544,19 +520,7 @@
       "first_mention": "2026-11-20",
       "last_mention": "2026-11-20",
       "team": "Utah Jazz",
-      "rank": 45
-    },
-    {
-      "player": "Moses Moody",
-      "score": 1.0,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-11-17",
-      "last_mention": "2026-11-17",
-      "team": "Golden State Warriors",
-      "rank": 46
+      "rank": 43
     },
     {
       "player": "Moussa Cisse",
@@ -568,31 +532,7 @@
       "first_mention": "2026-11-23",
       "last_mention": "2026-11-23",
       "team": "Dallas Mavericks",
-      "rank": 47
-    },
-    {
-      "player": "Nikola Vucevic",
-      "score": 1.0,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-11-17",
-      "last_mention": "2026-11-17",
-      "team": "Chicago Bulls",
-      "rank": 48
-    },
-    {
-      "player": "Onyeka Okongwu",
-      "score": 1.0,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-11-17",
-      "last_mention": "2026-11-17",
-      "team": "Atlanta Hawks",
-      "rank": 49
+      "rank": 44
     },
     {
       "player": "Pascal Siakam",
@@ -604,7 +544,7 @@
       "first_mention": "2026-11-20",
       "last_mention": "2026-11-20",
       "team": "Indiana Pacers",
-      "rank": 50
+      "rank": 45
     },
     {
       "player": "Rasheer Fleming",
@@ -616,19 +556,7 @@
       "first_mention": "2026-11-21",
       "last_mention": "2026-11-21",
       "team": "Boston Celtics",
-      "rank": 51
-    },
-    {
-      "player": "Ryan Rollins",
-      "score": 1.0,
-      "mentions_week1": 1,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 0,
-      "total_mentions": 1,
-      "first_mention": "2026-11-17",
-      "last_mention": "2026-11-17",
-      "team": "Atlanta Hawks",
-      "rank": 52
+      "rank": 46
     },
     {
       "player": "Trae Young",
@@ -640,7 +568,7 @@
       "first_mention": "2026-11-18",
       "last_mention": "2026-11-18",
       "team": "Atlanta Hawks",
-      "rank": 53
+      "rank": 47
     },
     {
       "player": "Tre Jones",
@@ -652,7 +580,7 @@
       "first_mention": "2026-11-20",
       "last_mention": "2026-11-20",
       "team": "Chicago Bulls",
-      "rank": 54
+      "rank": 48
     },
     {
       "player": "Tyler Herro",
@@ -664,7 +592,7 @@
       "first_mention": "2026-11-23",
       "last_mention": "2026-11-23",
       "team": "Miami Heat",
-      "rank": 55
+      "rank": 49
     },
     {
       "player": "Yang Hansen",
@@ -676,7 +604,7 @@
       "first_mention": "2026-11-24",
       "last_mention": "2026-11-24",
       "team": "Charlotte Hornets",
-      "rank": 56
+      "rank": 50
     },
     {
       "player": "Bam Adebayo",
@@ -688,7 +616,7 @@
       "first_mention": "2026-11-03",
       "last_mention": "2026-11-05",
       "team": "Miami Heat",
-      "rank": 57
+      "rank": 51
     },
     {
       "player": "Desmond Bane",
@@ -700,7 +628,19 @@
       "first_mention": "2026-11-09",
       "last_mention": "2026-11-13",
       "team": "Orlando Magic",
-      "rank": 58
+      "rank": 52
+    },
+    {
+      "player": "Jayson Tatum",
+      "score": 0.75,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 2,
+      "first_mention": "2026-11-10",
+      "last_mention": "2026-11-17",
+      "team": "Boston Celtics",
+      "rank": 53
     },
     {
       "player": "Julius Randle",
@@ -712,19 +652,7 @@
       "first_mention": "2026-11-04",
       "last_mention": "2026-11-13",
       "team": "Minnesota Timberwolves",
-      "rank": 59
-    },
-    {
-      "player": "Chet Holmgren",
-      "score": 0.5,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 2,
-      "first_mention": "2026-10-27",
-      "last_mention": "2026-11-05",
-      "team": "Oklahoma City Thunder",
-      "rank": 60
+      "rank": 54
     },
     {
       "player": "Derrick Jones",
@@ -736,7 +664,7 @@
       "first_mention": "2026-11-06",
       "last_mention": "2026-11-08",
       "team": "Los Angeles Clippers",
-      "rank": 61
+      "rank": 55
     },
     {
       "player": "Ja Morant",
@@ -748,7 +676,7 @@
       "first_mention": "2026-10-28",
       "last_mention": "2026-11-03",
       "team": "Memphis Grizzlies",
-      "rank": 62
+      "rank": 56
     },
     {
       "player": "Jalen Duren",
@@ -760,7 +688,7 @@
       "first_mention": "2026-10-30",
       "last_mention": "2026-11-06",
       "team": "Detroit Pistons",
-      "rank": 63
+      "rank": 57
     },
     {
       "player": "Jalen Williams",
@@ -772,7 +700,7 @@
       "first_mention": "2026-10-28",
       "last_mention": "2026-11-05",
       "team": "Oklahoma City Thunder",
-      "rank": 64
+      "rank": 58
     },
     {
       "player": "Jamal Murray",
@@ -784,7 +712,7 @@
       "first_mention": "2026-11-05",
       "last_mention": "2026-11-09",
       "team": "Denver Nuggets",
-      "rank": 65
+      "rank": 59
     },
     {
       "player": "Kris Dunn",
@@ -796,7 +724,7 @@
       "first_mention": "2026-11-06",
       "last_mention": "2026-11-08",
       "team": "Los Angeles Clippers",
-      "rank": 66
+      "rank": 60
     },
     {
       "player": "Marcus Sasser",
@@ -808,7 +736,7 @@
       "first_mention": "2026-10-30",
       "last_mention": "2026-11-08",
       "team": "Boston Celtics",
-      "rank": 67
+      "rank": 61
     },
     {
       "player": "Nikola Jokic",
@@ -820,19 +748,7 @@
       "first_mention": "2026-11-04",
       "last_mention": "2026-11-05",
       "team": "Denver Nuggets",
-      "rank": 68
-    },
-    {
-      "player": "Ty Jerome",
-      "score": 0.5,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 2,
-      "total_mentions": 2,
-      "first_mention": "2026-10-27",
-      "last_mention": "2026-10-28",
-      "team": "Cleveland Cavaliers",
-      "rank": 69
+      "rank": 62
     },
     {
       "player": "Davion Mitchell",
@@ -844,7 +760,7 @@
       "first_mention": "2026-11-15",
       "last_mention": "2026-11-15",
       "team": "Charlotte Hornets",
-      "rank": 70
+      "rank": 63
     },
     {
       "player": "Devin Booker",
@@ -856,7 +772,19 @@
       "first_mention": "2026-11-13",
       "last_mention": "2026-11-13",
       "team": "Phoenix Suns",
-      "rank": 71
+      "rank": 64
+    },
+    {
+      "player": "Dyson Daniels",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-11-17",
+      "last_mention": "2026-11-17",
+      "team": "Atlanta Hawks",
+      "rank": 65
     },
     {
       "player": "Franz Wagner",
@@ -868,7 +796,7 @@
       "first_mention": "2026-11-13",
       "last_mention": "2026-11-13",
       "team": "Orlando Magic",
-      "rank": 72
+      "rank": 66
     },
     {
       "player": "Jalen Suggs",
@@ -880,7 +808,7 @@
       "first_mention": "2026-11-13",
       "last_mention": "2026-11-13",
       "team": "Orlando Magic",
-      "rank": 73
+      "rank": 67
     },
     {
       "player": "Marvin Bagley",
@@ -892,7 +820,7 @@
       "first_mention": "2026-11-14",
       "last_mention": "2026-11-14",
       "team": "Atlanta Hawks",
-      "rank": 74
+      "rank": 68
     },
     {
       "player": "Max Christie",
@@ -904,7 +832,19 @@
       "first_mention": "2026-11-15",
       "last_mention": "2026-11-15",
       "team": "Dallas Mavericks",
-      "rank": 75
+      "rank": 69
+    },
+    {
+      "player": "Moses Moody",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-11-17",
+      "last_mention": "2026-11-17",
+      "team": "Golden State Warriors",
+      "rank": 70
     },
     {
       "player": "Nikola Jovic",
@@ -916,7 +856,31 @@
       "first_mention": "2026-11-15",
       "last_mention": "2026-11-15",
       "team": "Charlotte Hornets",
-      "rank": 76
+      "rank": 71
+    },
+    {
+      "player": "Nikola Vucevic",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-11-17",
+      "last_mention": "2026-11-17",
+      "team": "Chicago Bulls",
+      "rank": 72
+    },
+    {
+      "player": "Onyeka Okongwu",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-11-17",
+      "last_mention": "2026-11-17",
+      "team": "Atlanta Hawks",
+      "rank": 73
     },
     {
       "player": "Paolo Banchero",
@@ -928,7 +892,7 @@
       "first_mention": "2026-11-13",
       "last_mention": "2026-11-13",
       "team": "Orlando Magic",
-      "rank": 77
+      "rank": 74
     },
     {
       "player": "Rob Dillingham",
@@ -940,7 +904,19 @@
       "first_mention": "2026-11-13",
       "last_mention": "2026-11-13",
       "team": "Chicago Bulls",
-      "rank": 78
+      "rank": 75
+    },
+    {
+      "player": "Ryan Rollins",
+      "score": 0.5,
+      "mentions_week1": 0,
+      "mentions_week2": 1,
+      "mentions_weeks3_4": 0,
+      "total_mentions": 1,
+      "first_mention": "2026-11-17",
+      "last_mention": "2026-11-17",
+      "team": "Atlanta Hawks",
+      "rank": 76
     },
     {
       "player": "Aaron Wiggins",
@@ -952,7 +928,7 @@
       "first_mention": "2026-11-08",
       "last_mention": "2026-11-08",
       "team": "Atlanta Hawks",
-      "rank": 79
+      "rank": 77
     },
     {
       "player": "Ariel Hukporti",
@@ -964,7 +940,7 @@
       "first_mention": "2026-11-06",
       "last_mention": "2026-11-06",
       "team": "Philadelphia 76ers",
-      "rank": 80
+      "rank": 78
     },
     {
       "player": "Ausar Thompson",
@@ -976,7 +952,7 @@
       "first_mention": "2026-11-06",
       "last_mention": "2026-11-06",
       "team": "Detroit Pistons",
-      "rank": 81
+      "rank": 79
     },
     {
       "player": "Austin Reaves",
@@ -988,7 +964,7 @@
       "first_mention": "2026-11-06",
       "last_mention": "2026-11-06",
       "team": "Los Angeles Lakers",
-      "rank": 82
+      "rank": 80
     },
     {
       "player": "Ayo Dosunmu",
@@ -1000,7 +976,7 @@
       "first_mention": "2026-11-05",
       "last_mention": "2026-11-05",
       "team": "Chicago Bulls",
-      "rank": 83
+      "rank": 81
     },
     {
       "player": "Brandon Miller",
@@ -1012,7 +988,7 @@
       "first_mention": "2026-11-04",
       "last_mention": "2026-11-04",
       "team": "Charlotte Hornets",
-      "rank": 84
+      "rank": 82
     },
     {
       "player": "Cade Cunningham",
@@ -1024,7 +1000,7 @@
       "first_mention": "2026-10-31",
       "last_mention": "2026-10-31",
       "team": "Detroit Pistons",
-      "rank": 85
+      "rank": 83
     },
     {
       "player": "Caleb Martin",
@@ -1036,7 +1012,7 @@
       "first_mention": "2026-11-08",
       "last_mention": "2026-11-08",
       "team": "Dallas Mavericks",
-      "rank": 86
+      "rank": 84
     },
     {
       "player": "Cason Wallace",
@@ -1048,19 +1024,19 @@
       "first_mention": "2026-10-28",
       "last_mention": "2026-10-28",
       "team": "Oklahoma City Thunder",
-      "rank": 87
+      "rank": 85
     },
     {
-      "player": "Cedric Coward",
+      "player": "Chet Holmgren",
       "score": 0.25,
       "mentions_week1": 0,
       "mentions_week2": 0,
       "mentions_weeks3_4": 1,
       "total_mentions": 1,
-      "first_mention": "2026-10-27",
-      "last_mention": "2026-10-27",
-      "team": "Memphis Grizzlies",
-      "rank": 88
+      "first_mention": "2026-11-05",
+      "last_mention": "2026-11-05",
+      "team": "Oklahoma City Thunder",
+      "rank": 86
     },
     {
       "player": "Dalen Terry",
@@ -1072,7 +1048,7 @@
       "first_mention": "2026-11-08",
       "last_mention": "2026-11-08",
       "team": "Golden State Warriors",
-      "rank": 89
+      "rank": 87
     },
     {
       "player": "Daniel Gafford",
@@ -1084,7 +1060,7 @@
       "first_mention": "2026-11-08",
       "last_mention": "2026-11-08",
       "team": "Dallas Mavericks",
-      "rank": 90
+      "rank": 88
     },
     {
       "player": "De'Aaron Fox",
@@ -1096,7 +1072,7 @@
       "first_mention": "2026-11-09",
       "last_mention": "2026-11-09",
       "team": "San Antonio Spurs",
-      "rank": 91
+      "rank": 89
     },
     {
       "player": "Deni Avdija",
@@ -1108,7 +1084,7 @@
       "first_mention": "2026-11-03",
       "last_mention": "2026-11-03",
       "team": "Portland Trail Blazers",
-      "rank": 92
+      "rank": 90
     },
     {
       "player": "Dennis Schroeder",
@@ -1120,7 +1096,7 @@
       "first_mention": "2026-10-31",
       "last_mention": "2026-10-31",
       "team": "Charlotte Hornets",
-      "rank": 93
+      "rank": 91
     },
     {
       "player": "Dereck Lively",
@@ -1132,7 +1108,7 @@
       "first_mention": "2026-10-30",
       "last_mention": "2026-10-30",
       "team": "Dallas Mavericks",
-      "rank": 94
+      "rank": 92
     },
     {
       "player": "Derrick White",
@@ -1144,7 +1120,7 @@
       "first_mention": "2026-11-07",
       "last_mention": "2026-11-07",
       "team": "Boston Celtics",
-      "rank": 95
+      "rank": 93
     },
     {
       "player": "Evan Mobley",
@@ -1156,7 +1132,7 @@
       "first_mention": "2026-11-03",
       "last_mention": "2026-11-03",
       "team": "Cleveland Cavaliers",
-      "rank": 96
+      "rank": 94
     },
     {
       "player": "Grant Williams",
@@ -1168,7 +1144,7 @@
       "first_mention": "2026-11-09",
       "last_mention": "2026-11-09",
       "team": "Charlotte Hornets",
-      "rank": 97
+      "rank": 95
     },
     {
       "player": "Grayson Allen",
@@ -1180,19 +1156,7 @@
       "first_mention": "2026-11-09",
       "last_mention": "2026-11-09",
       "team": "Phoenix Suns",
-      "rank": 98
-    },
-    {
-      "player": "Isaiah Hartenstein",
-      "score": 0.25,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 1,
-      "first_mention": "2026-10-27",
-      "last_mention": "2026-10-27",
-      "team": "Oklahoma City Thunder",
-      "rank": 99
+      "rank": 96
     },
     {
       "player": "Jakob Poeltl",
@@ -1204,7 +1168,7 @@
       "first_mention": "2026-11-04",
       "last_mention": "2026-11-04",
       "team": "Toronto Raptors",
-      "rank": 100
+      "rank": 97
     },
     {
       "player": "Jamaree Bouyea",
@@ -1216,7 +1180,7 @@
       "first_mention": "2026-11-04",
       "last_mention": "2026-11-04",
       "team": "Philadelphia 76ers",
-      "rank": 101
+      "rank": 98
     },
     {
       "player": "Jaren Jackson Jr",
@@ -1228,7 +1192,7 @@
       "first_mention": "2026-11-03",
       "last_mention": "2026-11-03",
       "team": "Cleveland Cavaliers",
-      "rank": 102
+      "rank": 99
     },
     {
       "player": "Jarrett Allen",
@@ -1240,7 +1204,7 @@
       "first_mention": "2026-11-07",
       "last_mention": "2026-11-07",
       "team": "Cleveland Cavaliers",
-      "rank": 103
+      "rank": 100
     },
     {
       "player": "Jerami Grant",
@@ -1252,7 +1216,7 @@
       "first_mention": "2026-11-07",
       "last_mention": "2026-11-07",
       "team": "Atlanta Hawks",
-      "rank": 104
+      "rank": 101
     },
     {
       "player": "Jordan Poole",
@@ -1264,7 +1228,7 @@
       "first_mention": "2026-10-28",
       "last_mention": "2026-10-28",
       "team": "New Orleans Pelicans",
-      "rank": 105
+      "rank": 102
     },
     {
       "player": "Kevin Porter",
@@ -1276,7 +1240,7 @@
       "first_mention": "2026-11-08",
       "last_mention": "2026-11-08",
       "team": "Milwaukee Bucks",
-      "rank": 106
+      "rank": 103
     },
     {
       "player": "Kevon Looney",
@@ -1288,7 +1252,7 @@
       "first_mention": "2026-11-06",
       "last_mention": "2026-11-06",
       "team": "Los Angeles Lakers",
-      "rank": 107
+      "rank": 104
     },
     {
       "player": "Kon Knueppel",
@@ -1300,7 +1264,7 @@
       "first_mention": "2026-11-04",
       "last_mention": "2026-11-04",
       "team": "Charlotte Hornets",
-      "rank": 108
+      "rank": 105
     },
     {
       "player": "LaMelo Ball",
@@ -1312,7 +1276,7 @@
       "first_mention": "2026-11-04",
       "last_mention": "2026-11-04",
       "team": "Charlotte Hornets",
-      "rank": 109
+      "rank": 106
     },
     {
       "player": "LeBron James",
@@ -1324,7 +1288,7 @@
       "first_mention": "2026-11-05",
       "last_mention": "2026-11-05",
       "team": "Los Angeles Lakers",
-      "rank": 110
+      "rank": 107
     },
     {
       "player": "Malik Monk",
@@ -1336,7 +1300,7 @@
       "first_mention": "2026-11-06",
       "last_mention": "2026-11-06",
       "team": "Sacramento Kings",
-      "rank": 111
+      "rank": 108
     },
     {
       "player": "Myles Turner",
@@ -1348,7 +1312,7 @@
       "first_mention": "2026-11-04",
       "last_mention": "2026-11-04",
       "team": "Milwaukee Bucks",
-      "rank": 112
+      "rank": 109
     },
     {
       "player": "Paul George",
@@ -1360,7 +1324,7 @@
       "first_mention": "2026-11-05",
       "last_mention": "2026-11-05",
       "team": "Philadelphia 76ers",
-      "rank": 113
+      "rank": 110
     },
     {
       "player": "Scoot Henderson",
@@ -1372,7 +1336,7 @@
       "first_mention": "2026-11-01",
       "last_mention": "2026-11-01",
       "team": "Portland Trail Blazers",
-      "rank": 114
+      "rank": 111
     },
     {
       "player": "Stephen Curry",
@@ -1384,7 +1348,19 @@
       "first_mention": "2026-11-05",
       "last_mention": "2026-11-05",
       "team": "Golden State Warriors",
-      "rank": 115
+      "rank": 112
+    },
+    {
+      "player": "Ty Jerome",
+      "score": 0.25,
+      "mentions_week1": 0,
+      "mentions_week2": 0,
+      "mentions_weeks3_4": 1,
+      "total_mentions": 1,
+      "first_mention": "2026-10-28",
+      "last_mention": "2026-10-28",
+      "team": "Cleveland Cavaliers",
+      "rank": 113
     },
     {
       "player": "Tyrese Maxey",
@@ -1396,7 +1372,7 @@
       "first_mention": "2026-11-04",
       "last_mention": "2026-11-04",
       "team": "Philadelphia 76ers",
-      "rank": 116
+      "rank": 114
     },
     {
       "player": "Yves Missi",
@@ -1408,22 +1384,33 @@
       "first_mention": "2026-10-28",
       "last_mention": "2026-10-28",
       "team": "Golden State Warriors",
-      "rank": 117
-    },
-    {
-      "player": "Zach Edey",
-      "score": 0.25,
-      "mentions_week1": 0,
-      "mentions_week2": 0,
-      "mentions_weeks3_4": 1,
-      "total_mentions": 1,
-      "first_mention": "2026-10-27",
-      "last_mention": "2026-10-27",
-      "team": "Memphis Grizzlies",
-      "rank": 118
+      "rank": 115
     }
   ],
   "player_rumors": {
+    "Michael Porter": [
+      {
+        "date": "2026-11-24",
+        "text": "Michael Porter is a pending unrestricted free agent.As one still unsigned to an extension, he\u2019s widely expected by league personnel to be dealt by the trade deadline.He missed the Nov. 14 tilt in Memphis for personal reasons despite being on the bench in street clothes.New York Post",
+        "text_html": "Michael Porter is a pending unrestricted free agent. <a href=\"https://nypost.com/2026/11/24/sports/michael-porter-jr-tells-the-post-how-hes-dealing-with-latest-nets-funk/\" target=\"_blank\" style=\"color: #1a73e8;\">As one still unsigned to an extension, he\u2019s widely expected by league personnel to be dealt by the trade deadline.</a> He missed the Nov. 14 tilt in Memphis for personal reasons despite being on the bench in street clothes.",
+        "outlet": "New York Post",
+        "source_url": "https://nypost.com/2026/11/24/sports/michael-porter-jr-tells-the-post-how-hes-dealing-with-latest-nets-funk/"
+      },
+      {
+        "date": "2026-11-13",
+        "text": "If you call the Brooklyn Nets (3-8) about any of their players, they will listen. Per a team source, it\u2019s just that simple. Such is life when you\u2019re a rebuilding team, not to mention an organization that has two veterans \u2014 Michael Porter Jr. and Julius Randle \u2014 who could help any number of contenders. Those two players are widely discussed as top targets in league circles, with Porter (21.5 points and 7.5 rebounds per) above all the rest of the Nets. The 28-year-old small forward who won a title with Denver in 2023 is in the last year of his deal ($40.8 million). Randle, the 31-year-old forward who helped Minnesota reach the West finals in 2025, has a player option worth $35 million for next season.New York Times",
+        "text_html": "<a href=\"https://www.nytimes.com/athletic/7778064/2026/11/13/nba-trade-buzz-kyrie-irving-anthony-davis/\" target=\"_blank\" style=\"color: #1a73e8;\">If you call the Brooklyn Nets (3-8) about any of their players, they will listen. Per a team source, it\u2019s just that simple. Such is life when you\u2019re a rebuilding team, not to mention an organization that has two veterans \u2014 Michael Porter Jr. and Julius Randle \u2014 who could help any number of contenders</a>. Those two players are widely discussed as top targets in league circles, with Porter (21.5 points and 7.5 rebounds per) above all the rest of the Nets. The 28-year-old small forward who won a title with Denver in 2023 is in the last year of his deal ($40.8 million). Randle, the 31-year-old forward who helped Minnesota reach the West finals in 2025, has a player option worth $35 million for next season.",
+        "outlet": "New York Times",
+        "source_url": "https://www.nytimes.com/athletic/7778064/2026/11/13/nba-trade-buzz-kyrie-irving-anthony-davis/"
+      },
+      {
+        "date": "2026-11-07",
+        "text": "NBA Trade Machine:Derrick White was involved in 6.0% of all trades built on HoopsMatic over the past 24 hours.Of those, his top destinations were Milwaukee (10.9%), Brooklyn (9.8%), and Atlanta (8.7%). Players traded for him most often: Michael Porter (8.7%), Jerami Grant (6.5%), and Jarrett Allen (6.5%).HoopsMatic",
+        "text_html": "NBA Trade Machine: <a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">Derrick White was involved in 6.0% of all trades built on HoopsMatic over the past 24 hours.</a> Of those, his top destinations were Milwaukee (10.9%), Brooklyn (9.8%), and Atlanta (8.7%). Players traded for him most often: Michael Porter (8.7%), Jerami Grant (6.5%), and Jarrett Allen (6.5%).",
+        "outlet": "HoopsMatic",
+        "source_url": "https://hoopsmatic.com/"
+      }
+    ],
     "Jalen Smith": [
       {
         "date": "2026-11-24",
@@ -1988,20 +1975,6 @@
         "text_html": "NBACentral: <a href=\"https://x.com/thedunkcentral/status/2115164996610973804?s=46\" target=\"_blank\" style=\"color: #1a73e8;\">Brian Scalabrine goes OFF on Jaylen Brown</a> ? <a class=\"quote\" href=\"https://x.com/thedunkcentral/status/2115164996610973804?s=46\" onclick=\"return HHRumors.OpenLink(this,'g6MD-rMJAB');\" rel=\"nofollow\" title=\"Read more on x.com\">\u201cJaylen Brown wants to be the victim in all of this,</a> and this is the way he\u2019s doing it now. He\u2019s using me, or his PR team, or whatever it is, to play the victim, and he\u2019s not going to take responsibility for it. That\u2019s fine\u2026I just feel like he wants to say whatever he wants, and he doesn\u2019t want to be held accountable, just like on his Twitch. He wants his legacy to remain intact, and he\u2019s not going to take responsibility for the other stuff that he brings up. And this is just the beginning of it.\u201d",
         "outlet": "x.com",
         "source_url": "https://x.com/thedunkcentral/status/2115164996610973804?s=46"
-      },
-      {
-        "date": "2026-10-27",
-        "text": "\u201cMy understanding of this thing is that (Brown) demanded to be traded,\u201d Scalabrine said. \u201cNot through the media, but to the organization.\u201d Hours later, Scalabrine walked back parts of that report during NBC Sports Boston\u2019s pregame show\u201cTo be fair, after the 48 calls I\u2019ve fended today and I listened, he technically didn\u2019t demand any trade,\u201d he said. \u201c\u2026 I just summed it all up. I summed up the entire word salad and kept it simple. But I think that\u2019s what kind of got me in trouble there.\u201dBoston Herald",
-        "text_html": "\u201cMy understanding of this thing is that (Brown) demanded to be traded,\u201d Scalabrine said. \u201cNot through the media, but to the organization.\u201d Hours later, Scalabrine walked back parts of that report during NBC Sports Boston\u2019s pregame show <a href=\"https://www.bostonherald.com/2026/10/26/celtics-broadcaster-says-jaylen-brown-demanded-to-be-traded/\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cTo be fair, after the 48 calls I\u2019ve fended today and I listened, he technically didn\u2019t demand any trade,\u201d he said. \u201c\u2026 I just summed it all up. I summed up the entire word salad and kept it simple. But I think that\u2019s what kind of got me in trouble there.\u201d</a>",
-        "outlet": "Boston Herald",
-        "source_url": "https://www.bostonherald.com/2026/10/26/celtics-broadcaster-says-jaylen-brown-demanded-to-be-traded/"
-      },
-      {
-        "date": "2026-10-27",
-        "text": "He added: \u201cI don\u2019t know what the ultimatum was or the demands or whatever it was. So he technically did not demand to be traded. It was, \u2018Do these things right here or else.\u2019 And one of them might have been, like, \u2018Give me the $140 million extension\u2019(for which Brown would have been eligible this offseason). I haven\u2019t gotten to the bottom of all of that. I didn\u2019t even know this was going to be a thing.\u201dBoston Herald",
-        "text_html": "<a href=\"https://www.bostonherald.com/2026/10/26/celtics-broadcaster-says-jaylen-brown-demanded-to-be-traded/\" target=\"_blank\" style=\"color: #1a73e8;\">He added: \u201cI don\u2019t know what the ultimatum was or the demands or whatever it was. So he technically did not demand to be traded. It was, \u2018Do these things right here or else.\u2019 And one of them might have been, like, \u2018Give me the $140 million extension\u2019</a> (for which Brown would have been eligible this offseason). I haven\u2019t gotten to the bottom of all of that. I didn\u2019t even know this was going to be a thing.\u201d",
-        "outlet": "Boston Herald",
-        "source_url": "https://www.bostonherald.com/2026/10/26/celtics-broadcaster-says-jaylen-brown-demanded-to-be-traded/"
       }
     ],
     "Kyrie Irving": [
@@ -2280,13 +2253,6 @@
         "text_html": "Marc Stein: <a href=\"https://x.com/TheSteinLine/status/2115543881915781212\" target=\"_blank\" style=\"color: #1a73e8;\">Just spoke to a Pelicans official who tells @TheSteinLine that the team has not indicated a willingness to trade Herb Jones</a>. Jones played sparingly in the Pels' first three games. They have maintained a high threshold on trade interest in Trey Murphy III and Jones for months.",
         "outlet": "x.com",
         "source_url": "https://x.com/TheSteinLine/status/2115543881915781212"
-      },
-      {
-        "date": "2026-10-27",
-        "text": "As Bobby notes, Oklahoma City's financial situation will make it difficult to trade for another high-salary contributor. The only Thunder players making more than $7.8 million this season are effectively untradeable: Williams, Gilgeous-Alexander, Caruso, Chet Holmgren and Isaiah Hartenstein.Barring a shocking trade of one of those players -- a swap involving Williams is perhaps feasible in a vacuum if the Thunder want to maximize their championship chances this season, but it seems inconceivable in context -- the Thunder won't be able to match the salaries of potential targets such as Trey Murphy III (New Orleans) or Michael Porter Jr. (Brooklyn). Nor will they be able to replace Williams' rare combination of offense, defense and size.ESPN",
-        "text_html": "As Bobby notes, Oklahoma City's financial situation will make it difficult to trade for another high-salary contributor. The only Thunder players making more than $7.8 million this season are effectively untradeable: Williams, Gilgeous-Alexander, Caruso, Chet Holmgren and Isaiah Hartenstein. <a href=\"https://www.espn.com/nba/story/_/id/50287191/jalen-williams-cason-wallace-injured-next-thunder\" target=\"_blank\" style=\"color: #1a73e8;\">Barring a shocking trade of one of those players -- a swap involving Williams is perhaps feasible in a vacuum if the Thunder want to maximize their championship chances this season, but it seems inconceivable in context -- the Thunder won't be able to match the salaries of potential targets such as Trey Murphy III (New Orleans) or Michael Porter Jr. (Brooklyn). Nor will they be able to replace Williams' rare combination of offense, defense and size</a>.",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/50287191/jalen-williams-cason-wallace-injured-next-thunder"
       }
     ],
     "Tre Jones": [
@@ -2529,13 +2495,6 @@
         "text_html": "Q. You've already spoken about it. I know you're with your family when you found out, but what was your phone like after? were you getting messages from your former teammates? What was that moment like? Gradey Dick: Yeah, of course. I mean, we have a team group chat. A lot of guys hit me personally um you know, just sharing advice, sharing what kind of their personal experiences with being traded. It'd be my first time and stuff like that. <a href=\"https://www.youtube.com/watch?v=HqJqzDDk9wo&t=825s\" target=\"_blank\" style=\"color: #1a73e8;\">They're my brothers at the end of the day and yeah, we're not in the same team anymore, but I mean, it's all love and they know that too and they know that this is a business, but at the same time it's basketball, we've all been playing for many years and at the end of the day we're going to be friends.</a> Q. Well, one of your former teammates was on our last episode and when they heard you were going to be on they wanted to send a message. So, here is one of your former teammates who wanted to say hello. Garrett Temple: GD, it's your boy, your vet man, just shouting out. Hope you liking the sun out there in LA. I'm here for you if you need anything. I'm happy for what you're doing out there. Continue to play hard and do your thing, brother. I'm always here for you.",
         "outlet": "YouTube",
         "source_url": "https://www.youtube.com/watch?v=HqJqzDDk9wo&t=825s"
-      },
-      {
-        "date": "2026-10-27",
-        "text": "Tomer Azarly: Gradey Dick says his aunt used to babysit Keaton Wagler's dad. The two both grew up in Kansas.\u201cIt's kind of crazy, we didn't really know each other at all before this. When I found out the trade was going through and I was coming to LA, we knew we had that connection. A lot of random connections came from that. People in Kansas, everyone knows everyone. I found out my aunt used to babysit his dad.Something like that. Yeah, I don't know. Kansas.\u201dx.com",
-        "text_html": "Tomer Azarly: Gradey Dick says his aunt used to babysit Keaton Wagler's dad. The two both grew up in Kansas. <a href=\"https://x.com/TomerAzarly/status/2115181897387311601\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cIt's kind of crazy, we didn't really know each other at all before this. When I found out the trade was going through and I was coming to LA, we knew we had that connection. A lot of random connections came from that. People in Kansas, everyone knows everyone. I found out my aunt used to babysit his dad.</a> Something like that. Yeah, I don't know. Kansas.\u201d",
-        "outlet": "x.com",
-        "source_url": "https://x.com/TomerAzarly/status/2115181897387311601"
       }
     ],
     "Trae Young": [
@@ -2866,29 +2825,6 @@
         "text_html": "Therefore, according to NBA insider Jake Fischer, they are expecting that players like Michael Porter Jr. and Julius Randle will draw significant trade offers so they could acquire more draft capital and young players for the rebuild process. <a href=\"https://basketnews.com/news-258782-nets-expectations-for-michael-porter-jr-julius-randles-future-revealed.html\" target=\"_blank\" style=\"color: #1a73e8;\">\"Brooklyn, I would still categorize as a team that is in more of a sell situation. I believe that Brooklyn will hope that a Julius Randle, a Michael Porter Jr. could still potentially draw some real returns,\" Fischer said</a>. \"The Nets, they don't have their draft pick this year and they're looking to be better and compete in the Eastern Conference, take some strides forward in the East.",
         "outlet": "BasketNews",
         "source_url": "https://basketnews.com/news-258782-nets-expectations-for-michael-porter-jr-julius-randles-future-revealed.html"
-      }
-    ],
-    "Michael Porter": [
-      {
-        "date": "2026-11-13",
-        "text": "If you call the Brooklyn Nets (3-8) about any of their players, they will listen. Per a team source, it\u2019s just that simple. Such is life when you\u2019re a rebuilding team, not to mention an organization that has two veterans \u2014 Michael Porter Jr. and Julius Randle \u2014 who could help any number of contenders. Those two players are widely discussed as top targets in league circles, with Porter (21.5 points and 7.5 rebounds per) above all the rest of the Nets. The 28-year-old small forward who won a title with Denver in 2023 is in the last year of his deal ($40.8 million). Randle, the 31-year-old forward who helped Minnesota reach the West finals in 2025, has a player option worth $35 million for next season.New York Times",
-        "text_html": "<a href=\"https://www.nytimes.com/athletic/7778064/2026/11/13/nba-trade-buzz-kyrie-irving-anthony-davis/\" target=\"_blank\" style=\"color: #1a73e8;\">If you call the Brooklyn Nets (3-8) about any of their players, they will listen. Per a team source, it\u2019s just that simple. Such is life when you\u2019re a rebuilding team, not to mention an organization that has two veterans \u2014 Michael Porter Jr. and Julius Randle \u2014 who could help any number of contenders</a>. Those two players are widely discussed as top targets in league circles, with Porter (21.5 points and 7.5 rebounds per) above all the rest of the Nets. The 28-year-old small forward who won a title with Denver in 2023 is in the last year of his deal ($40.8 million). Randle, the 31-year-old forward who helped Minnesota reach the West finals in 2025, has a player option worth $35 million for next season.",
-        "outlet": "New York Times",
-        "source_url": "https://www.nytimes.com/athletic/7778064/2026/11/13/nba-trade-buzz-kyrie-irving-anthony-davis/"
-      },
-      {
-        "date": "2026-11-07",
-        "text": "NBA Trade Machine:Derrick White was involved in 6.0% of all trades built on HoopsMatic over the past 24 hours.Of those, his top destinations were Milwaukee (10.9%), Brooklyn (9.8%), and Atlanta (8.7%). Players traded for him most often: Michael Porter (8.7%), Jerami Grant (6.5%), and Jarrett Allen (6.5%).HoopsMatic",
-        "text_html": "NBA Trade Machine: <a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">Derrick White was involved in 6.0% of all trades built on HoopsMatic over the past 24 hours.</a> Of those, his top destinations were Milwaukee (10.9%), Brooklyn (9.8%), and Atlanta (8.7%). Players traded for him most often: Michael Porter (8.7%), Jerami Grant (6.5%), and Jarrett Allen (6.5%).",
-        "outlet": "HoopsMatic",
-        "source_url": "https://hoopsmatic.com/"
-      },
-      {
-        "date": "2026-10-27",
-        "text": "As Bobby notes, Oklahoma City's financial situation will make it difficult to trade for another high-salary contributor. The only Thunder players making more than $7.8 million this season are effectively untradeable: Williams, Gilgeous-Alexander, Caruso, Chet Holmgren and Isaiah Hartenstein.Barring a shocking trade of one of those players -- a swap involving Williams is perhaps feasible in a vacuum if the Thunder want to maximize their championship chances this season, but it seems inconceivable in context -- the Thunder won't be able to match the salaries of potential targets such as Trey Murphy III (New Orleans) or Michael Porter Jr. (Brooklyn). Nor will they be able to replace Williams' rare combination of offense, defense and size.ESPN",
-        "text_html": "As Bobby notes, Oklahoma City's financial situation will make it difficult to trade for another high-salary contributor. The only Thunder players making more than $7.8 million this season are effectively untradeable: Williams, Gilgeous-Alexander, Caruso, Chet Holmgren and Isaiah Hartenstein. <a href=\"https://www.espn.com/nba/story/_/id/50287191/jalen-williams-cason-wallace-injured-next-thunder\" target=\"_blank\" style=\"color: #1a73e8;\">Barring a shocking trade of one of those players -- a swap involving Williams is perhaps feasible in a vacuum if the Thunder want to maximize their championship chances this season, but it seems inconceivable in context -- the Thunder won't be able to match the salaries of potential targets such as Trey Murphy III (New Orleans) or Michael Porter Jr. (Brooklyn). Nor will they be able to replace Williams' rare combination of offense, defense and size</a>.",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/50287191/jalen-williams-cason-wallace-injured-next-thunder"
       }
     ],
     "Kristaps Porzingis": [
@@ -3321,13 +3257,6 @@
         "text_html": "NBA Trade Machine: Over the past 24 hours, <a href=\"https://hoopsmatic.com/\" target=\"_blank\" style=\"color: #1a73e8;\">Nikola Jokic featured in 5.9% of trades built on HoopsMatic.</a> Within his trades, he landed most often in Miami (48.8%), Oklahoma City (24.4%), and LA Lakers (4.9%). Most often, he was traded for Bam Adebayo (28.0%), Chet Holmgren (23.2%), and Jalen Williams (22.0%).",
         "outlet": "HoopsMatic",
         "source_url": "https://hoopsmatic.com/"
-      },
-      {
-        "date": "2026-10-27",
-        "text": "As Bobby notes, Oklahoma City's financial situation will make it difficult to trade for another high-salary contributor. The only Thunder players making more than $7.8 million this season are effectively untradeable: Williams, Gilgeous-Alexander, Caruso, Chet Holmgren and Isaiah Hartenstein.Barring a shocking trade of one of those players -- a swap involving Williams is perhaps feasible in a vacuum if the Thunder want to maximize their championship chances this season, but it seems inconceivable in context -- the Thunder won't be able to match the salaries of potential targets such as Trey Murphy III (New Orleans) or Michael Porter Jr. (Brooklyn). Nor will they be able to replace Williams' rare combination of offense, defense and size.ESPN",
-        "text_html": "As Bobby notes, Oklahoma City's financial situation will make it difficult to trade for another high-salary contributor. The only Thunder players making more than $7.8 million this season are effectively untradeable: Williams, Gilgeous-Alexander, Caruso, Chet Holmgren and Isaiah Hartenstein. <a href=\"https://www.espn.com/nba/story/_/id/50287191/jalen-williams-cason-wallace-injured-next-thunder\" target=\"_blank\" style=\"color: #1a73e8;\">Barring a shocking trade of one of those players -- a swap involving Williams is perhaps feasible in a vacuum if the Thunder want to maximize their championship chances this season, but it seems inconceivable in context -- the Thunder won't be able to match the salaries of potential targets such as Trey Murphy III (New Orleans) or Michael Porter Jr. (Brooklyn). Nor will they be able to replace Williams' rare combination of offense, defense and size</a>.",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/50287191/jalen-williams-cason-wallace-injured-next-thunder"
       }
     ],
     "Jalen Williams": [
@@ -3549,44 +3478,15 @@
         "text_html": "JPOSU: Brian Windhorst on potential OKC trades: <a href=\"https://x.com/JPOSU/status/2115474267542589447?a=cUHfASduBxBkIX-L1cQ&s=20\" target=\"_blank\" style=\"color: #1a73e8;\">\u201cAnd this is one thing I\u2019ve talked to executives about, and I don\u2019t mean to be cryptic, but I\u2019m being cryptic\u2026 if they're going to acquire a player, would not be a surprise, if they acquire a player they've already had.\u201d Fwiw later in the podcast when talking about the Grizz, Windy says he \u201cknows for sure\u201d that Ty Jerome was liked by OKC (and Cleveland and Golden State) while he was with those franchise.\"</a>",
         "outlet": "x.com",
         "source_url": "https://x.com/JPOSU/status/2115474267542589447?a=cUHfASduBxBkIX-L1cQ&s=20"
-      },
-      {
-        "date": "2026-10-27",
-        "text": "A disabled player exception, if granted by the league, can only be used on players who are only under contract for the current season in question, but Oklahoma City could certainly use one of its trade exceptions to take in a contract of that size.It seems relatively safe to presume that Jerome \u2014 whether or not Oklahoma City shows interest \u2014 is bound to generate trade feelers between now and the Feb. 11 trade deadline given Memphis' perceived focus on its young trio of Cam Boozer, Zach Edey and Cedric Coward.marcstein.substack.com",
-        "text_html": "A disabled player exception, if granted by the league, can only be used on players who are only under contract for the current season in question, but Oklahoma City could certainly use one of its trade exceptions to take in a contract of that size. <a href=\"https://marcstein.substack.com/p/the-latest-late-night-nba-intel-eb6\" target=\"_blank\" style=\"color: #1a73e8;\">It seems relatively safe to presume that Jerome \u2014 whether or not Oklahoma City shows interest \u2014 is bound to generate trade feelers between now and the Feb. 11 trade deadline given Memphis' perceived focus on its young trio of Cam Boozer, Zach Edey and Cedric Coward</a>.",
-        "outlet": "marcstein.substack.com",
-        "source_url": "https://marcstein.substack.com/p/the-latest-late-night-nba-intel-eb6"
-      }
-    ],
-    "Isaiah Hartenstein": [
-      {
-        "date": "2026-10-27",
-        "text": "As Bobby notes, Oklahoma City's financial situation will make it difficult to trade for another high-salary contributor. The only Thunder players making more than $7.8 million this season are effectively untradeable: Williams, Gilgeous-Alexander, Caruso, Chet Holmgren and Isaiah Hartenstein.Barring a shocking trade of one of those players -- a swap involving Williams is perhaps feasible in a vacuum if the Thunder want to maximize their championship chances this season, but it seems inconceivable in context -- the Thunder won't be able to match the salaries of potential targets such as Trey Murphy III (New Orleans) or Michael Porter Jr. (Brooklyn). Nor will they be able to replace Williams' rare combination of offense, defense and size.ESPN",
-        "text_html": "As Bobby notes, Oklahoma City's financial situation will make it difficult to trade for another high-salary contributor. The only Thunder players making more than $7.8 million this season are effectively untradeable: Williams, Gilgeous-Alexander, Caruso, Chet Holmgren and Isaiah Hartenstein. <a href=\"https://www.espn.com/nba/story/_/id/50287191/jalen-williams-cason-wallace-injured-next-thunder\" target=\"_blank\" style=\"color: #1a73e8;\">Barring a shocking trade of one of those players -- a swap involving Williams is perhaps feasible in a vacuum if the Thunder want to maximize their championship chances this season, but it seems inconceivable in context -- the Thunder won't be able to match the salaries of potential targets such as Trey Murphy III (New Orleans) or Michael Porter Jr. (Brooklyn). Nor will they be able to replace Williams' rare combination of offense, defense and size</a>.",
-        "outlet": "ESPN",
-        "source_url": "https://www.espn.com/nba/story/_/id/50287191/jalen-williams-cason-wallace-injured-next-thunder"
-      }
-    ],
-    "Zach Edey": [
-      {
-        "date": "2026-10-27",
-        "text": "A disabled player exception, if granted by the league, can only be used on players who are only under contract for the current season in question, but Oklahoma City could certainly use one of its trade exceptions to take in a contract of that size.It seems relatively safe to presume that Jerome \u2014 whether or not Oklahoma City shows interest \u2014 is bound to generate trade feelers between now and the Feb. 11 trade deadline given Memphis' perceived focus on its young trio of Cam Boozer, Zach Edey and Cedric Coward.marcstein.substack.com",
-        "text_html": "A disabled player exception, if granted by the league, can only be used on players who are only under contract for the current season in question, but Oklahoma City could certainly use one of its trade exceptions to take in a contract of that size. <a href=\"https://marcstein.substack.com/p/the-latest-late-night-nba-intel-eb6\" target=\"_blank\" style=\"color: #1a73e8;\">It seems relatively safe to presume that Jerome \u2014 whether or not Oklahoma City shows interest \u2014 is bound to generate trade feelers between now and the Feb. 11 trade deadline given Memphis' perceived focus on its young trio of Cam Boozer, Zach Edey and Cedric Coward</a>.",
-        "outlet": "marcstein.substack.com",
-        "source_url": "https://marcstein.substack.com/p/the-latest-late-night-nba-intel-eb6"
-      }
-    ],
-    "Cedric Coward": [
-      {
-        "date": "2026-10-27",
-        "text": "A disabled player exception, if granted by the league, can only be used on players who are only under contract for the current season in question, but Oklahoma City could certainly use one of its trade exceptions to take in a contract of that size.It seems relatively safe to presume that Jerome \u2014 whether or not Oklahoma City shows interest \u2014 is bound to generate trade feelers between now and the Feb. 11 trade deadline given Memphis' perceived focus on its young trio of Cam Boozer, Zach Edey and Cedric Coward.marcstein.substack.com",
-        "text_html": "A disabled player exception, if granted by the league, can only be used on players who are only under contract for the current season in question, but Oklahoma City could certainly use one of its trade exceptions to take in a contract of that size. <a href=\"https://marcstein.substack.com/p/the-latest-late-night-nba-intel-eb6\" target=\"_blank\" style=\"color: #1a73e8;\">It seems relatively safe to presume that Jerome \u2014 whether or not Oklahoma City shows interest \u2014 is bound to generate trade feelers between now and the Feb. 11 trade deadline given Memphis' perceived focus on its young trio of Cam Boozer, Zach Edey and Cedric Coward</a>.",
-        "outlet": "marcstein.substack.com",
-        "source_url": "https://marcstein.substack.com/p/the-latest-late-night-nba-intel-eb6"
       }
     ]
   },
   "daily_counts": {
+    "Michael Porter": {
+      "2026-11-24": 1,
+      "2026-11-13": 1,
+      "2026-11-07": 1
+    },
     "Jalen Smith": {
       "2026-11-24": 1,
       "2026-11-13": 2,
@@ -3666,8 +3566,7 @@
       "2026-11-17": 1,
       "2026-11-10": 4,
       "2026-11-09": 1,
-      "2026-10-28": 2,
-      "2026-10-27": 2
+      "2026-10-28": 2
     },
     "Kyrie Irving": {
       "2026-11-20": 1,
@@ -3708,8 +3607,7 @@
       "2026-11-20": 1,
       "2026-11-19": 2,
       "2026-10-29": 1,
-      "2026-10-28": 1,
-      "2026-10-27": 1
+      "2026-10-28": 1
     },
     "Tre Jones": {
       "2026-11-20": 1
@@ -3765,8 +3663,7 @@
       "2026-11-18": 1
     },
     "Gradey Dick": {
-      "2026-11-18": 1,
-      "2026-10-27": 1
+      "2026-11-18": 1
     },
     "Trae Young": {
       "2026-11-18": 1
@@ -3854,11 +3751,6 @@
     "Julius Randle": {
       "2026-11-13": 1,
       "2026-11-04": 1
-    },
-    "Michael Porter": {
-      "2026-11-13": 1,
-      "2026-11-07": 1,
-      "2026-10-27": 1
     },
     "Kristaps Porzingis": {
       "2026-11-13": 1,
@@ -3955,8 +3847,7 @@
       "2026-11-03": 1
     },
     "Chet Holmgren": {
-      "2026-11-05": 1,
-      "2026-10-27": 1
+      "2026-11-05": 1
     },
     "Jalen Williams": {
       "2026-11-05": 1,
@@ -4027,17 +3918,7 @@
       "2026-10-28": 1
     },
     "Ty Jerome": {
-      "2026-10-28": 1,
-      "2026-10-27": 1
-    },
-    "Isaiah Hartenstein": {
-      "2026-10-27": 1
-    },
-    "Zach Edey": {
-      "2026-10-27": 1
-    },
-    "Cedric Coward": {
-      "2026-10-27": 1
+      "2026-10-28": 1
     }
   }
 }
